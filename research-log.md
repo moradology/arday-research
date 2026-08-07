@@ -2243,6 +2243,22 @@ Discovery: Kahn et al. (2008) cites Edwards and Nicoll’s 2006 *British Educati
 Capture: requested JSTOR stable item `30032661` and `stable/pdf/30032661.pdf`. Both returned HTTP 403 and the same 5,815-byte JSTOR “Access Check” HTML; no article text, preview, or PDF binary was recovered. HTML, headers, and hashes are preserved under `assets/documents/research-integrity/edwards-nicoll-2006-jstor/`.
 
 Decision: update SRC-393 in place and add C-613 as a changed-route access boundary. The underlying primary-text comparison remains open; Kahn’s review and quotation remain separate evidence and are not upgraded into a substitute for Edwards/Nicoll’s version of record.
+# 2026-08-08 — SRC-516/C-654–C-655 National Review Ohio State affiliation report
+
+Discovery: the Guardian podcast’s visiting-professor thread and the existing host-domain audit pointed to the unresolved Ohio State claim. A direct search recovered Abigail Anthony’s 4 August 2026 *National Review* report, which quotes Ohio State spokesperson Benjamin Johnson saying the university had no record of an employee named Jason Arday. The article also reports the announced 28 February 2025 closure of the Office of Diversity and Inclusion and says Arday did not respond to a request for comment.
+
+Capture: preserved the article HTML, response headers, and featured image under `assets/captures/2026-08-08-national-review-arday-ohio/`. Added SRC-516 and C-654–C-655.
+
+Decision: treat this as a materially stronger institutional-response report, but do not convert “no record of an employee” into “no affiliation of any kind.” The open question is whether any formal non-employee visiting, honorary, adjunct, unpaid, or short-term association existed and what Ohio State’s own records say. Preserve the 2019–2022 positive biography witnesses as dated source versions; do not deduplicate them away or treat repetition as independent confirmation.
+
+# 2026-08-08 — SRC-515/C-652–C-653 WaterAid/relief-work search boundary
+
+Follow-up from the Guardian *Today in Focus* listening notes: searched exact-name combinations for Jason Arday with WaterAid/Water Aid, charity, West Africa, South America, and water points, including a direct WaterAid-domain query. No WaterAid-hosted project page, press release, staff/profile record, fundraising page, annual report, or country-programme document surfaced.
+
+Capture: preserved the public Simon & Schuster Speakers Bureau biography, which independently states that Arday undertook and completed relief work in South America and West Africa involving clean-water points. The page supplies no charity name, project, country, date, partner, or source. Added SRC-515 and C-652–C-653.
+
+Decision: treat the Speakers Bureau page as promotional propagation evidence, not direct WaterAid corroboration. Keep the underlying relief-work claim unresolved; the next useful evidence would be a WaterAid record, contemporaneous charity/project documentation, or a named partner. Do not repeat the same exact-name search family without a changed index or new lead.
+
 # 2026-08-07 — SRC-098/C-638–C-640 Guardian source-version recheck
 
 The canonical Guardian interactive investigation was re-fetched on 7 August 2026. The live page displayed a 7 August modification timestamp and a materially useful source-version: it reports Arday’s statement that multiple investigations, including an academic-misconduct panel, concluded there was no plagiarism or misconduct; reports that LJMU reviewed the work and found no plagiarism; describes the Guardian’s checks with named butchers and the Metropolitan police that contradicted parts of the reported severed-pig-head/police-investigation account; and records Arday’s clarification that the 600-mile challenge took 12 days with rest days rather than six consecutive days.
