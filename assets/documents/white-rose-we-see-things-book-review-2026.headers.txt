@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 19:39:07 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+ETag: 725cdd81a861250db3a4dd5bb3cf9dea
+Content-MD5: clzdgahhJQ2zpN1bs8+d6g==
+Last-Modified: Mon, 20 Jul 2026 11:30:31 GMT
+Expires: Fri, 06 Aug 2027 19:39:08 GMT
+Content-Disposition: inline; filename=Book%20Review_%20We%20see%20things%20they%27ll%20never%20see_final_190126.pdf
+Accept-Ranges: bytes
+Content-Length: 275819
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self';
+Content-Type: application/pdf
+

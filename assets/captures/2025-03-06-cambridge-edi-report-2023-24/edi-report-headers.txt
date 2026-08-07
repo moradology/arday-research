@@ -1,0 +1,9 @@
+HTTP/2 200 
+server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_ucam_webauth/2.0.5
+content-type: application/pdf
+date: Thu, 06 Aug 2026 20:46:16 GMT
+accept-ranges: bytes
+etag: "108e38b-630b2b0d00a40"
+last-modified: Wed, 19 Mar 2025 14:18:09 GMT
+content-length: 17359755
+

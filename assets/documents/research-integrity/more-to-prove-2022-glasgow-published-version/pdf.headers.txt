@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 15:00:10 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+ETag: 842eb54ae849372ceccb517953cfd717
+Content-MD5: hC61SuhJNyzsy1F5U8/XFw==
+Last-Modified: Mon, 04 Jul 2022 10:43:36 GMT
+Expires: Sat, 07 Aug 2027 15:00:10 GMT
+Content-Disposition: inline; filename=270719.pdf
+Accept-Ranges: bytes
+Content-Length: 1553842
+Content-Security-Policy: frame-ancestors 'self';
+Content-Type: application/pdf
+

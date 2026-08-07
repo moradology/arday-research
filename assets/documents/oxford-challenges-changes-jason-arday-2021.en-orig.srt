@@ -1,0 +1,6492 @@
+1
+00:00:00,000 --> 00:00:03,560
+I have been really looking forward to
+
+2
+00:00:01,920 --> 00:00:06,920
+today's talk because we are going to be
+
+3
+00:00:03,560 --> 00:00:09,440
+talking about race and racism in higher
+
+4
+00:00:06,920 --> 00:00:11,320
+education. And to me this topic is
+
+5
+00:00:09,440 --> 00:00:13,240
+really fitting for the series because my
+
+6
+00:00:11,320 --> 00:00:15,760
+frustrations
+
+7
+00:00:13,240 --> 00:00:17,680
+about racism and the lack of black,
+
+8
+00:00:15,760 --> 00:00:20,240
+Asian, and minority ethnic researchers
+
+9
+00:00:17,680 --> 00:00:22,400
+in physics are what inspired me to start
+
+10
+00:00:20,240 --> 00:00:24,640
+the challenges and change of series. And
+
+11
+00:00:22,400 --> 00:00:27,760
+I'm so excited to be able to introduce
+
+12
+00:00:24,640 --> 00:00:29,600
+our speaker for today, Dr. Jason Arday.
+
+13
+00:00:27,760 --> 00:00:32,040
+He is an assistant professor in
+
+14
+00:00:29,600 --> 00:00:34,160
+sociology at Durham University, and he
+
+15
+00:00:32,040 --> 00:00:35,640
+is a leading expert on the study of race
+
+16
+00:00:34,160 --> 00:00:37,480
+and education.
+
+17
+00:00:35,640 --> 00:00:39,920
+Now, I first came across Jason's work in
+
+18
+00:00:37,480 --> 00:00:41,640
+a BBC news article about the lack of PhD
+
+19
+00:00:39,920 --> 00:00:44,360
+funding awarded to black students in the
+
+20
+00:00:41,640 --> 00:00:46,800
+UK, and I knew we here at Oxford Physics
+
+21
+00:00:44,360 --> 00:00:49,440
+needed to hear about his research and
+
+22
+00:00:46,800 --> 00:00:51,160
+see what we can learn from it and how we
+
+23
+00:00:49,440 --> 00:00:52,560
+can be better.
+
+24
+00:00:51,160 --> 00:00:53,920
+He's done extensive work on the
+
+25
+00:00:52,560 --> 00:00:56,280
+importance of decolonizing the
+
+26
+00:00:53,920 --> 00:00:58,600
+curriculum, on how racism persists in
+
+27
+00:00:56,280 --> 00:01:01,320
+higher education, and how racism affects
+
+28
+00:00:58,600 --> 00:01:04,080
+the mental health of black, Asian, and
+
+29
+00:01:01,320 --> 00:01:06,160
+minority ethnic researchers. His work is
+
+30
+00:01:04,080 --> 00:01:07,800
+so important for us all regardless of
+
+31
+00:01:06,160 --> 00:01:09,560
+our research interests, and I think it's
+
+32
+00:01:07,800 --> 00:01:11,440
+incredibly fitting for the series. And
+
+33
+00:01:09,560 --> 00:01:14,680
+I'm so happy he agreed to come and talk
+
+34
+00:01:11,440 --> 00:01:16,240
+to us today. So, Jason, welcome, albeit
+
+35
+00:01:14,680 --> 00:01:18,000
+virtually, to the Oxford Physics
+
+36
+00:01:16,240 --> 00:01:20,520
+Department, and thank you so much, and
+
+37
+00:01:18,000 --> 00:01:23,160
+I'm so excited to hear from you.
+
+38
+00:01:20,520 --> 00:01:24,840
+Uh thank you so so much, Alex, and I
+
+39
+00:01:23,160 --> 00:01:26,960
+can't tell you how much
+
+40
+00:01:24,840 --> 00:01:28,240
+how much it means to be here. And you
+
+41
+00:01:26,960 --> 00:01:30,120
+know, the great thing about doing this
+
+42
+00:01:28,240 --> 00:01:31,920
+work is that you get to meet some pretty
+
+43
+00:01:30,120 --> 00:01:33,520
+cool people, and I would hold you very
+
+44
+00:01:31,920 --> 00:01:34,720
+highly amongst them. So, just thank you
+
+45
+00:01:33,520 --> 00:01:37,160
+so much for having me here. It really
+
+46
+00:01:34,720 --> 00:01:38,600
+means a lot. Massive thanks
+
+47
+00:01:37,160 --> 00:01:40,400
+to Catherine and to Anna who are doing a
+
+48
+00:01:38,600 --> 00:01:42,280
+lot of stuff behind the scenes as well.
+
+49
+00:01:40,400 --> 00:01:43,720
+And probably most importantly, good
+
+50
+00:01:42,280 --> 00:01:46,840
+afternoon, everyone. How's everyone
+
+51
+00:01:43,720 --> 00:01:48,440
+keeping? Is everyone well?
+
+52
+00:01:46,840 --> 00:01:49,720
+I guess I can't tell cuz I can't see
+
+53
+00:01:48,440 --> 00:01:51,520
+everyone, but I'm just hoping that
+
+54
+00:01:49,720 --> 00:01:53,240
+everyone's okay. So,
+
+55
+00:01:51,520 --> 00:01:54,240
+that's good. Thanks, Anna. Anna, that's
+
+56
+00:01:53,240 --> 00:01:55,840
+good.
+
+57
+00:01:54,240 --> 00:01:57,840
+Um so,
+
+58
+00:01:55,840 --> 00:02:00,280
+I mean, we're in a
+
+59
+00:01:57,840 --> 00:02:02,400
+interesting situation right now. Uh I
+
+60
+00:02:00,280 --> 00:02:04,800
+think there are several things
+
+61
+00:02:02,400 --> 00:02:07,400
+that kind of come to mind when we think
+
+62
+00:02:04,800 --> 00:02:09,440
+of race and racism institutionally,
+
+63
+00:02:07,400 --> 00:02:11,000
+structurally, but particularly within
+
+64
+00:02:09,440 --> 00:02:12,840
+higher education.
+
+65
+00:02:11,000 --> 00:02:14,320
+And I think the thing that comes to mind
+
+66
+00:02:12,840 --> 00:02:16,000
+at the moment or the word that I kind of
+
+67
+00:02:14,320 --> 00:02:17,560
+think about with all of
+
+68
+00:02:16,000 --> 00:02:18,880
+these kind of tenants associated with
+
+69
+00:02:17,560 --> 00:02:21,000
+racism
+
+70
+00:02:18,880 --> 00:02:23,640
+and even, you know, the sad murder of
+
+71
+00:02:21,000 --> 00:02:24,880
+Sarah Everard is vigilance.
+
+72
+00:02:23,640 --> 00:02:26,480
+At the moment, I think vigilance is the
+
+73
+00:02:24,880 --> 00:02:28,240
+issue. I think there's been a
+
+74
+00:02:26,480 --> 00:02:30,560
+complacency
+
+75
+00:02:28,240 --> 00:02:32,160
+that's become commonplace.
+
+76
+00:02:30,560 --> 00:02:34,160
+It's become part of the normal orthodoxy
+
+77
+00:02:32,160 --> 00:02:37,959
+in terms of how we socialize, how we
+
+78
+00:02:34,160 --> 00:02:41,280
+integrate in society, where people
+
+79
+00:02:37,959 --> 00:02:43,120
+are increasingly becoming victimized,
+
+80
+00:02:41,280 --> 00:02:44,840
+demonized, they're having their lives
+
+81
+00:02:43,120 --> 00:02:48,320
+placed at risk.
+
+82
+00:02:44,840 --> 00:02:49,800
+And I think for across the intersection,
+
+83
+00:02:48,320 --> 00:02:51,760
+this is troubling. I think when we think
+
+84
+00:02:49,800 --> 00:02:53,480
+specifically about race and racism and
+
+85
+00:02:51,760 --> 00:02:55,680
+we think about
+
+86
+00:02:53,480 --> 00:02:58,840
+how intersection works and how for a
+
+87
+00:02:55,680 --> 00:03:00,280
+person of color, how they traverse
+
+88
+00:02:58,840 --> 00:03:02,640
+society
+
+89
+00:03:00,280 --> 00:03:07,160
+whilst navigating issues around class,
+
+90
+00:03:02,640 --> 00:03:08,760
+sexuality gender, race, obviously
+
+91
+00:03:07,160 --> 00:03:10,280
+disability,
+
+92
+00:03:08,760 --> 00:03:12,200
+religion.
+
+93
+00:03:10,280 --> 00:03:14,519
+We we kind of see all of those we kind
+
+94
+00:03:12,200 --> 00:03:17,160
+of see it as almost
+
+95
+00:03:14,519 --> 00:03:18,760
+this kind of, I guess, in many respects
+
+96
+00:03:17,160 --> 00:03:21,000
+a process that kind of scaffolds on top
+
+97
+00:03:18,760 --> 00:03:23,080
+of one of the other and I think what's
+
+98
+00:03:21,000 --> 00:03:25,880
+been increasingly hard is for people to
+
+99
+00:03:23,080 --> 00:03:28,200
+metabolize that
+
+100
+00:03:25,880 --> 00:03:30,400
+we have these institutionally and
+
+101
+00:03:28,200 --> 00:03:32,360
+structurally racist structures.
+
+102
+00:03:30,400 --> 00:03:33,840
+And I think, to be honest, a couple of
+
+103
+00:03:32,360 --> 00:03:35,880
+years ago it was a non-argument, you
+
+104
+00:03:33,840 --> 00:03:39,239
+know, so and you know, these are some of
+
+105
+00:03:35,880 --> 00:03:41,400
+the retorts to the non-argument.
+
+106
+00:03:39,239 --> 00:03:43,000
+We're not as bad as America.
+
+107
+00:03:41,400 --> 00:03:45,640
+All lives matter. Black lives don't just
+
+108
+00:03:43,000 --> 00:03:48,680
+matter, all lives matter.
+
+109
+00:03:45,640 --> 00:03:52,640
+If the percentage of the UK populace,
+
+110
+00:03:48,680 --> 00:03:54,520
+according to the 2011 census, is 14% are
+
+111
+00:03:52,640 --> 00:03:56,320
+come are made up from a BAME background
+
+112
+00:03:54,520 --> 00:03:58,240
+and they're only 4% outcome of black
+
+113
+00:03:56,320 --> 00:04:00,440
+background, then actually having a wider
+
+114
+00:03:58,240 --> 00:04:02,040
+representation higher education of 13%
+
+115
+00:04:00,440 --> 00:04:04,320
+is not so bad.
+
+116
+00:04:02,040 --> 00:04:06,640
+Now, I guess the juxtaposition
+
+117
+00:04:04,320 --> 00:04:09,040
+to this is that
+
+118
+00:04:06,640 --> 00:04:11,160
+within the UK we have a migration every
+
+119
+00:04:09,040 --> 00:04:12,320
+year of around a million students around
+
+120
+00:04:11,160 --> 00:04:15,200
+the UK.
+
+121
+00:04:12,320 --> 00:04:17,239
+And since 2003, we've seen numbers very
+
+122
+00:04:15,200 --> 00:04:18,760
+many increase in terms of number of
+
+123
+00:04:17,239 --> 00:04:21,320
+black and ethnic minority people going
+
+124
+00:04:18,760 --> 00:04:22,760
+to university. Now, of that million
+
+125
+00:04:21,320 --> 00:04:26,520
+students
+
+126
+00:04:22,760 --> 00:04:28,040
+as of 2015, just over half of that, just
+
+127
+00:04:26,520 --> 00:04:31,320
+over half of that are now from black and
+
+128
+00:04:28,040 --> 00:04:31,320
+ethnic minority backgrounds.
+
+129
+00:04:31,360 --> 00:04:35,160
+2/3 of that half will go on to
+
+130
+00:04:33,320 --> 00:04:37,680
+postgraduate study
+
+131
+00:04:35,160 --> 00:04:39,680
+and then we're seeing that chasm, that
+
+132
+00:04:37,680 --> 00:04:42,040
+slippage in the pipeline, which has been
+
+133
+00:04:39,680 --> 00:04:45,040
+really, really huge. So, in other words
+
+134
+00:04:42,040 --> 00:04:46,640
+black people are applying and Asian and
+
+135
+00:04:45,040 --> 00:04:50,240
+minority ethnic are applying for PhD
+
+136
+00:04:46,640 --> 00:04:52,960
+studentships, but as we know 30,000
+
+137
+00:04:50,240 --> 00:04:56,760
+PhD studentships were awarded
+
+138
+00:04:52,960 --> 00:04:56,760
+in 2018-2019
+
+139
+00:04:56,960 --> 00:05:02,800
+and only 30 were awarded to black
+
+140
+00:05:00,919 --> 00:05:05,120
+Caribbean students. So, that's out of
+
+141
+00:05:02,800 --> 00:05:07,560
+30,000. And that was part of the kind of
+
+142
+00:05:05,120 --> 00:05:08,880
+groundbreaking research that was led by
+
+143
+00:05:07,560 --> 00:05:10,919
+Paulette Williams of Leading Roots,
+
+144
+00:05:08,880 --> 00:05:12,240
+which I was fortunate enough to be a
+
+145
+00:05:10,919 --> 00:05:14,520
+part of
+
+146
+00:05:12,240 --> 00:05:16,320
+with Chantel
+
+147
+00:05:14,520 --> 00:05:17,480
+Lewis and Sukhi Bath.
+
+148
+00:05:16,320 --> 00:05:19,840
+And there's some really kind of
+
+149
+00:05:17,480 --> 00:05:21,120
+interesting
+
+150
+00:05:19,840 --> 00:05:23,919
+tenants around that, because when we
+
+151
+00:05:21,120 --> 00:05:26,240
+presented that research to OfS, there
+
+152
+00:05:23,919 --> 00:05:28,760
+was a reluctance to accept that
+
+153
+00:05:26,240 --> 00:05:31,600
+information's made inaccessible. There
+
+154
+00:05:28,760 --> 00:05:33,720
+aren't opportunities for BAME people to
+
+155
+00:05:31,600 --> 00:05:34,919
+progress throughout the academy. And
+
+156
+00:05:33,720 --> 00:05:36,960
+actually, we have these inherent
+
+157
+00:05:34,919 --> 00:05:39,440
+structures that in many ways have been
+
+158
+00:05:36,960 --> 00:05:40,680
+designed to ensure that black and ethnic
+
+159
+00:05:39,440 --> 00:05:43,800
+minority people don't progress
+
+160
+00:05:40,680 --> 00:05:45,840
+throughout the academy. And you know, I
+
+161
+00:05:43,800 --> 00:05:47,360
+myself don't have a benign own
+
+162
+00:05:45,840 --> 00:05:48,880
+with statistics and numbers, but very
+
+163
+00:05:47,360 --> 00:05:50,640
+often I'm in a situation where I have to
+
+164
+00:05:48,880 --> 00:05:52,440
+paint the picture, you know, I have this
+
+165
+00:05:50,640 --> 00:05:55,240
+canvas and I have to illustrate to
+
+166
+00:05:52,440 --> 00:05:57,480
+people just how bad things really are
+
+167
+00:05:55,240 --> 00:05:58,960
+just to get a perspective of where we
+
+168
+00:05:57,480 --> 00:06:02,280
+need to be going.
+
+169
+00:05:58,960 --> 00:06:05,200
+So, 20,000 professors in the UK, or just
+
+170
+00:06:02,280 --> 00:06:08,160
+over 20,000 professors in the UK.
+
+171
+00:06:05,200 --> 00:06:10,760
+15 and 1/2 thousand are white male.
+
+172
+00:06:08,160 --> 00:06:13,640
+4 and 1/2 thousand are white women.
+
+173
+00:06:10,760 --> 00:06:15,680
+And 35 are black women.
+
+174
+00:06:13,640 --> 00:06:17,919
+And you have a further
+
+175
+00:06:15,680 --> 00:06:20,240
+90 that are black men.
+
+176
+00:06:17,919 --> 00:06:23,640
+So, we're talking about less than 1% of
+
+177
+00:06:20,240 --> 00:06:25,680
+the professoriate in the UK
+
+178
+00:06:23,640 --> 00:06:27,520
+are black.
+
+179
+00:06:25,680 --> 00:06:28,919
+And when you bear in mind the migration
+
+180
+00:06:27,520 --> 00:06:31,480
+of uh
+
+181
+00:06:28,919 --> 00:06:32,480
+BAME people in higher education, you
+
+182
+00:06:31,480 --> 00:06:34,360
+would think the numbers would actually
+
+183
+00:06:32,480 --> 00:06:36,800
+be more than that because a significant
+
+184
+00:06:34,360 --> 00:06:37,960
+amount go on to postgraduate study.
+
+185
+00:06:36,800 --> 00:06:40,000
+Now, the thing that I always kind of
+
+186
+00:06:37,960 --> 00:06:43,800
+find interesting is when we look at
+
+187
+00:06:40,000 --> 00:06:45,680
+career trajectory, career um
+
+188
+00:06:43,800 --> 00:06:47,680
+trajectories, one of the things that's
+
+189
+00:06:45,680 --> 00:06:49,880
+always really interesting is marrying
+
+190
+00:06:47,680 --> 00:06:51,680
+these trajectories against the
+
+191
+00:06:49,880 --> 00:06:53,640
+intersection.
+
+192
+00:06:51,680 --> 00:06:55,520
+So, for example, if you're a woman of
+
+193
+00:06:53,640 --> 00:06:57,000
+color,
+
+194
+00:06:55,520 --> 00:06:59,560
+um
+
+195
+00:06:57,000 --> 00:07:01,040
+what would your salary earnings be if
+
+196
+00:06:59,560 --> 00:07:02,600
+you had the same qualification, same
+
+197
+00:07:01,040 --> 00:07:05,000
+skill set, same publication rate in
+
+198
+00:07:02,600 --> 00:07:06,280
+comparison to your white counterpart?
+
+199
+00:07:05,000 --> 00:07:08,280
+Now, if we just take the Russell Group
+
+200
+00:07:06,280 --> 00:07:12,480
+as an example, I was fortunate enough to
+
+201
+00:07:08,280 --> 00:07:14,760
+do a study with the BBC in 2018 where we
+
+202
+00:07:12,480 --> 00:07:19,640
+um undertook a study of
+
+203
+00:07:14,760 --> 00:07:22,280
+the pay differentials between academics
+
+204
+00:07:19,640 --> 00:07:23,320
+um by ethnicity within the Russell
+
+205
+00:07:22,280 --> 00:07:26,280
+Group.
+
+206
+00:07:23,320 --> 00:07:28,520
+So, the average salary for a white
+
+207
+00:07:26,280 --> 00:07:30,280
+academic in the Russell Group is 52,000
+
+208
+00:07:28,520 --> 00:07:32,120
+pounds.
+
+209
+00:07:30,280 --> 00:07:36,160
+The average salary for a black academic
+
+210
+00:07:32,120 --> 00:07:37,680
+in the Russell Group is 38,000 pounds.
+
+211
+00:07:36,160 --> 00:07:39,760
+And the average salary from anyone from
+
+212
+00:07:37,680 --> 00:07:42,080
+an Arab background in the academy is
+
+213
+00:07:39,760 --> 00:07:45,200
+32,000 pounds. So, we're looking at a
+
+214
+00:07:42,080 --> 00:07:46,560
+differential of £14,000.
+
+215
+00:07:45,200 --> 00:07:49,560
+Even though
+
+216
+00:07:46,560 --> 00:07:51,880
+many uh BAME academics will be as
+
+217
+00:07:49,560 --> 00:07:54,000
+qualified, will be as capable, will have
+
+218
+00:07:51,880 --> 00:07:57,040
+met the criteria, but it's about the
+
+219
+00:07:54,000 --> 00:07:59,840
+structures that are interwoven within
+
+220
+00:07:57,040 --> 00:08:02,400
+our progressive um
+
+221
+00:07:59,840 --> 00:08:03,760
+and in many respects um discriminatory
+
+222
+00:08:02,400 --> 00:08:04,960
+and systemic cultures within the
+
+223
+00:08:03,760 --> 00:08:06,880
+academy.
+
+224
+00:08:04,960 --> 00:08:08,240
+And so, like I said, it does become
+
+225
+00:08:06,880 --> 00:08:10,360
+really important to think of those
+
+226
+00:08:08,240 --> 00:08:11,920
+numbers because I guess
+
+227
+00:08:10,360 --> 00:08:13,480
+we have we're we're kind of live on this
+
+228
+00:08:11,920 --> 00:08:16,320
+carousel of numbers. There's lots of
+
+229
+00:08:13,480 --> 00:08:17,760
+numbers and statistics flying around.
+
+230
+00:08:16,320 --> 00:08:19,160
+But the actual only narrative that
+
+231
+00:08:17,760 --> 00:08:21,720
+matters
+
+232
+00:08:19,160 --> 00:08:24,240
+is that BAME people are significantly
+
+233
+00:08:21,720 --> 00:08:26,640
+disadvantaged in the academy
+
+234
+00:08:24,240 --> 00:08:28,840
+because of the color of their skin.
+
+235
+00:08:26,640 --> 00:08:31,680
+And the centrality of whiteness
+
+236
+00:08:28,840 --> 00:08:34,039
+makes it an issue for people of color
+
+237
+00:08:31,680 --> 00:08:35,479
+to be subjugated and to be disadvantaged
+
+238
+00:08:34,039 --> 00:08:36,960
+in this way.
+
+239
+00:08:35,479 --> 00:08:38,880
+Now, for me,
+
+240
+00:08:36,960 --> 00:08:41,039
+I always say we can engage in mature
+
+241
+00:08:38,880 --> 00:08:43,680
+debates about this. Um and mature
+
+242
+00:08:41,039 --> 00:08:45,760
+debates about this from in my opinion
+
+243
+00:08:43,680 --> 00:08:47,520
+don't involve statistics. I should never
+
+244
+00:08:45,760 --> 00:08:49,280
+have to really paint out statistics. In
+
+245
+00:08:47,520 --> 00:08:52,560
+other words, if a person of color says
+
+246
+00:08:49,280 --> 00:08:57,320
+that they are experiencing racism, why
+
+247
+00:08:52,560 --> 00:08:59,040
+do we neutralize or challenge or
+
+248
+00:08:57,320 --> 00:09:00,880
+or question
+
+249
+00:08:59,040 --> 00:09:02,120
+that experience?
+
+250
+00:09:00,880 --> 00:09:04,680
+The Meghan Markle interview, for
+
+251
+00:09:02,120 --> 00:09:04,680
+example.
+
+252
+00:09:06,280 --> 00:09:11,000
+There's an irony lost. There's no irony
+
+253
+00:09:08,560 --> 00:09:13,880
+lost on any person of color that a white
+
+254
+00:09:11,000 --> 00:09:15,880
+middle-class man would question
+
+255
+00:09:13,880 --> 00:09:18,120
+whether a woman of color has encountered
+
+256
+00:09:15,880 --> 00:09:20,200
+racism or not. In fact, not question,
+
+257
+00:09:18,120 --> 00:09:22,880
+would abstractly deny that that person
+
+258
+00:09:20,200 --> 00:09:25,440
+has encountered racism.
+
+259
+00:09:22,880 --> 00:09:28,280
+Would make a claim that actually
+
+260
+00:09:25,440 --> 00:09:30,320
+they have spoken about how racism among
+
+261
+00:09:28,280 --> 00:09:31,560
+with along with other compounding
+
+262
+00:09:30,320 --> 00:09:33,839
+factors
+
+263
+00:09:31,560 --> 00:09:35,440
+was a factor in potentially engaging in
+
+264
+00:09:33,839 --> 00:09:36,720
+suicidal thought
+
+265
+00:09:35,440 --> 00:09:38,480
+or change of
+
+266
+00:09:36,720 --> 00:09:41,120
+state.
+
+267
+00:09:38,480 --> 00:09:43,200
+But, interestingly, the centrality of
+
+268
+00:09:41,120 --> 00:09:44,520
+whiteness allows white people to always
+
+269
+00:09:43,200 --> 00:09:47,640
+question
+
+270
+00:09:44,520 --> 00:09:49,480
+um or neutralize the experiences
+
+271
+00:09:47,640 --> 00:09:51,880
+of people of color when it comes to
+
+272
+00:09:49,480 --> 00:09:54,800
+experiencing racism. So, when we think
+
+273
+00:09:51,880 --> 00:09:57,800
+about how people talk about racism,
+
+274
+00:09:54,800 --> 00:09:59,400
+um there is kind of this idea of And
+
+275
+00:09:57,800 --> 00:10:00,880
+again, I always come back to the
+
+276
+00:09:59,400 --> 00:10:02,320
+rejection of the idea that people are
+
+277
+00:10:00,880 --> 00:10:04,160
+encountering racism.
+
+278
+00:10:02,320 --> 00:10:05,840
+They're playing the race card. It's got
+
+279
+00:10:04,160 --> 00:10:06,680
+nothing to do with race.
+
+280
+00:10:05,840 --> 00:10:08,000
+I think you're being slightly
+
+281
+00:10:06,680 --> 00:10:10,080
+hypersensitive.
+
+282
+00:10:08,000 --> 00:10:11,880
+We live in a color-blind society, you
+
+283
+00:10:10,080 --> 00:10:13,480
+know, where we're postmodern. We we we
+
+284
+00:10:11,880 --> 00:10:15,520
+we're not living in a racialized society
+
+285
+00:10:13,480 --> 00:10:16,840
+anymore. I think sometimes people just
+
+286
+00:10:15,520 --> 00:10:18,640
+look for race
+
+287
+00:10:16,840 --> 00:10:19,880
+racism in anything.
+
+288
+00:10:18,640 --> 00:10:21,320
+You know, and it's really interesting
+
+289
+00:10:19,880 --> 00:10:23,320
+because I guess
+
+290
+00:10:21,320 --> 00:10:24,480
+you know, the paradox to that is that
+
+291
+00:10:23,320 --> 00:10:26,120
+when we're talking about the white
+
+292
+00:10:24,480 --> 00:10:27,360
+working class, we're not looking for
+
+293
+00:10:26,120 --> 00:10:28,520
+race in that.
+
+294
+00:10:27,360 --> 00:10:29,800
+And what's interesting is the white
+
+295
+00:10:28,520 --> 00:10:31,720
+working class as a narrative is
+
+296
+00:10:29,800 --> 00:10:34,160
+extremely important.
+
+297
+00:10:31,720 --> 00:10:36,120
+And it occupies the center ground
+
+298
+00:10:34,160 --> 00:10:38,520
+on its own because of its level of
+
+299
+00:10:36,120 --> 00:10:41,200
+importance, and rightly so. When we talk
+
+300
+00:10:38,520 --> 00:10:42,400
+about race, race has always been on the
+
+301
+00:10:41,200 --> 00:10:43,920
+periphery.
+
+302
+00:10:42,400 --> 00:10:45,000
+And the minute it occupies political
+
+303
+00:10:43,920 --> 00:10:47,800
+center,
+
+304
+00:10:45,000 --> 00:10:49,680
+we then have to compromise that
+
+305
+00:10:47,800 --> 00:10:51,480
+and balance it by saying, "What about
+
+306
+00:10:49,680 --> 00:10:53,080
+the white working class?"
+
+307
+00:10:51,480 --> 00:10:55,120
+Now, it's this idea that they both can't
+
+308
+00:10:53,080 --> 00:10:56,920
+go hand in hand.
+
+309
+00:10:55,120 --> 00:10:59,160
+Um and I find that really interesting
+
+310
+00:10:56,920 --> 00:11:00,920
+because one is clearly positioned as
+
+311
+00:10:59,160 --> 00:11:04,200
+more important than the other, but it's
+
+312
+00:11:00,920 --> 00:11:06,000
+this kind of again neutralization of um
+
+313
+00:11:04,200 --> 00:11:09,160
+racism in that it shouldn't be a
+
+314
+00:11:06,000 --> 00:11:11,440
+priority issue. Now, when we think of
+
+315
+00:11:09,160 --> 00:11:15,160
+how people navigate
+
+316
+00:11:11,440 --> 00:11:17,360
+um racism on an everyday basis,
+
+317
+00:11:15,160 --> 00:11:19,680
+this is the reality of what it is. Most
+
+318
+00:11:17,360 --> 00:11:21,480
+people, if not all people who negotiate
+
+319
+00:11:19,680 --> 00:11:24,080
+racism,
+
+320
+00:11:21,480 --> 00:11:26,839
+they're not thriving, they're surviving.
+
+321
+00:11:24,080 --> 00:11:29,080
+They're trying to survive in
+
+322
+00:11:26,839 --> 00:11:31,720
+an institutionally and structurally
+
+323
+00:11:29,080 --> 00:11:32,840
+racist society.
+
+324
+00:11:31,720 --> 00:11:35,400
+Now, I think that becomes really
+
+325
+00:11:32,840 --> 00:11:37,440
+important in all of that.
+
+326
+00:11:35,400 --> 00:11:39,760
+I am yet to meet a person of color in my
+
+327
+00:11:37,440 --> 00:11:42,360
+35 years of life who has ever said to
+
+328
+00:11:39,760 --> 00:11:44,880
+me, "I want to encounter racism."
+
+329
+00:11:42,360 --> 00:11:45,880
+So, you know, it's a birthright almost
+
+330
+00:11:44,880 --> 00:11:48,320
+if you want to if you want to look at it
+
+331
+00:11:45,880 --> 00:11:49,720
+like that. You are a person of color,
+
+332
+00:11:48,320 --> 00:11:51,120
+you come out of the womb, and you can
+
+333
+00:11:49,720 --> 00:11:54,000
+almost guarantee that you will
+
+334
+00:11:51,120 --> 00:11:56,600
+experience some form of racism. If
+
+335
+00:11:54,000 --> 00:11:57,760
+you're fortunate, maybe once. Um if
+
+336
+00:11:56,600 --> 00:11:59,080
+you're unfortunate, it'll be every
+
+337
+00:11:57,760 --> 00:12:01,040
+single day of your life, and for many
+
+338
+00:11:59,080 --> 00:12:02,160
+people it is. The argument should be you
+
+339
+00:12:01,040 --> 00:12:03,520
+shouldn't even have to experience it in
+
+340
+00:12:02,160 --> 00:12:06,080
+the first place.
+
+341
+00:12:03,520 --> 00:12:08,000
+Once is bad enough. Once is as bad as a
+
+342
+00:12:06,080 --> 00:12:10,760
+million times.
+
+343
+00:12:08,000 --> 00:12:12,040
+But, it then becomes beholden on white
+
+344
+00:12:10,760 --> 00:12:13,800
+people
+
+345
+00:12:12,040 --> 00:12:16,080
+to think about how we reconceptualize
+
+346
+00:12:13,800 --> 00:12:17,680
+allyship and anti-racist endeavor. And
+
+347
+00:12:16,080 --> 00:12:21,160
+for me, a huge part of that is thinking
+
+348
+00:12:17,680 --> 00:12:23,840
+about how we disrupt patterns of racism,
+
+349
+00:12:21,160 --> 00:12:27,520
+how we disrupt complicities in racism,
+
+350
+00:12:23,840 --> 00:12:28,800
+and how we look to center the voices of
+
+351
+00:12:27,520 --> 00:12:31,440
+um
+
+352
+00:12:28,800 --> 00:12:33,440
+ethnic minority people, people of color.
+
+353
+00:12:31,440 --> 00:12:35,600
+That becomes hugely, hugely important
+
+354
+00:12:33,440 --> 00:12:37,839
+because very often people of color don't
+
+355
+00:12:35,600 --> 00:12:40,839
+occupy spaces and they do don't have
+
+356
+00:12:37,839 --> 00:12:43,240
+equal agency in being able to challenge
+
+357
+00:12:40,839 --> 00:12:45,960
+instances of racism. So, it's about how
+
+358
+00:12:43,240 --> 00:12:47,800
+we It's not so much Yes, you can talk
+
+359
+00:12:45,960 --> 00:12:49,240
+about the giving up of privilege, but I
+
+360
+00:12:47,800 --> 00:12:51,000
+think there's a central argument to how
+
+361
+00:12:49,240 --> 00:12:54,520
+people use privilege.
+
+362
+00:12:51,000 --> 00:12:56,080
+And how they use it to disrupt
+
+363
+00:12:54,520 --> 00:12:59,560
+cycles
+
+364
+00:12:56,080 --> 00:13:02,360
+of racial discrimination in favor of
+
+365
+00:12:59,560 --> 00:13:04,520
+creating an intersectionally egalitarian
+
+366
+00:13:02,360 --> 00:13:07,320
+equal space. And that for me becomes
+
+367
+00:13:04,520 --> 00:13:08,800
+hugely important.
+
+368
+00:13:07,320 --> 00:13:11,080
+I just want to kind of finish on one
+
+369
+00:13:08,800 --> 00:13:13,400
+thing. I think
+
+370
+00:13:11,080 --> 00:13:18,400
+when we think about race and racism,
+
+371
+00:13:13,400 --> 00:13:19,839
+there is a huge underestimation of
+
+372
+00:13:18,400 --> 00:13:21,920
+the impact this has on people's
+
+373
+00:13:19,839 --> 00:13:23,480
+psychological well-being.
+
+374
+00:13:21,920 --> 00:13:26,800
+Um
+
+375
+00:13:23,480 --> 00:13:29,000
+I I have interviewed I think over 400
+
+376
+00:13:26,800 --> 00:13:31,080
+people, people of color,
+
+377
+00:13:29,000 --> 00:13:33,800
+over 5-year period
+
+378
+00:13:31,080 --> 00:13:36,480
+and doing a lot of work on race
+
+379
+00:13:33,800 --> 00:13:38,360
+and working a lot in terms of around
+
+380
+00:13:36,480 --> 00:13:41,640
+race and mental health.
+
+381
+00:13:38,360 --> 00:13:43,720
+And what's always really interesting is
+
+382
+00:13:41,640 --> 00:13:46,520
+the strategies people use to get through
+
+383
+00:13:43,720 --> 00:13:48,320
+a day at work.
+
+384
+00:13:46,520 --> 00:13:50,920
+And what I always say is work doesn't
+
+385
+00:13:48,320 --> 00:13:52,560
+exhaust me, it's the circumnavigating of
+
+386
+00:13:50,920 --> 00:13:54,640
+the landmines
+
+387
+00:13:52,560 --> 00:13:56,800
+that exist in relation to racism. You
+
+388
+00:13:54,640 --> 00:13:58,880
+know, I'm always not too far from
+
+389
+00:13:56,800 --> 00:14:00,360
+walking on this landmine of racism. So,
+
+390
+00:13:58,880 --> 00:14:01,720
+an example of this might be the racial
+
+391
+00:14:00,360 --> 00:14:03,840
+microaggression.
+
+392
+00:14:01,720 --> 00:14:05,360
+An example of this may be
+
+393
+00:14:03,840 --> 00:14:07,160
+watching your white counterparts
+
+394
+00:14:05,360 --> 00:14:08,840
+progress whilst you have the same
+
+395
+00:14:07,160 --> 00:14:10,720
+experience, the same qualifications, the
+
+396
+00:14:08,840 --> 00:14:13,080
+same levels of competence, but you're
+
+397
+00:14:10,720 --> 00:14:15,520
+not progressing in the same way.
+
+398
+00:14:13,080 --> 00:14:18,480
+It's watching your voice be in a
+
+399
+00:14:15,520 --> 00:14:21,120
+dominant white space and not having that
+
+400
+00:14:18,480 --> 00:14:23,200
+having that voice heard or acknowledged,
+
+401
+00:14:21,120 --> 00:14:25,040
+but having your white counterpart say
+
+402
+00:14:23,200 --> 00:14:27,040
+the same thing and have that
+
+403
+00:14:25,040 --> 00:14:28,880
+acknowledged as gospel.
+
+404
+00:14:27,040 --> 00:14:31,200
+And that is a is a that is a potent
+
+405
+00:14:28,880 --> 00:14:31,200
+thing.
+
+406
+00:14:31,440 --> 00:14:37,839
+The reason why I kind of I I provide
+
+407
+00:14:34,760 --> 00:14:41,720
+that prelude to go into
+
+408
+00:14:37,839 --> 00:14:43,839
+a a context is because I think that
+
+409
+00:14:41,720 --> 00:14:45,400
+I've interviewed people from across many
+
+410
+00:14:43,839 --> 00:14:48,160
+subject disciplines.
+
+411
+00:14:45,400 --> 00:14:49,480
+And you know, even when we think about
+
+412
+00:14:48,160 --> 00:14:51,040
+this particular person I interviewed was
+
+413
+00:14:49,480 --> 00:14:53,200
+from a STEM background.
+
+414
+00:14:51,040 --> 00:14:55,640
+And when we think about, you know,
+
+415
+00:14:53,200 --> 00:14:58,520
+physics or you know, science,
+
+416
+00:14:55,640 --> 00:15:00,440
+technology, engineering, mathematics,
+
+417
+00:14:58,520 --> 00:15:02,720
+there are there's a really interesting
+
+418
+00:15:00,440 --> 00:15:05,040
+narrative around the fact that there are
+
+419
+00:15:02,720 --> 00:15:07,000
+not a lot of BAME people in that
+
+420
+00:15:05,040 --> 00:15:08,480
+particular academic discipline.
+
+421
+00:15:07,000 --> 00:15:10,760
+Actually, if you was to break it down by
+
+422
+00:15:08,480 --> 00:15:12,960
+percentage, there are more BAME people
+
+423
+00:15:10,760 --> 00:15:15,320
+that study STEM STEM subjects, that go
+
+424
+00:15:12,960 --> 00:15:18,280
+on from A-level and go on to higher
+
+425
+00:15:15,320 --> 00:15:19,560
+education and through to postgraduate,
+
+426
+00:15:18,280 --> 00:15:21,360
+than there are in any other academic
+
+427
+00:15:19,560 --> 00:15:23,920
+discipline. I I commonly there's this
+
+428
+00:15:21,360 --> 00:15:25,520
+thought that most BAME people reside in
+
+429
+00:15:23,920 --> 00:15:27,720
+social sciences. They don't actually
+
+430
+00:15:25,520 --> 00:15:30,200
+reside in STEM subjects. And what
+
+431
+00:15:27,720 --> 00:15:33,040
+becomes really interesting is the lack
+
+432
+00:15:30,200 --> 00:15:35,920
+of proliferation of those individuals at
+
+433
+00:15:33,040 --> 00:15:37,880
+higher levels. So, for example, there is
+
+434
+00:15:35,920 --> 00:15:40,760
+um in in all of the subject disciplines,
+
+435
+00:15:37,880 --> 00:15:42,200
+there are more BAME students with PhDs
+
+436
+00:15:40,760 --> 00:15:43,840
+in STEM subjects than they are in any
+
+437
+00:15:42,200 --> 00:15:45,160
+other discipline. Now,
+
+438
+00:15:43,840 --> 00:15:46,200
+um traditionally people would presume
+
+439
+00:15:45,160 --> 00:15:47,640
+straight away that actually they'd be
+
+440
+00:15:46,200 --> 00:15:49,560
+social sciences, but it isn't. It's
+
+441
+00:15:47,640 --> 00:15:53,840
+actually in STEM subjects.
+
+442
+00:15:49,560 --> 00:15:56,560
+But, where are those um STEM academics?
+
+443
+00:15:53,840 --> 00:15:59,000
+Why can you have situations where people
+
+444
+00:15:56,560 --> 00:16:01,760
+are qualified,
+
+445
+00:15:59,000 --> 00:16:03,720
+you know, capably, have published, um
+
+446
+00:16:01,760 --> 00:16:06,080
+have brought in funding, but they're
+
+447
+00:16:03,720 --> 00:16:08,520
+still not in academic tenure posts,
+
+448
+00:16:06,080 --> 00:16:10,160
+permanent posts. Why does that happen?
+
+449
+00:16:08,520 --> 00:16:11,960
+You know, I would I can make a very
+
+450
+00:16:10,160 --> 00:16:14,240
+strong argument that it's structures in
+
+451
+00:16:11,960 --> 00:16:15,400
+place. It's how
+
+452
+00:16:14,240 --> 00:16:17,880
+um
+
+453
+00:16:15,400 --> 00:16:20,560
+STEM as a subject, and the social
+
+454
+00:16:17,880 --> 00:16:23,120
+sciences might add, define excellence.
+
+455
+00:16:20,560 --> 00:16:25,839
+And that defining of excellence is very,
+
+456
+00:16:23,120 --> 00:16:27,200
+very narrow. And actually, what it does
+
+457
+00:16:25,839 --> 00:16:28,600
+is it recognizes
+
+458
+00:16:27,200 --> 00:16:29,839
+um excellence through one particular
+
+459
+00:16:28,600 --> 00:16:32,720
+lens. And that particular lens is
+
+460
+00:16:29,839 --> 00:16:36,040
+whiteness. And that completely obscures
+
+461
+00:16:32,720 --> 00:16:37,600
+the idea that people of color could be
+
+462
+00:16:36,040 --> 00:16:39,120
+as capable as their white counterparts
+
+463
+00:16:37,600 --> 00:16:41,080
+because the perception is the best gets
+
+464
+00:16:39,120 --> 00:16:42,320
+to the top. And the best is defined as
+
+465
+00:16:41,080 --> 00:16:45,520
+being
+
+466
+00:16:42,320 --> 00:16:48,400
+white physicians, you know, white white
+
+467
+00:16:45,520 --> 00:16:50,520
+um engineers. It's And it's it's it's
+
+468
+00:16:48,400 --> 00:16:52,320
+it's symptomatic of the sector. But, I
+
+469
+00:16:50,520 --> 00:16:54,480
+think what's important is how we disrupt
+
+470
+00:16:52,320 --> 00:16:57,640
+that. It's how we disrupt that. I don't
+
+471
+00:16:54,480 --> 00:16:59,520
+think it's beyond reproach that we could
+
+472
+00:16:57,640 --> 00:17:03,560
+redismantle this and create a really
+
+473
+00:16:59,520 --> 00:17:03,560
+fair and equal space.
+
+474
+00:17:03,680 --> 00:17:08,160
+One of the stories I was going to tell
+
+475
+00:17:06,199 --> 00:17:09,240
+um again was someone that had a PhD in
+
+476
+00:17:08,160 --> 00:17:12,160
+physics at a
+
+477
+00:17:09,240 --> 00:17:15,640
+really well-respected university.
+
+478
+00:17:12,160 --> 00:17:17,000
+And they spoke about this idea of um
+
+479
+00:17:15,640 --> 00:17:19,240
+every day when they go to work, they
+
+480
+00:17:17,000 --> 00:17:20,880
+apply their makeup twice.
+
+481
+00:17:19,240 --> 00:17:23,160
+So, they said to me, "Jason, like I know
+
+482
+00:17:20,880 --> 00:17:24,400
+you you love music." So, I was like,
+
+483
+00:17:23,160 --> 00:17:25,760
+"Yeah, well, yeah, everyone I think
+
+484
+00:17:24,400 --> 00:17:26,760
+everyone knows that."
+
+485
+00:17:25,760 --> 00:17:27,880
+And they were like, "And I know you like
+
+486
+00:17:26,760 --> 00:17:28,640
+R.E.M." So, I was like, "Yeah." They
+
+487
+00:17:27,880 --> 00:17:30,160
+were like, "Do you know the song called
+
+488
+00:17:28,640 --> 00:17:31,080
+Imitation of Life?"
+
+489
+00:17:30,160 --> 00:17:32,280
+So, I said, "Yeah." I said, "You know
+
+490
+00:17:31,080 --> 00:17:34,120
+that line in it, 'No one can see me
+
+491
+00:17:32,280 --> 00:17:35,240
+cry'?" So, I was like, "Yeah, yeah, I I
+
+492
+00:17:34,120 --> 00:17:37,880
+know that line." And they were like,
+
+493
+00:17:35,240 --> 00:17:39,720
+"Well, basically, I apply my makeup in
+
+494
+00:17:37,880 --> 00:17:42,560
+the morning.
+
+495
+00:17:39,720 --> 00:17:43,960
+I go in. I know I'm going to encounter
+
+496
+00:17:42,560 --> 00:17:46,520
+racism.
+
+497
+00:17:43,960 --> 00:17:48,880
+Invariably, I always encounter it. I go
+
+498
+00:17:46,520 --> 00:17:51,200
+into the toilet. I cry. I get it out of
+
+499
+00:17:48,880 --> 00:17:53,000
+my system. I lock myself in, and no one
+
+500
+00:17:51,200 --> 00:17:54,960
+can see me cry.
+
+501
+00:17:53,000 --> 00:17:56,520
+I'm sat on the toilet seat,
+
+502
+00:17:54,960 --> 00:17:57,920
+and I'm reapplying my makeup in this
+
+503
+00:17:56,520 --> 00:17:59,720
+small room mirror.
+
+504
+00:17:57,920 --> 00:18:01,120
+That's my armor. I come back out. I take
+
+505
+00:17:59,720 --> 00:18:04,480
+a deep breath
+
+506
+00:18:01,120 --> 00:18:06,600
+to engage in this process again.
+
+507
+00:18:04,480 --> 00:18:09,600
+And this happens two or three times a
+
+508
+00:18:06,600 --> 00:18:10,920
+week, and it has done for 7 years.
+
+509
+00:18:09,600 --> 00:18:13,120
+Now,
+
+510
+00:18:10,920 --> 00:18:14,360
+that particular individual, for all of
+
+511
+00:18:13,120 --> 00:18:15,720
+their,
+
+512
+00:18:14,360 --> 00:18:17,720
+you know, the accolades they've had, the
+
+513
+00:18:15,720 --> 00:18:20,040
+institutions they studied at, for their
+
+514
+00:18:17,720 --> 00:18:21,280
+absolute excellence in the area of
+
+515
+00:18:20,040 --> 00:18:22,320
+physics,
+
+516
+00:18:21,280 --> 00:18:23,320
+um, they don't work in the academy
+
+517
+00:18:22,320 --> 00:18:24,840
+anymore, because there was something
+
+518
+00:18:23,320 --> 00:18:26,920
+they couldn't do
+
+519
+00:18:24,840 --> 00:18:28,480
+every day. And this person's 31 years
+
+520
+00:18:26,920 --> 00:18:31,640
+old. You know, you could make an
+
+521
+00:18:28,480 --> 00:18:34,080
+argument their career hasn't even begun.
+
+522
+00:18:31,640 --> 00:18:35,760
+In terms of, we know the longevity of
+
+523
+00:18:34,080 --> 00:18:37,720
+academic careers, you know, 60 and
+
+524
+00:18:35,760 --> 00:18:40,200
+beyond. But they've left the academy
+
+525
+00:18:37,720 --> 00:18:41,840
+with all of that promise. And we can't
+
+526
+00:18:40,200 --> 00:18:44,720
+afford
+
+527
+00:18:41,840 --> 00:18:47,080
+to lose some of the best talents in
+
+528
+00:18:44,720 --> 00:18:49,040
+academia across any subject discipline,
+
+529
+00:18:47,080 --> 00:18:50,520
+who do come from BAME backgrounds,
+
+530
+00:18:49,040 --> 00:18:52,720
+equally as much as people come from
+
+531
+00:18:50,520 --> 00:18:54,960
+white backgrounds. We can't afford to
+
+532
+00:18:52,720 --> 00:18:56,320
+lose these types of individuals we need
+
+533
+00:18:54,960 --> 00:18:58,400
+in the academy.
+
+534
+00:18:56,320 --> 00:19:00,880
+Universities are always positioned as a
+
+535
+00:18:58,400 --> 00:19:03,280
+microcosm of society. What we need to
+
+536
+00:19:00,880 --> 00:19:04,920
+ensure is that
+
+537
+00:19:03,280 --> 00:19:07,400
+our institutions, our higher education
+
+538
+00:19:04,920 --> 00:19:09,480
+institutions, are reflective of the
+
+539
+00:19:07,400 --> 00:19:11,360
+multicultural, multi-ethnic society that
+
+540
+00:19:09,480 --> 00:19:12,840
+we reside in. Because presently, they
+
+541
+00:19:11,360 --> 00:19:15,400
+don't. And that's across all of
+
+542
+00:19:12,840 --> 00:19:17,320
+society's major institutions. But higher
+
+543
+00:19:15,400 --> 00:19:19,360
+education is one of those institutions,
+
+544
+00:19:17,320 --> 00:19:21,240
+and we all need to think about how we
+
+545
+00:19:19,360 --> 00:19:22,960
+can move this forward. Now, I'm an
+
+546
+00:19:21,240 --> 00:19:25,200
+eternal optimist, and I've always
+
+547
+00:19:22,960 --> 00:19:27,680
+believed that we can change this. But to
+
+548
+00:19:25,200 --> 00:19:29,440
+change it, there has to be a creation of
+
+549
+00:19:27,680 --> 00:19:30,800
+hearts and minds that are aligned. And I
+
+550
+00:19:29,440 --> 00:19:32,480
+think we're
+
+551
+00:19:30,800 --> 00:19:34,800
+at a really critical juncture in our
+
+552
+00:19:32,480 --> 00:19:36,920
+race relations history history. Not only
+
+553
+00:19:34,800 --> 00:19:39,680
+nationally, but globally. And I think
+
+554
+00:19:36,920 --> 00:19:41,480
+this is a really seminal time for us to
+
+555
+00:19:39,680 --> 00:19:43,960
+go beyond being kind of twitching
+
+556
+00:19:41,480 --> 00:19:46,600
+fingers and be this collective fist that
+
+557
+00:19:43,960 --> 00:19:48,720
+really looks to penetrate the walls of
+
+558
+00:19:46,600 --> 00:19:50,480
+structural inequality, not just in
+
+559
+00:19:48,720 --> 00:19:51,360
+relation to racism,
+
+560
+00:19:50,480 --> 00:19:54,280
+even though that's what I'm talking
+
+561
+00:19:51,360 --> 00:19:56,120
+about today, intersectionally.
+
+562
+00:19:54,280 --> 00:19:57,880
+You know, we're living in a university
+
+563
+00:19:56,120 --> 00:20:00,840
+culture where a sexual harassment, as an
+
+564
+00:19:57,880 --> 00:20:02,400
+example, has become normative.
+
+565
+00:20:00,840 --> 00:20:04,240
+To the To the extent that reporting
+
+566
+00:20:02,400 --> 00:20:07,160
+procedures at universities, to be
+
+567
+00:20:04,240 --> 00:20:10,440
+honest, facilitate
+
+568
+00:20:07,160 --> 00:20:11,840
+men to behave inappropriately.
+
+569
+00:20:10,440 --> 00:20:13,600
+And in a way where there is no
+
+570
+00:20:11,840 --> 00:20:15,160
+punishment for that.
+
+571
+00:20:13,600 --> 00:20:16,840
+So, it's about thinking about, you know,
+
+572
+00:20:15,160 --> 00:20:18,320
+how we challenge all of these structures
+
+573
+00:20:16,840 --> 00:20:20,640
+to ensure that we're creating a space
+
+574
+00:20:18,320 --> 00:20:22,800
+where all people feel safe, a sense of
+
+575
+00:20:20,640 --> 00:20:26,640
+belonging, a sense of being heard, and
+
+576
+00:20:22,800 --> 00:20:29,120
+really a sense of um connectedness that
+
+577
+00:20:26,640 --> 00:20:30,800
+comes from a recognizing that we are all
+
+578
+00:20:29,120 --> 00:20:32,680
+different, and we embrace that
+
+579
+00:20:30,800 --> 00:20:34,120
+difference and use it as a strength to
+
+580
+00:20:32,680 --> 00:20:36,000
+mobilize
+
+581
+00:20:34,120 --> 00:20:39,120
+um what could be an intellectually and
+
+582
+00:20:36,000 --> 00:20:40,920
+multiculturally stimulating space.
+
+583
+00:20:39,120 --> 00:20:43,800
+It's always an absolute pleasure to um
+
+584
+00:20:40,920 --> 00:20:45,360
+have opportunities like this. Um I don't
+
+585
+00:20:43,800 --> 00:20:47,640
+proclaim to know everything. I don't,
+
+586
+00:20:45,360 --> 00:20:50,840
+far from it. Um the only thing I try and
+
+587
+00:20:47,640 --> 00:20:52,440
+do is to try and mobilize change with a
+
+588
+00:20:50,840 --> 00:20:54,440
+collective of good people. And I feel
+
+589
+00:20:52,440 --> 00:20:55,680
+like today I'm in really good company,
+
+590
+00:20:54,440 --> 00:20:57,960
+and um
+
+591
+00:20:55,680 --> 00:21:00,200
+I think, in my humble opinion, that as
+
+592
+00:20:57,960 --> 00:21:03,280
+an institution, to have people like Alex
+
+593
+00:21:00,200 --> 00:21:06,120
+at the fore, leading work like this, is
+
+594
+00:21:03,280 --> 00:21:08,480
+you you are unbelievably lucky, in my
+
+595
+00:21:06,120 --> 00:21:09,760
+opinion. But Alex is a woman of color,
+
+596
+00:21:08,480 --> 00:21:12,680
+and the labor that women of color
+
+597
+00:21:09,760 --> 00:21:13,800
+exhaust during this endeavor is wrong.
+
+598
+00:21:12,680 --> 00:21:15,240
+And I say it's wrong because it's a
+
+599
+00:21:13,800 --> 00:21:17,360
+collective endeavor.
+
+600
+00:21:15,240 --> 00:21:19,200
+Alex should be supported in doing this.
+
+601
+00:21:17,360 --> 00:21:20,720
+You know, the burden of this work always
+
+602
+00:21:19,200 --> 00:21:22,240
+falls on women of color, and I think
+
+603
+00:21:20,720 --> 00:21:23,920
+it's important for all of us, including
+
+604
+00:21:22,240 --> 00:21:25,600
+men of color, who profit who have who
+
+605
+00:21:23,920 --> 00:21:28,240
+have profited also from the work of
+
+606
+00:21:25,600 --> 00:21:30,200
+women of color, to support um in doing
+
+607
+00:21:28,240 --> 00:21:31,440
+this work as collective endeavor.
+
+608
+00:21:30,200 --> 00:21:33,640
+So, Alex, thank you so much for having
+
+609
+00:21:31,440 --> 00:21:35,160
+me here. Honestly, you're amazing, and I
+
+610
+00:21:33,640 --> 00:21:37,160
+just feel really privileged to be here,
+
+611
+00:21:35,160 --> 00:21:38,160
+so thank you so much.
+
+612
+00:21:37,160 --> 00:21:40,560
+Oh,
+
+613
+00:21:38,160 --> 00:21:42,960
+that was really touching. Thank you.
+
+614
+00:21:40,560 --> 00:21:46,040
+Thank you so much for that. It was very
+
+615
+00:21:42,960 --> 00:21:47,880
+sobering. Uh
+
+616
+00:21:46,040 --> 00:21:49,400
+but, you know, I think we always have to
+
+617
+00:21:47,880 --> 00:21:51,720
+hear these things, even though they're
+
+618
+00:21:49,400 --> 00:21:54,280
+unpleasant, because otherwise, like, if
+
+619
+00:21:51,720 --> 00:21:56,760
+you don't know, how can you change?
+
+620
+00:21:54,280 --> 00:21:59,000
+Um I have so many questions for you, and
+
+621
+00:21:56,760 --> 00:22:00,440
+I can see questions coming in. So, I
+
+622
+00:21:59,000 --> 00:22:01,880
+thought I would start and ask one of my
+
+623
+00:22:00,440 --> 00:22:05,200
+questions first, cuz, you know, as the
+
+624
+00:22:01,880 --> 00:22:07,000
+host, I get that luxury.
+
+625
+00:22:05,200 --> 00:22:08,800
+So,
+
+626
+00:22:07,000 --> 00:22:10,880
+there's kind of several things you
+
+627
+00:22:08,800 --> 00:22:13,080
+touched on that
+
+628
+00:22:10,880 --> 00:22:14,800
+hopefully I'll be able to come back to
+
+629
+00:22:13,080 --> 00:22:18,080
+some of my questions, but
+
+630
+00:22:14,800 --> 00:22:19,960
+you just now spoke about the fact that a
+
+631
+00:22:18,080 --> 00:22:22,720
+lot of the time the burden for doing
+
+632
+00:22:19,960 --> 00:22:25,040
+this extra work does fall on people of
+
+633
+00:22:22,720 --> 00:22:27,840
+color. And particularly pushing forward
+
+634
+00:22:25,040 --> 00:22:30,000
+the work on racism,
+
+635
+00:22:27,840 --> 00:22:33,360
+we do tend to drive a lot of that,
+
+636
+00:22:30,000 --> 00:22:36,400
+because, you know, we have to. Um
+
+637
+00:22:33,360 --> 00:22:40,240
+So, my question is basically
+
+638
+00:22:36,400 --> 00:22:43,200
+about yourself. Like, do you feel like
+
+639
+00:22:40,240 --> 00:22:45,760
+this burden gets put on you a lot? Um
+
+640
+00:22:43,200 --> 00:22:47,960
+obviously, in your job as, you know, an
+
+641
+00:22:45,760 --> 00:22:49,480
+expert on racism, I'm I know you work
+
+642
+00:22:47,960 --> 00:22:52,920
+with lots of universities on their
+
+643
+00:22:49,480 --> 00:22:55,120
+approach to racism, but like,
+
+644
+00:22:52,920 --> 00:22:56,960
+do you feel this burden yourself to like
+
+645
+00:22:55,120 --> 00:22:59,200
+try and make the change? And like, how
+
+646
+00:22:56,960 --> 00:23:01,440
+do you handle that? Like, how do you not
+
+647
+00:22:59,200 --> 00:23:05,160
+get overwhelmed by it? Because sometimes
+
+648
+00:23:01,440 --> 00:23:06,600
+it can get like a it's a lot, right?
+
+649
+00:23:05,160 --> 00:23:08,120
+Yeah, no, thank you so much. That's a
+
+650
+00:23:06,600 --> 00:23:11,480
+great question. I mean, it's a weird
+
+651
+00:23:08,120 --> 00:23:13,200
+situation I I guess for me because um
+
+652
+00:23:11,480 --> 00:23:14,560
+I have my friends all joke like you
+
+653
+00:23:13,200 --> 00:23:16,600
+you'll never meet a more reluctant
+
+654
+00:23:14,560 --> 00:23:18,280
+academic purely because like when I you
+
+655
+00:23:16,600 --> 00:23:20,560
+know, it wasn't that long ago that I was
+
+656
+00:23:18,280 --> 00:23:22,360
+teaching physical education um
+
+657
+00:23:20,560 --> 00:23:23,440
+and 8 years ago, you know, I was saying
+
+658
+00:23:22,360 --> 00:23:25,320
+this to a friend the other day, you
+
+659
+00:23:23,440 --> 00:23:27,520
+know, I had when I was doing my PhD and
+
+660
+00:23:25,320 --> 00:23:29,040
+working full-time, I had weekend jobs at
+
+661
+00:23:27,520 --> 00:23:30,480
+Tesco and Sainsbury's and was cleaning
+
+662
+00:23:29,040 --> 00:23:33,000
+toilets. So, I never thought I'd ever be
+
+663
+00:23:30,480 --> 00:23:35,520
+in a position where I would then now be
+
+664
+00:23:33,000 --> 00:23:38,360
+an associate professor and an executive
+
+665
+00:23:35,520 --> 00:23:40,440
+um a deputy executive dean that leads
+
+666
+00:23:38,360 --> 00:23:42,240
+this this work in my institution.
+
+667
+00:23:40,440 --> 00:23:45,400
+Um
+
+668
+00:23:42,240 --> 00:23:46,520
+I think one thing that that um helps is
+
+669
+00:23:45,400 --> 00:23:48,720
+um
+
+670
+00:23:46,520 --> 00:23:50,400
+I know change is really slow,
+
+671
+00:23:48,720 --> 00:23:51,400
+but I I I feel like something is
+
+672
+00:23:50,400 --> 00:23:53,720
+happening.
+
+673
+00:23:51,400 --> 00:23:56,360
+And that in itself it there there's an
+
+674
+00:23:53,720 --> 00:23:57,560
+intrinsic motivation there um because
+
+675
+00:23:56,360 --> 00:23:59,840
+you kind of feel like you have to do a
+
+676
+00:23:57,560 --> 00:24:01,320
+bit now. I guess I never asked to be in
+
+677
+00:23:59,840 --> 00:24:03,840
+a position of um
+
+678
+00:24:01,320 --> 00:24:05,320
+responsibility in terms of leading this
+
+679
+00:24:03,840 --> 00:24:06,880
+agenda forward or being part of an
+
+680
+00:24:05,320 --> 00:24:08,520
+amazing generation of academics that
+
+681
+00:24:06,880 --> 00:24:10,240
+have done that.
+
+682
+00:24:08,520 --> 00:24:11,920
+But I I I think the most important thing
+
+683
+00:24:10,240 --> 00:24:14,840
+is what you do with that responsibility
+
+684
+00:24:11,920 --> 00:24:16,480
+and I think that it's a privilege to be
+
+685
+00:24:14,840 --> 00:24:17,760
+in that position where you can advance
+
+686
+00:24:16,480 --> 00:24:20,040
+change.
+
+687
+00:24:17,760 --> 00:24:22,040
+I think the most important thing is how
+
+688
+00:24:20,040 --> 00:24:23,000
+you do it. Who do you bring along with
+
+689
+00:24:22,040 --> 00:24:25,080
+you?
+
+690
+00:24:23,000 --> 00:24:27,600
+How do you ensure that all voices are
+
+691
+00:24:25,080 --> 00:24:29,200
+heard? How do you ensure that uh people
+
+692
+00:24:27,600 --> 00:24:30,640
+are mobilized
+
+693
+00:24:29,200 --> 00:24:33,360
+to
+
+694
+00:24:30,640 --> 00:24:35,720
+to cultivate and to change things in a
+
+695
+00:24:33,360 --> 00:24:37,920
+way that isn't exploitative or
+
+696
+00:24:35,720 --> 00:24:39,880
+exhaustive of people of color,
+
+697
+00:24:37,920 --> 00:24:42,520
+particularly women of color.
+
+698
+00:24:39,880 --> 00:24:44,080
+And as a black man, I'm keenly aware
+
+699
+00:24:42,520 --> 00:24:45,640
+that there are privileges that I have
+
+700
+00:24:44,080 --> 00:24:48,720
+over women of color
+
+701
+00:24:45,640 --> 00:24:50,080
+that um afford me unfair privileges.
+
+702
+00:24:48,720 --> 00:24:52,280
+And it's really thinking about how I
+
+703
+00:24:50,080 --> 00:24:53,720
+challenge and reflect reflect on that
+
+704
+00:24:52,280 --> 00:24:55,200
+all the time and my positionality
+
+705
+00:24:53,720 --> 00:24:57,080
+becomes important now.
+
+706
+00:24:55,200 --> 00:24:58,200
+So, for me,
+
+707
+00:24:57,080 --> 00:24:59,480
+you know, the great thing about being a
+
+708
+00:24:58,200 --> 00:25:01,640
+school teacher is that everything was
+
+709
+00:24:59,480 --> 00:25:03,520
+about practice. You know, the theory of
+
+710
+00:25:01,640 --> 00:25:04,720
+something and the practice of something.
+
+711
+00:25:03,520 --> 00:25:06,440
+And the absence of that in higher
+
+712
+00:25:04,720 --> 00:25:07,560
+education is a really interesting thing.
+
+713
+00:25:06,440 --> 00:25:10,120
+So, I think people are very good at
+
+714
+00:25:07,560 --> 00:25:11,560
+theorizing things, but not always very
+
+715
+00:25:10,120 --> 00:25:13,080
+good at the practical element of it.
+
+716
+00:25:11,560 --> 00:25:15,200
+Because the theorizing is kind of easy
+
+717
+00:25:13,080 --> 00:25:17,000
+in some respects. The doing is
+
+718
+00:25:15,200 --> 00:25:19,760
+difficult, and the doing is what's
+
+719
+00:25:17,000 --> 00:25:20,800
+always been it placed on women of color,
+
+720
+00:25:19,760 --> 00:25:22,800
+people of color. It's always the
+
+721
+00:25:20,800 --> 00:25:24,800
+burden's been on them to do the doing.
+
+722
+00:25:22,800 --> 00:25:27,680
+And I think um a big part of doing that
+
+723
+00:25:24,800 --> 00:25:29,800
+work is is recognizing it's going to be
+
+724
+00:25:27,680 --> 00:25:31,160
+difficult. I I think
+
+725
+00:25:29,800 --> 00:25:34,320
+you know, thank God I think I've got a
+
+726
+00:25:31,160 --> 00:25:36,920
+good temperament for it, which helps.
+
+727
+00:25:34,320 --> 00:25:39,000
+But I also know because of the amount of
+
+728
+00:25:36,920 --> 00:25:42,680
+people I've interviewed what it's done
+
+729
+00:25:39,000 --> 00:25:44,400
+to them over a 10, 20, 30, 40-year
+
+730
+00:25:42,680 --> 00:25:45,720
+period. And so, I'd always made a
+
+731
+00:25:44,400 --> 00:25:47,680
+conscious decision that in a couple of
+
+732
+00:25:45,720 --> 00:25:49,960
+years time, in 4 years time my daughter
+
+733
+00:25:47,680 --> 00:25:51,480
+will be 18. And I've always made a
+
+734
+00:25:49,960 --> 00:25:52,680
+decision that at that point it'd be a
+
+735
+00:25:51,480 --> 00:25:54,520
+good time to call it a day because I
+
+736
+00:25:52,680 --> 00:25:56,720
+don't want it to consume me in the way
+
+737
+00:25:54,520 --> 00:25:58,120
+it's consumed other people. And also,
+
+738
+00:25:56,720 --> 00:25:59,720
+because there's a generation of amazing
+
+739
+00:25:58,120 --> 00:26:01,960
+people coming through that are doing
+
+740
+00:25:59,720 --> 00:26:04,200
+amazing things. And it's about creating
+
+741
+00:26:01,960 --> 00:26:07,080
+space for people to take that charge
+
+742
+00:26:04,200 --> 00:26:10,080
+forward and to really kind of penetrate
+
+743
+00:26:07,080 --> 00:26:12,920
+and disrupt racism through new guises,
+
+744
+00:26:10,080 --> 00:26:15,120
+new interventions, new forms, uh new
+
+745
+00:26:12,920 --> 00:26:16,960
+instruments of anti-racism. And and I
+
+746
+00:26:15,120 --> 00:26:19,480
+think that's really important. So, the
+
+747
+00:26:16,960 --> 00:26:20,600
+thing I always know is that um
+
+748
+00:26:19,480 --> 00:26:22,360
+you know, you're keeping the seat warm
+
+749
+00:26:20,600 --> 00:26:24,200
+for someone, and someone else will take
+
+750
+00:26:22,360 --> 00:26:25,600
+over, and then they'll do it better, and
+
+751
+00:26:24,200 --> 00:26:27,680
+then the next person will come and
+
+752
+00:26:25,600 --> 00:26:29,600
+they'll do it better. But what I when I
+
+753
+00:26:27,680 --> 00:26:32,320
+say the word better, better means a
+
+754
+00:26:29,600 --> 00:26:35,800
+collective endeavor, not just people of
+
+755
+00:26:32,320 --> 00:26:37,800
+color trying to extricate themselves
+
+756
+00:26:35,800 --> 00:26:41,120
+from a structure of supremacy that they
+
+757
+00:26:37,800 --> 00:26:41,120
+never created in the first place.
+
+758
+00:26:42,600 --> 00:26:46,280
+Thank you. Yeah.
+
+759
+00:26:44,840 --> 00:26:48,520
+Um
+
+760
+00:26:46,280 --> 00:26:50,040
+boy.
+
+761
+00:26:48,520 --> 00:26:52,640
+Sorry. It's just like this whole
+
+762
+00:26:50,040 --> 00:26:54,360
+conversation is just like I have
+
+763
+00:26:52,640 --> 00:26:55,520
+so many things that I want to say and
+
+764
+00:26:54,360 --> 00:26:56,080
+it's like, oh
+
+765
+00:26:55,520 --> 00:26:59,280
+um
+
+766
+00:26:56,080 --> 00:27:01,240
+Alex, please honest like please say it.
+
+767
+00:26:59,280 --> 00:27:02,800
+I think like, you know, these these
+
+768
+00:27:01,240 --> 00:27:04,640
+things um
+
+769
+00:27:02,800 --> 00:27:06,440
+I I want to hear what you have to say
+
+770
+00:27:04,640 --> 00:27:07,520
+and I think your experience as a woman
+
+771
+00:27:06,440 --> 00:27:10,240
+of color would be very different to
+
+772
+00:27:07,520 --> 00:27:12,360
+mine. So, please I personally I would
+
+773
+00:27:10,240 --> 00:27:14,240
+love to hear what you have to say.
+
+774
+00:27:12,360 --> 00:27:16,080
+Well,
+
+775
+00:27:14,240 --> 00:27:17,520
+one of the things that
+
+776
+00:27:16,080 --> 00:27:19,360
+I feel
+
+777
+00:27:17,520 --> 00:27:21,720
+it's like a tricky line with this. It's
+
+778
+00:27:19,360 --> 00:27:24,360
+like on the one hand,
+
+779
+00:27:21,720 --> 00:27:26,640
+as people who are, you know, the the
+
+780
+00:27:24,360 --> 00:27:27,840
+victims in the system,
+
+781
+00:27:26,640 --> 00:27:29,600
+you don't want to have to be doing all
+
+782
+00:27:27,840 --> 00:27:31,440
+the work yourself, but then I think
+
+783
+00:27:29,600 --> 00:27:34,120
+there's this other side of it where you
+
+784
+00:27:31,440 --> 00:27:35,360
+also don't want the people who benefit
+
+785
+00:27:34,120 --> 00:27:37,640
+from the system to be making the
+
+786
+00:27:35,360 --> 00:27:39,480
+decisions and to be saying, "Oh, this is
+
+787
+00:27:37,640 --> 00:27:41,400
+how we're going to change."
+
+788
+00:27:39,480 --> 00:27:43,800
+So, I feel like one thing I keep
+
+789
+00:27:41,400 --> 00:27:47,520
+encountering is actually I feel like I'd
+
+790
+00:27:43,800 --> 00:27:49,280
+like to hear your opinion on it is
+
+791
+00:27:47,520 --> 00:27:50,840
+in a lot of the discussions I have, I
+
+792
+00:27:49,280 --> 00:27:52,760
+keep saying, "So, why don't we pay
+
+793
+00:27:50,840 --> 00:27:54,600
+people for this work?
+
+794
+00:27:52,760 --> 00:27:55,520
+Why don't we pay people for the work so
+
+795
+00:27:54,600 --> 00:27:58,080
+that,
+
+796
+00:27:55,520 --> 00:27:59,600
+you know, even if you're suffering from
+
+797
+00:27:58,080 --> 00:28:02,120
+the effects of structural racism, if
+
+798
+00:27:59,600 --> 00:28:03,720
+we're asking you to do work to try and
+
+799
+00:28:02,120 --> 00:28:05,640
+change it, the least we can do is
+
+800
+00:28:03,720 --> 00:28:06,640
+acknowledge that it's work and pay you.
+
+801
+00:28:05,640 --> 00:28:08,760
+And like,
+
+802
+00:28:06,640 --> 00:28:11,360
+do you have a thought on payment for
+
+803
+00:28:08,760 --> 00:28:12,520
+doing things like EDI work?"
+
+804
+00:28:11,360 --> 00:28:14,760
+Yeah, I I think what's really
+
+805
+00:28:12,520 --> 00:28:17,680
+interesting is um people don't get paid
+
+806
+00:28:14,760 --> 00:28:19,040
+for EDI work and that in it's I I I my
+
+807
+00:28:17,680 --> 00:28:21,120
+belief is
+
+808
+00:28:19,040 --> 00:28:23,400
+um I personally I'm not motivated by
+
+809
+00:28:21,120 --> 00:28:25,320
+money, but I think in life when anybody
+
+810
+00:28:23,400 --> 00:28:26,880
+pays for something, there's a valuing of
+
+811
+00:28:25,320 --> 00:28:29,320
+it. There's a valuing If we go to the
+
+812
+00:28:26,880 --> 00:28:30,920
+shop right now and we spend, I don't
+
+813
+00:28:29,320 --> 00:28:33,560
+know,
+
+814
+00:28:30,920 --> 00:28:35,560
+five bucks on a on a on a pair of shoes,
+
+815
+00:28:33,560 --> 00:28:37,360
+it's because we value it, you know, you
+
+816
+00:28:35,560 --> 00:28:39,520
+know, the value comes in the fact that
+
+817
+00:28:37,360 --> 00:28:41,680
+it's something that one wants, right?
+
+818
+00:28:39,520 --> 00:28:42,960
+And
+
+819
+00:28:41,680 --> 00:28:45,000
+I think
+
+820
+00:28:42,960 --> 00:28:46,520
+that EDI work in higher education
+
+821
+00:28:45,000 --> 00:28:48,880
+institutions and society more generally
+
+822
+00:28:46,520 --> 00:28:50,680
+isn't valued. It's seen as goodwill.
+
+823
+00:28:48,880 --> 00:28:52,760
+Mhm. And because of that, people don't
+
+824
+00:28:50,680 --> 00:28:55,120
+recognize the currency and the value in
+
+825
+00:28:52,760 --> 00:28:56,920
+that. Because I think
+
+826
+00:28:55,120 --> 00:28:58,200
+for a lot of white people, it's an
+
+827
+00:28:56,920 --> 00:28:59,520
+add-on. It's not something that's
+
+828
+00:28:58,200 --> 00:29:02,840
+particularly important because the
+
+829
+00:28:59,520 --> 00:29:05,280
+challenging or the mobilization of EDI
+
+830
+00:29:02,840 --> 00:29:06,840
+and recognizing it by by physically
+
+831
+00:29:05,280 --> 00:29:08,120
+underpinning it
+
+832
+00:29:06,840 --> 00:29:09,920
+means that it's going to disrupt a
+
+833
+00:29:08,120 --> 00:29:12,200
+culture in a space,
+
+834
+00:29:09,920 --> 00:29:14,920
+an unequal space that in all in in all
+
+835
+00:29:12,200 --> 00:29:16,560
+honesty, white people do profit from.
+
+836
+00:29:14,920 --> 00:29:18,040
+They gain from being in that unequal
+
+837
+00:29:16,560 --> 00:29:19,120
+space. Um
+
+838
+00:29:18,040 --> 00:29:20,720
+you know, if there are a lot of white
+
+839
+00:29:19,120 --> 00:29:22,160
+people, if everything became equal
+
+840
+00:29:20,720 --> 00:29:23,280
+tomorrow,
+
+841
+00:29:22,160 --> 00:29:24,480
+I think I think I think they would
+
+842
+00:29:23,280 --> 00:29:26,400
+suffer.
+
+843
+00:29:24,480 --> 00:29:27,920
+They would they would suffer because I
+
+844
+00:29:26,400 --> 00:29:30,040
+think for people of color,
+
+845
+00:29:27,920 --> 00:29:33,880
+they have to work twice as hard
+
+846
+00:29:30,040 --> 00:29:35,560
+to occupy space. And part of that is the
+
+847
+00:29:33,880 --> 00:29:37,320
+expectation that they should be doing
+
+848
+00:29:35,560 --> 00:29:38,400
+EDI work. And because they're a person
+
+849
+00:29:37,320 --> 00:29:39,360
+of color
+
+850
+00:29:38,400 --> 00:29:40,800
+or because they're within the
+
+851
+00:29:39,360 --> 00:29:42,400
+intersection, you're so you're
+
+852
+00:29:40,800 --> 00:29:43,480
+passionate about shouldn't be paid to do
+
+853
+00:29:42,400 --> 00:29:45,400
+your passion.
+
+854
+00:29:43,480 --> 00:29:48,240
+You know, and and universities and
+
+855
+00:29:45,400 --> 00:29:51,040
+people exploit that. And I always feel
+
+856
+00:29:48,240 --> 00:29:52,360
+that when people are offering a service,
+
+857
+00:29:51,040 --> 00:29:54,120
+something that is of currency to an
+
+858
+00:29:52,360 --> 00:29:57,960
+institution, that they should be paid
+
+859
+00:29:54,120 --> 00:29:59,360
+for it. And what we've observed is, like
+
+860
+00:29:57,960 --> 00:30:01,080
+I said, the majority of this work is
+
+861
+00:29:59,360 --> 00:30:02,080
+done by women of color and they've never
+
+862
+00:30:01,080 --> 00:30:04,040
+been paid for it and they're not
+
+863
+00:30:02,080 --> 00:30:06,040
+remunerated for it fiscally or
+
+864
+00:30:04,040 --> 00:30:08,760
+reputationally. And when it comes to
+
+865
+00:30:06,040 --> 00:30:09,720
+progressing through our institution,
+
+866
+00:30:08,760 --> 00:30:11,160
+uh or
+
+867
+00:30:09,720 --> 00:30:13,160
+when you look at the criteria to get uh
+
+868
+00:30:11,160 --> 00:30:15,400
+promoted, you know, the university has
+
+869
+00:30:13,160 --> 00:30:17,280
+kind of allocated them time being EDI to
+
+870
+00:30:15,400 --> 00:30:18,520
+do EDI work. But when it comes to
+
+871
+00:30:17,280 --> 00:30:20,200
+promotion and you talk about
+
+872
+00:30:18,520 --> 00:30:22,440
+citizenship, universities don't include
+
+873
+00:30:20,200 --> 00:30:24,840
+that within their promotion criteria.
+
+874
+00:30:22,440 --> 00:30:27,000
+So it's it's thankless is a thankless
+
+875
+00:30:24,840 --> 00:30:29,000
+task that isn't remunerated, isn't
+
+876
+00:30:27,000 --> 00:30:31,080
+rewarded, takes up a lot of time, and
+
+877
+00:30:29,000 --> 00:30:34,760
+actually moves away from the currency
+
+878
+00:30:31,080 --> 00:30:34,760
+that universities um
+
+879
+00:30:35,240 --> 00:30:39,520
+that universities reward, which often
+
+880
+00:30:37,360 --> 00:30:42,240
+white people are in a position to profit
+
+881
+00:30:39,520 --> 00:30:44,360
+from, which is research,
+
+882
+00:30:42,240 --> 00:30:46,920
+you know, bringing research grants and
+
+883
+00:30:44,360 --> 00:30:47,920
+working with part research teams. Now,
+
+884
+00:30:46,920 --> 00:30:49,640
+for most
+
+885
+00:30:47,920 --> 00:30:52,000
+people of color, they don't have access
+
+886
+00:30:49,640 --> 00:30:54,040
+to those types of networks. One, because
+
+887
+00:30:52,000 --> 00:30:55,720
+of how these spaces work. And two,
+
+888
+00:30:54,040 --> 00:30:57,240
+because the whole time they're spending
+
+889
+00:30:55,720 --> 00:30:59,720
+doing EDI stuff.
+
+890
+00:30:57,240 --> 00:31:01,160
+Not being remunerated for. So, I always
+
+891
+00:30:59,720 --> 00:31:02,520
+think institutions should do that. They
+
+892
+00:31:01,160 --> 00:31:04,240
+have the money to do it. But, what
+
+893
+00:31:02,520 --> 00:31:06,840
+they're doing is
+
+894
+00:31:04,240 --> 00:31:10,040
+is they're basically to to to go all
+
+895
+00:31:06,840 --> 00:31:10,720
+South London, they're taking liberties.
+
+896
+00:31:10,040 --> 00:31:11,920
+That's what they're doing. They're
+
+897
+00:31:10,720 --> 00:31:13,800
+taking liberties. And they know they're
+
+898
+00:31:11,920 --> 00:31:15,640
+doing it. And they know that they can
+
+899
+00:31:13,800 --> 00:31:17,960
+threaten people with employment not
+
+900
+00:31:15,640 --> 00:31:20,080
+doing it. And, you know, along a flawed
+
+901
+00:31:17,960 --> 00:31:21,760
+workload model, they could tell they can
+
+902
+00:31:20,080 --> 00:31:24,200
+come around and say things like, within
+
+903
+00:31:21,760 --> 00:31:26,240
+this 550 hours, you actually have time
+
+904
+00:31:24,200 --> 00:31:28,000
+within that. You have You have allocated
+
+905
+00:31:26,240 --> 00:31:30,240
+time to do that. Which
+
+906
+00:31:28,000 --> 00:31:31,440
+which we all know is tosh. It does
+
+907
+00:31:30,240 --> 00:31:33,760
+that that doesn't work like that. And if
+
+908
+00:31:31,440 --> 00:31:35,440
+that's the case, why are people of color
+
+909
+00:31:33,760 --> 00:31:37,720
+always burdened with so many
+
+910
+00:31:35,440 --> 00:31:39,640
+administrative duties
+
+911
+00:31:37,720 --> 00:31:41,920
+um and tasks in comparison to their
+
+912
+00:31:39,640 --> 00:31:43,880
+white counterparts at the same grade and
+
+913
+00:31:41,920 --> 00:31:44,960
+at the same level.
+
+914
+00:31:43,880 --> 00:31:46,000
+Now,
+
+915
+00:31:44,960 --> 00:31:48,640
+if someone can answer me those
+
+916
+00:31:46,000 --> 00:31:51,600
+questions, that's great. But, I I feel
+
+917
+00:31:48,640 --> 00:31:52,920
+like I feel like there is no answer
+
+918
+00:31:51,600 --> 00:31:54,400
+that someone can give me that I'd be
+
+919
+00:31:52,920 --> 00:31:56,080
+willing to listen to. Because I've not
+
+920
+00:31:54,400 --> 00:31:57,880
+only have I seen it, I've experienced it
+
+921
+00:31:56,080 --> 00:32:00,040
+myself.
+
+922
+00:31:57,880 --> 00:32:01,560
+So, and that is the one of the biggest
+
+923
+00:32:00,040 --> 00:32:03,200
+criticisms that many people of color
+
+924
+00:32:01,560 --> 00:32:05,240
+said, I'm on the same pay grade same,
+
+925
+00:32:03,200 --> 00:32:07,080
+but I seem to have more marking, more
+
+926
+00:32:05,240 --> 00:32:08,320
+administrative responsibilities. And
+
+927
+00:32:07,080 --> 00:32:10,720
+it's all of these things. And I think
+
+928
+00:32:08,320 --> 00:32:13,320
+it's convenient for people to obscure
+
+929
+00:32:10,720 --> 00:32:14,880
+that from discussions and to say, "Well,
+
+930
+00:32:13,320 --> 00:32:17,200
+it's EDI work, you know. We're giving
+
+931
+00:32:14,880 --> 00:32:18,680
+you agency by you doing it. You know,
+
+932
+00:32:17,200 --> 00:32:20,720
+you shouldn't You know, you want You
+
+933
+00:32:18,680 --> 00:32:22,880
+want to dismantle racial inequality. You
+
+934
+00:32:20,720 --> 00:32:23,680
+shouldn't be paid to do that."
+
+935
+00:32:22,880 --> 00:32:25,360
+You know, and then the then the
+
+936
+00:32:23,680 --> 00:32:26,920
+gaslighting happens.
+
+937
+00:32:25,360 --> 00:32:28,880
+Right. Okay. So, as a person of color
+
+938
+00:32:26,920 --> 00:32:30,320
+who's encountering racism,
+
+939
+00:32:28,880 --> 00:32:31,880
+I didn't I didn't create this. I didn't
+
+940
+00:32:30,320 --> 00:32:33,680
+ask to encounter racism. But, you want
+
+941
+00:32:31,880 --> 00:32:35,240
+me to solve the problem. You also want
+
+942
+00:32:33,680 --> 00:32:37,080
+me to do the work. And you want me to be
+
+943
+00:32:35,240 --> 00:32:39,320
+gracious about it and not say anything
+
+944
+00:32:37,080 --> 00:32:42,040
+about it as well. Like it's it's the
+
+945
+00:32:39,320 --> 00:32:44,160
+most ridiculous
+
+946
+00:32:42,040 --> 00:32:46,080
+system, and I don't want to curse, but
+
+947
+00:32:44,160 --> 00:32:47,440
+it's the most ridiculous system one one
+
+948
+00:32:46,080 --> 00:32:48,880
+could imagine.
+
+949
+00:32:47,440 --> 00:32:50,440
+And the thing is, when we apply it to
+
+950
+00:32:48,880 --> 00:32:52,520
+other intersections, for example, like
+
+951
+00:32:50,440 --> 00:32:54,520
+gender, gender work within higher
+
+952
+00:32:52,520 --> 00:32:56,360
+education institutions is often fiscally
+
+953
+00:32:54,520 --> 00:32:58,440
+rewarded.
+
+954
+00:32:56,360 --> 00:33:00,040
+Case in point, Athena SWAN.
+
+955
+00:32:58,440 --> 00:33:02,840
+Athena SWAN is an intervention that is
+
+956
+00:33:00,040 --> 00:33:05,120
+funded and institutions provide
+
+957
+00:33:02,840 --> 00:33:06,880
+contributions in kind or match funding
+
+958
+00:33:05,120 --> 00:33:08,680
+to support that endeavor. Now, when we
+
+959
+00:33:06,880 --> 00:33:10,920
+think about um who Athena SWAN has
+
+960
+00:33:08,680 --> 00:33:12,880
+benefited benefited, it's a fantastic
+
+961
+00:33:10,920 --> 00:33:15,320
+intervention. But let's be specific
+
+962
+00:33:12,880 --> 00:33:17,040
+about who it's benefited. It's benefited
+
+963
+00:33:15,320 --> 00:33:19,000
+white middle-class women. It hasn't
+
+964
+00:33:17,040 --> 00:33:20,600
+benefited white working-class women, and
+
+965
+00:33:19,000 --> 00:33:21,760
+it damn sure hasn't benefited women of
+
+966
+00:33:20,600 --> 00:33:22,920
+color.
+
+967
+00:33:21,760 --> 00:33:24,240
+So, let's let's be accurate when we're
+
+968
+00:33:22,920 --> 00:33:26,240
+talking about that. And you know, we
+
+969
+00:33:24,240 --> 00:33:27,320
+know that from the statistics in terms
+
+970
+00:33:26,240 --> 00:33:29,800
+of pay.
+
+971
+00:33:27,320 --> 00:33:31,400
+And the huge pay differentials between
+
+972
+00:33:29,800 --> 00:33:33,480
+um
+
+973
+00:33:31,400 --> 00:33:35,520
+white middle-class women and women of
+
+974
+00:33:33,480 --> 00:33:37,760
+color, and white working-class women as
+
+975
+00:33:35,520 --> 00:33:37,760
+well.
+
+976
+00:33:39,000 --> 00:33:43,200
+Thank you. You said a lot of things that
+
+977
+00:33:40,840 --> 00:33:45,800
+rang very true.
+
+978
+00:33:43,200 --> 00:33:47,680
+Um I'm going to delve into the questions
+
+979
+00:33:45,800 --> 00:33:49,040
+so that people feel like I'm asking
+
+980
+00:33:47,680 --> 00:33:50,600
+their questions as well, and not just my
+
+981
+00:33:49,040 --> 00:33:52,080
+own. Um
+
+982
+00:33:50,600 --> 00:33:53,760
+So, here's a question that I think ties
+
+983
+00:33:52,080 --> 00:33:56,080
+in really nicely with what we've just
+
+984
+00:33:53,760 --> 00:33:58,640
+been talking about, and it's
+
+985
+00:33:56,080 --> 00:34:00,440
+how do people who aren't empowered in
+
+986
+00:33:58,640 --> 00:34:03,160
+the current system
+
+987
+00:34:00,440 --> 00:34:04,960
+help to deconstruct?
+
+988
+00:34:03,160 --> 00:34:07,960
+Like how
+
+989
+00:34:04,960 --> 00:34:10,320
+how can we try and
+
+990
+00:34:07,960 --> 00:34:12,440
+change things, I guess?
+
+991
+00:34:10,320 --> 00:34:14,919
+I I think the you know, I think it comes
+
+992
+00:34:12,440 --> 00:34:17,600
+back to E-word, educating yourself.
+
+993
+00:34:14,919 --> 00:34:19,440
+Um I think there are a lot of dynamics
+
+994
+00:34:17,600 --> 00:34:21,320
+around gender that I've spent the best
+
+995
+00:34:19,440 --> 00:34:24,560
+part of a decade trying to understand
+
+996
+00:34:21,320 --> 00:34:26,639
+and understand how my presence as a male
+
+997
+00:34:24,560 --> 00:34:28,520
+impacts those factors, particularly
+
+998
+00:34:26,639 --> 00:34:30,200
+along the intersection. I think
+
+999
+00:34:28,520 --> 00:34:31,399
+educating oneself is really important. I
+
+1000
+00:34:30,200 --> 00:34:33,240
+think getting comfortable with the
+
+1001
+00:34:31,399 --> 00:34:34,360
+uncomfortable is a really important
+
+1002
+00:34:33,240 --> 00:34:35,919
+thing.
+
+1003
+00:34:34,360 --> 00:34:38,360
+And I think it's the recognizing of
+
+1004
+00:34:35,919 --> 00:34:41,159
+privilege. You know, you can we can we
+
+1005
+00:34:38,360 --> 00:34:42,120
+can all learn. I think it's it's kind of
+
+1006
+00:34:41,159 --> 00:34:44,919
+going there's there's you know, there's
+
+1007
+00:34:42,120 --> 00:34:46,480
+these kind of in becoming anti-racist
+
+1008
+00:34:44,919 --> 00:34:48,879
+there's these kind of zones of
+
+1009
+00:34:46,480 --> 00:34:51,440
+proximity. There's the There's the the
+
+1010
+00:34:48,879 --> 00:34:53,320
+fear zone.
+
+1011
+00:34:51,440 --> 00:34:55,520
+There's a zone of comfort.
+
+1012
+00:34:53,320 --> 00:34:57,400
+And then there's a zone of understanding
+
+1013
+00:34:55,520 --> 00:34:59,120
+and implementation. And I think for a
+
+1014
+00:34:57,400 --> 00:35:01,880
+lot of people
+
+1015
+00:34:59,120 --> 00:35:05,160
+fear zone is almost a reluctance to
+
+1016
+00:35:01,880 --> 00:35:08,040
+accept racism exists. That comfort zone
+
+1017
+00:35:05,160 --> 00:35:10,040
+is you're challenging aspects of of you
+
+1018
+00:35:08,040 --> 00:35:11,440
+you understand that racism exists but
+
+1019
+00:35:10,040 --> 00:35:13,760
+you're not doing enough to challenge it
+
+1020
+00:35:11,440 --> 00:35:15,800
+and disrupt it. When you get into that
+
+1021
+00:35:13,760 --> 00:35:17,320
+third zone
+
+1022
+00:35:15,800 --> 00:35:18,600
+when you get into that third zone, that
+
+1023
+00:35:17,320 --> 00:35:20,680
+becomes really really important because
+
+1024
+00:35:18,600 --> 00:35:22,720
+then you learn that understanding of
+
+1025
+00:35:20,680 --> 00:35:24,880
+okay, how do I disrupt these spaces? How
+
+1026
+00:35:22,720 --> 00:35:26,960
+do I challenge racism? How do I engage
+
+1027
+00:35:24,880 --> 00:35:29,320
+in white allyship that doesn't center me
+
+1028
+00:35:26,960 --> 00:35:30,920
+as a white person centers people of
+
+1029
+00:35:29,320 --> 00:35:32,880
+color. I'm still able to use my
+
+1030
+00:35:30,920 --> 00:35:34,920
+privilege to disrupt
+
+1031
+00:35:32,880 --> 00:35:37,280
+acts of racism or racial microaggression
+
+1032
+00:35:34,920 --> 00:35:39,080
+towards my colleague of color.
+
+1033
+00:35:37,280 --> 00:35:41,480
+Um and all of that for me comes from
+
+1034
+00:35:39,080 --> 00:35:42,840
+educating. And also there's a patience
+
+1035
+00:35:41,480 --> 00:35:44,280
+on the other side of that that needs to
+
+1036
+00:35:42,840 --> 00:35:45,960
+recognize that people are at different
+
+1037
+00:35:44,280 --> 00:35:48,360
+stages of this learning journey and
+
+1038
+00:35:45,960 --> 00:35:50,360
+people will arrive at particular types
+
+1039
+00:35:48,360 --> 00:35:53,120
+of understandings around race and racism
+
+1040
+00:35:50,360 --> 00:35:54,880
+at different times. Um and one thing I
+
+1041
+00:35:53,120 --> 00:35:56,400
+would say with people of color, which
+
+1042
+00:35:54,880 --> 00:35:57,840
+has been time immemorial, that they've
+
+1043
+00:35:56,400 --> 00:36:00,240
+always been patient and they've always
+
+1044
+00:35:57,840 --> 00:36:03,160
+been, you know, very gracious because to
+
+1045
+00:36:00,240 --> 00:36:05,880
+engage in racist encounters every day
+
+1046
+00:36:03,160 --> 00:36:07,640
+and to show restraint really shows the
+
+1047
+00:36:05,880 --> 00:36:09,440
+temperament you need to negotiate those
+
+1048
+00:36:07,640 --> 00:36:11,240
+situations. And that's a really
+
+1049
+00:36:09,440 --> 00:36:13,200
+difficult thing amongst all the other
+
+1050
+00:36:11,240 --> 00:36:16,080
+intersections that they may be managing.
+
+1051
+00:36:13,200 --> 00:36:18,920
+So for me, it's about um
+
+1052
+00:36:16,080 --> 00:36:20,400
+how we reconceptualize white allyship.
+
+1053
+00:36:18,920 --> 00:36:22,560
+The murder of George Floyd has allowed
+
+1054
+00:36:20,400 --> 00:36:25,160
+us to have a brief pause, reflexive
+
+1055
+00:36:22,560 --> 00:36:27,320
+pause, about how we engage in white
+
+1056
+00:36:25,160 --> 00:36:28,960
+allyship. And it's to recognize that the
+
+1057
+00:36:27,320 --> 00:36:30,240
+work of being a white ally can't be
+
+1058
+00:36:28,960 --> 00:36:32,200
+seasonal. There can't be a seasonal
+
+1059
+00:36:30,240 --> 00:36:34,240
+approach. So, in other words,
+
+1060
+00:36:32,200 --> 00:36:36,120
+uh do you know what? Summer's looking
+
+1061
+00:36:34,240 --> 00:36:37,800
+good. I'm going to take the summer off.
+
+1062
+00:36:36,120 --> 00:36:39,520
+I I I I I I'll take it I'll probably
+
+1063
+00:36:37,800 --> 00:36:41,320
+take off autumn, but then I I I'll get
+
+1064
+00:36:39,520 --> 00:36:43,080
+back on it in winter and and and
+
+1065
+00:36:41,320 --> 00:36:45,400
+probably spring. You know, it's it's got
+
+1066
+00:36:43,080 --> 00:36:47,160
+to it's got to be all four seasons
+
+1067
+00:36:45,400 --> 00:36:49,240
+because the other side of that is that
+
+1068
+00:36:47,160 --> 00:36:50,680
+people of color don't have the luxury of
+
+1069
+00:36:49,240 --> 00:36:53,120
+saying, "Do you know what? I don't feel
+
+1070
+00:36:50,680 --> 00:36:54,400
+like encountering racism this season.
+
+1071
+00:36:53,120 --> 00:36:56,280
+I'll take I'll take it I'll take it
+
+1072
+00:36:54,400 --> 00:36:59,320
+off." And then it's part of their lived
+
+1073
+00:36:56,280 --> 00:37:00,760
+existence. So, being on that journey is
+
+1074
+00:36:59,320 --> 00:37:03,040
+literally kind of engaging in a
+
+1075
+00:37:00,760 --> 00:37:04,920
+ride-or-die capacity. You know, you you
+
+1076
+00:37:03,040 --> 00:37:06,320
+you've got to be with that person all
+
+1077
+00:37:04,920 --> 00:37:07,760
+the time. And it's really really When I
+
+1078
+00:37:06,320 --> 00:37:09,800
+say all the time, I mean it
+
+1079
+00:37:07,760 --> 00:37:12,320
+metaphorically in terms of being in
+
+1080
+00:37:09,800 --> 00:37:14,320
+those spaces and disrupting it and
+
+1081
+00:37:12,320 --> 00:37:16,080
+learning what white allyship is, not
+
+1082
+00:37:14,320 --> 00:37:18,600
+through asking a person of color, "What
+
+1083
+00:37:16,080 --> 00:37:20,360
+can I do?" but by observing, by
+
+1084
+00:37:18,600 --> 00:37:22,200
+educating, by reading. Once you've
+
+1085
+00:37:20,360 --> 00:37:24,400
+engaged in that process, then you can
+
+1086
+00:37:22,200 --> 00:37:26,680
+speak to a person of color and say, "How
+
+1087
+00:37:24,400 --> 00:37:28,480
+else can I be of support?"
+
+1088
+00:37:26,680 --> 00:37:30,000
+And I think it comes from that basis of
+
+1089
+00:37:28,480 --> 00:37:32,080
+education which forms a base of
+
+1090
+00:37:30,000 --> 00:37:33,960
+understanding and acknowledges that as a
+
+1091
+00:37:32,080 --> 00:37:36,400
+white person, you're willing to do the
+
+1092
+00:37:33,960 --> 00:37:38,480
+work rather than ask and place more
+
+1093
+00:37:36,400 --> 00:37:40,560
+labor on people of color and say,
+
+1094
+00:37:38,480 --> 00:37:43,480
+"What can I what what can I do to help?"
+
+1095
+00:37:40,560 --> 00:37:46,400
+Cuz that that is a really short circuit
+
+1096
+00:37:43,480 --> 00:37:49,080
+solution. And it's quite lazy. It's lazy
+
+1097
+00:37:46,400 --> 00:37:50,680
+anti-racism, to be honest. Um
+
+1098
+00:37:49,080 --> 00:37:53,760
+it's about educating oneself. You know,
+
+1099
+00:37:50,680 --> 00:37:55,920
+in terms of um sexism, you know, I don't
+
+1100
+00:37:53,760 --> 00:37:57,280
+go to women and say to women, "What can
+
+1101
+00:37:55,920 --> 00:37:59,600
+we do?
+
+1102
+00:37:57,280 --> 00:38:01,720
+What can men do to help?" You know, I I
+
+1103
+00:37:59,600 --> 00:38:05,000
+I try and do my education first, think
+
+1104
+00:38:01,720 --> 00:38:07,240
+about how men, you know, behave in ways
+
+1105
+00:38:05,000 --> 00:38:08,920
+that are completely abhorrent.
+
+1106
+00:38:07,240 --> 00:38:10,480
+And then I do that work. I sit with that
+
+1107
+00:38:08,920 --> 00:38:13,120
+uncomfortability.
+
+1108
+00:38:10,480 --> 00:38:14,880
+I learn. And then I ask from a position
+
+1109
+00:38:13,120 --> 00:38:16,200
+of understanding and knowledge, "What
+
+1110
+00:38:14,880 --> 00:38:19,640
+can I do
+
+1111
+00:38:16,200 --> 00:38:21,360
+to disrupt male patriarchy?"
+
+1112
+00:38:19,640 --> 00:38:23,440
+And and and I and I use that as an
+
+1113
+00:38:21,360 --> 00:38:26,800
+example because I I always try and talk
+
+1114
+00:38:23,440 --> 00:38:26,800
+with people, not at people.
+
+1115
+00:38:27,240 --> 00:38:31,880
+Thank you.
+
+1116
+00:38:29,440 --> 00:38:33,640
+Um so, we've got so many questions. I'm
+
+1117
+00:38:31,880 --> 00:38:35,080
+trying to pick one.
+
+1118
+00:38:33,640 --> 00:38:38,560
+Um
+
+1119
+00:38:35,080 --> 00:38:40,280
+Uh sorry, it's it's really stressful.
+
+1120
+00:38:38,560 --> 00:38:42,560
+Um
+
+1121
+00:38:40,280 --> 00:38:44,440
+So, I saw one that
+
+1122
+00:38:42,560 --> 00:38:46,880
+isn't really a question, but I kind of
+
+1123
+00:38:44,440 --> 00:38:49,640
+want to say it. And someone has said
+
+1124
+00:38:46,880 --> 00:38:51,560
+here, "What about physics?" And
+
+1125
+00:38:49,640 --> 00:38:53,880
+so, number one, I'm not entirely sure
+
+1126
+00:38:51,560 --> 00:38:55,480
+what they're asking about physics.
+
+1127
+00:38:53,880 --> 00:38:57,440
+But, I'm going to interpret it how I
+
+1128
+00:38:55,480 --> 00:38:58,160
+want to interpret it.
+
+1129
+00:38:57,440 --> 00:39:00,920
+Um
+
+1130
+00:38:58,160 --> 00:39:04,280
+and what I want to say is that whilst
+
+1131
+00:39:00,920 --> 00:39:06,720
+Jason is an expert in sociology and
+
+1132
+00:39:04,280 --> 00:39:08,880
+racism, you know, I think it's fair to
+
+1133
+00:39:06,720 --> 00:39:10,080
+say you're not an expert in physics.
+
+1134
+00:39:08,880 --> 00:39:10,880
+And you don't work in the physics
+
+1135
+00:39:10,080 --> 00:39:12,840
+department.
+
+1136
+00:39:10,880 --> 00:39:14,480
+My my my two Fs in science ain't going
+
+1137
+00:39:12,840 --> 00:39:16,560
+to help you on this one.
+
+1138
+00:39:14,480 --> 00:39:17,840
+Well, I just wanted to briefly talk
+
+1139
+00:39:16,560 --> 00:39:21,120
+about
+
+1140
+00:39:17,840 --> 00:39:22,680
+like what I think about physics. And
+
+1141
+00:39:21,120 --> 00:39:24,160
+from looking around, for instance,
+
+1142
+00:39:22,680 --> 00:39:26,160
+Oxford's physics department, it is
+
+1143
+00:39:24,160 --> 00:39:28,000
+predominantly white. And I think, coming
+
+1144
+00:39:26,160 --> 00:39:31,280
+back to what Jason says,
+
+1145
+00:39:28,000 --> 00:39:33,880
+like it's not a question of people of
+
+1146
+00:39:31,280 --> 00:39:35,720
+color not having qualifications or not
+
+1147
+00:39:33,880 --> 00:39:38,000
+being good enough to be in the
+
+1148
+00:39:35,720 --> 00:39:39,880
+department. There's clearly other
+
+1149
+00:39:38,000 --> 00:39:41,040
+factors at work, and they are structural
+
+1150
+00:39:39,880 --> 00:39:42,800
+racism.
+
+1151
+00:39:41,040 --> 00:39:44,120
+One of the things that I would
+
+1152
+00:39:42,800 --> 00:39:46,000
+personally like to see more in our
+
+1153
+00:39:44,120 --> 00:39:47,640
+department is
+
+1154
+00:39:46,000 --> 00:39:49,720
+more people of color being invited for
+
+1155
+00:39:47,640 --> 00:39:51,440
+talks, occupying more space in the
+
+1156
+00:39:49,720 --> 00:39:53,440
+department. Like, we obviously can't
+
+1157
+00:39:51,440 --> 00:39:55,520
+overnight just hire loads of people of
+
+1158
+00:39:53,440 --> 00:39:57,080
+As much as I would like, um it's not
+
+1159
+00:39:55,520 --> 00:39:58,680
+going to happen.
+
+1160
+00:39:57,080 --> 00:40:00,320
+But, I if the For me, the thing I would
+
+1161
+00:39:58,680 --> 00:40:01,640
+really like to see from people in the
+
+1162
+00:40:00,320 --> 00:40:04,200
+department is holding other people
+
+1163
+00:40:01,640 --> 00:40:06,240
+accountable because
+
+1164
+00:40:04,200 --> 00:40:07,760
+it's a cultural thing as much as it is a
+
+1165
+00:40:06,240 --> 00:40:10,480
+structural thing. Like, every single
+
+1166
+00:40:07,760 --> 00:40:13,840
+thing that we let go, every single
+
+1167
+00:40:10,480 --> 00:40:17,240
+little instance that you might observe
+
+1168
+00:40:13,840 --> 00:40:19,000
+as a white person, which you think, "Oh,
+
+1169
+00:40:17,240 --> 00:40:20,600
+that wasn't okay." It's up to you to use
+
+1170
+00:40:19,000 --> 00:40:22,360
+your privilege to call people out and
+
+1171
+00:40:20,600 --> 00:40:24,240
+hold people accountable and to make the
+
+1172
+00:40:22,360 --> 00:40:26,240
+environment better for people because
+
+1173
+00:40:24,240 --> 00:40:27,560
+it's not just a case of not having
+
+1174
+00:40:26,240 --> 00:40:28,960
+people
+
+1175
+00:40:27,560 --> 00:40:30,920
+of color in the department. It's the
+
+1176
+00:40:28,960 --> 00:40:32,560
+fact that like perhaps the environment
+
+1177
+00:40:30,920 --> 00:40:34,880
+isn't pleasant and this again goes back
+
+1178
+00:40:32,560 --> 00:40:36,480
+to something that you said that
+
+1179
+00:40:34,880 --> 00:40:38,760
+you know, sometimes you're there, you're
+
+1180
+00:40:36,480 --> 00:40:40,760
+trying your hardest and you're dealing
+
+1181
+00:40:38,760 --> 00:40:43,240
+with the microaggressions or just like
+
+1182
+00:40:40,760 --> 00:40:45,160
+the outright racism and we need our
+
+1183
+00:40:43,240 --> 00:40:46,520
+white allies to step up and say, "No,
+
+1184
+00:40:45,160 --> 00:40:48,160
+you don't have to deal with this. I will
+
+1185
+00:40:46,520 --> 00:40:49,520
+tell this person why they're wrong and I
+
+1186
+00:40:48,160 --> 00:40:51,280
+will hold them accountable and I will
+
+1187
+00:40:49,520 --> 00:40:54,520
+make the complaint."
+
+1188
+00:40:51,280 --> 00:40:56,040
+So, even though this person uh
+
+1189
+00:40:54,520 --> 00:40:57,760
+asked a question that I don't really
+
+1190
+00:40:56,040 --> 00:40:59,560
+understand what the question was, I
+
+1191
+00:40:57,760 --> 00:41:01,280
+think I've answered it.
+
+1192
+00:40:59,560 --> 00:41:03,000
+Right. All right.
+
+1193
+00:41:01,280 --> 00:41:04,040
+Sorry. It's We're supposed to be hearing
+
+1194
+00:41:03,000 --> 00:41:05,760
+from you, not from me.
+
+1195
+00:41:04,040 --> 00:41:08,000
+No, no, Alex, it's brilliant.
+
+1196
+00:41:05,760 --> 00:41:11,440
+Um
+
+1197
+00:41:08,000 --> 00:41:15,160
+Okay, this is an interesting one. Um
+
+1198
+00:41:11,440 --> 00:41:17,800
+As So, the the question is if you're a
+
+1199
+00:41:15,160 --> 00:41:20,880
+as a white passing but still
+
+1200
+00:41:17,800 --> 00:41:23,240
+person who would be categorized as BAME,
+
+1201
+00:41:20,880 --> 00:41:26,040
+do you personally believe that if you're
+
+1202
+00:41:23,240 --> 00:41:29,280
+white passing you still experience acts
+
+1203
+00:41:26,040 --> 00:41:31,160
+of systemic racism in your employment or
+
+1204
+00:41:29,280 --> 00:41:33,240
+is there a different form of racism that
+
+1205
+00:41:31,160 --> 00:41:34,880
+white passing but people of color
+
+1206
+00:41:33,240 --> 00:41:37,760
+experience?
+
+1207
+00:41:34,880 --> 00:41:39,720
+I think that's a great question. I mean
+
+1208
+00:41:37,760 --> 00:41:41,440
+probably the obvious answer is that
+
+1209
+00:41:39,720 --> 00:41:43,720
+there is a proximity to whiteness and
+
+1210
+00:41:41,440 --> 00:41:46,120
+based on how colorism works and how
+
+1211
+00:41:43,720 --> 00:41:47,920
+colonialism works, that there is a there
+
+1212
+00:41:46,120 --> 00:41:50,400
+are preferences.
+
+1213
+00:41:47,920 --> 00:41:52,800
+Um but I think that is also it is
+
+1214
+00:41:50,400 --> 00:41:55,400
+important that we don't neutralize the
+
+1215
+00:41:52,800 --> 00:41:57,360
+experiences of people included white
+
+1216
+00:41:55,400 --> 00:41:59,240
+passing. Um and the reason why I say
+
+1217
+00:41:57,360 --> 00:42:00,920
+that is because they would have had to
+
+1218
+00:41:59,240 --> 00:42:03,000
+encounter
+
+1219
+00:42:00,920 --> 00:42:05,440
+uh being biracial
+
+1220
+00:42:03,000 --> 00:42:07,360
+and really trying to identify space of
+
+1221
+00:42:05,440 --> 00:42:10,280
+belonging in a way that actually in some
+
+1222
+00:42:07,360 --> 00:42:13,480
+cases maybe people who are
+
+1223
+00:42:10,280 --> 00:42:15,160
+black black passing if that's a term, um
+
+1224
+00:42:13,480 --> 00:42:16,880
+wouldn't have to because there's that
+
+1225
+00:42:15,160 --> 00:42:19,680
+there's that kind of there's that kind
+
+1226
+00:42:16,880 --> 00:42:21,440
+of sense of in in in some respects being
+
+1227
+00:42:19,680 --> 00:42:23,920
+nomadic, you know, not having a place
+
+1228
+00:42:21,440 --> 00:42:26,200
+where you belong because, you know, in
+
+1229
+00:42:23,920 --> 00:42:28,480
+some respects white people kind of look
+
+1230
+00:42:26,200 --> 00:42:29,680
+at you and can think
+
+1231
+00:42:28,480 --> 00:42:31,120
+there's something slightly different
+
+1232
+00:42:29,680 --> 00:42:33,080
+about you which can kind of really
+
+1233
+00:42:31,120 --> 00:42:34,840
+facilitate this really bizarre
+
+1234
+00:42:33,080 --> 00:42:36,840
+fetishization, you know, there's an
+
+1235
+00:42:34,840 --> 00:42:37,600
+exoticism that you know all these kind
+
+1236
+00:42:36,840 --> 00:42:40,200
+of
+
+1237
+00:42:37,600 --> 00:42:42,880
+artistic words which just
+
+1238
+00:42:40,200 --> 00:42:46,640
+yeah, I can only describe with a sound.
+
+1239
+00:42:42,880 --> 00:42:47,880
+Like um you know, and it's not to you
+
+1240
+00:42:46,640 --> 00:42:50,480
+know, if I if I'm being absolutely
+
+1241
+00:42:47,880 --> 00:42:51,840
+honest, I think black women
+
+1242
+00:42:50,480 --> 00:42:53,600
+um
+
+1243
+00:42:51,840 --> 00:42:56,240
+more than any other race encounter
+
+1244
+00:42:53,600 --> 00:42:57,640
+racism in a way that is very very unique
+
+1245
+00:42:56,240 --> 00:42:59,120
+and hostile.
+
+1246
+00:42:57,640 --> 00:43:01,200
+Um
+
+1247
+00:42:59,120 --> 00:43:03,640
+so you know, it's not about hierarchy of
+
+1248
+00:43:01,200 --> 00:43:04,960
+experience, but it's important to say
+
+1249
+00:43:03,640 --> 00:43:06,360
+that
+
+1250
+00:43:04,960 --> 00:43:09,800
+cuz I think the absence of not saying
+
+1251
+00:43:06,360 --> 00:43:11,800
+that is is one quite insensitive and
+
+1252
+00:43:09,800 --> 00:43:14,040
+it's quite a truce to not acknowledge
+
+1253
+00:43:11,800 --> 00:43:15,920
+some of that. But I do think that there
+
+1254
+00:43:14,040 --> 00:43:17,640
+is this idea that people who are white
+
+1255
+00:43:15,920 --> 00:43:20,040
+passing don't experience racism in the
+
+1256
+00:43:17,640 --> 00:43:22,080
+same way and I think that we need to be
+
+1257
+00:43:20,040 --> 00:43:24,720
+careful of doing that. We need to be
+
+1258
+00:43:22,080 --> 00:43:27,800
+careful of
+
+1259
+00:43:24,720 --> 00:43:29,200
+of segregating and we don't want to
+
+1260
+00:43:27,800 --> 00:43:32,120
+homogenize, but we also don't want to
+
+1261
+00:43:29,200 --> 00:43:34,800
+suggest that, you know, people that
+
+1262
+00:43:32,120 --> 00:43:37,680
+there there's almost like a
+
+1263
+00:43:34,800 --> 00:43:39,760
+a a level of racial experience. I think
+
+1264
+00:43:37,680 --> 00:43:42,160
+it's very unique to the individual and I
+
+1265
+00:43:39,760 --> 00:43:43,520
+think that we need to be careful of
+
+1266
+00:43:42,160 --> 00:43:46,080
+suggesting that because someone is white
+
+1267
+00:43:43,520 --> 00:43:48,840
+passing or has a proximity to whiteness,
+
+1268
+00:43:46,080 --> 00:43:50,040
+they somehow encounter less racism, you
+
+1269
+00:43:48,840 --> 00:43:52,040
+know,
+
+1270
+00:43:50,040 --> 00:43:53,320
+I try not to speak
+
+1271
+00:43:52,040 --> 00:43:54,240
+about
+
+1272
+00:43:53,320 --> 00:43:56,280
+um
+
+1273
+00:43:54,240 --> 00:43:57,480
+being another I try not to speak for
+
+1274
+00:43:56,280 --> 00:43:58,960
+someone's shoes I haven't been in
+
+1275
+00:43:57,480 --> 00:44:01,200
+before. I don't know what it's like to
+
+1276
+00:43:58,960 --> 00:44:05,120
+be in that situation. Um and I would
+
+1277
+00:44:01,200 --> 00:44:07,400
+imagine um having a dad that is biracial
+
+1278
+00:44:05,120 --> 00:44:08,920
+that actually there are well I know I
+
+1279
+00:44:07,400 --> 00:44:10,600
+know for a fact there are a lot of
+
+1280
+00:44:08,920 --> 00:44:13,400
+issues in terms of
+
+1281
+00:44:10,600 --> 00:44:15,480
+a sense of non-belonging
+
+1282
+00:44:13,400 --> 00:44:18,200
+from both sides. So, I think that's kind
+
+1283
+00:44:15,480 --> 00:44:20,760
+of really important to acknowledge that
+
+1284
+00:44:18,200 --> 00:44:23,760
+and to recognize that there is something
+
+1285
+00:44:20,760 --> 00:44:26,880
+in political blackness as a movement.
+
+1286
+00:44:23,760 --> 00:44:29,200
+And that movement is inclusive of
+
+1287
+00:44:26,880 --> 00:44:31,960
+people of color.
+
+1288
+00:44:29,200 --> 00:44:34,360
+And, you know, a pro you know,
+
+1289
+00:44:31,960 --> 00:44:36,640
+being white passing, it one of those
+
+1290
+00:44:34,360 --> 00:44:37,720
+terms that I I never really like because
+
+1291
+00:44:36,640 --> 00:44:39,680
+I think that can actually be a
+
+1292
+00:44:37,720 --> 00:44:41,240
+neutralizer in terms of how someone
+
+1293
+00:44:39,680 --> 00:44:42,360
+experiences racism. And I say that
+
+1294
+00:44:41,240 --> 00:44:44,440
+because basically because they may be
+
+1295
+00:44:42,360 --> 00:44:45,880
+perceived as white passing,
+
+1296
+00:44:44,440 --> 00:44:47,600
+for that individual, they may feel in
+
+1297
+00:44:45,880 --> 00:44:49,360
+certain spaces that I can't talk about
+
+1298
+00:44:47,600 --> 00:44:51,400
+being racialized.
+
+1299
+00:44:49,360 --> 00:44:53,040
+And and and that is stifling.
+
+1300
+00:44:51,400 --> 00:44:55,600
+That is stifling, and I think people of
+
+1301
+00:44:53,040 --> 00:44:57,520
+color who encounter racism should always
+
+1302
+00:44:55,600 --> 00:45:00,520
+be given a platform to talk about their
+
+1303
+00:44:57,520 --> 00:45:02,240
+racialized experiences with society and
+
+1304
+00:45:00,520 --> 00:45:05,080
+all of us recognizing that people
+
+1305
+00:45:02,240 --> 00:45:07,040
+experience racism in many different ways
+
+1306
+00:45:05,080 --> 00:45:09,200
+in terms of people of color. So, I think
+
+1307
+00:45:07,040 --> 00:45:11,440
+that's really important. But, I also
+
+1308
+00:45:09,200 --> 00:45:13,160
+caveat that by saying, you know,
+
+1309
+00:45:11,440 --> 00:45:15,640
+black women in particular do encounter
+
+1310
+00:45:13,160 --> 00:45:17,760
+racism in a very violent, epistemic, and
+
+1311
+00:45:15,640 --> 00:45:19,680
+unique way that I don't actually think
+
+1312
+00:45:17,760 --> 00:45:22,960
+is comparable.
+
+1313
+00:45:19,680 --> 00:45:26,480
+And and I think that's important to say.
+
+1314
+00:45:22,960 --> 00:45:28,320
+That was yeah, a really great answer. I
+
+1315
+00:45:26,480 --> 00:45:29,880
+felt very spoken to through a lot of
+
+1316
+00:45:28,320 --> 00:45:32,240
+that answer
+
+1317
+00:45:29,880 --> 00:45:33,920
+cuz this is definitely something that I
+
+1318
+00:45:32,240 --> 00:45:36,360
+think I encounter
+
+1319
+00:45:33,920 --> 00:45:39,080
+uh cuz I don't really look
+
+1320
+00:45:36,360 --> 00:45:40,720
+that brown, I guess.
+
+1321
+00:45:39,080 --> 00:45:43,280
+So,
+
+1322
+00:45:40,720 --> 00:45:45,920
+here's a question that I find
+
+1323
+00:45:43,280 --> 00:45:48,120
+interesting to think about. Um
+
+1324
+00:45:45,920 --> 00:45:51,680
+Do you think that affirmative action or
+
+1325
+00:45:48,120 --> 00:45:53,960
+something similar is a tool that
+
+1326
+00:45:51,680 --> 00:45:57,160
+universities in the UK should implement
+
+1327
+00:45:53,960 --> 00:45:58,240
+having seen the effects of it in the US?
+
+1328
+00:45:57,160 --> 00:46:00,080
+I actually have to say something really
+
+1329
+00:45:58,240 --> 00:46:00,920
+funny. As soon as you said affirmative,
+
+1330
+00:46:00,080 --> 00:46:02,400
+I was like
+
+1331
+00:46:00,920 --> 00:46:04,640
+I was just like just stop the just stop
+
+1332
+00:46:02,400 --> 00:46:06,640
+the question right there. One If if
+
+1333
+00:46:04,640 --> 00:46:08,880
+there is one thing I would bring into
+
+1334
+00:46:06,640 --> 00:46:10,840
+the UK, it would be affirmative action.
+
+1335
+00:46:08,880 --> 00:46:12,800
+And we don't have it. The our equivalent
+
+1336
+00:46:10,840 --> 00:46:14,160
+of affirmative action is positive
+
+1337
+00:46:12,800 --> 00:46:16,600
+action. And I can't think of a
+
+1338
+00:46:14,160 --> 00:46:18,640
+legislation that we make more poor use
+
+1339
+00:46:16,600 --> 00:46:20,080
+of than that.
+
+1340
+00:46:18,640 --> 00:46:22,120
+If if positive action was used
+
+1341
+00:46:20,080 --> 00:46:24,280
+effectively in higher education, there
+
+1342
+00:46:22,120 --> 00:46:26,720
+is a lot we could do to diversify the
+
+1343
+00:46:24,280 --> 00:46:29,640
+space and create a more equal space, but
+
+1344
+00:46:26,720 --> 00:46:32,360
+we don't. We use it selectively and
+
+1345
+00:46:29,640 --> 00:46:35,520
+there's an ambiguity with it that is
+
+1346
+00:46:32,360 --> 00:46:37,480
+applied by a lot of
+
+1347
+00:46:35,520 --> 00:46:39,760
+white senior leaders
+
+1348
+00:46:37,480 --> 00:46:41,360
+um that it in fact doesn't it doesn't
+
+1349
+00:46:39,760 --> 00:46:43,280
+benefit people of color.
+
+1350
+00:46:41,360 --> 00:46:44,680
+And they could use it to do that. You
+
+1351
+00:46:43,280 --> 00:46:47,400
+know, you can have BAME PhD
+
+1352
+00:46:44,680 --> 00:46:48,080
+studentships. You can have
+
+1353
+00:46:47,400 --> 00:46:49,080
+um
+
+1354
+00:46:48,080 --> 00:46:52,160
+you know
+
+1355
+00:46:49,080 --> 00:46:53,880
+selection panels or shortlist panels
+
+1356
+00:46:52,160 --> 00:46:57,080
+like where you make a conscious effort
+
+1357
+00:46:53,880 --> 00:46:58,520
+to have a better rep BAME representation
+
+1358
+00:46:57,080 --> 00:47:00,720
+not only on the on the recruitment
+
+1359
+00:46:58,520 --> 00:47:02,880
+panels, but also on the shortlisting.
+
+1360
+00:47:00,720 --> 00:47:04,480
+There are things that you can do and we
+
+1361
+00:47:02,880 --> 00:47:05,760
+don't utilize
+
+1362
+00:47:04,480 --> 00:47:07,600
+uh positive action enough, but if I
+
+1363
+00:47:05,760 --> 00:47:11,280
+personally had my own way,
+
+1364
+00:47:07,600 --> 00:47:13,240
+um I would have affirmative action. I I
+
+1365
+00:47:11,280 --> 00:47:14,320
+I would think this is probably the most
+
+1366
+00:47:13,240 --> 00:47:16,120
+arrogant thing I've ever said and I'm
+
+1367
+00:47:14,320 --> 00:47:18,160
+not an arrogant person, but I would be
+
+1368
+00:47:16,120 --> 00:47:19,760
+one of the biggest advocates
+
+1369
+00:47:18,160 --> 00:47:22,560
+um in higher education for affirmative
+
+1370
+00:47:19,760 --> 00:47:25,040
+action. I I think that is the way to go.
+
+1371
+00:47:22,560 --> 00:47:27,800
+I think sometimes there are times where
+
+1372
+00:47:25,040 --> 00:47:29,480
+to accelerate change, you have to
+
+1373
+00:47:27,800 --> 00:47:31,920
+you have to
+
+1374
+00:47:29,480 --> 00:47:34,600
+force the issue on certain things.
+
+1375
+00:47:31,920 --> 00:47:37,240
+And I would do that because
+
+1376
+00:47:34,600 --> 00:47:39,640
+the disaggregation that people of color
+
+1377
+00:47:37,240 --> 00:47:42,680
+face in the academy in terms of pay,
+
+1378
+00:47:39,640 --> 00:47:44,480
+progression, wider representation
+
+1379
+00:47:42,680 --> 00:47:46,600
+being in positions of leadership, that
+
+1380
+00:47:44,480 --> 00:47:48,360
+is never going to change if we sit with
+
+1381
+00:47:46,600 --> 00:47:50,320
+the current system we've got now. It
+
+1382
+00:47:48,360 --> 00:47:52,080
+will be like that in 10 years time. And
+
+1383
+00:47:50,320 --> 00:47:54,600
+that's not me being pessimistic. Things
+
+1384
+00:47:52,080 --> 00:47:56,160
+will improve, but they're only they're
+
+1385
+00:47:54,600 --> 00:47:58,280
+only as effective as the type of
+
+1386
+00:47:56,160 --> 00:48:00,320
+leaderships, type of leaders you have,
+
+1387
+00:47:58,280 --> 00:48:01,840
+types of institutions you have, types of
+
+1388
+00:48:00,320 --> 00:48:03,600
+people that are incumbent, the types of
+
+1389
+00:48:01,840 --> 00:48:05,400
+custodians
+
+1390
+00:48:03,600 --> 00:48:07,920
+of the academy that reside within it,
+
+1391
+00:48:05,400 --> 00:48:09,840
+the gatekeepers to knowledge. You know,
+
+1392
+00:48:07,920 --> 00:48:11,520
+it's it's about changing all of that.
+
+1393
+00:48:09,840 --> 00:48:13,920
+And the only way to really do it,
+
+1394
+00:48:11,520 --> 00:48:15,520
+because there is a reluctance
+
+1395
+00:48:13,920 --> 00:48:18,360
+by a lot of white people to give up that
+
+1396
+00:48:15,520 --> 00:48:20,440
+privilege, is is to is to in some
+
+1397
+00:48:18,360 --> 00:48:21,520
+respects, I wouldn't say forcibly, but
+
+1398
+00:48:20,440 --> 00:48:22,720
+when you're talking about affirmative
+
+1399
+00:48:21,520 --> 00:48:25,200
+action, there is something that is quite
+
+1400
+00:48:22,720 --> 00:48:26,760
+forcible about it.
+
+1401
+00:48:25,200 --> 00:48:28,320
+And and I think that is an intervention
+
+1402
+00:48:26,760 --> 00:48:30,200
+that is needed in the UK.
+
+1403
+00:48:28,320 --> 00:48:31,960
+Otherwise, we're going to
+
+1404
+00:48:30,200 --> 00:48:34,160
+there'll be 101 culture reviews,
+
+1405
+00:48:31,960 --> 00:48:35,960
+there'll be 101 race reports. You know,
+
+1406
+00:48:34,160 --> 00:48:37,960
+there'll be
+
+1407
+00:48:35,960 --> 00:48:40,800
+we'll be talking about the first report
+
+1408
+00:48:37,960 --> 00:48:42,600
+not 22 years later, 40 years later, and
+
+1409
+00:48:40,800 --> 00:48:44,960
+still using the same terms. We made
+
+1410
+00:48:42,600 --> 00:48:47,480
+fragile gains since the offering of that
+
+1411
+00:48:44,960 --> 00:48:49,480
+report. And I don't want us to use that
+
+1412
+00:48:47,480 --> 00:48:52,320
+kind of lexicon anymore. I want us to
+
+1413
+00:48:49,480 --> 00:48:54,280
+actually make tangible structural
+
+1414
+00:48:52,320 --> 00:48:56,440
+changes, and I do think affirmative
+
+1415
+00:48:54,280 --> 00:48:58,960
+action will facilitate that
+
+1416
+00:48:56,440 --> 00:49:01,560
+massively.
+
+1417
+00:48:58,960 --> 00:49:03,640
+Yeah. I I've always felt that part of
+
+1418
+00:49:01,560 --> 00:49:05,400
+the reason there's such a pushback to
+
+1419
+00:49:03,640 --> 00:49:08,160
+the idea of having affirmative action in
+
+1420
+00:49:05,400 --> 00:49:10,280
+the UK is not it's
+
+1421
+00:49:08,160 --> 00:49:11,520
+also ties into our like weird class
+
+1422
+00:49:10,280 --> 00:49:13,720
+system.
+
+1423
+00:49:11,520 --> 00:49:15,400
+I feel like it's not just
+
+1424
+00:49:13,720 --> 00:49:17,200
+there's like the class elements, and
+
+1425
+00:49:15,400 --> 00:49:19,680
+then like the racism elements, and then
+
+1426
+00:49:17,200 --> 00:49:22,320
+obviously like the sexism, and anything
+
+1427
+00:49:19,680 --> 00:49:23,560
+else that ties into it. Um
+
+1428
+00:49:22,320 --> 00:49:24,760
+I mean, I would I would have to be
+
+1429
+00:49:23,560 --> 00:49:26,080
+honest, I would apply it across the
+
+1430
+00:49:24,760 --> 00:49:27,800
+intersection. I wouldn't I wouldn't I
+
+1431
+00:49:26,080 --> 00:49:29,840
+wouldn't just advocate that for race.
+
+1432
+00:49:27,800 --> 00:49:31,200
+I'd apply that across the intersection,
+
+1433
+00:49:29,840 --> 00:49:32,600
+you know, um
+
+1434
+00:49:31,200 --> 00:49:34,680
+but yeah, I mean, I would particularly
+
+1435
+00:49:32,600 --> 00:49:36,360
+focus on race because our major
+
+1436
+00:49:34,680 --> 00:49:38,680
+institutions are pretty much all
+
+1437
+00:49:36,360 --> 00:49:40,960
+entirely white. So,
+
+1438
+00:49:38,680 --> 00:49:43,160
+for obvious reasons, um I'm I'm not
+
+1439
+00:49:40,960 --> 00:49:45,880
+white, so I would I would I
+
+1440
+00:49:43,160 --> 00:49:47,160
+I would I would push for that.
+
+1441
+00:49:45,880 --> 00:49:49,240
+Yeah, that's right.
+
+1442
+00:49:47,160 --> 00:49:51,240
+Yeah, sorry.
+
+1443
+00:49:49,240 --> 00:49:54,600
+Yeah.
+
+1444
+00:49:51,240 --> 00:49:56,480
+Um there's a question here that I really
+
+1445
+00:49:54,600 --> 00:49:58,600
+want to ask because even though it's a
+
+1446
+00:49:56,480 --> 00:50:00,560
+slight deviation, it actually ties into
+
+1447
+00:49:58,600 --> 00:50:03,160
+something that I've been hearing a lot
+
+1448
+00:50:00,560 --> 00:50:05,040
+about. Do you think the term BAME can be
+
+1449
+00:50:03,160 --> 00:50:06,480
+damaging?
+
+1450
+00:50:05,040 --> 00:50:09,880
+Because you're essentially lumping
+
+1451
+00:50:06,480 --> 00:50:11,840
+together all non-white people and
+
+1452
+00:50:09,880 --> 00:50:14,240
+treating them equally. And when you do
+
+1453
+00:50:11,840 --> 00:50:17,040
+things like break down the statistics,
+
+1454
+00:50:14,240 --> 00:50:19,280
+for instance, you could say, "Oh, 40% of
+
+1455
+00:50:17,040 --> 00:50:20,960
+our staff are BAME, but actually only 1%
+
+1456
+00:50:19,280 --> 00:50:23,120
+is black." And so,
+
+1457
+00:50:20,960 --> 00:50:26,360
+what are your thoughts on catchall terms
+
+1458
+00:50:23,120 --> 00:50:26,760
+like BAME, like BIPOC, for instance?
+
+1459
+00:50:26,360 --> 00:50:29,120
+That's a
+
+1460
+00:50:26,760 --> 00:50:31,800
+Yeah. I I I think catchall terms like
+
+1461
+00:50:29,120 --> 00:50:33,120
+BAME are hugely problematic. And in
+
+1462
+00:50:31,800 --> 00:50:35,160
+every
+
+1463
+00:50:33,120 --> 00:50:36,680
+piece of writing I've ever done, I've
+
+1464
+00:50:35,160 --> 00:50:38,960
+always had to put a footnote saying that
+
+1465
+00:50:36,680 --> 00:50:40,840
+this term is problematic. Um, but in
+
+1466
+00:50:38,960 --> 00:50:42,840
+policy documents and in policy
+
+1467
+00:50:40,840 --> 00:50:43,680
+interventions, it's still the term that
+
+1468
+00:50:42,840 --> 00:50:46,160
+um
+
+1469
+00:50:43,680 --> 00:50:47,800
+the government prefers to use. And there
+
+1470
+00:50:46,160 --> 00:50:50,400
+hasn't been anything in parliamentary
+
+1471
+00:50:47,800 --> 00:50:51,960
+spaces in Whitehall to suggest that that
+
+1472
+00:50:50,400 --> 00:50:54,080
+is going to change anytime soon. I mean,
+
+1473
+00:50:51,960 --> 00:50:58,520
+the operative word being Whitehall.
+
+1474
+00:50:54,080 --> 00:51:01,760
+Um, so I I think um
+
+1475
+00:50:58,520 --> 00:51:03,640
+the homogenizing of of ethnic minorities
+
+1476
+00:51:01,760 --> 00:51:06,840
+is problematic, which is why I prefer
+
+1477
+00:51:03,640 --> 00:51:09,360
+terms like either just saying black and
+
+1478
+00:51:06,840 --> 00:51:12,720
+minority ethnic people or people of
+
+1479
+00:51:09,360 --> 00:51:13,920
+color. Um, and
+
+1480
+00:51:12,720 --> 00:51:15,680
+there is a homogenizing of those
+
+1481
+00:51:13,920 --> 00:51:18,320
+experiences, which always paints a
+
+1482
+00:51:15,680 --> 00:51:19,720
+picture that, you know, amongst black
+
+1483
+00:51:18,320 --> 00:51:22,000
+and ethnic minority people or BAME
+
+1484
+00:51:19,720 --> 00:51:23,360
+people, their outcomes aren't as bad as
+
+1485
+00:51:22,000 --> 00:51:25,200
+they suggest.
+
+1486
+00:51:23,360 --> 00:51:28,560
+Because there's that grouping. But when
+
+1487
+00:51:25,200 --> 00:51:30,440
+you kind of separate the kind of
+
+1488
+00:51:28,560 --> 00:51:32,840
+the fat from the strain,
+
+1489
+00:51:30,440 --> 00:51:34,880
+what what you do what you do see is that
+
+1490
+00:51:32,840 --> 00:51:36,800
+within those particular groups, they
+
+1491
+00:51:34,880 --> 00:51:39,480
+experience things very very differently.
+
+1492
+00:51:36,800 --> 00:51:41,400
+So, for example, how the comparison is
+
+1493
+00:51:39,480 --> 00:51:44,120
+drawn between black African and black
+
+1494
+00:51:41,400 --> 00:51:46,000
+Caribbean, there's there's huge distinct
+
+1495
+00:51:44,120 --> 00:51:46,760
+profiles in terms of
+
+1496
+00:51:46,000 --> 00:51:49,560
+um
+
+1497
+00:51:46,760 --> 00:51:51,640
+academic um outcomes. When we think
+
+1498
+00:51:49,560 --> 00:51:53,600
+amongst um South Asian communities and
+
+1499
+00:51:51,640 --> 00:51:55,880
+we think particularly around, you know,
+
+1500
+00:51:53,600 --> 00:51:59,160
+Indian, Bangladeshi, and Pakistani,
+
+1501
+00:51:55,880 --> 00:52:00,920
+between Bangladeshi and Pakistani, um
+
+1502
+00:51:59,160 --> 00:52:02,760
+against Indian,
+
+1503
+00:52:00,920 --> 00:52:04,800
+there are huge, you know, Indian, you
+
+1504
+00:52:02,760 --> 00:52:06,720
+know, Pakistani, people from Pakistani
+
+1505
+00:52:04,800 --> 00:52:09,760
+and Bangladeshi backgrounds tend to have
+
+1506
+00:52:06,720 --> 00:52:11,200
+lower um education educational
+
+1507
+00:52:09,760 --> 00:52:13,120
+attainment. But when it's lumped
+
+1508
+00:52:11,200 --> 00:52:14,840
+together, it can present this like a
+
+1509
+00:52:13,120 --> 00:52:16,040
+whole holistic picture. Particularly
+
+1510
+00:52:14,840 --> 00:52:17,280
+when you talk about Asian because then
+
+1511
+00:52:16,040 --> 00:52:20,200
+we're also talking about East Asian,
+
+1512
+00:52:17,280 --> 00:52:22,400
+which can kind of compound that as well.
+
+1513
+00:52:20,200 --> 00:52:25,400
+And then when we talk about people from
+
+1514
+00:52:22,400 --> 00:52:27,360
+um Romany and traveler groups, again,
+
+1515
+00:52:25,400 --> 00:52:28,840
+that's a completely unique experience
+
+1516
+00:52:27,360 --> 00:52:31,360
+because there is still a proximity to
+
+1517
+00:52:28,840 --> 00:52:34,040
+whiteness, but they but individuals from
+
+1518
+00:52:31,360 --> 00:52:36,600
+that diaspora are a racial are a racial
+
+1519
+00:52:34,040 --> 00:52:39,320
+group or an ethnic group. So it's
+
+1520
+00:52:36,600 --> 00:52:41,280
+recognizing kind of the differences and
+
+1521
+00:52:39,320 --> 00:52:43,920
+not using those terms and really moving
+
+1522
+00:52:41,280 --> 00:52:45,840
+beyond the laziness of engaging in that
+
+1523
+00:52:43,920 --> 00:52:47,280
+as a homogeneous activity. It's
+
+1524
+00:52:45,840 --> 00:52:48,680
+recognizing
+
+1525
+00:52:47,280 --> 00:52:50,480
+they're not subtle nuances, they are
+
+1526
+00:52:48,680 --> 00:52:52,720
+quite big nuances between those ethnic
+
+1527
+00:52:50,480 --> 00:52:55,040
+categories. And I think the more we
+
+1528
+00:52:52,720 --> 00:52:56,440
+engage in language that recognizes that,
+
+1529
+00:52:55,040 --> 00:52:58,160
+the better. Otherwise, what we're doing
+
+1530
+00:52:56,440 --> 00:52:59,440
+is subverting everyone's experience to
+
+1531
+00:52:58,160 --> 00:53:02,280
+be the same.
+
+1532
+00:52:59,440 --> 00:53:04,960
+And that isn't the case because,
+
+1533
+00:53:02,280 --> 00:53:07,640
+you know, like I said, of 30,000 PhD
+
+1534
+00:53:04,960 --> 00:53:09,480
+studentships awarded, only 30 were
+
+1535
+00:53:07,640 --> 00:53:11,920
+awarded to black
+
+1536
+00:53:09,480 --> 00:53:13,920
+British Caribbean people. That that is
+
+1537
+00:53:11,920 --> 00:53:15,520
+that is remarkable.
+
+1538
+00:53:13,920 --> 00:53:16,800
+That is remarkable. And by the way, the
+
+1539
+00:53:15,520 --> 00:53:18,400
+number for the amount of black
+
+1540
+00:53:16,800 --> 00:53:20,200
+studentships that were studentships
+
+1541
+00:53:18,400 --> 00:53:21,400
+awarded to black people,
+
+1542
+00:53:20,200 --> 00:53:23,120
+um predominantly from African
+
+1543
+00:53:21,400 --> 00:53:26,040
+backgrounds, is not much more than that.
+
+1544
+00:53:23,120 --> 00:53:26,960
+So it's something like 100.
+
+1545
+00:53:26,040 --> 00:53:28,200
+So you're still talking you're still
+
+1546
+00:53:26,960 --> 00:53:30,760
+talking about a you know, still a
+
+1547
+00:53:28,200 --> 00:53:33,200
+pathetic number out of 30,000 when you
+
+1548
+00:53:30,760 --> 00:53:35,920
+bear in mind that in that particular
+
+1549
+00:53:33,200 --> 00:53:38,840
+year, the majority, you know, two just
+
+1550
+00:53:35,920 --> 00:53:40,800
+over half of the applications, according
+
+1551
+00:53:38,840 --> 00:53:42,040
+to HESA, um because we got a Freedom of
+
+1552
+00:53:40,800 --> 00:53:43,400
+Information act. Over half of the
+
+1553
+00:53:42,040 --> 00:53:46,400
+applications
+
+1554
+00:53:43,400 --> 00:53:48,800
+um, for
+
+1555
+00:53:46,400 --> 00:53:49,920
+black and ethnic minority uh, people
+
+1556
+00:53:48,800 --> 00:53:51,560
+came from black and ethnic minority
+
+1557
+00:53:49,920 --> 00:53:54,400
+people in relation to gaining
+
+1558
+00:53:51,560 --> 00:53:55,720
+studentship, PhD studentship places.
+
+1559
+00:53:54,400 --> 00:53:57,880
+So, even though this information isn't
+
+1560
+00:53:55,720 --> 00:53:59,720
+accessible, black people and ethnic
+
+1561
+00:53:57,880 --> 00:54:02,680
+minorities are still finding ways to
+
+1562
+00:53:59,720 --> 00:54:04,160
+apply for these programs.
+
+1563
+00:54:02,680 --> 00:54:05,840
+But, I mean, if someone can explain to
+
+1564
+00:54:04,160 --> 00:54:07,640
+me why you have that volume of people
+
+1565
+00:54:05,840 --> 00:54:10,040
+applying and only
+
+1566
+00:54:07,640 --> 00:54:12,880
+30 black Caribbeans are deemed worthy
+
+1567
+00:54:10,040 --> 00:54:15,720
+enough to have that over 30,000 people,
+
+1568
+00:54:12,880 --> 00:54:15,720
+uh, I know only is.
+
+1569
+00:54:16,720 --> 00:54:21,040
+Well,
+
+1570
+00:54:18,480 --> 00:54:23,360
+that's yeah, wow.
+
+1571
+00:54:21,040 --> 00:54:24,760
+Those numbers are just awful, right?
+
+1572
+00:54:23,360 --> 00:54:26,160
+They're just
+
+1573
+00:54:24,760 --> 00:54:27,920
+Yeah, and I and the thing is, like I
+
+1574
+00:54:26,160 --> 00:54:29,000
+said, I I mean, I I said I don't have a
+
+1575
+00:54:27,920 --> 00:54:31,880
+benign obsession with numbers. It
+
+1576
+00:54:29,000 --> 00:54:34,680
+probably seems like a like I do, but um,
+
+1577
+00:54:31,880 --> 00:54:37,840
+sadly, to illustrate where we are, very
+
+1578
+00:54:34,680 --> 00:54:39,320
+often you have to, you know, um,
+
+1579
+00:54:37,840 --> 00:54:41,520
+you have to kind of prophesize what
+
+1580
+00:54:39,320 --> 00:54:43,120
+these numbers are because I think, you
+
+1581
+00:54:41,520 --> 00:54:45,880
+know, a lot of people don't have an
+
+1582
+00:54:43,120 --> 00:54:48,440
+understanding of just how bad it is, you
+
+1583
+00:54:45,880 --> 00:54:50,440
+know? But, I also think that by having
+
+1584
+00:54:48,440 --> 00:54:52,840
+these conversations, what we have seen
+
+1585
+00:54:50,440 --> 00:54:55,160
+is a sea section and a change in how we
+
+1586
+00:54:52,840 --> 00:54:56,560
+are conceptualizing and understanding
+
+1587
+00:54:55,160 --> 00:54:58,280
+this context. And I do think as a
+
+1588
+00:54:56,560 --> 00:54:59,560
+result, we are going to see greater
+
+1589
+00:54:58,280 --> 00:55:01,320
+change in the next couple of years. I
+
+1590
+00:54:59,560 --> 00:55:03,120
+think we're beginning to see it now.
+
+1591
+00:55:01,320 --> 00:55:04,360
+You know, the OFS
+
+1592
+00:55:03,120 --> 00:55:06,160
+um, have responded to the broken
+
+1593
+00:55:04,360 --> 00:55:07,920
+pipeline report and as a result, now
+
+1594
+00:55:06,160 --> 00:55:11,040
+there's that huge bid that's kind of
+
+1595
+00:55:07,920 --> 00:55:12,320
+coming out in terms of uh, mobilizing
+
+1596
+00:55:11,040 --> 00:55:13,960
+uh,
+
+1597
+00:55:12,320 --> 00:55:16,240
+black and ethnic minority opportunities
+
+1598
+00:55:13,960 --> 00:55:18,640
+at PGR level, particularly doctoral
+
+1599
+00:55:16,240 --> 00:55:18,640
+level.
+
+1600
+00:55:19,280 --> 00:55:25,200
+Well, um, I feel like that was a slight
+
+1601
+00:55:22,640 --> 00:55:27,080
+a slight optimism for which we can end
+
+1602
+00:55:25,200 --> 00:55:30,080
+our talk on. Um,
+
+1603
+00:55:27,080 --> 00:55:32,080
+so, thank you so much, Jason. This has
+
+1604
+00:55:30,080 --> 00:55:35,600
+been
+
+1605
+00:55:32,080 --> 00:55:37,600
+sobering, but really great to have you
+
+1606
+00:55:35,600 --> 00:55:39,040
+here talking. And I know this is
+
+1607
+00:55:37,600 --> 00:55:40,800
+probably like the first time in the
+
+1608
+00:55:39,040 --> 00:55:43,680
+department anyone's gone into this in
+
+1609
+00:55:40,800 --> 00:55:45,520
+such depth and so I'm really happy that
+
+1610
+00:55:43,680 --> 00:55:47,560
+we could have you here to do it. Um
+
+1611
+00:55:45,520 --> 00:55:49,240
+thank you everyone for attending.
+
+1612
+00:55:47,560 --> 00:55:51,320
+I hope you enjoyed it and we will be
+
+1613
+00:55:49,240 --> 00:55:53,880
+putting it on YouTube when we've had
+
+1614
+00:55:51,320 --> 00:55:55,800
+time. So yeah, thank you so much and I
+
+1615
+00:55:53,880 --> 00:55:57,040
+hope you all have a great day.
+
+1616
+00:55:55,800 --> 00:55:58,440
+Um
+
+1617
+00:55:57,040 --> 00:56:00,200
+And Alex, you're brilliant. Just thank
+
+1618
+00:55:58,440 --> 00:56:01,440
+you so so much and everyone like
+
+1619
+00:56:00,200 --> 00:56:03,040
+literally live well and I hope
+
+1620
+00:56:01,440 --> 00:56:04,280
+everyone's well and much love and take
+
+1621
+00:56:03,040 --> 00:56:06,960
+care everyone.
+
+1622
+00:56:04,280 --> 00:56:09,440
+Thanks so much.
+
+1623
+00:56:06,960 --> 00:56:09,440
+Thanks.
+

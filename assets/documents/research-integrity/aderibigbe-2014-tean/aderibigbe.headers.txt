@@ -1,0 +1,17 @@
+HTTP/2 200 
+accept-ranges: none
+content-disposition: attachment;filename=administrator%2C+Journal+manager%2C+S2-1+Aderibigbe.pdf;filename*=UTF-8''administrator%2C+Journal+manager%2C+S2-1+Aderibigbe.pdf
+cache-control: private
+pragma: public
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+set-cookie: OJSSIID=4ee5d2949564e50443eb60469c8adbf4; path=/; domain=ojs.cumbria.ac.uk; secure; HttpOnly; SameSite=Lax;HttpOnly;Secure
+x-frame-options: sameorigin
+vary: User-Agent,Accept-Encoding
+referrer-policy: no-referrer
+x-xss-protection: 1; mode=block
+x-permitted-cross-domain-policies: none
+x-content-type-options: nosniff
+content-type: application/pdf
+date: Fri, 07 Aug 2026 05:45:46 GMT
+server: Apache
+

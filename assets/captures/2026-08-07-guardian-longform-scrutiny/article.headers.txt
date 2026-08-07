@@ -1,0 +1,32 @@
+HTTP/2 200 
+link: <https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?rum=0&features=es6%2Ces7%2Ces2017%2Ces2018%2Ces2019%2Cdefault-3.6%2CHTMLPictureElement%2CIntersectionObserver%2CIntersectionObserverEntry%2CURLSearchParams%2Cfetch%2CNodeList.prototype.forEach%2Cnavigator.sendBeacon%2Cperformance.now%2CPromise.allSettled&flags=gated&callback=guardianPolyfilled&unknown=polyfill&cacheClear=1>; rel=prefetch,<https://assets.guim.co.uk/assets/frameworks.client.web.6b19980dfdb962b2f0d0.js>; rel=prefetch,<https://assets.guim.co.uk/assets/index.client.web.e09f89c26980a44a8ee6.js>; rel=prefetch,<https://assets.guim.co.uk/commercial/ad018c329c69550bd379/graun.standalone.commercial.js>; rel=prefetch,,<https://assets.guim.co.uk/>; rel=preconnect,<https://i.guim.co.uk>; rel=preconnect,<https://j.ophan.co.uk>; rel=preconnect,<https://ophan.theguardian.com>; rel=preconnect,<https://api.nextgen.guardianapps.co.uk>; rel=preconnect,<https://hits-secure.theguardian.com>; rel=preconnect,<https://interactive.guim.co.uk>; rel=preconnect,<https://phar.gu-web.net>; rel=preconnect,<https://static.theguardian.com>; rel=preconnect,<https://support.theguardian.com>; rel=preconnect
+onion-location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday
+x-gu-frontend-git-commit-id: cea4d199e040445f234eaf1426ef19838d375554
+etag: W/"hash-4319341598982161687"
+content-encoding: gzip
+content-type: text/html; charset=UTF-8
+x-gu-dotcomponents: true
+accept-ranges: bytes
+date: Fri, 07 Aug 2026 20:32:35 GMT
+x-robots-tag: bingbot: noarchive
+set-cookie: gu_client_ab_tests=growth-auxia-banner:variant; path=/; max-age=2592000
+set-cookie: gu_v2_mvt_id=962; path=/; max-age=7776000
+set-cookie: GU_mvt_id=876610; expires=Thu, 05 Nov 2026 20:32:35 GMT; path=/; domain=.theguardian.com; Secure
+x-timer: S1786134755.174104,VS0,VE20
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=(), clipboard-read=(), unload=()
+x-gu-edition: us
+cache-control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private
+age: 0
+x-request-id: 9a8582bf-9946-405d-8719-038df20b6e67
+vary: Accept-Encoding,User-Agent
+set-cookie: GU_geo_country=US; path=/; Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 80552
+

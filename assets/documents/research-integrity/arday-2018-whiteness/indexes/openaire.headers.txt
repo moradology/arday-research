@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+content-type: application/xml;charset=UTF-8
+transfer-encoding: chunked
+date: Fri, 07 Aug 2026 14:35:34 GMT
+x-ratelimit-used: 1
+x-ratelimit-limit: 7199
+

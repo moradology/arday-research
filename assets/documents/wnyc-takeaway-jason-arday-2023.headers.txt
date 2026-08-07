@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Accept,Accept-Encoding,Authorization,Content-Type,DNT,Origin,User-Agent,X-CSRFToken,X-Provider,X-Requested-With,X-WNYC-BrowserId,X-WNYC-Ember
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Age: 84
+Content-Security-Policy: default-src https: 'unsafe-inline' 'unsafe-eval'; connect-src 'unsafe-inline' 'unsafe-eval' *; script-src 'unsafe-inline' 'unsafe-eval' *; img-src * data: about:; frame-src 'self' *; worker-src blob:; object-src https://wnyc-project-prod.s3.amazonaws.com; frame-ancestors 'self' localhost *; media-src 'self' *;
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Aug 2026 18:25:44 GMT
+Server: nginx
+set-cookie: ember_simple_auth-session=%7B%22authenticated%22%3A%7B%7D%7D; path=/
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+Vary: Accept-Encoding, Origin, x-wnyc-ember
+Via: 1.1 varnish-v4
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Content-Type-Options: nosniff
+x-powered-by: Express
+X-Varnish: 31042500 31538333
+X-XSS-Protection: 1; mode=block
+Content-Length: 166850
+Connection: keep-alive
+

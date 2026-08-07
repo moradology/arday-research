@@ -1,0 +1,20 @@
+HTTP/2 200 
+cache-control: max-age=31622400
+content-type: image/jpeg
+etag: "692964b6-57ed7"
+expires: Thu, 29 Jul 2027 17:43:37 GMT
+last-modified: Fri, 28 Nov 2025 09:00:38 GMT
+server: nginx
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-eu-a-6975d949c6-k6hfd
+x-styx-req-id: dd20053d-8aab-11f1-a7ea-1e3a6e2bcb4c
+age: 215117
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Thu, 06 Aug 2026 19:56:24 GMT
+x-served-by: cache-chi-klot8100055-CHI, cache-chi-klot8100055-CHI, cache-mci680083-MCI, cache-mci680083-MCI
+x-cache: HIT, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1786046185.893151,VS0,VE21
+content-length: 360151
+

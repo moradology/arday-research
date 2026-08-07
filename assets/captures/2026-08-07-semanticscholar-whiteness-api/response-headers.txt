@@ -1,0 +1,15 @@
+HTTP/2 200
+content-type: application/json
+content-length: 541
+date: Fri, 07 Aug 2026 15:57:27 GMT
+x-amzn-remapped-date: Fri, 07 Aug 2026 15:57:27 GMT
+x-amzn-requestid: a3cb9a22-d31d-4691-a9a6-6f2b1887be88
+access-control-allow-origin: *
+x-amzn-remapped-content-length: 541
+x-amzn-remapped-connection: keep-alive
+x-amz-apigw-id: BvUAPHVfvHcEgwQ=
+x-amzn-remapped-server: gunicorn
+x-cache: Miss from cloudfront
+via: 1.1 6372697bab8e83ab78cd11c2ea750d14.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P3
+x-amz-cf-id: 6h5tnZWsunzhHZIzHKAmZXExMwzAZyvOFQNP1T1xh73wJ4sbPvKATw==

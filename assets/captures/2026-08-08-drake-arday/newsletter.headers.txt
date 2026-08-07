@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 03:44:47 GMT
+content-type: application/pdf; Charset=UTF-8
+content-length: 1053148
+cache-control: private
+content-disposition: inline; filename="srb-autumn-1-newsletter-23-24.348936732.pdf"
+provider: juniperwebsites
+w: web03
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self'
+referrer-policy: origin-when-cross-origin
+age: 0
+accept-ranges: bytes
+vary: 
+x-cache: Miss
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-cache-server: cms-varnish-disk-prd-766877cf49-kb628
+

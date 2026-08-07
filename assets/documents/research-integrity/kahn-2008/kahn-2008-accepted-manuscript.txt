@@ -1,0 +1,233 @@
+Exploring a practitioner-based interpretive approach to reviewing research literature
+
+International Journal of Research and Method in Education, 31:2, 169 — 180
+
+Peter Kahn a, Terry Wareham b, Richard Young c, Ian Willis d and Ruth Pilkington e 
+
+	aformerly University of Manchester, UK; bIndependent consultant; cUniversity of Newcastle, UK; dUniversity of Liverpool, UK; University of Central Lancashire, Preston, UK
+
+Abstract
+The application of educational research to practice remains an issue of concern, and yet there has been relatively little consideration of this in relation to reviews of research. While the professional user review hitherto represents the most relevant approach, this involves users applying the findings of an earlier review rather than carrying out an original review. Through a case study, we propose an interpretive approach to reviewing research literature that is fully rooted in practitioner perspectives. We argue that our review methodology maintains a balance between contributions from the research literature and from practitioner perspectives, with validity stemming from such factors as theoretical sampling, the use of techniques from grounded theory and the presence of alternative voices. Our methodology thus represents a novel way to develop applicable forms of understanding within the field.
+
+Keywords: Review methodology; Practitioner research; Interpretive research; Reflective practice; Dialogue.
+
+
+Introduction
+It is now well established that the application of educational research to professional practice remains more limited than many would regard as desirable. Pring (2000), for instance, in looking to provide a consensual overview of weaknesses within educational research, points to the failure of research to help practice. Evans (2002) meanwhile highlights the complexity of the picture, observing that while there is evidence that teachers seek research that directly addresses work-related concerns, wider research can still be relevant. In her view the challenge is actually to demonstrate applicability in specific cases, rather than simply to make general claims for ‘percolation’.
+
+It is further clear that there has been relatively little consideration as to how reviews of research might be designed to ensure greater relevance to practitioners.  This is despite the way in which reviews provide a key means for practitioners to access the research literature, as Foster and Hammersley (1998) observe; offering a crucial channel of communication between researchers and society, whether practitioners, policy makers or lay people.
+
+Many existing review methodologies, however, incorporate features that when applied to reviewing may work against application to practice. For instance, Hammersley (2001) points out that systematic reviews incorporate a hierarchy of types of research design, prioritizing those studies that allow for statistical controls and statistical generalization, with procedural objectivity paramount in the reviewing process. They thus privilege particular kinds of evidence, downplaying those that focus on interpretation and favouring instead more transparent approaches that may sit uneasily with practitioners. Similar concerns may be directed towards best-evidence synthesis (Slavin, 1986), and realist synthesis (Pawson, 2000a) which is based on identifying mechanisms whose outcomes depend on the context in which they are employed. 
+
+Torrance and Sebba (2007), though, point out that the purpose of a review will affect its characteristics. One might expect a review which is intended to inform policy to focus on summarizing and on evaluating research quality, with a systematic review, for instance, potentially laying claim to this territory. Reviews intended for scholarly or research purposes might lean towards an interpretive methodology, looking to reconceptualise an issue. But MacLure (2005) argues that, by downplaying reading and writing, review methodologies based on more transparent approaches feed an audit culture that is ill-suited to recognising the uncertainties of educational research. Clearly where application to practice is envisaged, it is important that reviews also serve to highlight the complexities of educational contexts. The challenge, though, remains to ensure that insight for theory or practice emerges from thinking about substantive issues rather than simply adding studies together, as Hammersley (2001) argues. 
+
+The direct involvement of practitioners within a review potentially opens up greater scope for the complexities of practice to be more fully respected, with the professional user review representing the existing approach that incorporates this perspective most directly. However, a user review – according to Bassey (2000) – represents a piece of work arising from a prior academic review, in which a researcher or researchers works with practitioners to apply the findings of the academic review to practice. The emphasis here is on the way in which a user review involves the use of research, rather than constituting a piece of research in its own right. Such an emphasis on the use of research is also evident within both Burton (2004) and Rickinson et al (2004), which report on the actual experience of conducting user reviews.  
+
+While user reviews represent an important way to ensure the application of research to practice, for instance addressing the difficulty of how to ensure subsequent application that Pawson (2002b) acknowledges in using a realist review to shape practice, they leave issues of application substantially untouched in cases where reviews are conceived of as research. For instance, user reviews will sidestep many issues from the tradition of practitioner research (Reason and Bradbury, 2001), where practitioners themselves engage in research rather than simply apply findings from others’ research. It would, however, be expected that review methodology could, in seeking to incorporate understanding of the complexities of practice, draw on the ethos of practitioner research more directly.
+
+A challenge, though, presents itself as to whether a review conducted by practitioners might not be dominated by their own personal perspectives, paradoxically ensuring limited applicability to practitioners in other contexts. Whether this occurs will depend on the extent to which the practitioners involved are able to achieve, in line with Gadamer’s thinking (1989) from the field of hermeneutics, an openness which does not impose one’s own categories on the literature reviewed. It is remains essential that any review carried out by practitioners adopts realistic strategies to incorporate criticality and openness to alternative interpretation. Such an approach is needed if an openness to the text, and thus to the possibility of interpretation, is not merely espoused as an ideal, and then effectively downplayed, but incorporated in a practical fashion into the methodology. Similar concerns are now acknowledged within action research where Elliott (2005) critiques research that prioritises abstract forms of criticality, which Carr and Kemmis (2005) acknowledge as overly optimistic, over more practical forms based on dialogue.  By contrast dialogue offers a realistic route to the incorporation of new perspectives, subject to the characteristics of the voices included in the conversation.  
+
+This paper explores a novel practitioner-based reviewing methodology that may broadly be classed as a narrative review. We consider here the validity of the methodology that was developed for the review, a methodology that evolved over the period of the review. The review itself aimed to develop understanding of approaches to reflective practice employed on programmes of initial professional development for new members of academic staff within universities, along with a consideration of the outcomes associated with these approaches. The programmes themselves are typically masters-level postgraduate certificates in teaching and learning in higher education or academic practice.
+
+The review was one of a series of literature reviews for 2005-06 which was commissioned and funded by the Higher Education Academy. The Academy is an organisation based in the UK that both works to enhance the student experience and supports related research; it had identified reflective practice as the focus for the review, with the review team proposing to carry out the review on a practitioner-led basis. 
+
+The notion of ‘reflective practice’ meanwhile was taken broadly from Dewey (1933, p9) to mean the extended consideration of problematic aspects of practice, in light of its supporting grounds and the further conclusions to which it tends; although it is evident that this definition remains open, with theorists qualifying usage of the term reflection with further distinctions, such as ‘critical’, ‘practical’, ‘dialogic’ and so on (see for instance Hatton and Smith, 1995).
+
+The review was lead and carried out by a group of six directors of such programmes, based in both pre-1992 and post-1992 universities in the North of England, with assistance from two further team members. In all but one case these programme directors were based within a central educational development unit within their university. While the review was led by practitioners as far as its subject was concerned, each reviewer had already engaged in at least some previous research into higher education, typically with a practitioner focus. 
+
+Methodology 
+The central research question that drives this study of the review methodology concerns its validity, given the way in which practitioner involvement will introduce a range of personal perspectives. In this, though, we are particularly interested in the extent to which a review of this nature will be useful to practitioners. 
+
+We employ a narrative approach to give shape to this study, drawing on the insight of Bolton (2001, p1) that it is stories, when pushed to their limits, which ‘are the mode we use to make sense of ourselves and our world’. Our narrative is staged by the review itself, focusing in turn on the selection of studies, data extraction and commentary, synthesis and impact on the practice of the reviewers. This approach also allows us to expose shifts over the period of the review within the reviewing methodology itself, as well as to provide the richness of detail needed for potential users of this research to make their own judgments about applicability. We thus effectively rely on a form of ethnographic validity, in shaping a narrative that the reader may find compelling, as Erickson argues (1986, p119). Such an approach fits also with the interpretive approach that typically accompanies practitioner research, and indeed that forms part of the review methodology itself. 
+
+The data that is drawn on for this narrative derives from a number of sources. The narrative first of all seeks initially to provide a coherent outline of the methodology itself and to analyse issues that concern its validity: such an approach is important given the novel characteristics of the methodology.  However, the choices made in the selection of data also draw on key lessons from the review itself in relation to suitable characteristics for reflection, as with the relevance of exposing the professional context and the identities of those involved. The value of incorporating a range of voices was further seen as important within the review itself, forming as it does an important element of our claim to novelty in taking us beyond standard interpretive approaches to reviewing. 
+
+In the narrative account that follows we thus draw out data that represents the viewpoint of the collaborative researcher (the second author). This researcher conducted an interim evaluation some four months into the project, using a questionnaire and interviews, and involving all members of the review team. The questionnaire sought to establish the initial position and understanding of team members, with semi-structured interviews following up areas such as the team member’s understanding of reflective practice and the review process. The researcher highlighted a range of key issues within the interview transcripts, with the emerging picture confirmed by team members and the narrative that follows picking out those issues that concern validity. 
+
+Further voices are also represented in the narrative that now follows, with the account as a whole, and especially in relation to the synthesis stage of the review, shaped by the project director (first author); and the section related to the impact on practice highlighting data from one reviewer’s perspective (the fourth author). The use of voices from different perspectives provides a practical strategy to ‘shift the attention on to researchers themselves, and to reflect on the research they do, the topics they investigate, the methodologies they espouse, the methods they use and the writing/reporting styles they adopt’ (Sikes 2006, p106); thus helping to facilitate the underpinning reflexivity characteristic of practitioner research (Furlong and Oancea, 2005).  
+
+The narrative account: a methodology evolves
+The overall approach taken to the review methodology is given in the Figure, which indicates the role of both theoretical considerations and perspectives from practice in shaping, along with support from the dialogue within the review team, the various stages of the review. For instance, in looking to ensure internal validity we rely on initial theorization for the sample of included studies and on a subsequent theoretical synthesis in shaping the narrative report. At the same time, the process addresses practitioner concerns through allowing practitioners to make judgments in relation to the relevance of a study to practice and in the use of techniques of secondary analysis of qualitative data; with measures also introduced to control for bias arising from practitioner perspectives. While the stages of the review are framed in a standard fashion, it is such perspectives from practice that particularly ground our claim to novelty. 
+
+
+Theoretical considerations
+
+Review stages
+
+
+Perspectives from practice
+Construct validity in relation to ‘reflection’
+→
+Inclusion of studies
+←
+Freedom to select studies of practitioner relevance 
+Standard proforma for data extraction
+→
+Data extraction
+←
+Comments included on relevance to practice
+Techniques taken from grounded theory
+→
+Constant comparison and categorisation
+←
+Data on relevance incorporated in synthesis 
+Cases selected on theoretical grounds
+→
+Creation of sub-sample
+←
+Relevance assessed of the focus to review question
+Categorisation shapes narrative report
+→
+Narrative report
+←
+Links made to study on state of practice
+
+Figure: The balance between theoretical considerations and perspectives from practice in shaping the review methodology
+
+Inclusion of studies within the review
+The initial element of the methodology concerns the search strategy and the criteria for including a study within the review. The review team operated with a relatively open approach to the choice of studies for formal inclusion within the review, allowing reviewers to select studies that they considered of relevance to their practice in relation to the purposes for the review. A range of approaches was adopted to identifying potentially relevant literature, which was restricted to studies published within peer-reviewed journals, covering synoptic and conceptual research, for instance, as well as reports of specific interventions. These approaches included searching standard databases, such as the British Education Index, receiving recommendations from colleagues, reviewing the literature included within an earlier related review (Prebble et al, 2004) and hand searching journals such as Reflective Practice.  
+
+However, rather than leaving a completely open choice, each reviewer took a specific area of the published literature to review:
+Purposes and outcomes for reflection
+Reflective practices that involve personal reflection
+Reflective practices that involve a social dimension
+Assessment
+The pedagogy of reflective practice
+While there is overlap between these categories, they were chosen from considerations of construct validity in relation to the notions of ‘reflection’ and ‘reflective practice’. 
+
+These areas were specifically agreed after exchanges with a consultant, Jenny Moon, who was a leading authority on reflection and reflective practice with extensive experience in the field of higher education. It had been felt important to incorporate a role for a consultant in order to help ensure appropriate conceptual understanding on the part of the reviewers at the outset, particularly given the scope of the literature on reflective practice. These exchanges with the consultant highlighted the open nature of the concepts ‘reflection’ and ‘reflective practice’, and the importance of basing the review on an approach that included studies which clearly articulated their actual approach to reflective practice.  For instance, the reviewer focusing on the social dimension thus sought studies that incorporated a focus on peer or socially-mediated forms of reflective practice. She looked for studies that addressed how such forms of reflective practice were facilitated, with an emphasis on the application of any underpinning models.  
+
+The value of requiring reviewers to approach the literature in this way was apparent during the interim evaluation, when the reviewers were each asked in the interviews what their definition of reflective practice was. Responses highlighted the elusiveness of a clear and operational definition and the fact that the processes the team had engaged in for the project had served to add complexityto  rather than to clarify their sense of the notion of reflective practice.  ‘If you’d asked me three months ago I’d have given you a one-line answer, but now we’ve done this project it’s much more difficult’ was a typical response. It is important to emphasise here that the dialogue within the review team provided an important means to support the rigour of the review. 
+
+Early searching further indicated the relatively limited volume of literature on reflective practice in specific relation to programmes for new academic staff, so the review team decided to include studies perceived as relevant from related areas of professional practice. The review thus included only 12 studies specifically focused on programmes for new academic staff, with 18 further studies on the wider development of academics, 20 studies from initial teacher training, ten from medical or health related fields and eight from other contexts. The included studies came from 25 different journals, with 18 taken from Reflective Practice and nine from the International Journal for Academic Development; studies were carried out within a range of countries, most frequently within the UK, Australia and the US.      
+
+Account, though, could be taken during the synthesis stage of the review as to the domain from which the study was drawn. This particular decision did, though, provide a further challenge in relation to the literature that could possibly be included within the review, as one reviewer indicated in the interim evaluation: ‘I found an enormous mass – too much – 400 references to [my area] alone.’   
+
+It is thus important to be clear that the sample of included studies represents what has been termed a collective case (Stake, 2000) determined on grounds of both construct validity and perceptions of practical relevance, rather than a choice reflecting a representative or comprehensive approach to the population of possible studies. In addition, as will subsequently be considered, further theoretical considerations were applied in selecting a sub-sample of the included studies on which to base the main conclusions of the review. Generalisability thus relates to theoretical constructs rather than to populations, as Bryman (1988, p90) argues.   
+ 
+Data extraction from the included studies
+The data extraction stage employed a standard proforma to gather comparable data from each reviewer, while also allowing scope for practitioner comment on the extracted data. The original design of this proforma envisaged notes about both the quality of the study in terms of its methodological robustness and the strength of reported outcomes. The proforma further included a field to extract data concerning the programme mechanism involved in the study, along with the outcomes to which it led and the context in which it is employed, drawing on the framework of a realist review. 
+
+The key innovation here is one that takes us beyond extracting data from the studies.  The proforma included fields to record insights for practice, policy and learning on the part of the practitioner reviewer. This enabled considerations of relevance directly to be addressed within the central stages of the review, rather than merely in framing the initial review question or in shaping subsequent application, as would typically occur with systematic reviews and realist reviews. Such an approach also takes us beyond the techniques currently used within other user reviews and narrative reviews, through widening the scope of the data incorporated into the review to include practitioner perspectives. We potentially have a source here of the alternatives to conventional thinking that Eisenhart (1998) argues should be incorporated into interpretive reviews. Our fully integrated approach, though, still provides a means to address comparability across the perspectives of the reviewers, allowing us to go beyond the immediate professional frames of reference of individual reviewers.   
+
+There were indeed comments during the interim evaluation about team members feeling that their responses to the material were very subjective, and that their instinct was to immediately seek to apply what they read to the particular situations in which they worked. ‘You sort of get seduced and can’t help to start to interpret it in your own way’. This may stem in part from the necessary pragmatism of the reviewers, whose roles included wider development work within their universities. Responses provided by team members during the interim evaluation when asked about material that had had an impact on their thinking, or practice, invariably pointed towards single papers that had spoken, at that point in the review, to particular interests rather than the kind of overarching themes that would come from a more exhaustive enquiry. Often these examples were of a political nature. Given this picture, the synthesis stage of the review clearly remained critical in prioritizing practitioner perspectives. 
+
+It became apparent early on from the dialogue within the review team, however, that the practitioner reviewers were reluctant to make detailed judgments on the quality of studies and on the strength of outcomes. The proforma employed during the review to analyse studies was thus adapted during the initial period of the review to leave aside detailed assessments of these areas, although it was determined that all studies included within the review should have been peer reviewed. 
+
+The interim evaluation further explored the origins of such reluctance. The initial requirement itself to make judgments on the study quality had helped to establish an initial leaning towards an empiricist approach, following the movement to provide meta-analysis drawing on scientific principles and rules (Hammersley, 2001). The reliance on the categories from realist reviews had strengthened this leaning. However, the interim evaluation indicated that this scientific orientation was distinctly at variance with the research philosophy of many members of the group, and indeed with practitioner approaches to research more broadly. 
+
+Issues pertaining to identity in relation to disciplinary background were important in this. The team members were typical of the educational developers that normally run programmes for new academic staff within universities, in that they came originally from a wide range of disciplinary and sector backgrounds: languages, history, English, operational research, chemistry, biochemistry, mathematics, education and adult education. These backgrounds were seen during the interim evaluation to influence the conception of a review held by the reviewers, with a wide spectrum of approaches in evidence.  Two example quotes of definitions of a literature review from the interim evaluation illustrate the ends of this spectrum:
+“Systematic review of all peer-reviewed articles in a tightly-defined area.”
+“... the purpose of a literature review is to convey to your audience/reader what knowledge and ideas have been established on a topic, and what their strengths and weaknesses are.  It is not just a descriptive list of the material available, or a set of summaries.  Rather, a literature review must be defined by a guiding principle (e.g. a research objective, or a problem or issue).”
+It was thus clear that the review process needed to take account of  the research capabilities of the reviewers and these varying conceptions more explicitly. 
+
+
+Synthesis of extracted data and practitioner commentary
+In seeking to reach a synthesis across the extracted data and associated commentary, we employed specific techniques from grounded theory (Glaser, 1998); and in particular the method of constant comparison, which involves a search for common ideas, issues or categories across the data. This search was accompanied by memoing in relation to these categories, with these memos contributing directly to the narrative report.  Weed’s proposed approach (2005) also picks out the method of constant comparison as a key tool from grounded theory that may be helpful in reaching an interpretive synthesis. 
+
+A relatively open approach, however, was taken in creating categories, with a focus on understanding the nature of the reflective processes involved, rather than directly seeking to explain how certain outcomes result from a process. Seeking to concentrate too directly on explanation could only come at the expense of interpretation. Thomas and James (2006) indeed argue that grounded theory may prioritise empirical claims to explanation typical of the natural sciences. 
+
+We thus engaged in a search for common issues and ideas within the completed proformae, involving as this did the secondary analysis of qualitative data. Part of the value of such an innovative approach to the use of secondary analysis lies in the way in which this allows extracted data from the studies, even those from related areas of practice, to be synthesized alongside data on its relevance to practitioners. For instance, data on the programme mechanisms employed or the context of the studies was thus analysed alongside comments on relevance to practice.  This approach fully integrates the practitioner perspectives within the synthesis stage of the review, helping to ensure applicability to practitioners of the resulting synthesis. This secondary analysis of data was further complemented by primary analysis of each abstract, increasing the reliability of the data extraction process.
+
+The review also incorporated, in a further novel feature, a limited study to assess the current state of practice within the field. A sixth member of the team reviewed grey literature in the form of programme handbooks and other documentation from a sample of English higher education institutions. While our approach to synthesis highlighted dominant themes within the data, thus working against the bias of an individual reviewer, this study into the state of practice further allowed for connections to be made between specific categories and wider considerations from practice. This would allow us, both when memoing and in writing the narrative report, to draw out issues that went beyond the immediate concerns of individual reviewers; although it is important in this to respect the limitations of relying on documentation as an indication of actual practice.
+
+It will be helpful at this point to consider the actual synthesis that resulted from following this methodology, fitting as this does with our narrative approach. We initially established a theoretical framework of major categories: theoretical underpinnings, core reflective process, social basis, personal basis, wider context and outomes. Each of the categories was further sub-divided into a set of sub-categories (and where relevant sub-sub categories). Dialogue, for instance, emerged within social basis as a key sub-category, linking as it does both pedagogic and reflective considerations; with sub-sub-categories such as incorporating alternative voices in a dialogue, the role of challenge within a dialogue and considerations of the language employed. 
+
+We thus identified a range of factors that would help a practitioner to design and facilitate reflective processes for participants on the programmes concerned. Categories were subsequently linked through the overarching notion of a ‘directed reflective process’, highlighting both the range of possible conceptions of reflection and the need to select from amongst these conceptions; with the word ‘directed’ (which we interpret to allow for self-direction) emphasising the way in which the process must both be targeted and supported, as with dialogue that crosses boundaries and challenges the participant, enabling it to achieve the necessary depth.  
+
+We were then able to base the narrative synthesis on our framework, as well as on insights from the memos highlighting links between the sub-categories, and, significantly, from a sub-sample of twelve studies that were identified as both most relevant to our context and that overlapped most directly with the framework; supporting our claim to internal validity by employing a form of theoretical sampling as advocated by Mason (1996, 93-4, cited in Silverman, p130). The quality of a study was thus not measured directly through such factors as robustness of methodology or effect size (as for Slavin, 1986), but rather indirectly through the extent of its contribution to the framework. Our methodology ensures that each included study is assessed in relation to theoretical insights from the studies taken as a whole, further addressing possible concerns in relation to bias stemming from the frames of reference of individual reviewers. 
+
+Given the absence of measuring robustness of study, though, we suggest here that it is important to draw back from making direct claims to effectiveness for interventions reported in the review (even in the more tentative fashion made within the main review report, Kahn et al, 2006). Such caution sits more naturally with an interpretive practitioner review, focusing as it does on the development of understanding. 
+
+Ascertaining impact on practice
+We regard impact on practice as a final stage of the review, although here we are only able to explore the immediate impact of the review. It is important that we demonstrate the applicability to practice of our review methodology. In itself any such evidence for applicability is not sufficient to ground a claim to novelty for our methodology, given that other reviews methods also lay claim to applicability. Impact on practice has also been seen within user reviews, something that Rickinson et al (2004, p207) initially found surprising. But our argument here nonetheless underpins our overall claim for applicability, especially where we are able directly to link impact on practice with specific elements of the review methodology.  
+
+By the final closure of the project in August 2006 there were indications that the review had had quite significant effects on practice within the programmes of reviewers. One of our reviewers specifically identified some 13 issues that needed addressing or actual changes in practice as a result of their involvement. Another reviewer also identified a range of changes, stemming in large part from an increased awareness of the need to support the reflective process, and to make adequate space for it. And a further reviewer introduced a number of new means to support reflective writing and also held two away days to develop a shared understanding within the programme team, with differences emerging in relation to the extent to which team members valued links to literature and pedagogic knowledge. We focus here on the impact on the practice of the first reviewer in order to explore the nature, context and possible causes of that impact. 
+
+In practical terms, changes were made to this reviewer’s materials, presentation, handbook and assessment tasks. Further time was allowed for discussion amongst the participants on his course, as well as time to prepare for written tasks, and so on. For the longer term, this reviewer also intended to look for ways to strengthen the reflective elements in his programmes, and to ensure a common understanding within the programme teams of the meaning of the term ‘reflection’ – a common understanding that mirrors early developments within the review team and highlights the practical importance of incorporating a range of voices into the review methodology. This reviewer further chose to employ the term ‘critical reflection’ partly because the concept of criticality is one that is used across a range of disciplines so that at least the beginnings of a common language are present, but also in that contrasting it with technical and practical forms of reflection allows a helpful scaffolding around a clearly defined form of reflection that fosters working with participants as part of a masters level course. One of his colleagues has commented:  ‘I now use a structure where I didn’t before; it’s helped me to get a wider range of responses.’ 
+
+We see in this the richness for practice that enhanced understanding yields, especially when an active attempt is made to integrate that understanding with practice. Eraut (1994), indeed, argues that professional knowledge cannot be characterised apart from the manner in which it is both learnt and used. Clearly a contribution from theory is also in evidence, stemming from the review itself and giving shape to the changes in practice made by the reviewer. But even during the interim evaluation it was evident that this contribution was further enhanced by the engagement with colleagues on the review team: team members referred to the way that they had exchanged their analyses of the studies between themselves in order to see how others were conducting their reviews. This led to collective learning and development in relation to how they were reading and interpreting the material. There is no merely technical application of theory to practice in evidence, but rather, following Elliott (2005, p366), a practical discourse that crosses boundaries and generates critiques of existing practice. This suggests that the applicability of the review will depend in part on the establishment of such discourses. 
+
+Conclusions
+The evolution of the methodology has seen a process of adapting the initial approach to one more fully suited to practitioners, where the interpretations of individual practitioner reviewers are allowed to encounter each other through an innovative dialogue that was both rigorous and supportive, with stages of the review based on specific theoretical considerations to help address internal validity.  Our claims for the validity of this review methodology rely significantly on combining standard theoretical foundations with an explicit voice for considerations from practice, as with the use of secondary data analysis. It is the combination of this voice for practice and the dialogue within the review team which, we argue, grounds our claim to novelty for the review methodology.
+
+Alongside this, it is important to emphasise that the review incorporated features to ensure that this approach could be effectively implemented by practitioner reviewers. This is in an important consideration given the challenges involved in practitioners undertaking research. Dialogue played as essential role in this, with, for instance, the contribution of the consultant and interactions within the team helping to ensure that the sample was constructed along the intended theoretical lines. The critical perspectives brought to bear by the collaborative researcher also helped to underpin early adaptations to the review methodology.  
+		
+This exploration of the review methodology leads to a range of possibilities for its further development. We might consider ways to enhance the theoretical sampling of studies, and it would be possible to establish more explicit inclusion criteria in light of an initial conceptualization of the field, with data extraction shaped accordingly. A more developed study into the state of practice, going beyond documentary analysis, would further be of value in enhancing practitioner relevance.
+
+We might further consider ways in which the dialogue within the review team could be enhanced, whether through practitioners contributing to setting the review topic or the inclusion of further roles within the review; such as mentors for the practitioners or a partnership with researchers. The emphasis here is on the partners in the dialogue, central as these are to the shaping of the context from which meaning is drawn, and indeed to opening up scope for interpretation. It is such practical strategies that take us beyond the therapeutic critiques that, Elliott (2005, p 362) argues, ‘do not necessarily translate into empowering people to take action for the sake of an ideal’. 
+
+One might consider how to build a challenging dialogue into studies more generally – whatever their epistemological basis. The introduction of a researcher focusing on the methodology adds one voice, but other voices are possible; particularly in practitioner contexts.  Case study approaches offer particular scope for this, allowing for the multi-methodological approach favoured by Luttrell (2005) with qualitative studies of a methodology based on a quantitative paradigm. Insights would then stem in part from the genuine crossing of borders that such an approach would encourage.
+
+The application of educational research to professional practice, however, remains a major issue of concern. We argue here that a review which directly balances the contribution of research literature with practitioner perspectives as an integral feature of the methodology, while also incorporating theoretical discipline and alternative voices, offers an important, and valid, novel way forward. 
+
+Acknowledgements 
+We are grateful to all of those involved in the review, including Jenny Moon as consultant, team members Sue Grace and Bland Tomkinson, contributions from the Postgraduate Certificate Leaders Northern Network and from Ranald Macdonald and the steering group. Contact with the other review teams funded by the Higher Education Academy also helped in developing the methodology.
+
+References
+Bassey, M. (2000) Reviews of educational research, Research Intelligence, 71, 22-29.
+Bolton, G. (2001) Reflective practice (London, Paul Chapman).
+Bryman, A. (1988) Quantity and quality in social research (London, Unwin Hyman).
+Burton, L. (2004) A new venture–bridging the gap between educational research and policy and practice, British Educational Research Journal, 30(1), 3-7.
+Carr, W.  and Kemmis, S. (2005) Staying Critical, Educational Action Research, 13(3), 347 – 358. 
+Dewey, J. (1933) How we think: a restatement of the relation of reflective thinking to the educative process (Boston, D C Heath).
+Eisenhart, M. (1998) On the subject of interpretive reviews, Review of Educational Research, 68(4), 391-399.  
+Elliott, J. (2005) Becoming Critical: the failure to connect, Educational Action Research, 13(3), 359-374.
+Eraut, M. (1994) Developing Professional Knowledge and Competence (London, Falmer Press).
+Erickson, F. (1986) Qualitative methods of research on teaching, in M Wittock (Ed) Handbook of research on teaching (New York, Macmillan), 119-161.
+Evans, L. (2002) Reflective practice in educational research (London, Continuum).
+Foster, P. and Hammersley, M. (1998) A review of reviews: structure and function in reviews of educational research, British Educational Research Journal, 24 (5), 609-628.
+Furlong, J. and Oancea, A. (2005) Assessing quality in applied and practice-based educational research (Oxford, Oxford University Department of Educational Studies).
+Gadamer, H-G. (1989) Truth and Method, second revised edition, trans. J. Weinsheimer and D.G.Marshall. (New York, Crossroad).
+Glaser, B. (1998) Doing grounded theory: issues and discussions (Mill Valley CA, Sociology Press).
+Hammersley, M. (2001) On ‘systematic’ reviews of research literatures: a ‘narrative’ response to Evans and Benefield, British Educational Research Journal, 27 (5), pp 543-554.
+Hatton, N. and Smith, D. (1995) Reflection in teacher education: towards definition and implementation, Teaching and Teacher Education, 11(1), 33-49.
+Kahn, P.E., Young, R., Grace, S., Pilkington, R., Rush, L., Tomkinson, C. B. and Willis, I. (2006). The role and effectiveness of reflective practices in programmes for new academic staff: a grounded practitioner review of the research literature (York, Higher Education Academy).
+Luttrell, W. (2005) Crossing anxious borders: teaching across the quantitative-qualitative ‘divide’, International Journal of Research & Method in Education, 28 (2), 183-195.
+MacLure, M. (2005) ‘Clarity bordering on stupidity’: where’s the quality in systematic
+review? Journal of Education Policy, 20(4), 393–416.
+Mason, J. (1996) Qualitative researching (London, Sage).
+Pawson, R. (2002a) Evidence-based policy: in search of a method, Evaluation, 8(2), 157–181.
+Pawson, R. (2002b) Evidence-based policy: the promise of ‘realist synthesis’, Evaluation, 8(3), 340–358.
+Prebble, T., Hargraves, H., Leach, L., Naidoo, K., Suddaby, G. and Zepke, N. (2004) Impact of Student Support Services and Academic Development Programmes on Student Outcomes in Undergraduate Tertiary Study (New Zealand, Ministry of Education).
+Pring, R. (2000) Editorial: Educational Research, British Journal of Educational Studies, 48(1), 1-9.
+Reason, P. and Bradbury, H. (Eds) (2001) Handbook of Action Research (London, Sage Publications).
+Rickinson, M., Clark, A., Dawson, L., McLeod, S., Poulton, P., Sargent, J. (2004) ‘What on earth has research got to do with me?’ Teacher Development, 8(2/3), 201-220.
+Sikes, P. (2006) On dodgy ground? Problematics and ethics in educational research, International Journal of Research & Method in Education, 29 (1), 105-117.
+Slavin, R. E. (1986) Best evidence synthesis: an alternative to meta-analytic and traditional reviews, Educational Researcher, 15, 5-11.
+Silverman, D. (2005) Doing qualitative research, second edition (London, Sage).
+Stake, R. (2000) Case studies, in N Denzin and Y Lincoln (Eds) Handbook of qualitative research, second edition, (Thousand Oaks, CA, Sage), 435-54.
+Thomas, G. and James, D. (2006) Reinventing grounded theory: some questions about theory, ground and discovery, British Educational Research Journal, 32(6), 767-795.
+Torrance, H. and Sebba, J. (2007) Reviewing Reviews: Towards a Better Understanding of the Role of Research Reviews, Teaching and Learning Research Programme Research Briefing (London: TLRP).
+Weed, M. (2005) Meta-interpretation: a method for the interpretive synthesis of qualitative research, Forum: Qualitative Social Research, 6, (1: 37). 
+
+
+Notes on Contributors
+
+Peter Kahn was formerly the Senior Professional Development Adviser at the University of Manchester; he is now an Educational Developer at the University of Liverpool. His books include Developing your Teaching (Kahn and Walsh, 2006, Routledge). 
+
+Terry Wareham has worked in the field of professional development of teachers in further and higher education and educational development more broadly for over 25 years and is now an independent consultant in higher education specialising in teaching and learning.   
+Richard Young works in Academic Staff Development at the University of Newcastle, leading the Postgraduate Certificate in Academic Practice.
+
+Ian Willis is Programme Director for the Postgraduate Certificate in Learning and Teaching in Higher Education at the University of Liverpool.  
+
+Ruth Pilkington is Course Leader of the MEd (Professional Practice in Higher Education) and the Postgraduate Certificate in Learning and Teaching in Higher Education at University of Central Lancashire.  She has published Staff and Educational Development Association papers on Employability.
+ 
+ Corresponding author. Educational Development Division, Centre for Lifelong Learning, University of Liverpool, 128 Mount Pleasant, Liverpool L69 3GW, UK. Email: peter.kahn@liverpool.ac.uk
+
+
+
+
+
+
+
+
+
+Practitioner-based interpretive approaches
+
+ PAGE 2
+
+ PAGE 3
+
+
+

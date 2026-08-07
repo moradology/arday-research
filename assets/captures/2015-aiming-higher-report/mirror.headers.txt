@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Length: 843549
+Content-Type: application/pdf
+Date: Thu, 06 Aug 2026 22:00:05 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+ETag: "1db3fea4cb28d1d"
+Last-Modified: Tue, 26 Nov 2024 10:02:28 GMT
+Set-Cookie: ARRAffinity=d48186992aea7aca2a704d99d60013afabf8c23b330521c52da14f8eab9aa67b;Path=/;HttpOnly;Secure;Domain=www.geolsoc.org.uk
+Set-Cookie: ARRAffinitySameSite=d48186992aea7aca2a704d99d60013afabf8c23b330521c52da14f8eab9aa67b;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.geolsoc.org.uk
+X-Powered-By: ASP.NET
+

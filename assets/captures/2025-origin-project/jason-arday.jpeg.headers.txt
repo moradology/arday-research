@@ -1,0 +1,14 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 52203
+x-content-type-options: nosniff
+last-modified: Sun, 02 Apr 2023 23:19:10 GMT
+x-request-id: v-aed985a4-8d1d-11f1-b1f2-df26f409dcb2
+x-ah-environment: prod
+x-age: 0
+accept-ranges: bytes
+cache-control: max-age=60
+expires: Thu, 06 Aug 2026 22:06:17 GMT
+date: Thu, 06 Aug 2026 22:05:17 GMT
+strict-transport-security: max-age=15768000
+

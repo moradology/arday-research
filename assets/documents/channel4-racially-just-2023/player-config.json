@@ -1,0 +1,35 @@
+{
+  "account_id": "1184612030",
+  "context_menu": false,
+  "dock": false,
+  "embed_id": "default",
+  "fullscreen_control": true,
+  "picture_in_picture_control": false,
+  "playback_rates": [
+  ],
+  "player": {
+    "template": {
+      "name": "single-video-template",
+      "version": "7.44.1"
+    }
+  },
+  "player_id": "kyfesvvck",
+  "player_name": "Website Player (2025)",
+  "plugins": [
+  ],
+  "skin": "luna",
+  "studio_configuration": {
+    "player": {
+      "height": 540,
+      "responsive": true,
+      "units": "px",
+      "width": 960
+    }
+  },
+  "suppress_not_supported_error": true,
+  "updated_at": "2025-01-28T19:35:10.903Z",
+  "video_cloud": {
+    "policy_key": "BCpkADawqM08deD_NlNlQecym2VYWLggIWnESWDWsU7DPKneoAPJxQMtUE9ODyoqWnrjirqVLovmSMke3JCBXmpomVkyRJcxgGp-FPbhQlW5O5wcLHTBWZ8UJVuEZJO6cRFwVEGviirG1GlaX6kuSDCa1YMuvzlumpiLrQ"
+  },
+  "volume_orientation": "horizontal"
+}

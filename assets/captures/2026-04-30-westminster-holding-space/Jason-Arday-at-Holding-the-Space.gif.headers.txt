@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 22:10:52 GMT
+content-type: image/gif
+content-length: 186190
+server: cloudflare
+x-content-type-options: nosniff
+last-modified: Thu, 30 Apr 2026 11:09:07 GMT
+cache-control: max-age=1209600
+expires: Thu, 20 Aug 2026 22:10:51 GMT
+x-request-id: v-afdb67fe-91e3-11f1-bd16-9b816c52a1a1
+x-ah-environment: prod
+accept-ranges: bytes
+via: varnish
+x-cache: MISS
+cf-cache-status: MISS
+vary: accept-encoding
+cf-ray: a2715fc1ef2aef9e-OMA
+

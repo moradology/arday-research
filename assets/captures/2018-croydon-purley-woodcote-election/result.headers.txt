@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 15:45:09 GMT
+content-type: application/pdf
+content-length: 1520360
+cache-control: max-age=31536000
+etag: "1732e8-63e89528745a2"
+expires: Sat, 07 Aug 2027 15:45:09 GMT
+last-modified: Thu, 11 Sep 2025 16:49:36 GMT
+x-content-type-options: nosniff
+x-azure-ref: 20260807T154508Z-1765547f684vb7q2hC1CHIpkps0000000sp000000000a8xh
+x-fd-int-roxy-purgeid: 83668933
+x-cache: TCP_MISS
+accept-ranges: bytes
+

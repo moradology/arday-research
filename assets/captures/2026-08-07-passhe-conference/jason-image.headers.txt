@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 07:59:54 GMT
+content-type: image/jpeg
+content-length: 125442
+server: Apache
+x-provided-by: StackCDN
+last-modified: Tue, 17 Feb 2026 11:25:11 GMT
+etag: "1ea02-64b035317a68a"
+cache-control: max-age=86400
+expires: Fri, 07 Aug 2026 11:21:35 GMT
+x-origin-cache-status: HIT
+accept-ranges: bytes
+x-cdn-cache-status: MISS
+x-via: ORD1
+

@@ -1,0 +1,18 @@
+HTTP/2 200
+date: Fri, 07 Aug 2026 16:03:42 GMT
+content-type: text/html; charset=utf-8
+cache-control: max-age=0, private, must-revalidate
+vary: accept-encoding
+cdn-cache-control: public, max-age=86400, stale-if-error=31556952
+link: <https://www.mynewsdesk.com/assets/newsroom2020/application-6545daa1.css>; rel=preload; as=style; nopush,<https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js>; rel=modulepreload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush,<https://www.mynewsdesk.com/assets/newsroom2020/polyfills-87a09d81.js>; rel=preload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush,<https://www.mynewsdesk.com/assets/newsroom2020/expand_btn-abc07da6.js>; rel=preload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush,<https://www.mynewsdesk.com/assets/newsroom2020/follow-30d67b33.js>; rel=preload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush,<https://www.mynewsdesk.com/assets/newsroom2020/infinite_pagination-0a1798d5.js>; rel=preload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush,<https://www.mynewsdesk.com/assets/newsroom2020/navigation-caac23d6.js>; rel=preload; as=script; nonce=nFmpwpEQ7RIkbfOSgxlx3A==; nopush
+x-runtime: 0.056917
+cf-cache-status: HIT
+content-security-policy-report-only: default-src 'self'; font-src 'self' data: *; img-src 'self' data: *; frame-src *; object-src 'none'; script-src 'strict-dynamic' 'unsafe-eval' 'nonce-nFmpwpEQ7RIkbfOSgxlx3A=='; style-src 'self' 'unsafe-inline' mynewsdesk.com *.mynewsdesk.com cfcdn.screen9.com use.fontawesome.com; media-src 'self' * blob:; connect-src 'self' *
+etag: W/"98a42caa518d0984339c6af91fdf667d"
+referrer-policy: strict-origin-when-cross-origin
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+cf-ray: a277834dfb01a074-OMA
+alt-svc: h3=":443"; ma=86400

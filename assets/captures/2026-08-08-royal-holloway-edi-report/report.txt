@@ -1,0 +1,2537 @@
+1
+
+
+
+
+Royal Holloway EDI Annual Report (August 2023-July 2024)
+
+Contents
+
+    1.       Introduction. ...................................................................................................................................2
+    2.       Our EDI Framework 2023-2028 and Guiding Principles. .............................................................4
+         Our EDI Framework. ...........................................................................................................................4
+         Towards our strategy, RH2030s.........................................................................................................4
+    3.       EDI governance and structures. ....................................................................................................5
+    4.       Moving on from 2022/23. ...............................................................................................................6
+    5.       Diversifying our community..........................................................................................................7
+    6.       Inclusive culture, infrastructure and environment. ....................................................................8
+         Our People and Culture/Pulse Survey 2024. .....................................................................................8
+         Equality Impact Assessments. ........................................................................................................ 10
+         Our Staff Diversity Networks. ......................................................................................................... 10
+         Learning and awareness. ................................................................................................................. 10
+         Race equality. ................................................................................................................................... 11
+         Accessible and inclusive campus. ................................................................................................... 13
+         EDI events and celebrations. ........................................................................................................... 14
+         Mental health and wellbeing. ......................................................................................................... 15
+         Working with our local community. ............................................................................................... 17
+    7.       Fair and inclusive recruitment.................................................................................................... 17
+    8.       Development and progression................................................................................................... 18
+    9.       External accreditation schemes and partnerships. .................................................................. 20
+    10. Priorities for 2024/25. .................................................................................................................. 21
+    Appendix 1 EDI Guiding Principles. .................................................................................................... 23
+    Appendix 2 Workforce report (with pay gap reporting). .................................................................. 26
+         Introduction. ..................................................................................................................................... 26
+         Representation by protected characteristics. ............................................................................... 27
+         Factors which influence representation. ........................................................................................ 35
+         Pay gaps. ........................................................................................................................................... 45
+    Appendix 3 Review of KPIs (Colleagues) ............................................................................................ 52
+2
+
+
+
+Terminology: We acknowledge all terms used around race/ethnicity have limitations.
+Following community/network consultations, Royal Holloway uses the term Black and global
+majority (BGM), though understanding the sensitivities and complexities involved and try
+wherever possible to contextualise and disaggregate data/information.
+Benchmarking: HESA data for 2023-24, accessed via Heidi Plus Gold, has been used for
+benchmarking. We have conducted our benchmarking by aggregating data from ten
+institutions comparable to ours in size, geography, and academic focus. This group, informally
+known as the S10 University Network, includes Brunel, City, East Anglia, Essex, Goldsmiths,
+Kent, Reading, Sussex, and Surrey.
+
+
+1. Introduction.
+
+
+At Royal Holloway, our vision is to cultivate a diverse and inclusive community where everyone
+feels a sense of belonging, is supported to succeed, and is empowered to thrive. These
+aspirations are at the heart of our EDI Framework 2023-2028, launched in 2023, which provides
+a structured and coordinated approach to embedding equity, diversity, and inclusion across all
+areas of our University. This framework extends beyond our legal obligations, ensuring that
+EDI is infused into the culture and practices of the entire University community, maximising
+the impact of our collective efforts.
+This ambition for whole-University vision and efforts in our EDI work has additional resonance
+as we work towards launching our new University strategy, RH2030s in autumn 2024. EDI is an
+integral feature of the strategy, across all areas of our work, values, and vision. Along with so
+many members of our community – students and colleagues – as an EDI team we have helped
+to shape this directly and to ensure that voices from across the University are heard as part of a
+co-creative process.
+Building on the foundation of a strong EDI governance process and infrastructure established
+in recent years, a key focus for 2023/24 has been the continued implementation of the aims
+and objectives outlined in the EDI Framework. This includes empowering departments across
+the University to adopt an ‘inclusion by design’ approach, embedding accessibility and
+inclusion throughout their practices and processes.
+A highlight of this year included achieving an Athena Swan Silver award in November 2023.
+This award recognises significant progress and achievements in advancing gender equality
+within higher education and research institutions, demonstrating implementation of impactful
+initiatives to address gender disparities, sustained commitment and measurable outcomes.
+The Silver award also recognises the ability to identify and respond to challenges, and the
+showcasing of good practices that promote an inclusive and equitable culture for everyone.
+We also achieved Disability Confident Leader status in the same month. Disability Confident is
+a government scheme which recognises work done by employers to increase understanding of
+and challenge attitudes towards disability, and remove barriers to disabled people and those
+with long-term health conditions in the workplace. ‘Leader’ is the highest of the scheme’s
+3
+
+
+
+three levels, recognising that we are taking an active leadership role in encouraging and
+helping other employers on their journey to becoming Disability Confident.
+Action on EDI at Royal Holloway is fundamental to our vision, to be a University of Social
+Purpose. This action is underpinned by our Values, which guide everything we do and drive
+meaningful change that benefits our students, colleagues, and the wider community.
+We also recognise that lasting, sustainable change requires visible leadership and a strong
+commitment from senior leaders. In 2023/24, a key priority has been working closely with
+senior leaders to empower them to visibly champion EDI initiatives and lead by example.
+This year, we have successfully completed several projects identified as priorities in our
+2022/23 Annual EDI Report, including:
+
+•   Strengthening our Equality Impact Assessment (EIA) processes to ensure inclusivity in
+    decision-making.
+•   Enhancing support for parents and carers in the form of a peer support network and
+    improvements to relevant policies and practices.
+•   Achieving an Athena Swan Silver award (November 2023) and preparing for our Race
+    Equality Charter submission (November 2024).
+•   Expanding resources and initiatives to support accessibility and disability inclusion,
+    including becoming a Disability Confident Leader (November 2023).
+•   Achieving significant progress with the comprehensive revision of our promotions processes
+    to make them more equitable, with recommendations in place.
+•   Taking stronger action to address bullying and harassment with a focus on prevention,
+    report and support.
+•   Enhancing EDI training provision across the University including through development of a
+    suite of micro-learning resources.
+•   Re-launching our Conversations About Race initiative with Citizens UK, to foster open,
+    supportive and impactful discussions.
+
+As a University of Social Purpose, we are particularly attuned to the issues facing our local and
+global communities in current times. World events and geopolitical shifts matter to us
+individually and collectively. The University has worked to strengthen its support services for
+colleagues, such as providing enhanced mental health resources, and creating spaces for
+dialogue including regular meetings with student societies impacted by geopolitical events.
+Colleagues also continue to work closely with our Students’ Union on these and other
+initiatives, such as the Festival of Languages and Cultures, that bring our communities
+together. Our commitment to fostering an inclusive, compassionate, and supportive university
+community sits alongside another commitment – namely, to support open dialogue and
+respectful debate. In upholding and promoting principles of freedom of speech and academic
+freedom, we strive to bring care and understanding to where these principles intersect with
+work on equality and inclusion, in line with our values of equity, inclusion, and respect for all.
+
+This report covers key projects and initiatives from the year 2023/24, and reflects on our
+performance against targets and KPIs. Undoubtedly, we have moved forwards, but much work
+remains. As we reflect on the progress made this year, and the many challenges our
+community continues to face, we remain steadfast in our commitment to fostering a
+4
+
+
+
+University where respect, equity and inclusion are lived values, shaping every aspect of our
+community. This report highlights our achievements, ongoing work, and future priorities as we
+continue on this vital journey.
+
+
+2. Our EDI Framework 2023-2028 and Guiding Principles.
+
+Our EDI Framework.
+Our EDI Framework 2023-28 articulates our priorities and outlines how we will monitor
+progress and measure impact. Our three aims are:
+
+•   Aim 1: Achieve diversity in our staff and student body.
+•   Aim 2: Establish an equitable and fair environment.
+•   Aim 3: Ensure everyone is included and feels a sense of belonging.
+
+These aims are accompanied by the following objectives:
+
+•   Objective 1: Achieve proportionate representation of marginalised groups throughout
+    Professional Services and the academy, and among decision-makers across the University.
+•   Objective 2: Increase the diversity of our students across all levels of study.
+•   Objective 3: Ensure all staff and students are supported to succeed and all barriers are
+    identified and removed.
+•   Objective 4: Ensure all physical and digital spaces are accessible, eliminating barriers to
+    participation.
+•   Objective 5: Empower all members of our community to understand, value and respect
+    difference and be active bystanders.
+
+
+Our EDI Framework is underpinned by six new EDI Guiding Principles (Appendix 1) that
+support our EDI aims and set our foundation for conduct and culture. Our vision is that our
+principles underpin all aspects of work and study at Royal Holloway, including what we do and
+what we say, and are manifested in University structures, policies and everyday processes and
+behaviours. Our work on providing solid and effective support and resources to empower our
+community to ‘live our principles’ is continuing at pace, though we have a lot of work ahead.
+We aspire to meet and go beyond our legal compliance requirements in our support of diverse
+students and colleagues, in line with our values. A key underlying theme and focus of our work
+continues to be for equity and inclusion to become ‘what we do’ in our everyday practices. We
+are working hard to ensure colleagues and students have the support and tools to be able to
+contribute to this change, making a difference to the culture at the University.
+
+
+Towards our strategy, RH2030s.
+Our EDI Framework 2023-2028 and Guiding Principles align with work to develop our strategy,
+RH2030s, which will launch in the Autumn of 2024. Principles of equity and inclusion will also
+underpin upcoming work towards becoming a values-led organisation, as we come together to
+develop a clear sense of who we are and what we stand for.
+5
+
+
+
+Work is taking place with students, and with colleagues across academic and Professional
+Services teams and other partners to co-create this new strategy. It is an opportunity to
+understand our shared values and use these as the foundation to build our vision so that we
+become a values-led University of Social Purpose – a university that focusses on what matters.
+
+
+3. EDI governance and structures.
+
+
+Our Vice-Chancellor and Principal Professor Julie Sanders, alongside our University Council,
+have overall responsibility for equality. The EDI Committee, chaired by Professor Tracy
+Bhamra, Provost and Pro-Vice-Chancellor (Global), continues to drive the development and
+implementation of the Equality Framework 2023-2028. This group comprises colleagues from
+across the University including from Professional Services, diversity Network leads, Equality
+Group chairs and EDI Vice-Deans, who each lead one of our four central Equality Strategy
+Working Groups.
+Our EDI team in HR, comprising three full-time posts, supports all EDI initiatives and works
+closely with the Vice-Deans for EDI (0.6 FTE) in each School. These colleagues lead on School-
+based approaches and contribute to EDI leadership at University level. We are currently
+working on establishing similar roles based in Professional Services. Each EDI Vice-Dean works
+closely with their department EDI Champions, with School-level EDI Committees in place, with
+representation from each department.
+We have four University Equality Leads (0.1 FTE), each leading one of our Equality Groups
+(Race, Gender, LGBT+, Disability). Our EDI structure is designed to:
+
+•   Ensure diverse perspectives and lived experiences inform our work through network
+    representation embedded throughout.
+•   Facilitate focus on intersecting issues through Strategy Working Groups to accelerate
+    transition from theory to action. Each focuses on one of four themes identified as key areas
+    and chaired/co-chaired by one of our EDI Vice-Deans: Culture, Infrastructure, Recruitment,
+    Progression.
+•   Strengthen collaboration between colleagues and students with Students’ Union Vice-
+    Presidents and student representatives participating in Equality Groups, the EDI
+    Committee and education and student experience groups.
+
+
+Our Strategy Working Groups include representation from Professional and Technical Services
+colleagues who support local EDI work in these areas. Our seven new Student Inclusion
+Collectives in the Students’ Union (Black and Global Majority, Disabled, International,
+LGBTQ+, Mature, Carer/Parents, Students of Faith, Women) led by Community Officers, feed
+into our structure.
+6
+
+
+
+
+      New Operation
+                                              Executive Board
+
+                                               EDI Committee
+                                                                        Inclusive Education Board
+       Equality Groups                     Strategy Working Groups
+                                                                           Access work stream
+     Disability Equality            Inclusive Culture & Environment      Success work stream
+     LGBT+ Equality                 Inclusive Infrastructure             Progression work stream
+     Race Equality                  Selection and Onboarding             Data work stream
+     Gender Equality                Development and Progression
+
+
+                                           Staﬀ Diversity Networks
+
+                                              Student Collectives
+       Staﬀ focus Staﬀ and Student focus                                              Student focus
+
+
+
+
+Professional Services (PS) departments are at different stages on their journey towards
+ensuring inclusion by design both through, and also within, their areas. All are working
+towards playing effective roles in creating and supporting student/colleague belonging, and
+achieving fair representation of marginalised groups.
+
+The Library offers one example of local good practice and active collaboration with EDI
+structures and governance. Our Director of Library, Learning Support & Culture established
+and chairs the Library EDI group, a diverse forum which meets monthly, provides feedback on
+central EDI Committee issues, feeds into Library strategy (e.g. diversification/decolonisation in
+Collections, colleague diversity and belonging), and supports specific initiatives (e.g. external
+Black Students’ Experiences in Academic Libraries project). The central EDI Team and student
+Disability and Neurodiversity Services are regularly invited to contribute, to further strengthen
+a joined-up approach. We will support extension of practices across Professional Services.
+
+
+“The EDI strategy has been helpful in advancing culture and practice shift.” REC Survey 2024 open-
+question (colleague).
+
+
+
+4. Moving on from 2022/23.
+
+
+Throughout 2022/23 work was focused on helping colleagues develop an inclusive mindset,
+with the confidence to learn and act, championed by leaders and managers.
+Specific targets for 2022/23 included:
+
+•     Developing our EDI Framework and EDI Guiding Principles to bring a focus and coherence
+      to our EDI work.
+•     Carrying out an audit of our recruitment process to ensure it is fair and inclusive with
+      barriers removed for all applicants.
+7
+
+
+
+•   Launching mandatory Inclusive Leadership Training for our managers acknowledging the
+    crucial role managers play in setting and nurturing the culture and environment that is
+    needed to support everyone to be their best.
+•   Strengthening awareness around and support for peri/menopause.
+•   Reviewing our academic promotions process to ensure it is fair and that we do all we can to
+    remove barriers to progression.
+•   Raising awareness around disability and access, including equipping our community with
+    the knowledge to design accessible processes and practices.
+•   Developing reporting processes for colleagues and students to report on incidents of
+    bullying and harassment, both named and anonymously.
+
+In 2023/24, 0ur priorities continued to centre around the themes of our four Strategy Working
+Groups: selection and onboarding, inclusive culture and environment, inclusive physical and
+digital infrastructure, and development and progression.
+
+
+5. Diversifying our community.
+
+Our students
+Our student cohort has changed rapidly in size and diversity over the past few years. In
+2023/24 we had 12,650 students, compared to 10,300 in 2017, and 83% of our current students
+are undergraduates. Our student population has become more ethnically diverse, which may
+reflect the increasing proportion of students that come from West and South London and the
+hyper-diversity of London’s population. In 2023/24 51% were from Black and global majority
+(BGM) backgrounds, and 32% were Asian.
+Our colleagues
+
+Representation of BGM colleagues increased by 1.1 percentage points to 21.6% compared to
+2023. This figure has increased by 4.7 percentage points since 2019/20. The S10 average is
+21%. However, we continue to see less diversity among colleagues than in our student
+community.
+The proportion of colleagues declaring a disability rose to 5.4% in 2024, following a decline to
+4.9% in 2023. This figure remains below the S10 average of 9%. At the same time, however,
+we have seen a sharp decline in turnover for disabled colleagues from 32.2% in 2023 to 11.4%
+in 2024.
+In 2023/24, 53.2% of colleagues were female: a slight increase since 2022/23 (52.5%). This is
+lower than the S10 average, which is 57%.
+The proportion of LGBT+ colleagues, which had decreased by 0.1 percentage points last year,
+increased by 0.7 percentage points in 2024. The proportion of colleagues who preferred not to
+record their sexual orientation has continued to decrease year on year and is now 24.1% (down
+from 33.8% in 2019).
+This year, we are able to report that 10 colleagues (0.5%) do not identify with their birth
+gender, as this meets our reporting threshold of 10. This is on par with the sector 0.8%
+(Advance HE statistical report 2024). 33.8% of colleagues did not disclose this information.
+8
+
+
+
+6. Inclusive culture, infrastructure and environment.
+
+
+Our People and Culture/Pulse Survey 2024.
+
+Consulting with our community to understand issues, design action and assess progress is
+crucial. The People and Culture/Pulse Survey was conducted from 3 to 21 June 2024. This
+interim survey complements the main People and Culture Survey, now conducted biennially,
+with the next iteration scheduled for October 2025. The Pulse survey includes 11 core
+questions, with additional questions focusing on key areas such as bullying and harassment,
+which were included in this survey.
+
+A total of 896 colleagues responded, representing a 47% response rate, lower than the 55%
+achieved in the February 2023 full survey. For the first time, data for colleagues with a trans
+history, and Chinese colleagues, are included due to higher reporting rates. Gender identity
+reporting remains limited to men and women, as fewer than 10 respondents identified as non-
+binary or ‘in another way’.
+
+The percentage of respondents declaring protected characteristics decreased slightly across
+most categories, except for religion. This leaves demographic data incomplete for around 1 in
+5 respondents, and in some cases, as many as 1 in 4.
+
+Highlights.
+The eleven core survey questions focus on colleague satisfaction in areas such as alignment
+with the University’s mission, feeling valued, work/life balance, open communication, and
+mutual respect.
+BGM colleagues responded more positively than White colleagues across all core questions,
+with particularly notable differences in perceptions of leadership valuing people (65% vs. 44%)
+and feeling recognised for their role’s value (70% vs. 51%). Among BGM groups, Black/Black
+British and Chinese colleagues reported the highest positivity scores, at 87% and 86%
+respectively.
+Intersectionally, BGM men were more positive than BGM women (81% vs. 70%), with
+significant gaps in perceptions of fair work allocation (83% vs. 61%) and role recognition (85%
+vs. 65%). BGM academics and Professional Services (PS) colleagues had comparable positivity
+rates (73% vs. 72%), with both groups reporting higher scores than White colleagues.
+On average across the eleven questions, BGM academics were 14 percentage points more
+positive than White academics, with six core questions showing differences of 16 percentage
+points or more. Among PS colleagues, BGM respondents answered nine of the eleven core
+questions more positively than White PS colleagues, with four questions showing differences
+of ten percentage points or more.
+Colleagues with a declared disability were less positive than those without (52% vs. 64%).
+Differences were most pronounced in perceptions of roles providing ‘a sense of meaning and
+purpose’ (61% vs. 78%), open communication (20% vs. 37%), and mutual respect (70% vs.
+54%).
+9
+
+
+
+Disabled PS colleagues were 5 percentage points more positive than disabled academics, with
+key differences in work/life balance and understanding institutional goals. No notable gender
+differences were observed within this group.
+Colleagues from smaller respondent demographic groups, including those identifying as queer
+(45%), bisexual (56%), or of ‘any other religion’ (57%), scored below the University average
+across the core survey questions. Queer colleagues reported significantly lower scores in key
+areas such as leadership valuing people (14%), as well as work/life balance, recognition of the
+value individuals bring, and fair work allocation (all at 36%). Bisexual colleagues also scored
+notably lower than the University as a whole in feeling valued for their contributions (36% vs.
+49%), while colleagues of ‘any other religion’ (including Buddhist, Jewish, and Sikh) reported
+below-average scores for mutual respect (55% vs. 65%) and open communication across the
+University (10% vs. 31%).
+
+
+Bullying and harassment.
+In line with the overall results, most demographic groups showed a rise in colleagues
+responding ‘yes’ to being asked whether they had experienced or witnessed bullying and
+harassment. The largest rise was among colleagues of ‘any other religion’. However, there is
+an absence of demographic data that makes it difficult to fully assess the impact of bullying
+and harassment on all groups.
+As one example of local good practice, we piloted a Dignity Listener scheme in the School of
+Life Sciences and the Environment (LSE). Trained Professional Services and academic
+colleagues, identified as points of contact for confidential discussions around experiences
+including discrimination, bullying and harassment. Colleagues in these roles listen to concerns
+in an informal, safe and confidential environment, help navigate policies and procedures,
+signpost to reporting routes, wellbeing support, offering opportunities to talk to someone
+independent (including outside one’s department) and better understand possible next steps.
+
+
+Conclusions.
+• The survey results from BGM colleagues were very positive. Race equality was a key area of
+   focus in the last year as we prepare to submit an application for the Race Equality Charter
+   Mark in November 2024.
+• The survey results from disabled colleagues suggest that a similar focus is needed to
+   understand the key issues and take forward an equality action plan, including awareness-
+   raising and training, and inclusivity by design.
+• A similar focus is needed on inclusion, engagement and belonging for colleagues who
+   identify as queer or bisexual, who reported less positive results than the University overall in
+   both 2023 and 2024 People and Culture surveys.
+• The increase in declaration of protected characteristics in relation to religion within the
+   survey suggests growing awareness and importance of this for colleagues. A stronger focus
+   on religion and belief in our EDI work may be needed in response, especially given recent
+   world events and geopolitical shifts.
+10
+
+
+
+Equality Impact Assessments.
+We have developed a comprehensive EIA policy and process, supported by synchronous
+training designed for senior managers, Professional Services colleagues, and academic
+colleagues directly involved in amending existing policies or developing new ones that impact
+colleagues and/or students. This policy and training equip colleagues to assess the impact of
+proposed changes systematically, ensuring that we identify and address existing or potential
+inequities as part of our commitment to fostering equity and inclusion.
+It is notable that EIA completion rates across Royal Holloway are increasing, with a new
+Executive Board sub-committee reviewing all policies.
+
+
+Our Staff Diversity Networks.
+Our Networks are run by colleagues for colleagues, supported by the central EDI team.
+Networks provide peer support, and constitute platforms for raising awareness and for
+different voices to speak. They are also represented in our EDI governance structure, where
+they influence the development of policies and processes. Network Chairs (0.1 work-relief)
+meet regularly with Senior Leader champions to discuss challenges, required support.
+We now have six thriving networks:
+
+•    Black and Global Majority.
+•    Disability and Mental Health.
+•    LGBT+.
+•    Parents and Carers.
+•    Peri-Menopause.
+•    Royal Holloway Women’s Network.
+
+
+Learning and awareness.
+We continue our work to strengthen our knowledge and capacity to create safe, respectful and
+inclusive spaces across the University, through promoting existing mandatory EDI courses, and
+through other forms of learning. Engagement from our senior leaders, who have completed
+Inclusive Leadership training and are working on EDI objectives, is an important part of this
+process.
+A focus for 2024 has been to grow our library of micro-learning resources and added ‘Where
+are you REALLY from? Microaggressions at work’ and ‘Becoming anti-racist’ to this collection
+in early 2024. We have more work ahead to ensure micro-learning resources are used and in
+turn are impactful.
+We continue to offer Conversations About Race sessions, within departments and cross-
+University sessions, and offered face-to-face Anti-Racism Allyship training (2024) to further
+recruit and support facilitators. In 2024/25 we plan to procure Disability Awareness training,
+and strengthen the impact of Inclusive Leadership for Managers training through promoting
+initiatives developed as part of the course to foster inclusive practices within teams.
+11
+
+
+
+Race equality.
+
+     “With the new leadership, the discourse has clearly and significantly shifted. It shows more
+     urgency and seriousness.” REC Survey 2024 (colleague)
+
+
+We continue to reflect deeply and critically on our role in perpetuating institutional racism. We
+are aiming for a holistic, University-wide approach to effectively address race inequality, with
+alignment on key projects and better collaboration between the central EDI team and local
+teams. This will help us strengthen our understanding of, and response to, racism in higher
+education.
+Race Equality Group (REG).
+Our Race Equality Group (REG) is chaired by Chris Howorth, Championed by Professor Tracy
+Bhamra (Provost and Pro-Vice-Chancellor, Global) and now has cross-University membership.
+It comprises colleagues who have been involved from the start of our Race Equality Charter
+journey in 2014 as well as new voices following calls for interest via newsletters and emails,
+and invitations for colleagues in specific roles to join.
+We have synchronised projects across the University which directly impact the experiences of
+our Black and global majority students and colleagues. We have representation from
+colleagues working on key projects such as the Action and Participation Plan, the Academic
+Promotion process review, student experience projects, University of Sanctuary initiatives and
+more.
+
+REG has become a point of convergence for ideas from across Royal Holloway. It has been a
+catalyst for collaboration, unearthing and addressing gaps in data and activity, and will
+continue to support and strengthen aligned activities. It is also leading our 2024 Race Equality
+Charter (REC) submission.
+Awarding gaps.
+We have not reached our targets for reducing awarding gaps, although we are heading in the
+right direction, with improvement each year since 2020-21. Key actions taken towards
+reaching these targets include:
+
+     •   Strengthening local action and accountability for awarding gaps through embedding
+         awarding gap data within annual department reviews, with progress reports presented
+         to central Quality Assurance and Standards Committee.
+     •   Implementing a more systematic and joined-up approach to exploring and improving
+         student belonging.
+     •   Investing in new leadership posts in 2023/24 (Executive Director of Student Journey and
+         Associate Pro-Vice-Chancellor for Inclusive Learning and Teaching) and increased FTE
+         for EDI Vice-Deans from 0.4 to 0.6.
+
+
+While we have concrete APP plans built around quantitative metrics set by the Office for
+Students (OfS), we are using in-house expertise to further disaggregate and interrogate data
+beyond the limits of the APP, to further enhance our understanding and achieve real change.
+12
+
+
+
+Diversity and culture for colleagues.
+We are enormously proud to say we now have a majority BGM student body. We recognise
+that we still need to do much more towards diversity among colleagues and, importantly, in
+our key decision-making spaces.
+
+Engagement has helped us to identify strategic priority areas for the future centred on culture,
+belonging and trust. We must ensure training is immersive and impactful, so that we can be
+confident that inclusive and anti-oppressive practices are embedded across the University. We
+also need to work even harder to ensure that processes for reporting racist incidents are
+trusted and effective, with more efforts focussed on prevention and clear follow-through.
+
+Our sharp decline in colleagues involved in the disciplinary process suggests a culture shift,
+with greater manager awareness around inclusive practice and unconscious bias; indeed,
+feedback on our Inclusive Leadership for Managers programme (launched 2022/23) showed
+significant increases in knowledge, with 22% of colleagues reporting ‘good knowledge’ pre-
+course, 78% post-course. We have also launched new forms of learning, including micro-
+learning resources and Conversations About Race.
+
+Our University-wide Anti-Racism Action Plan will help us make the change we need and
+support us as we continue our anti-racism journey.
+
+REC Survey 2024: “[…] RHUL is willing to engage in the hard conversations around race.”
+(REC Survey 2024 open-question (colleague)).
+
+
+Race Equality Charter (REC) Survey 2024.
+We carried out a REC Survey in February 2024. 585 colleagues responded: a 30% response
+rate, compared to 13% in 2017. We communicated findings via internal newsletters with
+articles by our Senior Race Equality Champion and REG Chair. Findings and actions were
+discussed at REG, BGM staff Network, EDI Committee and Executive Board, with themes
+further explored during student interviews. Paid student APP ambassadors provided
+representation of key underrepresented groups (e.g. BGM, socio-economic deprivation,
+commuting) in consultations; they also ran focus groups discussing current support for
+success, progression, barriers, and suggestions for improvement.
+
+Colleague perspective: REC Survey findings 2024.
+The REC survey 2024 highlights significant disparities in colleagues’ experiences at Royal
+Holloway based on race, gender, and role. BGM women academics report feeling more
+respected and connected than White women academics, and than BGM women in
+Professional Services, with the latter feeling the least connected overall.
+
+Confidence in addressing racist behaviours and trust in reporting systems remains low,
+particularly among BGM staff, who also express limited confidence in senior leaders' visibility
+and accountability for race equality.
+
+Few colleagues believe they can have open conversations about race, with BGM colleagues
+reporting this significantly less than their White peers. Awareness of race equality initiatives is
+13
+
+
+
+also lower among BGM staff, especially in Professional Services roles, and fewer BGM
+colleagues feel that cultural traditions are acknowledged or that social events are inclusive.
+
+Open-ended responses emphasise the need to improve understanding of racism and foster
+cultural change across the institution. Responses suggest awareness of positive EDI work, with
+an increase in focus, attitude changes, student diversity, decolonisation work, communication,
+wider strategy, local structures, events and training.
+
+Student perspective: REC, NSS and Undergraduate Survey 2024 findings.
+Fewer students participated in the 2024 REC Survey than previously (301 students, compared
+to 360 in 2017), though we made sure we also conducted extensive consultation through
+multiple channels, including broader initiatives such as the National Student Survey (NSS),
+Postgraduate Taught Experience Survey (PTES), Postgraduate Research Experience Survey
+(PRES), and our internal undergraduate survey, as well as numerous focus groups and
+discussions related to the APP. Additionally, insights were gathered through the RH100 focus
+group, and targeted interviews with BGM students.
+
+The REC 2024 survey indicates that a sense of belonging among students, particularly BGM
+respondents, is lower compared to results from the NSS 2024 and UG Survey 2024 (noting
+substantially lower response rates for the REC survey). Fewer BGM students report feeling
+connected to staff, with Black students feeling the least connected. This may be a feature of
+the smaller sample size for the REC survey and as a self-selecting sample, the motivations to
+complete it.
+
+However, there are encouraging signs of progress. A comparison of survey data suggests new
+interventions supporting students transitioning into higher education may be having a positive
+impact, as Black UG students in their first two years report higher feelings of belonging
+compared to students in their final year. In the NSS 2024, Black students showed a significant
+improvement in positivity compared to 2023, alongside increased satisfaction levels across all
+ethnic groups in the UG Survey 2024.
+
+Despite these improvements, disparities persist. REC data shows low confidence among
+students, especially BGM, in addressing racist behaviours or trusting senior leaders to do so.
+Many students, particularly Black and Asian respondents, feel that Royal Holloway’s efforts to
+tackle racial inequality and create inclusive social environments are insufficient. Additionally,
+fewer students perceive opportunities to learn about different ethnicities and cultures or see
+festivals and traditions acknowledged. Black students reported the highest rates of discomfort
+due to race/ethnicity, paralleled by an increase in anonymous incident reporting over recent
+years.
+
+Open-ended responses highlight a perceived lack of representation of BGM staff and systemic
+‘Whiteness’ embedded in the curriculum and institutional culture. Respondents call for
+enhanced training for teaching staff to address race, Islamophobia, and antisemitism,
+underscoring the need for further action in these areas.
+
+Accessible and inclusive campus.
+Our targeted increase in the proportion of disabled Professional Services colleagues at grade 9
+and grade 10 has already been met, though not improved on since 2022/23. It is important we
+14
+
+
+
+continue to work to support progression of our colleagues and set a stretch target so we can
+measure progress.
+We are trying hard to strengthen our support for access and disability inclusion across the
+institution, promoting greater awareness of everyone’s role in making everyday practices
+accessible and inclusive. As part of this we launched our new Accessibility and Inclusion Hub in
+November 2023 to provide colleagues with a central point of reference for all things
+concerning accessibility and inclusion, encouraging colleagues to think about how they could
+implement it in their work, both individually and as a team. The hub was socialised to teams
+across the University throughout 2023/24. We now offer face-to-face accessibility training with
+a focus on hosting inclusive meetings, writing accessible documents and designing accessible
+webpages amongst other activities.
+We still have further work ahead to ensure principles of access and inclusion are firmly
+embedded at the start of and throughout all projects, with consultation with groups and
+individuals who can bring lived experience perspectives to decision-making as a key part of
+how we work.
+
+
+EDI events and celebrations.
+
+Throughout 2023/24 we marked a range of diversity dates and months. Highlights include:
+
+•    ‘Decolonising the University’, hosted by Professor Jason Arday (Black History Month 2023);
+     included ‘lightning talks’ from our six Schools, Library Services, Students’ Union,
+     showcasing practical decolonisation/diversification work across Royal Holloway. This event
+     examined the necessity for and challenges around decolonising our higher education
+     institutions and curricula, as well as providing examples of best practice.
+
+•    Disability and Youth Panel Event (Disability History Month 2023). Guest speakers included
+     a range of disability rights activists, campaigners and writers such as Nina Tame, Amy
+     Kavanagh, and Pippa Stacey.
+
+•    Bisexual Men exist: A conversation with Vaneet Mehta (LGBT History Month 2024) which
+     included a discussion on the issues and barriers that bisexual+ men face.
+
+•    The Significance of Joy and its Impact on LGBTQIA+ Mental Health (Pride 2024). Dominic
+     Davies, founder of Pink Therapy, spoke on the profound significance of joy and its
+     transformative impact on mental health of our LGBTQIA+ students and colleagues.
+15
+
+
+
+
+ ‘Decolonising the University: A conversation with Professor Jason Arday, also featuring our
+               Vice-Chancellor and Principal, and Students’ Union President.
+
+
+We continue to visually mark diversity months through providing variations on our University
+logo with guidance for staff on how to use these in email signatures. The image below shows
+from left to right, logos to mark Disability History Month, Black History Month, Women’s
+History Month and Pride Month. The logos have also been used as social media avatars across
+the University’s various platforms:
+
+
+
+
+Mental health and wellbeing.
+
+During the academic year 2023/24, we prioritised the training and development of line
+managers and leaders to increase awareness of mental health in the workplace. We engaged a
+specialist supplier to deliver six one-day in-person courses designed to empower managers
+and leaders to recognise the signs and symptoms of poor mental health, understand when and
+how to intervene, and know how the University can support individuals on their journey to
+wellness. These courses were extremely well attended by colleagues from across the
+University community, with 61 delegates completing the training. Feedback was
+overwhelmingly positive, and as a result, we will continue offering these courses throughout
+the academic years 2024/25 and 2025/26.
+
+Additionally, we offer a Mental Health Awareness course for student-facing staff, focussing on
+our institution-wide responsibility for student mental health and wellbeing. This training helps
+colleagues to respond sensitively and direct students to appropriate support. Two sessions
+were held during in 2023/24, which were very well attended and received highly positive
+feedback.
+16
+
+
+
+In 2024, we established a working group comprised of both Professional Services and
+academic colleagues. This group has developed a proactive and preventative ‘whole person,
+whole organisation’ approach to staff and student wellbeing, aligning our efforts to support
+both groups. We identified several strengths, challenges, opportunities, and potential threats
+to wellbeing across the University.
+
+Alongside this, we provided a range of mental health and wellbeing support initiatives,
+including resources for World Mental Health Day (October 2023), Men’s Health Month
+(Movember, November 2023), a feature article on our intranet, and supporting guidance for
+Mental Health Awareness Week (May 2024). We also offered in-house services such as
+massage and reflexology, regular campus woodland walks, wellbeing updates and tips
+(including on stress awareness, winter wellness, and self-care), occupational health support,
+and access to our 24-hour Employee Assistance Programme.
+
+Our focus moving forward is to build upon these initiatives with a renewed emphasis on
+aligning them with the University’s strategic enablers for People, Culture, and Inclusion. Our
+goal is to foster a vibrant, diverse, and inclusive community where all members feel
+empowered, valued, and inspired to reach their full potential. By doing so, we aim to have a
+positive impact on both local and global communities, with a particular focus on promoting a
+sense of wellbeing and belonging for the entire University community. We are committed to
+ensuring inclusivity by design and fostering a safe, supportive, and inclusive environment for
+all.
+
+As a University, we recognise that good mental health and wellbeing are essential for the
+success and wellbeing of both our students and staff. Our ambition is to cultivate a supportive
+community where colleagues are equipped with the knowledge, training, and resources to
+promote positive mental wellness. We are committed to creating an environment where staff
+feel confident in preventing workplace factors that may contribute to mental ill-health. We
+aim to foster a safe and nurturing space that encourages wellbeing, compassion, creativity,
+and high performance, and provide relevant information and guidance to support national and
+international awareness days related to all aspects of health and wellbeing.
+
+Ultimately, we seek to develop an inclusive, informed, and compassionate community that
+supports a balanced and flexible approach to work and life, ensuring that everyone’s voice and
+needs are heard and respected.
+
+
+
+A peri/menopause-friendly University.
+We continue to provide support and guidance to colleagues experiencing menopause
+symptoms in the workplace, through our Peri/menopause Network which launched in
+November 2022, Menopause Awareness training for Managers, a range of workshops, and
+continue to build and promote our Menopause Hub which includes an array of internal and
+external sources of support and guidance. To mark World Menopause Day in October 2023,
+17
+
+
+
+which focused on cardiovascular health, we organised a talk on ‘Understanding and Embracing
+the Menopause’ and offered free onsite Body Composition Testing.
+
+
+Working with our local community.
+Royal Holloway hosts a termly forum with representatives from the local community (e.g.
+Councillors, Residents Associations, community leaders) to work together on issues impacting
+marginalised communities. We meet regularly with local Police to respond to immediate
+concerns, who also offer drop-in campus sessions. We are a member of the Surrey Police Hate
+Crime taskforce working group, reporting information shared by students. Members of
+Executive Board, including our Vice-Chancellor and Principal, and Students’ Union meet
+regularly with student societies to understand their needs and support students impacted by
+local or world events. In November 2024 we hosted the Surrey Interfaith Forum, with
+community partners including faith leaders and County Council representatives, to strengthen
+relationships of trust for future collaboration.
+
+
+
+
+A University of Social Purpose: University of Sanctuary.
+We strive to become a place of safety, solidarity and empowerment for people seeking
+sanctuary and are applying for formal University of Sanctuary status. We are driven to
+understand, address and share the challenges people face in seeking sanctuary to pursue
+Higher Education. This is reflected in our research and teaching, and in our broader work as a
+University of Social Purpose.
+As part of our collaborative work with the Higher Education Outreach Network (HEON – our
+local Uni Connect partner) and Big Leaf Foundation, we work with local universities to improve
+young people’s knowledge and skill focussing on refugees and asylum-seekers in the local
+area.
+We plan to launch ‘University of Social Purpose PhD Studentships’ in October 2024 and in
+2023/24, increased our funding to support displaced academics and students.
+The Sanctuary Scholarship and Friendly Hand Bursary provide HE access for students
+fleeing persecution and seeking asylum in the UK with a full tuition fee waiver and support
+with living costs. We maintain relationships and support all our Sanctuary alumni scholars.
+
+
+
+
+7. Fair and inclusive recruitment.
+
+
+Recruitment data highlights the need for continued efforts to attract a more diverse applicant
+pool and ensure that decision-making processes remain fair and free from bias. Encouragingly,
+the proportion of applications from women, Black and global majority (BGM) applicants, UK
+applicants, disabled applicants, and LGBT+ applicants has increased since last year.
+18
+
+
+
+While shortlisting rates for BGM applicants remain lower than for other groups, offers made to
+BGM candidates, overseas applicants, disabled candidates, LGBT+ applicants, and women
+exceeded the proportion of colleagues currently employed in these groups. This indicates that
+recruitment efforts are contributing to workforce diversification, albeit at varying rates.
+To support an inclusive culture, we continue working to ensure new colleagues feel equipped
+and empowered to contribute to a welcoming and supportive environment. We have
+developed guidance for academic and Professional Services applicants, as well as for selection
+panels, on writing Diversity Statements — reflective statements that outline an applicant’s
+experiences, knowledge, and reflections on equality, diversity, and inclusion (EDI) and how
+these have shaped their personal and professional growth. These statements provide
+prospective colleagues with the opportunity to demonstrate their awareness of EDI’s
+importance, their willingness to engage with these issues, and how they might contribute to
+fostering an inclusive environment at Royal Holloway, enhancing the experience and sense of
+belonging for all colleagues and students.
+We continually emphasise the importance of panel diversity but see a difference in practices
+across the University. As panel diversity does not guarantee bias-free interviews, we extended
+training to all panellists, not just the Chair. We are further improving training design to help
+panels create collaborative and inclusive environments that will enable them to reach fair and
+unbiased decisions. This includes a focus on counteracting groupthink, supporting less
+dominant voices, recognising disadvantage built in to external systems and considering a
+broader range of impact measures. In 2024/25 we will also review shortlisting process to
+ensure fair outcomes.
+
+
+
+Recruitment – some key highlights.
+White applicants, UK applicants and female applicants show the highest offer rate, with
+international applicants, men and Black and global majority applicants the lowest offer rate.
+Disabled applicants are more likely to be shortlisted than non-disabled applicants, with similar
+offer (from shortlisting) rates.
+Black and global majority applicants are less likely to progress than White applicants at both
+stages of shortlisting and interview.
+
+
+
+
+8. Development and progression.
+
+The development and progression of our colleagues is a key focus. Promotion data shows that
+further targeted work is needed. For example, there is under-representation in the
+professoriate for women, and colleagues from Black and global majority (BGM) backgrounds.
+Colleagues from BGM backgrounds are also underrepresented in Professional Services roles
+for grades 9 and 10. Fair representation of BGM colleagues at senior levels is also very slow to
+change, and action is needed to address markedly lower success rates in the academic
+promotion process.
+19
+
+
+
+An extensive review of the current Academic Promotions took place throughout 2023/24 and is
+ongoing. This included engagement sessions with over 130 colleagues, and a benchmarking
+survey with 49 UK universities. Three working groups were formed to look at training, panels
+and criteria, and develop proposed changes. A steering group formed, chaired by Professor
+Tracy Bhamra, Provost and Pro Vice-Chancellor (Global), reviewed the ﬁndings and made
+recommendations to Executive Board.
+
+With primary revisions scheduled for December 2024, feedback on issues such as anonymity
+and transparency led to some changes being implemented earlier. The proposal to remove
+anonymity in applications was presented to the University and College Union (UCU) in October
+2023, with follow-up discussions in November. Broader consultation with the wider University
+revealed that only 12.7% of colleagues expressed significant concerns. To address potential
+bias, measures such as strengthened EDI training, revised School panel structures, external
+panel members, and pre-scoring by panel members will be introduced. We will make sure we
+evaluate the impact of changes to the process. We are also introducing EDI leadership as part
+of the criteria so that this work is acknowledged and rewarded as appropriate.
+
+We continue to engage with the London Higher Global Majority Mentoring programme. Since
+2022/23, 12 colleagues (academics/PTO) have engaged as mentors/mentees.
+
+Extract, LHGMP Impact report: “[…] fantastic next steps from participants, such as Dr Anusha
+Seneviratne (RHUL) and her mentor Dr Kalpana Surendranath (University of Westminster),
+who are submitting a joint research grant application with a view to long-term collaboration.
+Anusha has also since guest lectured at Westminster at Kalpana’s invitation.”
+
+In 2023 we made the decision to stop offering Mandala, a career and personal development
+programme for BGM colleagues seeking promotion to senior roles. Between 2019 and 2021
+Mandala ran at full capacity (12 per cohort) – achieved through extending participation to
+colleagues at Surrey and Reading universities – but dropped to half capacity in 2022.The
+reasons for the drop in attendance are unclear, though could include: emergence from Covid-
+19 lockdowns, readjustment to face-to-face spaces; a perception that the programme
+focussed on individuals rather than systemic change; and concerns over high workloads,
+especially due to programme length.
+
+ A comprehensive review assessing impact suggested Mandala was a positive development
+intervention with longer-term impact on development at Royal Holloway. The review also
+demonstrated how important the context is in which Mandala sits so that it is supported to
+achieve its career development objectives. Specifically, delegates commented on the shortage
+and invisibility of a coherent anti-racism strategy as a backdrop to Mandala, with many
+programme conversations focused on what Royal Holloway should be doing to support them,
+without clear pathways to take these ideas forward.
+
+Our anti-racism strategy now provides more clarity in these areas. As part of this anti-racism
+strategy, and to address these concerns, we will ensure all activities to support development
+and progression of BGM colleagues have clear presentation and articulation of the anti-racism
+strategy and place the activity within this context. We will continue to find ways to offer
+community-building and peer support which were experiences associated with Mandala, and
+develop a wider range of development options, including:
+20
+
+
+
+     •   Support for BGM Early Career Academics.
+     •   Access to role models.
+     •   Ensuring academic probation advisers have training to understand how to support
+         career development for BGM Early Career Academics.
+     •   Building dialogue with BGM colleagues to understand different learning needs and
+         priorities and how these can be met effectively through a more diverse offering,
+         including through cohort-based activities which create safe space for reflection and
+         exploration.
+
+Academic promotion data (aggregated over 2019 – 2024 to enable reporting, with the
+exclusion of 2021, when the promotion process did not take place).
+52.7% of the applications for promotion to Professor were from female colleagues,
+significantly higher that their overall representation of 41.8% at grade 9.
+Analysis shows that female candidates were more successful than male candidates in
+applications for every role level.
+The proportion of promotion applications from Black and global majority colleagues was lower
+than from the average overall population at grades 8 and 9 in this period (18.6%, compared to
+21.8%).
+The proportion of applications to Professor from Black and global majority colleagues was
+22.1%, higher than the average proportion at grade 9 which was 19.8%. The proportion of
+Black and global majority applications for promotion to both Reader and Senior Lecturer were
+lower than the corresponding proportion of BGM colleagues at grade 8 and grade 9.
+Overall success rates for Black and global majority colleagues in the academic promotion
+process are still lower than for White colleagues, with the gap widening to 6.3 percentage
+points.
+The gap between Black and global majority and White colleague success rates in applications
+to Professor is 8.9 percentage points. Success rates for applications for roles at Reader level
+remain higher at 3.2 percentage points, although this is a slight decrease on 2022/23 figures.
+For applications to Senior Lecturer roles, success rates for Black and global majority
+candidates have fallen below those of White candidate at 53.8%, compared to 59.2%.
+
+9. External accreditation schemes and partnerships.
+
+We continue to use external accreditation frameworks to critically reflect on our progress and
+ensure our equality work is both focused and impactful. Since renewing our Bronze Athena
+Swan and Race Equality Charter (REC) awards in 2017 and 2019, respectively, we achieved a
+Silver Athena Swan award in November 2023 and are now working towards a Silver REC
+award. In 2023, we also became a Disability Confident Employer. As a Stonewall Champion,
+we remain committed to advancing our LGBT+ action plan to support colleagues and students,
+including a focus on bi and trans communities, which are often marginalised within the LGBT+
+spectrum.
+21
+
+
+
+Moving forward, we will continue our journey with these charters, using them as frameworks
+to drive and accelerate meaningful change. However, our ultimate goal is to develop an
+approach to tackling inequality that extends beyond awards and external recognition, ensuring
+long-lasting and transformative progress.
+
+
+
+
+                                                               .
+
+
+Table 5 Accreditation schemes and partnerships.
+
+  Africa Charter 20241
+  Athena Swan University Silver 2023; 4 Silver, 4 Bronze departments/Schools.
+  Disability Confident Leader 2023.
+  HR Excellence in Research 2023.
+  Race Equality Charter Bronze 2015, renewed 2019
+  Stonewall WEI Gold award, Top 100 Employer 2023.
+  White Ribbon Accreditation since 2021.
+  Signatory Technician Commitment since 2017.
+1 The Charter champions decolonising knowledge production, building sustainable research
+
+capacity in Africa, fostering equitable/productive international partnerships, contributing to
+diverse/innovative solutions to global challenges.
+
+
+
+
+10. Priorities for 2024/25.
+
+We remain dedicated to diversifying our community of colleagues, fostering a fair and
+equitable environment, and ensuring that everyone feels included and experiences a genuine
+sense of belonging. While progress has been made, it has not been at the pace we aspire to,
+and we recognise the need for stronger structures and deeper cultural change to drive
+meaningful and sustained impact.
+To achieve this, we will strengthen our EDI structures across the University, embedding a
+culture of commitment to equality and inclusive practices. This includes establishing dedicated
+EDI structures within Professional Services and enhancing the leadership and influence of our
+four equality groups. By working closely with our Senior Leadership Team, we aim to further
+support them in championing and embedding equality work at all levels of the institution.
+22
+
+
+
+Additionally, we recognise the need to formally acknowledge and reward contributions to EDI,
+ensuring that this work is valued.
+A key focus for the coming year will be improving our workplace culture, particularly in
+addressing bullying, harassment, and discrimination. We need to build trust in our reporting
+processes, ensuring that individuals feel confident in the effectiveness of procedures designed
+to uphold dignity and respect within our community. Strengthening both preventative
+measures and follow-through actions is essential. Furthermore, we will foster an inclusive
+culture that respects and values all religions, ensuring that individuals of all faiths and beliefs
+feel welcomed and supported, with particular attention to Islamophobia and antisemitism.
+Recruitment remains a critical area for accelerating workforce diversification. We will take
+deliberate steps to ensure equitable shortlisting outcomes, addressing disparities in the
+selection process. Specific attention will be given to underrepresentation in the professoriate,
+particularly among women and colleagues from Black and global majority backgrounds. We
+also recognise the need to address the lack of diversity in senior Professional Services roles at
+grades 9 and 10. As we continue to review the impact of recent changes to the promotions
+process, we will prioritise developing a range of career development opportunities, including
+tailored support for Early Career Researchers (ECRs), creating safe spaces for reflection and
+professional growth.
+At the heart of all our efforts remains our vision to be a University of Social Purpose,
+leveraging education, research, and student experience as catalysts for social change. Our goal
+is to contribute to a more inclusive society and a better future for generations to come.
+We will continue our commitment to ensuring that all students, regardless of background,
+have equal opportunities to access and succeed in higher education, and to progress toward
+the personal, social, and economic benefits it provides. This includes a strong focus on
+reducing awarding gaps and fostering a sense of belonging throughout our community.
+Equitable access to inclusive career support is also key, enabling students to explore their next
+steps, build skills, and engage with opportunities that will shape their futures. Additionally, we
+will prioritise dismantling barriers to access and inclusion at the postgraduate level, fostering a
+supportive academic and personal environment where all students can thrive.
+Through these collective efforts, we will continue driving forward a culture of inclusion, equity,
+and belonging, ensuring that our University remains a place where every individual –
+colleagues and students alike – can succeed and feel valued.
+23
+
+
+
+Appendix 1 EDI Guiding Principles.
+                                      Principle                                                      What can I do (resources)
+ 1. Collective responsibility for EDI, with senior leaders visibly championing       •    Complete mandatory and optional EDI training
+ and role-modelling our EDI principles.                                              •    Assess the impact of new policies, initiatives and
+ All members of our University community have collective responsibility for               decisions by carrying out Equality Impact
+ establishing a safe, nurturing and inclusive environment where unacceptable              Assessments.
+ behaviour is challenged and everyone feels welcome and valued.                      •    Access good practice EDI Guides
+                                                                                     •    Dignity at Work Policy
+ Leadership decisions and behaviours will visibly exemplify and actively embody      •    Grievance Policy
+ our University values and EDI Principles.                                           •    RH Be Heard
+                                                                                     •    Allyship training (mandatory)
+ Our University has a zero approach to any form of bullying, discrimination and      •    LGBT allyship (gender identity) and LGBT allyship
+ harassment, including but not limited to the protected characteristics covered by        (sexuality) training.
+ the Equality Act 2010. All members of the University community will strive to       •    Bullying and harassment training (mandatory)
+ prevent instances of discrimination by being active bystanders and through
+ reporting instances of inappropriate behaviours.
+
+ It is also acknowledged that people are positioned differently with different and
+ unequal access to power and to opportunities to make a difference.
+ 2. Equality of Opportunity                                                           •   Engage with and reflect on training around
+ Equality doesn’t mean treating everyone the same, but acknowledging that                 leadership and management processes, including
+ people have different and diverse needs, ensuring the playing field is level so that     recruitment and academic promotion.
+ everyone has the opportunity to succeed.                                             •   Seek out missing voices in decision-making
+                                                                                          spaces.
+ We will recognise and reward EDI labour through processes including PDRs,           •    Understand what positive action means
+ promotions and recruitment.                                                         •    Access good practice EDI Guides, including
+                                                                                          around reasonable adjustments.
+ 3. Commitment to developing an inclusive mindset with the                           •    Complete EDI Training
+ confidence to learn and act, championed by leaders and managers.                    •    Managers complete Inclusive Leadership training
+                                                                                     •    Access good practice/Allyship guides
+                                                                                                                                               23
+24
+
+
+
+                                     Principle                                                        What can I do (resources)
+ The University is committed to supporting staff and students to develop the           •   EDI Calendar
+ confidence to engage with new perspectives and the commitment to make a               •   Access library of Bitesize training (coming soon)
+ positive impact on University culture.                                                •   Pick up a LGBT+ Progress lanyard
+
+ Formal training opportunities alongside safe conversational spaces are available
+ to encourage people to develop an ‘inclusive mindset’ characterised by traits
+ including open-mindedness, respectful curiosity, cultural competence, kindness,
+ empathy. These trains are developed by cultivating an ability to ask questions        For Leaders and Managers:
+ and listen to answers, working with a diverse team, and the self-awareness to         • Mandatory Inclusive Leadership training (coming
+ understand one’s own privilege and bias                                                   soon)
+                                                                                       • Access policies and guidance
+ Leaders and Managers play a key role in creating and sustaining a diverse,            • Engage with EDI training opportunities (including
+ collegiate and supportive culture within their teams and the University at large          non-mandatory, such as menopause awareness
+ and, will be equipped to ensure everyone feels they belong, are engaged and               training)
+ supported to be the best they can be.                                                 • Good practice/Allyship guides (includes
+                                                                                           menopause, transitioning at work, reasonable
+ Colleagues and students are encouraged to seek out opportunities and take                 adjustments).
+ responsibility for ‘self-education’ to understand and value different perspectives,
+ recognise and challenge inappropriate behaviours and maintain a growth
+ mindset.
+
+ 4. Hearing and respecting lived experiences and encouraging diverse                   •   Engage with Royal Holloway events that mark key
+     perspectives                                                                          diversity dates and that focus on exploring
+ Truly listening to and valuing the lived experiences of our staff and students who        disadvantage and lived experience. These are
+ come from marginalised backgrounds is key to enhancing understanding and                  promoted in the staff newsletter and on social
+ empathy beyond one’s own lived experience, and identifying meaningful action              media.
+ to take. EDI must be embedded at local level through conversations within             •   Engage with the Conversations About Race
+ schools, departments and teams.                                                           initiative (coming soon).
+
+
+                                                                                                                                               24
+25
+
+
+
+                                      Principle                                                   What can I do (resources)
+ Missing perspectives need to be sought out to ensure all (decision-making)          •   Seek out missing voices in decision-making
+ spaces include diverse voices, to prevent perspectives being overlooked and to          spaces.
+ ensure that opinions and decisions are challenged with fair outcomes. This is to
+ be achieved by including more people, rather than overburdening and tokenising
+ existing staff.
+
+ 5. Be aware of multiple overlapping inequalities and integrate                      •   Engage in events that explore the concept of
+    intersectionality into practice.                                                     intersectionality. These are promoted in the staff
+                                                                                         newsletter and social media.
+ Data will be considered through an intersectional lens so that we can look at       •   Understand the concept of intersectionality by
+ multiple characteristics where possible to better acknowledge, understand and           watching this 2-minute video featuring Professor
+ address the different and overlapping inequalities that impact our staff and            Kimberle Crenshaw.
+ students to ensure nobody falls through the margins. It is also important to seek
+ out and understand the stories and experiences that complement the data to
+ further help us develop empathy and connectedness and take action.
+
+ The concept of intersectionality describes the ways in which systems of
+ inequality based on gender, race, ethnicity, sexual orientation, gender identity,
+ disability, class and other forms of discrimination “intersect” to create unique
+ dynamics and effects.
+
+                                                                                     •   Assess the impact of new policies, initiatives and
+                                                                                         decisions by carrying out Equality Impact
+                                                                                         Assessments.
+                                                                                     •   Ally to check and improve accessibility of Moodle
+                                                                                         content.
+                                                                                     •   Accessibility checklist to support colleagues
+                                                                                         creating webpages, including images, video and
+                                                                                         pdfs.
+                                                                                                                                              25
+26
+
+
+
+Appendix 2 Workforce report (with pay gap reporting).
+Introduction.
+
+This rest of this report presents data showing the diversity and representation of salaried
+colleagues – the group indicated in figure 1 below. The data includes all colleagues with an active
+contract on 31 July 2024, and therefore includes colleagues on unpaid parental leave and unpaid
+sickness.
+
+
+     Employment         Example post            July 2023          July 2024              HESA
+     arrangement           titles                                                         return
+         Salaried      Regular, ongoing      1832 headcount                                 Yes
+        contracts        employment          (main post only) 1893 headcount
+                          Lecturer,            1677 FTE (all (main post only)
+                          manager,                posts)        1747 FTE (all
+                        administrator,                             posts)
+                          customer
+                           services
+
+                                                                         Figure 1 – salaried colleagues
+
+
+
+Data for this group is presented to enable identification of solutions in relation to its needs and
+employment context. Different analysis is needed for hourly-paid colleagues including visiting
+teachers, which steers towards more targeted solutions for the needs of this group.
+The report gives an overview by protected characteristic, with a snapshot date of 31 July 2024
+used in relation to the data reported for 2023-2024. For location, it is also based on the primary
+organisational home of a colleague, rather than job role.
+We report on colleagues’ sex (female/male) rather than their gender (e.g. man/woman/ non-
+binary) as this is what the university currently collects from colleagues due to the requirement to
+return this information to HM Revenue and Customs, which requires legal sex information to be
+known for all colleagues. We recognise sex does not equate with gender and that gender is not
+binary, and we aspire to enhance our data collection and reporting on gender data in the future.
+MyView has been updated to capture these fields, and communications have taken place
+encouraging colleagues to share this and other EDI related information.
+The term “LGBT+” is used throughout the report, although data relating to sexual orientation
+does not include gender identity. The term is used to demonstrate inclusivity of transgender
+colleagues, even though this data does not demonstrate reflection of transgender
+representation.
+HESA data for 2023/24, accessed via Heidi Plus Gold, has been used for benchmarking. We have
+conducted our benchmarking by aggregating data from ten institutions comparable to ours in
+size, geography, and academic focus. This group, informally known as the S10 University
+
+
+                                                                                                          26
+27
+
+
+
+Network, includes Brunel, City, East Anglia, Essex, Goldsmiths, Kent, Reading, Sussex, and
+Surrey.
+Data sharing principles have been applied, and analysis is not shown for groups where fewer than
+10 individuals are represented. For this report the Senior Leadership Team comprising the Vice-
+Chancellor and Pro Vice-Chancellors has been grouped under Academic Schools and
+Departments.
+
+
+
+Representation by protected characteristics.
+
+
+Sex.
+
+1.   Figure 2 shows that in July 2024 53.2% of the workforce were female, representing a slight
+     increase since the previous year. This is lower than the S10 average, which is 57%.
+
+                     Figure 2: Representation by sex, 2020-24
+        2024
+
+        2023
+
+        2022
+
+        2021
+
+        2020
+
+              0.0%       20.0%   40.0%     60.0%    80.0%   100.0%
+                 2020        2021        2022      2023     2024
+       Female    52.7%       52.8%       52.5%     52.5%    53.2%
+       Male      47.3%       47.2%       47.5%     47.5%    46.8%
+
+
+
+
+2.   Figure 3 shows changes to representation of female colleagues at different grades in the
+     university between 2022 and 2024. The proportion of female professors has remained
+     relatively stable and is at 33.2%, a marginal increase since 2022, and lower than the S10
+     benchmark of 35%; while the proportion of female colleagues at grade 10 has seen an overall
+     drop from 45.8% to 41.7%. The proportion of female staff at grade 9 has remained relatively
+     unchanged. The highest proportion of female colleagues continues to be at grade 6.
+
+
+
+
+                                                                                                  27
+28
+
+
+
+
+                      Figure 3 - change in representation of female staff by
+                                        grade, 2022-2024
+          80%
+          70%
+          60%
+          50%
+          40%
+          30%
+          20%
+          10%
+           0%
+                    RHUL 4      RHUL 5       RHUL 6          RHUL 7    RHUL 8   RHUL 9   Professor   RHUL 10
+                     (41)        (146)        (156)           (188)     (214)    (149)     (81)        (15)
+             2022    65.6%       62.9%       73.9%           57.0%     49.9%    44.0%     32.7%      45.8%
+             2023    57.5%       60.7%       73.7%           57.1%     49.8%    43.1%     33.3%      54.2%
+             2024    53.9%       64.3%       75.4%           57.3%     52.7%    44.1%     33.2%      41.7%
+
+                                                      2022      2023   2024
+
+
+             *Numbers in brackets represent staff numbers as at 31 July 2024.
+
+
+
+
+Sex and ethnicity.
+
+3.   As of 31 July 2024, a slightly higher proportion of female colleagues (22.1%; up from 21.7% in
+     2023) were from a Black and global majority background than male colleagues (21.1%; up
+     from 19.2% in 2023). We are slightly above S10 benchmarking for BGM women (19%) and
+     slightly below for BGM men (22%). This distribution was reflected differently in Academic
+     Schools and departments and in Professional Services. In Academic Schools and
+     departments, representation is higher than the S10 benchmark of 23%, with 25.8% of the
+     female colleagues from a Black and global majority background (25.1% in 2023). This
+     compares to 19.8% of male colleagues (17.4% in 2023), which is much lower than the S10
+     benchmark of 26%. In Professional Services, 23.5% of male colleagues were from a Black and
+     global majority background (22.3% in 2023), compared to 19.0% of female colleagues (18.8%
+     in 2023).
+
+
+Gender identity.
+
+4. This year, we are able to report that 10 colleagues (0.5%) do not identify with their birth
+   gender, as the number meets our reporting threshold of 10. Additionally, 33.8% of colleagues
+   did not disclose this information. Fields relating to gender identity and pronouns were made
+   available within MyView in April 2024 and we are working on communications to encourage
+   colleagues to keep all of their EDI data up to date.
+
+
+Ethnicity.
+
+5.   Representation of Black and global majority colleagues has increased from 16.9% in 2020 to
+     21.6% in 2024. The S10 benchmark is 21%.
+                                                                                                               28
+29
+
+
+
+                 Figure 4 – staff representation by ethnicity, 2020 - 2024
+     2024
+     2023
+     2022
+     2021
+     2020
+                                   2020        2021           2022      2023       2024
+      Black & Global Majority     16.9%       17.4%          19.4%     20.5%       21.6%
+      White                       79.4%       78.9%          76.7%     75.7%       74.7%
+      Prefer not to say            3.7%           3.8%       3.9%      3.8%         3.6%
+
+
+     The second-largest ethnic group after White is Asian (10.2%), reflecting an increase of 0.6%
+     since 2023 and 2.2% since 2022. Representation among other ethnic groups is as follows:
+     Mixed ethnicity (3.1%), Chinese (3.4%), Black (2.9%), Arab (0.7%), and ‘Other’ ethnicities
+     (1.4%). There has been an overall increase in representation across all Black and global
+     majority groups, except for Mixed ethnicity, which has remained relatively unchanged since
+     2023, and 'Other.' The slight decrease in the 'Other' category is likely due to 'Arab' now
+     exceeding the reporting threshold of 10 individuals.
+
+6. The increase in representation in Black and global majority colleagues is reflected in
+   Academic Schools and Departments and in Professional Services. Following a 1.6
+   percentage point increase in 2023 of Black and global majority academics to 20.8%, we see a
+   further increase to 22.5% in 2024. The increase in Black and global majority colleagues in
+   Professional Services is 0.5 percentage points to 20.1% in 2023, and to 20.6% in 2024.
+
+7.   Figure 5a shows that the proportion of Black and global majority colleagues has increased
+     across all grades, slightly more prominently at grade 8, with a 2.3 percentage point rise since
+     2023.
+
+
+
+        Figure 5a – change in representation of Black and global
+               majority colleagues by grade, 2022 -2024
+      30%
+      25%
+      20%
+      15%
+      10%
+       5%
+       0%
+             RHUL 4   RHUL 5   RHUL 6   RHUL 7      RHUL 8    RHUL 9 Professor
+              (20)     (53)     (41)     (69)        (115)     (73)    (244)
+      2022   16.7%    22.0%    15.0%      19.4%     23.0%      20.2%    11.2%
+      2023   24.5%    22.3%    17.7%      19.8%     26.0%      20.3%    10.6%
+      2024   26.3%    23.3%    19.8%      21.0%     28.3%      21.6%    11.9%
+
+
+                                        * Actual numbers for population size in 2024 in brackets
+
+
+                                                                                                   29
+30
+
+
+
+     8. A consideration of ethnicity and grade for academics shows that the highest representation
+        of Black and Global majority colleagues is at grade 8 (34.1%) an increase of 4.5 percentage
+        points since 2023. We see a slight increase in grade 9 from 21.8% to 22.4%. We also see a
+        slight increase for Professor from 10.6% to 11.9%, though lower than the S10 benchmark
+        which is 16%.
+
+
+            Figure 5b – Academics: change in representation of Black and
+                   global majority colleagues by grade, 2022 -2024
+      40%
+      35%
+      30%
+      25%
+      20%
+      15%
+      10%
+       5%
+       0%
+                  RHUL 7 (33)      RHUL 8 (89)      RHUL 9 (66)      Professor (29)
+      2022           22.7%            24.7%            21.2%             11.2%
+      2023           20.1%            29.6%            21.8%             10.6%
+      2024           22.9%            34.1%            22.4%             11.9%
+
+
+
+     9. A consideration of Professional Services data shows increases across all grades apart from
+        grade 8 where we see a drop from 19.3% to 17.9%. The highest increase is at grade 6 (from
+        17.6% to 20.4%).
+
+
+                   Figure 5c – Professional Services: change in representation of Black
+                           and global majority colleagues by grade, 2022 -2024
+
+
+            30%
+
+            25%
+
+            20%
+
+            15%
+
+            10%
+
+             5%
+
+             0%
+                     RHUL 4 (20)    RHUL 5 (51)    RHUL 6 (31)    RHUL 7 (36)         RHUL 8 (26)
+            2022        16.5%          22.6%         17.4%          16.1%               19.7%
+            2023        25.3%          22.6%         17.6%          19.5%               19.3%
+            2024        26.7%          23.6%         20.4%          19.6%               17.9%
+
+
+
+
+10. There were insufficient numbers to report on representation of Black and global majority
+    colleagues at grade 9 and grade 10 in Professional Services, even if the grades are aggregated.
+                                                                                                    30
+31
+
+
+
+Nationality.
+
+11. The percentage of colleagues with overseas nationality is relatively unchanged since 2022,
+    following a steady decline in recent years. This includes a 0.5 percentage point increase in
+    academic schools, and a 0.5 percentage point drop in Professional Services.
+
+                Figure 6 – staff representation by nationality, 2020 - 2024
+
+ 2024
+
+ 2023
+
+ 2022
+
+ 2021
+
+ 2020
+
+                           2020               2021     2022         2023         2024
+     Overseas Nationality 26.0%              24.9%     25.3%       25.6%         25.5%
+     UK Nationality       74.0%              74.4%     74.7%       74.4%         74.3%
+
+
+
+
+Disability.
+
+The proportion of colleagues declaring a disability, following a decline to 4.9% in 2023, has risen
+to 5.4% in 2024, accompanied by a slight 0.2 percentage point decrease in reporting rates.
+However, the figure remains below the S10 average of 9%. Notably, although still
+relatively low, the non-reporting rate for disability has more than doubled since 2020.
+
+                   Figure 7 – disabled staff representation, 2020 - 2024
+
+          2024
+          2023
+          2022
+          2021
+          2020
+
+                  0%    10%    20%   30%     40%     50%     60%   70%     80%    90%    100%
+                        2020         2021            2022           2023            2024
+     Disabled           4.1%         4.6%            4.9%           4.7%            5.4%
+     Not disabled      95.4%         93.9%           93.1%         93.5%            93.0%
+     Unknown            0.5%         1.5%            2.0%           1.8%            1.6%
+
+
+
+
+                                                                                                   31
+32
+
+
+
+12. The increase in the proportion of disabled colleagues reflects a 1.0 percentage point increase
+    in the proportion of Professional Services disabled colleagues to 6.1% , and 0.5 percentage
+    point increase in the proportion of academic disabled colleagues to 4.9%.
+
+13. As in 2023, "Long-standing illness/health condition" remains the most commonly declared
+    condition, increasing from 1.4% in 2023 to 2.0% in 2024. This is followed by learning
+    differences (0.9%) and mental health conditions (0.7%), both of which remain unchanged
+    from the previous year.
+
+14. Figure 8 shows changes in the representation of disabled colleague by four aggregated grade
+    groups, created due to small numbers to enable reporting. The highest proportion of disabled
+    colleagues were at grades 2, 3 and 4 (9.3%), and the lowest at grades 9, 10 and Professor (4.2%)
+    which has remained relatively stable across all three years.
+           Figure 8 – change in representation of disabled colleagues by
+                                 grade, 2022 -2024
+
+        10%
+         8%
+         6%
+         4%
+         2%
+         0%
+                Grades 9, 10 and    Grades 7 and 8      Grades 5 and 6     Grades 2, 3 and 4
+                 Professor (618)        (734)               (434)               (107)
+         2022        4.4%                5.9%                  2.9%               7.4%
+         2023        4.3%                5.1%                  3.5%               8.5%
+         2024        4.2%                6.4%                  4.6%               9.3%
+
+                                       2022     2023    2024
+
+
+                            *Numbers in brackets represent the number of staff as at 31 July 2024.
+
+
+
+
+Sexual orientation.
+
+15. The proportion of LGBT+ colleagues increased by 0.7 percentage points since the previous
+    year and in 2024 is 7.1%. The sector average in 2023 was 6.1% (Advance HE statistical report
+    covering 2022/23). The proportion of colleagues who preferred not to record their sexual
+    orientation has continued to decrease year on year and is now 24.1%. This non-reporting rate
+    continues to be lower than the reported sector average (34.7%, Advance HE statistical report
+    covering 2022/23).
+
+
+
+
+                                                                                                     32
+33
+
+
+
+
+          Figure 9a –staff representation by sexual orientation, 2020 - 24
+
+ 2024
+
+ 2023
+
+ 2022
+
+ 2021
+
+ 2020
+
+                                    2020         2021        2022           2023      2024
+     LGBT+                          6.2%         5.6%        6.5%           6.4%      7.1%
+     Heterosexual                   62.4%       63.5%       65.7%           68.0%     68.8%
+     Unknown/ Prefer not to say     31.4%       30.9%       27.8%           25.7%     24.1%
+
+
+
+
+16. The proportion of LGBT+ colleagues in academic Schools and departments increased from
+    8.2% to 9.0%, and the non-reporting rate fell by 2.4 percentage points to 31.3%. There was a
+    0.5 percentage point increase in the proportion of LGBT+ colleagues in Professional Services
+    to 4.8%, where the non-reporting rate for sexual orientation also fell from 16.2% to 15.6%.
+
+17. Figure 9b shows representation of LGBT+ colleagues by three grade groups, aggregated to
+    enable reporting. The highest increase is in grades 9, 10 and Professor from 6.3% in 2023 to
+    7.4%. The lowest proportion of LGBT+ colleagues remains at grades 5 and 6 (6.2%).
+
+
+
+               Figure 9b – change in representation of LGBT+
+                      colleagues by grade, 2022 -2024
+     10%
+      8%
+      6%
+      4%
+      2%
+      0%
+                 Grades 5 and 6        Grades 7 and 8        Grades 9, 10 and
+                     (434)                 (734)              Professor (618)
+        2022         5.6%                   7.5%                    5.9%
+        2023         5.1%                   7.5%                    6.3%
+        2024         6.20%                  7.80%                   7.40%
+
+
+                    *Numbers in brackets relate to staff numbers as at 31 July 2024
+
+
+
+
+                                                                                               33
+34
+
+
+
+18. The disaggregated data for sexual orientation shows that 69% of colleagues identify as
+    straight, 3% identify as gay or lesbian, 3% as bisexual, and 3% fall under categories including
+    ‘in another way,’ ‘prefer to self-describe,’ ‘asexual,’ or ‘queer.’ Additionally, 24% of colleagues
+    chose not to disclose their sexual orientation.
+
+
+
+
+             Figure 10 – disaggregated data for sexual orientation 2024
+                                             3% 3%
+
+
+                                    24%
+
+                            1%
+
+
+                                                  69%
+
+
+
+
+        Bisexual   Gay/Lesbian     Heterosexual / Straight   Other    Prefer not to say
+
+
+
+
+Age.
+
+19. We see slight fluctuations across all age groups with no prominent patterns observed in the
+    last four years. We see slight increases, both for Professional Services and for academic
+    colleagues, in the 51-60 and 61+ age groups, compared to the <30, 31-40 and 41-50 where we
+    see slight drops.
+
+        Figure 11 –staff representation by age group, 2020 - 2024
+
+
+ 2024
+ 2023
+ 2022
+ 2021
+ 2020
+               2020        2021           2022          2023         2024
+     <30       12.4%       11.0%          11.4%         11.9%        11.6%
+     31-40     26.5%       25.9%          25.4%         24.3%        24.0%
+     41-50     26.2%       27.9%          28%           28.9%        28.1%
+     51-60     23.8%       25.4%          25.0%         23.6%        24.6%
+     61+       11.0%       9.8%           10.3%         11.2%        11.6%
+
+
+
+
+                                                                                                    34
+35
+
+
+
+Religion and belief.
+
+20. At 38%, the proportion of colleagues who declare a religion or belief was very similar to the
+    proportion who declare no religion or belief (39%). 23% of colleagues either prefer not to say,
+    or have not answered this question.
+
+         Figure 12 –staff representation by religion or belief, 2024
+                   Prefer not to
+                  say/Unknown
+                       23%
+                                                   No religion or
+                                                       belief
+                                                        39%
+
+
+
+
+                  Religion or belief
+                         38%
+
+
+
+
+21. The largest representation was of Christian colleagues (25.5%) followed by Muslim (4.0%),
+    Hindu (3.0%), Spiritual (1.6%), Sikh (1.1%), Jewish (0.8%), Buddhist (0.8%) and any other
+    religion or belief (1.0%).
+
+
+Marital status.
+
+22. 40.7% of colleagues have recorded that they are married, and 1.0% that they are in a Civil
+    Partnership. 18.6% of colleagues have not answered this question.
+
+
+
+
+Factors which influence representation.
+
+23. The following sections of this report focus on staff turnover, recruitment and promotion, all of
+    which influence representation within the university. This data indicates where changes to
+    practice may help increase the diversity and representation across grades within the
+    workforce.
+
+
+
+
+                                                                                                 35
+36
+
+
+
+Staff turnover.
+
+
+                       Figure 13 – staff turnover by characteristic, 2023-24
+
+
+
+
+24. Figure 13 shows staff turnover rates within the year 2023/24 at university level, by sex,
+    ethnicity, disability and sexual orientation. The overall data for academics and Professional
+    Services is included for comparison, as is data from 2021/22 and 2022/23.
+
+25. Overall, turnover has fallen since the previous year across all groups, most notably for Disabled
+    colleagues (a 20.8 percentage point drop since last year), Black and global majority colleagues
+    (4.4 percentage point drop), LGBT+ colleagues (4.6 percentage point drop). Female colleagues
+    continue to have a higher rate of turnover than male. We have 49 female academic leavers (55
+    male) and 64 female Professional Services leavers (42 male). The turnover rate for female
+    colleagues in Professional Services and in academic schools and departments is comparable:
+    11.4%, and 10.9% respectively.
+
+26. In 2022/23 the turnover rate of Black and global majority colleagues was 4.5 percentage points
+    higher than for White colleagues (17.6% compared to 13.1%). This year the overall rate is
+    lower, and the gap has reduced slightly to 3.2 percentage points (13.2% compared to 10.0%).
+    The turnover rate for LGBT+ colleagues is also higher than for heterosexual colleagues (16.9%
+    compared to 12.0%) though the gap has reduced since last year from 7.1 to 4.9 percentage
+    points.
+
+
+
+                                                                                                  36
+37
+
+
+
+27. Turnover by age group in 2021/22, 2022/23 and 2023/24 is shown in figure 14. There has been
+    a significant reduction in turnover rates for colleagues aged 30 and under, though this remains
+    higher than colleagues in other age ranges.
+
+        Figure 14 – Staff turnover by age group, 2022-23
+
+
+
+
+Recruitment
+
+28. The University attracts a diverse set of applications from across different protected
+    characteristics. The full applicant profile is shown below in figure 15.
+
+      Characteristic        Number of applicants % of applicants 2024       % of applicants 2023
+                                  2024
+         Female                   4027                  51.1%                       47.8%
+          Male                      3692                   46.8%                    49.9%
+     Prefer not to say               168                    2.1%                    2.3%
+Black and Global Majority           4274                   54.2%                    51.7%
+          White                     3285                   41.7%                    39.0%
+     Prefer not to say               327                    4.1%                    9.3%
+        Overseas                    3883                   49.2%                    54.2%
+           UK                       4003                   50.8%                    44.8%
+     Prefer not to say                1                    0.0%                     1.0%
+         Disabled                    525                    6.7%                    5.1%
+      Not disabled                  6995                   88.7%                    90.7%
+
+
+                                                                                                37
+38
+
+
+
+     Prefer not to say                            367                             4.7%                             4.2%
+          LGBT+                                   1110                           14.1%                             12.3%
+      Heterosexual                                6095                           77.3%                             77.1%
+     Prefer not to say                            682                             8.6%                             10. 6%
+
+
+                                                                                             Figure 15 – Applicant profile 2024
+
+
+
+29. Figure 16 shows selection decision outcomes by characteristic, with White applicants, UK
+    applicants and Disabled applicants showing the highest success rate.
+
+
+
+
+                    Figure 16 - Selection decision outcomes by protected characteristics, 2024
+
+                     Not Disabled
+                           Disabled
+                                UK
+                     International
+                             White
+                              BGM
+                              Men
+                           Women
+                           Straight
+                              LGBT
+
+                                      0%      10%       20%      30%      40%      50%       60%     70%     80%      90%     100%
+                                                                                               Internati               Not
+                                           LGBT   Straight Women       Men      BGM      White           UK Disabled
+                                                                                                 onal                Disabled
+         Not Shortlisted               79.2%      81.9%    79.4%       83.5%    86.6%    74.6% 86.7% 75.5% 75.6% 82.0%
+         Shortlisted but not offered 15.2%        13.2%    14.9%       12.5%    10.6%    17.4%     10.6%   17.1%   18.1%    13.3%
+         Offered                           5.6%     4.8%      5.7%     4.0%     2.7%     8.0%      2.7%    7.4%     6.3%    4.8%
+
+                                       Not Shortlisted         Shortlisted but not offered       Offered
+
+
+
+
+30. Overseas applicants and Black and global majority applicants show the lowest shortlisting
+    success rates. Figure 17 below shows selection outcome decisions for Overseas and UK Black
+    and global majority and White colleagues to understand the impact of the intersection of
+    these two characteristics. It shows differences in shortlisting and offer rates between UK
+    White and UK Black and global majority applicants, and between Overseas UK and Overseas
+    Black and global majority applicants, in favour of White applicants.
+
+
+                                                                                                                                    38
+39
+
+
+
+
+                Figure 17 – Selection decision outcome Overseas and UK
+                              applicants by ethnicity, 2024
+
+                                     UK White
+
+                  UK Black and global majority
+
+                           International White
+
+        International Black and global majority
+
+                                                  0%   20%    40%      60%   80%   100%
+
+                                     Not shortlisted    Shortlisted
+
+
+
+31. If we consider the intersection with ‘permission to work’, we note that 6.1% of BGM
+    international applicants with no permission to work were shortlisted, compared to a larger
+    16.2% of international White applicants with no permission to work.
+
+32. Figure 18a shows the profile of those to whom offers were made. Offers to Black and global
+    majority, overseas applicants, disabled, LGBT+ and female applicants were higher than the
+    proportion of colleagues currently employed in these groups. This suggests that recruitment
+    is contributing to a diversification of the overall workforce, although at different rates.
+
+                                      Offer profile                                                  Staff proportion
+        Characteristic                                  Offer profile 2024   Staff proportion 2023
+                                         2023                                                              2024
+
+Female                                    58.5%                57.1%                 52.5%                53.2%
+
+Male                                      39.7%                38.6%                 47.5%               46.8%
+
+Prefer not to say                          1.5%                 4.3%                 1.5%
+
+Black and Global Majority                 27.6%                29.6%                20.5%                 21.6%
+
+White                                     65.0%                66.9%                 75.7%                74.7%
+
+Prefer not to say                          7.4%                 3.5%                 3.8%                 3.6%
+
+International applicant                  29..0%                26.3%                25.6%                 25.5%
+
+UK applicant                              71.0%                73.7%                 74.4%                74.5%
+
+Disabled                                   7.3%                 8.6%                 4.7%                 5.4%
+
+Not disabled                              88.1%                84.8%                 93.5%                93.0%
+
+Prefer not to say                          4.6%                 6.6%                 1.8%                 1.6%
+
+LGBT+                                     10.4%                15.1%                 6.4%                 7.1%
+
+Heterosexual                              65.4%                75.0%                 68%                 68.8%
+
+Prefer not to say                         24.2%                 9.9%                 25.7%                24.1%
+
+
+
+                                                                                                                   39
+40
+
+
+
+33. Disabled applicants receive better outcomes at shortlisting than non-disabled applicants but
+    less so at interview stage. Black and global majority applicants receive less positive
+    outcomes overall than White applicants at both shortlisting and interview.
+
+
+
+                          Figure 18b Offers profile (by applicants, by shortlisted)
+        Not Disabled
+            Disabled
+                   UK
+        International
+               White
+                BGM
+                Men
+             Women
+             Straight
+                LGBT
+
+                     0.0%          5.0%         10.0%            15.0%         20.0%          25.0%          30.0%         35.0%
+                                                                                        Internatio                        Not
+                            LGBT   Straight   Women      Men        BGM        White                  UK     Disabled
+                                                                                            nal                         Disabled
+     Offers/apps          5.40%    4.80%      5.60%     2.50%       2.70%      7.20%       2.1%       7.3%     6.5%       4.8%
+     Offers/shortlisted   26.0%    26.0%      27.2%     15.20%     20.30%     28.60%     16.2%       30.1%    26.6%      26.6%
+
+                                                Offers/apps        Offers/shortlisted
+
+
+
+
+  34. Recruitment to senior posts – grades 8, 9 and Professor for Academic schools and
+      departments, and 8, 9 and 10 in Professional Services – has been examined in more detail,
+      aggregating the data for these grades to allow for reporting. For senior academic posts in
+      relation to sex, 38.3% of applicants were female, higher than the previous year (32.8%).
+      Female applicants were more successful at being shortlisted (16.2% of applicants) than
+      male applicants (10.2% of applicants), and 22.7% of women shortlisted were made an
+      offer, compared to 22.3% of men. We also note that 3.7% of women applicants, and 2.3%
+      of men applicants were made an offer. Professional Services also has a lower proportion of
+      female applicants for grades 8, 9, and 10, at 39.5%. However, women demonstrate higher
+      success rates at all stages of the recruitment process. Of those who applied, 31.5% of
+      women were shortlisted compared to 19.5% of men. Among those shortlisted, 29.0% of
+      women received offers, while 19.7% of men were offered a position. Overall, 9.0% of
+      female applicants secured roles, whereas only 3.9% of male applicants were successful.
+
+  35. Over the past two years, applications for academic posts at grades 8, 9, and professorial
+      level from Black and global majority candidates have remained high, with 60.9% in
+      2023/24 and 61.8% in 2022/23, compared to 48.9% in 2021/22. However, disparities in
+      shortlisting and offer rates persist. While 20.3% of White applicants were shortlisted, only
+      8.4% of Black and global majority candidates progressed to this stage. Among those
+      shortlisted, 26.7% of White candidates received offers, equating to 5.4% of all White
+                                                                                                                            40
+41
+
+
+
+      applicants, whereas 18.8% of shortlisted Black and global majority candidates were
+      offered roles, representing just 1.6% of total applicants from these groups.
+
+
+36. For Professional Services posts at grades 8, 9, and 10, 40.9% of applications (272) came from
+    Black and global majority candidates, while 51.3% (393) were from White applicants.
+    However, success rates for Black and global majority candidates were significantly lower at
+    all stages of the recruitment process. Among those shortlisted, 19.2% of Black and global
+    majority candidates received offers, equating to 3.1% of total applicants from this group.
+    27.2% of shortlisted White candidates were offered roles, representing 8.8% of all White
+    applicants.
+
+37. Analysis of recruitment to senior posts by sexual orientation is difficult due to small numbers.
+    Data relating to posts at grade 8, 9, 10 and Professor within the university were aggregated
+    to give an indication of the current position. The proportion of LGBT+ applicants was 10.4%
+    (231) (higher than last year’s 8.8%), with non-reporting at 9.6% (compared to 11.1% last
+    year). LGBT+ candidates were more successful at shortlisting compared to heterosexual
+    candidates (16.9% compared to 15.3%), and unlike 2023, more successful at offer stage:
+    25.6% of LGBT+ applicants shortlisted were made offers (4.3% of applicants) compared to
+    23.9% of straight/heterosexual shortlisted applicants (3.6% of applicants).
+
+38. Analysis of recruitment to senior posts in relation to disability is also difficult because of small
+    numbers. Data in relation to disability for recruitment to all posts at grades 8, 9, 10 and
+    Professor was aggregated to create a picture of the current position. It shows that
+    shortlisting rates for disabled applicants (22.8%) were higher than for non-disabled
+    candidates (15.1%), and disabled applicants were more successful at offer stage: 26.9% of
+    disabled shortlisted applicants were made offers compared to 22.4% of non-disabled
+    applicants. At the same time, 6.1% of disabled applicants, and a lower 3.4% of non-disabled
+    applicants were made offers.
+
+
+Academic promotion.
+
+39 Data in relation to academic promotion was analysed in relation to sex and ethnicity,
+   aggregated over 2019 – 2024 to enable reporting, with the exclusion of 2021, when the
+   promotion process did not take place. Last year on reporting this data, female colleagues were
+   overall more successful than male, and more successful at promotion to Reader and senior
+   lecturer, with similar success rates for promotion to Professor.
+
+40 In this year’s analysis female candidates are shown as more successful overall, and for every
+   role. For promotion to Professor the proportion of female applicants (52.7%) was
+   considerably higher than the average population at grade 9 (41.8%). The reverse was true in
+   last year’s analysis.
+
+41 Last year, success rates in the academic promotions process for Black and global majority
+   colleagues were 1.3 percentage points lower than for White colleagues overall, and 8.2
+   percentage points lower in promotion success rates to Professor roles. Looking at promotion
+   to Reader and Senior Lecturer roles, we saw higher success rates for BGM applicants (60%
+                                                                                                     41
+42
+
+
+
+     compared to 50% of White applicants for Reader roles, 63.3% compared to 59.7% of White
+     applicants for Senior Lecturer roles).
+
+42 This year’s analysis shows that the overall success rate gap has widened in favour of White
+   applicants, increasing to 6.3 percentage points. The gap in success rates for promotion to
+   Professor remains similar to last year at 8.9%. While success rates for Black and global majority
+   applicants at the Reader level remain higher by 3.1 percentage points, this is a slight decrease
+   from the previous year. Additionally, for Senior Lecturer positions, success rates for BGM
+   candidates have now fallen below those of White candidates, at 53.8% compared to 59.2%.
+
+43 The proportion of promotion applications from Black and global majority colleagues was
+   lower than the average overall population at grades 8 and 9 in this period: 18.6% compared
+   to 21.8%. (This compares to 17.5% compared to 19.9% in last year’s analysis). The proportion
+   of applications to Professor from Black and global majority colleagues (22.1%) was higher
+   than the average proportion at grade 9 (19.8%). The proportion of Black and global majority
+   applications for promotion to both Reader and Senior Lecturer roles were lower than the
+   corresponding proportion of Black and global majority colleagues at grade 8 and grade 9.
+
+
+                      Figure 19 – All promotions change in success rates
+         65%
+
+
+         60%
+
+
+         55%
+
+
+         50%
+
+
+         45%
+                       2017-22                    2018-23                   2019-24
+        All             57.5%                      54.6%                    52.6%
+        Male            55.4%                      53.7%                    51.4%
+        Female          60.3%                      55.7%                    56.3%
+        White           59.0%                      55.1%                    54.5%
+        BGM             53.0%                      53.8%                    48.2%
+
+                         All      Male       Female         White     BGM
+
+
+
+
+                                                                                                 42
+43
+
+
+
+                      Figure 20 – Professor change in success rates
+
+      65%
+      60%
+      55%
+      50%
+      45%
+      40%
+      35%
+                       2017-22                2018-23                 2019-24
+     All                52.7%                  51.0%                   47.1%
+     Male               50.0%                  51.0%                   45.6%
+     Female             57.6%                  51.8%                   52.7%
+     White              55.6%                  52.3%                   49.5%
+     BGM                41.2%                  44.1%                   40.6%
+
+              All          Male         Female           White        BGM
+
+
+
+
+               Figure 21 – Reader change in success rates
+      65%
+      60%
+      55%
+      50%
+      45%
+                       2017-22                2018-23                 2019-24
+     All                61.3%                  52.5%                   51.9%
+     Male               61.8%                  51.0%                   46.3%
+     Female             60.8%                  54.0%                   56.8%
+     White              62.0%                  50.0%                   50.7%
+     BGM                62.5%                  60.0%                   53.8%
+
+              All          Male         Female           White        BGM
+
+
+
+
+              Figure 22 Senior Lecturer change in success rates
+       70%
+       65%
+       60%
+       55%
+       50%
+       45%
+                        2017-22                  2018-23                 2019-24
+     All                 60.3%                   59.0%                    57.2%
+     Male                53.2%                   53.9%                    56.8%
+     Female              68.8%                   64.5%                    58.9%
+     White               61.5%                   59.7%                    59.2%
+     BGM                 60.0%                   63.3%                    53.8%
+
+                All         Male          Female           White        BGM
+
+
+
+                            Figure 22 – Senior Lecturer change in success rates
+                                                                                   43
+44
+
+
+
+44 Figures 19, 20, 21 and 22 above show the change in success rates reported in the last three
+   years from different groups. The data indicates an overall decline in success rates, with the
+   biggest drop observed in promotion to Professor. The largest racial disparity is also in
+   promotion to Professor, where the gap between Black and global majority and White
+   applicants has widened to 8.9 percentage points in favour of White applicants, compared to
+   8.2 percentage points in last year’s analysis.
+
+
+Professional Services promotion and progression.
+
+45 Upward grade changes for staff over a single year has been analysed through comparing the
+   snapshot population on 31 July 2023 with that of 31 July 2024. Colleagues who left the
+   University over the course of the year were removed (88), and of the remaining 744 colleagues
+   it was found that 55 had progressed to a higher grade (7.4%). 61.8% were female (up from
+   51.9% last year) and 38.2% male. In addition, 14.5% of the promotions were of Black and global
+   majority colleagues (down from 19.8% last year) and 81.8% of White colleagues.
+
+46 In the same year there were 120 new starters in Professional Services. Figure 23 below
+   compares the number of promotions to new starters, with some grades aggregated where
+   there are insufficient numbers to report. This shows that 31.4% of movements into each grade
+   came from promotions (down from 34.9% last year) and 68.6% from recruitment.
+
+                        Promotions                New Starters                   Total Changes
+Grade 2, 3, 4 and 5         18                        44                               62
+Grade 6                     12                        21                               33
+Grade 7                     14                        22                               36
+Grade 8, 9 and 10           11                        33                               44
+Total                       55                       120                              175
+
+                            Figure 23 – Staff changes in Professional Services
+
+
+
+
+47 This suggests that increasing promotions and mobility in Professional Services should be
+   explored, particularly where there are difficulties recruiting and retaining staff.
+
+
+
+
+                                                                                                 44
+45
+
+
+
+Pay gaps.
+
+
+Introduction.
+
+48. The Equality Act 2010 (Gender Pay Gap Information) Regulations 2017 introduced an annual
+    duty on all employers with more than 250 staff to publish information relating to the gender
+    pay gap: the difference between the average hourly pay of male and female colleagues within
+    the workforce. Information is required each year as of a snapshot date of 31 March.
+    Employers are also required to show the gender distribution for the workforce, divided into
+    four pay quartiles.
+
+49. The gender pay gap is a different measure to ’equal pay’ which refers to male and female
+    colleagues in the same employment doing the same work receiving the same pay. The gender
+    pay gap highlights the gender distribution in different roles at the University. Royal Holloway
+    is committed to equality, diversity and inclusion, and to becoming an anti-racist university.
+    Although not a mandatory requirement, we also report our ethnicity and disability pay gaps,
+    based on the same data and methodology as calculating the gender pay gaps.
+
+50. For the purposes of mandatory reporting, these calculations include the whole workforce
+    including those on hourly paid contracts. Figure 24 below shows the staff numbers involved
+    for each group. Staff who prefer not to say have not been included within the calculations.
+
+                                              2022                  2023                  2024
+
+         Female                               1681                  1701                  1795
+         Male                                  1308                 1325                  1308
+         Black and global                      670                   726                   763
+         majority
+         White                                2196                  2193                  2231
+         Disabled                              187                   171                   176
+         Non-disabled                          2738                 2803                  2847
+
+                 Figure 24 –staff numbers in pay gap reports, as at 31 March in 2022, 2023 and 2024
+
+
+51. The mean pay rate (or average) is calculated by adding up the hourly rates of all colleagues
+    and dividing the figure by the number of colleagues. The mean pay gap is the percentage
+    difference between the mean pay of different groups of colleagues, for example female and
+    male.
+
+52. The median pay gap (or midpoint) is the figure that falls in the middle of a range, so if all the
+    hourly rates of every individual are lined up from smallest to largest, the median pay is the
+    one that falls in the middle. The median pay gap is the difference between the median
+    hourly pay of different groups of colleagues, for example female and male.
+
+                                                                                                      45
+46
+
+
+
+Gender pay gaps.
+
+53. Figure 25 below shows the gender pay gaps as at 31 March 2024, and the change in these
+    gaps since March 2020.
+
+                                            2020        2021          2022          2023          2024
+                                             (%)         (%)           (%)           (%)           (%)
+         Gender pay gap mean pay
+                                             18.5       19.3          17.6          15.2           17.9
+         rate
+         Gender pay gap median
+                                             17.5       18.6          15.4          14.7           19.1
+         pay rate
+                                                                       Figure 25 –gender pay gaps, 2020 - 2024
+
+54. In 2024 the mean gender pay gap rose by 2.7 percentage points since the previous year and
+    the median by 4.4 percentage points. The reasons for this change are explained below
+    (points 56 to 58). The gender pay gaps had fallen consistently over the previous five years
+    with the exception of in 2021, where a small rise was caused by a decrease in the size of the
+    casual workforce, and an increase in the proportion of women both in casual roles and in
+    grades 2-5.
+
+Gender representation
+
+55. Figure 26 shows the representation of
+    male and female staff within four pay            Upper Quartile
+    quartiles. It demonstrates that for
+                                                      Upper Middle
+    Royal Holloway, there is a higher
+    proportion of males in higher paid roles          Lower Middle
+    than females, and a higher proportion            Lower Quartile
+    of females in lower paid roles than
+                                                                      0%     20%      40%       60%       80%    100%
+    males. It is this imbalance that
+    produces the gender pay gap.                                   Lower           Lower       Upper         Upper
+                                                                  Quartile         Middle      Middle       Quartile
+                                                        Female     72.0%           59.7%       57.7%         41.9%
+56. The overall gender distribution in
+                                                     Male       28.0%        40.3%       42.3%         58.1%
+    March 2024 was 57.8% female and
+    42.2% male. This represents a 1.6                                      Female    Male
+    percentage point increase in the
+    proportion of female colleagues. This        Figure 26 – gender distribution by pay quartile, 31 March 2024
+    change is most evident in the lower
+    quartile, where the proportion of
+    female colleagues has increased from 66.4% in 2023 to 72% in 2024: the biggest change in a
+    pay quartile seen in our statistics since pay gap reporting began in 2017.
+
+57. Representation of female colleagues in the upper pay quartile increased by 0.1 percentage
+    points in 2024. The upper quartile holds 34.4% of all male colleagues and only 18.1% of all
+    female colleagues. The significant increase in the proportion of female colleagues in the
+
+
+                                                                                                                  46
+47
+
+
+
+     lower pay quartile, which is not reflected by a similar increase in the upper pay quartile, is the
+     reason why the gender pay gaps have increased this year.
+
+58. The lower quartile includes 71% of colleagues who are employed on a casual contract. Many
+    of these are students. The size and distribution of the casual workforce fluctuates each year,
+    and this can have a significant impact on gender pay gaps – as it has for Royal Holloway this
+    year. This year, the number of female colleagues on a casual contract grew by 15%, while the
+    number of male colleagues on a similar contract fell by 19%. This has driven the increase in
+    the gender pay gap across the whole University, which as shown above (point 54) goes
+    against the trend from the last five years.
+
+59. It is noticeable that the gender distribution in the two middle quartiles is much more
+    balanced in line with the overall distribution of female colleagues of 57.8%. The proportion
+    of female colleagues in the upper middle quartile is only 0.1 percentage point lower than the
+    overall distribution, and in the lower middle quartile only 1.9 percentage points higher. What
+    happens in the lower and upper quartile is the most significant influence on the pay gaps.
+
+
+     80%
+     70%
+     60%
+     50%
+     40%
+     30%
+     20%
+     10%
+      0%
+               Lower Quartile         Lower Middle            Upper Middle             Upper Quartile
+      2020          64.0%                 58.1%                   53.5%                     39.8%
+      2021          67.9%                 60.6%                   52.9%                     40.0%
+      2022          67.6%                 59.3%                   56.9%                     41.1%
+      2023          66.4%                 59.5%                   57.1%                     41.8%
+      2024           72%                  59.7%                   57.7%                     41.9%
+
+                                                  Figure 27– Female distribution by pay quartile, 2020 - 2024
+
+
+
+60. Figure 27 shows how the representation of female colleagues has changed across the last five
+    years of gender pay gap reporting. There has been slow but consistent growth in the number
+    of female colleagues in the upper pay quartile, which in 2024 was 41.9%. This is
+    accompanied by bigger rise over time in the proportion of female colleagues in the upper
+    middle pay quartile. The proportion of women in the lower middle pay quartile has changed
+    little in the last five years, and in the lower quartile we see bigger fluctuations. For the
+    gender pay gap to decrease, the distribution of female colleagues across all four pay quartile
+                                                                                                            47
+48
+
+
+
+      needs to be more even and reflective of the overall representation of female colleagues at
+      57.8%.
+
+Gender bonus gap.
+
+61. Analysis of gender bonus gaps indicates that the mean gap was 7.7% in 2024, whilst the
+    median was 0%. A greater proportion of female colleagues received a bonus (1.7%)
+    compared to male colleagues (0.8%). Bonuses are small in number and as a result, gaps
+    fluctuate significantly each year.
+
+
+                                          2020     2021          2022         2023          2024
+                                           (%)     (%)            (%)          (%)           (%)
+             Mean Gender Bonus            2.6       4.5          35.3         -25.3%         7.7%
+             Gap
+             Median Gender Bonus          15.7      0.0          0.0           0.0%         0.0%
+             Gap
+
+                                                   Figure 28 – gender bonus gaps 2020 - 2024
+
+
+
+
+                                   2020           2021            2022              2023            2024
+                                    (%)            (%)             (%)               (%)             (%)
+       Male employees               1.5           5.9              2.8               1.2              0.8
+       receiving a bonus                                                           (n=16)           (n=11)
+       Female employees             1.8           3.9              3.5               2.3              1.7
+       receiving a bonus                                                           (n=39)           (n=30)
+
+                                                          Figure 29 –bonus distribution by gender, 2020 – 2024
+
+Ethnicity pay gap.
+
+62. Figure 30 shows that in 2024, the mean ethnicity pay gap was 12.9%, a rise of 0.1 percentage
+    points since 2023. The median pay gap was 6.2%, a fall of 5.2 percentage points since 2023.
+    Ethnicity bonus gaps are not shown due to low numbers.
+
+                                           2021           2022                  2023                2024
+                                            (%)            (%)                   (%)                 (%)
+     Ethnicity pay gap mean pay rate       12.6           12.2                  12.8                 12.9
+
+     Ethnicity pay gap median pay rate     12.1           15.0                  11.4                 6.2
+
+                                                                        Figure 30–ethnicity pay gaps, 2021 - 2024
+
+
+                                                                                                               48
+49
+
+
+
+Ethnicity representation.
+
+63. Figure 31 shows the                       Upper Quartile
+    representation of White
+    and Black and global                        Upper Middle
+    majority colleagues
+    within four pay                             Lower Middle
+    quartiles, giving
+    indications as to why                     Lower Quartile
+    we have pay gaps and
+    why they have changed                                      0% 10% 20% 30% 40% 50% 60% 70% 80% 90%100%
+    between 2023 and
+                                                                    Lower      Lower       Upper         Upper
+    2024.                                                          Quartile    Middle      Middle       Quartile
+                                        Black & global majority     33.2%      23.70%      27.1%         17.9%
+64. The overall ethnicity          White                 66.8%       76.3%         72.9%       82.1%
+    distribution is 74.5%
+    White (down from
+    75.1% in 2023) and 25.5% Black                Figure 31 –pay quartile distribution by ethnicity, 2024
+    and global majority (up from
+    24.9%). This increase in Black and global majority representation is particularly reflected in
+    the upper middle quartile.
+
+65. The upper quartile holds 27.5% of all White colleagues and only 17.6% of all Black and global
+    majority colleagues. By contrast the lower quartile holds 22.4% of all White colleagues and
+    32.6% of all Black and global majority colleagues. This is a key factor in Royal Holloway’s
+    ethnicity pay gaps.
+
+                 90%
+                 80%
+                 70%
+                 60%
+                 50%
+                 40%
+                 30%
+                 20%
+                 10%
+                  0%
+                         Lower quartile      Lower middle         Upper middle    Upper quartile
+                  2021        27.4%              18.9%               19.2%              14.9%
+                  2022        32.2%              20.0%               22.2%              19.1%
+                  2023        33.4%              22.1%               25.3%              18.7%
+                  2024        33.2%              23.7%               27.1%              17.9%
+
+
+                 Figure 32 – Black & global majority colleagues pay quartile distribution 2021 - 2024
+
+
+
+                                                                                                                   49
+50
+
+
+
+66. Since 2021 there has been an increase in the number of Black and global majority colleagues
+    in all pay quartiles, but there has been a small decrease this year in the lower quartile and a
+    slightly bigger decrease in the upper quartile. The small decrease in the proportion of Black
+    and global majority colleagues in the lower pay quartile is likely to have caused the decrease
+    in the median pay gap in 2024. The small decrease in the proportion of Black and global
+    majority colleagues in the upper pay quartile is likely to be a factor in the very small increase
+    in the mean pay gap.
+
+
+Disability pay gaps.
+
+
+                                              2021                2022               2023                2024
+                                               (%)                 (%)                (%)                 (%)
+
+ Mean disability pay gap                        8.5                10.0               5.3                3.8%
+
+ Median disability pay gap                     17.5                9.9                0.9                 0%
+
+
+                                                                            Figure 33 – disability pay gaps, 2021-24
+
+
+67. In 2024, the mean disability pay gap was 3.8%, a decrease of 1.5 percentage points since
+    2023. Having been 0.9% in 2023, the median disability pay gap fell to zero. Disability bonus
+    gaps are not shown due to low numbers.
+
+Disability representation.
+
+
+68. Figure 34 shows the
+                                          Upper Quartile
+    distribution of disabled and
+    non-disabled staff in 2024,
+    giving indications as to why           Upper Middle
+
+    both pay gaps have decreased.
+    The overall disability                 Lower Middle
+    distribution is 94.2% not
+    disabled and 5.8% disabled.           Lower Quartile
+    The upper quartile holds 25.3%
+    of all non-disabled colleagues                       0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+    and 19.3% of all disabled
+                                                          Lower Quartile   Lower Middle     Upper Middle Upper Quartile
+    colleagues. The lower quartile          Disabled          6.0%             6.0%              6.9%            4.5%
+    holds 25% of all non-disabled           Not Disabled     94.0%             94.0%            93.1%            95.5%
+    colleagues and 25.6% of all
+    disabled colleagues. This is
+    the most even distribution of
+                                                                       Figure 34 – quartile distribution by disability, 2024
+    the three pay gap categories (gender,
+    ethnicity, disability) and this is why the
+    pay gaps are significantly lower.
+                                                                                                                   50
+51
+
+
+
+69. Figure 35 shows how the               50%
+    distribution of disabled
+    colleagues across the four            40%
+    pay quartiles has changed
+    since 2021. The                       30%
+    representation of disabled
+    colleagues overall is 5.8%,           20%
+    and this data shows a settling
+    of the representation in the          10%
+    lower and lower middle
+    quartile close to this figure.         0%
+                                                 Lower quartile Lower middle Upper middle Upper quartile
+    This is what is driving in
+                                           2021       8.1%             5.1%              3.6%             4.2%
+    particular the fall to zero of
+                                           2022       8.1%             6.4%              6.4%             4.7%
+    the median pay gap.
+                                           2023       6.0%             5.9%              6.3%             4.7%
+    Balanced with an increase in
+                                           2024       6.0%             6.0%              6.9%             4.5%
+    the upper middle pay quartile
+    this is also having an impact
+    on the mean pay gap.                        Figure 35 –pay quartile distribution of colleagues with a disability,
+    Representation in the upper pay                                                                     2021 - 2024
+    quartile remains fairly consistent in
+    the last four years – there has been no repeat of the 0.5 percentage point increase seen in
+    2022.
+
+
+
+
+                                                                                                              51
+52
+
+
+
+Appendix 3 Review of KPIs (Colleagues)
+   Aim 1: Achieve diversity in our staff and student       2021-22 (benchmark)       2022-23             2023-24
+   body
+1. Increase the proportion of disabled staff to 8%           4.7% academics      4.3% academics      4.3% academics
+   academics, 10% for Professional Services.
+                                                            5.2% Professional    5.1% Professional   8.5% Professional
+                                                                Services             Services            Services
+2. Increase the proportion of Black and global majority
+                                                                 19.2%                20.8%               22.5%
+   academic staff to 24% (stretch to 27%).
+   Aim 2: Establish an equitable and fair environment      2021-22 (benchmark)       2022-23             2023-24
+
+3. Increase the proportion of Black and Global Majority
+                                                                 11.2%                10.6%               11.9%
+   Professors to 15% (stretch to 18%).
+4. Increase the proportion of Women Professors to 43%
+                                                                 32.7%                33.3%               33.2%
+   (stretch to 48%) and Women Readers.
+5. Increase the proportion of Black and global majority
+   Professional Services staff at Grade 9 and 10 to 20%           9.6%                 8.5%               11.3%
+   (stretch to 25%).
+6. Increase proportion of Disabled Professional Services
+                                                                  3.8%                 5.1%                5.1%
+   staff at grade 9 and 10 to 5%.
+
+     Aim 3: Ensure everyone is included and feels a        2021-22 (benchmark)       2022-23             2022-23
+     sense of belonging
+  7. Year-on-year increase in positive responses to
+     culture change and sense of belonging in annual
+     university Culture survey.
+  8. Decrease in turnover for disabled staff.                     20.5%               32.2%
+                                                                                                          11.4%
+                                                               (18 leavers)        (29 leavers)
+
+
+
+                                                                                                                         52
+

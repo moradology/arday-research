@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 01:23:46 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+Strict-Transport-Security: max-age=63072000
+Link: <https://www.education.ox.ac.uk/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.education.ox.ac.uk/wp-json/wp/v2/pages/10527>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.education.ox.ac.uk/?p=10527>; rel=shortlink
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: YES:Forced
+X-Varnish: 9322285 1063168
+Age: 1932
+Via: 1.1 education-ox-ac-uk (Varnish/9.0)
+Accept-Ranges: bytes
+Content-Length: 144112
+

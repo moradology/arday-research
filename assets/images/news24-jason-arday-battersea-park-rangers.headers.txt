@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 18:40:27 GMT
+content-type: image/jpeg
+content-length: 60881
+cache-control: max-age=2592000,public
+last-modified: Wed, 08 Mar 2023 11:16:11 GMT
+accept-ranges: bytes
+etag: "1abf4963af51d91:0"
+server: cloudflare
+access-control-allow-origin: *
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, Content-Length, Authorization, Range
+access-control-allow-methods: POST,GET,OPTIONS
+cf-polished: ok, orig_size=131072
+cf-bgj: imgq:85,h2pri
+priority: u=1;i=?0,cf-chb=(260;u=3;i=?0 7536;u=5;i=?0 32289;u=6;i=?0)
+vary: accept, accept-encoding
+cf-cache-status: HIT
+cf-ray: a2702b887c98ef9e-OMA
+

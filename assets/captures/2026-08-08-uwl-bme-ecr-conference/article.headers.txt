@@ -1,0 +1,10 @@
+HTTP/2 200 
+x-powered-by: PHP/7.4.33
+vary: accept,content-type,Accept-Encoding
+link: <https://london-post.co.uk/wp-json/>; rel="https://api.w.org/", <https://london-post.co.uk/wp-json/wp/v2/posts/84691>; rel="alternate"; title="JSON"; type="application/json", <https://wp.me/p8X7Ap-m1Z>; rel=shortlink
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=300
+content-type: text/html; charset=UTF-8
+date: Fri, 07 Aug 2026 03:55:24 GMT
+server: Apache
+

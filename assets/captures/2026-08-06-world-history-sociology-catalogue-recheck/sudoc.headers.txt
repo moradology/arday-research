@@ -1,0 +1,11 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 02:50:33 GMT
+server: Central System Dispatcher/1.1
+x-xss-protection: 1; mode=block
+content-type: text/xml
+x-psi-context: REQUEST
+x-sru-authentication-token: U10178,Klecteurweb,D2.1,Ee374f98f-191,I250,B341720009,SY,QDEF,A%5C9008+1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR+PSI,R10.34.103.198,FN,MNNN
+x-psi-class: sru
+content-length: 657
+vary: Accept-Encoding
+

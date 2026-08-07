@@ -1,0 +1,11 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 19:25:51 GMT
+content-type: image/jpeg
+cache-control: public, max-age=31622400
+vary: Accept-Encoding
+x-varnish: 642188728
+x-azure-ref: 20260806T192551Z-18557f745ccpt4f6hC1BL1tkvc0000000r20000000001n1v
+x-cache: TCP_HIT
+x-fd-int-roxy-purgeid: 0
+x-cache-info: L1_T2
+

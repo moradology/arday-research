@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 14:22:59 GMT
+content-type: text/html; charset=utf-8
+cache-control: no-store,no-cache
+pragma: no-cache
+set-cookie: ARRAffinity=fb4d5463fa3a59318f2897f54bc46f826967668a97cb35e11c0a6bb9bce4aab2;Path=/;HttpOnly;Secure;Domain=ref2021-resultsapp-live.azurewebsites.net
+set-cookie: ARRAffinitySameSite=fb4d5463fa3a59318f2897f54bc46f826967668a97cb35e11c0a6bb9bce4aab2;Path=/;HttpOnly;SameSite=None;Secure;Domain=ref2021-resultsapp-live.azurewebsites.net
+vary: Origin
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+request-context: appId=cid-v1:b992e0b9-e96b-4d4d-a9c2-15607311bafc
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy-report-only: default-src 'self'; style-src 'unsafe-inline' 'self' fonts.googleapis.com; font-src fonts.googleapis.com fonts.gstatic.com ka-f.fontawesome.com; img-src 'self' 2021.ref.ac.uk ref.ac.uk data:; script-src 'self' 'unsafe-inline' kit.fontawesome.com; connect-src ka-f.fontawesome.com;
+x-azure-ref: 20260807T142259Z-1765547f684xktpfhC1CHIpnf80000000srg000000003401
+x-cache: CONFIG_NOCACHE
+

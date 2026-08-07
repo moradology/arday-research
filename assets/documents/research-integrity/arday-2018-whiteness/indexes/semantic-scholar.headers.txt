@@ -1,0 +1,12 @@
+HTTP/2 429 
+content-type: application/json
+content-length: 174
+date: Fri, 07 Aug 2026 14:35:33 GMT
+x-amz-apigw-id: BvIAZHgrvHcEs4w=
+x-amzn-requestid: b314eea3-dd38-4808-b336-b3be5f52ceb9
+x-amzn-errortype: TooManyRequestsException
+x-cache: Error from cloudfront
+via: 1.1 4bdafa47b50e31f3589b552c7df31ad8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P3
+x-amz-cf-id: CaJuL8KIHhKHgGDABYDgup9qSN86GnCbdwBzCyTfQT17z9QYbr5bZg==
+

@@ -1,0 +1,11 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 21:27:50 GMT
+content-type: image/jpeg
+content-length: 983935
+last-modified: Tue, 04 Nov 2025 10:40:52 GMT
+etag: "6909d834-f037f"
+content-security-policy: upgrade-insecure-requests
+x-served-by: 7027f2dd793cd80f96bd1f8fe231fac1
+accept-ranges: bytes
+

@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 14:36:19 GMT
+content-type: application/json
+cache-control: no-cache, private
+content-encoding: gzip
+server: cloudflare
+symfony-session-noautocachecontrol: true
+vary: Accept-Encoding
+x-ratelimit-limit: 10
+x-ratelimit-remaining: 8
+x-ratelimit-retry-after: 2026-08-07T14:36:19+0000
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nKenXRn90Gg9q8S7unapzrrgakDkzqO47S1oeYnMolmEczdIdpGVnzuu6%2FUjN8XNdywulX%2FieNOddBw7WSPWpn5W26Ymf%2BtRzXNgEVyFKNbRtT81tRzg7IOerrDI2IELzQ%3D%3D"}]}
+cf-ray: a277034689a00897-OMA
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 18:11:36 GMT
+Content-Type: application/pdf
+Content-Length: 295771
+Connection: keep-alive
+Accept-Ranges: bytes
+access-control-expose-headers: Etag
+etag: "b18beef279a5f07f05b9f9979a1ef3e3"
+last-modified: Tue, 16 May 2023 09:59:26 GMT
+Server: cloudflare
+vary: Origin
+x-wasabi-cm-reference-id: 1786039896 C2-R113-U17.prod10.fr2 84987784:816380:16
+set-cookie: __cf_bm=Fr7eQPEPNFF0RWUcjV9qlDcLqODhaIoQnDCKvixHZLk-1786039896.3471115-1.0.1.1-c8GIXL2oq4Y_KrT3YdTA7MzZfRjZ82EMqbHb4aDybQs.gfblLsi86MN6XXYtacGoLpfeqOUN9l7Z6EC7sMU_80XkETHZ.3Peq_GNqHKA3KLaIILarMcSJnX0un507Qrr; HttpOnly; SameSite=None; Secure; Path=/; Domain=pageplace.de; Expires=Thu, 06 Aug 2026 18:41:36 GMT
+cf-cache-status: DYNAMIC
+CF-RAY: a27001482f38dac2-OMA
+

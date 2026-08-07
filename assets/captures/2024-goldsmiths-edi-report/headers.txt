@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 23:05:26 GMT
+Server: Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.1 PHP/7.4.33
+Content-Security-Policy: upgrade-insecure-requests;
+Last-Modified: Fri, 04 Jul 2025 12:54:51 GMT
+ETag: "9d8a7-63919fff57eea"
+Accept-Ranges: bytes
+Content-Length: 645287
+Content-Type: application/pdf
+

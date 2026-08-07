@@ -1,0 +1,25 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 17:16:13 GMT
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com and mention this header.
+host-header: WordPress.com
+link: <https://bilt.online/wp-json/>; rel="https://api.w.org/"
+link: <https://bilt.online/wp-json/wp/v2/pages/22810>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://wp.me/P9zGSw-5VU>; rel=shortlink
+x-et-api-version: v1
+x-et-api-root: https://bilt.online/wp-json/tribe/tickets/v1/
+x-et-api-origin: https://bilt.online
+x-tec-api-version: v1
+x-tec-api-root: https://bilt.online/wp-json/tribe/events/v1/
+x-tec-api-origin: https://bilt.online
+vary: accept, content-type, cookie
+last-modified: Thu, 06 Aug 2026 17:14:50 GMT
+cache-control: max-age=300, must-revalidate
+x-nananana: Batcache-Set
+x-ac: 2.den _atomic_dfw HIT
+alt-svc: clear
+server-timing: a8c-cdn, dc;desc=den, cache;desc=HIT;dur=2.0
+

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 05:51:22 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+Last-Modified: Tue, 18 Jan 2011 02:10:41 GMT
+ETag: "2d0f3-49a1568422a40"
+Accept-Ranges: bytes
+Content-Length: 184563
+Content-Type: application/pdf
+

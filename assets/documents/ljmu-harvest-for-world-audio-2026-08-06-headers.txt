@@ -1,0 +1,23 @@
+HTTP/2 200 
+content-type: audio/mpeg
+content-length: 38994754
+date: Thu, 06 Aug 2026 17:11:53 GMT
+access-control-allow-origin: *
+access-control-allow-methods: GET
+access-control-max-age: 3000
+last-modified: Fri, 01 Mar 2024 11:17:22 GMT
+etag: "3f5b018161246ee80d0622c288eaf572-8"
+x-amz-storage-class: INTELLIGENT_TIERING
+x-amz-server-side-encryption: AES256
+x-amz-meta-bitrate: 128
+x-amz-meta-duration: 2437146
+x-amz-meta-job: aemOSUX2TTyd
+cache-control: max-age=252460800
+x-amz-version-id: 2cgNs90RS16y8YBoedvTW9.2.TesGOCZ
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 f649a7c6e5fc5f853b7307be97ce7892.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P13
+x-amz-cf-id: MiBWHRqfVpP5ZCeSBi4Z2bFJVToq1eb9YNRxfhyycGO0JUSmjh16pw==
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 18:53:47 GMT
+Server: Zope/(2.13.22, python 2.7.16, linux2) ZServer/1.1
+content-length: 30771
+content-language: en
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-ua-compatible: IE=edge,chrome=1
+x-frame-options: SAMEORIGIN
+content-type: text/html;charset=utf-8
+X-Varnish: 133716709 152699927
+Age: 7
+Via: 1.1 varnish (Varnish/6.5)
+X-Cache: HIT
+Accept-Ranges: bytes
+Set-Cookie: ANONSERVERID=app-anonx-1.haiku.fry=c2; path=/
+Via: 1.1 www.arc-oxtv.nihr.ac.uk
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15768000
+

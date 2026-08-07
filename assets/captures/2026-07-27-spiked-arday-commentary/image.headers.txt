@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 20:13:56 GMT
+content-type: image/jpeg
+content-length: 80066
+server: cloudflare
+last-modified: Mon, 27 Jul 2026 15:28:39 GMT
+etag: "6a677927-138c2"
+expires: Wed, 26 Aug 2026 22:10:06 GMT
+cache-control: max-age=2592000
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+accept-ranges: bytes
+age: 943429
+cf-cache-status: HIT
+referrer-policy: strict-origin-when-cross-origin
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dKlgZRxczSEgRIhw1MjKDeOApLxbzgz7zUku9exTegWy1pK7NoI6vlMRHm4kBDGdfuZGBuLmPZkPAXaddmHfZH%2FXinHC6y8K6aicMdeGXfJmkLJoX%2BMsQWAOoc9lyWUngljfDDx8BQ%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+permissions-policy: geolocation=(), microphone=(), camera=()
+cf-ray: a278f1de0b6c8b11-ORD
+

@@ -1,0 +1,23 @@
+HTTP/2 200 
+server: GitHub.com
+content-type: application/pdf
+last-modified: Sat, 25 Jul 2026 00:03:00 GMT
+access-control-allow-origin: *
+etag: "6a63fd34-23b9be"
+expires: Fri, 07 Aug 2026 07:31:58 GMT
+cache-control: max-age=600
+x-proxy-cache: MISS
+x-github-request-id: AEFC:1C9224:3753B0C:40D8442:6A758794
+x-github-edge-region: iad
+accept-ranges: bytes
+age: 0
+date: Fri, 07 Aug 2026 07:21:58 GMT
+via: 1.1 varnish
+x-served-by: cache-mci680073-MCI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786087318.164370,VS0,VE273
+vary: Accept-Encoding
+x-fastly-request-id: 86609cb1b362f5991d9e88d6be11e30f241f31dc
+content-length: 2341310
+

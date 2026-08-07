@@ -1,0 +1,19 @@
+HTTP/2 200 
+x-amz-id-2: pkr+GVdoxpL/ajefKeSGuFCCyKKE8AOrkDQQbYrZvUUAwmXMjZi8BdYC+HqmwlD2PHDevFJFNeMR8nUH3OMySpG9wj6QZWfV
+x-amz-request-id: 2XA7GR9M668T4XAK
+last-modified: Thu, 06 Aug 2026 16:48:51 GMT
+etag: "56b0074d69c9047bbfb6791d5eb2b57b"
+cache-control: max-age=86400
+content-type: image/jpeg
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 36394
+date: Fri, 07 Aug 2026 04:23:54 GMT
+x-served-by: cache-iad-kjyo7100102-IAD, cache-chi-klot8100157-CHI
+x-cache: HIT, HIT
+x-cache-hits: 3, 0
+x-timer: S1786076634.372558,VS0,VE2
+vary: Origin
+strict-transport-security: max-age=300
+content-length: 449040
+

@@ -1,0 +1,29 @@
+HTTP/2 301 
+content-length: 0
+date: Fri, 07 Aug 2026 19:56:36 GMT
+location: /news/inclusion-and-diversity-forum-2025
+strict-transport-security: max-age=31536000; includeSubDomains
+request-context: appId=cid-v1:a979cf9a-45ae-48f2-a6ce-794fae465363
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+cf-cache-status: MISS
+cf-ray: a278d8768e293347-MIA
+x-lstore: D
+age: 0
+x-cache: MISS
+sversion: PALSS 10.1.1.110222
+scluster: vu1-mia.hybridcloudspan.com
+x-ssl-protocol: TLSv1.3
+expires: Fri, 14 Aug 2026 19:56:36 GMT
+cache-control: max-age=604800
+x-hlp-options: 0A
+cache-control: public,  must-revalidate
+
+HTTP/2 429 
+date: Fri, 07 Aug 2026 19:56:36 GMT
+content-type: text/html
+sversion: PALSS 10.1.1.110222
+scluster: vu1-mia.hybridcloudspan.com
+x-ssl-protocol: TLSv1.3
+

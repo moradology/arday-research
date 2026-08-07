@@ -1,0 +1,18 @@
+HTTP/2 200 
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+content-security-policy: 
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+content-language: en
+x-content-type-options: nosniff
+x-xss-protection: 0
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: 0
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-frame-options: DENY
+content-type: application/hal+json;charset=UTF-8
+date: Fri, 07 Aug 2026 13:36:34 GMT
+server: Apache
+

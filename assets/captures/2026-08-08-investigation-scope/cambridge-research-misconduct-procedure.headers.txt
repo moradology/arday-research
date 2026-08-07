@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: application/pdf
+etag: "6a171e07-79184"
+last-modified: Wed, 27 May 2026 16:38:31 GMT
+server: nginx
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-pantheon-styx-hostname: styx-eu-a-6975d949c6-jknk7
+x-styx-req-id: 2abdb596-9231-11f1-9ced-e2410636e444
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Fri, 07 Aug 2026 07:25:29 GMT
+x-served-by: cache-ams-eham8680099-AMS, cache-mci680067-MCI, cache-mci680049-MCI, cache-mci680049-MCI
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1786087529.271256,VS0,VE161
+content-length: 496004
+

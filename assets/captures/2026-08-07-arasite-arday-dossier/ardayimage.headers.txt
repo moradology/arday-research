@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 05:42:43 GMT
+content-type: text/html
+vary: Accept-Encoding
+last-modified: Wed, 05 Aug 2026 22:02:56 GMT
+etag: W/"27e-6a73b310-e245f7055efa1b16;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: b88f1cb75df53cd929b0754bf0a57b20-bos-edge1
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.073
+

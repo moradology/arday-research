@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 18:14:02 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+Upgrade: h2
+Connection: Upgrade
+Last-Modified: Fri, 26 Apr 2024 10:58:17 GMT
+ETag: "27ef3-616fdc7fa2742"
+Accept-Ranges: bytes
+Content-Length: 163571
+Content-Type: application/pdf
+

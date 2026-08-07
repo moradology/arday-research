@@ -1,0 +1,19 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 18:04:20 GMT
+content-type: text/html; charset=UTF-8
+content-length: 59084
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding
+link: <https://jpspeakoutchallenge.com/wp-json/>; rel="https://api.w.org/"
+link: <https://jpspeakoutchallenge.com/wp-json/wp/v2/posts/3934>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://jpspeakoutchallenge.com/?p=3934>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+vary: Accept-Encoding,Cookie
+cache-control: max-age=600, must-revalidate
+accept-ranges: bytes
+x-cache: HIT: 1
+x-cache-group: normal
+

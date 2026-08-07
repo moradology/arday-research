@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 21:17:15 GMT
+content-type: image/jpeg
+content-length: 125965
+server: cloudflare
+etag: "54438bda20d83cba63e15e21376dd973-1"
+last-modified: Mon, 26 Jan 2026 21:31:10 GMT
+x-proxy-cache: MISS
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+vary: accept-encoding
+org: wasabi
+accept-ranges: bytes
+expires: Fri, 06 Aug 2027 21:17:15 GMT
+cf-cache-status: MISS
+cf-ray: a27111362845dac2-OMA
+

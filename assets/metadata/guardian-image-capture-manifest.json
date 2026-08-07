@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "contentType": "image/avif",
+      "id": "02f0579ca6218522",
+      "kind": "image",
+      "name": "5886.jpg",
+      "path": "/var/folders/1k/w99f8yvn2pnbnx0v5nzssh580000gq/T/browser-use/assets/19d1ff54-9a23-425f-a3f1-c33f90d1fde6/02f0579ca6218522.jpg",
+      "url": "https://i.guim.co.uk/img/media/8b1952d1795f524107cdad632614e44fb75a0a17/0_0_5886_3924/master/5886.jpg?width=1300&dpr=2&s=none&crop=none"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "e3f414c9e08bbe2a",
+      "kind": "image",
+      "name": "8192.jpg",
+      "path": "/var/folders/1k/w99f8yvn2pnbnx0v5nzssh580000gq/T/browser-use/assets/19d1ff54-9a23-425f-a3f1-c33f90d1fde6/e3f414c9e08bbe2a.jpg",
+      "url": "https://i.guim.co.uk/img/media/77969d3b4ceed8e961ccdfd562069e1a654d5ffb/0_546_8192_4918/master/8192.jpg?width=220&dpr=2&s=none&crop=5%3A4"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "98613e553b268cb4",
+      "kind": "image",
+      "name": "2973.jpg",
+      "path": "/var/folders/1k/w99f8yvn2pnbnx0v5nzssh580000gq/T/browser-use/assets/19d1ff54-9a23-425f-a3f1-c33f90d1fde6/98613e553b268cb4.jpg",
+      "url": "https://i.guim.co.uk/img/media/af2627ad3001ae50a43bb29b2d51b845ddd5bc2f/953_857_2973_2379/master/2973.jpg?width=220&dpr=2&s=none&crop=5%3A4"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "7e0e5b700c061f2a",
+      "kind": "image",
+      "name": "6736.jpg",
+      "path": "/var/folders/1k/w99f8yvn2pnbnx0v5nzssh580000gq/T/browser-use/assets/19d1ff54-9a23-425f-a3f1-c33f90d1fde6/7e0e5b700c061f2a.jpg",
+      "url": "https://i.guim.co.uk/img/media/71e1274657490c00838d90a184788909f5431e74/674_0_6736_5389/master/6736.jpg?width=220&dpr=2&s=none&crop=5%3A4"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "a04074241795f05f",
+      "kind": "image",
+      "name": "4652.jpg",
+      "path": "/var/folders/1k/w99f8yvn2pnbnx0v5nzssh580000gq/T/browser-use/assets/19d1ff54-9a23-425f-a3f1-c33f90d1fde6/a04074241795f05f.jpg",
+      "url": "https://i.guim.co.uk/img/media/71e1274657490c00838d90a184788909f5431e74/1522_759_4652_3722/master/4652.jpg?width=220&dpr=2&s=none&crop=5%3A4"
+    }
+  ],
+  "failures": []
+}

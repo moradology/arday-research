@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 08:56:46 GMT
+content-type: text/html;charset=UTF-8
+cache-control: public, max-age=14400, stale-while-revalidate=30
+content-language: en-GB
+content-security-policy: default-src 'self' *.adobedtm.com *.altmetric.com *.cloudfront.net *.demdex.net *.elsevier.com *.google-analytics.com *.analytics.google.com *.googleapis.com *.googletagmanager.com *.gstatic.com *.cloudflare.com *.hotjar.com *.onetrust.com *.vimeo.com *.youtube.com *.g.doubleclick.net api.plu.mx bam-cell.nr-data.net bam.nr-data.net cdn.cookielaw.org *.elseviercdn.cn elsevier.data.adobedc.cn cdn.plu.mx cm.everesttech.net js-agent.newrelic.com www.google.com 'unsafe-inline' 'unsafe-eval' data: *.pendo.io analytics.google.com google-analytics.com googletagmanager.com; img-src 'self' * data:; frame-src 'self' *.cloudflare.com *.vimeo.com *.youtube.com elsevier.demdex.net *.pendo.io pure.coventry.ac.uk
+last-modified: Thu, 06 Aug 2026 00:00:00 GMT
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+tdm-reservation: 0
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-product: Pure Portal
+set-cookie: __cf_bm=37U7nUFpn9RAUazitxR77KhljNTHs2Jn6O5MQW94GM8-1786093006.6127367-1.0.1.1-joJ3hdrRm67DgOdxguJg7jnj2jSn9waFM1T2Ce_kMpNx1UQ2mMDDJ8YvqoYoyLeDhW2f57.lSEfGnf7RAsZtuXmDcp78mhPppzDztNh.7cJog.ILGD9ukUCFbhwUQcz3; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureportal.coventry.ac.uk; Expires=Fri, 07 Aug 2026 09:26:46 GMT
+age: 0
+cf-cache-status: HIT
+cf-ray: a27511eb5b3a06b5-OMA
+alt-svc: h3=":443"; ma=86400
+

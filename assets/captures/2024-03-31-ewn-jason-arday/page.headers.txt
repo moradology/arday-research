@@ -1,0 +1,11 @@
+HTTP/2 200
+date: Fri, 07 Aug 2026 16:00:20 GMT
+content-type: text/html;charset=utf-8
+content-length: 370465
+x-powered-by: Nuxt
+vary: accept-encoding
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tFKR%2FrBuf1wAQKlkUR5gW4eRKFTbT%2Bxm0JQkWnmCF0wCmnZcW0g%2B09%2BrcTUVMLoRwL4JlygEiOcwuabbRVQ3ZY%2FgMhvz5VCFbuXlxNyu7Tmc5cEohgYed1JA5Z%2Bar58%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a2777e54cef1a635-OMA
+alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 19:39:08 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+Link: <https://eprints.whiterose.ac.uk/id/eprint/236710>; rel="cite-as", <https://eprints.whiterose.ac.uk/cgi/export/eprint/236710/DC/wrro-eprint-236710.txt>; rel="describedby"; type="text/plain; charset=utf-8", <https://eprints.whiterose.ac.uk/cgi/export/eprint/236710/BibTeX/wrro-eprint-236710.bib>; rel="describedby"; type="text/plain; charset=utf-8"
+Cache-Control: no-store, no-cache, must-revalidate
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self';
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

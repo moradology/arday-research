@@ -1,0 +1,13 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 01:12:23 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+x-content-type-options: nosniff
+content-type: text/html; charset=UTF-8
+server: video-timedtext
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

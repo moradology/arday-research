@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+Date: Fri, 07 Aug 2026 09:54:02 GMT
+Content-Type: application/pdf
+Content-Length: 20983869
+Connection: keep-alive
+Server: Apache/2.4.58 (Ubuntu)
+P3P: CP="CAO PSA OUR"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Last-Modified: Tue, 17 Jun 2025 09:59:02 GMT
+Cache-Control: max-age=0, s-maxage=0, must-revalidate
+Set-Cookie: JSESSIONID=D603DA2F36335B015A43BCFE2538F909; Path=/; Secure; SameSite=None; Partitioned;HttpOnly;Secure;SameSite=None;Partitioned;
+

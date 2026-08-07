@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 16:43:24 GMT
+content-type: text/html; charset=utf-8
+set-cookie: request_id=cf264d52-bd36-4096-b03c-817629c021d4; Max-Age=3600; Path=/; HttpOnly
+x-powered-by: PHP/7.4.33
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+link: <https://www.pridemagazine.com/wp-json/>; rel="https://api.w.org/", <https://www.pridemagazine.com/wp-json/wp/v2/posts/22449>; rel="alternate"; title="JSON"; type="application/json", <https://www.pridemagazine.com/?p=22449>; rel=shortlink
+server-timing: amp_sanitizer;dur="50.3",amp_style_sanitizer;dur="24.4",amp_tag_and_attribute_sanitizer;dur="16.1",amp_optimizer;dur="105.9"
+set-cookie: PHPSESSID=7ruhhjv9kfv2241n16ncu84si2a5cnd8; path=/; secure; SameSite=None
+vary: Accept-Encoding
+age: 11
+x-request-id: cf264d52-bd36-4096-b03c-817629c021d4
+

@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 20:02:26 GMT
+content-type: text/html; charset=utf-8
+set-cookie: _cfuvid=cbsRm8zktWfHzecvqT1SZUgzY3LsF8qiI.vAEEDqtS4-1786046546.2966003-1.0.1.1-SOAliHr8xdItgsrNRWYOP.jeyZCCJaQEBYHnlJvDr1g; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.aevitascreative.com
+cf-ray: a270a3a25fd60898-OMA
+cf-cache-status: HIT
+last-modified: Thu, 06 Aug 2026 20:02:26 GMT
+link: <https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/621c48f3617f7e119ad3d36f/css/aevitas-creative.webflow.shared.3de76f999.css>; rel=preload; as=style; crossorigin; integrity="sha384-PedvmZ//4/fer53JrBXs5tmxbsFKBU9jdJA82+pp0ELJdy76eK4fvMABck3F/hze"
+server: cloudflare
+strict-transport-security: max-age=31536000
+vary: accept-encoding
+surrogate-control: max-age=432000
+surrogate-key: www.aevitascreative.com 621c48f3617f7e119ad3d36f pageId:623042c43087db3af54d98b4 623042c43087db6d494d98c6 623042c43087db00314d98c4 623042c43087db55d74d98c1
+x-lambda-id: 0640b3c9-f144-4899-bea3-98471f9de7f6
+x-wf-region: us-east-1
+alt-svc: h3=":443"; ma=86400
+

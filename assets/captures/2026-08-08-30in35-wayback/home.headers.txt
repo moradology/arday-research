@@ -1,0 +1,36 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 04:01:41 GMT
+content-type: text/html; charset=UTF-8
+x-archive-orig-server: nginx
+x-archive-orig-date: Fri, 20 Aug 2010 09:13:32 GMT
+x-archive-orig-connection: close
+x-archive-orig-vary: Cookie
+x-archive-orig-x-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+x-archive-orig-x-pingback: http://30in35.wordpress.com/xmlrpc.php
+x-archive-orig-link: <http://wp.me/Zd4E>; rel=shortlink
+x-archive-orig-last-modified: Fri, 20 Aug 2010 09:13:32 +0000
+x-archive-orig-cache-control: max-age=300, must-revalidate
+x-archive-orig-x-nananana: Batcache
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+memento-datetime: Fri, 20 Aug 2010 09:13:32 GMT
+link: <http://30in35.wordpress.com:80/>; rel="original", <https://web.archive.org/web/timemap/link/http://30in35.wordpress.com:80/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://30in35.wordpress.com:80/>; rel="timegate", <https://web.archive.org/web/20100820091332/http://30in35.wordpress.com:80/>; rel="first memento"; datetime="Fri, 20 Aug 2010 09:13:32 GMT", <https://web.archive.org/web/20100820091332/http://30in35.wordpress.com:80/>; rel="memento"; datetime="Fri, 20 Aug 2010 09:13:32 GMT", <https://web.archive.org/web/20150523025404/http://30in35.wordpress.com/>; rel="next memento"; datetime="Sat, 23 May 2015 02:54:04 GMT", <https://web.archive.org/web/20260209230827/https://30in35.wordpress.com/>; rel="last memento"; datetime="Mon, 09 Feb 2026 23:08:27 GMT"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: 51_17_20100820043234_crawl103_IndexOnly-c/51_17_20100820091238_crawl103.arc.gz
+server-timing: captures_list;dur=0.731434, exclusion.robots;dur=0.058769, exclusion.robots.policy;dur=0.044487, esindex;dur=0.010379, cdx.remote;dur=77.608427, LoadShardBlock;dur=1724.931250, PetaboxLoader3.resolve;dur=346.317500, PetaboxLoader3.datanode;dur=1347.515537, load_resource;dur=152.870820, nav;dur=0.243230
+x-app-server: wwwb-app247-dc8
+x-ts: 200
+x-tr: 3704
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=10
+set-cookie: wb-p-SERVER=wwwb-app247; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: HIT
+server-timing: HIT
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

@@ -1,0 +1,12 @@
+HTTP/2 401 
+date: Fri, 07 Aug 2026 17:03:20 GMT
+content-type: application/json
+content-length: 121
+access-control-allow-origin: *
+cache-control: no-store
+access-control-allow-headers: Accept, Accept-Language, Accept-Encoding, Authorization, Content-Type, X-OpenAlex-UI
+access-control-allow-methods: GET, HEAD, POST, OPTIONS
+access-control-expose-headers: Cache-Control, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Onetime-Remaining, X-RateLimit-Credits-Used, X-RateLimit-Credits-Required, X-RateLimit-Reset, X-RateLimit-Limit-USD, X-RateLimit-Remaining-USD, X-RateLimit-Prepaid-Remaining-USD, X-RateLimit-Cost-USD, X-RateLimit-Cost-Required-USD, Retry-After
+server: cloudflare
+cf-ray: a277daa608ff24af-OMA
+

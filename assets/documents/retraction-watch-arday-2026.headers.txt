@@ -1,0 +1,29 @@
+HTTP/2 301 
+date: Thu, 06 Aug 2026 19:15:00 GMT
+content-type: text/html; charset=UTF-8
+location: https://retractionwatch.com/2026/07/27/cambridge-jason-arday-plagiarism-allegations-times-higher-education-exclusive/
+server: cloudflare
+x-powered-by: PHP/8.3.33
+vary: accept,content-type,accept-encoding,cookie
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+x-redirect-by: WordPress
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gXxq9Ge%2BqJTF9Fjq4bSnhp5P5Ra9PZ3xndq3Bt%2BSMoO5fbAVPBDZJ7sAd53HtVTvIrsXFgaQABRuENh6UoNPxxlcYs0ARTTkSdRUgkXHd86GraYjH7PoBEx24wJDpTVbqDQZIBk%3D"}]}
+cf-cache-status: BYPASS
+cf-ray: a2705e292f4fd18c-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Thu, 06 Aug 2026 19:15:01 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding,Cookie
+last-modified: Thu, 06 Aug 2026 16:06:33 GMT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cache-control: max-age=60, s-maxage=600, must-revalidate
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=niQUN1RIt9lP6kfEWhfZKaIa1b%2Bcjn7ctbUduKT8bQb%2BEkkFfzMipgw1SVRIiLTIiO08iVn9l4b7tnxIGbwOwHRiyJHffWT%2F9r21%2B%2BtEJituUsfEXwUg%2BEgr%2BBFCxn3v9%2Fjvhi8%3D"}]}
+cf-cache-status: REVALIDATED
+cf-ray: a2705e2afbcdd18c-OMA
+alt-svc: h3=":443"; ma=86400
+

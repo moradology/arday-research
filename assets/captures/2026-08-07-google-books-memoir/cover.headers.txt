@@ -1,0 +1,13 @@
+HTTP/2 200 
+cache-control: private, max-age=86400
+accept-ranges: bytes
+expires: Fri, 07 Aug 2026 00:59:36 GMT
+date: Fri, 07 Aug 2026 00:59:36 GMT
+content-length: 9660
+content-type: image/jpeg
+x-content-type-options: nosniff
+server: Ocean Content Server
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

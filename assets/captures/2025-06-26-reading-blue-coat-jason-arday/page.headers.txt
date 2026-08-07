@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 21:27:16 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+last-modified: Thu, 06 Aug 2026 14:40:14 GMT
+vary: Accept-Encoding,User-Agent
+content-security-policy: upgrade-insecure-requests
+x-served-by: 7027f2dd793cd80f96bd1f8fe231fac1
+

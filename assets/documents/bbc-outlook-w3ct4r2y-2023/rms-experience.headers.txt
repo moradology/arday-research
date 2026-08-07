@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: CloudFront
+Content-Type: application/json
+Content-Length: 90555
+Connection: keep-alive
+Date: Fri, 07 Aug 2026 17:07:57 GMT
+Trace-Id: 86b0a7ec86591c70
+X-International-Experience-Name: domestic
+Cache-Control: public, max-age=300, s-maxage=300, stale-while-revalidate=7200, stale-if-error=7200
+Via: 1.1 13357dc985ff27b48a6482ec19082362.cloudfront.net (CloudFront)
+Age: 22
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+Vary: Origin,X-international-experience-name
+X-Powered-By: RMS
+X-Webapp: rms-the-edge
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ORD56-P5
+X-Amz-Cf-Id: 8X6O5gtlJ1uDyNT6J070l1_kV1scekSNsYWIRzpzNbf2xRbhVhiSRQ==
+

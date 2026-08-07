@@ -1,0 +1,27 @@
+HTTP/2 302 
+date: Fri, 07 Aug 2026 00:49:29 GMT
+content-length: 0
+location: https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/f2Ft6N8Krco2Y3Vx2a_VAWEpqO7xS28uiLCUAUdAqso/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAWRGBDBV3AQLX3E7I%2F20260807%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260807T004929Z&X-Amz-Expires=60&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJGMEQCICY0Pr7UjU5rRCV4EJ21fxGlofgbW1LZEf9RUCtclYzsAiAtfkAFXTP%2Bowz9H8HesQRc%2BBctUObEYICvGt5WRrAKdSqBBAhIEAUaDDQ0OTIyOTAzMjgyMiIMJMvpS2EyUVAE0kuoKt4D9E68wrZxHVEuuCnu7fFz3kpR4OTnexEuN3K6C8aVrHqDEQP591inJmxknQC5f%2Fuku9VA2jkzlwua3Hv5OuBgbFobBFI2E%2B9yAEhVxVB3%2F%2FztAl5TvLkWgoLu5VTlGcFFkk6Lm7h7x31a%2FvZn%2B8Pj2iURdS36nxoSdaeHf50uoiCiPi1Cw58rilzgkNaEPcfgKtFIaFuXthYo7Z2jP24rSeGT7UbDx4Kxl%2BOYsXcx9FN0L%2BVfGqwdYFvGMVzvgXpdEU%2F%2FaDDrxCBflhQk%2BOZwQv78GEF3Dr0tgHjY46jeiqNQL4JAsmYwhJX94EPHDgF8kWx%2FX2RApzYFZ3I0g4RVIw7r4Aq6oDU1QIY4vzgNrtrHor0DmAybsuogqC2OCraiaUJ2S8FZRjws0HjFlKuV7HYavIX%2BVpGgCL%2BJR%2FQFGbPD2Dupy%2Bjjf0ev2B36aSAi6dHsaCo3kvYa04fpXC5eF4mtOQqqaqqyOzPyCY9R45UcU90PeI%2Bh53ry6pE%2FgbU5ec3g22RdvgQTdlOwqjlQ%2Fau6TyoBOU9JEubdRTEh21%2FLB9kgAfbFW8%2BhMl596Dbx6QJpo5zAgTo9hH0jvmusGhJXtNw9JhSJZ2kSTWCEE7OTn4Q1qNnw22SBhaFJDzDGqtTTBjqmAXCilK6djyiH4KVm9eestueYRlgS0hplppjb1sU8k%2FBOUhjk4Xq1kOL78AMhoLKRn1mL1m%2BotcOSVtoFH0e9SMrz4YRZbeU6RM4D3dEcTpP%2BJ9sB6%2Fw21io4JqvBm5AybrzGkw%2F6i%2FuRXRv8trEz5oQngIgOrXJy3Jfbq29bsyQJn6S80mx7sHqiiMGtlHpytV1Y64KVsVgqhloav8TrHLv2KDxyf6c%3D&X-Amz-SignedHeaders=host&response-content-disposition=inline%3Bfilename%3D%2214775762_aa_2026-06-22.pdf%22&X-Amz-Signature=c5bd5f246ac792418be49a46bb5d391f1e902c416951a7f76dc57ff1fec5f72a
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+set-cookie: sft=; path=/company
+set-cookie: __SID=zoFC5HURfvRp0yQ+2i5HE00E7KabyjEvSnMGRBmWBzPktzoHW1amc6E; expires=Fri, 07 Aug 2026 01:49:29 GMT; domain=company-information.service.gov.uk; path=/; secure; HttpOnly
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: DENY
+server: CompaniesHouse
+
+HTTP/1.1 200 OK
+x-amz-id-2: tKf+M22S0EZKJyHCa2f1pssC45YhooFBF+wnC/u2N5ROpESbNn7rHaRsNPBWALjo/fnS/zvYuowWwIkijdFEyhFppxwi7T2k
+x-amz-request-id: PPT1BDX63AYR6E6W
+Date: Fri, 07 Aug 2026 00:49:31 GMT
+Last-Modified: Mon, 22 Jun 2026 14:32:43 GMT
+ETag: "b2c7a4a6c9d6ad87762cfdf4eeac53a8"
+x-amz-server-side-encryption: AES256
+x-amz-version-id: .hqSKUUiBV2Fd5ifSeXjaeJ4JlYFW2IM
+Content-Disposition: inline;filename="14775762_aa_2026-06-22.pdf"
+Accept-Ranges: bytes
+Content-Type: application/pdf
+Content-Length: 76695
+Server: AmazonS3
+

@@ -1,0 +1,28 @@
+HTTP/2 302 
+date: Fri, 07 Aug 2026 18:18:47 GMT
+content-type: text/html;charset=utf-8
+location: https://apps.crossref.org/coaccess/coaccess.html?doi=10.2307%2Fjj.26932075.9
+server: cloudflare
+vary: Origin
+vary: Accept
+expires: Fri, 07 Aug 2026 19:06:22 GMT
+permissions-policy: interest-cohort=(),browsing-topics=()
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iLBbAGbwMl1NPU708rYnfT5bMDVTeHsWUd3zPy57JMpP4Jw%2F9DKoitLejA4lBMKxtmkOlPSMUeerGoNMOCDpt5BQpV03%2BiSU7xF47yZgk45qKlj07OgI5Y0%3D"}]}
+cf-ray: a278492c9e7e5f62-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 301 
+date: Fri, 07 Aug 2026 18:18:47 GMT
+content-length: 0
+location: https://chooser.crossref.org/?doi=10.2307%2Fjj.26932075.9
+
+HTTP/2 200 
+date: Fri, 07 Aug 2026 18:18:47 GMT
+content-type: text/html; charset=utf-8
+content-length: 5235
+server: uvicorn
+link: https://www.degruyterbrill.com/document/doi/10.1515/9780691263946-007/html; rel="co-access"
+

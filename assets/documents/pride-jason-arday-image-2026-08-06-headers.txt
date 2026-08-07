@@ -1,0 +1,13 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 16:43:50 GMT
+content-type: image/jpeg
+content-length: 517313
+set-cookie: request_id=41132fc3-f61f-45ce-b676-e080b85fc0ec; Max-Age=3600; Path=/; HttpOnly
+last-modified: Tue, 25 Jul 2023 12:18:18 GMT
+accept-ranges: bytes
+cache-control: max-age=14400
+etag: "7e4c1-6014eb9eb940f"
+expires: Thu, 06 Aug 2026 20:43:49 GMT
+age: 1
+x-request-id: 41132fc3-f61f-45ce-b676-e080b85fc0ec
+

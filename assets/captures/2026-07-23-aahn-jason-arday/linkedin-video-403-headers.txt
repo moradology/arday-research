@@ -1,0 +1,22 @@
+HTTP/2 403 
+server: Varnish
+retry-after: 0
+content-type: text/html; charset=utf-8
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 21:04:53 GMT
+via: 1.1 varnish
+x-served-by: cache-chi-klot8100168-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-content-type-options: nosniff
+x-aka-age: 1786050294
+x-cdn-rcode: 3b
+access-control-allow-origin: *
+timing-allow-origin: *
+access-control-allow-headers: CMCD-Request,CMCD-Object,CMCD-Status,CMCD-Session
+x-cdn: FSLY
+vesion: 64
+qt: n1OjlA37GJxfEvshy1gv9eRdPyhw8r3W394Z1ntIYAk
+hm: X15c4CceZUaMmF0dbupCU2dODfwqSvLmYFnAoYnJpY4
+content-length: 449
+

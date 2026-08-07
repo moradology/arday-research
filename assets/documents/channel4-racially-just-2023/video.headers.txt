@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 59306426
+Access-Control-Allow-Headers: X-Requested-With,Origin,Range,Accept-Encoding,Referer
+Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Server,Range,Content-Length,Content-Range
+Cache-Control: public, max-age=31536000
+Content-Type: video/mp4
+Etag: "746affc354041a27651be3671aea679f"
+Expires: Sat, 07 Aug 2027 16:21:53 GMT
+Last-Modified: Mon, 10 Apr 2023 18:53:13 GMT
+Server: AmazonS3
+X-Amz-Id-2: qWSDokvcZMHtsaY2DYdxGXv+DtWg6TwQUXOqSbZjJEeRJJF9iViCXHcDGi/MsyHVRMpw2Zd64HHB6gGtMeBCUQJ9p3+50U9i
+X-Amz-Request-Id: YPH2QEJA9EJPF9QE
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Storage-Class: INTELLIGENT_TIERING
+X-Amz-Version-Id: null
+Backend-IP: 99.81.173.24
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 0
+Date: Fri, 07 Aug 2026 16:21:53 GMT
+X-Served-By: cache-dub4342-DUB, cache-iad-kiad7000022-IAD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0

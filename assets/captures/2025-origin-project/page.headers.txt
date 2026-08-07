@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-drupal-cache: MISS
+etag: "1786042626-0"
+x-frame-options: SAMEORIGIN
+content-language: en
+x-content-type-options: nosniff
+content-type-options: nosniff
+x-xss-protection: 1
+x-generator: Drupal 7 (http://drupal.org)
+link: </node/2984301>; rel="shortlink",<https://www.glam.ox.ac.uk/origin>; rel="canonical"
+last-modified: Thu, 06 Aug 2026 18:57:06 GMT
+x-request-id: v-9ebba68e-91c8-11f1-aac8-83119c24968e
+x-ah-environment: prod
+x-age: 0
+cache-control: public, max-age=60
+expires: Thu, 06 Aug 2026 22:06:10 GMT
+date: Thu, 06 Aug 2026 22:05:10 GMT
+strict-transport-security: max-age=15768000
+

@@ -1,0 +1,11 @@
+# Large binary archive files remain in the local/Drive archive.
+/assets/audio/
+/assets/videos/
+/assets/captures/2026-08-07-guardian-today-in-focus-arday/episode.mp3
+/assets/captures/2026-08-07-best-of-today-children-learn/audio.mp3
+/assets/captures/2026-warwick-education-conference-jason-arday/
+/assets/captures/2026-08-07-southfields-concordia-2015/concordia-2015.pdf
+/assets/documents/bonita-corrie-lunn-examiner-2025/corrie-lunn-thesis.pdf
+*.mp3
+*.mp4
+*.webm

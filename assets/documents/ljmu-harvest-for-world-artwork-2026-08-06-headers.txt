@@ -1,0 +1,12 @@
+HTTP/2 200 
+content-type: image/jpeg
+access-control-allow-headers: Accept, Accept-Encoding, Authorization, Content-Type, Origin
+access-control-allow-methods: GET
+access-control-allow-origin: *
+cache-control: public,max-age=594464
+date: Thu, 06 Aug 2026 17:12:06 GMT
+x-cache: Miss from cloudfront
+via: 1.1 8b1c9f51d282a3cf670569654d83d794.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P16
+x-amz-cf-id: kt3sYk6kTJb9B6lv_h8Yjlob8LllmMrOZ6D-nqmGh5hYE8hZSe2cKA==
+

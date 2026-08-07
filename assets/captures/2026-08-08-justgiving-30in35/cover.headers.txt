@@ -1,0 +1,39 @@
+HTTP/2 302 
+content-type: text/html; charset=utf-8
+location: https://images.justgiving.com/image/5f7e6d3b-43e8-4126-8a8d-2d368f34c1dd.jpg?template=size1200x630face&skipFace=true
+date: Wed, 05 Aug 2026 10:07:00 GMT
+x-request-id: f28ea47db14efecfc2ac51107a711ce6
+x-cache-status: MISS
+cache-control: public, max-age=31536000
+x-jg-imagecached: false
+access-control-allow-origin: *
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-cache: Hit from cloudfront
+via: 1.1 eb8489dcfa0cc878d8eabc3b4e0d66f4.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P11
+x-amz-cf-id: Sa6wm_sTksbI8OUlnZqDlOpoHEYEayjJ8mH1z3-RHC61NceenxVvaQ==
+age: 151578
+
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 41614
+date: Wed, 05 Aug 2026 10:07:00 GMT
+x-cache-status: MISS
+cache-control: public, max-age=31536000
+x-jg-imagecached: false
+access-control-allow-origin: *
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-request-id: d37c52b1652eef4c759150393ce2c782
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 eb8489dcfa0cc878d8eabc3b4e0d66f4.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P11
+x-amz-cf-id: U9GHrDLPPKqBIg1uSRbMbVrO9uS37a2q5kR1bhzYUMLLBvj4FmgV_Q==
+age: 151578
+

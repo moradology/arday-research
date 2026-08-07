@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 15:28:58 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a277506c8b4ca074-OMA
+cf-cache-status: MISS
+cache-control: no-cache
+set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sat, 07 Aug 2027 15:28:58 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=%229bca7912-c5c3-453a-b3bd-401275269f59%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sat, 07 Aug 2027 15:28:58 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: __cf_bm=Rht8bZ4jza8B25hX4JEJfL51iMpPAAykyOBDuGr.gXA-1786116538.3240256-1.0.1.1-l_8svyRhWHS4bq3lO32RzqFXdc.LX30_S1AcwGQCTxCFiy2pL5Cze1m8xayt1_gCnf61FChES5ZOce.6DzrhU5Ud6oEtIIgTVstFUDIL2LSHM3OjDtkBVcQv0nNQ2JbF; HttpOnly; SameSite=None; Secure; Path=/; Domain=substack.com; Expires=Fri, 07 Aug 2026 15:58:58 GMT
+x-service: web
+link: <https://substackcdn.com>; rel=preconnect
+server: cloudflare
+x-sub: dennismccarthy
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' https://*.substack.com https://substack.com
+x-cluster: substack
+x-deploy: cc23b0e77d
+x-powered-by: Express
+x-served-by: Substack
+content-encoding: br
+alt-svc: h3=":443"; ma=86400
+

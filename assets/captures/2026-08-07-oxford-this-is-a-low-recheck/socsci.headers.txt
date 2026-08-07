@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-drupal-dynamic-cache: MISS
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+last-modified: Thu, 06 Aug 2026 22:08:38 GMT
+etag: "1786054118"
+x-generator: Drupal 10 (https://www.drupal.org)
+x-memory-limit-memory: 256M
+x-memory-limit-override: 0
+content-security-policy: default-src https:; script-src 'self' 'unsafe-inline' https://cc.cdn.civiccomputing.com https://player.vimeo.com https://maps.googleapis.com https://maps.gstatic.com https://unpkg.com/cally https://cdn.jsdelivr.net/npm/swiper@12.1.2/ https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@5.0.8/dist/js/ https://www.googletagmanager.com/gtag/js https://static.searchstax.com https://forms.cloud.microsoft https://events.embed.it.ox.ac.uk https://events-staging.embed.it.ox.ac.uk https://panopto.com https://*.panopto.com https://panopto.eu https://*.panopto.eu https://google.com https://*.google.com https://maps.ox.ac.uk https://*.maps.ox.ac.uk https://mazemap.com https://*.mazemap.com https://figshare.embed.it.ox.ac.uk https://*.figshare.embed.it.ox.ac.uk https://widgets.figshare.com https://*.widgets.figshare.com https://widgets-p-eu.figstatic.com https://*.widgets-p-eu.figstatic.com https://status.it.ox.ac.uk https://*.status.it.ox.ac.uk; object-src https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data:; frame-src 'self' https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com https://www.googletagmanager.com https://login.microsoftonline.com https://unioxfordnexus.sharepoint.com https://*.unioxfordnexus.sharepoint.com https://shinyapps.io https://*.shinyapps.io https://panopto.com https://*.panopto.com https://panopto.eu https://*.panopto.eu https://google.com https://*.google.com https://maps.ox.ac.uk https://*.maps.ox.ac.uk https://mazemap.com https://*.mazemap.com https://podcasts.ox.ac.uk https://*.podcasts.ox.ac.uk https://media.podcasts.ox.ac.uk https://*.media.podcasts.ox.ac.uk https://ssl.p.jwpcdn.com https://*.ssl.p.jwpcdn.com https://jwpltx.com https://*.jwpltx.com https://embed.podcasts.apple.com https://*.embed.podcasts.apple.com https://js-cdn.music.apple.com https://*.js-cdn.music.apple.com https://embed.acast.com https://*.embed.acast.com https://cdn.acast.com https://*.cdn.acast.com https://play-api.acast.com https://*.play-api.acast.com https://thumborcdn.acast.com https://*.thumborcdn.acast.com https://phoenix.prod.ateam.acast.cloud https://*.phoenix.prod.ateam.acast.cloud https://token.supersonic.prod.acast.cloud https://*.token.supersonic.prod.acast.cloud https://sphinx.acast.com https://*.sphinx.acast.com https://stitcher2.acast.com https://*.stitcher2.acast.com https://share.transistor.fm https://*.share.transistor.fm https://media.transistor.fm https://*.media.transistor.fm https://audio.transistor.fm https://*.audio.transistor.fm https://figshare.embed.it.ox.ac.uk https://*.figshare.embed.it.ox.ac.uk https://widgets.figshare.com https://*.widgets.figshare.com https://widgets-p-eu.figstatic.com https://*.widgets-p-eu.figstatic.com https://miro.com https://*.miro.com https://cdn.knightlab.com https://*.cdn.knightlab.com https://status.it.ox.ac.uk https://*.status.it.ox.ac.uk; upgrade-insecure-requests
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: geolocation=(self), camera=(), microphone=()
+x-drupal-cache: MISS
+x-request-id: v-60620ebc-91e3-11f1-90e5-4766db3b7c6e
+x-ah-environment: 04live
+x-cache-hits: 1
+x-age: 4391
+cache-control: public, max-age=60
+expires: Fri, 07 Aug 2026 01:56:32 GMT
+date: Fri, 07 Aug 2026 01:55:32 GMT
+strict-transport-security: max-age=15768000
+

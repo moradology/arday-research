@@ -1,0 +1,22 @@
+HTTP/2 410 
+content-type: text/html
+origin-agent-cluster: ?0
+req-svc-chain: FASTLY,GTM
+via: 1.1 BBC-GTM, 1.1 varnish
+x-bbc-edge-cache-status: MISS
+x-bbc-origin-response-status: 410
+server: BBC-GTM
+fastly-restarts: 1
+x-fastly-cache-reason: NO-CACHE-CONTROL
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 14:19:32 GMT
+x-fastly-cache-status: PASS
+x-served-by: cache-chi-kmdw8640088-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786025972.961502,VS0,VE100
+x-fastly-pre-flight-cache: HIT
+x-fastly-pre-flight-cache-status: HIT-CLUSTER
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 152
+

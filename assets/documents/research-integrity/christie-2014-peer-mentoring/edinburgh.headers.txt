@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 17:27:18 GMT
+content-type: application/pdf
+cache-control: public, max-age=14400
+content-security-policy: script-src 'none'
+pragma: public
+referrer-policy: origin
+server: cloudflare
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=2592000; preload
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+last-modified: Fri, 07 Aug 2026 17:27:18 GMT
+expires: Fri, 07 Aug 2026 21:27:18 GMT
+cf-cache-status: EXPIRED
+set-cookie: __cf_bm=rzrhplgmqdhQ7r29TCxy.MtChdZsyusieZVxx1Qi.Ps-1786123638.297575-1.0.1.1-6t8Hfon_UIYKsea5Ipbz9Fz6pXbVDWbK4BjrgzUwg5.1DujtYVtd_NMkW8gljS7vuHSKMLwKkY25NtCGZDy839QcWJttM6twZN7vL3ma5RWkVdILH_Sg3Av.iXH7FgAD; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.pure.ed.ac.uk; Expires=Fri, 07 Aug 2026 17:57:18 GMT
+set-cookie: _cfuvid=awXDpZ9UgSuk1KnC3LB2O3lpzTrXeJ0JxSqym.wt7Pg-1786123638.297575-1.0.1.1-_7tYG63NLYpHzyJYt8Gm25lSddLh1ecofHcZDdFwj.Q; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.pure.ed.ac.uk
+cf-ray: a277fdc35f7fc744-OMA
+alt-svc: h3=":443"; ma=86400
+

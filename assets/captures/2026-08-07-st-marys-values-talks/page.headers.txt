@@ -1,0 +1,21 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Fri, 07 Aug 2026 01:24:08 GMT
+strict-transport-security: max-age=15552000; includeSubDomains
+set-cookie: Secure;SameSite=Lax; secure
+set-cookie: _nusdigital_session=08f3e8935d8bbc3f2176f719e4bd200a; path=/; secure; HttpOnly
+server: Apache
+x-frame-options: allow-from *
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+vary: Accept-Encoding,Origin
+etag: W/"2eee4a0cdeeada0620aa9845856aa383"
+cache-control: max-age=0, private, must-revalidate
+x-request-id: bd1f3833-3a47-47bc-9670-bacc7c5bde30
+x-runtime: 0.817515
+x-cache: Miss from cloudfront
+via: 1.1 b6805b08a4af317938604723e3f3424a.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WS6J-k5091mSsKjzGsl8OkfnA8CcUpADwIDliS0SXm6XVIqaBOQi-A==
+

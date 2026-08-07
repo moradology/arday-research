@@ -1,0 +1,23 @@
+HTTP/2 200
+account-status: APPROVED
+bc-override-client-ip: 198.210.89.78
+bcov-request-id: b49d1804-b8e7-4fc0-8866-0bd85dd0a062
+content-type: application/json; charset=UTF-8
+policy-key-accountid: 1184612030
+policy-key-raw: BCpkADawqM08deD_NlNlQecym2VYWLggIWnESWDWsU7DPKneoAPJxQMtUE9ODyoqWnrjirqVLovmSMke3JCBXmpomVkyRJcxgGp-FPbhQlW5O5wcLHTBWZ8UJVuEZJO6cRFwVEGviirG1GlaX6kuSDCa1YMuvzlumpiLrQ
+powered-by: BC
+powered-from: us-east-1a
+accept-ranges: bytes
+date: Fri, 07 Aug 2026 16:21:53 GMT
+via: 1.1 varnish
+age: 16
+x-served-by: cache-chi-klot8100084-CHI
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1786119713.136575,VS0,VE1
+access-control-allow-origin: *
+access-control-expose-headers: cache-control,content-type,powered-by,powered-from,via,x-cache,x-cache-hits,x-served-by,x-timer,bcov-debug-cache-stats,bcov-instance,x-amz-cf-id,Policy-Key-Geo-Countries,Policy-Key-Geo-Exclude-Countries,Policy-Key-IP-Whitelist,Account-Status,Policy-Key-Raw,Policy-Key-Domains,Policy-Key-Require-Ad-Config,Policy-Key-AccountID,BCOV-Request-ID,BCOV-Error-Code,soapaction
+access-control-allow-headers: content-type,accept,accept-language,content-language,bcov-policy,soapaction
+access-control-allow-methods: HEAD,GET,OPTIONS
+cache-control: max-age=0, no-cache, no-store
+content-length: 5436

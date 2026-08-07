@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 22:58:25 GMT
+content-type: application/pdf
+content-length: 238698
+cf-ray: a271a56befd106b5-OMA
+cf-cache-status: HIT
+accept-ranges: bytes
+age: 3336611
+cache-control: public, max-age=31536000
+etag: "67ea4874-3a46a"
+last-modified: Mon, 31 Mar 2025 07:47:00 GMT
+server: cloudflare
+vary: accept-encoding
+set-cookie: __cf_bm=nNoQAr82LAecxAFkv23Zcq2yPeYw9oZNw5NoKMiUZP0-1786057105.2655156-1.0.1.1-QLy7QMiFaiVH_5P44nZsNhmj2ECYlF_yjPYSxlUETiorP3tCRHMN9cRliRurKmKvPgislfsZLXHxRn2C7RLiy1Ixq7DrqH55ZPJwzATHdoqasV8lOfvXbii49nm6UJss; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Thu, 06 Aug 2026 23:28:25 GMT
+alt-svc: h3=":443"; ma=86400
+

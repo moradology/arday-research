@@ -1,0 +1,46 @@
+HTTP/2 302 
+date: Fri, 07 Aug 2026 15:45:42 GMT
+content-type: text/html
+content-length: 180
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https: blob:; font-src 'self' data: https:; connect-src 'self' ws: wss: https:; worker-src 'self' blob:; frame-src https:; frame-ancestors 'self'
+location: /download/vdjz5/c4378900-0f06-4ae3-bd9b-7dc849e3b704/borough-council-election-results-2018.pdf
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains
+via: 1.1 Caddy
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-xss-protection: 0
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: BYPASS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ML%2B68neIWBMzjbGv%2B%2FMOOGWZBc0CmEPLvXkhUboBNYh4n8rzUjlxxkalfBQQAwtOVGPG3XdhWRtb9pZf6aCfg8dGrsL925o3XCzWtM%2F8Q1lEGtgK7gK75Fdv5LkX3TtyCkGEdA%3D%3D"}]}
+server: cloudflare
+cf-ray: a27768f2cfa999e6-OMA
+
+HTTP/2 200 
+date: Fri, 07 Aug 2026 15:45:43 GMT
+content-type: application/pdf
+content-length: 10812551
+accept-ranges: bytes
+access-control-allow-origin: *
+cache-control: public, max-age=600, stale-while-revalidate=86400
+content-disposition: inline
+content-security-policy: sandbox
+etag: "ee6d880fd005eecf1bc143caede1556b"
+last-modified: 2025-10-21T18:55:14.000Z
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Origin
+via: 1.1 Caddy
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-xss-protection: 0
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: REVALIDATED
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uAU5dWRZmRgY8m2LVf%2Fj9BdBuFaOB%2BHzCKgvOSK1sHTV4VXJq5cwPh8S22m%2FU61HXeadjMwmFfa3syVx%2F7xj7Qgn%2FPN9URtIVD16nlyItcGkPp0cXrij20sI%2BDn2Z00DYfDz9A%3D%3D"}]}
+server: cloudflare
+cf-ray: a27768f3d9f199e6-OMA
+

@@ -1,0 +1,24 @@
+HTTP/2 200 
+x-amz-id-2: NPP+SDsRDsSv86NMumo/Np7i6jb1P6NG+lZJ/sak0PWYKtbqkTZzDO5JYP2+2PiNugNRgmnbZF3waJtoQYHUBOiKLHZOc7yn
+x-amz-request-id: 43APC6HQKTKA1GQ7
+last-modified: Thu, 06 Aug 2026 19:13:58 GMT
+x-amz-version-id: gUaZOYwq6gwD__ibZJ4EWxedF3IwdEcA
+etag: "19da7993033ca71fd9880a0e64e9c049"
+content-type: audio/mpeg
+server: AmazonS3
+via: 1.1 varnish, 1.1 varnish
+strict-transport-security: max-age=86400
+access-control-allow-origin: *
+cache-control: max-age=31557600
+accept-ranges: bytes
+age: 66900
+date: Fri, 07 Aug 2026 20:37:22 GMT
+x-served-by: cache-lcy-egml8630039-LCY, cache-iad-kiad7000080-IAD
+x-cache: HIT, HIT
+x-cache-hits: 34, 0
+x-timer: S1786135042.179442,VS0,VE46
+content-disposition: attachment
+access-control-allow-credentials: true
+access-control-allow-headers: X-Requested-With,Origin,Accept,Content-Type
+content-length: 55310858
+

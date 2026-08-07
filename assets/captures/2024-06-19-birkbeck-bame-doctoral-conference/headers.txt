@@ -1,0 +1,15 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 51137
+date: Thu, 06 Aug 2026 23:02:47 GMT
+access-control-allow-origin: *
+server: gunicorn/20.0.4
+x-frame-options: DENY
+x-content-type-options: nosniff
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+x-cache: Miss from cloudfront
+via: 1.1 32a8f1a011ec1e1cb8ac0a8f8ed6c8b8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P6
+x-amz-cf-id: mrgjpOwaMrMm6HjE3z7kPGfI1nPG66faF5m8ENbZVU1aRE8EzOoWrA==
+

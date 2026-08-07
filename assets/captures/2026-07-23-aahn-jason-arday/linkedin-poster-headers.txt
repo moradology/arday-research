@@ -1,0 +1,31 @@
+HTTP/2 200 
+server: Play
+content-type: image/jpeg
+cache-control: public, max-age=86400
+x-ambry-blob-size: 38891
+content-disposition: inline; filename="output_still_image_fd8e48a2-8552-478e-adc9-d104c54ab7e9.jpg"
+x-li-fabric: prod-ltx1
+x-content-type-options: nosniff
+x-li-pop: prod-ltx1-x
+x-li-proto: http/1.1
+access-control-expose-headers: X-CDN, X-CDN-Client-IP-Version, X-CDN-Proto, X-Cache, X-CDN-RCODE
+x-li-uuid: AAZYZz1XZLbBgDlXoz7zLA==
+via: 1.1 varnish, 1.1 varnish
+x-cdn: FSLY
+access-control-allow-origin: *
+timing-allow-origin: *
+accept-ranges: bytes
+age: 0
+date: Thu, 06 Aug 2026 21:04:54 GMT
+x-served-by: cache-dfw-kdal2120144-DFW, cache-chi-klot8100162-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786050294.264716,VS0,VE64
+x-cdn-client-ip-version: IPV4
+stale_revalidating: false
+version: 105
+qt: 8uXRHHjIMpTqyfyre7sz3Ux5ue6Zxs5ZRvmozhviOoo
+hm: 8uXRHHjIMpTqyfyre7sz3Ux5ue6Zxs5ZRvmozhviOoo
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 38891
+

@@ -1,0 +1,40 @@
+HTTP/2 302 
+date: Fri, 07 Aug 2026 13:33:15 GMT
+server: Apache
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://api.repository.cam.ac.uk; font-src 'self' data: https://fonts.gstatic.com/s/nunito/v31/ https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/ https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/  https://fonts.gstatic.com/s/droidsans/v18/ https://fonts.gstatic.com/s/worksans/v18/; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/ https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/; script-src-elem 'self' 'unsafe-inline' 'unsafe-eval' https://embed.altmetric.com/assets/altmetric_badges-10c8bb92f52500b3055c97099c9c67f45c4cef824fe9b68d82fe653d6db644c0.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml.min.js https://core.ac.uk/recommender-plugin/  https://www.googletagmanager.com/ https://www.google-analytics.com/ https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/ https://unpkg.com/vue@^2/ https://api.altmetric.com/ https://unpkg.com/data-metrics-badge/ https://d1bxh8uas1mnw7.cloudfront.net https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/; connect-src 'self' https://api.repository.cam.ac.uk https://api.core.ac.uk/recommender/plugin https://unpkg.com/data-metrics-badge/dist/data-metrics-badge.min.js.map https://region1.google-analytics.com/ https://doi.org/ https://api.datacite.org/graphql https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.jsdelivr.net/gh/citation-style-language/styles@master/ https://www.google-analytics.com/; img-src 'self' https://www.re3data.org/public/badges/s/dark/100010620.png https://core.ac.uk/ https://api.repository.cam.ac.uk data: https://badges.altmetric.com https://www.google-analytics.com/; style-src-elem 'self' 'unsafe-inline' 'unsafe-eval' https://embed.altmetric.com/assets/embed-59614f5c46b49b21eeef3bb28c4fb38d1e7069e8d014752fcb66e84942556802.css https://d1bxh8uas1mnw7.cloudfront.net https://fonts.googleapis.com https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/ https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/; frame-src 'self' https://www.re3data.org/ https://www.gstatic.com/ https://www.google.com/; object-src 'self' https://www.re3data.org/public/badges/s/dark/100010620.svg;
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+x-powered-by: Express
+x-ratelimit-limit: 500
+x-ratelimit-remaining: 499
+x-ratelimit-reset: 1786109642
+location: https://api.repository.cam.ac.uk/server/api/core/bitstreams/1ee58e5b-e419-4420-bf3a-180c1edda5d3/content
+vary: Accept
+content-type: text/plain; charset=utf-8
+content-length: 126
+via: 1.1 www.repository.cam.ac.uk
+cache-control: no-cache
+
+HTTP/2 200 
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+content-security-policy: 
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+content-language: en
+last-modified: Wed, 06 May 2026 10:43:00 GMT
+etag: "810ee7f8014c8ba234c0afb924bfff72"
+accept-ranges: bytes
+expires: Fri, 07 Aug 2026 14:33:16 GMT
+cache-control: private,no-cache
+access-control-expose-headers: Accept-Ranges
+content-disposition: attachment;filename="bmjopen-2024-098223.pdf"
+x-content-type-options: nosniff
+x-xss-protection: 0
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-frame-options: DENY
+content-type: application/pdf;charset=UTF-8
+date: Fri, 07 Aug 2026 13:33:16 GMT
+server: Apache
+

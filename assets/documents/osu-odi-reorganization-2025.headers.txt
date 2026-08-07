@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 19:29:26 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+set-cookie: PPSESSION=p2pmsj0o0bo5ihfevbsnsqvlv7; path=/; samesite=lax; secure; HttpOnly
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+last-modified: Thu, 06 Aug 2026 19:16:50 GMT
+expires: Thu, 06 Aug 2026 19:46:50 GMT
+x-content-type-options: nosniff
+feature-policy: geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'self'; fullscreen 'self'; payment 'none'; 
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+

@@ -1,0 +1,544 @@
+Exploring black and minority ethnic (BME) doctoral students’ perceptions of an academic
+career
+
+Jason Arday
+
+June 2017
+
+
+
+
+Executive Summary
+
+This report explores Black and Minority Ethnic (BME) doctoral research students’ perceptions of an
+academic career. The purpose of the research is to explore the experiences of BME doctoral students and
+the impact of these on their perceptions of the attractiveness of an academic career. The report provides a
+qualitative snapshot of the challenges faced by BME postgraduate research students (PGR). The interplay
+between personal, economic and social factors including ethnicity, overt and covert racism, and
+marginalisation are explored. A strong appetite for pursuing an academic career was identified. This,
+alongside a number of themes such as the importance of supervisory and mentoring support; feelings of
+marginalisation and isolation; the impact of subject choice; and access to teaching and research
+opportunities were explored. The report is based on interviews and survey work with 20 BME doctoral
+students from a range of academic disciplines.
+
+There remains a paucity of empirical, evidence-based knowledge in this area. This report endeavours to
+add to the growing literature on higher education, equality and diversity and social justice.
+
+
+
+
+                                                                                                         1
+Acknowledgements
+
+I would like to thank all the Doctoral Students that kindly and generously gave their time to contribute
+their experiences towards this research. Your insights and experiences made this research possible and
+have contributed to further addressing issues of inequality faced by Black and Minority Ethnic (BME)
+groups within Higher Education. Additionally, your recommendations for progressing this issue were
+gratefully received.
+
+Lastly, I would like to thank Angela Nartey of the University and College Union (UCU) for her
+continuous support throughout this report and Dr Vikki Boliver (Durham University) for her
+endorsement and continued support and encouragement.
+
+
+
+
+                                                                                                      2
+1.1 Introduction
+
+This report explores Black and Minority Ethnic (BME) doctoral research students’ perceptions of an
+academic career in the United Kingdom (UK). The purpose of the research is to examine the experiences
+of Black and Minority Ethnic (BME) doctoral students and the impact of these on their perceptions of
+progressing to an academic career. The term ‘black and minority ethnic’ is used in a political sense to refer
+to people who are descended, through one or both parents, from Africa, the Caribbean, Asia (the Middle-
+East to China), Mixed Heritage, Latin America and those who define themselves as Other.
+
+BME representation in higher education
+
+There is a mixed pattern of representation of those from Black and Minority Ethnic backgrounds across
+both the student and staff cohort in the higher education sector. The Equality Challenge Unit has
+published statistical data that articulates this well.
+
+Undergraduate study
+
+BME students are more likely to progress to higher education institutions (HEIs) than their white
+counterparts. 2013/14 data showed that students from Asian and other ethnic origins were most likely to
+progress (64% and 63% respectively). This was followed by students from black (61%), mixed (51%), and
+white (45%) ethnic backgrounds. As a proportion, BME students made up 20.2% of the student
+population in the same year, compared to their 14% representation at wider population level. After this
+point however, the story is one of underrepresentation. Retention, attainment and destination statistics
+are all dramatically poorer for students from BME backgrounds (ECU, 2015).
+
+In 2013/14, 91% of white UK entrants continued or qualified from their degree course compared to
+87.9% of BME students. There is significant variation between ethnic groups with an 11.1 percentage
+point difference between the highest and lowest rates (93.8% for Chinese entrants, and 82.7% for
+entrants from any other black background) (ECU, 2015).
+
+Amongst qualifiers aged 21 and under, 75.6% of qualifiers from white backgrounds received a first class
+or upper second degree compared with 60.4% of qualifiers from BME backgrounds. Gendered
+differences are notable here. 80.3% of white women achieved a first class or upper second class degree,
+compared to 74.5% of white males. The corresponding figures for BME students were significantly lower
+overall, but showed less variance between BME women (66.9%) and BME men (62.6%) (ECU, 2015).
+
+Six months after qualifying, 61.5% of white leavers were in full-time work compared with 53.9% of BME
+leavers (ECU, 2015).
+
+
+
+
+                                                                                                           3
+Higher level study
+
+A higher proportion of BME graduates were in full-time or part-time study (12.0% and 1.3% respectively)
+than their white counterparts, 10.2% and 0.9% respectively). With regards to progression to further
+higher level study, BME students are more likely than their white counterparts to transition to taught
+masters courses but less likely to go on to research or other postgraduate (PG) research courses (HEFCE,
+2013).
+
+At doctoral level, Shilliam (2014) states that whilst black (peoples of African heritage) are over-
+represented at undergraduate and taught masters level, although still fairly equitable, this trend stops at
+PhD level where 3.1% of UK domiciled students doctoral students are black compared to 3.3% of the
+general population. Shilliam reveals that 46.2% of black doctoral students are enrolled on doctoral
+programmes in a part-time capacity within the UK. Significantly, this statistic equates to the largest
+percentage of part-time students across all ethnic groups (ECU, 2012; ECU, 2015; HESA, 2016).
+
+Attrition rates are fairly high for doctoral students across all ethnicities. HEFCE research indicates that
+72.9% of the 11,625 students from the UK or the EU who began full-time doctorates in 2010-11 will
+obtain a degree within seven years. The same figure for the 2009-10 cohort was 70.1% and 70.5% for the
+2008-09 cohort. There is very little research on PhD completion rates by ethnicity. In the USA, however,
+a recent study revealed completion rates of 47% for African Americans, ten percent lower than for the
+overall cohort (US, Department for Education, 2013).
+
+Staff, salaries and career progression
+
+BME academics are less likely to occupy professorial positions, are more likely to encounter issues of
+wage disparity and are significantly less likely to gain employment opportunities in HE more generally.
+They are also less likely to benefit from a permanent/open-ended contract of employment (Alexander
+and Arday, 2015; ECU, 2013: ECU, 2014).
+
+Research examining racial discourse in education (Alexander and Arday, 2015; Gillborn, 2008; Lander,
+2011; Mirza, 2008), has highlighted concern about marginalisation and the adequacy of career progression
+opportunities for BME individuals. Kalwant Bhopal (2014) found that rather than overt experiences of
+exclusion and racial discrimination; ‘subtle, covert exclusionary processes related to… ethnicity… resulted in
+differential treatment’.
+
+HESA (2014) data found that amongst all staff working in higher education, 13.9% of staff of known
+ethnicity are from an ethnic minority. At the 2011 census, 14% of the resident population in England and
+Wales was non-white. As such, representation at all-staff level can be said to be fairly representative. The
+figures become more disproportionate at academic staff level and beyond. Equality Challenge Unit (ECU)
+data published in 2015 found that 8.2% of the UK-national academic staff population were BME. Whilst
+
+
+
+                                                                                                            4
+this represented a 39.3% increase on 2003/4 levels, there is poor representation of BME staff at academic
+level (ECU, 2015).
+
+ECU found that overall, 11.2% of UK white academic staff were professors. The same figure for UK
+BME academic staff was 9.8%. However, there was significant variation among the different ethnic
+groups. Chinese (14.0%), and other ethnicity (13.5%) staff were more likely to hold professorial roles than
+their Asian (9.8%), mixed (7.8%) or black (7.5%) counterparts. Among non-UK academic staff, 4.3% of
+BME staff were professors compared to 9.4% of white non-UK academic staff. The latest HESA data
+recorded no academic staff in managers, directors or senior officials in 2015/16 (HESA, 2016).
+
+Intersectionality is important here. Experiences and perceptions are complex and not homogenous.
+Ethnicity, class, gender, age and UK/non-UK distinctions as well as other elements of identity also
+impact upon lived experiences.
+
+Among UK higher education staff, women comprised the majority of all ethnic groups apart from the
+other category (46.2%). For both white and BME staff, gender imbalances were more pronounced for
+professors than for non-professors. 70.2% of professors were white men and 20.9% were white women
+(a difference of 49.3 percentage points). In comparison, the statistics for BME academics were
+significantly lower but showed less male-female variance. 7.1% of professors were BME men and 1.8%
+were BME women (a 5.3 percentage point difference) (ECU, 2015).
+
+Last, differential salary rates have been observed between white and BME staff. 31.3% of UK white staff
+earned over £50,000, compared to 28.9% of UK BME staff (HESA, 2016; ECU, 2015).
+
+Purpose and nature of research
+
+Obtaining a PhD is the first step on the core pathway to an academic career. Gaining insight into the
+experiences and perceptions of BME students could shed some light on why we see poor representation
+of BME staff across academic roles and occupational groups. This research complements the recent work
+of the University and College Union (UCU) Black Members’ Standing Committee. Witness, chronicles the
+lived experiences and inequalities faced by black members working in further and higher education. The
+short film production details narratives aligned to experiences of overt and covert racism, discrimination
+and inequality.
+
+Twenty Black and Minority Ethnic (BME) doctoral research students participated in the study.
+Respondents were studying at 16 different universities across the UK and were predominantly from arts
+and humanities disciplines. Respondents were majority female and mainly UK national students.
+Participants completed a semi-structured questionnaire, followed by a semi-structured interview
+undertaken between January and March 2016. Participants were assured that their responses would be
+anonymous.
+
+
+
+                                                                                                         5
+The size of the sample means that the findings are not statistically representative of the BME student
+cohort. The findings do, however, support current discourse and contribute effectively to the field given
+the uniqueness of the research.
+
+Table 1: The sample (20 questionnaires and interviews)
+
+Gender                Male                                              4
+                      Female                                            16
+Ethnic Origin         Asian                                             2
+                      Black                                             8
+                      Black White and Mixed Heritage                    7
+                      Other                                             3
+Age Group             30 and under                                      10
+                      31-40                                             5
+                      41-55                                             5
+Nationality           UK                                                14
+                      Non-UK                                            6
+
+
+
+2.1 Key themes
+
+Appetite for an academic career
+
+Overall, there was a strong appetite for pursuing an academic career post-PhD. All but one respondent
+indicated that they would like to progress to an academic role with respondents highlighting the teaching
+and research opportunities as attractive features of this career. Some respondents felt that their
+background could provide additional inspiration to some of the student cohort. In many cases,
+respondents indicated that they felt that equal access to the Academy did not exist for individuals from a
+minority ethnic background.
+
+    My enjoyment of research and writing hasn’t faded, despite having undergone quite a long and
+    drawn out PhD experience (I’ve been a part time student, self-financing and working alongside
+    my PhD), and I feel I still have a contribution to make to my field. (Respondent,
+    questionnaire).
+
+    I want to further my understanding of my topic area through rigorous research and share this
+    knowledge with undergraduate students through teaching. Importantly I would also like to pursue
+    [an] academic career in order to use my expertise and knowledge collaboratively. (Respondent,
+    questionnaire).
+
+    The paucity of BME academics in my subject fields means that I bring the voice from the margin
+    to these areas, and in the same way that my black supervisors have inspired me, it would be nice
+    to think that I could do that for others. (Respondent, questionnaire).
+
+
+
+                                                                                                        6
+    The stats… are definitely against you as a BME academic… especially if you are a woman… If I
+    am honest… as a black person in academia you have to be open to considering opportunities
+    abroad, particularly if your research areas are aligned to race. (Respondent, questionnaire).
+
+    I think that as an international student… it would be very hard to get a job with the new
+    government regulations with regards to having to earn over £35,000 a year, so this makes it very
+    difficult… So if even you are the best candidate, it means that you will not be given the
+    opportunity and universities would not risk this… (Female, Other, interview).
+
+The importance of support
+
+Whilst the majority of respondents expressed a desire to pursue an academic career, a number of themes
+in relation to perceptions about the ease and attractiveness of this emerged. One such theme was the
+importance of mentoring and supervisory support during PhD study, and through progression to an
+academic role.
+
+Academic careers benefit significantly from formal and informal support structures. In most cases, this
+becomes the navigation point in relation to understanding the topography of academia. The significance
+of such structures tends to be pivotal, as the advice provided becomes the compass point through which
+career progression can be successfully navigated.
+
+    Bespoke mentoring is so important, in helping to minimise challenges faced by aspiring BME
+    academics. It is so important for those structures to be there in place because that mentoring
+    helps in navigating career opportunities and avoiding the difficulties that so many BME
+    academics encounter. (Respondent, questionnaire).
+
+    In academia, my experience tells me… that my white counterparts are provided with more
+    informal mentoring experiences which allow them to develop personal and professional
+    relationships that are particularly fruitful over a period of time. This normally results in getting
+    certain types of opportunities which advance career progression in academia. This type of
+    mentoring… in truth is very rarely made available to BME academics… (Respondent,
+    questionnaire).
+
+Whilst it was recognised, that BME doctoral students do not automatically require a BME mentor,
+respondents alluded to a sense that the paucity of BME academics in academia means that receiving
+appropriate support and bespoke mentorship can sometimes be challenging.
+
+    I think that there is a network of a few black academics that do exist in institutions in Britain…
+    and a lot of them know how difficult it is for black PhD students… so I have been quite
+    fortunate to be able to access the few black academics available for guidance and mentoring.
+    (Male, Mixed Heritage, interview).
+
+Some of the respondents acknowledged that they were fortunate to be in a position where they were able
+to access mentoring and support from a senior BME academic that had traversed the terrain of academia.
+This support was highlighted as particularly beneficial as similarity in experiences of inequality and how to
+navigate this terrain were perceived to be valuable and enlightening for BME doctoral students
+attempting to navigate an academic career.
+
+
+
+
+                                                                                                           7
+    I have been fortunate… particularly in a predominantly all white department, to have two Senior
+    BME Academics in a supervisory capacity who provide me with what I would describe as
+    ‘bespoke’ support, as they are fully aware of the racism that I will encounter in attempting to
+    pursue a career within academia. (Respondent, questionnaire).
+
+Contrastingly, it was also felt by some respondents that senior BME academics were not always
+forthcoming in providing pastoral support or informal career mentorship to BME academics.
+
+    I think the idea that BME academics support one another in the Academy is not always true…
+    personally speaking I have reached out to several prominent senior BME academics and in all
+    honesty they have not always been the most supportive and generous with their time. It is very
+    disappointing especially as you always hear this rhetoric which suggests that as people of colour
+    we need to help each other out in the Academy. (Female, Mixed Heritage, interview).
+
+The respondents had different expectations of their mentors whether in formal or informal capacities,
+and recognised the importance of both of these roles.
+
+Feelings of marginalisation and isolation
+The BME doctoral students that participated in this study spoke about their experiences as a BME
+individual within higher education, and how these experiences had resulted in micro-aggressions and
+differential treatment at times that was hard to quantify but resulted in feelings of marginalisation,
+isolation and exclusion. These experiences were referred to as the subtle undertones associated with
+institutionalised racism and racial discrimination.
+
+    I have been in several situations where students and staff have mentioned to me… that there is a
+    lecture about to take place, presuming that I am the cleaner, and I have to make it explicitly clear
+    that I am the lecturer not ‘the cleaner’ as they would see it… a position and challenge you are
+    continuously confronted with as a BME academic. (Male, Mixed Heritage, interview).
+
+    I quite often get mistaken for a student. This has resulted in possible situations of conflict in
+    regards to the access of resources such as classrooms and staff-only areas. (Respondent,
+    questionnaire).
+
+    Continuous micro-aggressions… affect your confidence over time. You have to have resilience as
+    a BME academic to pull through it because that isolation and marginalisation can happen very
+    quickly in a higher education space. (Female, Mixed Heritage, interview).
+    As a BME person in academia you do feel isolated and conscious that your experiences are not
+    the kind of thing you can freely articulate... You do worry about making people feel
+    uncomfortable and awkward so you keep it to yourself and this internalisation can really dent
+    your confidence in a big way. (Male, Black, interview).
+Career progression for BME doctoral students remains problematic. Alexander and Arday (2015) Bhopal
+and Jackson (2013) and ECU (2013) research indicates that opportunities to pursue a career in academia
+are not readily available to aspiring BME academics. Such disparity undermines university attempts to
+address issues of widening participation within the Academy.
+
+Membership of the ‘club’, ‘the outsider’ and ‘specialist in race’ typecasting
+Many respondents alluded to the sense of feeling like an outsider, due to informal exclusionary practices.
+
+
+                                                                                                             8
+    I'm constantly faced with the kind of bias that is perhaps more insidious than outright, in-your-
+    face, racial slurs - the effect of the subterranean racism , which in some ways is much harder to
+    brush away, is that it chips away at your confidence slowly but surely. Example: I'm a home
+    student, born and raised in the UK, went through the British school system… arrived at my
+    current institution with a Masters with Distinction from a Russell Group University with a certain
+    amount of prestige in my research field. Despite this, all of which was information my supervisor
+    had, after reading a short piece of my written work a few months into my degree, he expressed
+    with undisguised surprise that my 'English was actually quite good. (Respondent,
+    questionnaire).
+
+    I think the biggest barrier, in terms of my own experience, has been a lack of access to the
+    informal networks of influence that do exist in university departments. I don't socialise with my
+    departmental colleagues, simply because aside from the multiple commitments I have on my time
+    as a self-financing student, I'm an observant Muslim, so the pub - the general location of choice -
+    is an environment I'm not entirely at ease in. I realise this doesn't foreclose my social engagement
+    with colleagues, but there is a resistance on their part that is not often factored for. The onus is
+    always placed on me to integrate, yet the academic willing to accommodate in the opposite
+    direction is, I have found, extremely rare. There are, consequently, lots of missed opportunities
+    for networking. This influence of the social element extends, I have observed, to who is and who
+    isn't… allocated teaching experience, or opportunity for collaboration, included in funding bids,
+    etc. (Respondent, questionnaire).
+
+Respondents were studying across a wide range of subject disciplines, however, those who were exploring
+race within their discipline felt that their subject could lead to them being typecast as the academic
+specialising in race. It was felt that this could often present as a limiting factor for career progression.
+
+    The challenges are that as a BME academic… it is hard to get published particularly in Britain
+    where race is not taken as seriously… Therefore it makes it more difficult to get published… we
+    tend to be pigeon-holed because we talk about race… and so therefore we are not seen as
+    sociologists… or ethnographers we are just seen as ‘the race person’… which can be very limiting
+    and narrowing. I think often we are not connected into the wider network of academics… where
+    by proxy we are not invited into editorial boards or become research assistants… and all these
+    types of things… I think these are the major issues. (Male, Mixed Heritage, interview).
+
+A reoccurring theme throughout this study was the challenge presented by often being the only person of
+colour within their university faculty. Several respondents felt that unconscious bias also facilitates
+inequalities which disadvantage marginalised groups within the academy:
+
+    You automatically stick out and if you are writing about race… institutions do not want to hear
+    about it… so you are already rubbing people up the wrong way before even opening your
+    mouth… additionally research grants are not funding race research and that is an issue. (Female,
+    Asian, interview).
+
+    In terms of pursuing a potential career as a BME person… all you can do is work hard and hope.
+    It’s pretty bleak to be honest… which is why I do think we need scholarships for BME students
+    and even then, I think you have to have an awful lot of resilience... I mean I hasten to say this…
+    because the onus should always be on the institution to change, but more pragmatically… the
+    institutions are not looking to change anytime soon. So having resilience and a support network
+    are really the only ways to overcome the challenges ahead as a BME student. (Male, Mixed
+    Heritage, interview).
+
+Access to teaching
+
+
+
+
+                                                                                                               9
+For the majority of respondents who were provided with opportunities to teach, this was considered to
+be pertinent in developing professionally and gaining an academic post. Interactions with undergraduate
+students and the opportunity to inform their understanding were considered important. Some
+respondents emphasised a desire to be provided with more teaching opportunities but were mindful of
+excessive workloads which sometimes conflicted with their desire to want to undertake more teaching
+and engage with students.
+
+    I found the opportunity of teaching undergraduates aiming to become future teachers amazing
+    and impactful. The chance to discuss and learn about attitudes and values related to anti-racist
+    education among other contents was important. To develop critical thinking in the tutorials is an
+    enriching opportunity for interaction between a BME tutor as myself, and majority White
+    students. This is very rewarding. That being said… the workload is problematic in terms of
+    managing all the admin responsibilities, and managing my PhD stuff with this as well can be a bit
+    much sometimes. (Female, Black, interview).
+    I taught for two years during my PhD. Students responded well. I loved it after overcoming the
+    imposter syndrome and feelings of inadequacy. I really felt like this motivation to think actually
+    this is what I really want to be doing… Use my research to impact learning experiences. That
+    seemed really powerful to me. (Female, Mixed Heritage, interview).
+    I have really enjoyed these opportunities and I feel like it’s a real honour to be able to shape the
+    curriculum with the way I teach. I have received brilliant feedback from my students, and I think
+    this is in part because of my commitment to being not just a scholar but a scholar-activist. I bring
+    the 'real world' into my lectures and teaching, which I hope brings the curriculum alive for my
+    students. I am also a very enthusiastic lecturer… The only problem is managing the workloads in
+    terms of admin and marking stuff that can be quite time consuming. (Black, Female,
+    interview).
+
+
+Access to teaching for the respondents was regarded as particularly important, and was considered to be
+an important facet of career professional development. Feelings of tokenism and the idea that teaching
+opportunities for BME doctoral students were often restricted were put forward. It was noted by one
+respondent that opportunities to teach for international students within their institution were limited.
+
+    I am very aware that where I studied… international students do not get any opportunities to
+    teach at all, so as the only home BME student, I wondered whether I had been given the
+    opportunity on merit or as a tokenistic gesture?! Because… before… all of the teaching
+    opportunities were given to home White PhD students. So I do wonder if these opportunities are
+    tokenistic or not?! It kind of makes you doubt yourself. (Female, Black, interview).
+
+
+Similarities and differences: Is the ‘black doctoral’ experience uniform?
+
+Similarity and difference were concepts that were discussed by respondents in relation to their
+experiences as a BME student undertaking doctoral studies. Some interesting themes that might also
+apply to the wider PhD cohort included employment prospects, casualisation, and deemed poor quality
+supervision.
+
+
+
+                                                                                                           10
+    If your academic discipline is race-related, it becomes hard to gain employment in academia, that
+    is not a subjective reference… that is fact and we all know that. But if truth be told I think that
+    the employment thing in academia is difficult for everyone. It is becoming harder to gain
+    employment in higher education, everything is fixed-term or temporary contracts, and that is
+    difficult for everyone not just BME people. So naturally you begin to question the process of
+    undertaking a PhD, because you lose a lot personally and hope that the sacrifices will pay off, but
+    the current climate does not look promising for academic jobs. (Female, Black, interview).
+    My doctoral supervision was very week and lacked direction or understanding. My white
+    counterparts seemed to experience similar issues as my own. I made a direct approach to my
+    current director of studies and [got] additional supervisory support, which is now rigorous and
+    very focused. (Respondent, questionnaire).
+
+
+
+3.1 Conclusion and Recommendations
+
+As already highlighted, it is important to note that the findings, while pertinent, are not generalisable to
+the wider BME student population due to the small number of participants. This snapshot does however
+support the emerging discourse which explores the relationship between BME staff in higher education
+institutions and feelings of marginalisation, inequity and discrimination. Whilst there has been increasing
+focus on widening participation and fair access for students from BME backgrounds, this has not been
+replicated in relation to representation at staff level, or in relation to seniority. This research aims to
+contribute to the field by including the voice and perspectives of PhD students from BME backgrounds.
+
+This report has identified positive attitudes in relation to motivation for pursuing an academic career.
+However, respondents also described a sense of disparity regarding access to career enhancing
+opportunities. Exclusion from informal and formal opportunities to develop professional experience and
+collaborate with experienced academics were highlighted as examples of where BME doctoral students
+felt that covert and discriminatory practices can occur. Additionally, respondents outlined how micro-
+aggressions serve to marginalise respondents leaving them feeling isolated. This research has found that
+participants identified that strong supervisory and mentoring support can help students to navigate the
+PhD experience and progress towards an academic career.
+
+This report puts forward the following recommendations:
+
+       Government should commission research to determine the level and stage of attrition at PhD
+        level, with detailed ethnicity analysis.
+       The higher education sector should collaborate to develop a sector-wide charter setting out what
+        good PhD supervisory and mentoring support looks like.
+       Higher education institutions should establish a system of mentoring by senior academics to
+        support PhD students.
+       Higher education institutions should seek to develop department managers’ skills to address
+        conscious and unconscious bias and recognise and address isolation.
+       Institutions must ensure that they adequately support BME networks at institution level.
+
+                                                                                                          11
+        HEIs must take steps to ensure transparent access to development opportunities across PhD
+         cohorts.
+        Government should establish national funding streams for BME PhD students in all disciplines
+         for institutions can demonstrate good practice as outlined above.
+        Research councils should explore doctoral funding for BME applicants in areas where there is
+         poor representation specifically targeted at ethnic minority individuals who may wish to pursue
+         an academic career.
+
+
+
+
+References
+
+Alexander, C. & Arday, J. (2015) Aiming Higher Race, Inequality and Diversity in the Academy. London: AHRC:
+Runnymede Trust, (Runnymede Perspectives). London, Common Creative: Runnymede Trust,
+(Runnymede Perspectives).
+
+Bhopal, K, Brown, H., & Jackson, J. (2015) Academic Flight: how to encourage black and minority ethnic academics
+to say in UK higher education. London: Equality Challenge Unit (ECU).
+
+Bhopal, K., Brown, H., & Jackson, J. (2015) BME academic flight from UK to overseas higher education:
+aspects of marginalisation and exclusion, British Educational Research Journal, 42, (2): 240-257.
+
+Bhopal, K. (2014) The experiences of BME academics in higher education: aspirations in the face of inequality: Stimulus
+Paper. London: Leadership Foundation for Higher Education.
+
+Equality Challenge Unit (2015) Equality in higher education: statistical report, staff and students, available at:
+http://www.ecu.ac.uk/publications/equality-higher-education-statistical-report-2015/
+
+Equality Challenge Unit (2014) Equality in higher education: statistical report, Part 1: staff. London: ECU.
+
+Equality Challenge Unit (2013) Unconscious bias and higher education: Literature Review. London: ECU.
+
+Equality Challenge Unit (2012) Equality in higher education: statistical report 2012, Part 1: staff. London: ECU.
+
+Gillborn, D. (2008) Racism and education: Coincidence or conspiracy? London: Routledge.
+
+HEFCE (2013) Trends in transition from first degree to postgraduate study: qualifiers between 2002-03 and 2010-11,
+Bristol, available at:
+http://www.hefce.ac.uk/media/hefce/content/pubs/2013/201313/Trends%20in%20transition%20fro
+m%20first%20degree%20to%20postgraduate%20study.pdf
+
+
+
+
+                                                                                                                     12
+HESA (2016) Staff at higher education providers in the United Kingdom 2015/16, Cheltenham, available at:
+http://www.hesa.ac.uk/news/19-01-2017/sfr243-staff
+
+HESA (2014) Staff and Student Statistics 2013/13. London: HESA.
+
+Lander, V. (2011) Race, culture and all that: an exploration of the perspectives of White secondary
+student teachers about race equality issues in their initial teacher education, Race Ethnicity and Education, 14,
+(3): 351-364.
+
+Mirza, H. S. (2008) Race, gender and educational desire: Why black women succeed and fail. London: Routledge.
+
+Shilliam,   R.   (2014)    Black   Academia    in   Britain.   The   Disorder     of   Things,    Available     at:
+https://thedisorderofthings.com/2014/07/28/black-academia-in-britain/
+
+
+
+
+                                                                                                                13
+

@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 22:30:40 GMT
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+x-powered-by: PHP/8.3.30
+x-robots-tag: noindex
+x-content-type-options: nosniff
+access-control-expose-headers: X-WP-Total, X-WP-TotalPages, Link
+access-control-allow-headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+link: <https://snapjournal.co.uk/jason-arday/>; rel="alternate"; type=text/html
+allow: GET
+x-litespeed-cache-control: no-cache
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: d6f35f22fb86cfca8e6acfbd0c932331-bos-edge7
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 1.951
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns="https://catalogue.bnf.fr/namespaces/InterXMarc" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <srw:version>1.2</srw:version>
+  <srw:echoedSearchRetrieveRequest>
+    <srw:version>1.2</srw:version>
+    <srw:query>dc.title all "Une histoire mondiale de la sociologie"</srw:query>
+  </srw:echoedSearchRetrieveRequest>
+  <srw:numberOfRecords>0</srw:numberOfRecords>
+  <srw:diagnostics>
+    <sd:diagnostic xmlns:sd="http://www.loc.gov/zing/srw/diagnostic/">
+      <sd:uri>info:srw/diagnostic/1/16</sd:uri>
+      <sd:details>dc.title</sd:details>
+      <sd:message>Index non supporté</sd:message>
+    </sd:diagnostic>
+  </srw:diagnostics>
+</srw:searchRetrieveResponse>

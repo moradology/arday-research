@@ -1,0 +1,77 @@
+HTTP/2 302 
+date: Fri, 07 Aug 2026 13:40:11 GMT
+content-type: text/plain; charset=utf-8
+content-length: 90
+location: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003253990-17
+x-amzn-requestid: 091e4676-7b40-4a0c-9d97-7589947f8543
+x-amzn-remapped-x-amzn-requestid: eb9d997c-fbf5-493a-81cb-0240933d45a6
+access-control-allow-origin: *
+x-response-time: 556.769ms
+x-amzn-remapped-content-length: 90
+x-amzn-remapped-x-amzn-remapped-date: Fri, 07 Aug 2026 13:40:11 GMT
+x-amzn-remapped-connection: keep-alive
+x-amz-apigw-id: Bu_5RHqNIAMEAXw=
+vary: Accept
+x-powered-by: Express
+x-amzn-remapped-x-amzn-remapped-content-length: 90
+x-amzn-remapped-x-amzn-remapped-connection: keep-alive
+x-amzn-remapped-date: Fri, 07 Aug 2026 13:40:11 GMT
+x-transaction-id: eb9d997c-fbf5-493a-81cb-0240933d45a6
+cf-cache-status: DYNAMIC
+set-cookie: __cf_bm=M3lpDiPQlkap8tNochsrhzKEXlTjhFglEHYjbOcI_IA-1786110010.769105-1.0.1.1-aVud1R.RWMruSDJ25woXCfx2kE116.sb0sGPiKJbKAqyM9QdV19mKitQgR6bs4eapxYlbGEIx5Az21tMHS3HpYLp5X_s5Yn0BhnFDQ1qdiTGPIpkskt0JGuyHCcHYnpG; HttpOnly; SameSite=None; Secure; Path=/; Domain=taylorfrancis.com; Expires=Fri, 07 Aug 2026 14:10:11 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: a276b10f4f9fcc21-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 301 
+date: Fri, 07 Aug 2026 13:40:12 GMT
+content-length: 0
+location: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003253990-17/racialised-construction-black-professional-footballers-engl-ish-football-jason-arday
+vary: accept-encoding
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https: https://www.googletagmanager.com; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' https://www.googletagmanager.com data: https:; media-src 'self' https:; frame-src 'self' data: https:; font-src 'self' data: https:; worker-src 'self' blob: https:
+referrer-policy: no-referrer-when-downgrade
+x-content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' data: https: blob:; media-src 'self' https:; frame-src 'self' data: https: blob:; font-src 'self' data: https:
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-webkit-csp: script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' data: https:; media-src 'self' https:; frame-src 'self' data: https:; font-src 'self' data: https:
+x-xss-protection: 1
+set-cookie: _token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE5OC4yMTAuODkuNzgiLCJjb3VudHJ5X2NvZGUiOiJVUyIsInNjb3BlIjpbInByb2R1Y3RfYWNjZXNzIl0sInIiOlsiQlVTIl0sInRlcnJpdG9yeV90eXBlIjoiY291bnRyeSIsInVzZXIiOnsiX2lkIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIiwidXNlcm5hbWUiOiIxOTguMjEwLjg5Ljc4IiwidXNlclR5cGUiOiJpcCIsImVtYWlsIjoiYW5ub255bW91cyIsImRpc3BsYXlOYW1lIjoiIiwiaGFzQWNjZXB0ZWRUZXJtcyI6ZmFsc2UsIm1GQUF1dGhlbnRpY2F0ZWQiOmZhbHNlLCJvcmdhbml6YXRpb25OYW1lIjpudWxsLCJvcmdhbml6YXRpb25JZCI6bnVsbH0sImFjY2Vzc1R5cGUiOiJhbm9ueW1vdXMiLCJpc3MiOiJodHRwczovL2FjY291bnRzLnRheWxvcmZyYW5jaXMuY29tL2lkZW50aXR5LyIsImV4cCI6MTc4NjExMzYxMywiaWF0IjoxNzg2MTEwMDEzLCJhdWQiOiIxZTRhNzEyN2Q3OWU4MzcyMTRiYTY0MzE1NmUzN2Y1OTlkMGMyY2QxNWM2OWQxYjJkMzFjZGNmOWVlMjI3OWQwIiwic3ViIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIn0.Zrq7n-nhOb84lVRoqJQEYuBIpCmg6Gql6TmBXaC1noGs4QDxmsvfWwMnysaHHS4oaeu0EKYVzUDs7McnpjCz6e5pgvWdp641g-SOqStd1o-3KJf7qB38axVZrNbOuOKtB4Hvrtb1gUfaXpX5brKRfc6dok0osT0VXYXfQtOsiqXc4EvuKmL8i7JLMmYjzlmqbQ6h1X8S70OeDsEZ9OaLvoggpzQx4_0lz-_VwmFryLk2U0OaD8oXR3iPI_1jK7QoPhllDn6x0BJkYhMQX32HpjevWqq1LE0vgP2uYmHXQpSJ0k6YnVP6Vn3hQ9TJgRN4Uv0zZTAufOLSS_TAT3NiRA; Path=/; Secure; SameSite=None
+set-cookie: books_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE5OC4yMTAuODkuNzgiLCJjb3VudHJ5X2NvZGUiOiJVUyIsInNjb3BlIjpbInByb2R1Y3RfYWNjZXNzIl0sInIiOlsiQlVTIl0sInRlcnJpdG9yeV90eXBlIjoiY291bnRyeSIsInVzZXIiOnsiX2lkIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIiwidXNlcm5hbWUiOiIxOTguMjEwLjg5Ljc4IiwidXNlclR5cGUiOiJpcCIsImVtYWlsIjoiYW5ub255bW91cyIsImRpc3BsYXlOYW1lIjoiIiwiaGFzQWNjZXB0ZWRUZXJtcyI6ZmFsc2UsIm1GQUF1dGhlbnRpY2F0ZWQiOmZhbHNlLCJvcmdhbml6YXRpb25OYW1lIjpudWxsLCJvcmdhbml6YXRpb25JZCI6bnVsbH0sImFjY2Vzc1R5cGUiOiJhbm9ueW1vdXMiLCJpc3MiOiJodHRwczovL2FjY291bnRzLnRheWxvcmZyYW5jaXMuY29tL2lkZW50aXR5LyIsImV4cCI6MTc4NjExMzYxMywiaWF0IjoxNzg2MTEwMDEzLCJhdWQiOiIxZTRhNzEyN2Q3OWU4MzcyMTRiYTY0MzE1NmUzN2Y1OTlkMGMyY2QxNWM2OWQxYjJkMzFjZGNmOWVlMjI3OWQwIiwic3ViIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIn0.Zrq7n-nhOb84lVRoqJQEYuBIpCmg6Gql6TmBXaC1noGs4QDxmsvfWwMnysaHHS4oaeu0EKYVzUDs7McnpjCz6e5pgvWdp641g-SOqStd1o-3KJf7qB38axVZrNbOuOKtB4Hvrtb1gUfaXpX5brKRfc6dok0osT0VXYXfQtOsiqXc4EvuKmL8i7JLMmYjzlmqbQ6h1X8S70OeDsEZ9OaLvoggpzQx4_0lz-_VwmFryLk2U0OaD8oXR3iPI_1jK7QoPhllDn6x0BJkYhMQX32HpjevWqq1LE0vgP2uYmHXQpSJ0k6YnVP6Vn3hQ9TJgRN4Uv0zZTAufOLSS_TAT3NiRA; Path=/; Secure; SameSite=None
+set-cookie: books_refresh_token=238d1b4e13c01edef0d02692961385fe; Path=/; Secure; SameSite=None
+set-cookie: refresh_token=238d1b4e13c01edef0d02692961385fe; Path=/; Secure; SameSite=None
+set-cookie: __cf_bm=7bKt8HiRhf5YY1xVumSasYcW9Z0bly95DVjv_73oBI0-1786110011.5445898-1.0.1.1-HhfhNQOqWUpX2pQjP4y0g5vNoAcKg_0223.gt0avnTyCrb0GSSurRxgJ7ZEAW.Q.eeyBHzNvJEm1rrOSMREH5tV3Q6LZomdZ9EL5tK998AnoFcD81iS1GhW6KrVSOZO0; HttpOnly; SameSite=None; Secure; Path=/; Domain=taylorfrancis.com; Expires=Fri, 07 Aug 2026 14:10:12 GMT
+server: cloudflare
+cf-ray: a276b114297b25e1-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Fri, 07 Aug 2026 13:40:13 GMT
+content-type: text/html; charset=UTF-8
+content-length: 52440
+cf-ray: a276b11d688625e1-OMA
+cf-cache-status: HIT
+accept-ranges: bytes
+age: 17
+cache-control: public, max-age=3600
+expires: Fri, 07 Aug 2026 14:40:13 GMT
+last-modified: Fri, 07 Aug 2026 13:39:55 GMT
+server: cloudflare
+vary: accept-encoding
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https: https://www.googletagmanager.com; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' https://www.googletagmanager.com data: https:; media-src 'self' https:; frame-src 'self' data: https:; font-src 'self' data: https:; worker-src 'self' blob: https:
+referrer-policy: no-referrer-when-downgrade
+x-content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' data: https: blob:; media-src 'self' https:; frame-src 'self' data: https: blob:; font-src 'self' data: https:
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-webkit-csp: script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' data: 'unsafe-inline' https:; img-src 'self' data: https:; media-src 'self' https:; frame-src 'self' data: https:; font-src 'self' data: https:
+x-xss-protection: 1
+set-cookie: _token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE5OC4yMTAuODkuNzgiLCJjb3VudHJ5X2NvZGUiOiJVUyIsInNjb3BlIjpbInByb2R1Y3RfYWNjZXNzIl0sInIiOlsiQlVTIl0sInRlcnJpdG9yeV90eXBlIjoiY291bnRyeSIsInVzZXIiOnsiX2lkIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIiwidXNlcm5hbWUiOiIxOTguMjEwLjg5Ljc4IiwidXNlclR5cGUiOiJpcCIsImVtYWlsIjoiYW5ub255bW91cyIsImRpc3BsYXlOYW1lIjoiIiwiaGFzQWNjZXB0ZWRUZXJtcyI6ZmFsc2UsIm1GQUF1dGhlbnRpY2F0ZWQiOmZhbHNlLCJvcmdhbml6YXRpb25OYW1lIjpudWxsLCJvcmdhbml6YXRpb25JZCI6bnVsbH0sImFjY2Vzc1R5cGUiOiJhbm9ueW1vdXMiLCJpc3MiOiJodHRwczovL2FjY291bnRzLnRheWxvcmZyYW5jaXMuY29tL2lkZW50aXR5LyIsImV4cCI6MTc4NjExMzYxMywiaWF0IjoxNzg2MTEwMDEzLCJhdWQiOiIxZTRhNzEyN2Q3OWU4MzcyMTRiYTY0MzE1NmUzN2Y1OTlkMGMyY2QxNWM2OWQxYjJkMzFjZGNmOWVlMjI3OWQwIiwic3ViIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIn0.Zrq7n-nhOb84lVRoqJQEYuBIpCmg6Gql6TmBXaC1noGs4QDxmsvfWwMnysaHHS4oaeu0EKYVzUDs7McnpjCz6e5pgvWdp641g-SOqStd1o-3KJf7qB38axVZrNbOuOKtB4Hvrtb1gUfaXpX5brKRfc6dok0osT0VXYXfQtOsiqXc4EvuKmL8i7JLMmYjzlmqbQ6h1X8S70OeDsEZ9OaLvoggpzQx4_0lz-_VwmFryLk2U0OaD8oXR3iPI_1jK7QoPhllDn6x0BJkYhMQX32HpjevWqq1LE0vgP2uYmHXQpSJ0k6YnVP6Vn3hQ9TJgRN4Uv0zZTAufOLSS_TAT3NiRA; Path=/; Secure; SameSite=None
+set-cookie: books_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE5OC4yMTAuODkuNzgiLCJjb3VudHJ5X2NvZGUiOiJVUyIsInNjb3BlIjpbInByb2R1Y3RfYWNjZXNzIl0sInIiOlsiQlVTIl0sInRlcnJpdG9yeV90eXBlIjoiY291bnRyeSIsInVzZXIiOnsiX2lkIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIiwidXNlcm5hbWUiOiIxOTguMjEwLjg5Ljc4IiwidXNlclR5cGUiOiJpcCIsImVtYWlsIjoiYW5ub255bW91cyIsImRpc3BsYXlOYW1lIjoiIiwiaGFzQWNjZXB0ZWRUZXJtcyI6ZmFsc2UsIm1GQUF1dGhlbnRpY2F0ZWQiOmZhbHNlLCJvcmdhbml6YXRpb25OYW1lIjpudWxsLCJvcmdhbml6YXRpb25JZCI6bnVsbH0sImFjY2Vzc1R5cGUiOiJhbm9ueW1vdXMiLCJpc3MiOiJodHRwczovL2FjY291bnRzLnRheWxvcmZyYW5jaXMuY29tL2lkZW50aXR5LyIsImV4cCI6MTc4NjExMzYxMywiaWF0IjoxNzg2MTEwMDEzLCJhdWQiOiIxZTRhNzEyN2Q3OWU4MzcyMTRiYTY0MzE1NmUzN2Y1OTlkMGMyY2QxNWM2OWQxYjJkMzFjZGNmOWVlMjI3OWQwIiwic3ViIjoiNmE3NWUwMmE2NDFkZDk3NjNmZjc1MGVmIn0.Zrq7n-nhOb84lVRoqJQEYuBIpCmg6Gql6TmBXaC1noGs4QDxmsvfWwMnysaHHS4oaeu0EKYVzUDs7McnpjCz6e5pgvWdp641g-SOqStd1o-3KJf7qB38axVZrNbOuOKtB4Hvrtb1gUfaXpX5brKRfc6dok0osT0VXYXfQtOsiqXc4EvuKmL8i7JLMmYjzlmqbQ6h1X8S70OeDsEZ9OaLvoggpzQx4_0lz-_VwmFryLk2U0OaD8oXR3iPI_1jK7QoPhllDn6x0BJkYhMQX32HpjevWqq1LE0vgP2uYmHXQpSJ0k6YnVP6Vn3hQ9TJgRN4Uv0zZTAufOLSS_TAT3NiRA; Path=/; Secure; SameSite=None
+set-cookie: books_refresh_token=ed5841716ec58fc0b6bba69729954d06; Path=/; Secure; SameSite=None
+set-cookie: refresh_token=ed5841716ec58fc0b6bba69729954d06; Path=/; Secure; SameSite=None
+set-cookie: __cf_bm=rQk28jVi.eBGQlTSHQqbbrmce7NozoKX5fW_IGbAo7s-1786110013.0217702-1.0.1.1-hvh_dv4ApXCz8NFBsrcy0OldtZ1IgoFLilPiUZ.5fMEa2Wg7a70zGJx_SVK3BPV4hpZITGCR4x7NPGT2hTNJ3dGOh9mxziWVMq5Z8Hs1utNT_Nszip_cCoat6FSqYNcD; HttpOnly; SameSite=None; Secure; Path=/; Domain=taylorfrancis.com; Expires=Fri, 07 Aug 2026 14:10:13 GMT
+alt-svc: h3=":443"; ma=86400
+

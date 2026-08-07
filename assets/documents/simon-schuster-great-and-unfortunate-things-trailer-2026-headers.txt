@@ -1,0 +1,33 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-content-type-options: nosniff
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Thu, 06 Aug 2026 15:36:59 GMT
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+strict-transport-security: max-age=31536000
+x-frame-options: SAMEORIGIN
+content-security-policy: base-uri 'self';object-src 'none';script-src 'nonce-7mL0JgH1nNVtMHqHFCZfeg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';report-uri https://csp.withgoogle.com/csp/youtube_main/strict
+content-security-policy: require-trusted-types-for 'script'
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+origin-trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+origin-trial: AiDEBptUfVeO93q48VdVMe/ubupazdAl8AaHP+NBzdnW8quUcHdzJUyGSfrmtpKJu7EOvwRp9ug2rEo3XU+WMAMAAAB2eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJEZXZpY2VCb3VuZFNlc3Npb25DcmVkZW50aWFsczIiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlfQ==
+cross-origin-opener-policy: same-origin-allow-popups; report-to="youtube_main"
+accept-ch: Sec-CH-Viewport-Width, Sec-CH-DPR, Device-Memory
+reporting-endpoints: crash-reporting="/web-reports?context=eJwNy39MlHUAx3Ee3hujO7m7557nnuf5fh_bGpGl7fTEHSsjLSk1lYvlLBcqHESO4ld0nLiZtX4s2ZCpwzVCpa2NmMurlanJCFcjmsNYRyvih5mFzkVQFypGWM8fr30-f3w-rjMZOetrlG331ivNa2PKjc6YcqI7pkzeFVeKs-NK1c-NyjHf1vTGaRfF97sZ2uBmMuLmxW1uTn3gpvsTN-NX3YQbFtDTlkX0chZdn3so6vdw0DE17yHvYS_xCi_uuJd3m7wsf8eLed5LT46PlYU-ku0-xm76iIZVWhxHtqiMl6gU7lTZs0flTceaFpXe4yp2QmXhNZXLsyr_bfBTWOxnvtnPQ0mn2xrBsMaiTRqzT2q4ajUmXtNIdGqsHdYovqRxe1qjNaXx75xGyqtTZOqUxXT2tukk3tOZ7NepGdCpHtGpu6pzNC3AY0aAu60Ag3aAdasDPLo5QKQxgHI4wIULAc6qBnPLDKLLDTIjBgfKDQaqDGZfNuh63aC13-BDR9s1g5l0k3iWybnFJoknTE48a3Jzh8mtRpOpJpO3vjDJ7DW5-KXJaJ9J9ZiT4ybJlMn83yb7Z02Uf0wKXBZFloXIt2jdajFQarGryeKQ49cWi9JjFskuC_-nFk3fWPR9a_HTDxYtP1oowxYdjol0QQGCcxmCsx7BfX5BX66g-0HBR_mC1asEI2sEM5sF_VEBLwjeeEnwfr1gdK_gz1cFNxyP7Bd0tgtSCUHmScHUKcG-buf_lUD_WvDdsKBjxPlcFNxxSbDzF0Glo-uKoHpSMDjtbFMCmSbJd-hZktE7JdwjOb9E8vgyyXrHRkcoXzIYkex7WqI8I-krkfRUS96uleQ1SFbsloQdrzRLth-QHDoqiXRI6j6T7OiRHBySnB6TzP0h-WtGMnFdUnBLkuOyecpjs9Bns0612eg4nm3TvNhGW2JzfYVN6Uqbj1fZ3N5u8_uitAz_gsz275NDGb7h3670kh3cXdsQayirWLqroiz4fH1tTSxYUfNcsLy-MlZZHq0qyQ3l5oUeCOUuDYVL6kL_A7wMAkE"
+document-policy: include-js-call-stacks-in-crash-reports
+server: ESF
+x-xss-protection: 0
+set-cookie: __Secure-YNID=20.YT=aUMb2j-gKT65MIwzZtMAC1Iel3yDhsEc-OOwjlMil5nSea3Fdg07kkJ5RB9Gpd3rvFNUQlbW6GRKzDSlSwCp-xnbEYc57J79o9qPSQlQrh6ssQ9slQDjcgq1IKo8tWShwsGLvqDr6fc433I8TT0yLZvmxWlk49itSJOVZ-Ju0EM0ZGDqtwVGeepWV0oG4-5wbAw5jtVnVhqwS60J8fMmVmcSBgj3L7ypXFbO9AF7YOWDurZgPQKyH_JsiH6Sez6mk2ngulbHKk_201LDHYB8IHwsn4qmrzz9PljlPpIzrWP1S0sn1UoCHSjhE2_62DAnkwhuTMkAYc_dc00cWjLpXA; expires=Tue, 02-Feb-2027 15:36:59 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; SameSite=none
+set-cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 06-Aug-2026 16:06:59 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=e69WLYl32-4; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: __Secure-YEC=; Domain=.youtube.com; Expires=Fri, 10-Nov-2023 15:36:59 GMT; Path=/; Secure; HttpOnly; SameSite=lax
+set-cookie: VISITOR_INFO1_LIVE=Qb7JFrp_hkw; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:36:59 GMT; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_PRIVACY_METADATA=CgJVUxIEGgAgMg%3D%3D; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:36:59 GMT; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: __Secure-ROLLOUT_TOKEN=CJ2hwYb3zcetjwEQlfOfxaqMlgMYlfOfxaqMlgM%3D; Domain=youtube.com; Expires=Tue, 02-Feb-2027 15:36:59 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-CH-Viewport-Width, Sec-CH-DPR, Device-Memory,Accept-Encoding
+

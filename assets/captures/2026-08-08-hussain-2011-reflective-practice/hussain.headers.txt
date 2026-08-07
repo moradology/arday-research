@@ -1,0 +1,15 @@
+HTTP/2 200 
+content-type: application/pdf
+content-length: 78107
+date: Fri, 07 Aug 2026 05:58:06 GMT
+x-amz-meta-cb-modifiedtime: Mon, 04 Jun 2012 23:58:51 GMT
+last-modified: Fri, 02 Aug 2013 07:59:05 GMT
+x-amz-version-id: null
+etag: "11c8f8b0da2b8e2502586c1c6fec236e"
+server: AmazonS3
+x-cache: Hit from cloudfront
+via: 1.1 6dfbdbb536476295b00dcf3a83fdf9fc.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P4
+x-amz-cf-id: w0JHaK06QVZ0pn3LlJLZSktQJ2t3lm0IfimonfxnIYwXA7ZjLJlMMg==
+age: 44720
+

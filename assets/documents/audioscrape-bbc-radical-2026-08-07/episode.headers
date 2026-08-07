@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 06:09:55 GMT
+content-type: text/html; charset=utf-8
+access-control-allow-origin: *
+access-control-expose-headers: *
+cache-control: public, max-age=604800
+permissions-policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: origin, access-control-request-method, access-control-request-headers
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-ratelimit-limit: 350
+x-ratelimit-remaining: 350
+x-ratelimit-reset: 44
+x-request-id: 612734e1e11b4f50aa894b1bdb14eddc
+accept-ranges: bytes
+age: 24
+last-modified: Fri, 07 Aug 2026 06:09:30 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a2741d839d529d4c-MCI
+

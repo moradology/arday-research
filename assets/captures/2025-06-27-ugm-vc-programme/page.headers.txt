@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 22:05:09 GMT
+Server: Apache
+vary: X-Forwarded-Protocol,Accept-Encoding
+cache-control: must-revalidate, max-age=60
+expires: Thu, 06 Aug 2026 22:06:09 GMT
+etag: "1254c4829fa4ae809219a7b736379d6a"
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

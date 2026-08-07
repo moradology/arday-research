@@ -1,0 +1,19 @@
+HTTP/2 200
+server: nginx/1.26.3
+date: Fri, 07 Aug 2026 16:15:51 GMT
+content-type: application/pdf
+content-length: 4140394
+content-disposition: inline; filename="Youth_Unemployment_Select_Committee_Report_YzsPn6D.pdf"
+last-modified: Wed, 07 Dec 2022 13:40:59 GMT
+content-encoding: None
+content-security-policy: default-src 'none'
+x-content-type-options: nosniff
+etag: "6d98d32e0eefc4f9216c75ef5c47b39dc30a8591"
+strict-transport-security: max-age=3600; includeSubDomains
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+x-frame-options: DENY
+expires: Sat, 07 Aug 2027 16:15:51 GMT
+cache-control: max-age=31536000
+x-forwarded-proto: https
+x-forwarded-port: 443

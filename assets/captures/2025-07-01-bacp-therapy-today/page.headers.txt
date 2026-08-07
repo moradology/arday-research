@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: application/pdf
+date: Thu, 06 Aug 2026 22:34:51 GMT
+server: Microsoft-IIS/10.0
+cache-control: public, must-revalidate, max-age=31535997
+expires: Fri, 06 Aug 2027 22:34:49 GMT
+set-cookie: ARRAffinity=88ea55c0d5afb92bb521ae2671cc82ccf74bcf1a927122cb7bb0b44687e0af8e;Path=/;HttpOnly;Secure;Domain=www.bacp.co.uk
+set-cookie: ARRAffinitySameSite=88ea55c0d5afb92bb521ae2671cc82ccf74bcf1a927122cb7bb0b44687e0af8e;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.bacp.co.uk
+vary: Accept-Encoding
+content-length: 8805819
+strict-transport-security: max-age=31536000; includeSubDomains
+request-context: appId=cid-v1:b23f9e3c-8bb0-4119-bbc7-4984f9253b68
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+content-security-policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; img-src  * data:;connect-src * wss:
+

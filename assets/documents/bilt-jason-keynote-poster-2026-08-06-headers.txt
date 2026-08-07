@@ -1,0 +1,20 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 17:16:15 GMT
+content-type: image/png
+content-length: 422953
+last-modified: Thu, 06 Aug 2026 17:16:15 GMT
+expires: Sun, 06 Aug 2028 05:16:15 GMT
+cache-control: public, max-age=63115200
+link: <https://bilt.online/wp-content/uploads/2024/05/Call-for-contributions-6.png>; rel="canonical"
+x-content-type-options: nosniff
+etag: "a82c99964695d1e4"
+x-bytes-saved: 741307
+vary: Accept
+alt-svc: clear
+x-nc: MISS den 4
+server-timing: a8c-cdn, dc;desc=den, cache;desc=MISS;dur=1320.0
+access-control-allow-origin: *
+access-control-allow-methods: GET, HEAD
+timing-allow-origin: *
+

@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 18:40:21 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a2702b63ffa399e6-OMA
+cf-cache-status: HIT
+cache-control: no-store,no-cache
+last-modified: Thu, 06 Aug 2026 18:40:21 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: cf-device-type, accept-encoding
+cachekey: https://www.news24.com/you/news/international/he-couldnt-speak-until-he-was-11-now-jason-arday-is-the-youngest-black-professor-at-the-university-of-cambridge-20230313.cf-device-type=desktop
+cf-device-type: desktop
+cf-worker-referrer: null
+content-security-policy: frame-ancestors 'none';
+feature-policy: accelerometer 'none';autoplay 'none';camera 'none';encrypted-media 'none';gyroscope 'none';magnetometer 'none';microphone 'none';midi 'none';payment 'none';picture-in-picture 'none';publickey-credentials-get 'none';sync-xhr 'none';usb 'none';xr-spatial-tracking 'none';
+referrer-policy: strict-origin-when-cross-origin
+tf_version: v17-w2-native
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-permitted-cross-domain-policies: none
+x-robots-tag: all,max-image-preview=large,max-snippet=-1,max-video-preview=-1
+alt-svc: h3=":443"; ma=86400
+

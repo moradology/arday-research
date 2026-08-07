@@ -1,0 +1,19 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 102107
+date: Thu, 06 Aug 2026 16:47:52 GMT
+access-control-allow-credentials: true
+x-amzn-requestid: 4998657f-feee-4f42-a19f-e00b504a9226
+last-modified: Tue, 09 Sep 2025 01:03:45 GMT
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type, Authorization
+x-amz-apigw-id: BsIc4Gt_LPEEDSg=
+cache-control: max-age=31536000,public
+access-control-allow-methods: GET
+x-amzn-trace-id: Root=1-6a74bab8-1a65e8f722287cc04bda9e20
+x-cache: Hit from cloudfront
+via: 1.1 2401d60849dc491e2e11e864337f7974.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P9
+x-amz-cf-id: H92iy2l-L6vsKftp9Cs-feoSG2dTHLzdzxSYQEIgoEvTONT2b1u-fg==
+age: 12433
+

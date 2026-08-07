@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 07 Aug 2026 04:54:02 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 205270
+Connection: keep-alive
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: -1
+Set-Cookie: shell#lang=en; path=/; secure; SameSite=None
+Set-Cookie: ASP.NET_SessionId=mfnwu1blg5o4u3eyzja1o2p4; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: SC_ANALYTICS_GLOBAL_COOKIE=872664f5cd4345eda68882dfc01f8bf6|False; domain=Ljmu; expires=Mon, 04-Aug-2036 04:54:01 GMT; path=/; secure; HttpOnly; SameSite=None
+Accept-CH: Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Robots-Tag: all
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: geolocation=(*), microphone=(self), camera=(self), fullscreen=(self), payment=(self)
+Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://*.fontawesome.com https://*.google.com https://*.gstatic.com https://*.googletagmanager.com https://*.googleapis.com; style-src 'self' 'unsafe-inline'; font-src 'self' https://*.fontawesome.com/; img-src 'self' https://*.googletagmanager.com data:; frame-src 'self' https://*.youtube.com; connect-src 'self' https://*.fontawesome.com/ https://*.googleapis.com https://*.google-analytics.com https://*.googletagmanager.com;
+

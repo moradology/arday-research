@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 21:36:10 GMT
+content-type: image/jpeg
+content-length: 178672
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cache-control: public, max-age=604800
+expires: Thu, 13 Aug 2026 21:36:10 GMT
+last-modified: Wed, 16 Jul 2025 14:21:48 GMT
+accept-ranges: bytes
+server: cloudflare
+vary: User-Agent
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: MISS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tg5IxxAGJhetQ8bmVBIZe4uGXyKCsfCBeNVcQ48Ktds4z3wzO8vxPaijXa4wwq2lF19OCCsj3veBrCFSOYEEKFw56qIPi7SsM%2BIorvnIqvTTAEPMWDYw5AurOYnQCi6Lj6RQ508lemU%3D"}]}
+cf-ray: a2712cf11e5b09eb-OMA
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 06 Aug 2026 17:03:26 GMT
+Server: Apache
+Location: https://academiclibrariesnorth.ac.uk/sites/default/files/NoWAL%20Conference%202019%20-%20Delegate%20Handbook.pdf
+Content-Length: 320
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 404 Not Found
+Date: Thu, 06 Aug 2026 17:03:26 GMT
+Server: Apache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Link: <https://academiclibrariesnorth.ac.uk/wp-json/>; rel="https://api.w.org/"
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

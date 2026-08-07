@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 18:30:45 GMT
+content-type: application/pdf
+cache-control: no-cache
+content-security-policy: script-src 'none'
+pragma: public
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+set-cookie: JSESSIONID=CEC2EB5FC5E97FDCBBD2C107E4DB536F; Path=/ws; Secure; HttpOnly; SameSite=None
+set-cookie: __cf_bm=NN1AwWwlJSW9YUOGgRO2af1kDIys25srzAfiIGdrgqE-1786041045.4388313-1.0.1.1-pBACf4k3qas9a2s.3HTVaxQSwiIoa6Kzg243ii2Fjn.OP6tLnZqAzu7ybeVVKKDF_aIrmaUP7XK4Bj5L3BKgpwoUe8uni3lRvUijXIP2jMlSpN0CxKCpr6qKsubS0A3R; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk; Expires=Thu, 06 Aug 2026 19:00:45 GMT
+set-cookie: _cfuvid=r6x2kdRcIw4RLe1QfSpVbVIp5Pk0KLE5IkFf0zS69.c-1786041045.4388313-1.0.1.1-HzPQrqvEnmS6xmB20TtKLhbAh8mCwAPkA49VHp4uQ3o; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk
+cf-ray: a2701d55fb6f6e39-OMA
+alt-svc: h3=":443"; ma=86400
+

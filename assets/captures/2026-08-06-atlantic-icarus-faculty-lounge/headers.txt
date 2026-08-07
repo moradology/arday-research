@@ -1,0 +1,34 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 23:41:40 GMT
+content-type: text/html; charset=utf-8
+cache-control: s-maxage=180
+x-is-metered: 1
+x-meter-content: 688206
+x-meter-expires: Tue, 01 Sep 2026 00:00:00 GMT
+cf-cache-status: DYNAMIC
+via: 1.1 varnish, 1.1 varnish
+age: 180
+x-served-by: cache-iad-khef600073-IAD, cache-den-kden1300058-DEN
+x-cache: HIT, HIT
+x-cache-hits: 9, 1
+x-timer: S1786059701.862129,VS0,VE8
+set-cookie: atltestbucketv1=1; Domain=.theatlantic.com; Path=/; Max-Age=7776000
+set-cookie: atl_trackid=c018883d-b208-4395-adf9-8e16123378ff; Max-Age=31536000; Path=/; Secure; SameSite=Lax; Domain=.theatlantic.com
+set-cookie: is_gdpr=0; Domain=.theatlantic.com; Path=/; Max-Age=3600
+set-cookie: kppid=a5ge8vufp2x; Path=/; Max-Age=31536000; Domain=.theatlantic.com
+set-cookie: articleViews=[688206]; Domain=.theatlantic.com; Path=/; expires=Tue, 01 Sep 2026 00:00:00 GMT
+set-cookie: atl_uuid=dabd1ba1-6b84-43d2-9538-95b4f00b589a; Path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Domain=.theatlantic.com
+set-cookie: blaize_session=f8486239-a6fe-45a2-accd-2293e2022e75; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
+set-cookie: blaize_tracking_id=f8486239-a6fe-45a2-accd-2293e2022e75; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
+set-cookie: __cf_bm=8u0iVBDjkbNzVv5jQYNODetSQlO3r7.lv31SRvmXNJE-1786059700.8524177-1.0.1.1-KZnrfqZN1cYIBGXAktgN_CFHcXv54wEdDG775aQjo2ioW0tg48r9z3fyCIuM8RrsFyhPvYzimu8W2goa9f_71CYGCcCbQ6ZwN.9ffgNHz53koC0wFHdi_93KLXULagbH; HttpOnly; SameSite=None; Secure; Path=/; Domain=theatlantic.com; Expires=Fri, 07 Aug 2026 00:11:40 GMT
+vary: X-JWT-State, X-JWT-PaymeterAccess, X-JWT-AdFree, X-Socialbot, Accept-Encoding, x-is-gdpr,Origin
+x-is-gdpr: 0
+x-jwt-state: Anonymous
+state: HIT-CLUSTER
+x-robots-tag: bingbot: noarchive
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-encoding: gzip
+server: cloudflare
+cf-ray: a271e4ca5f2e25e1-OMA
+

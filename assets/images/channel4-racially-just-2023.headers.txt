@@ -1,0 +1,13 @@
+HTTP/2 200
+content-type: image/jpeg
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+date: Fri, 07 Aug 2026 16:22:07 GMT
+expires: Sat, 07 Aug 2027 16:22:07 GMT
+last-modified: Fri, 01 Jan 2016 00:00:00 GMT
+x-powered-by: BC
+x-powered-from: gantry
+x-cache: Miss from cloudfront
+via: 1.1 f649a7c6e5fc5f853b7307be97ce7892.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P13
+x-amz-cf-id: jZDFwX-DONkvKRBXU0lJet7Xot7CDmces21OUG_IV5TPIjIkXC9kvQ==

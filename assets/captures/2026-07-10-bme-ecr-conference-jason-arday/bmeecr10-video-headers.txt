@@ -1,0 +1,33 @@
+HTTP/2 200 
+server: Play
+content-type: video/mp4
+cache-control: public, max-age=86400
+x-ambry-blob-size: 3310174
+content-disposition: inline; filename="output_progressive_6af655fe-8804-420b-b45a-cdb614f95ea1.mp4"
+x-li-fabric: prod-lva1
+x-content-type-options: nosniff
+x-li-pop: prod-lva1-x
+x-li-proto: http/1.1
+access-control-expose-headers: X-CDN, X-CDN-Client-IP-Version, X-CDN-Proto, X-Cache, X-CDN-RCODE
+x-li-uuid: AAZYZ2jrypLqzg4uDIHBww==
+accept-ranges: bytes
+age: 0
+date: Thu, 06 Aug 2026 21:17:05 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000093-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786051025.421256,VS0,VE61
+x-content-type-options: nosniff
+x-aka-age: 1786051025
+access-control-allow-origin: *
+timing-allow-origin: *
+x-cdn-proto: HTTP2
+access-control-allow-headers: CMCD-Request,CMCD-Object,CMCD-Status,CMCD-Session
+x-cdn: FSLY
+vesion: 64
+qt: nKU4PlK42tbs9OXVhsXrv0C1kN0AqzuscMjpyBEJuu4
+hm: nKU4PlK42tbs9OXVhsXrv0C1kN0AqzuscMjpyBEJuu4
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 3310174
+

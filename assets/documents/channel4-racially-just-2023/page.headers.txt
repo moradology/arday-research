@@ -1,0 +1,19 @@
+HTTP/2 200
+content-security-policy: default-src 'self' *.channel4.com; img-src * data: https://*.akstat.io https://*.google-analytics.com https://*.googletagmanager.com players.brightcove.net *.boltdns.net *.akamaihd.net *.brightcove.com; font-src 'self' data: *.channel4.com; style-src 'self' 'unsafe-inline' *.channel4.com players.brightcove.net; script-src 'self' 'unsafe-inline' *.channel4.com static.c4assets.com assets.adobedtm.com https://*.go-mpulse.net https://*.googletagmanager.com blob: 'unsafe-eval' players.brightcove.net vjs.zencdn.net; frame-src 'self' *.demdex.net *.channel4.com static.data.c4news.com substack.com *.substack.com www.googletagmanager.com players.brightcove.net; connect-src 'self' *.channel4.com *.demdex.net *.optimizely.com https://*.akstat.io https://*.go-mpulse.net https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com players.brightcove.net *.brightcove.com *.brightcovecdn.com edge.api.brightcove.com *.akamaihd.net *.boltdns.net; media-src 'self' *.channel4.com *.libsyn.com blob: *.brightcove.com *.brightcovecdn.com *.boltdns.net *.llnw.net *.llnwd.net *.akafms.net *.akamaihd.net; frame-ancestors 'self'
+content-type: text/html; charset=UTF-8
+link: <https://all4nav.channel4.com>; rel=preconnect; crossorigin,<https://fonts.channel4.com>; rel=preconnect; crossorigin,<https://players.brightcove.net>; rel=preconnect; crossorigin,<https://secure.brightcove.com>; rel=preconnect; crossorigin
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-akamai-transformed: 9 9534 0 pmb=mRUM,2
+cache-control: public, max-age=300
+date: Fri, 07 Aug 2026 16:21:06 GMT
+content-length: 32936
+server-timing: cdn-cache; desc=MISS
+server-timing: edge; dur=103
+server-timing: origin; dur=218
+strict-transport-security: max-age=31536000
+set-cookie: _abck=901733AAC337E1E576AF23C017BEF0D4~-1~YAAQ6xjQF9CyPL2fAQAAED0H3RCYsCEaXbzpYeuplEUgcIWmKCbrbOeWMj3ydP968pJsjOoQmTBjSLozBuNEkrcU+g9jIVV1yCGuslMJYQosBQatmHVcFr+AkDhf8R5egkRQekzv7p3R1ugUHqIEtRMoHlFcp2/XTiMeC031YFq4wOo6s+lfH6yrXqAVHPDfWiz6lNciC1nrQKZi2LdtKaOZX2PBIkJSrfUdm5enMeCSkXqSjnYiylmI0V40iLw06tv255WJNAqaJlCDHzXcgtje/8e2hrMFUfI86bn8AwW62WXdicQMHpnFMSmxSQUMg+kGi1qyDBLqi6Tqj+hmsdgaogSmXpjQLSvcpb2Z1As4ymPCPS2LsdN6MHGU7W2WEgcgBdJXLfoxnhKQpuhy7Dkgadj5Cugn6/LewXf90KTuMTSNZrBWrL8bOV1v46nFkAQOPAd5Xg==~-1~-1~-1~-1~-1; Domain=.channel4.com; Path=/; Expires=Sat, 07 Aug 2027 16:21:06 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=419A336FB5F6CC233D39BD7C24E85E2C~YAAQ6xjQF9GyPL2fAQAAED0H3QAc1JVlz9dW3bs1fbz8LNRBXsaYWwGujx9tKHttZ+H/c4cr80VysG2yAU4PJFV1I7CUD7wFBVC5rL1blbS8LBMs3STZ7WwEiTfWqX9Dqf6VSMm3vfqEDvn1Y57oB+JZvIXERHvV7ZsKXt3URJeZflMi58lDnkHUPPM5VrUBvkJJmwXqLsDVKhwiyjHwTnjuLCh6hUzzA3QvBijIYxbkZECvoJkHw1MqO+ySpIO8NLvpctSD4MjV6H8EWJfZryw245EVjE2oBxVme4my+eF4hVWsyEfO3VQW4crwoyzQeUtS3lHr7QVa54QvFBKiMhOMwRDHf3XCsy8+tvwPcxCx6ob9kj+N~3683897~3686726; Domain=.channel4.com; Path=/; Expires=Fri, 07 Aug 2026 20:21:06 GMT; Max-Age=14400
+server-timing: ak_p; desc="1786119666596_399513835_2961328049_32027_10107_26_30_15";dur=1

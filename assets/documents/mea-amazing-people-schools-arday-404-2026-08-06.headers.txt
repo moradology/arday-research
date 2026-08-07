@@ -1,0 +1,16 @@
+HTTP/2 404 
+date: Thu, 06 Aug 2026 16:28:28 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+server: Apache
+x-powered-by: PHP/8.3.33
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+link: <https://meainfo.amazingpeopleschools.com/wp-json/>; rel="https://api.w.org/"
+x-provided-by: StackCDN
+x-endurance-cache-level: 2
+x-nginx-cache: WordPress
+x-origin-cache-status: MISS
+x-cdn-cache-status: MISS
+x-via: ORD1
+

@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 20:13:50 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+link: <https://www.spiked-online.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.spiked-online.com/wp-json/wp/v2/posts/235939>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.spiked-online.com/?p=235939>; rel=shortlink
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-fastcgi-cache: HIT
+permissions-policy: geolocation=(), microphone=(), camera=()
+cf-cache-status: DYNAMIC
+referrer-policy: strict-origin-when-cross-origin
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zp%2B6oVY1ZaM0KcLja%2BKhNlWqJigL2IVzOQMSQi6cWmibHGnmBuFQB1qnSyluAk%2BCcuuhZEX81dIad05PRrQSrxNZ9GWtvisZtTLWIKGSMP1HGKt6oFYJus7VubdPs5EQWUc5ABBL%2Bw%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: br
+cf-ray: a278f1b5187dd94a-ORD
+

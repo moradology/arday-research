@@ -1,0 +1,14 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 20:25:12 GMT
+content-type: image/webp
+content-length: 56938
+onion-location: http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/z4dXB/647352c7d792741a74c162a2aa5c63ab76906869.webp
+access-control-allow-origin: *
+etag: 647352c-7d79-2741a74c
+last-modified: Fri, 24 Jul 2026 14:27:55 GMT
+cache-control: maxage=3600
+expires: Thu, 06 Aug 2026 21:25:12 GMT
+set-cookie: qki=10711528253496361589; Max-Age=3600; Domain=.archive.ph; Path=/
+accept-ranges: bytes
+

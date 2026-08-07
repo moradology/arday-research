@@ -1,0 +1,1439 @@
+BAME Awarding Gap Project
+Evaluation Report
+May 2023
+                                                                                            BAME Awarding Gap Project
+2   3
+                                                                                            Evaluation Report – July 2023
+
+
+
+
+        Introduction
+
+        This report summaries and evaluates the
+        work of UCL’s BAME Awarding Gap Project
+        from 2017 to date, and gives a background
+        on the overall project whilst examining
+        individual strands of the project in detail.
+
+        The strands of the project forming sections of this report includes:
+
+
+
+
+        1.    Introduction to Student Success                                        p6
+
+        2.    Project Background                                                     p8
+
+        3.    Project Governance and Institutional Engagement                        p 16
+
+        4.    Faculty Leads                                                          p 20
+
+        5.    Student Engagement                                                     p 24
+
+        6.    BAME Awarding Gap Staff Fund                                           p 34
+
+        7.    Training, Resources and Events                                         p 38
+
+        8.    Next Steps                                                             p 46
+
+        9.    Closing Remarks                                                        p 48
+
+        10.   Acknowledgements                                                       p 50
+
+
+
+
+        Each of the above sections will include lessons learned through undertaking this
+        work, as well as a summary of planned next steps. The report includes the use
+        of various acronyms and terminology, which are explained in the glossary. The
+        project acknowledges that some of these acronyms and terms are contested such
+        as BAME and BME, which risk homogenising ethnic groups and being divisive and
+        exclusionary. Acronyms such as BAME have however been adopted institutionally,
+        following wider consultation with colleagues and students at UCL.
+                                                                                                                                                                                               BAME Awarding Gap Project
+4                                                                                                          5
+                                                                                                                                                                                               Evaluation Report – July 2023
+
+
+
+
+    Glossary
+
+    Attainment Gap       An attainment gap refers to the disparities in academic outcomes between              BAME                    The term BAME is used as an umbrella definition for all ethnic groups, excluding
+                         different groups of students. The term attainment gap is controversial as             (Black, Asian and       white ethnic groups.
+                         it implies a student deficit. E.g. disparities are the result of students not         Minority Ethnic)
+                         ‘attaining’, rather than acknowledging the institutional and systemic barriers
+                         to success. The higher education sector is moving away from using the term
+                         attainment gap, which is commonly being referred to as an ‘awarding gap’. The         BME                     The term BME is used as an umbrella definition for all ethnic groups, excluding
+                         term attainment gap however continues to be applied with more prevalence in           (Black and Minority     white ethnic groups.
+                         primary and secondary education.                                                      Ethnic)
+
+
+    Awarding Gap         Similar to the attainment gap, the awarding gap refers to the disparities in          HEFCE                   The Higher Education Funding Council for England was a non-departmental
+                         academic outcomes between different groups of students; the gap between               (Higher Education       public body responsible for the distribution of funding to universities and
+                         the proportion of students awarded a 2:1 and First-class honours, verses              Funding Council         colleges. The body provided funding to the BAME Awarding Gap Consortium
+                         other degree outcomes. Unlike the term attainment, the awarding shifts the            for England)            Project, led by Kingston University with several institutional partners including
+                         focus from the student to the institution regarding causal factors associated                                 UCL. HEFCE was replaced by UK Research and Innovation (UKRI) and the
+                         with these gaps, in addition to ownership for closing the gaps. There are                                     Office for Students (OfS), in 2018.
+                         various student groups impacted by the awarding gaps in higher education
+                         including but not limited to BAME students, mature students, students with
+                         disabilities, and students from disadvantaged socio-economic backgrounds.             ICHC                    The ICHC is a resource produced by UCL for staff to reflect on the inclusivity
+                         Where possible, gaps within these student groups should be disaggregated,             (Inclusive Curriculum   of their curriculum. This is based on Kingston University’s Inclusive Curriculum
+                         for example from BAME to individual ethnicity groups (Black African, Asian            Health Check)           Framework and was developed as an intervention during UCL’s involvement in
+                         Pakistani, etc) as data shows wider discrepancies amongst individual                                          the wider BAME Awarding Gap Consortium project. The ICHC was included in
+                         disaggregated groups of students which may reflect their student experience.                                  the 2018/19 ASER, requiring all undergraduate and postgraduate programmes
+                         Additionally, gaps should be considered through an intersectional lens.                                       to complete the health check. The BAME Awarding Gap Project team then
+                                                                                                                                       provided feedback on all submissions, including recommended actions based
+                                                                                                                                       on responses.
+    ASER                 The ASER was an internal quality assurance review process at UCL, with the
+    (Annual Student      last report published in the academic year 2021/22. The review encourages
+    Experience Review)   staff to comment on the following questions, which gives a qualitative overview       UKRI                    UKRI was launched in April 2018 as a non-departmental public body,
+                         on student experience and department and faculty engagement.                          (UK Research and        sponsored by the Department for Science, Innovation and Technology (DSIT).
+                                                                                                               Innovation)             UKRI consists of nine councils, including seven disciplinary research councils,
+                         • What contextual issues have shaped the progress against last year’s                                         working on support and knowledge exchange of research across various higher
+                           development plan and this year’s plan?                                                                      education institutions in England.
+                         • How does the department ensure a culture of continuous quality
+                           improvement?
+                                                                                                               OfS                     The OfS was established in 2017 as an independent public body, reporting
+                         • How have students been involved in ensuring progress against last year’s            (Office for Students)   to the Department for Education (DfE). Acting as a regulator and competition
+                           plan and identifying priorities for the coming year?                                                        authority for the higher education sector in England, the OfS has eleven Key
+                                                                                                                                       Performance Measures (KPMs) working on quality and standards, enabling
+                         • How does the department work in partnership with students to ensure a
+                                                                                                                                       regulation and equality of opportunity, including KPM 7 ‘degree attainment by
+                           culture of continuous quality improvement?
+                                                                                                                                       ethnicity’.
+
+                         From 2022/23, the ASER has been replaced by a process of Departmental
+                         Education Planning; a more department-led process with guidance published in
+                         Spring 2023.
+                                                                               BAME Awarding Gap Project
+6                     7
+                                                                               Evaluation Report – July 2023
+
+
+
+
+    Introduction to
+    Student Success
+
+
+
+
+01
+                          Falling under Student and Registry
+                          Services at UCL, the Student Success
+                          Office is led by Paulette Williams,
+                          Head of Student Success Projects.
+
+                                                   The Student Success Office leads in developing and
+                                                   implementing strategies at UCL to address gaps
+                                                   in awarding and continuation among marginalised
+                                                   student groups across the institution. Collaborating
+                                                   with key stakeholders, the team works to establish
+                                                   best practices and evidence-based approaches to
+                                                   providing comprehensive support to students and
+                                                   staff to facilitate improvement in students’ outcomes,
+                                                   experience, and their overall success.
+                                                                                                                  BAME Awarding Gap Project
+8                        9
+                                                                                                                  Evaluation Report – July 2023
+
+
+
+
+    Project Background       UCL’s BAME Awarding Gap Project
+                             addresses the disparities in degree
+                             outcomes between UK domiciled
+                             BAME and white undergraduate
+                             students.
+
+
+
+
+02
+                             In 2017 UCL joined the Kington University led            During UCL’s involvement in the consortium project,
+                             consortium project, in partnership with four other       it became apparent that Kingston University’s Value-
+                             institutions including De Montfort University,           Added metric data for analysis was not effective,
+                             University of Greenwich, University of Hertfordshire     given the differences in the entry criteria of student
+                             and University of Wolverhampton. All participating       cohorts entering UCL versus Kingston. As such,
+                             universities implemented initiatives designed by         the project team worked closely with colleagues
+                             Kingston University to close the awarding gap            in the OVPESE to develop a BAME Awarding Gap
+                             including a Value-Added metric for data analysis and     Dashboard using data analytics platform Tableau,
+                             Inclusive Curriculum Framework. The consortium           which shows the nature of the gap at UCL.
+                             project concluded in 2019; UCL however continued
+                             building on the initiatives started in 2017. The         The table that follows details the BAME-White
+                             continued project is currently situated in the UCL       awarding gap in 2017/18. This is followed by graphs
+                             Student Success Office in Student and Registry           showing the awarding gaps of these students over
+                             Services, working collaboratively with the Office of     the last five years, against the UCL-level gap.
+                             the Vice-Provost Education & Student Experience
+                             (OVPESE) to facilitate the work of the faculties,
+                             departments/divisions and programmes.
+
+                             The BAME Awarding Gap Project as a whole
+                             works under the following themes:
+
+                             1. Inclusive approaches to teaching, learning and
+                                assessment
+
+                             2. Belonging, community and partnerships
+
+                             3. Case studies from UCL
+
+                             The project is evidence-led and underpinned by
+                             quantitative data analysis of the gap at UCL and
+                             qualitative investigations into students’ experiences,
+                             using various strategies facilitated by project leads.
+                                                                                                                                                                                              BAME Awarding Gap Project
+10                                                                                      11
+                                                                                                                                                                                              Evaluation Report – July 2023
+
+
+
+
+     How are awarding gaps calculated?                                                                                 FIRST-CLASS DEGREE (%)                                    UPPER-SECOND DEGREE (%)
+
+     Award gaps are calculated by comparing the                                                       10.0%
+     proportion of each student population achieving a
+     degree outcome, eg:
+
+                                                                                                                                                        average
+
+
+
+
+                                                                                       AWARDING GAP
+     6 out of 10 White students achieving a First (60%)
+                                                                                                                7.5%
+                             -
+     5 out of 10 BAME students achieving a first (50%)                                                5.0%
+                             =                                                                                                                                                                                   average
+                     10% awarding gap                                                                                                                   4.1%
+
+                                                                                                                                                                           2.8%
+
+
+                                                                                                      0.0%                                                                                                       0.9%
+
+                                                                                                                2018      2019      2020      2021      2022              2018      2019      2020     2021      2022
+     FACULTY                                              FIRST-CLASS   UPPER-SECOND
+                                                          DEGREE (%)    DEGREE (%)
+
+     Arts and Humanities                                  0.2           1.5
+
+     Brain Sciences                                       6.4           6.7
+
+     Engineering Sciences                                 17.4          11.3
+                                                                                                      At UCL it is noted that the vast majority of students       The initial project looked at the gap in marks and in
+     Laws                                                 2.8           6.1                           overall obtain a good degree, however looking at            the ‘good degrees’ but it was clear that for UCL, the
+                                                                                                      such data alone does not truly illustrate the gaps in       most significant gaps were in the first-class degrees,
+     Life Sciences                                        6.4           3.3                           awards between BAME and white students.                     which also have a pipeline implication in terms of
+                                                                                                                                                                  students’ future careers. This change in focus, as
+     Mathematical and Physical Sciences                   6.5           3.8                           To explore data in more detail, we used the Tableau         well as looking more closely at the gaps within
+                                                                                                      Dashboard we had created and are now able to                modules or years of a programme, has been a key
+     Medical Sciences                                     0.5           4.2                           visualise and interpret the gaps at a more granular         element of the progress that has been made in the
+                                                                                                      level, comparing the gaps with the ‘good degrees’           project since 2018.
+     Population Health Sciences                           15.8          10.8                          (second-class) and first-class degrees. The results
+                                                                                                      from 2017/18 show a higher proportion of BAME               The data in the following table looks at the 2017/18
+     Social and Historical Sciences                       14.2          7.1                           students achieving a ‘good degree’ compared to              awarding gaps at a more detailed level, within
+                                                                                                      their white peers, which mostly changes when                departments and faculties.
+     Built Environment                                    0.9           5.5                           looking at the results of those obtaining a first-class
+                                                                                                      degree.
+     IOE                                                  68.4          75.2
+                                                                                                                                                                                                               BAME Awarding Gap Project
+12                                                                                                                          13
+                                                                                                                                                                                                               Evaluation Report – July 2023
+
+
+
+                                                                                                       HIGHER
+FACULTY              DEPARTMENT                                                    AWARDING            PROPORTION
+                                                                                   GAP (%)             OF STUDENTS
+
+Arts and             Arts and Sciences BASc                                        4.4                 BAME                                                                                     Black students on campus
+Humanities           School of European Languages, Culture and Society             1.9                 White                                                                                    are often ‘invisible’;
+                     SSEES Languages                                               5.9                 White                                                                                    they’re not represented in
+                     English Language and Literature                               9.5                 BAME
+                                                                                                                                                                                                staff or materials taught.
+                     Greek and Latin                                               18.8                White
+                     Philosophy                                                    13.8                White
+                     Slade School of Fine Art                                      37.0                BAME
+                     Hebrew and Jewish Studies                                     None                N/A                       Since 2018, the project team has worked with                   Student from Faculty of Social
+                                                                                                                                                                                                and Historical Sciences
+                                                                                                                                 colleagues in OVPESE and the Data and Insights
+Faculty of           Division of Psychology and Language Sciences                  6.4                 White
+                                                                                                                                 team to refine the dashboard to meet the needs
+Brain Sciences
+                                                                                                                                 of colleagues. The latest iteration of the BAME
+Faculty of           Biochemical Engineering                                       30.3                White                     Awarding Gap dashboard includes the following
+Engineering          Chemical Engineering                                          30.9                White                     information:
+Sciences             Civil, Environment and Geomatic Engineering                   11.1                White
+                     Computer Science                                              17.5                BAME
+                                                                                                                                 •   A breakdown of the BAME awarding gap at all
+                     Electronic and Electrical Engineering                         61.1                White
+                     Mechanical Engineering                                                            White                         degree classifications, including ‘good degree’
+                                                                                   21.0
+                     Medical Physics and Biomedical Engineering                    45.6                White                         (2:1 and First-class honours)                         In Year 2 Physical Labs, we have
+                     UCL School of Management                                      15.4                White                                                                               introduced a writing exercise where
+                                                                                                                                 •   A breakdown of the BAME awarding gap at               students pick a scientist from a
+Faculty of Laws      Laws                                                          2.4                 White
+                                                                                                                                     university, faculty, department and programme         list and write about their research.
+Faculty of Life      Neuroscience, Physiology and Pharmacology                                         BAME                          level                                                 The list of scientists was generated
+                                                                                   3.0
+Sciences             Biomedical Sciences                                           39.6                White                                                                               by asking colleagues to nominate
+                     Cell and Developmental Biology                                10.9                BAME                      •   A breakdown of the Black awarding gap                 three non-male, non-white or non-
+                     Genetics, Evolution and Environment                           12.5                White                                                                               western scientists who they admire.
+                     School of Pharmacy                                            27.9                White
+                                                                                                                                 Access to the dashboard has been restricted due           This is to ensure that students see
+                     Structural and Molecular Biology                              29.2                White
+                                                                                                                                 to the small numbers of students in more granular         that not all science is carried out
+Faculty of           Chemistry                                                     3.9                 BAME                      analyses, resulting in the possibility to identify        by White, western males and that
+Mathematical and     Earth Sciences                                                7.1                 BAME                      individual students. Colleagues should engage with        they can identify role models that
+Physical Sciences    Mathematics                                                   3.0                 BAME                      their BAME Awarding Gap Faculty Leads concerning          inspire them (and also see that their
+                     Natural Sciences                                              16.0                White
+                                                                                                                                 any requests for data.                                    lecturers admire these people too).
+                     Physics and Astronomy                                         8.1                 White
+                     Science and Technology Studies                                20.0                White
+                     Statistical Science                                           40.9                White                     The project also carried out qualitative investigations
+                                                                                                                                 into students’ experiences at UCL. This included
+Faculty of Medical   Division of Infection and Immunity                                                BAME                                                                                UCL’s Inclusive Curriculum Health
+                                                                                   8.3                                           surveys, focus groups and interviews, both at             Check: Chemistry
+Sciences             Division of Medicine                                          18.5                White
+                                                                                                                                 institution and faculty and department level. Several
+                     Division of Surgery and Interventional Science                10.0                BAME
+                                                                                                                                 themes emerged from the qualitative data, which
+Faculty of           UCL Elizabeth Garrett Anderson Institute of Women’s Health    16.7                White                     formed the basis of the BAME Awarding Gap Staff
+Population Health    UCL GOS Institute of Child Health                             44.4                White                     Toolkit. Students expressed concerns around the
+Studies              Institute for Global Health                                   None                N/A                       inclusivity of the curriculum, a lack of sense of
+                                                                                                                                 belonging and experiencing and witnessing incidents
+Faculty of Social    Anthropology                                                  13.6                BAME
+and Historical       Economics                                                                         White                     of racism and discrimination.
+                                                                                   23.2
+Sciences             Geography                                                     7.3                 White
+                     History                                                       17.1                White                                                                               Being from an underrepresented
+                     History of Art                                                16.4                White                                                                               group from UCL, I feel like I was
+                     Institute of Archaeology                                      7.7                 BAME
+                                                                                                                                                                                           able to make an actual impact
+                     SSEES School of Slavonic and East European Studies            8.3                 White
+                     SSEES Economics                                                                   White                                                                               on the studies of future students
+                                                                                   25.0
+                     Political Science                                             None                N/A                                                                                 from a similar background as me,
+                     SSEES History                                                 None                N/A                                                                                 avoiding feelings of ‘imposter
+                     SSEES Politics                                                None                N/A                                                                                 syndrome’.
+Faculty of Built     Bartlett School of Architecture                               9.5                 White
+Environment          Bartlett School of Planning                                   8.8                 BAME
+                                                                                                                                                                                           Geography Student – Student
+IOE                  Education Practice and Society                                                    White                                                                               Curriculum Partners
+                                                                                   71.3
+                     Psychology and Human Development                              50.0                White
+
+
+
+                                                                                  *NONE and N/A represent the departments
+                                                                                  without an awarding gap, as they do not
+                                                                                  have any BAME students for comparison
+                                                                                                                                                                                                      BAME Awarding Gap Project
+14                                                                                                                     15
+                                                                                                                                                                                                      Evaluation Report – July 2023
+
+
+
+                                                                                                                            Lessons
+                                                                                                                            Learned:
+
+
+     How has the gap changed over time?                        1.   Calculation with final year average based on the                   1.   The importance of timely and detailed quantitative data
+                                                                    best 50% (60 credits)                                                   Data analysis shows considerable variation in the awarding gap across faculties,
+     The BAME awarding gap has narrowed from 2018 to                                                                                        departments, programmes, modules, degree classifications and amongst
+     2021, most notably in the last two years, following       2.   Calculation excluding the final year marks                              disaggregated ethnic groups. A granular breakdown of the BAME awarding
+     the implementation of policies in response to the                                                                                      gap reveals the complexity of this work and enables UCL to tailor interventions
+     COVID-19 pandemic. UCL’s ‘good degree’ awarding           With this policy, the outcome that is deemed more                            accordingly. For example, module level analysis of 2019/20 can show what
+     gap in 2020/21 was 0.4%. Whilst this figure is small,     favourable to the student is retained, with students                         changes to assessment were made during the COVID-19 pandemic and whether
+     it conceals considerable variations across faculties,     achieving at least a pass in their assessments,                              these changes correlated with a reduction in the awarding gap.
+     departments, programmes, degree classifications           guaranteed a final grade no lower than their average
+     and amongst ethnic groups. For example, the First-        academic performance.                                                   2.   Ensuring there is a single source of BAME awarding gap data, which is
+     class awarding gap for BAME students is 4.3%,                                                                                          updated using a consistent and systematic approach
+     whereas the First-class awarding gap for Black            What other data analysis has taken place?                                    A single source of BAME awarding gap data, which is updated using a consistent
+     students is 15.3%. Although the awarding gap                                                                                           and systemised approach mitigates against the risk of inconsistent data
+     has narrowed in recent years, every change in the         The project has carried out data analysis looking at                         proliferating across the institution. Inconsistent data can undermine an evidence-
+     education provision, from assessment design to            the impact of other factors e.g. parental education,                         based approach and result in staff resistance and/or disengagement with the
+     curriculum revamps, have the potential to affect the      age, degree programme, etc, on the First-class                               project. A systemised approach to updating awarding gap data, ensures that
+     gap and it therefore requires continuous monitoring       gap. This analysis shows that most of the gap is                             updates occur in a timely and consistent manner and that this work is factored into
+     and action.                                               ‘unexplained’. Furthermore, bespoke data analysis                            staff time.
+                                                               has been carried out for UCL Medical School for the
+     What was the impact of the No Detriment Policy            years 2014-2019, as the awarding system is different                    3.   Data should be presented in an accessible, easy to understand format;
+     on the awarding gap during the COVID-19                   for the MBBS programme. This analysis shows that                             however consideration should be given to who has access to this
+     pandemic in 2019/20?                                      the awarding gap for BAME students is largest on                             information
+                                                               clinical placements during their degree programme.                           It is critical that awarding gap data is presented in an easy-to-understand,
+     The project carried out an extensive evaluation                                                                                        accessible format to enable staff to engage with findings, such as via a Tableau
+     of the effects of the 2019/20 emergency changes           What are the next steps concerning data analysis                             dashboard. However, granular data, particularly at module level disaggregated by
+     in assessment due to the pandemic, including              for the project?                                                             ethnic group may result in small student numbers, thus leading to the possibility of
+     the No Detriment Policy, on academic outcomes.                                                                                         identifying individual students. Consideration should be given to who should have
+     The analysis showed that the move to online and           There are planned enhancements for the BAME                                  access to the data and whether this complies with Data Protection guidance.
+     diversified assessment was associated with lower          Awarding Gap Tableau Dashboard, including a
+     awarding gaps across the institution, both for the        breakdown of the BAME awarding gap at module                            4.   Conduct broader analysis beyond the measure of the gap itself
+     ‘good degree’ gap as well as the gap in first-class       level and a breakdown of the BAME awarding gap                               Resistance to the project has included staff attempts to try and ‘explain away’ the
+     degrees. Furthermore, non-continuation rates also         across disaggregated ethnicity groups e.g. Black                             gap, connecting this with other factors such as choice of degree programme or
+     fell, particularly for Black students, which may          African, Black Caribbean, Asian Indian, Asian                                entry qualifications. Wider analysis on the impact of various factors on the First-
+     also be linked to different styles of assessment.         Pakistani, etc.                                                              class awarding gap at UCL has been effective in tackling this resistance. Where
+     Following the publication of the report, faculties were                                                                                possible, broader analysis like this can support the validity of the project and
+     encouraged to analyse the changes in assessments,                                                                                      reinforce an evidence-based approach.
+     which have taken place and enact policy changes
+     accordingly to ensure best practice is maintained.                                                                                5.   Quantitative data should be considered alongside qualitative data
+                                                                                                                                            It is essential to carry out quantitative data analysis to understand the nature of
+     In the academic year 2019/20, UCL along with other                                                                                     the BAME awarding gap, however there is a risk of placing too much emphasis on
+     Russell Group universities during the COVID-19                                                                                         the quantitative data. Projects should reinforce the importance of understanding
+     pandemic, carried out the No Detriment Policy, also                                                                                    students’ lived experiences when developing interventions to close the gap.
+     known as the ‘Amendments to Academic Regulations
+     for summer assessments 2020’. The purpose of this
+     policy was to ensure no students were academically
+     disadvantaged due to the pandemic, by introducing
+     alternative teaching and assessment arrangements.
+     For example, undergraduate students in their final
+     year obtained their final classification mark based on
+     one of the following:
+                                                                                                                           BAME Awarding Gap Project
+16                              17
+                                                                                                                           Evaluation Report – July 2023
+
+
+
+
+     Project Governance and          The BAME Awarding Gap Project was
+                                     situated in the Office of the Vice Provost
+     Institutional Engagement        Education and Student Experience
+                                     (OVPESE) from 2017 to 2019.
+
+                                     The project gained a high profile through its strategic   Since 2019, part of the documentation for new
+                                     location, which demonstrated the institution’s            programme development now requires proposers
+
+
+
+
+03
+                                     commitment and buy-in to close the gap. This              to demonstrate how they will develop an inclusive
+                                     was particularly important as at the outset of the        curriculum, assessment portfolio and learning
+                                     project where there was a varied awareness and            environment, linking proposers to the ICHC. This
+                                     understanding of the BAME awarding gap across the         documentation is assessed and feedback is given
+                                     institution.                                              by the Programme and Module Approval and
+                                                                                               Amendment Panel (PMAP) before new programmes
+                                     Following the closure of the BAME awarding gap            can be given final approval.
+                                     consortium project, the location of the UCL project
+                                     shifted to a newly formed Student Success Office in       In March 2023, the Student Success Team organised
+                                     Student and Registry Services. The rationale behind       a BAME Awarding Gap Fund event to showcase
+                                     this move was to ensure the work of the project was       some of the ongoing projects from various faculties
+                                     closely aligned with wider student success initiatives    and bring awareness to some of the successes
+                                     moving forward, particularly work towards closing         and challenges faced by project leads and those
+                                     other awarding gaps such as those for mature              involved. The internal event consisted of three of the
+                                     students, students with disabilities and students         projects from different faculties being presented,
+                                     from disadvantaged socioeconomic backgrounds. At          all at different stages, with the opportunity for
+                                     present, the main purpose of the Student Success          questions, reflection and networking.
+                                     Office is to eliminate the awarding gap for all
+                                     underrepresented UK undergraduates, additionally
+                                     ensuring the academic success, retention and
+                                     continuation of these groups. In addition to the
+                                     BAME Awarding Gap Project, the team have worked
+                                     collaboratively with UCL Arena, the Academic
+                                     Communications Centre, OVPESE, Student Support
+                                     and Wellbeing and various faculties, on interventions
+                                     to support groups within the UK undergraduate
+                                     cohort at UCL.
+
+                                     The project is currently governed through the BAME
+                                     Awarding Gap Steering Group, which includes
+                                     representatives from across the institution and UCL
+                                     Students’ Union. The Steering Group is responsible
+                                     for providing strategic direction, advice and guidance
+                                     to the project team and project leads. The project
+                                     has also utilised opportunities to embed its work into
+                                     institutional processes and activities. For example,
+                                     the project team participates in Race Equality
+                                     Roadshows, which are delivered in partnership with
+                                     the Chairs of UCL’s Race Equality Steering Group.
+                                     The purpose of the roadshows is to engage faculties
+                                     with staff and student data, providing a holistic
+                                     understanding of race equality in their areas. The
+                                     staff data focuses on recruitment, promotion, and
+                                     representations, whereas the student data looks at
+                                     the latest BAME awarding gaps for the faculty.
+                                                                                                                                                                                 BAME Awarding Gap Project
+18                                                                                                19
+                                                                                                                                                                                 Evaluation Report – July 2023
+
+
+
+                                                                                                       Lessons
+                                                                                                       Learned:
+
+
+                                                                                                                  1.   The location of the project matters
+                                                                                                                       The location of a project sends a message to its audiences. The project, at its
+                                                                                                                       outset, significantly benefited from being in OVPESE. This is because the location
+                                                                                                                       demonstrated the strategic importance of the project and positioned the project
+                                                                                                                       as an educational issue. This additionally enables the collaboration from other
+                                                                                                                       departments within OVPESEworking on initiatives to positively effect change
+                                                                                                                       in student experience, engagement and success, setting precedence for an
+                                                                                                                       improved culture in education and curricula at UCL. The transition of the project to
+                                                                                                                       the Student Success Office is also pivotal, as the project aligns with the expansion
+                                                                                                                       of work to tackle other awarding gaps at the institution. This includes the team’s
+                                                                                                                       work with Access UCL and having a new and insightful outlook on approaches to
+                                                                                                                       challenging the awarding gaps in various focus groups.
+
+                                                                                                                  2.   The BAME Awarding Gap Steering Group
+                                                                                                                       As well as consistent guidance and overall focus on the various projects, it is
+                                                                                                                       important to have direct involvement from the Steering Group, to ensure the main
+                                                                                                                       purpose and objective of the project is being met. The Steering Group can also be
+                                                                                                                       used to determine additional support or resource required, offer advice on realistic
+                                                                                                                       goals for projects, additionally to ensure a collective perspective on progress and
+                                                                                                                       challenges that may occur.
+
+
+
+
+     DEPARTMENT              PROJECT LEAD        PROJECT                        PRESENTER
+
+
+     Social and Historical   Eleanor Robson      Mind the Gap! History’s        Eleanor Robson
+     Sciences                                    approach to tackling
+                                                 inequality through
+                                                 enhanced belonging and
+                                                 inclusive pedagogy
+
+
+     Social and Historical   Silvia Dal Bianco   Channelling the BAME           Ronaldo Leiva
+     Sciences                                    student voice to unveil the    Granados
+                                                 hidden curriculum and
+                                                 build an inclusive learning
+                                                 community
+
+
+     Life Sciences           Tara Keck and       Belonging and overcoming       Charmian Dawson
+                             Charmian Dawson     adversity – supporting
+                                                 BAME students in the
+                                                 transition to university and
+                                                 throughout their courses
+                                                                                                     BAME Awarding Gap Project
+20                   21
+                                                                                                     Evaluation Report – July 2023
+
+
+
+
+     Faculty Leads        Who are the BAME Awarding Gap
+                          Faculty Leads?
+
+                          BAME Awarding Gap Faculty Leads are academic
+                          members of staff, typically senior members who
+                          are recruited to deliver local interventions to close
+                          the awarding gap. The first appointments to this
+                          leadership role were made in 2018. BAME Awarding
+                          Gap Faculty Leads are allocated 0.5 days a week
+
+
+
+
+04
+                          to work on the project, which is agreed with their
+                          line manager, and receive an annual honorarium of
+                          £2,500 in recognition of their work in this post.
+
+                          What do BAME Awarding Gap Faculty Leads do?
+
+                          Faculty Leads are generally appointed on an annual
+                          basis with the option to continue each year, usually
+                          to a maximum of three years in the post.
+
+
+
+
+                          FACULTY                                                 FACULTY LEAD
+
+
+                          Arts and Humanities                                     Clive Nwonka
+
+                          Bartlett                                                Judy Stephenson
+
+                          Brain Sciences                                          Leslie Gutman
+
+                          Engineering Sciences                                    Michael Sulu
+
+                          Institute of Education                                  Ashraf Hoque
+
+                          Laws                                                    Jonathan Chan
+
+                          Life Sciences                                           Afia Ali
+
+                          Mathematical and Physical Sciences                      Tamara Alhilfi
+
+                          Medical Sciences                                        Alvena Kureshi
+
+                          Population Health Sciences                              Rochelle Burgess
+
+                          Social and Historical Sciences                          Adam Harris
+                                                                                                                                                                                                        BAME Awarding Gap Project
+22                                                                                                                     23
+                                                                                                                                                                                                        Evaluation Report – July 2023
+
+
+
+                                                                                                                            Lessons
+                                                                                                                            Learned:
+                                                                                                                                       1.   The seniority of BAME Awarding Gap Faculty Leads can influence staff
+                                                                                                                                            engagement with the project
+     The table previous represents the sample of Faculty       Since the COVID-19 pandemic, BAME Awarding                                   In some instances, the project has recruited junior academic colleagues into
+     Leads current as of the academic year 2022/23.            Gap Faculty Leads have also been carrying out data                           the role of the BAME Awarding Gap Faculty Lead. Some of these Faculty Leads
+     Each Faculty Lead is required to produce an action        analysis to determine which assessment changes                               have experienced increased challenges around influencing senior colleagues
+     plan for their faculty each academic year, which must     during 2019/20 and 2020/21 correlated with a                                 in their faculty, staff resistance and generating staff buy-in for the project. It
+     include details on the following areas:                   narrowing of the awarding gap, with the view to                              is not always possible to recruit senior academic members of staff into these
+                                                               ensuring best practice is maintained at module level.                        positions, particularly where there is an underrepresentation of BAME staff within
+     •   Data                                                                                                                               a faculty. Moreover, as it is a leadership position, it offers significant opportunity
+                                                                                                                                            for professional and personal development for junior staff. Efforts should be made
+     •   Student engagement                                                                                                                 to ensure all Faculty Leads are embedded into key networks, working groups and
+                                                                                                                                            committees within their faculties and where possible, are connected with supportive,
+     •   Staff engagement                                                                                                                   senior staff, for example Faculty Tutors and Deans.
+
+     •   Faculty objective                                                                                                             2.   The importance of sharing good practice
+                                                                                                                                            Faculty Leads should be given regular opportunities to share best practice and
+     The submitted action plan is then followed by a                                                                                        lessons learned in their role. This is particularly important for Faculty Leads who
+     one-to-one meeting to discuss details of the plan,                                                                                     are new in the post. Networking events held internally also assist in sharing ideas,
+     any pending and/or completed actions and an overall                                                                                    challenges and best practices across faculties, departments and all those involved
+     checking in, which is attended by the Faculty Lead,                                                                                    directly and indirectly with the project. The project facilitates these interactions
+     Project Manager and Project Co-Lead(s).                                                                                                through group meetings every six weeks; newly appointed Faculty Leads are paired
+                                                                                                                                            with more experienced Faculty Leads, to receive mentoring during their first year in
+     The nature of the awarding gap varies across                                                                                           the post.
+     faculties and departments, as such, there is no ‘one
+     size fits all’ approach concerning local interventions.                                                                           3.   Set objectives ensure BAME Awarding Gap Faculty Leads are aligned with the
+     However, there are some commonalities in                                                                                               strategic aims of the project
+     approaches adopted by the leads, irrespective of                                                                                       As the BAME awarding gap varies across faculties and departments, it is essential
+     their disciplinary backgrounds.                                                                                                        that BAME Awarding Gap Faculty Leads produce action plans tailored to their local
+                                                                                                                                            context. However, requiring all Faculty Leads to complete set objectives ensures
+     The responsibilities of the role have also changed                                                                                     that work across the institution remains aligned with the strategic aims of the central
+     over time as the institution develops its knowledge                                                                                    project. These set objectives should offer flexibility and ownership for Faculty Leads
+     and understanding of the BAME awarding gap.                                                                                            to deliver in their own context.
+     For example, when the role first launched there
+     was increased emphasis on raising awareness of                                                                                    4.   Access to data for analysis
+     the project and generating buy-in, understanding                                                                                       Following feedback via one-to-one and group meetings with Faculty Leads and
+     the nature of local gaps, disseminating data, and                                                                                      updates on their action plan, one of the main challenges to the project is the access
+     carrying out qualitative research with students. Early                                                                                 to quantitative data. Although the majority of initiatives focus on qualitative data
+     responsibilities also included supporting academic                                                                                     from their long-term projects, some Faculty Leads have noted difficulty in obtaining
+     staff with the completion of the Inclusive Curriculum                                                                                  further engagement and understanding from other academic staff within their
+     Health Check. In recent years however, the focus has                                                                                   faculties and departments, due to lack of quantitative date they have been able to
+     shifted to interventions based on an understanding of                                                                                  share. Not being able to provide full statistical evidence to other (senior) academic
+     both quantitative and qualitative data. Some of these                                                                                  members of staff due to privacy of information or numbers of BAME students within
+     interventions include changes to the curriculum,                                                                                       a faculty and department may provide more challenges in influencing others to be
+     teaching and assessment, student exposure to                                                                                           involved, as well as measuring the success of the project to date.
+     potential role modules through events series, staff
+     training, workshops and away days, developing                                                                                     5.   Lack of student engagement
+     resources and changes to student induction.                                                                                            Although more senior members may have more of an influence on their faculty and
+                                                                                                                                            department academic staff involvement in the project, the BAME Awarding Gap
+                                                                                                                                            Faculty Lead can still face challenges in engaging students. This is a commonality
+                                                                                                                                            across departments, with some having more student contribution than others due to
+                                                                                                                                            various reasons including assessment periods, lack of understanding and relevance,
+                                                                                                                                            and other (academic) priorities. It is important for the Faculty Lead therefore to find
+                                                                                                                                            methods and incentives to encourage student engagement and participation, which
+                                                                                                                                            in some cases has been helped with work being more student-led.
+                                                                                                                    BAME Awarding Gap Project
+24                        25
+                                                                                                                    Evaluation Report – July 2023
+
+
+
+
+     Student Engagement        Student Curriculum Partners Scheme
+
+                               Research shows that inclusive curriculum initiatives      The scheme, which is based on Kingston University’s
+                               benefit all students. The BAME Awarding Gap               Curriculum Consultants programme, was set up
+                               Project produced the Inclusive Curriculum Health          during UCLs participation in the BAME awarding
+                               Check to help staff reflect on the inclusivity of their   gap consortium project. Two versions of the SCP
+                               programmes. However, this resource does not               scheme were piloted in 2018/19. An evaluation of the
+                               account for student perspectives on the inclusivity       pilot led to several enhancements of the scheme,
+                               of the curriculum. To bridge the gap, the project set     which in its current form involves students reviewing
+                               up the Student Curriculum Partners (SCP) Scheme,          the inclusivity of modules they have taken using a
+
+
+
+
+05
+                               which offers the opportunity for students and staff       supporting guidance framework. Students then have
+                               to work together to enhance the inclusivity of the        the option of sharing their feedback directly with
+                               curriculum, particularly concerning race and ethnicity.   staff or having their feedback shared anonymously
+                                                                                         through the BAME Awarding Gap Project team, to
+                                                                                         help facilitate change.
+
+
+
+
+                                                                                                Cultural Awareness
+                                           Inclusive Curriculum
+                                                                                                Knowledge about and
+                                           Being attentive to the impact of                     appreciation for different
+                                           social identities and putting the                    cultures, as well as your own.
+                                           most disadvantaged members
+                                           of our community at the centre
+                                           of curriculum design and
+                                           planning.
+
+
+
+
+                                                                                                 Equity
+
+                                                                                                 Treating people differently
+                                                 Diversity                                       dependent on need. Whilst both
+                                                                                                 the concepts of equity and equality
+                                                 The presence of different                       promote fairness, the former
+                                                 cultural traditions and                         achieves this by treating everyone
+                                                 identities. This supports better                the same regardless of need, while
+                                                 representation but an inclusive                 equity achieves this by treating
+                                                 approach is crucial.                            people according to their needs.
+                                                                                                                                                                                                       BAME Awarding Gap Project
+26                                                                                                                  27
+                                                                                                                                                                                                       Evaluation Report – July 2023
+
+
+
+
+     What changes have taken place?
+
+     The below are examples of student feedback taken
+     from the SCP 2021/22, for first year undergraduate
+     students:
+
+
+
+
+     MODULE         RAISING CULTURAL                  ASSESSMENT AND                 LEARNING EXPERIENCE
+     FACULTY        AWARENESS                         FEEDBACK                       AND ENVIRONMENT
+
+
+     Laws           Limited opportunities for         International case studies     Some cases were
+                    group discussions during          and assessment scenarios       subjective and
+                    lectures, however tutorials       may be far removed from        misinterpreted, with
+                    have helped and have been         some students’ individual      content being offensive to
+                    heavily discussion-based          experiences, who may rather    some students. This can
+                                                      benefit from an illustrated    be addressed by being
+                    Course does raise                 relevance to their career      careful and precise when
+                    awareness of diversity, at        paths. This may however be     describing cases
+                    the same time respecting          difficult to overcome within
+                    differences between               Law as a subject
+                    legal jurisdiction, at an
+                    international level               Students who do not have
+                                                      English as a first language                                        Suggestions from students and subsequent
+                                                      are at a disadvantage at                                           actions have been wide-ranging, including but
+                                                      assessment; may be worth                                           not limited to:
+                                                      introducing 50% coursework
+                                                      and 50% examination
+                                                                                                                         •   Expanding reading lists                       •   Inclusion of trigger warnings and context
+                                                                                                                                                                               disclaimers
+     Medicine       Able to have cross-cultural       Having access to mock          Interactive slides enable           •   Updating course imagery
+                    interaction amongst               exams and continuous           student engagement with                                                               •   Changes to assessment and feedback
+                    students via small group          feedback on assessments        their learning                      •   Changing module names
+                    teachings                         are useful                                                                                                           •   Inclusion of a module glossary
+                                                                                     Small group teachings               •   Use of anonymous Moodle forums
+                    Particular module does not        50% group coursework           make it easier for students                                                           •   Reflection and acknowledgement of lecturer
+                    raise awareness in diversity,     and 50% examination            to ask questions and                •   Broader contextualisation of course content       positionality
+                    with some academics/              enables students to display    discuss, compared to
+                    lecturers not mentioning          their knowledge and            being in a full lecture hall        •   Use of diverse case studies and scenarios     •   Addressing potentially problematic content (may
+                    working with people from          understanding, outside the                                                                                               reinforce existing stereotypes and bias)
+                    diverse backgrounds with          examination                    Still lacking a sense of
+                    different perspectives                                           belonging due to lack of
+                                                      Providing software             representation (race and
+                    Some comments in lectures         suggestions such as            nationality) in teaching and
+                    are culturally stereotypical      Biorender for specific         learning environment
+                                                      assessments would be
+                                                      helpful, especially to help
+                                                      students save money
+                                                                                                                                                                                                 BAME Awarding Gap Project
+28                                                                                                             29
+                                                                                                                                                                                                 Evaluation Report – July 2023
+
+
+
+
+     Over the years various faculties have been involved in
+     the Student Curriculum Partners Scheme, with students                                                          What staff have said
+     recruited and trained by the Student Success Office.
+                                                                                                                    about taking part:
+
+
+     ACADEMIC YEAR          FACULTY                           DEPARTMENT                                              First, let’s get some worries out of the way: while the idea of
+                                                                                                                      having students look in detail at a particular aspects of one’s
+                                                                                                                      module might seem threatening, the overall process was very
+     2018/19                Brain Sciences                    Division of Psychology and Language Sciences            friendly and collaborative.
+
+                            Engineering Sciences              Chemical Engineering                                    Again. Contrary to fears that one might have, the process was
+                                                              Electronic and Electrical Engineering                   also not onerous at all. The results in the case of linguistics can
+                                                              UCL School of Management                                be described as a friendly nudge to do better in some areas and
+                                                                                                                      positive reinforcement to keep doing well what we are doing
+     2019/20                Brain Sciences                    Division of Psychology and Language Sciences            well. In particular, the students noticed that in some of our first-
+                                                                                                                      year modules we can make even more use of the knowledge and
+                            Engineering Sciences              UCL School of Management                                experience of our very diverse students (we have many overseas
+                                                                                                                      students who are speakers of historically completely unrelated
+                            Life Sciences                     Division of Biosciences                                 languages).
+
+                            Medical Sciences                  Division of Surgery and Interventional Science          We plan to diversify examples used at the early stages of
+                                                                                                                      instruction away from standard English (convenient because it
+                            Social and Historical Sciences    Geography                                               is also the lingua franca of instruction) and to less prestigious
+                                                                                                                      varieties of English and our students’ native languages. This will
+                            IOE                               IOE                                                     hopefully allow them to identify more strongly with the content
+                                                                                                                      of the classes and to reflect critically on the social dimensions of
+     2020/21                Arts and Humanities               Philosophy                                              language use.
+
+                            Brain Sciences                    Linguistics
+
+                            Life Sciences                     Biomedical Sciences
+
+                            Social and Historical Sciences    Economics
+                                                              Geography
+                                                                                                                                                                            Last time, students reviewed 9 of our
+     2021/22                Brain Sciences                    Psychology and Language Sciences                                                                              modules (mostly 1st year but some 2nd
+                                                                                                                                                                            year modules too) and there was some
+                            Laws                              Laws                                                                                                          excellent feedback. We shared the
+                                                                                                                                                                            very constructive and useful student
+                            IOE                               Education Studies                                                                                             feedback with module convenors,
+                                                              Psychology with Education                                                                                     who invariably responded with both
+                                                                                                                                                                            positive suggestions of changes that
+     2022/23                Engineering Sciences              Chemical Engineering                                                                                          could be readily implemented as well
+                                                              Electronic and Electrical Engineering                                                                         as questions/challenges about how to
+                                                                                                                                                                            engage with these issues holistically.
+                            Laws                              Laws                                                                                                          It was invaluable as a starting point for
+                                                                                                                                                                            thinking about how students perceive
+                            Life Sciences                     Chemistry                                                                                                     our teaching/content as well as for
+                                                                                                                                                                            opening up conversations among
+                            Medical Sciences                  Cancer Institute                                                                                              colleagues about how we collectively
+                                                              Division of Medicine                                                                                          respond to this.
+
+                            Mathematical and Physical         Mathematics
+                            Sciences
+                                                                                                                                                                              BAME Awarding Gap Project
+30                                                                                            31
+                                                                                                                                                                              Evaluation Report – July 2023
+
+
+
+
+     What students have said                                                                       Student Curriculum
+     about taking part:                                                                            Partners Process:
+
+
+                                                  It was an enriching experience to
+                                                  discuss and share the experiences
+                                                  of the curriculum from a critical                BAME Awarding Gap Project              Students attend Student       Students, staff and Faculty
+      Being from an underrepresented group        perspective with my classmates. It was           recruits students with                 Curriculum Partner            Leads identify modules for
+      from UCL, I feel like I was able to make    thought-provoking and a great learning           support of Students’ Union             and Student Quality           review. Staff provide access
+      an actual impact on the studies of future   experience to understand the different           or relevant department                 Reviewer training             to relevant modules/materials
+      students from a similar background          elements of the curriculum and how they
+      as me, avoiding feelings of ‘imposter       are perceived by students from diverse
+      syndrome’.                                  backgrounds. The most rewarding
+                                                  aspect of the experience was to share                        1                                     2                                 3
+                                                  our thoughts and help improve parts of
+                                                  the curriculum to make it more inclusive
+                                                  towards all students.
+
+
+
+
+                                                                                                                                                             Students discuss the
+      Through this programme, I gained a                                                                                                                     module review with the
+      deeper understanding of the Laws                                                                                                                       project team and leads
+      Faculty and its aims in relation to the
+      curriculum. I felt that my suggestions
+      and ideas were valued by the module
+      convenors. I also really enjoyed the        Firstly, [the Student Curriculum Partners
+      discussion aspect of the programme          Scheme] allowed me to directly engage
+                                                                                                                                     5                                 4
+      as I felt that the discussion allowed me    with academic staff of the relevant
+      to truly understand the ways in which       module, to engage in dialogue, which
+      the Faculty wanted to increase ED & I       would otherwise not be easy to achieve.
+      content specifically.                       It also allowed me to work with a fellow                                  Project team and leads
+                                                  student whom I have never worked                                          share review feedback
+                                                  with before. Secondly, it allowed me to                                   with staff
+                                                  contribute to the learning experience
+                                                  and the development of the curriculum –
+                                                  which may benefit future UCL students
+                                                  and promote what could be a more
+                                                  inclusive curriculum.
+
+
+      It was a really good experience overall.                                                                 6                                     7                                 8
+      The whole process made me feel that
+      my opinion was valued as a student
+      at UCL. I was also able to develop
+      my reviewing and teamworking skills                                                          Students review module                 Project team closes                Students and staff
+      through the process.                                                                         using a supporting                     the feedback loop with             complete a short
+                                                                                                   guidance framework in                  students and pays                  evaluation of the process
+                                                                                                   pairs or small groups                  stipends
+                                                                                                                                                                                       BAME Awarding Gap Project
+32                                                                                                     33
+                                                                                                                                                                                       Evaluation Report – July 2023
+
+
+
+                                                                                                            Lessons
+                                                                                                            Learned:
+     I was able to contribute meaningfully to the
+     review I was involved in.                                   I feel I was able to
+                                                                 contribute a lot to the                               1.   Staff were more receptive to feedback where students had first-hand
+     100% of students from the 2018/19 cohort strongly           Engineering department                                     experience of taking the modules being reviewed
+     agreed.                                                     but also UCL as a whole.                                   The project piloted two versions of the SCP Scheme; one where students reviewed
+                                                                                                                            materials from modules they had taken, and one where students reviewed
+                                                                                                                            materials from modules they had not taken but were familiar with the disciplinary
+                                                                                                                            background, e.g from the same faculty. The purpose of the latter version was to
+                                                                                                                            mitigate against potential student discomfort with sharing critical feedback directly
+                                                                                                                            with staff they may already know. An evaluation of the pilot showed that staff were
+                                                                                                                            more receptive to feedback where students had taken the module, expressing
+     I feel that my contribution to the review I was                                                                        some concern that students who had not taken the module were unaware of wider
+     involved with will improve the student                A lot of the points I brought up, my                             contextual information. Students also informed the project team that they preferred
+     experience at UCL.                                    peers felt the same way. This indicates                          reviewing modules they had already taken, as it meant they could draw on their
+                                                           to me a clear pattern emerging in                                own experiences inside the classroom as well. The change made was that students
+     100% of students from the 2020/21 cohort either       how some of these issues are faced                               could choose to give feedback directly to the module convenor in a meeting with
+     strongly agreed or agreed.                            by people of colour as a whole. Also,                            the project team, or the project team could feedback on their behalf. This aimed to
+                                                           the design of the programme is well                              managed the power dynamics of the student-staff relationship.
+                                                           structured, so I feel like my voice and
+                                                           opinion was heard throughout many                           2.   There is variability in how the scheme is received by staff
+                                                           key areas.                                                       The project has found that engagement with the scheme is most effective where
+                                                                                                                            departments self-nominate to participate and where the scheme is championed by
+                                                                                                                            a senior member of staff, for example the Head of Department, Vice Dean EDI, etc.
+                                                                                                                            The project has also found more resistance amongst STEM staff to the scheme,
+                                                                                                                            particularly concerning arguments of objectivity of curriculum content. To mitigate
+                                                                                                                            against this, the project ensures BAME Awarding Gap Faculty Leads are available
+                                                                                                                            to attend feedback meetings with module convenors, to address any disciplinary
+     I feel that my contribution to the review I was                                                                        concerns or queries they may have.
+     involved with will improve the student                It was great reflecting on my own
+     experience at UCL.                                    experience as well as talking to the                        3.   The importance of following up with staff regarding any actions and resulting
+                                                           current students. I learned to critically                        changes following their participation
+     97% of students from the 2021/22 cohort either        assess the diversity of teaching                                 The project has informally followed up with staff who have participated in the
+     strongly agreed or agreed.                            materials, which I didn’t always                                 scheme to discuss any changes resulting from the student feedback. However,
+                                                           notice unless it was very apparent                               to increase accountability and ensure student feedback is acted upon not just
+                                                           and problematic. I have also noticed                             discussed, the project will be introducing a formal process of monitoring staff
+                                                           there have already been some positive                            actions following their participation in the scheme from 2023/24. This will be
+                                                           changes since I took the modules,                                light touch to ensure staff do not disengage form the process due to increased
+                                                           so I am confident that my review/                                administration and largely facilitated through the relevant BAME Awarding Gap
+                                                           suggestions will also be considered                              Faculty Leads, to ensure staff are able to troubleshoot any discipline specific queries
+                                                           seriously.                                                       and/or concerns.
+
+                                                                                                                       4.   Challenges with student engagement and diversity
+                                                                                                                            For particular modules partaking in the Student Curriculum Partners Scheme,
+                                                                                                                            one of the main challenges was the lack of student engagement and the difficulty
+     The project team are now expanding the Student                                                                         in recruiting students each term, and several of the student groups involved
+     Curriculum Partners Scheme outside of the BAME                                                                         in the process were not as ‘diverse’ as anticipated. This could potentially be
+     Awarding Gap Project, to involve other student                                                                         improved by increasing the stipend to £300 and more creative methods of student
+     groups covered by the Student Success Office.                                                                          recruitment including posters and positive student testimonials for example, which
+     Expanding the focus and working collaboratively                                                                        can be further publicised by academics. This may still prove challenging as the
+     with more departments across the university should                                                                     Student Curriculum Partners Scheme only recruits students who have studied the
+     enable the enhancement and inclusivity of the                                                                          participating module, however testimonials from past students may encourage new
+     curriculum, to better support teaching and learning                                                                    students to participate, in the hope of having their voices heard and creating positive
+     for all underrepresented student groups.                                                                               changes in the curriculum for future students. Additionally, future work between the
+                                                                                                                            Student Success and Students’ Union teams can include initiatives encouraging
+                                                                                                                            more engagement from BAME and other underrepresented UK students at UCL.
+                                                                                                                BAME Awarding Gap Project
+34                       35
+                                                                                                                Evaluation Report – July 2023
+
+
+
+
+     BAME Awarding Gap
+     Staff Fund
+
+
+
+
+06
+                              The BAME Awarding Gap Staff Fund was set up in         Potential projects were assessed against several
+                              2018 to provide funding for intervention projects      criteria including:
+                              aimed at eliminating the BAME awarding gap.
+                              The Office of the Vice-President (Advancement)         •   Measurable outcomes focused on closing the
+                              contributed £250,000 to establish the fund and up          awarding gap
+                              until March 2022, staff could bid for up to £25,000
+                              per project over a three-year period which could be    •   Student-centred
+                              used to purchase equipment and resources, buy out
+                              staff time, or fund student internships to implement   •   Evidence-based
+                              interventions.
+                                                                                     •   Scalable
+
+                                                                                     •   Intervention focused (rather than research
+                                                                                         focused)
+
+                                                                                     •   Potential impact beyond the project lifecycle
+
+                                                                                     •   Forwarding the commitments of UCL’s Access
+                                                                                         and Participation Plan 2020/21-2024/25 and
+                                                                                         support strategic aims of UCL 2034
+
+                                                                                     •   Relate to themes in UCL’s BAME Awarding Gap
+                                                                                         Staff Toolkit
+                                                                                                                                                                                                        BAME Awarding Gap Project
+36                                                                                                            37
+                                                                                                                                                                                                        Evaluation Report – July 2023
+
+
+
+
+                                                                                                                   What projects were funded?
+
+
+     The individual projects currently running under                                                               In total 13 projects received funding across several
+     UCL’s BAME Awarding Gap Project include:                                                                      different faculties. The projects cover a range
+                                                                                                                   of interventions including but not limited to the
+                                                                                                                   following:
+
+                                                                                                                   •   Delivering curriculum change
+     PROJECT TITLE                                         FACULTY / DEPARTMENT
+                                                                                                                   •   Mentoring
+
+     Spaces of Risk in Built Environment: Navigating       Bartlett                                                •   Staff-student curriculum review intervention
+     Risk Taking Amongst BAME UG Students through
+     Workshops Mentoring and Collaboration                                                                         •   Values affirmation intervention
+
+     Belonging and Overcoming Adversity: Supporting        Life Sciences                                           •   Student Inclusivity Champions Panel
+     BAME Students in the Transition to University and
+     throughout their courses                                                                                      •   Yearly academic challenge projects
+
+     Investigating gaps in Personal Tutoring Provision     Engineering Sciences                                    •   Changes and enhancements to personal tutoring
+
+     BAMEhack: A Scalable Staff-Student Collaboration      Engineering Sciences                                    •   Developing inclusive teaching with ed-tech
+     to reveal BAME Stakeholders in Academic                                                                           application Teachly
+     Disciplines to help delivery of Inclusive
+     Curriculum Content                                                                                            •   Rolling out a ‘decolonising toolkit’
+
+     Community on Campus: Creating a Decolonised           IOE                                                     •   Teacher training
+     Home for BAME SRI Students
+                                                                                                                   •   Developing an online staff-student common room
+     Decolonising Population Health Sciences:              Population Health Sciences
+     Adapting and Formalising Faculty Praxis and Toolkit
+
+     Developing Inclusive Teaching and Teachly             Brain Sciences
+
+     Research and Race: Deconstructing the Matrix          Innovation and Enterprise and Bartlett
+
+     Implementing Inclusive Assessment Practice and        Institute of Education and Life Sciences
+     Values of Affirmative Intervention to reduce the
+     BAME Awarding Gap in Exams in Cell Biology
+     and Beyond
+                                                                                                                   Lessons
+                                                                                                                   Learned:
+     Mind the Gap! UCL History’s Approach to Tackling      Arts and Humanities
+     Inequality through Enhanced Belonging and
+     Inclusive Pedagogy
+
+     Channelling the BAME Student Voice to Unveil the      Social and Historical Sciences
+     Hidden Curriculum and Build an Inclusive
+     Learning Community                                                                                                                           The success of these projects depends significantly on buy-in from senior
+                                                                                                                                                  leadership in the department or programme and the faculty. Without this, it
+     Turn on the heating! Tackling the BAME Awarding       School of European Language, Culture and Society                                       is difficult to embed the changes into the education framework in a way that
+     Gap by beating the ‘Cold Climate’ in our classrooms                                                                                          makes them meaningful and impactful.
+
+     Collaborative Film-Making Module on Racism            Arts and Humanities
+     and Educational Violence
+                                                                                                                   BAME Awarding Gap Project
+38                         39
+                                                                                                                   Evaluation Report – July 2023
+
+
+
+
+     Training, Resources        The project identified gaps in staff knowledge
+                                and understanding and is addressing this through
+                                                                                        Inclusive Curriculum Health Check (ICHC)
+
+
+
+
+     and Events
+                                offering a broad range of training, resources and       The ICHC is a resource to support staff to reflect
+                                events. This includes the Inclusive Curriculum          on the inclusivity of their curriculum. The ICHC was
+                                Health Check, a resource bank, UCL case studies,        developed in 2018/19 during UCL’s participation in
+                                conferences and staff training. The project has drawn   the BAME Awarding Gap Consortium project and is
+                                on internal and external expertise to develop these     based on Kingston University’s Inclusive Curriculum
+                                interventions and has also been at the forefront of     Framework. In 2018/19 the completion of the ICHC
+                                disseminating knowledge and lessons learned with        was a mandatory part of UCL’s Annual Student
+                                other institutions across the sector.                   Experience Reviews (ASER) at both undergraduate
+                                                                                        and postgraduate level. All programmes received
+                                                                                        feedback on their ICHC, including recommendations
+                                                                                        for actions.
+
+
+
+
+07
+                                Examples of best practice from the
+                                Inclusive Curriculum Health Check
+
+
+
+                                                  Creating opportunities
+                                                  for students to work in
+                                                  partnership with students                   Using material that explores
+                                                  from other countries/                       different approaches to
+                                                  continents, gaining different               ethnic diversity, encouraging
+                                                  perspectives on the same                    students at every stage to
+                                                  subject area.                               question what they are being
+                                                                                              taught rather than taking
+                                                                                              research at face value.
+
+
+
+
+                                                 Where possible, permitting
+                                                 students to choose a researcher
+                                                 from a list generated by                        Extra-curricular lectures
+                                                 colleagues, nominating a                        scheduled and delivered
+                                                 number of non-male, non-white                   in term time by external
+                                                 or non-western researchers they                 experts from BAME
+                                                 admire. Alternatively, asking                   backgrounds, providing
+                                                 BAME students submit role                       positive role models for UK
+                                                 models that inspire them.                       (and international) BAME
+                                                                                                 students.
+                                                                                                                                                                                                                     BAME Awarding Gap Project
+40                                                                                                                        41
+                                                                                                                                                                                                                     Evaluation Report – July 2023
+
+
+
+
+     Inclusion Programme                                        Resource Bank, UCL case studies, Staff Toolkit                 In 2020 the project also launched the
+                                                                and Events                                                     BAME Awarding Gap Project Staff Toolkit.
+     In 2018 the project identified a gap in training                                                                          The toolkit is divided into four themes:
+     provision for staff. Whilst UCL offers unconscious         In 2017/18 UCL launched the BAME Awarding Gap
+     bias training for staff in the context of recruitment,     Resource Bank, which is a collation of resources
+     there is no training that focuses on the interactions      designed to help staff close the BAME awarding
+     between staff and students, particularly concerning        gap. The resource bank was updated in 2021/22 to
+     issues of bias, stereotyping and discrimination and        organise literature under four themes:                             Inclusive Curriculum
+     how these may impact the BAME awarding gap.
+     In 2018/19 the project team in collaboration with          1.   Inclusive approaches to teaching, learning and
+     external consultants, began developing an online                assessment
+     training programme to bridge this gap.                                                                                        Belonging
+                                                                2.   Belonging, community and partnerships
+     In 2020/21 the training was piloted with critical
+     friends of the project. The pilot flagged some issues      3.   Data and evaluation
+     around the content, particularly that it did not                                                                              Inclusive Teaching, Learning and
+     account for the changing landscape concerning              4.   Decolonising education                                        Assessment
+     issues of race and racism in the wake of the murder
+     of George Floyd in 2020 and the resurgence of the          The resource bank also features a collection of UCL
+     Black Lives Matter (BLM) movement. In 2021/22              case studies focusing on best practice across the                  Creating Safe Spaces
+     the project took the learnings of the pilot and            institution. In addition to the information available
+     began working collaboratively with colleagues              on the resource bank, the project also produced a                                                                        Professor Jason Arday
+     across UCL to produce a broader piece of training,         teaching toolkit around ‘Supporting BAME students
+     which considers issues of bias, stereotyping               in challenging times’, in the context of the pandemic
+     and discrimination across a range of protected             and resurgence of the BLM movement. Although
+     characteristics. This broader training, also aligns with   centred around BAME students during the COVID-19               The structure and content of this second toolkit          The lecture, ‘Learning to Fly: Engaging Pedagogically
+     work to close other awarding gaps at the institution       pandemic, the challenges and tips provided in the              was based on qualitative research with students           with Race and Racism in Higher Education’ is
+     including gaps for mature students, students with          toolkit can be used for all students covering teaching,        at UCL, which included surveys, focus groups and          available to view online, covering the following topics:
+     disabilities and students from disadvantaged socio-        learning, assessment, finance, technology, wellbeing           interviews, as well as a literature review of similar
+     economic backgrounds. The training programme               and belonging.                                                 research across the sector. It provides staff with an     •   Decolonising the curriculum
+     includes content which covers:                                                                                            understanding of issues associated with the BAME
+                                                                                                                               awarding gap, centring students’ lived experiences        •   Intersectionality
+     1. Introduction to Bias                                                                                                   and provides a range of practical tips and resources
+                                                                                                                               to help staff implement change to close the gap.          •   Considering inclusive pedagogies
+     2. Stereotypes and Micro-behaviours
+                                                                                                                               The project also identified a gap in training around      •   Acknowledging existing good practice at UCL
+     3. Privilege and Meritocracy                                                                                              supporting staff in engaging with conversations
+                                                                                                                               around race and racism in higher education. To            •   Consider unconscious bias
+     The Inclusion Programme training is in development                                                                        bridge this gap the project delivered a training
+     and we hope to launch it in the academic year                                                                             session run by Professor Jason Arday in March             •   Centring discussions about race and racism
+     2023/24. The modules within the programme in                                                                              2020, which allowed staff to join a safe space to field       within curricula
+     addition to previous training on unconscious bias                                                                         concerns and feel more comfortable and confident in
+     are set to focus on topics such as prejudice, race a                                                                      facilitating discussions about race and racism.
+     social construct and its affects on the awarding gap.
+                                                                                                                                                                                                       BAME Awarding Gap Project
+42                                                                                                          43
+                                                                                                                                                                                                       Evaluation Report – July 2023
+
+
+
+
+     Conferences
+                                                                                                                 UCL BAME Awarding Gap Project:
+     The BAME Awarding Gap Project has delivered three
+     conferences to date. The first conference took place
+                                                                                                                 5 Years On
+     in-person in March 2018 and focused on raising
+     awareness of the project, introducing initial data
+     analysis of UCL’s BAME awarding gap and launching                                                           The ‘UCL BAME Awarding Gap Project: 5 Years On’
+     resources such as the ICHC. The second conference                                                           conference took place in May 2023, with the chance
+     took place online in June 2021 and provided an                                                              for attendees to explore and spectate achievements
+     update on the progress of the project, showcased                                                            of the project to date and ongoing plans for the
+     interventions taking place across UCL and invited                                                           future.
+     contributions from students involved in the project.
+     The project’s third and most recent conference took                                                         Organised by the Student Success Office, the
+     place in-person, in May 2023.                                                                               conference consisted of presentations from
+                                                                                                                 some of the BAME Awarding Gap Faculty Leads,
+     The conferences have been effective in raising                                                              with references to their work, achievements and            Sofia Akel                   Vice Provost, Kathy Armour
+     awareness of the project and its progress on large                                                          challenges faced. The keynote speech was given by
+     scale. They have additionally provided opportunities                                                        Sofia Akel, cultural historian, producer and researcher
+     for colleagues to share best practice across the                                                            with further key speech by Vice Provost, Professor
+     institution and learn about different initiatives taking                                                    Kathy Armour.
+     place.
+                                                                                                                 Highlights from the conference included:
+
+
+
+
+                                                                                                                 FACULTY                            PRESENTATION
+                                                     2018 Conference   2021 Conference    2023 Conference
+                                                                                                                 UCL Economics                      Channelling the BAME Student Voice to Unveil the Hidden Curriculum and
+     Attendance Number                               108               172                70                                                        Build and Inclusive Learning Community
+
+     How useful was the                              Very useful       Very useful        Very useful            Life Sciences,                     The Pandemic-Associated shift in Diverse Assessment type Reduced the
+     conference in increasing your                   62.2%             60%                52.6%                  School of Pharmacy                 BAME Awarding Gap
+     knowledge about the BAME
+     awarding gap and related issues?                Somewhat useful   Somewhat useful    Somewhat useful        Social Research                    Community on Campus: Building a Decolonised Home for Social Research
+                                                     32.4%             28%                26.3%                  Institute, IOE                     Institute BAME Students
+
+                                                                                                                 Clinical, Health and               Understanding the UK BAME Awarding Gap in Module Assessment for
+                                                                                                                 Educational Psychology             Psychology
+                                                                                                                 Brain Sciences
+
+                                                                                                                 Student Success                    Student Curriculum Partners: Utilising Student Perspectives to create an
+                                                                                                                                                    Inclusive Curriculum
+
+                                                                                                                 Faculty of Life Sciences           Cross-Faculty, Interdisciplinary Creation of a more Inclusive Exam in Cell
+                                                                                                                                                    Biology
+                   The conference itself was
+                   fantastic and there isn’t anything                  It was great to have                      UCL Social and                     Mind the Gap! UCL History’s approach to tackling inequality through
+                   that I would particularly change                    the kaleidoscope of                       Historical Sciences                Enhanced Belonging and Inclusive Pedagogy
+                   about it, other than perhaps                        experiences, methods
+                   make it a full day rather than a                    and strategies.                           Life Sciences, Division            Belonging and Overcoming Adversity - Supporting BAME Students in the
+                   half day.                                                                                     of Biosciences                     Transition to University and Throughout Their Courses
+
+
+                                                                                                                 School of European                 Decolonising Translation: Tackling the BAME Awarding Gap
+                                                                                                                 Languages, Culture
+                                                                                                                 and Society
+
+                                                                                                                 Medical Sciences                   A 5-year Analysis of the MBBS Awarding Gap
+                                                                                                                                                                             BAME Awarding Gap Project
+44                                                                                           45
+                                                                                                                                                                             Evaluation Report – July 2023
+
+
+
+
+     What our 2023 conference
+     attendees said:
+
+
+                                                The conference confirmed that things
+                                                are changing slowly in the world of
+                                                academia, in terms of equality and
+           It was really interesting and        diversity, albeit slowly. And that
+           inspiring to hear about the          academic institutions are reluctantly
+           projects going on across the         realising that for people from the black
+           university to address the gap.       communities universities are places of
+                                                inequality, and unfair treatment. This,
+                                                as opposed to places where they feel
+                                                safe, respected, and valued for the
+                                                quality of their work, and their personal
+                                                experiences, knowledge, and insight
+                                                that enriches it.
+         Variety of content, very interesting
+         presenters, plenty of space
+         for discussion, many ideas for
+         actions and productive directions.
+
+
+
+
+                                                                                                  Lessons
+                                                I was already aware of the gap, the
+                                                conference made me feel more
+                                                proactive. I’ve taken all the info back to
+                                                my department and have presented on
+                                                                                                  Learned:
+      The keynote speaker Sofia Akel was        the awarding gap. I can relate a lot to
+      engaging and inspiring. The Student       Sofia, and her methods are very up to
+      Success presentation given by Paulette    date and it’s refreshing to have a younger
+      and Rebecca was the most informative      person’s perspective on the awarding                         1.   Where possible, interventions should be embedded into existing mandatory
+      and useful in terms of supporting local   gap. Her module would appeal to many                              processes
+      action in our department and thinking     students at UCL and it would definitely                           The ICHC was embedded into UCL’s ASER process, which meant all undergraduate
+      about the future.                         make students feel like they belong here.                         and postgraduate programmes were required to engage with the health check.
+                                                                                                                  This ensured programme leaders took the time to reflect on the inclusivity of their
+      The staff presentation sessions that I                                                                      curriculum. If engagement with the resource was optional, it is likely that some staff
+      attended were good, and I wanted more                                                                       may not have taken part in this reflective exercise.
+      of this.
+                                                                                                             2.   The ICHC should be expanded to include a section for actions
+                                                                                                                  Whilst the ICHC is useful as a self-reflective tool, it would have been helpful if
+                                                                                                                  there was a section in the resource that allowed staff to write follow-up actions.
+                                                It reinforced my existing impression that                         The project team provided feedback on ICHC submissions, which included some
+                                                the Awarding Gap and Student Success                              recommended actions, however the programme leaders were not asked to formalise
+                                                team are doing amazing work. I am keen                            their commitments when submitting responses. A list of actions would have made
+                                                to work more closely with the team to                             the follow-up on the ICHC more effective and useful for the project team with regard
+       It helped me to understand the           highlight and push that work forward.                             to monitoring changes, progress and impact.
+       nuances around the topic and how
+       these perceived nuances multiplied                                                                    3.   Maintaining an informed and current approach
+       via numbers can create big gaps.                                                                           The language and ideas around equity and inclusion are ever evolving. Whist
+                                                                                                                  it is challenging to keep up to date with these changes, it can help to attend
+                                                                                                                  conferences, engage with external organisations, and invite external speakers to
+                                                                                                                  events to ensure an understanding of current issues.
+                                                                                                                   BAME Awarding Gap Project
+46                47
+                                                                                                                   Evaluation Report – July 2023
+
+
+
+
+     Next Steps        The table below shows the awarding gap for the final
+                       degree outcomes in the academic year 2021/22.
+
+
+
+
+                       FACULTY                    AWARDING GAP (%)               BAME STUDENTS                        WHITE STUDENTS
+
+
+                                                  First-class      2:1           First-class          2:1             First-class     2:1
+
+
+
+
+08
+                       Arts and                   8.6              1.4           38/93                44/93           98/198          91/198
+                       Humanities
+
+                       Brain Science              14.0             8.7           16/38                20/38           23/41           18/41
+
+                       Engineering                2.4              9.4           108/174              50/174          40/62           12/62
+                       Sciences
+
+                       Laws                       26.3             23.7          8/36                 26/36           17/35           17/35
+
+                       Life Sciences              1.2              1.6           106/175              59/175          63/102          36/102
+
+                       Mathematical               19.2             9.1           74/186               66/186          85/144          38/144
+                       and Physical
+                       Sciences
+
+                       Medical Sciences           4.0              3.5           319/438              111/438         176/229         50/229
+
+                       Population Health          2.8              2.7           51/86                32/86           18/29           10/29
+                       Sciences
+
+                       Social and                 17.1             12.2          56/176               103/176         134/274         127/274
+                       Historical
+                       Sciences
+
+                       Built                      19.4             11.1          14/42                23/42           29/55           24/55
+                       Environment
+
+                       IOE                        16.8             5.0           7/37                 23/37           10/28           16/28
+
+
+
+
+                       Whilst the institution has made significant progress             will continue to support projects funded via the BAME
+                       to close the gap, it is clear more needs to be done,             Awarding Gap Staff Fund through to completion,
+                       particularly concerning First-class awarding gaps.               with a view to share what works and scale these
+                       The project will continue to use an evidence-based               interventions across the institution where possible.
+                       approach, which comes from robust data analysis
+                       of the gap. However, the primary focus will be on
+                       interventions to close the BAME awarding gap and an
+                       evaluation of these interventions. As such, the project
+                                                                      BAME Awarding Gap Project
+48                     49
+                                                                      Evaluation Report – July 2023
+
+
+
+
+     Closing Remarks
+                            Dr Julie Evans      I have been working at UCL since September 2012 as
+                                                Faculty Tutor for Brain Sciences. The most rewarding
+                                                and challenging time for me at UCL has been working
+                                                on the BAME Awarding Gap Project, since 2018. I am
+                                                passionate about equality of access and experience
+                                                for higher education; getting a degree from a highly
+                                                ranked university changes that student’s life and
+                                                inspires other family members and future generations.
+                                                The fact that UCL and many other universities in the
+                                                UK have a BAME awarding gap for our UK students
+
+
+
+
+09
+                                                is simply wrong; the responsibility to change this lies
+                                                with the university.
+
+                                                I feel immensely grateful that UCL has given me the
+                                                opportunity to work with like-minded people to lead
+                                                and implement this project, as well as the resources
+                                                – I have learnt a great deal. We have achieved some
+                                                success over the last 5 years but the work continues!
+
+
+
+
+                            Professor Parama    Working first as a BAME Faculty Lead for (Social and
+                            Chaudhury           Historical Sciences) since 2018 and later as a Co-Lead
+                                                of the project (Analysis and Evaluation), it has been
+                                                a great pleasure to see the huge amount of effort
+                                                that colleagues across the university have put in to
+                                                ensure a world class education for ALL our students,
+                                                irrespective of background and the commitment
+                                                to developing a supportive and inclusive learning
+                                                community.
+
+                                                We have made significant progress in terms of
+                                                narrowing the awarding gap but there is always more
+                                                to do.
+
+
+
+
+                            Paulette Williams   I have had a long career at UCL working to create
+                                                equity amongst students and staff, promoting access
+                                                to education, and supporting student success. I have
+                                                worked on the BAME Awarding Gap Project since
+                                                its initiation in 2017 and it’s been a challenging yet
+                                                rewarding journey. I’d like to take this opportunity to
+                                                thank the project team – especially Sukhi Bath who I
+                                                worked closely with for several years. I’d also like to
+                                                acknowledge the many champions of this work across
+                                                the university who have done an incredible job of
+                                                educating, collaborating, and creating change in their
+                                                areas of the institution.
+
+                                                I look forward to working with the Student Success
+                                                Team to continue to address inequality and create an
+                                                inclusive environment for all students at UCL.
+                                                                                             BAME Awarding Gap Project
+50                      51
+                                                                                             Evaluation Report – July 2023
+
+
+
+
+     Acknowledgements
+
+
+
+
+10
+                             Access and Widening Participation     Paulette Williams
+                                                                   Head of Student Success
+                             Arena Centre
+                                                                   Professor Kathleen Armour
+                             BAME Awarding Gap Project Leads       Vice-Provost Education and Student Experience
+
+                             BAME Awarding Working Group Members   Professor Parama Chaudhury
+                                                                   Co-Lead BAME Awarding Gap Project
+                             Dr Julie Evans                        Pro-Vice Provost Education – Student Academic
+                             Co-Lead BAME Awarding Gap Project     Experience
+                             Faculty Tutor Brain Sciences
+                                                                   Professor Rosalind Duhs
+                             Faculty Leads
+                                                                   Project Team
+                             Faculty Tutors
+                                                                   Sukhi Bath
+                             Hannah Kinghorn
+                             BAME Awarding Gap Project Manager
+UCL Student and Registry Services
+University College London
+Gower Street
+London, WC1E 6BT
+
++44 (0) 20 3108 6510
+
+ucl.ac.uk/bme-awarding              ucl.ac.uk
+

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 16:47:26 GMT
+Server: Apache
+Cache-Control: private, max-age=0, must-revalidate
+Cache-Control: no-store, no-cache, must-revalidate
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8

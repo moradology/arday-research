@@ -1,0 +1,31 @@
+HTTP/2 301 
+content-type: text/html; charset=utf-8
+location: /show/archive/9692/
+strict-transport-security: max-age=31536000; preload
+x-content-type-options: nosniff
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+x-cloud-trace-context: a6a2267f8c1e0123148f22628984dd35
+date: Thu, 06 Aug 2026 23:10:05 GMT
+server: Google Frontend
+content-length: 0
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: public, max-age=300, stale-while-revalidate=1800
+x-frame-options: DENY
+vary: Cookie
+strict-transport-security: max-age=31536000; preload
+x-content-type-options: nosniff
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+set-cookie: csrftoken=WBcOdjxaA40xFl966acTR4203XgwW1g5; expires=Thu, 05 Aug 2027 23:10:05 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+x-cloud-trace-context: 00ecf36a184dee57148f22628984d0b9
+date: Thu, 06 Aug 2026 23:10:05 GMT
+server: Google Frontend
+content-length: 81637
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000
+

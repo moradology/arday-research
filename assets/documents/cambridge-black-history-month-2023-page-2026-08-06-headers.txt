@@ -1,0 +1,31 @@
+HTTP/2 200 
+cache-control: max-age=300, public
+content-language: en
+content-security-policy: report-uri /report-csp-violation; upgrade-insecure-requests
+content-type: text/html; charset=UTF-8
+etag: W/"1786036546"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 06 Aug 2026 17:15:46 GMT
+permissions-policy: autoplay=*, camera=self, fullscreen=*, geolocation=*, microphone=self, picture-in-picture=*, web-share=self
+referrer-policy: strict-origin-when-cross-origin
+server: nginx
+strict-transport-security: max-age=2592000
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-drupal-dynamic-cache: MISS
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 10 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-eu-a-6975d949c6-bxrvr
+x-styx-req-id: e328da7d-91bd-11f1-9497-ae12f2e2bb2b
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Thu, 06 Aug 2026 17:40:17 GMT
+x-served-by: cache-ams-eham8680039-AMS, cache-mci680041-MCI, cache-mci680033-MCI, cache-mci680033-MCI
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1786038017.052755,VS0,VE296
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 122110
+

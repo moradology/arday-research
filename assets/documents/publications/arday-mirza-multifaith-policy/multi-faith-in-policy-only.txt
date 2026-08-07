@@ -1,0 +1,1146 @@
+       British Journal of Sociology of Education
+
+
+
+
+       ISSN: 0142-5692 (Print) 1465-3346 (Online) Journal homepage: www.tandfonline.com/journals/cbse20
+
+
+
+
+Multi-faith in policy only? Religion and belief
+inequalities at UK universities since the Equality
+Act
+
+Kristin Aune, Tom Fryer, Lucy Peacock & Mathew Guest
+
+To cite this article: Kristin Aune, Tom Fryer, Lucy Peacock & Mathew Guest (30 Sep 2025):
+Multi-faith in policy only? Religion and belief inequalities at UK universities since the Equality
+Act, British Journal of Sociology of Education, DOI: 10.1080/01425692.2025.2557570
+
+To link to this article: https://doi.org/10.1080/01425692.2025.2557570
+
+
+
+
+       © 2025 The Author(s). Published by Informa
+       UK Limited, trading as Taylor & Francis
+       Group
+
+       View supplementary material
+
+
+
+       Published online: 30 Sep 2025.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 47
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=cbse20
+British Journal of Sociology of Education
+https://doi.org/10.1080/01425692.2025.2557570
+
+
+
+
+Multi-faith in policy only? Religion and belief inequalities
+at UK universities since the Equality Act
+Kristin Aunea             , Tom Fryerb             , Lucy Peacockc                 and Mathew Guestd
+a
+ Centre for Peace and Security, Coventry University, Coventry, UK; bManchester Institute of Education,
+University of Manchester, Manchester, UK; cWoolf Institute, Cambridge, UK; dDepartment of Theology and
+Religion, Durham University, Durham, UK
+
+
+
+    ABSTRACT                                                                                                ARTICLE HISTORY
+    The Equality Act 2010 requires universities to eliminate harassment,                                    Received 27 August 2024
+    ensure equality of opportunity and promote good relations for those                                     Accepted 1 September 2025
+    of different religious or philosophical beliefs. The attention universities                             KEYWORDS
+    give to these obligations vary. This article analyses survey data from                                  Religion; higher education;
+    4,618 students to examine religion and belief-related experiences and                                   universities; policy
+    inequalities in universities in relation to the Equality Act’s three foci:                              implementation;
+    eliminating harassment; equal opportunities; and good relations. The                                    inequalities; Equality Act
+    article adopts the lens of equality/inequality, assessing differences
+    between religious groups and types of university, and draws upon
+    Ahmed’s and Elgström’s work on the complexity of equality policy
+    implementation to account for the endurance of religion and
+    belief-related inequalities. Despite the positioning of ‘religion or belief’
+    as a protected characteristic and diversity-friendly language such as
+    ‘multi-faith’, inequalities remain, with religious students and students
+    at certain types of university, especially vulnerable to unequal treatment
+    compared to their peers.
+
+
+
+
+Introduction
+In 2010, ‘religion or belief ’ became one of nine characteristics protected under the Equality
+Act (2010). This Act consolidated previous legislation related to race, sex and disability,
+and expanded it to age, sexual orientation, marriage and civil partnership, religion or belief,
+gender reassignment and pregnancy and maternity. Subsequently, UK universities have
+been expected to ensure equality of opportunity, promote good relations and eliminate
+harassment for those sharing these protected characteristics. Yet the attention universities
+give to religion or belief equality, forging good relations across religious differences, and
+eliminating religion-related harassment varies. For example, some universities have exten-
+sive resources for religious students, encompassing religious diets, holidays, prayer space,
+chaplaincy and religious student societies. At others, provision is patchy. This article draws
+on survey data collected in 2022 from 4618 students at 133 UK universities. We examine
+CONTACT Kristin Aune     ab8574@coventry.ac.uk        Centre for Peace and Security, Coventry University, Coventry, UK
+  Supplemental data for this article can be accessed online at https://doi.org/10.1080/01425692.2025.2557570.
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/
+by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms
+on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+2     K. AUNE ET AL.
+
+
+students’ experiences of religion or belief-related equality in universities in relation to the
+Equality Act’s three foci (eliminating harassment; equal opportunities; and good relations),
+comparing differences between religious groups and different types of university. We will
+discuss these findings through the lens of equality/inequality, arguing that despite the posi-
+tioning of religion or belief as a protected characteristic and diversity-friendly language
+such as ‘multi-faith’, inequalities remain, with some religious students especially vulnerable
+to unequal treatment, contrary to the conditions the Equality Act was intended to maintain.
+   The growth of religious diversity in the UK, the new statistical evidence of the size of
+religious communities, and the Employment Equality (Religion or Belief) Regulations 2003
+informed the context for introducing the Equality Act (2010) (Aspinall 2000). The Act
+accorded new protection to ‘religion or belief ’ groups, although the reaction to the legisla-
+tion by religious groups was, as Vickers (2011b) predicted, not universally positive (Purdam
+et al. 2017).
+   Equality statistics have been collected in higher education in England since at least 2010
+(OfS 2022, 15–16) and are included in Advance HE’s annual reports. Evidence from Weller,
+Hooley, and Moore (2011) helped persuade HESA in 2012–2013 to request universities to
+collect data on religion and belief (Weller and Hooley 2017); data collection became man-
+datory from 2017 to 2018 (OfS 2022, 15, 22), with collection rates rising. The Office for
+Students’ data from 2020 to 2021 on student characteristics show that 46.2% of undergrad-
+uate entrants said they had no religion, 32.1% said they were Christian and 13.0% identified
+as Muslim; postgraduates were slightly more likely to report no religion (47.1%) than under-
+graduates (OfS 2022, 9).
+
+
+Literature review
+There has been a notable neglect of religion in UK higher education research (Stevenson
+2014), but this is changing. This article contributes to this growing body of research.
+Research reviewed below relates to the three foci of the Equality Act, indicating how far
+universities are eliminating discrimination and harassment, advancing equality of oppor-
+tunity and fostering good relations. The research reported below focuses on religion and
+belief among students; the topic of religion and belief amongst staff requires separate
+investigation.
+   Several caveats are needed. While statistics on discrimination and harassment give cause
+for concern, most survey data featured below is gathered from volunteer samples. This
+sampling strategy does not account for the ways experience of harassment may influence
+one’s response rate, making generalisation challenging. Second, what students consider to
+be harassment may not be the same as what university or legal investigations might establish
+has taken place. Third, marginalisation can coexist with progress towards inclusion. As
+Hopkins (2011) observed through analysis of interviews with 29 Muslim students at one
+university, students emphasise both the liberal and tolerant nature of the university and the
+discrimination or exclusion they face.
+
+
+Discrimination and harassment research
+A survey undertaken by Weller, Hooley, and Moore (2011) for the Equality Challenge
+Unit (ECU, now incorporated into Advance HE) found 6.1% of 3935 students reporting
+                                               British Journal of Sociology of Education      3
+
+
+discrimination or harassment on the grounds of religion or belief. This figure was higher
+for Jewish (27%), Sikh (17%) and Muslim students (14%). However, less than 1.7% of
+students had made a formal complaint about this. A survey of 925 Jewish students con-
+ducted around the same time found that a fifth said they had been subjected to antisem-
+itism that academic year, and a further third had witnessed an antisemitic incident on
+campus (Graham and Boyd 2011). Jewish, Muslim and Sikh students were most likely to
+have experienced such hate incidents. Aune et al.’s (2020) survey of students at one UK
+university found that 6.5% of 612 students surveyed said that they had, since coming to
+university, personally experienced a religion-related hate incident/crime. A contempo-
+raneous nationwide study found a ‘climate of prejudice’ against Muslims across UK uni-
+versities, fuelled by entrenched stereotypes, often perpetuated by mass media, and
+government counter-terrorism measures which reinforced suspicion among students and
+staff (Scott-Baumann et al. 2020, 131). The experience of Muslim students in further and
+higher education was investigated by the NUS (2018), who found a third (of 578) had
+experienced abuse or crime at their institution, with one in five subjected to verbal abuse.
+Echoing Hopkins’ (2011) point, Saeed’s interviews with 40 Muslim students reveal that
+positive work to counter harassment coexists with Islamophobia in UK universities (Saeed
+2018). Before the events of 7 October 2023, the Community Security Trust reported a
+22% increase in on-campus antisemitic incidents compared to two years previously; most
+were online and spiked when the Israel-Palestine conflict escalated (Harris and
+Goldberg 2023).
+
+
+Advancing equality of opportunity research
+Weller, Hooley, and Moore studied university data collection on religion. Over 80% of
+students said they would disclose the information. Buddhists and Pagans were less com-
+fortable disclosing, possibly due to concerns about state surveillance (Weller and Hooley
+2017, 42–43). Around 10% of students disagreed or strongly disagreed that the course
+teaching or content ‘is sensitive to my religion or belief ’ (Weller and Hooley 2017, 48).
+    Religious calendars can conflict with the calendars of UK universities. Whether univer-
+sities make allowances to enable students to celebrate religious festivals when they conflict
+with teaching or exams varies (Weller, Hooley, and Moore 2011). Non-Christian students
+may feel excluded by Christian elements in university ceremonies, for example, prayer at
+graduation. Religious students may feel likewise marginalised when universities exclusively
+champion secular or secularist values (Weller and Hooley 2017).
+    Religious barriers to financing higher education are highlighted by Avdukic et al. (2023),
+who discuss Somali students influenced by interpretations of some Shari’ah scholars that
+interest-bearing loans constitute usury (ribā). If Somali students see their religion as pro-
+hibiting taking out interest-bearing loans—and they find some do—this indicates that the
+government has failed to create a student finance system equally accessible to all groups.1
+    Miles and Benn (2016) discuss the extent to which one university’s sports activities are
+equally accessible to Muslim women. The mixed-sex organisation of many and the domi-
+nance of male coaches present barriers due to Islamic expectations around modesty.
+    Research addressing whether students of particular religions are less likely to reach their
+academic potential finds a significant Muslim awarding gap; Muslims are the religious
+group least likely to graduate with a first-class or upper second-class degree (Codiroli
+4     K. AUNE ET AL.
+
+
+Mcmaster 2020). Some explain this in terms of Islamophobia or conflate Islamophobia with
+racism, but Gholami (2021) points to the intersection of religion and race.
+   Chaplaincy is an important religious resource in universities. Research undertaken by
+Aune et al. (2019) found that there are around 1000 chaplains in UK universities (2019, 11);
+the average per institution is over 10, but almost two-thirds are volunteers. The proportion
+of chaplains from minority faiths increased in the period 2007 to 2017, from 30% to 37%,
+with numbers of Muslim (9%) and Jewish chaplains (8%) largest. A minority of universities
+have a Sikh, Hindu, Pagan or Humanist chaplain. The majority of chaplains (63%) are
+Christian, down from 70% in 2006–2007, but the picture is diversifying.
+   Chaplaincies are also increasingly called ‘multi-faith’– a rise from 1 in 10 in 2006–2007
+to 1 in 4 universities using this title in 2016–2017 (Aune et al. 2019, 31). In terms of faith
+spaces, the average university has 4.9 prayer spaces, and just over two-thirds have at least
+one permanent Muslim prayer space, a negligible rise since 2007. 59% have at least one
+chapel. (Aune et al. 2019, 31–35). Hopkins’s (2011) study of Muslim students notes that the
+discrimination they face is often spatial, with the university mosque located on the periphery
+of campus.
+
+
+Fostering good relations research
+Social relations between religious and non-religious students can be hampered by the
+­presence of alcohol in social life. Weller, Hooley and Moore’s 2011 research found ‘groups
+ of students whose attitudes towards alcohol consumption are defined by their religion or
+ belief ’ (Weller, Hooley, and Moore, 2011, 49) more likely to feel unable to participate in
+ social activities.
+    Stevenson’s (2014, 56) interviews with 15 religious students in a post-1992 university
+ found that students experienced being ‘othered’ because of their religious differences, with
+ Christian students ridiculed for not having sex and Muslims for presumed association with
+ terrorism or women’s oppression. A Jewish student was not given time off to celebrate Jewish
+ festivals. Muslims or Sikhs who wore symbols of their faith felt particularly isolated. This
+ isolation contrasted with the university’s public multicultural and internationalisation ethos
+ and led them to socialise outside the university. Stevenson argues that universities should
+ do more to create cross-cultural and interreligious dialogue; having an internationalisation
+ strategy is not enough to ensure that students relate well on the ground.
+    Aune, Perfect and Ryan’s qualitative study of religious student societies found they offer
+ vital support and friendship among religious minorities (Aune et al. 2025). They analyse
+ this in terms of bonding and bridging social capital: students bond with likeminded others
+ as they find support for their religion in a sometimes-hostile environment, but they do
+ much less ‘bridging’ to others, for example, through interfaith activities. Sheldon’s (2016)
+ research on the Israel-Palestine conflict at UK universities highlighted how combative
+ debates can cause relations between groups to be damaged and contribute to the reinforce-
+ ment of stereotypes.
+    The literature above shows that inequalities remain in the three areas of the Equality
+ Act. Yet almost all the research was conducted before 2020, and except for one project, none
+ considered these areas in relation to the Equality Act, or in relation to each other. The one
+ project that did so, led by Dinham on religious literacy leadership in higher education,
+ interviewed Vice Chancellors, university managers, staff and students about four policy
+                                                  British Journal of Sociology of Education          5
+
+
+arenas: equalities and diversity; widening participation and social mobility; student expe-
+rience; and fostering good campus relations. Senior managers had paid religion new atten-
+tion, seeing it as part of ‘an “equality and diversity” brief ’ (Dinham and Jones 2012, 192).
+They saw becoming more attentive to students’ faith as integral to their increased focus on
+the student experience. Some as preferable to focusing on preventing extremism saw fos-
+tering good relations, but interviewees regretted that there was sometimes a reluctance by
+student societies to work with chaplains. Dinham and Jones’ findings cover some of the
+same ground as this article, but ours focuses on student experiences, uses national survey
+data, and looks in greater detail at the three aspects of the Equality Act.
+
+
+Religion and belief inequalities, the Equality Act (2010) and policy
+implementation in higher education
+Within the Equality Act, the Public Sector Equality Duty (Section 149) came into force in
+2011 (Equality Act 2010). The vast majority of universities, like police or government depart-
+ments, are public authorities so are required, ‘to have due regard to the need to achieve the
+objectives set out under s149 of the Equality Act 2010’ to:
+
+a. Eliminate discrimination, harassment, victimisation and any other conduct that is
+   ­prohibited by or under the Equality Act 2010;
+b. Advance equality of opportunity between persons who share a relevant protected
+    ­characteristic and persons who do not share it;
+c. Foster good relations between persons who share a relevant protected characteristic and
+     persons who do not share it.
+
+On (b), the duty explains that:
+   Having due regard to the need to advance equality of opportunity … involves having due
+   regard, in particular, to the need to –
+
+   (c) encourage persons who share a relevant protected characteristic to participate in public
+   life or in any other activity in which participation by such persons is disproportionately low.
+   (Vickers 2011a, 43–44)
+   As Vickers (2011a, 54) points out, this emphasises ‘the idea of equality as inclusion and
+participation’ and moves beyond mere equality of opportunity. The term ‘due regard’ does
+not commit public authorities to a particular outcome, so arguably lends itself to a ‘tick box’
+approach, but ‘to the need’ strengthens the obligations on public authorities (Vickers 2011b,
+156). The Equality Act 2010 (Specific Duties) Regulations 2011 require public authorities
+to publish ‘equality objectives, at least every four years’ and ‘information to demonstrate
+their compliance with the public sector equality duty’.
+   The ECU’s (2012, 24) briefing for colleges and HEIs highlights that: ‘Religion or belief
+should therefore be taken to mean the full diversity of religious and belief affiliations within
+the UK, including non-religious and philosophical beliefs such as atheism, agnosticism and
+humanism’.
+   As we present data below on students’ experiences of religion or belief-related equality
+in universities, two things should be considered. First, the Equality Act coexists alongside
+other legislation universities must abide by, such as The Prevent Duty within the
+6     K. AUNE ET AL.
+
+
+Counter-Terrorism and Security Act 2015 and the Higher Education (Freedom of Speech)
+Act 2023, and these have different emphases, sometimes pulling universities in different
+directions. Second, although the Equality Act is ostensibly positive because it promotes
+action to address discrimination and marginalisation of students, law and policy can have
+unintended consequences: as Scott-Baumann et al. (2020) show, the counter-terrorism
+Prevent Duty has had a negative impact on Muslims, many of whom have felt unfairly
+targeted, monitored and stigmatised as a ‘suspect community’.
+    Policy implementation in universities, as anywhere, is complex. As Elgström (2000)
+shows in the case of gender equality being ‘mainstreamed’ in development and foreign aid
+policies in the EU, new norms must ‘fight their way into institutional thinking’, inhibited
+by their different interpretation among different actors. ‘Norm diffusion’ can occur, with
+widespread internalisation, but there is also ‘norm resistance’. Elgström highlights the role
+of ‘norm entrepreneurs’ who advocate for new norms, involving subsequent negotiations
+with co-actors. Norm adoption may be ‘formal’ (even if only lip service is paid) or ‘real’,
+internalized and adopted throughout the organisation (Elgström 2000, 458–59).
+    Ahmed’s work sheds further light on why EDI officers, the group most likely to be tasked
+with Equality Act implementation, may have been ineffective in furthering religion and
+belief equality, arguing that the focus given to producing race equality documentation
+conceals the university’s problems of racism. Ahmed (2007) considers the Race Relations
+Amendment Act (2000), which made the promotion of race equality a duty for public bodies
+as it is today within the Equality Act. With public bodies required to have a race equality
+policy and action plan, Ahmed (2007, 591) examines how policies ‘get translated into action’
+in universities. Despite the recommendation to produce the race equality document via
+working groups, most higher education institutions tasked someone, often a newly appointed
+race equality or HR officer, to write it. It circulates, posted on a website or given to new
+staff, but ‘the dissemination of the document does not necessarily do anything’ (594).
+    Instead, Ahmed argues that these documents act as a kind of performance: ‘They are
+ways in which universities perform an image of themselves, and they are also ways in which
+universities perform in the sense of “doing well’’’ (2007, 594). The existence of race equality
+documents becomes the evidence that educational institutions are achieving race equality,
+when the racism that necessitated them has not gone away. In this way, the documents, and
+the diversity languages within them, can actually ‘conceal[s] racism’ (606). Indeed, the
+EHRC’s (2019) inquiry into racial harassment in publicly funded universities reveals that
+it is still common. Ahmed concludes: ‘the idea that the document “does race” means that
+people can think that race has been “done”’ (599). Equality documents should be read
+critically to look for the gap between rhetoric and practice, and in this way, the gap between
+what they say and what they do can be revealed. We return to these arguments in the
+Discussion.
+
+
+Methods
+This article considers student survey data (n = 4618) from The Interfaith Diversity
+Experiences and Attitudes Longitudinal Survey (IDEALS UK), collected in Autumn 2022.
+After ethical approval was obtained from the University [name and number to be added],
+the survey was conducted by the youth research agency YouthSight, which applied a quota
+sampling method to an existing panel of young adults based across the UK. The IDEALS
+                                                             British Journal of Sociology of Education   7
+
+
+UK sample contains some sample bias, e.g. full-time, undergraduate, young (18–20), UK
+women studying STEM subjects are over-represented (see Table 1). Generalized ranking
+was applied to generate weights (Deville et al. 1993), matching the survey to a set of known
+percentages found in the UK HE population. This was done using gender, ethnicity, age,
+university type, level of study and religion, to make the resulting sample more representative
+of the UK HE sector.
+   The analysis focussed on questions related to the Equality Act’s three areas (harassment,
+equal opportunities, and good relations). Questions selected were part of the IDEALS UK
+study on how to build positive relationships between university students across religion
+and worldview diversity. The study adopted the phrase ‘religion and worldview’ in response
+to the challenges posed by an increasingly complex and fragmented range of orientations
+to religious, spiritual and philosophical views within the contemporary UK. The study
+
+       Table 1. Unweighted and weighted sample, compared with HESA data (2021–2022).
+                                              Unweighted                 Weighted   HESA (2021–2022)
+       Uni Type
+        Traditional elite                     23.5% (1,084)               14.0%     14.2% (388,175)
+        Secular                               69.8% (3,224)               81.3%     80.7% (2,203,630)
+        Cathedrals Group                       6.7% (310)                   4.7%     5.0% (137,675)
+       Domicile
+        UK                                    88.5% (4088)                85.9%     76.2% (2,182,560)
+        International                         11.5% (530)                 14.1%     23.8% (679,970)
+       Mode of study
+        Full time                             97.9% (4,512)               95.9%     79.2% (2,266,580)
+          Part time                            2.1% (97)                    4.1%    20.8% (596,040)
+       Level of study
+        UG                                    89.5% (4112)                71.2%     71.3% (2,042,310)
+          PGT                                  9.7% (447)                 27.1%     24.7% (706,995)
+          PGR                                  0.6% (28)                    1.7%     4.0% (113,315)
+       Subject area (CAH Level)
+        Science                               61.0% (2815)                65.7%     45.4% (1,298,765)
+        Not Science                           39.0% (1803)                34.3%     54.6% (1,563,850)
+       Gender
+        Female                                63.5% (2934)                55.6%     57.1% (1,633,425)
+          Male                                34.3% (1584)                42.7%     42.7% (1,221,780)
+        Other                                  2.2% (100)                   1.7%     0.3% (7,410)
+       Age
+          18-20                               64.7% (2989)                36.6%     36.7% (1,049,265)
+          21-24                               26.6% (1229)                27.8%     27.8% (795,330)
+          25+                                  8.7% (400)                 35.6%     35.6% (1,017,915)
+       Ethnicity*
+        Asian                                 15.6% (626)                 13.3%     12.4% (264,660)
+          Black                                2.7% (110)                   3.9%     8.0% (171,620)
+          Mixed                                3.7% (147)                   4.2%     4.5% (96,675)
+        Other                                  1.6% (64)                    1.5%     2.1% (45,625)
+          White                               76.5% (3078)                77.1%     73.0% (1,563,145)
+       Religion
+        Non-religious                         36.8% (1667)                47.7%     47.0% (1,200,365)
+          Buddhist                             1.3% (60)                    1.0%     1.1% (28,840)
+        Christian                             34.0% (1541)                31.5%     31.0% (790,680)
+        Hindu                                  2.9% (133)                   2.5%     4.5% (116,205)
+          Jewish                               0.6% (25)                    0.6%     0.4% (11,495)
+          Muslim                              10.7% (486)                   8.1%    11.5% (294,420)
+        Sikh                                   0.9% (41)                    0.7%     1.2% (29,485)
+        Other**                               12.8% (580)                   8.0%     3.3% (84,195)
+       *UK domiciled students only, for sample and HESA data.
+       **’Spiritual’ or ‘Any other religion or belief’, excluding ‘Not known’.
+8        K. AUNE ET AL.
+
+
+offered this definition of worldview to participants: ‘The term “worldview” describes a
+guiding philosophy or outlook on life, which may be based on a particular religious tradi-
+tion, spiritual orientation, non-religious perspective, or some combination of these… You
+can think of your worldview as the lens that makes up how you view the world’ (adapted
+for brevity; reference to be added). Considering ‘worldview’ as broader than ‘just’ religion
+aids us in understanding barriers in communication related to faith-based identities in their
+complexity, including misunderstandings or prejudices between religious and non-religious
+perspectives. In relation to this article, the measures were not perfectly tailored to equality
+legislation, but speak to experiences directly relevant to it, particularly since the inclusion
+of ‘belief ’ within the legislation indicates philosophical beliefs. For each of the three legis-
+lation areas, the two most relevant questions were identified from the IDEALS UK survey.
+For example, for harassment, we took data from one question about ‘mistreatment’ and one
+about ‘insensitivity’, not intending to conflate these two ideas, but instead using these as
+questions, which in distinct ways tell us something relevant about the wider phenomenon
+of ‘harassment’ (Table 2).
+
+
+Table 2. Defining the six outcome variables.
+Area of Equality Act      Variable Name                        Question                                    Values
+Harassment             Mistreated           While enrolled at your university, how often        Never
+                          on Campus           have you been mistreated on campus                Rarely
+                                              because of your worldview or religion?            Occasionally
+                                                                                                Frequently
+                                                                                                All the time
+                       Insensitive          On this campus, how often have you heard/           Never experienced
+                          Comments              read insensitive comments about your            Peer only
+                                                worldview from:                                 Staff only
+                                            1) Friends or peers;                                Staff and Peer insensitive
+                                            2) Academic staff (lecturers, professors, etc.);
+                                            3) Campus staff or administrators
+Equal Opportunities Safe Place              Please indicate the extent to which you agree       Strongly Disagree
+                                                with [this] statement:                          Disagree
+                                            This university is a safe place for me to express   Neither Agree nor Disagree
+                                                my worldview                                    Agree
+                                                                                                Strongly Agree
+                       Accommodate Needs Please indicate the extent to which you agree          Strongly disagree
+                                             with [this] statement: Faculty and staff at        Disagree
+                                             my university accommodate my needs                 Neither agree nor disagree
+                                             with regard to celebrating holidays and            Agree
+                                             other important observances to my                  Strongly agree
+                                             religions and non-religious worldview
+Good Relations         Felt Silenced     Regarding your interactions with people         Never
+                                             whose worldviews differ from yours, how     Rarely
+                                             often have you: Felt silenced from sharing Occasionally
+                                             your experiences with prejudice and         Frequently
+                                             discrimination                              All the time
+                       Provocative       While enrolled at the University, how often     Not experienced
+                          Encounters         have you:                                   Classroom only
+                                         1) Had class discussions that challenged you to Experienced, but not
+                                             rethink your assumptions about another          classroom
+                                             worldview;                                  Experienced both
+                                         2) Felt challenged to rethink your assumptions
+                                             about another worldview after someone
+                                             explained their worldview to you;
+                                         3) Had a discussion with someone of another
+                                             worldview that had a positive influenced
+                                             on your perceptions of that worldview
+                                               British Journal of Sociology of Education     9
+
+
+   Population estimates and 95% confidence intervals were generated using the survey
+package in the software R (Lumley et al. 2024). Unweighted analysis is provided in the
+(Supplementary Material Tables S1–S6). Each variable was analysed by sub-groups relating
+to religion and university type, and all comparisons are significant (p < 0.05), unless other-
+wise stated. The specific sub-groups were:
+
+• Religion: respondents’ religious identity reported according to HESA (2024) categories:
+  No religion, Buddhist, Christian, Hindu, Jewish, Muslim, Sikh, Other. ‘Other’ includes
+  agnostic students, plus a range of other perspectives, including Jainism, Shintoism, and
+  Spiritualism. At times, small sample sizes mean Buddhist, Hindu, Jewish, Muslim and
+  Sikh are combined into a category ‘Minority Religion’.
+• University Type: we adopt an institutional typology from Guest et al. (2013) related to
+  the founding period, institutional ethos, student demographics and geographical loca-
+  tion. This presents five types of university: traditional elite, red brick, 1960s campus,
+  new or ‘post-1992’ and Cathedrals Group (CG). Guest et al. (2013) and Aune et al. (2023)
+  find differences by type in how universities approach religion, with traditional elite and
+  Cathedrals Group giving Christianity, and sometimes religion in general, a privileged
+  structural position (e.g., graduation services in religious buildings, better chaplaincy
+  provision). This research also revealed similarities in religious identification and engage-
+  ment among red brick, 1960s and new universities, so in this article, we use a threefold
+  typology: traditional elite, secular (red brick, 1960s campus, and new universities com-
+  bined) and the Cathedrals Group.
+
+
+Findings
+Harassment
+Our findings suggest that the majority (77.1%) of students have never been mistreated
+on campus because of their worldview or religion. Almost nine-in-ten non-religious
+students report never experiencing this type of harassment and mistreatment. In con-
+trast, religious students report higher levels of mistreatment, with only 62.2% of
+Christians and 68.0% of those from minority religions reporting never experiencing
+mistreatment (Table 3).
+   Of the 22.9% of students who have experienced some form of mistreatment, the majority
+have experienced this rarely (9.3%) or occasionally (7.6%). This pattern holds across dif-
+ferent religious and non-religious groups, although 10.9% of Christians and 7.0% of those
+from minority religions report experiencing mistreatment on campus frequently or all of
+the time.
+   Our evidence suggests that these experiences of mistreatment are more prevalent at
+traditional elite universities, compared to secular and Cathedrals Group universities; one-in-
+three students have experienced mistreatment at traditional elite universities, and this falls
+to approximately one-in-ten at Cathedrals Group institutions.
+   We also asked whether students had heard or read insensitive comments about their
+worldview from peers or staff at their university. Note, ‘staff ’ includes both academics and
+administrative professionals, and our analysis is unable to assess differences or similarities
+between these two groups. The majority (62.3%) of students have encountered an insensitive
+10         K. AUNE ET AL.
+
+
+Table 3. While enrolled at your university, how often have you: been mistreated on campus because of
+your worldview or religion (%, with 95% confidence intervals).
+                             Never            Rarely             Occasion             Frequently       All the time
+Overall (n = 4615)           77.1              9.3                 7.6                    4.6               1.4
+                            (75.1–79.1)       (7.9–10.6)          (6.4–8.9)              (3.6–5.7)         (0.7–2.0)
+Religion
+(n = 4530)
+ Christian                   62.2              12.3               14.7                   9.1               1.8
+                            (55.1–69.3)        (9.2–15.4)        (11.5–17.8)            (6.8–11.3)        (0.8–2.8)
+     Minority                68.0              16.4                8.7                   5.2               1.8
+                            (58.9–77.1)       (11.8–21.0)         (5.5–11.9)            (1.4–8.9)         (0.2–3.3)
+ None                        87.5               5.8                3.5                   2.0               1.2
+                            (80.5–94.4)        (4.1–7.5)          (2.2–4.7)             (0.8–3.2)         (0.1–2.3)
+ Other                       90.1               5.6                3.5                   0.8               0.1
+                            (76.0–100.0)       (3.2–8.0)          (0.4–6.6)             (0.0–1.6)         (0.0–0.2)
+Uni Type
+(n = 4615)
+ Traditional elite           66.1              14.9                 12.0                 6.2               0.9
+                            (57.5–74.6)       (10.0–19.8)           (9.5–14.5)          (4.2–8.1)         (0.3–1.5)
+ Secular                     78.3               8.6                  7.2                 4.4               1.5
+                            (73.7–83.0)        (7.1–10.1)           (5.7–8.6)           (3.2–5.6)         (0.8–2.3)
+ CG                          89.3               3.9                  2.6                 4.2               0.0
+                            (67.3–100.0)       (1.2–6.6)            (0.8–4.4)           (1.7–6.7)         (0.0–0.0)
+
+
+Table 4. On this campus, how often have you heard/read insensitive comments about your worldview
+from peers or staff (%, with 95% confidence intervals).
+                                                                                                     Staff & Peer
+                            Not experienced     Peer only insensitive   Staff only insensitive       insensitive
+Overall (n = 4614)               37.7                  20.8                      3.2                    38.3
+                                (35.3–40.1)           (18.7–22.9)               (2.3–4.1)              (35.9–40.7)
+Religion
+(n = 4529)
+ Christian                       29.0                  13.6                       2.7                  54.7
+                                (24.0–34.0)           (11.0–16.2)                (1.4–4.1)            (48.2–61.2)
+     Minority                    29.6                  18.8                       5.0                  46.5
+                                (23.5–35.8)           (14.6–23.1)                (2.0–8.0)            (38.3–54.7)
+ None                            45.2                  24.6                       2.6                  27.5
+                                (40.5–50.0)           (20.3–29.0)                (1.4–3.8)            (23.5–31.5)
+ Other                           37.9                  31.5                       5.3                  25.3
+                                (29.1–46.7)           (22.8–40.3)                (0.9–9.8)            (18.6–31.9)
+Uni Type
+(n = 4614)
+ Traditional elite               23.9                  18.8                       6.0                  51.3
+                                (19.4–28.4)           (14.7–23.0)                (3.1–8.9)            (43.4–59.2)
+ Secular                         39.4                  21.6                       2.8                  36.2
+                                (36.1–42.8)           (18.8–24.3)                (1.9–3.7)            (33.0–39.5)
+ CG                              50.4                  12.3                       2.2                  35.1
+                                (36.0–64.9)            (6.2–18.4)                (0.0–4.9)            (19.1–51.0)
+
+
+comment about their worldview while at university (Table 4). This most commonly origi-
+nates from peers (59.1%), but, for significant numbers, also staff (41.5%).
+   Religious students are more likely to report experiencing insensitive comments. While
+around seven-in-ten Christians and people from minority religions had experienced at least
+one insensitive comment, this falls to just over half for students with no religion. As with
+the overall pattern, religious students were more likely to experience insensitive comments
+from peers (Christians = 68.3%; Minority Religion = 65.3%; No religion = 52.1%) than from
+staff (Christians = 57.4%; Minority Religion = 51.5%; No religion = 30.1%). Notably, over
+                                              British Journal of Sociology of Education      11
+
+
+half of Christians and people of minority religions had read or heard an insensitive comment
+about their worldview from a university employee.
+   Experiencing an insensitive comment was again more common at traditional elite uni-
+versities, with around three-quarters of students reporting this. Students from other uni-
+versities reported lower rates of insensitive comments, at 60.6% (secular) and 49.6%
+(Cathedrals Group).
+   Unlike previous studies (e.g. Weller, Hooley, and Moore 2011), we do not find a large
+difference between Christian students compared to other religions—in fact, contrary to
+studies that find minority religious students experience more harassment, we find a
+slightly higher proportion of Christians reporting mistreatment and receiving insensitive
+comments about their religion, however the latter finding was statistically non-significant.
+Because some minority religious subgroups, including Jewish students, were too small
+to reach definitive conclusions, our findings should not be used to argue that all minority
+religious groups experience less harassment than Christians. Indeed, surveys, which
+include higher numbers of Jewish students report that they are subject to high rates of
+harassment (Graham and Boyd 2011; Weller, Hooley, and Moore 2011). There is also the
+possibility that, as the proportion of students who are Christian is declining and as an
+experience of minority status is more common, these students feel more marginalised.
+Moreover, while non-religious students report being on the receiving end of negative
+comments less than religious ones, that over half of them have experienced insensitive
+comments about their worldview demonstrates that non-religious worldviews also attract
+negativity from others, including from staff (see Bowman 2017 on harassment of
+non-religious students in the US).
+
+
+Equal opportunities
+Turning to students’ experiences of equal opportunities, we first looked at the inequalities
+in students reporting that their university was a safe place for them to express their worl-
+dview (see Table 5). Our evidence presents a largely positive picture, with very few students
+(6.8%) disagreeing, and almost three quarters (74.2%) agreeing. There were relatively small
+differences between different religious groups and between different university types.
+    It is notable that a substantial minority (19.1%) report ‘Neither Agree nor Disagree’. The
+meaning of this response is difficult to interpret, but it could indicate that some students
+felt that their university was sometimes a safe place and sometimes not; that some places
+felt safe and others did not; or that they did not openly express their worldview at university.
+Given this, caution should be applied so as not to over-interpret the low number of students
+reporting explicit disagreement with the statement.
+    Similar findings arise from the question of whether faculty and staff accommodate stu-
+dents’ needs around celebrating holidays or other observances connected to their worldview
+(Table 6). For example, only 6.4% of students felt that their needs were not accommodated
+in this way. However, students of minority religions (9.9%) were more likely to disagree
+with this statement than Christians (5.9%) or those of no religion (5.8%). This is unsur-
+prising given Weller, Hooley and Moore’s (2011) finding that as most universities organise
+their calendars in accordance with the western Christian one, it is difficult for some students
+to celebrate their own sacred events. The differences between students from different uni-
+versity types were relatively small.
+12         K. AUNE ET AL.
+
+
+Table 5. This university is a safe place for me to express my worldview (%, with 95% confidence
+intervals).
+                            Strongly                   Neither Agree nor
+                            Disagree     Disagree          Disagree         Agree        Strongly Agree
+Overall (n = 4617)            1.7          5.1               19.1           55.5              18.7
+                             (0.9–2.4)    (3.7–6.5)         (17.0–21.1)    (52.9–58.0)       (16.8–20.7)
+Religion
+(n = 4532)
+ Christian                    1.3          5.2              19.1            52.1             22.3
+                             (0.3–2.2)    (3.3–7.1)        (15.4–22.8)     (45.9–58.4)      (17.9–26.7)
+     Minority                 0.7          5.7              22.8            54.3             16.5
+                             (0.1–1.2)    (1.9–9.4)        (17.9–27.8)     (45.8–62.7)      (11.9–21.2)
+ None                         1.5          5.1              18.2            58.5             16.6
+                             (0.5–2.5)    (2.5–7.8)        (14.5–22.0)     (53.4–63.7)      (13.5–19.7)
+ Other                        1.2          3.2              15.2            59.3             21.1
+                             (0.0–2.8)    (0.9–5.6)        (10.4–19.9)     (47.3–71.3)      (14.6–27.7)
+Uni Type
+(n = 4617)
+ Traditional elite            1.5          4.9              18.3            54.3             21.0
+                             (0.7–2.2)    (2.0–7.9)        (14.1–22.4)     (46.8–61.8)      (16.0–26.0)
+ Secular                      1.7          5.2              19.5            55.7             17.9
+                             (0.8–2.6)    (3.4–6.9)        (17.0–22.1)     (52.0–59.4)      (15.5–20.4)
+ CG                           1.4          4.2              13.5            54.6             26.3
+                             (0.1–2.8)    (0.0–8.3)         (2.3–24.7)     (38.7–70.4)      (16.2–36.3)
+
+
+Table 6. Faculty and staff at my university accommodate my needs with regard to celebrating holidays
+and other important observances to my religious and non-religious worldview (%, with 95% confidence
+intervals).
+                            Strongly                     Neither Agree
+                            Disagree     Disagree        nor Disagree       Agree        Strongly Agree
+Overall (n = 4615)            1.7          4.7              40.5            39.5              13.6
+                             (0.7–2.6)    (3.6–5.8)        (38.1–43.0)     (37.0–41.9)       (12.0–15.3)
+Religion (n = 4530)
+ Christian                    1.5          4.4               31.2           44.8             18.2
+                             (0.3–2.6)    (3.0–5.8)         (26.6–35.7)    (38.7–50.9)      (14.3–22.1)
+     Minority                 1.6          8.3               31.7           43.0             15.4
+                             (0.8–2.5)    (5.4–11.3)        (25.1–38.2)    (35.2–50.8)      (10.9–19.9)
+ None                         1.3          4.5               48.1           36.3              9.8
+                             (0.0–2.9)    (2.5–6.6)         (42.9–53.3)    (31.7–40.8)       (7.9–11.7)
+ Other                        0.2          1.8               48.4           35.0             14.6
+                             (0.0–0.4)    (1.0–2.6)         (37.3–59.5)    (27.6–42.3)       (8.4–20.9)
+Uni Type (n = 4615)
+ Traditional elite            1.0          3.3               37.6           42.8             15.3
+                             (0.4–1.6)    (2.4–4.3)         (30.8–44.4)    (36.1–49.4)      (11.2–19.5)
+ Secular                      1.9          5.0               41.1           39.1             12.9
+                             (0.7–3.0)    (3.6–6.3)         (37.7–44.5)    (35.7–42.5)      (11.0–14.9)
+ CG                           0.1          4.7               39.1           35.2             20.8
+                             (0.0–0.3)    (0.1–9.4)         (26.2–52.1)    (19.3–51.2)      (12.8–28.7)
+
+
+   As with the safe place question, a substantial minority of students reported that they
+‘Neither Agree nor Disagree’. This is likely because many felt they did not have needs to be
+accommodated—this interpretation is supported by the fact that those with no religion
+were considerably more likely to select this response than Christians or those from minority
+religions. However, it is possible that some of these responses reflect nuance in their expe-
+riences, e.g. university staff accommodating some but not all of their needs, or accommo-
+dating their needs only to certain extents. Our questions did not address some of the specific
+equal opportunity issues, such as interest-bearing loans, chaplaincy provision or
+                                               British Journal of Sociology of Education       13
+
+
+religion-related awarding gaps explored by Avdukic et al. (2023), Aune, Guest, and Law
+(2019) and Codiroli Mcmaster (2020), and more specific analyses are necessary to interro-
+gate the different aspects that constitute equal opportunities.
+   Nevertheless, our focus on equal opportunities has revealed smaller inequalities than
+the findings on harassment. Few students (~6.5%) explicitly disagree that their universities
+are safe places for their worldview expression or that their needs are accommodated.
+However, the substantial minority of students reporting ‘Neither Agree nor Disagree’ cau-
+tions against an overly optimistic interpretation. We found little evidence of differences
+between different types of universities and different religious worldviews. The one exception
+was that those from minority religions were more likely to report university staff did not
+accommodate their religious needs.
+
+Good relations
+The final component of inequalities is good relations. We begin by considering how often stu-
+dents felt silenced from sharing their experiences with prejudice and discrimination at university
+(Table 7). While around six-in-ten students have never experienced this silencing and two-in-ten
+have experienced this rarely, 21.0% of students experience silencing on an occasional or more
+frequent basis. Religious students are particularly likely to report this experience − 50.7% of
+Christians and 46.6% of students from minority religions - compared with 31.1% of those with
+no religion. These findings provide statistical evidence that bolsters the silencing described in
+qualitative studies by Stevenson (2014) and Scott-Baumann et al. (2020). Similarly, when we
+consider those experiencing silencing frequently or all of the time, this applied to 13.1% of
+Christians, 8.6% of those from minority religions, and 3.9% of those with no religion.
+   In terms of university type, the pattern of silencing echoes the findings related to harass-
+ment. Silencing appeared to be more commonplace at traditional elite institutions, with
+one-in-two students experiencing this, compared with around 38.4% and 26.9% of students
+from secular and Cathedrals Group universities, respectively. Those reporting silencing
+frequently or all the time made up 12.0% at traditional elite universities, compared with
+7.0% at secular and 5.8% at Cathedrals Group institutions.
+   The second aspects of good relations concerns whether students have experienced a
+‘provocative encounter’, i.e. one in which students critically examine their own worldviews
+in relation to other worldviews (Mayhew et al. 2024). Previous research suggests provocative
+encounters are positively associated with the generation of more positive attitudes towards
+those of other religions (Mayhew et al. 2024; Peacock et al. 2023). In our data, there is a
+largely positive picture. While provocative encounters are not generally experienced fre-
+quently, the majority of students, 79.0%, have experienced a provocative encounter at some
+point at university (see Table 8). Of these, 58.4% experienced this in the classroom, 76.7%
+outside of class.
+   Our findings suggest that Christian students (85.6%) are the most likely to experience
+provocative encounters, compared with their peers from minority religions (76.3%) or with
+no religion (75.6%). These Christian students were particularly likely to experience this
+within the classroom (67.7%) compared with their peers from minority religions (51.5%)
+and those with no religion (54.7%). Those at traditional elite universities were the most
+likely to experience these provocative encounters (89.8%), compared with secular (77.3%)
+and Cathedrals Group (74.7%) universities.
+14         K. AUNE ET AL.
+
+
+Table 7. Regarding your interactions with people whose worldviews differ from yours, how often have
+you: Felt silenced from sharing your experiences with prejudice and discrimination (%, with 95% confi-
+dence intervals).
+                             Never              Rarely          Occasionally         Frequently         All the time
+Overall (n = 4613)           60.4               18.6               13.3                  5.4                 2.2
+                            (58.0–62.9)        (16.7–20.6)        (11.6–15.0)           (4.5–6.3)           (1.5–2.9)
+Religion
+(n = 4528)
+ Christian                   49.3               18.7               18.7                10.0                 3.1
+                            (43.0–55.7)        (15.3–22.2)        (14.6–22.9)          (7.7–12.4)          (1.8–4.5)
+     Minority                53.4               22.9               15.2                 6.3                 2.3
+                            (45.3–61.5)        (17.3–28.4)        (10.0–20.3)          (4.0–8.6)           (0.4–4.2)
+ None                        68.9               17.3                9.9                 2.3                 1.6
+                            (62.7–75.2)        (13.9–20.7)         (7.6–12.2)          (1.3–3.2)           (0.6–2.6)
+ Other                       66.6               18.2                9.8                 4.9                 0.4
+                            (54.7–78.5)        (11.3–25.2)         (5.6–14.0)          (1.8–8.0)           (0.0–0.9)
+Uni Type
+(n = 4613)
+ Traditional elite           49.8               22.3               15.9                 9.0                 3.0
+                            (42.5–57.0)        (17.4–27.1)        (11.2–20.7)          (6.1–11.9)          (1.4–4.6)
+ Secular                     61.6               18.4               13.0                 4.9                 2.1
+                            (57.4–65.8)        (16.0–20.8)        (11.0–15.1)          (3.8–5.9)           (1.2–2.9)
+ CG                          73.1               11.2                9.9                 3.4                 2.4
+                            (52.8–93.5)         (3.9–18.6)         (4.6–15.2)          (1.2–5.5)           (0.3–4.5)
+
+
+Table 8. Experiences of provocative encounters at university, whether in the classroom or outside
+(%, with 95% confidence intervals).
+                                                         Classroom only    Experienced, but not
+                                 Experienced both          experience           classroom           Not experienced
+Overall (n = 4612)                    56.1                     2.3                20.6                   21.0
+                                     (53.6–58.6)              (1.6–2.9)          (18.7–22.5)            (18.8–23.3)
+Religion
+(n = 4527)
+ Christian                            65.9                    1.8                 17.9                  14.4
+                                     (59.0–72.8)             (0.8–2.8)           (14.0–21.7)           (11.0–17.8)
+     Minority                         49.1                    2.4                 24.8                  23.7
+                                     (41.5–56.6)             (0.9–3.9)           (18.5–31.2)           (18.0–29.4)
+ None                                 52.1                    2.6                 20.9                  24.4
+                                     (46.8–57.4)             (1.5–3.7)           (17.9–23.9)           (19.9–28.9)
+ Other                                55.5                    2.1                 23.5                  18.9
+                                     (44.6–66.4)             (0.0–4.3)           (17.8–29.2)           (11.1–26.7)
+Uni Type
+(n = 4612)
+ Traditional elite                    68.4                    2.5                 18.9                  10.2
+                                     (59.8–77.1)             (1.2–3.8)           (14.1–23.7)            (7.5–12.8)
+ Secular                              53.7                    2.2                 21.3                  22.7
+                                     (49.9–57.5)             (1.5–3.0)           (19.0–23.6)           (19.6–25.8)
+ CG                                   59.9                    2.7                 12.1                  25.3
+                                     (41.2–78.6)             (1.0–4.5)            (4.5–19.7)           (15.2–35.4)
+
+
+
+Discussion
+Our findings that nearly two-thirds of students have experienced an insensitive comment
+about their worldview and more than one-in-five perceive that they have been mistreated
+because of that worldview are sobering, given that the HE sector has invested significantly
+during the last decade in addressing harassment. Despite investment in specifically
+religion-related harassment in 11 selected universities2, religion-related harassment,
+                                              British Journal of Sociology of Education      15
+
+
+mistreatment, insensitivity and silencing remain a problem, suggesting that there is a need
+to ‘mainstream’ learning from those projects throughout the sector. That insensitive com-
+ments come from staff as well as from students’ peers means university staffs require edu-
+cation about how to tackle harassment and misunderstanding alongside enabling freedom
+of expression for diverse religious and other worldviews. As the Higher Education (Freedom
+of Speech) Act 2023 comes into force, the government, higher education regulator the Office
+for Students, and other higher education bodies might also consider the broader range of
+mechanisms available for preventing religion and belief-based harassment in the UK’s
+universities.
+    Our findings on equal opportunities appear the most positive of the three aspects of the
+Equality Act. Students mostly feel that university is a safe space to express their worldview
+and that staff accommodate their religious needs. It may be that universities have paid most
+attention to this aspect of the Equality Act, for example by increasing provision for chaplains
+and prayer spaces, as Aune, Guest, and Law’s (2019) findings show, with more universities
+calling their chaplaincies ‘multi-faith’, and just over two-thirds having a permanent Muslim
+prayer space. Such spaces may be contributing to the safety students feel at expressing their
+worldview. Yet the fairly large numbers of students responding neither ‘agree’ nor ‘disagree’
+to our equal opportunities questions suggest that while universities have improved their
+practice, there is still work to do: perhaps students feel safer in some spaces than others,
+and some staff support them to express their worldview while others do not.
+    The focus on good relations presents a mixed picture: good relations have not been fully
+achieved. Reassuringly, around three-in-five students do not feel silenced and four-in-five
+have experienced a provocative encounter. However, just over one-in-five students experi-
+ence silencing on an occasional or more frequent basis, and a similar number have not
+experienced a provocative encounter. Further, we found evidence of some inequalities:
+Christian students were more likely to feel silenced. Similarly, those attending traditional
+elite institutions displayed a similar pattern: silencing was more commonplace than at other
+institutions, but so were positive, provocative encounters.
+    Why do students from minority worldviews report experiencing fewer provocative
+encounters, particularly in the classroom, compared to Christian students? It may be the
+case that, with increased awareness of the Equality Act, staff and students are slightly more
+reticent to interrogate the religious views of those who are minoritised, and more willing
+to challenge Christian students. While this, positively, means there is less insensitivity
+expressed, and that staff provide opportunities for Christian students to have the provocative
+encounters they need to develop positive attitudes to other religious groups (Peacock et al.
+2023), it also means minoritised students have, and are given, fewer opportunities to engage
+critically with their own worldviews. Universities should learn to create opportunities for
+provocative encounters in and beyond the classroom, yet avoid these encounters becoming
+opportunities for harassment, insensitivity or silencing, since research finds that harassment,
+insensitivity and silencing are associated with a decline in students’ ability to regard those
+with other beliefs positively (Mayhew, Rockenbach, and Dahl 2020). This is a particular
+issue in elite universities, where greater opportunities for debate between faith groups might
+contribute to an increase in negative experiences. Indeed, this may be one key unintended
+consequence of the Equality Act’s efforts to enable communication and debate between
+students of different protected characteristics: encouraging debate creates more opportunity
+for misunderstanding and mistreatment, if debate becomes, or is interpreted as, harassment.
+16      K. AUNE ET AL.
+
+
+    Students’ religion or worldview makes a difference to how they experience university,
+with non-religious students having the most positive experiences and religious students
+the most negative. By religious group, Christian students are sometimes more likely to
+report more negative treatment than students from minority religions, but concerning the
+university accommodating religious holidays and other worldview-related observances,
+students from minority religions are more likely to report negative treatment. Therefore,
+universities should not assume that all religious students have the same experience, nor
+should they think that negative treatment is something that only certain groups are subjected
+to; the greater focus that student organisations have given to Islamophobia and antisemitism
+may make universities less likely to see it as important to tackle other types of religion-related
+discrimination. Negative experiences reported by non-religious students should not be
+ignored, and the Equality Act’s language of ‘religion or belief ’ enables those whose beliefs
+are not religious to have their experiences of prejudice taken seriously.
+    Our findings about university type are also original. This article’s systematic examination
+of the significance of university type offers a new direction for future analysis. At traditional
+elite universities harassment, silencing and insensitive comments are much more common
+than at Cathedrals Group or secular universities. This may be because of the style of teach-
+ing, more debating, religious and political societies, and the higher proportion of privately
+educated students schooled in the culture of debate, mockery and peer victimisation (von
+Stumm and Plomin 2021). Students at elite institutions tend to be more economically priv-
+ileged, with more time to spend debating ideas. But the one positive aspect of good relations
+that is also more common at elite institutions is provocative encounters, where students
+critically examine their worldview in the light of others’. As our typology reflects universities’
+history (including religious history) in a way that other typologies (such as Mission Groups)
+do not, it presents a promising direction for HE scholars studying inequalities obscured by
+other approaches.
+    Why haven’t the Equality Act’s intentions for religion or belief equality and good relations
+been realised? Elgström’s work on the implementation of gender equality policies, intro-
+duced above, is relevant. During implementation, ‘bureaucratic inertia’, a ‘lack of knowledge’
+or ‘norm resistance’ (p.469) might have happened. Some university staff likely resisted the
+Act, as there would be a conflict between the new norms and their previous practices and
+values—for instance, the value of freedom of speech, academic freedom, or secularity (the
+assumption that religion should be confined to the private sphere). Since Dinham and Jones’
+study, more senior managers have probably come to regard religion as part of ‘an “equality
+and diversity” brief ’ (Dinham and Jones 2012, 192), and so responsibility for religion may
+be given to an EDI officer (who may not have religious expertise), a chaplain (who may not
+have EDI expertise), HR or student services.
+    Given the importance of ‘norm entrepreneurs’ at the start of the process of adopting
+a new norm, who are these for religion or belief, and how influential are they? They
+could be religious studies academics, chaplains or EDI officers. This likely varies
+between different types of institutions. Traditional elite or Cathedrals Group universities
+may have more influential norm entrepreneurs, with more prominent and better-funded
+chaplains, who are sometimes managed by a member of senior management (Aune
+et al. 2023). This may influence norm diffusion and could explain why we found some
+increased evidence of religion or belief equality in these types of university—including
+less mistreatment and insensitive comments at Cathedrals Group universities and more
+                                              British Journal of Sociology of Education      17
+
+
+provocative encounters at traditional elite universities. However, we also found coun-
+tervailing trends: traditional elite universities had the most harassment, silencing and
+insensitive comments, so the presence of influential religion or belief norm entrepre-
+neurs can only be part of the explanation for universities adopting the norm of religion
+or belief equality.
+   There is also the role of students to consider. Just as Purdam et al. (2017) found that the
+Equality Act received a lukewarm welcome from the religious constituents who would have
+been assumed to champion it, it is likely that some students, individuals and groups, religious
+or otherwise, do not further the Equality Act’s aims. For instance, an evangelical Christian
+or Sunni Muslim group wishing to convert others to their religion might not give time to
+forging interfaith relations, perceiving that as contrary to their mission. We would suggest
+that this complex and incomplete process of norm implementation outlined by Elgström
+helps explain why religion or belief equality has not been fully achieved, more than a decade
+after the passage of the Equality Act. We can also apply Ahmed’s critiques of equality policies
+to religion and belief equality and ask whether the creation of religion and belief documents
+and plans—a responsibility of EDI officers and required by the Equality Act—conceals
+problems of inequality and discrimination against religious staff and students. Perhaps time
+and attention have been given to creating equality documentation that enables universities
+to portray themselves as advancing equality rather than addressing the realities of religion
+and belief harassment, discrimination or poor interfaith relations.
+   Ahmed (2012, 17) takes these ideas further via the notion of institutional equality and
+diversity policies as ‘non-performatives’, because ‘they do not bring about the effects they
+name’. The equality laws culminating in the Equality Act brought about an ‘equality regime’
+which may have been intended to overcome inequalities, but ‘can be an inequality regime
+given new form, a set of processes that maintain what is supposedly being redressed’ (8).
+Equality law carries with it an assumption that the very act of legislating achieves equality,
+Ahmed argues, so that ‘having a policy becomes a substitute for action’ (2012, 11). The
+wider context is the rise of audit or performance culture in higher education (Strathern
+2000). Equality has become ‘embedded within performance culture’ (Ahmed 2012, 85),
+making-documenting equality in a way that can be assessed a high priority, perhaps higher
+than the actual achievement of equality. Increasingly, schemes such as Athena SWAN and
+the Race Equality charter grade universities based on a long report documenting good
+equality practice, provoking critiques that they are ‘a policy-scoring scheme’ (Armstrong
+and Sullivan 2025) and not a rounded, nuanced assessment. Armstrong and Sullivan (2025,
+235) also comment that, when considering Advance HE’s work advancing equality in higher
+education, ‘The protected characteristics of age and religion or belief seem to be largely
+ignored’.
+   While Ahmed’s assessment, based on relatively small numbers of interviews with diversity
+staff conducted before the Equality Act, is bleaker than ours, it demonstrates the complexity
+of policy implementation in universities and how the prioritisation of documentary audit
+measures has obvious limitations as a strategy for tackling inequalities. That such
+‘paper-based’ measures have become more popular during a period of financial decline
+across the HE sector is no accident; more complex interventions also have heavier resource
+demands. Nevertheless, given the gap between policy and practice evidenced above, the
+demand for qualitative research into equality solutions within universities could not be
+clearer.
+18      K. AUNE ET AL.
+
+
+   Drawing on a large cross-university dataset, this article has been the first to examine
+students’ experiences of religion or belief-related equality in universities in relation to the
+Equality Act’s three foci (eliminating harassment; equal opportunities; and good relations).
+Our analysis shows that despite the positioning of religion or belief as a protected charac-
+teristic and diversity-friendly language such as ‘multi-faith’, inequalities remain, with some
+religious students especially vulnerable to unequal treatment. We contend that the com-
+plexity of policy implementation helps explain why religion or belief equality has not been
+fully achieved.
+   The limitations of this article are several. Our wider survey included many different
+questions that could have been included as proxies for harassment, equal opportunities and
+good relations; analysing responses to all of these would provide a fuller picture. Moreover,
+the study from which this data was taken was not designed to measure the success of the
+Equality Act, but was a wider study of how to build positive relationships between university
+students across religion and worldview diversity. Finally, COVID-19 lockdowns are likely
+to have impacted the experiences of some of the students surveyed, so their responses may
+be shaped by the changes the pandemic brought to the student experience.
+   Overall, the Equality Act appears to have supported students (and staff) in universities
+to improve their provision for and support of students of diverse backgrounds, religions
+and beliefs. Yet inequalities remain, especially in relation to harassment and good relations,
+and for religious students. As the government shifted from Conservative to Labour in 2024,
+the impacts of a complex policy climate on students of diverse religions and beliefs demand
+further interrogation.
+
+
+Notes
+ 1.   The UK government plans to introduce sharia-compliant student finance in England, but this
+      is not yet in place (Lewis 2024).
+ 2.   The OfS funded 11 university-based projects from 2018 to 2020 to tackle religion-related hate
+      crime in universities.
+
+
+Acknowledgements
+We owe a great debt of gratitude to Alyssa N. Rockenbach and Matthew J. Mayhew, inspirational
+academic leaders, creators of the IDEALS survey in the USA, which we adapted for the UK, and
+co-leads of the IDEALS UK project. Thank you also to B. Ashley Staples, who worked on the IDEALS
+UK study during her Fulbright fellowship at Durham University. While they did not contribute to
+this article, their work on the project was crucial to its success. Thank you also to Musbah Shaheen,
+Renee L. Bowling and Ece Yilmaz for their advice through the IDEALS UK project. Thank you to
+Jay Zagorsky for weighing the data.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+
+Funding
+This work was supported by Porticus [grant number GR-073703], the Spalding Trust (no grant
+number) and Durham University (no grant number).
+                                                 British Journal of Sociology of Education         19
+
+
+ORCID
+Kristin Aune   http://orcid.org/0000-0001-5951-9526
+Tom Fryer    http://orcid.org/0000-0003-0694-3504
+Lucy Peacock    http://orcid.org/0000-0002-2873-9849
+Mathew Guest     http://orcid.org/0000-0003-1806-593X
+
+
+References
+Ahmed, Sara. 2007. “You End up Doing the Document Rather Than Doing the Doing’: Diversity,
+  Race Equality and the Politics of Documentation.” Ethnic and Racial Studies 30 (4): 590–609.
+  https://doi.org/10.1080/01419870701356015.
+Ahmed, Sara. 2012. On Being Included: Racism and Diversity in Institutional Life. London: Duke
+  University Press.
+Armstrong, John, and Alice Sullivan. 2025. “A Critical Analysis of Athena Swan as a Policy-Scoring
+  Scheme.” British Educational Research Journal 51 (1): 225–243. https://doi.org/10.1002/berj.4071.
+Aspinall, Peter. 2000. “Should a Question on ‘Religion’ be Asked in the British Census? A Public
+  Policy Case in Favour.” Social Policy & Administration 34 (5): 584–600. https://doi.
+  org/10.1111/1467-9515.00212.
+Avdukic, Alija, Fawad Khaleel, Ahmed Abdullah, and Abdulbasit H. Brawe. 2023. “Religion as a
+  Barrier to the Use of Student Loans for Higher Education: A Community-Based Participatory
+  Study with Somalis Living in England.” British Educational Research Journal 49 (2): 370–404.
+  https://doi.org/10.1002/berj.3847.
+Aune, K., L. Peacock, S. Cheruvallil-Contractor, and P. Weller. 2020. Religion and Belief-Related Hate
+  Incidents in Higher Education: A Research and Evaluation Report. Coventry: Coventry University.
+Aune, K., M. Guest, and J. Law. 2019. Chaplains on Campus: Understanding Chaplaincy in UK
+  Universities. Coventry University, Durham University and Canterbury Christ Church University.
+  https://pureportal.coventry.ac.uk/en/publications/chaplains-on-campus-understanding
+  -chaplaincy-in-uk-universities.
+Aune, Kristin, Lucy Peacock, Mathew Guest, and Jeremy Law. 2023. “University Chaplaincy as
+  Relational Presence: Navigating Understandings of Good and Effective Chaplaincy in UK
+  Universities.” Journal of College and Character 24 (3): 197–216. https://doi.org/10.1080/2194587X.
+  2023.2224573.
+Aune, Kristin, Simon Perfect, and Ben Ryan. 2025. “Building Bridges or Holy Huddles? Student
+  Religious Organizations in British Universities.” Journal of Diversity in Higher Education 18 (5):
+  726–739. https://doi.org/10.1037/dhe0000595.
+Bowman, Nicholas A. 2017. “Religiously Unaffiliated Students in the United States: Characteristics,
+  Experiences, and Outcomes.” In Religion and Higher Education in Europe and North America,
+  edited by Kristin Aune and Jacqueline Stevenson, 55–68. London: Routledge and Society for
+  Research into Higher Education.
+Codiroli Mcmaster, N. 2020. “Research Insight: Religion and Belief in UK Higher Education:
+  Analysis of Higher Education Statistics Agency (HESA) Student Data for 2017/18.” Advance HE.
+  Accessed 17 April 2020. https://www.advance-he.ac.uk/knowledge-hub/research-insightreligio
+  n-and-belief-uk-higher-education
+Deville, J.-C., C.-E. Särndal, and O. Sautory. 1993. “Generalized Raking Procedures in Survey
+  Sampling.” Journal of the American Statistical Association 88 (423): 1013–1020. https://doi.org/10
+  .1080/01621459.1993.10476369.
+Dinham, A., and S. Jones. 2012. “Religion, Public Policy, and the Academy: Brokering Public Faith
+  in a Context of Ambivalence?” Journal of Contemporary Religion 27 (2): 185–201. https://doi.org/
+  10.1080/13537903.2012.675687.
+ECU (Equality Challenge Unit). 2012. Equality Act 2010: Implications for colleges and HEIs (revised
+  August 2012). London: Equality Challenge Unit. https://www.advance-he.ac.uk/knowledge-hub/
+  equality-act-2010-implications-colleges-and-heis-revised
+20      K. AUNE ET AL.
+
+
+EHRC (Equality and Human Rights Commission). 2019. Tackling Racial Harassment: Universities
+  challenged. EHRC. https://www.equalityhumanrights.com/sites/default/files/2022/tackling-racia
+  l-harassment-universities-challenged.pdf
+Elgström, Ole. 2000. “Norm Negotiations. The Construction of New Norms regarding Gender and
+  Development in EU Foreign Aid Policy.” Journal of European Public Policy 7 (3): 457–476. https://
+  doi.org/10.1080/13501760050086125.
+Equality Act. 2010. c. 15 (Eng.) https://www.legislation.gov.uk/ukpga/2010/15/contents
+Gholami, Reza. 2021. “Critical Race Theory and Islamophobia: Challenging Inequity in Higher
+  Education.” Race Ethnicity and Education 24 (3): 319–337. https://doi.org/10.1080/13613324.202
+  1.1879770.
+Graham, David, and Jonathan Boyd. 2011. Home and Away: Jewish Journeys towards Independence:
+  Key Findings from the 2011 National Jewish Student Survey. London: Institute for Jewish Policy
+  Research.
+Guest, Mathew, Kristin Aune, Sonya Sharma, and Rob Warner. 2013. Christianity and the University
+  Experience: Understanding Student Faith. London: Bloomsbury.
+Harris, O., and M. Goldberg. 2023. Campus Antisemitism in British 2020-2022. London: Community
+  Security Trust.
+HESA (Higher Education Statistics Agency). n.d. “Who’s studying in HE?”, Higher Education
+  Statistics Agency. Accessed July 26, 2024. https://www.hesa.ac.uk/data-and-analysis/ students/
+  whos-in-he.
+Hopkins, Peter. 2011. “Towards Critical Geographies of the University Campus: Understanding the
+  Contested Experiences of Muslim Students.” Transactions of the Institute of British Geographers 36
+  (1): 157–169. https://doi.org/10.1111/j.1475-5661.2010.00407.x.
+Lewis, Joe. 2024. “Research Briefing: Sharia-Compliant Alternative Student Finance.” House of
+  Commons Library, UK Parliament. January 29, 2024 https://commonslibrary.parliament.uk/
+  research-briefings/cbp-9774/
+Lumley, T., P. Gao, and B. Schneider. 2024. “Survey: Analysis of Complex Survey Samples, Survey.”
+  https://cran.r-project.org/web/packages/survey/index.html
+Mayhew, Matthew J., Alyssa N. Rockenbach, and Laura S. Dahl. 2020. “Owning Faith: First-Year
+  College-Going and the Development of Students’ Self-Authored Worldview Commitments.” The
+  Journal of Higher Education 91 (6): 977–1002. https://doi.org/10.1080/00221546.2020.1732175.
+Mayhew, Matthew J., Christa E. Winkler, Alyssa N. Rockenbach, and Renee L. Bowling. 2024. “You
+  Don’t Get to Say What I Believe, I Do: Provocative Encounters as Catalysts for Self-Authored
+  Worldview Commitments During College.” The Journal of Higher Education 95 (2): 227–255.
+  https://doi.org/10.1080/00221546.2023.2171207.
+Miles, Claire, and Tansin Benn. 2016. “A Case Study on the Experiences of University-Based Muslim
+  Women in Physical Activity during Their Studies at One UK Higher Education Institution.”
+  Sport, Education and Society 21 (5): 723–740. https://doi.org/10.1080/13573322.2014.942623.
+NUS (National Union of Students). 2018. The Experience of Muslim Students in 2017-18. London:
+  National Union of Students. https://www.nusconnect.org.uk/resources/the-experience-of-musli
+  m-students-in-2017-18.
+OfS (Office for Students). 2022. “Equality, diversity and student characteristics data: Students
+  at English higher education providers between 2010-11 and 2020-21, Reference OfS 2022.29.”
+  7th June 2022. https://www.officeforstudents.org.uk/media/7137/ofs2022_29.pdf.
+Peacock, L., M. Guest, K. Aune, A. N. Rockenbach, B. A. Staples, and M. J. Mayhew. 2023. Building
+  Student Relationships across Religion and Worldview Difference. Coventry University, Durham
+  University, North Carolina State University and The Ohio State University. https://pureportal.
+  coventry.ac.uk/en/publications/building-student-relationships-across-religion-and-
+  worldview-diff.
+Purdam, Kingsley, Sariya Cheruvallil-Contractor, Nazila Ghanea, and Paul Weller. 2017. “Religious
+  Organizations and the Impact of Human Rights and Equality Laws in England and Wales.”
+  Politics, Religion and Ideology 18 (1): 73–88. https://doi.org/10.1080/21567689.2017.1297235.
+                                                  British Journal of Sociology of Education         21
+
+
+Saeed, Tania. 2018. “Islamophobia in Higher Education: Muslim Students and the ‘Duty of Care.” In
+   Dismantling Race in Higher Education: Racism, Whiteness and Decolonising the Academy, edited
+   by Jason Arday and Heidi Safia Mirza, 233–250. London: Palgrave Macmillan Cham.
+Scott-Baumann, A., M. Guest, S. Naguib, S. Cheruvallil-Contractor, and A. Phoenix. 2020. Islam on
+   Campus: Contested Identities and the Cultures of Higher Education in Britain. Oxford: Oxford
+   University Press.
+Sheldon, Ruth. 2016. Tragic Encounters and Ordinary Ethics: Palestine-Israel in British Universities.
+   Manchester: Manchester University Press.
+Stevenson, Jacqueline. 2014. “Internationalisation and Religious Inclusion in United Kingdom Higher
+   Education.” Higher Education Quarterly 68 (1): 46–64. https://doi.org/10.1111/hequ.12033.
+Strathern, Marilyn, ed. 2000. Audit Cultures: Anthropological Studies in Accountability, Ethics and the
+   Academy. London: Routledge.
+Vickers, Lucy. 2011a. “The Expanded Public Sector Duty: Age, Religion and Sexual Orientation.”
+   International Journal of Discrimination and the Law 11 (1-2): 43–58. https://doi.org/10.1177/
+   135822911101100205.
+Vickers, Lucy. 2011b. “Promoting Equality or Fostering Resentment? The Public Sector Equality
+   Duty and Religion and Belief.” Legal Studies 31 (1): 135–158. https://doi.org/10.1111/j.1748-
+   121X.2010.00187.x.
+von Stumm, Sophie, and Robert Plomin. 2021. “Does Private Education Make Nicer People? The
+   Influence of School Type on Social–Emotional Development.” British Journal of Psychology
+   (London, England: 1953) 112 (2): 373–388. https://doi.org/10.1111/bjop.12462.
+Weller, P., T. Hooley, and N. Moore. 2011. Religion and Belief in Higher Education: The Experiences
+   of Staff and Students. London: Equality Challenge Unit.
+Weller, Paul, and Tristram Hooley. 2017. “How Religion or Belief Frame Participation and Access in
+   UK Higher Education.” In Religion and Higher Education in Europe and North America, edited by
+   Kristin Aune and Jacqueline Stevenson, 39–54. London: Routledge and Society for Research into
+   Higher Education.
+

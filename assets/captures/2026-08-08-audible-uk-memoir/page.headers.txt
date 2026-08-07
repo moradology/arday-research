@@ -1,0 +1,21 @@
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+server: Server
+date: Fri, 07 Aug 2026 15:42:29 GMT
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+edge-cache-control: no-store,no-cache,stale-if-error=0,stale-while-revalidate=0
+x-amz-rid: 8C51Z4F01MFAC7XVKF74
+set-cookie: ubid-acbuk=522-0579398-8083915; Domain=audible.co.uk; Expires=Sat, 07-Aug-2027 15:42:28 GMT; Path=/; Secure
+x-content-type-options: nosniff
+permissions-policy: ch-dpr=(self "https://m.media-amazon.com" "https://images-eu.ssl-images-amazon.com"), ch-viewport-width=(self "https://m.media-amazon.com" "https://images-eu.ssl-images-amazon.com"), ch-downlink=(self "https://m.media-amazon.com" "https://images-eu.ssl-images-amazon.com"), ch-ect=(self "https://m.media-amazon.com" "https://images-eu.ssl-images-amazon.com")
+accept-ch-lifetime: 86400
+x-xss-protection: 1;
+content-encoding: gzip
+accept-ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-full-version-list,sec-ch-ua-platform,sec-ch-ua-platform-version
+content-language: en-US
+vary: Accept-Encoding,User-Agent
+x-cache: Miss from cloudfront
+via: 1.1 e032fab8f0874cd22c2ccd26e9181a0c.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P13
+x-amz-cf-id: 23Jv5Egdk1tuZnsW806P3ZaFSOFt4TXpIgwI9a9iko40RfFu5G1Jaw==
+

@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+date: Thu, 06 Aug 2026 18:35:22 GMT
+cf-cache-status: DYNAMIC
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000; includeSubDomains
+request-context: appId=cid-v1:a979cf9a-45ae-48f2-a6ce-794fae465363
+content-security-policy: default-src 'self'; connect-src 'self' *.onetrust.com *.googleapis.com *.google-analytics.com *.googletagmanager.com *.google.com *.linkedin.com *.facebook.com *.hotjar.com *.hotjar.io *.googleadservices.com wss://ws.hotjar.com *.jotfor.ms public.flourish.studio *.rsc.org *.my.connect.aws https://participant.connect.eu-west-2.amazonaws.com wss://*.transport.connect.eu-west-2.amazonaws.com https://d2zasqxhmd6ne4.cloudfront.net https://dswhfsfszo0p7.cloudfront.net *.execute-api.us-west-2.amazonaws.com *.doubleclick.net; font-src 'self' data: *.gstatic.com *.hotjar.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' *.googleapis.com *.jotform.com *.jotform.ms *.jotfor.ms *.googletagmanager.com *.onetrust.com https://unpkg.com/ *.gstatic.com *.google.com *.rsc.org public.flourish.studio https://www.youtube.com *.adform.net *.licdn.com *.hotjar.com *.facebook.net static.ads-twitter.com *.my.connect.aws; style-src 'self' 'unsafe-inline' *.googleapis.com public.flourish.studio *.my.connect.aws www.google.com; img-src 'self' data: *.facebook.com *.facebook.net *.twitter.com *.linkedin.com t.co *.google.com *.onetrust.com *.ytimg.com *.googletagmanager.com *.googleadservices.com public.flourish.studio fonts.gstatic.com forms.rsc.org *.seadform.net *.hotjar.com *.google.co.uk *.doubleclick.net; frame-ancestors 'none'; frame-src *.youtube-nocookie.com *.rsc.org *.youtube.com flo.uri.sh www.googletagmanager.com *.adform.net *.mxmfb.com *.google.com; worker-src 'self' blob:
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+cf-ray: a2702413bf7e6806-DFW
+sversion: PALSS 10.1.1.110222
+scluster: hl1-dal.hybridcloudspan.com
+x-ssl-protocol: TLSv1.3
+cache-control: no-store, no-cache, must-revalidate
+

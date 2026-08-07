@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 131490
+x-imgix-id: 7a1e98bf35fb2328a73dfa2f63be4976e2c145a2
+cache-control: public, max-age=315360001
+last-modified: Thu, 06 Aug 2026 20:58:19 GMT
+server: imgix
+date: Thu, 06 Aug 2026 20:58:19 GMT
+accept-ranges: bytes
+access-control-allow-origin: *
+timing-allow-origin: *
+cross-origin-resource-policy: cross-origin
+x-content-type-options: nosniff
+x-served-by: cache-chi-kigq8000124-CHI, cache-nyc-kteb1890074-NYC
+x-cache: Miss from cloudfront
+via: 1.1 b804c9a85c7cc43d6cf87150a65cae26.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P4
+x-amz-cf-id: ZT7O9kCs7fzRlsl5w3Lka5U0TyQc4pdcn_NlJKjhzvTbm-N_GFG_jg==
+age: 0
+

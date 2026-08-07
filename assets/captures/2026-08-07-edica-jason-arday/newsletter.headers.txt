@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 03:02:53 GMT
+Server: Apache
+X-Powered-By: PHP/8.3.22
+X-TWO-OPTIMIZE: 1
+X-TWO-VERSION: 2.33.0
+X-TWO-CACHE-DATE: 1785922776
+X-TWO-WEBP: 1
+X-TWO-PAGE-IS-OPTIMIZED: 0
+X-TWO-OPTIMIZE-REASON: Critical id not found
+Link: <https://edicaucus.ac.uk/wp-json/>; rel="https://api.w.org/", <https://edicaucus.ac.uk/wp-json/wp/v2/pages/9201>; rel="alternate"; title="JSON"; type="application/json", <https://edicaucus.ac.uk/?p=9201>; rel=shortlink
+X-TWO-PAGE-CACHED: 0
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

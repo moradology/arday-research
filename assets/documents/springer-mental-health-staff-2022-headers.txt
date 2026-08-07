@@ -1,0 +1,136 @@
+HTTP/2 301 
+age: 0
+location: /rwe/10.1007/978-981-16-8679-5_396
+cache-control: public,max-age=600
+x-b3-sampled: 1
+x-b3-spanid: 919b0825f9409095
+x-dump-request-bodies: 0
+via: 1.1 google, 1.1 varnish
+traceparent: 00-8317e324ba334d1052bcbd3df9edb173-6c31cf0fb52a3599-01
+set-cookie: trackid="vy5tn9fauhhtmehxvrnj8fmrv"; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token="otFW3gWK+NsIEnt62Rdl/WF9cGJg98ln1VRqTvmfjcs="; Expires=Fri, 07 Aug 2026 13:04:04 GMT; Domain=.springer.com; Path=/chapter/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+x-b3-traceid: dcf403c150140fa6
+server: Oscar Platform 0.1747.0
+x-vcap-request-id: 8317e324-ba33-4d10-52bc-bd3df9edb173
+tracestate: gorouter=79e317e070aa7cbc
+x-frame-options: DENY
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 13:04:04 GMT
+x-served-by: cache-e0cd0b37-internal, cache-iad-kiad7000144-IAD, cache-iad-kiad7000092-IAD
+x-cache: MISS, MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786021445.555089,VS0,VE250
+vary: x-frame-options,X-Oscar-Cache-Mode
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 303 
+age: 0
+location: https://idp.springer.com/authorize?response_type=cookie&client_id=springerlink&redirect_uri=https%3A%2F%2Flink.springer.com%2Frwe%2F10.1007%2F978-981-16-8679-5_396
+cache-control: no-cache
+x-b3-sampled: 1
+x-b3-spanid: 2942ea696c6719e3
+x-dump-request-bodies: 0
+via: 1.1 google, 1.1 varnish
+traceparent: 00-dfc4b2b43e12439c6caf94f9489d2d9e-6a57809c47cf40cf-01
+set-cookie: sim-inst-token=""; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: trackid="4hmidwtr7bqrk4gduu3rkqea1"; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token="S36+uT4XH1pS4yH0a3ojcU8FQFEksgTPveGuM68aRW8="; Expires=Fri, 07 Aug 2026 13:04:04 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+x-b3-traceid: c439c8d9a9b35f98
+server: Oscar Platform 0.1747.0
+x-vcap-request-id: dfc4b2b4-3e12-439c-6caf-94f9489d2d9e
+tracestate: gorouter=a8df68bf6cd93305
+x-frame-options: DENY
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 13:04:05 GMT
+x-served-by: cache-432604d8-internal, cache-iad-kiad7000100-IAD, cache-iad-kiad7000092-IAD
+x-cache: MISS, MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786021445.855391,VS0,VE185
+vary: x-frame-options,X-Oscar-Cache-Mode
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 302 
+server-timing: traceparent;desc="00-b2fe28f09f86426d76d590a47e8c6539-f316f675eda4ab23-01"
+x-xss-protection: 1; mode=block
+pragma: no-cache
+x-content-type-options: nosniff
+traceparent: 00-b2fe28f09f86426d76d590a47e8c6539-f316f675eda4ab23-01
+x-frame-options: DENY
+location: https://idp.springer.com/transit?redirect_uri=https%3A%2F%2Flink.springer.com%2Frwe%2F10.1007%2F978-981-16-8679-5_396&code=e2286e4d-7090-4fd4-a738-3249ac181287
+content-security-policy: frame-ancestors 'none';
+via: 1.1 google, 1.1 varnish
+set-cookie: idp_session=sVERSION_13a71c85c-00c7-4109-b076-fed518897eeb; Domain=.springer.com; Path=/; Secure; SameSite=None; HttpOnly
+set-cookie: idp_session_http=hVERSION_140a2cc00-0961-4d22-9ac6-539c514ec401; Domain=.springer.com; Path=/; HttpOnly
+set-cookie: idp_marker=f2f116e1-e11a-4cea-9b06-1e563ca9c7ef; Domain=.springer.com; Path=/; Max-Age=34560000; HttpOnly
+expires: 0
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+access-control-expose-headers: Server-Timing
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-vcap-request-id: b2fe28f0-9f86-426d-76d5-90a47e8c6539
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 13:04:05 GMT
+x-served-by: cache-iad-khef600040-IAD, cache-iad-kiad7000020-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786021445.198711,VS0,VE157
+vary: x-forwarded-proto
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 302 
+server-timing: traceparent;desc="00-7ed57086fd6c41fb5fdba917cc29c8a6-706827a74a6a1a8a-01"
+x-xss-protection: 1; mode=block
+pragma: no-cache
+x-content-type-options: nosniff
+traceparent: 00-7ed57086fd6c41fb5fdba917cc29c8a6-706827a74a6a1a8a-01
+x-frame-options: DENY
+location: https://link.springer.com/rwe/10.1007/978-981-16-8679-5_396?error=cookies_not_supported&code=e2286e4d-7090-4fd4-a738-3249ac181287
+content-security-policy: frame-ancestors 'none';
+via: 1.1 google, 1.1 varnish
+content-language: en-US
+expires: 0
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+access-control-expose-headers: Server-Timing
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-vcap-request-id: 7ed57086-fd6c-41fb-5fdb-a917cc29c8a6
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 13:04:05 GMT
+x-served-by: cache-iad-kcgs7200083-IAD, cache-iad-kiad7000020-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786021445.405667,VS0,VE192
+vary: x-forwarded-proto
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+accept-ranges: bytes
+x-b3-sampled: 1
+traceparent: 00-480efba9ca9f41584ae8845234b41532-e4772d20a14139fb-01
+x-dump-request-bodies: 0
+x-frame-options: DENY
+etag: W/"684b1451d697cda42952227f9db7546d"
+x-b3-traceid: f9d7c297822092fb
+via: 1.1 google, 1.1 varnish
+set-cookie: sim-inst-token=""; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: trackid="iajber51b5kppmkhyrcmaeyqb"; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token="8YB4vu0Voezfc/16GCVC6zHkpHzOeNu3w35aJ/ojZEg="; Expires=Fri, 07 Aug 2026 13:04:06 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+set-cookie: user.uuid.v2="3df1119c-00e4-4860-88ff-a8760c5a42bf"; Expires=Fri, 06 Nov 2026 13:04:05 GMT; Domain=.springer.com; Path=/; secure; HttpOnly
+tracestate: gorouter=6729c75d6364bea3
+age: 0
+content-type: text/html; charset=utf-8
+server: Oscar Platform 0.1747.0
+x-robots-tag: nocache
+x-b3-spanid: d93f15c4d64cb2eb
+x-vcap-request-id: 480efba9-ca9f-4158-4ae8-845234b41532
+x-content-type-options: nosniff
+date: Thu, 06 Aug 2026 13:04:06 GMT
+x-served-by: cache-7710454e-internal, cache-iad-kiad7000057-IAD, cache-iad-kiad7000092-IAD
+x-cache: MISS, MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786021446.647545,VS0,VE760
+vary: x-frame-options,X-Oscar-Cache-Mode, Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

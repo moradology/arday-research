@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 04:18:07 GMT
+content-type: text/html;charset=UTF-8
+cf-ray: a27379bcbd9b2bb1-OMA
+cf-cache-status: HIT
+cache-control: public, max-age=30, s-maxage=31536000
+last-modified: Fri, 07 Aug 2026 04:04:59 GMT
+server: cloudflare
+x-powered-by: Brightspot
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+via: 1.1 google
+alt-svc: h3=":443"; ma=86400
+content-security-policy: frame-ancestors 'self' https://cms.apnews.com/
+x-envoy-decorator-operation: brightspot-frontend-verify.prod-news.svc.cluster.local:80/*
+x-envoy-upstream-service-time: 276
+set-cookie: kameleoonVisitorCode=kswxpb6hqllgdjso; Max-Age=31536000; Path=/
+set-cookie: RegWallAB01=control2; Path=/
+set-cookie: __cf_bm=A2pOJZ9MJuxbXVtNdGO.EXpUNHuNHKMBnl0Mi_0i0D0-1786076287.4753118-1.0.1.1-JUHRIEwYA4LW8zcPH8LpYIfAndDs4z5EU0BuNpTVDobnwRUm6wpQpFRnVUPllFvQrOK56HtB00UtL9_pHhA_lObxM8WJ0EmkQxTw5nGkr.BwlPcN1T_3DpgHAJtnN_AChHuHhVRlXUoE8v0vAdZy2g; HttpOnly; SameSite=None; Secure; Path=/; Domain=apnews.com; Expires=Fri, 07 Aug 2026 04:48:07 GMT
+

@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: image/jpeg
+cache-control: max-age=2592000,public
+expires: Sat, 05 Sep 2026 20:27:58 GMT
+etag: "6c94843faae28cdb50564a95d7971670048c2dd6"
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 23:41:54 GMT
+via: 1.1 varnish
+age: 11636
+x-served-by: cache-iad-kiad7000175-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1786059714.244944,VS0,VE1
+vary: Accept,Origin
+strict-transport-security: max-age=300
+content-length: 112535
+

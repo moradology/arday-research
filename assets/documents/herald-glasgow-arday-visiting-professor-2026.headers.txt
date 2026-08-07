@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 19:25:32 GMT
+content-type: text/html; charset=UTF-8
+x-pagename: 
+x-feature-flag: 
+x-frame-options: sameorigin
+content-security-policy: upgrade-insecure-requests;object-src 'none'
+x-content-type-options: nosniff
+permissions-policy: camera=(),display-capture=(),geolocation=(),microphone=(),payment=(),usb=(),xr-spatial-tracking=()
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=63072000
+last-modified: Thu, 06 Aug 2026 19:25:32 GMT
+cache-control: public, max-age=120
+vary: Accept-Encoding
+x-varnish: 276333487
+etag: W/"a5faca0cbdb6a4bdfb10cc68c8a32271"
+x-azure-ref: 20260806T192531Z-1765547f684vb7q2hC1CHIpkps0000000ncg00000000zc4w
+x-cache: TCP_MISS
+x-fd-int-roxy-purgeid: 0
+

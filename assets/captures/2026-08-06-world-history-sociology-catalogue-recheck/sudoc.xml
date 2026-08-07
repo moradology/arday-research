@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<ZiNG:searchRetrieveResponse xmlns:ZiNG="urn:z3950:ZiNG:Service" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <ZiNG:resultSetId></ZiNG:resultSetId>
+    <ZiNG:numberOfRecords>0</ZiNG:numberOfRecords>
+    <ZiNG:records>
+    
+
+    </ZiNG:records>
+    <ZiNG:diagnostics>
+        <ZiNG:code>0</ZiNG:code>
+        <ZiNG:details></ZiNG:details>
+    </ZiNG:diagnostics>
+    <ZiNG:echoedRequest>
+	<query>dc.title+all+%22Une+histoire+mondiale+de+la+sociologie%22</query>
+	<maximumRecords>20</maximumRecords>
+	<startRecord>1</startRecord>
+	<sortKeys></sortKeys>
+    </ZiNG:echoedRequest>
+</ZiNG:searchRetrieveResponse>

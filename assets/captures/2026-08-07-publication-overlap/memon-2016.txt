@@ -1,0 +1,614 @@
+    Open Access                                                                                                                          Research
+
+
+
+
+                                                                                                                                                             BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+                                  Perceived barriers to accessing mental
+                                  health services among black and
+                                  minority ethnic (BME) communities: a
+                                  qualitative study in Southeast England
+                                  Anjum Memon,1 Katie Taylor,1 Lisa M Mohebati,1 Josefin Sundin,1 Max Cooper,1
+                                  Thomas Scanlon,2 Richard de Visser3
+
+
+
+To cite: Memon A, Taylor K,       ABSTRACT
+Mohebati LM, et al. Perceived                                                                  Strengths and limitations of this study
+                                  Objective: In most developed countries, substantial
+barriers to accessing mental
+                                  disparities exist in access to mental health services for    ▪ Considering that people from ethnic minorities
+health services among black
+and minority ethnic (BME)
+                                  black and minority ethnic (BME) populations. We                are more likely to have poorer health outcomes
+communities: a qualitative        sought to determine perceived barriers to accessing            and find it difficult to access healthcare than the
+study in Southeast England.       mental health services among people from these                 majority population, this qualitative study pro-
+BMJ Open 2016;6:e012337.          backgrounds to inform the development of effective             vides comprehensive information about per-
+doi:10.1136/bmjopen-2016-         and culturally acceptable services to improve equity in        ceived barriers to accessing mental health
+012337                            healthcare.                                                    services.
+                                  Design and setting: Qualitative study in Southeast           ▪ The in-depth focus group discussions were
+▸ Prepublication history for      England.                                                       guided by a topic guide and ascertained various
+this paper is available online.   Participants: 26 adults from BME backgrounds (13               aspects of access to mental health services;
+To view these files please        men, 13 women; aged >18 years) were recruited to 2             including type of service(s) used, issues with,
+visit the journal online          focus groups. Participants were identified through the         and experience of using the service, perceived
+(http://dx.doi.org/10.1136/       registers of the Black and Minority Ethnic Community           barriers to accessing the service and how the
+bmjopen-2016-012337).
+                                  Partnership centre and by visits to local community            services can be improved.
+Received 20 April 2016
+                                  gatherings and were invited to take part by community        ▪ Owing to the inclusion of a specific sample of
+Revised 21 September 2016         development workers. Thematic analysis was                     participants and the quality of dialogue and ana-
+Accepted 22 September 2016        conducted to identify key themes about perceived               lysis, the study achieved a sufficient level of
+                                  barriers to accessing mental health services.                  information power.
+                                  Results: Participants identified 2 broad themes that         ▪ Considering the diverse black and minority
+                                  influenced access to mental health services. First,            ethnic (BME) population, our participants
+                                  personal and environmental factors included inability to       (majority were university educated) represented a
+                                  recognise and accept mental health problems, positive          subsection of this population; therefore, they
+                                  impact of social networks, reluctance to discuss               may not represent the views/perceptions of all
+                                  psychological distress and seek help among men,                strata of the BME population.
+                                  cultural identity, negative perception of and social
+                                  stigma against mental health and financial factors.
+                                  Second, factors affecting the relationship between          in developing effective communication strategies to
+                                  service user and healthcare provider included the           deliver individually tailored and culturally sensitive care.
+                                  impact of long waiting times for initial assessment,        Improved engagement with people from BME
+                                  language barriers, poor communication between               backgrounds in the development and delivery of
+1
+ Department of Primary Care                                                                   culturally appropriate mental health services could
+                                  service users and providers, inadequate recognition or
+and Public Health, Brighton                                                                   facilitate better understanding of mental health
+and Sussex Medical School,        response to mental health needs, imbalance of power
+                                  and authority between service users and providers,          conditions and improve access.
+Brighton, UK
+2
+ Public Health Directorate,       cultural naivety, insensitivity and discrimination
+Brighton and Hove City            towards the needs of BME service users and lack of
+Council, Brighton and Hove,       awareness of different services among service users
+UK                                and providers.                                              INTRODUCTION
+3
+ School of Psychology,            Conclusions: People from BME backgrounds require            People from black and minority ethnic
+University of Sussex,                                                                         (BME) communities are more likely to have
+                                  considerable mental health literacy and practical
+Brighton, UK                                                                                  poorer health outcomes, a shorter life
+                                  support to raise awareness of mental health conditions
+Correspondence to                 and combat stigma. There is a need for improving            expectancy and have more difﬁculty in acces-
+Professor Anjum Memon;            information about services and access pathways.             sing healthcare than the majority of the
+a.memon@bsms.ac.uk                Healthcare providers need relevant training and support     population, and access to mental health
+
+                                           Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337                                     1
+Open Access
+
+
+
+
+                                                                                                                                            BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+services is a cause of concern.1 There is marked ethnic            study. Participants were identiﬁed through the registers
+variation among mental health service users across the             of the BME Community Partnership (BMECP) centre
+UK, and adverse experiences are widely reported among              and by visiting local community gatherings and were
+BME service users.2–4 In response, the UK government               invited to take part in the study by the community devel-
+has set out polices and action plans (eg, The National             opment workers. BMECP is a registered charity that
+Service Framework for Mental Health; Delivering Race               works with BME community groups, organisations and
+Equality in Mental Healthcare Action Plan) to address              individuals in Brighton and Hove.18 The participants
+inequality of access to services, promote mental well-             were given an anonymous self-administrated question-
+being and improve primary, secondary and community-                naire to complete and were requested to deposit it in a
+based mental health services.3 5                                   ballot box. The questionnaire included information on
+   The prevalence of common mental disorders varies                gender, age (in age groups), level of education, ethnicity
+markedly in different BME communities. For example,                (according to the Ofﬁce of National Statistics classiﬁca-
+there is relatively higher prevalence of anxiety and               tion), marital status, duration of residence in Brighton
+depression in south Asian women (63.5% compared                    and Hove and sexuality. The study was based on two
+with 28.5% of white women),6 7 and psychotic disorders             focus group discussions (each lasting for about 2 hours)
+in Afro-Caribbean men (3.1% compared with 0.2% of                  and included 26 participants from the Asian/Asian
+white men).7 There is also wide variation in the pathways          British (n=4), Black/Black British (n=6) and mixed
+and pattern of use of mental health services.8 9 In                (n=3) communities; 13 participants did not respond to
+general, people from ethnic minorities are less likely             the question on ethnicity. Eleven participants were
+than their White British counterparts to have contacted            aged 18–34, 10 were aged 35–64 and 2 were aged 65+
+their general practitioner (GP) about mental health                years (3 participants did not report their age). Focus
+issues in the last year, to be prescribed antidepressants          group 1 included 14 participants (FG1, 9 females and 5
+or referred to specialist mental health services.                  males) and 12 in focus group 2 (FG2, 4 females and 8
+   It is not clear whether disparities in access to mental         males). The majority of participants had a university
+health services reﬂect variation in actual BME mental              qualiﬁcation (74%) and were resident in the area for
+health needs or are the product of institutional, cultural         more than 2 years (83%). The study was commissioned
+and/or socioeconomic exclusion factors, which disadvan-            under the Department of Health “Delivering Race
+tage those from a BME background.10 11 There is some evi-          Equality in Mental Healthcare” programme, and the
+dence that hard-to-reach groups, including BME, are less           protocol and focus group topic/discussion guide of the
+likely to obtain appropriate mental healthcare4 12 and may         study were reviewed and approved by the Public Health
+be disadvantaged either because they are unable to access          Directorate National Health Service (NHS) Brighton &
+services or because they receive inadequate help from ser-         Hove, Sussex Partnership NHS Foundation Trust and
+vices.13 Factors considered important barriers to accessing        BMECP.
+services include cultural competence (ie, the ability of pro-
+viders and organisations to effectively deliver healthcare
+services that meet the social, cultural and linguistic needs       Data collection
+of patients);11 13 variation in clinical practice and service      The focus groups were conducted in June 2010 at the
+provision;9 cultural models of illness; stigma;4 14 15 fear;16     BMECP Centre. Light refreshments were provided, and
+perceived discrimination and barriers to communica-                a £25 supermarket voucher was given as an honorarium
+tion.4 17 However, few studies have explicitly examined the        to each participant. The objectives of the study were
+perspective of individuals from the BME community on               explained to the participants, and informed consent
+the barriers to accessing mental health services.                  was obtained. Each participant completed a self-
+   Although most mental health services are based and              administered demographic questionnaire. Discussions
+delivered in a community setting, little research has been         were facilitated by a researcher trained and experienced
+conducted to understand the barriers faced by BME com-             in cross cultural working and qualitative methods
+munities to access the appropriate service. Perceptions of         (LMM). Each session was audio-recorded and tran-
+barriers to access can provide valuable evidence that may          scribed verbatim. In addition to the recording of the dis-
+help to shape and drive changes within mental health ser-          cussion, written notes were also taken, using ﬂipcharts,
+vices. We conducted a qualitative study to understand              to allow for a review of the process and to ensure that
+such perceptions among BME individuals in Southeast                participants’ views were clearly documented. Each par-
+England to inform the development and commissioning                ticipant was encouraged to speak and express their own
+of effective and culturally acceptable services.                   views and often conversations among participants
+                                                                   enriched the discussion.
+                                                                      A topic/discussion guide with questions developed by
+METHODS                                                            the Mental Health/Wellbeing Needs Assessment Group
+Participants                                                       (lead by AM) was used to ascertain various aspects of
+BME individuals, aged 18+ years, resident in the city of           access to mental health services; including type of service
+Brighton and Hove were eligible to participate in the              (s) used, issues with, and experience of using the service,
+
+2                                                                Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337
+                                                                                                                     Open Access
+
+
+
+
+                                                                                                                                          BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+perceived barriers to accessing the service and how the
+services can be improved.
+  Broad topic guide questions included: (1) Tell me
+about what mental health/well-being means to you?
+How can someone maintain good mental health? (2)
+How can someone who is experiencing worry or difﬁcult
+emotions or thoughts deal with them, or ﬁnd help to
+deal with them? (3) What are some of the things that
+might prevent someone who feels like they need help to
+deal with worry or difﬁcult emotions or thoughts, but
+are unable to get it? How might this be different for
+men and women? (4) How can the current mental
+health/well-being services provided be improved?
+
+Analysis
+Thematic analysis was conducted to identify key themes                     Figure 1 Perceived barriers to accessing mental health
+that commonly emerged regarding the perceived bar-                         services among the BME communities. BME, black and
+riers to accessing mental health services.19 Two research-                 minority ethnic.
+ers familiarised themselves with the scripts and notes
+and developed an iterative coding scheme using NVivo                       problems was reported to be delayed and to lead to pres-
+qualitative data analysis software. This process involved                  entation as a crisis or emergency because people “hide
+the identiﬁcation of common words and phrases which                        it, until last minute when it is very bad” (Male J. FG2).
+were coded and later grouped into subthemes and
+themes. Following identiﬁcation of key themes, the tran-                   Social networks
+scripts were coded according to theme. As the data were                    A network of family and friends within the community
+reviewed, new themes and subthemes emerged and were                        was seen as key in providing a safe framework for the dis-
+adapted in an iterative process. To minimise bias,                         cussion of problems and could play a valuable role in
+another researcher independently read the scripts and                      accessing mental health services, particularly in crisis:
+coded and analysed the data to enhance the validity of                     “There were so many gaps in the services. My mum was
+the emerging themes. Anonymised quotes from the par-                       seeing them all the time. She was having to do so much
+ticipants were used to illustrate the themes identiﬁed in                  just to get him assessed” (Male J. FG1). However, social
+the study.                                                                 networks could also be perceived as a barrier either
+                                                                           through their absence, or by providing an alternative to
+                                                                           professional services.
+RESULTS                                                                       One woman highlighted that a lot of people who grew
+The study identiﬁed two broad inter-related themes as                      up in their native country may not have family or social
+barriers to accessing mental health services: (1) personal                 connections in the UK and “the mental health service
+and environmental factors, and (2) relationship between                    does not always understand. That we are really, really iso-
+service user and healthcare provider. Each theme was                       lated” (Female I. FG1). Social isolation was also relevant
+comprised of subthemes (ﬁgure 1).                                          for people who lived alone, or whose family structure
+                                                                           had broken down: “if your family structure breaks down
+Personal and environmental factors                                         you ﬁnd yourself so incredibly isolated. It is then that
+Several personal and environmental factors were recog-                     you might realise that, it is not to do with intelligence or
+nised as affecting access to mental health services. Five                  anything, it is just like, where to go to ﬁnd help is really
+subthemes were identiﬁed as potential barriers, each is                    hard […]” (Female H. FG1).
+described below.                                                              Informal social support structures could be perceived
+                                                                           as a viable alternative to accessing professional mental
+Recognition of mental health problems                                      health services, particularly where there was an element
+Inability to recognise symptoms of mental illness and                      of distrust within the community towards formal health-
+unwillingness to accept a diagnosis of mental illness                      care provision: “In the West Indian community […]
+were mentioned as key barriers to seeking help from                        people do not trust psychiatrists particularly […] in terms
+health services, particularly for individuals who had                      of where my family and friends would turn in experiences
+grown up in their native countries. For instance, one                      of bad mental health or whatever is towards family struc-
+woman stated that in Africa she “never heard of mental                     tures. Informal structures, friends.” (Male D. FG1).
+health or being depressed” (Female L. FG1). This was
+compounded by a cultural belief that mental health was                     Sex differences
+sometimes not to be discussed openly with family                           Many participants suggested that BME men were less
+members. As a result, health seeking for psychological                     willing or less able to talk about their problems,
+
+Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337                                                             3
+Open Access
+
+
+
+
+                                                                                                                                         BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+particularly with mental health professionals: “Men, we         “If you want the alternatives you have to physically go
+tend to keep things to ourselves. We do not think that          and ﬁnd them and you have to pay” (Female F. FG1).
+by exposing our own insides to outside will bring any           Most participants reported that they were unable to pay
+solution at all […] I am a man, I can sort it out” (Male        for these therapies and this often meant their illness
+B. FG2). Participants also perceived services were not          would remain untreated: “There is no money. We just
+“available for men of colour who have mental health             cannot afford it […]. You just have to do it yourself.
+issues” (Male J. FG1). Although a large number of male          Then you end up just leaving it” (Male B. FG2). A
+participants emphasised the importance of discussing            number of participants believed that community support
+concerns, the ability to deal with problems was often           groups and organisations are important in providing an
+described in terms associated with a wider masculine            informal structure for activities, discussion and support;
+identity, for example, ‘pride’ (Male B. FG2) and                but that a lack of funding for the associated costs of
+strength.                                                       running these groups was an issue “We cannot afford it
+                                                                (to hire a hall for community meetings). You can apply
+Cultural identity and stigma                                    for council funding but you have to have this and that”.
+Signiﬁcant emphasis was placed on cultural identity and         (Male Q, FG2).
+stigma towards mental health as barriers to accessing ser-
+vices. Participants commented on how cultural back-             Relationship between service user and healthcare provider
+ground and identity deﬁned acceptable responses to              Several components of the relationship between service
+mental health problems and appropriate coping                   user and healthcare provider were recognised as affect-
+mechanisms. One woman described the attitude within             ing assess to mental health services. Seven subthemes
+her community where individuals were expected to                were identiﬁed as potential barriers, each is described
+“deal with it…you are supposed to be strong. You are            below.
+from Africa” (Female L. FG1). Mental health was often
+perceived as a socially unacceptable topic for discussion:      Waiting times
+“Stuff like that is never talked about” (Female L. FG1).        Several participants highlighted long waiting times as a
+Mental illness was also typically viewed negatively, or in      barrier to accessing services and expressed frustration
+the context of extreme cases the services were seen as          that services were unable to respond quickly to mental
+serving “crazy people only” (Male L. FG2). Owing to the         illness: “He has now been 6 months on the waiting list—
+stigma towards mental illness within the community,             my friend’s son. He died about 2 weeks ago. […] There
+individuals were reluctant to openly acknowledge symp-          is such a long waiting list, and why have they not got suf-
+toms, thus restricting access to the services. One partici-     ﬁcient people to address these…? This is our future,
+pant explained that “our people cannot go to mental             these young men” (Female C. FG1). Lengthy waiting
+health services because […] he thinks it is only crazy          times for assessments and services were identiﬁed as
+people going there” (Male L. FG2). In addition, the par-        negatively impacting on the outcome for individuals by
+ticipants explained that people might also be reluctant         allowing a mental health problem to escalate in severity:
+to seek help on behalf of another member of their com-          “she was told there was a four month waiting list before
+munity due to social stigma: “if you tell those in author-      she could get any support. […] her state went from
+ity, ‘Please my friend has a mental health problem and I        being one in which she was quite open to getting help
+am worried’, then what will happen? I am from Sudan.            to one where […] basically her situation declined signiﬁ-
+My community will come to me and say, ‘Why are you              cantly […]” (Male D. FG1).
+doing this to him?’ because in our culture, in our
+country, it is wrong” (Male J. FG2). The consequences of        Language
+cultural stigma attached to mental health were recog-           Language was seen as a common barrier to access.
+nised as reaching beyond the individual. One participant        Participants emphasised that some people within the
+described how a mental health diagnosis could stigma-           BME community had little or no understanding of
+tise the whole family, affecting employment prospects           English, especially if they were recent immigrants. The
+and standing in the community: “in our country if you           inability to effectively communicate with healthcare pro-
+hear about somebody in this family sick, is mental, you         fessionals prevented individuals from accurately articulat-
+lose trust in this person and whole family, maybe relative      ing their problems: “They do not know how to explain
+as well. And, […] they whisper about the whole family           their problems. That is why they do not want to go to
+and maybe talk about grandmother, grandfather, and              GP many times. So they remain with their illness. That is
+they lose respect” (Male J. FG2).                               our big problem” (Male H. FG2). As a consequence, an
+                                                                individual might experience additional stress, withdraw
+Financial factors                                               from healthcare services or receive inappropriate investi-
+The cost of using complementary medicine or therapy,            gation and treatment: “I know one person, he has
+which is not covered under the NHS, for example, rela-          struggled and struggled. He said what he could say but
+tionship counselling “‘Relate’ costs you money” (Male           the limit of the words, the real words he wanted to say
+U. FG2), was seen as a barrier to accessing the services:       to the GP, he did not know the meaning of them in
+
+4                                                             Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337
+                                                                                                                    Open Access
+
+
+
+
+                                                                                                                                         BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+English. Then in the end they end up getting the wrong                     that talking therapies were not readily provided, and
+treatment” (Male B. FG2). Although one participant                         organisations offering creative approaches such as
+noted that interpreting services were better provided for                  expressive writing workshops were not encouraged. One
+in recent years, concerns were still raised over inad-                     participant described the experiences of his friend: “she
+equate provision of interpreters, particularly in primary                  had the choice between medication and down the line
+care “the interpreter service does not send to the GP                      when her situation declined then you have got the
+because of the ten minute time” (Male L. FG2).                             opportunity to be sectioned, which is not really an
+                                                                           opportunity” (Male D. FG1). Participants felt that if
+Communication                                                              healthcare professionals “widened their cultural knowl-
+Poor communication between service user and health-                        edge of what was normal” (Male K. FG1), it would allow
+care provider was indicated as a key barrier to develop-                   them to consider a greater range of therapies and sup-
+ing an effective relationship. Failure in communication                    portive techniques.
+arose not only from the linguistic challenges described
+above, but from doctors’ perceived inability to listen to                  Power and authority
+the concerns and needs of service users. Participants felt                 Interactions with clinicians were described in terms of
+that healthcare providers took a generalised approach                      “being talked down to” (Male D. FG1). There was
+and failed to listen to individual needs: “you treat every-                concern that clinicians had “the power simply with the
+body with the same brush […] you go in and […] you                         stroke of a pen to decide whether you are going to be
+are just like the next person. They do not take time to                    sectioned or whether you are going to be sent away for
+listen to you. And I do not think it is because of colour                  some counselling. Or […] administered some really,
+or anything like that. In talking to a lot of people,                      really high doses of whatever kind of medicine” (Male
+including White people, they encounter the same thing                      D. FG1). It was felt that there was “a clash between the
+…” (Female F. FG1). A further challenging area of com-                     professional expertise that the doctor has and is often
+munication lay in the reluctance of professionals to                       given privilege over someone’s knowledge about their
+engage with friends and relatives attempting to access                     own mental state and mental health and experiences”
+mental health services on behalf of an individual with                     (Male D. FG1). Although some participants expressed a
+mental health problems: “I think getting services to                       need to “try and change that balance of power between
+respond when a parent is telling them needs to happen                      the two of you” (Male D. FG1), they also described a
+more […] Listen to the family telling them that this                       sense of helplessness and passivity with regard to health-
+person has got a problem. There might be reasons why                       care interactions and treatment: “We have to follow what
+they have not gone to the services” (Male J. FG1). It was                  the professional said. If we do not want to follow what
+often felt that healthcare providers “just did not want to                 they are saying, it is our problem […]” (Female
+get involved and give him the help that he needed”                         N. FG1). A worsening of the service user and healthcare
+(Male J. FG1) and, despite evidence of escalating pro-                     provider relationship and exclusion from services were
+blems, concerns were dismissed: “She had to ﬁght to get                    seen as possible consequences of assertive behaviour: “I
+him assessed and they were telling her ‘no, there is                       asked for a change of CPN [community psychiatric
+nothing wrong […] From the ﬁrst time he was sectioned                      nurse] and they crossed me off […] She was not able to
+after an overdose. They were not there—they did not                        give me what I needed. […] I got made an appointment
+help her […]” (Male J. FG1).                                               to see a psychiatrist and the psychiatrist said that we can
+                                                                           no longer offer you any services or help” (Male
+Responding to needs                                                        M. FG1). The need for a positive interpersonal connec-
+Participants felt that healthcare providers did not                        tion between service user and healthcare provider where
+adequately recognise or respond to their needs. They                       the consultation was “a dialogue” (Male D. FG1) was
+felt that the system lacked ﬂexibility, leaving it unable to               seen as an important factor in engaging with mental
+support individual or cultural preferences, particularly                   health services.
+in relation to available therapies. One participant
+described the general response to symptoms of depres-                      Cultural naivety, insensitivity and discrimination
+sion as “just ﬁll this form in and say how your mood is                    Participants described how healthcare providers often
+and I will give you some antidepressants” (Female                          struggled to understand BME people’s experiences. A
+L. FG1). Many participants described receiving “pills                      few participants expressed annoyance at having to
+that I do not want” (Female L. FG1) and felt their reluc-                  explain “the Black experience” (Female I. FG1) to
+tance to start medications was disregarded, and that the                   healthcare professionals feeling that this interfered with
+use of complimentary/alternative therapies was not                         effective therapy. One woman described “humouring
+explored. One participant explained “for me it really                      the therapist so that they can actually give me the help
+felt like they were wasting my time. He did not give me                    that I really need. And I have also found that when you,
+any help whatsoever” (Male B. FG2). Many participants                      for instance, talk about racism that actually a lot of them
+wanted “to access people who will listen to us, who will                   cannot deal with it” (Female I. FG1). When accessing
+allow us to talk” (Female C. FG1) and raised concerns                      services, many participants wanted “to see someone like
+
+Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337                                                            5
+Open Access
+
+
+
+
+                                                                                                                                         BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+me, someone who understands my culture who […] is               healthcare provider. The study not only identiﬁed key
+going to welcome me with open arms and is going to              barriers to accessing mental health services that were
+get what I am saying” (Female E. FG1). Participants per-        speciﬁc to people from the BME backgrounds, but also
+ceived that White British GPs and specialists were unable       barriers likely to be shared with white majority groups as
+to understand or sympathise with the realities and              well as other minority or marginalised populations.12 20
+experiences of those from a BME background. Services               We found that the inability to recognise and accept
+were often seen as insensitive to the needs of Caucasian        symptoms as mental illness was perceived as a barrier to
+service users, and they were often categorised: “They do        help seeking, particularly for individuals who had grown
+not want to be aware of what we are trying to say. So,          up in native countries other than the UK. Previous
+they just put in a category. Just White British way”            research has demonstrated that culturally speciﬁc con-
+(Female G. FG1). Some participants felt they had                structs of illness can determine how individuals perceive
+received inadequate or different treatment “because of          their symptoms, the nature of help seeking behaviour
+our skin or where we have come from” (Male B. FG2).             and engagement with services. Some cultures do not
+One participant expressed her frustration over her              recognise concepts of stress or depression or may
+experiences in accessing treatment: “I got an English           associate culturally unacceptable behaviours, such as
+friend and she said to me that she has got the same             aggression, with mental illness; consequently, symptoms
+problem […] her GP transferred her to her consultant            may remain unrecognised.17 21 Mental health symptoms
+to see her problem and her problem was solved. Why              can be perceived and presented as somatic rather
+would my GP not transfer me to a consultant instead of          than psychiatric in origin; and individuals may ﬁnd it
+giving me a different tablet every time? I just feel like I     easier to understand and express mental distress in the
+am really angry and really frustrated because they trans-       context of physical symptoms, potentially leading to
+ferred her because she is English and I am not English”         misdiagnosis.4 17 22
+(Female E. FG2).                                                   Participants perceived language as a barrier to com-
+                                                                municating their needs to healthcare professionals; this
+Awareness of services                                           has also been found in previous studies.17 22 23
+General lack of awareness—among healthcare profes-              Language is vital in the accurate assessment and diagno-
+sionals and the wider community—of the services avail-          sis of mental illness, and research has found that where
+able within mental healthcare and how to effectively            ethnic differences played a role in the overall experience
+access them was another barrier. Participants felt they         of adult acute mental healthcare it was largely due to
+did not know “how we get help” (Male G. FG2). One               language.24 25 Participants in our study expressed how
+woman illustrated: “If we don’t know that something is          the inability to articulate symptoms and concerns acted
+available, how are we going to access it?” (Female              as a barrier in a number of ways: increased stress; reluc-
+F. FG1). Participants wanted to be informed of available        tance to engage with services and inability to access
+services for further help and support, but felt GPs “need       appropriate care. Expression of mental health problems
+to be aware of community organisations, because they            is often layered in culturally speciﬁc nuance and subtlety,
+are not” (Female E. FG1). There was a sense of frustra-         which can be lost within the service user and healthcare
+tion that “when we access the doctors if they do not            provider interaction; and medical terminology may not
+know that there are these kind of groups we can turn to,        have a meaning that is directly equivalent.4 17
+then it is a futile exercise” (Female F. FG1). Lacking             The cultural framework can determine the ease with
+wider knowledge of organisations available to provide           which an individual seeks help within their community,
+mental health support meant GPs could not discuss the           and this was evident in our study where participants
+full range of treatment options available and were              reported stigma as a barrier to accessing mental health
+unable to signpost service users to appropriate services:       services. Stigma is well recognised as a factor in deter-
+“If they are not equipped to deal with us I would rather        mining health seeking behaviour and service usage.4 26
+they sent us to a support group” (Female E. FG1). One           Participants in our study expressed how mental health
+participant expressed how this lack of awareness of alter-      was often perceived as a socially unacceptable topic for
+native therapy could contribute to the apparent unre-           discussion within their community. Previous studies have
+sponsiveness to service users’ needs (described above):         shown that mental health problems are often associated
+“The NHS […] needs to be educated to the point that             with negative attributes and can provoke a signiﬁcant
+they know that there are other avenues that they can            emotional and behavioural response from individuals
+turn to if they are not working for that individual             and the community leading to discrimination and disad-
+person” (Female F. FG1).                                        vantage.26 As a consequence, individuals may conceal
+                                                                symptoms, delay seeking help or fail to adhere to treat-
+                                                                ment; potentially leading to delayed presentation or a
+DISCUSSION                                                      crisis situation.12 15 16
+The ﬁndings presented here highlighted how access to               Cultural naivety and insensitivity within healthcare ser-
+healthcare was a function of personal and environmen-           vices was recognised as a barrier to accessing services.
+tal factors and the relationship between service user and       Mental health services were felt to be unresponsive to
+
+6                                                             Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337
+                                                                                                                      Open Access
+
+
+
+
+                                                                                                                                            BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+the needs of ethnic minority groups, and studies suggest                   highlighted in this study, other research has shown that
+that individuals can perceive services to replicate the                    this power could present a difﬁculty if service users or
+experiences of discrimination felt within wider                            families challenged a professional decision.
+society.11 13 16 BME service users may perceive mental                        In our study, participants perceived services to be
+health services to be discriminatory and as representing                   limited in their response to the diverse needs of BME
+a source of formal authority and social control. In such                   service users. In particular, they felt that they were
+cases, individuals were more likely to avoid contact with                  offered few alternatives to drug-based treatments.
+formal services.11 16 Although Weich et al showed no evi-                  Previous studies provide a mixed picture; some studies
+dence of service users’ perceived ethnicity as a major                     have found that BME service users were no more likely
+inﬂuence on their experience of acute care, our and                        to take medication for mental health illness,28 32 but
+other studies have shown that service users can be                         others suggest that BME service users are more likely to
+acutely aware of the ‘whiteness’ of institutions and per-                  receive medication and less likely to receive psychother-
+ceive mental health services to reinforce a White                          apy and other alternative therapies.2 11 16 Participants in
+Euro-centric model of healthcare with little consider-                     our study also felt that within the community and the
+ation or understanding of ethnicity.24                                     healthcare setting there was a limited awareness of the
+   The prominent role of social networks identiﬁed in                      range of services available to individuals, limiting the
+our study was consistent with previous research,23 24 in                   opportunity to develop an individual care plan. Previous
+particular the preference of family and friends as a                       studies also found that availability of information about
+source of help for common mental health problems,                          services affected accessibility of mental health services as
+rather than healthcare professionals. Participants recog-                  did other geographical and physical factors, such as
+nised social networks as a source of support, enabling                     distance.12 22
+discussion of problems and access to services. Research                       The UK BME population is a highly diverse entity, and
+has shown that members of the BME community often                          our participants represented a subsection of this popula-
+ﬁnd it more appropriate to talk within their social                        tion. Also, the majority of our participants were univer-
+network rather than to a professional, with formal                         sity educated and therefore may not represent the
+mental health services perceived as a last resort.17 27 The                views/perceptions of all strata of the BME population.
+possibility of the social network acting as a barrier or                   Some of the previous studies have identiﬁed differences
+alternative to professional mental health services is sup-                 among speciﬁc ethnic minority group(s) with regard to
+ported by qualitative studies which suggest individuals                    perception of illness and stigma.33 Our study was
+from a BME background are less likely to contact their                     focused on BME population in general and, unlike
+GP about mental health issues.28 In part this may be due                   some recent studies, was not focused on any particular
+to a lack of trust of mental health services which would                   ethnic or service-user subgroup. The objective was to
+encourage people to use their friends and family ﬁrst.                     understand the barriers and community perspectives
+   We found that men in particular were a hard-to-reach                    that could be applicable to the majority of different
+group and were more reluctant to seek help and felt                        ethnic groups in the UK. Furthermore, we were unable
+excluded from mental health services. In previous                          to conduct a comprehensive analysis of ethnicity-speciﬁc
+studies, men were less likely than women to have sought                    barriers to accessing services as half of our participants
+help for common mental health problems, and more                           did not respond to the question on ethnicity. This may
+likely to have a negative attitude towards help seeking                    highlight possible discontent with the recommended
+behaviour.27 29 Men ascribed particular importance to                      ethnic group categories/question. On the other hand,
+self-reliance in managing mental health issues,27 a per-                   we did examine differences in perception of barriers to
+spective that was supported by the ﬁndings of our study.                   accessing mental health services by gender. Like qualita-
+   The relationship between service user and healthcare                    tive studies in similar settings, it is also possible that the
+provider was recognised as pivotal to participants’ overall                results could be affected by selection bias; for example,
+experience of accessing services—communication and                         if the study included participants who were particularly
+the ability to respond to service user needs were demon-                   keen to discuss their views and perceptions and/or parti-
+strated to be important factors. Communication is                          cipants who have had negative experience of accessing/
+central to the service user and healthcare provider rela-                  using mental health services and therefore wanted to
+tionship, and a positive relationship with a healthcare                    share these experiences. Considering the aim of the
+professional is likely to encourage disclosure with better                 study, inclusion of a speciﬁc sample of participants and
+healthcare outcomes in terms of diagnosis and treat-                       the quality of dialogue and analysis, we believe the study
+ment.30 31 It is well known that poor communication                        achieved a sufﬁcient level of information power.
+and interaction between service user and provider plays                       Although our data were collected a few years ago (the
+a key role in encouraging or dissuading future health                      study was commissioned under the Department of
+seeking behaviours.13 Fear, in particular, was raised as a                 Health “Delivering Race Equality in Mental Healthcare”
+cause of a poor relationship—healthcare professionals                      programme), we believe that the ﬁndings are still very
+were often perceived to have signiﬁcant power and                          much relevant to inform the development, commission-
+authority over service users, and as participants                          ing and delivery of effective and culturally acceptable
+
+Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337                                                               7
+Open Access
+
+
+
+
+                                                                                                                                                  BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+mental health service and to improve access to the              languages where relevant. Concerns raised in this study
+service. The study not only identiﬁed key barriers that         regarding waiting times for mental health services may
+are relevant to BME population, but also barriers likely        in part be addressed by the government’s introduction
+to be shared with other minority or marginalised                of the ﬁrst waiting time targets for psychiatric services,
+groups. Our study was based in the community setting            including talking therapy.
+and addressed the BME population as a uniﬁed group                Healthcare providers may need formal training to
+and, as stated above, was not focused on a particular           further their understanding of the cultural issues and
+ethnic or service-user subgroup. The large majority of          differences, and the sensitive and diverse needs of the
+recent studies have been based on a particular stratum          service users. Participants in the study expressed a wish
+of the BME population, focusing on either a speciﬁc             to see a service provider from the same BME back-
+issue or service-user subgroup. In contrast, our study          ground as themselves because they would be more likely
+provides comprehensive, practical and systematic discus-        to understand their situation and experiences. Research
+sion on the subject and is focused on the BME popula-           on ethnic concordance between service users and provi-
+tion as a whole—the narratives and perspectives                 ders have found that people with a BME background
+expressed reﬂect perceptions of barriers to accessing           who have experienced racial discrimination in health-
+mental health services that are currently important con-        care have a preference for ethnic similarity in their
+siderations for improving equity in healthcare and redu-        healthcare providers and that ethnic and language
+cing health inequalities. Our ﬁndings also add to the           matching promote clinical judgments of more severe
+on-going discussions in the Department of Health and            psychopathology.36 37 Strategies aimed at expanding and
+Public Health England to develop the next stage of              enhancing the role of BME staff within mental health
+efforts to promote mental well-being among the BME              services may help deliver more culturally sensitive inter-
+populations and address racial/ethnic inequality                actions and services.
+throughout the mental health system. We believe the               Building trust between individuals, communities and
+ﬁndings of our study would be relevant and inform the           mental health services is a particularly important factor
+development of such efforts and the mental health               and is well recognised within government policy.5
+strategy.                                                       Approaches could include reverse commissioning (an
+                                                                initiative supported by the NHS BME Network which
+Recommendations—clinical and public health policy               seeks to enable the commissioning of services that meet
+implications                                                    BME needs and reduce inequalities)38 and using patient
+Perspectives of BME service users on barriers to acces-         and public involvement groups and BME needs assess-
+sing mental health services have the potential to trans-        ments to identify gaps in service provision and highlight
+late into tangible direction and framework for future           potential new and culturally appropriate interventions.
+equitable service delivery and healthcare professional          Acknowledgements The authors thank Martin Campbell at NHS Brighton &
+practice. It is important to focus on tackling barriers at      Hove; Andy Porter, Andrew Dale and Eleanor Hope at Sussex Partnership NHS
+the personal and environmental level and on removing            Foundation Trust; Peter Koroma and Doris Ndebele at BME Community
+barriers encountered at the interface between service           Partnership and Dr Victoria Collins at Brighton and Sussex Medical School for
+user and healthcare provider. These include raising             their help and support in conducting the study.
+awareness of mental health and reducing stigma; raising         Contributors AM conceived and designed the study and developed the
+awareness of services and access pathways; expanding            questionnaires; AM and KT wrote the first draft of the manuscript; LMM
+                                                                implemented the focus groups; KT, LMM, VC and AM coded and analysed the
+and enhancing the role of BME staff within mental
+                                                                data; KT and JS contributed to the literature search and prepared the drafts of
+health services and developing cultural awareness and           the manuscript; MC, TS and RdeV contributed to the interpretation of the
+sensitivity.                                                    results and commented on the draft manuscripts. All authors reviewed and
+   BME service users need to be better informed to              approved the final manuscript.
+become enabled and empowered to engage with their               Competing interests None declared.
+own mental health and well-being and with services.
+                                                                Provenance and peer review Not commissioned; externally peer reviewed.
+Raising awareness of mental health can reduce stigma
+and help individuals to recognise symptoms; this may            Data sharing statement Selected qualitative data from the BME focus groups
+                                                                could be made available on request.
+encourage health seeking behaviour at an earlier stage
+of presentation. Antistigma programmes, such as the             Open Access This is an Open Access article distributed in accordance with
+national Time to Change campaign,34 may signiﬁcantly            the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license,
+                                                                which permits others to distribute, remix, adapt, build upon this work non-
+reduce discrimination and raise awareness.35 Delivering         commercially, and license their derivative works on different terms, provided
+this work at a local level and raising awareness of the         the original work is properly cited and the use is non-commercial. See: http://
+locally available services and the variety of pathways to       creativecommons.org/licenses/by-nc/4.0/
+accessing care is important to educate and empower
+individuals and communities. Commissioners of mental
+health services, local authorities, healthcare services and
+                                                                REFERENCES
+community groups need to play a role in collating and            1.   National Institute for Mental Health in England. Inside outside:
+disseminating such information and in accessible                      improving mental health services for black and minority ethnic
+
+
+8                                                             Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337
+                                                                                                                                      Open Access
+
+
+
+
+                                                                                                                                                                BMJ Open: first published as 10.1136/bmjopen-2016-012337 on 16 November 2016. Downloaded from http://bmjopen.bmj.com/ on 5 November 2018 by guest. Protected by copyright.
+      communities in England. London: National Institute for Mental Health            experience of people from ‘hard to reach’ groups. Health (London)
+      in England, 2003.                                                               2012;16:76–104.
+ 2.   The Sainsbury Centre for Mental Health. Breaking the circles of fear.     21.   Palmer D, Ward K. ‘Lost’: listening to the voices and mental health
+      A review of the relationship between mental health services and                 needs of forced migrants in London. Med Confl Surviv
+      African and Caribbean communities. London: The Sainsbury Centre                 2007;23:198–212.
+      for Mental Health, 2002.                                                  22.   Li PL, Logan S, Yee L, et al. Barriers to meeting the mental health
+ 3.   Department of Health. Delivering race equality in mental health care:           needs of the Chinese community. J Public Health Med
+      an action plan for reform inside and outside services and the                   1999;21:74–80.
+      government’s response to the Independent inquiry into the death of        23.   Burnett A, Peel M. Health needs of asylum seekers and refugees.
+      David Bennett. London: Department of Health, 2005.                              BMJ 2001;322:544–7.
+ 4.   Suresh K, Bhui K. Ethnic minority patients’ access to mental health       24.   Weich S, Griffith L, Commander M, et al. Experiences of acute
+      services. Psychiatry 2006;5:413–16.                                             mental health care in an ethnically diverse inner city: qualitative
+ 5.   Department of Health, HM Government. No health without mental                   interview study. Soc Psychiatry Psychiatr Epidemiol
+      health. A cross-government mental health outcomes strategy for                  2012;47:119–28.
+      people of all ages. London: Department of Health, 2011.                   25.   Sentell T, Shumway M, Snowden L. Access to mental health
+ 6.   Weich S, Nazroo J, Sproston K, et al. Common mental disorders and               treatment by English language proficiency and race/ethnicity. J Gen
+      ethnicity in England: the EMPIRIC study. Psychol Med                            Intern Med 2007;22(Suppl 2):289–93.
+      2004;34:1543–51.                                                          26.   Arthur CM, Hickling FW, Robertson-Hickling H, et al. “Mad, sick,
+ 7.   Bebbington P, Brugha T, Coid J, et al. Adult psychiatric morbidity in           head nuh good”: mental illness stigma in Jamaican communities.
+      England—2007, results of a household survey. In: McManus S,                     Transcult Psychiatry 2010;47:252–75.
+      Meltzer H, Brugha T, et al, eds. The NHS Information Centre for           27.   Sheikh S, Furnham A. A cross-cultural study of mental health beliefs
+      health and social care, London, 2009.                                           and attitudes towards seeking professional help. Soc Psychiatry
+ 8.   Morgan C, Mallett R, Hutchinson G, et al. Pathways to care and                  Psychiatr Epidemiol 2000;35:326–34.
+      ethnicity. 1: Sample characteristics and compulsory admission.            28.   Cooper C, Spiers N, Livingston G, et al. Ethnic inequalities in the
+      Report from the AESOP study. Br J Psychiatry 2005;186:281–9.                    use of health services for common mental disorders in England. Soc
+ 9.   Bhui K, Stansfeld S, Hull S, et al. Ethnic variations in pathways to            Psychiatry Psychiatr Epidemiol 2013;48:685–92.
+      and use of specialist mental health services in the UK. Systematic        29.   Oliver MI, Pearson N, Coe N, et al. Help-seeking behaviour in men
+      review. Br J Psychiatry 2003;182:105–16.                                        and women with common mental health problems: cross-sectional
+10.   Bhui K, Sashidharan SP. Should there be separate psychiatric                    study. Br J Psychiatry 2005;186:297–301.
+      services for ethnic minority groups? Br J Psychiatry 2003;182:10–12.      30.   Cross WM, Bloomer MJ. Extending boundaries: clinical
+11.   McLean C, Campbell C, Cornish F. African-Caribbean interactions                 communication with culturally and linguistically diverse mental health
+      with mental health services in the UK: experiences and expectations             clients and carers. Int J Ment Health Nurs 2010;19:268–77.
+      of exclusion as (re)productive of health inequalities. Soc Sci Med        31.   MIND. Mental health crisis care: commissioning excellence for Black
+      2003;56:657–69.                                                                 and minority ethnic groups. London: MIND, 2013.
+12.   Kovandžić M, Chew-Graham C, Reeve J, et al. Access to primary            32.   Raleigh VS, Irons R, Hawe E, et al. Ethnic variations in the
+      mental health care for hard-to-reach groups: from ‘silent suffering’ to         experiences of mental health service users in England: results of a
+      ‘making it work’. Soc Sci Med 2011;72:763–72.                                   national patient survey programme. Br J Psychiatry
+13.   Dowrick C, Gask L, Edwards S, et al. Researching the mental health              2007;191:304–12.
+      needs of hard-to-reach groups: managing multiple sources of               33.   Fernández de la Cruz L, Kolvenbach S, Vidal-Ribas P, et al. Illness
+      evidence. BMC Health Serv Res 2009;9:226.                                       perception, help-seeking attitudes, and knowledge related to
+14.   Knifton L, Gervais M, Newbigging K, et al. Community conversation:              obsessive-compulsive disorder across different ethnic groups: a
+      addressing mental health stigma with ethnic minority communities.               community survey. Soc Psychiatry Psychiatr Epidemiol
+      Soc Psychiatry Psychiatr Epidemiol 2010;45:497–504.                             2016;51:455–64.
+15.   Gary FA. Stigma: barrier to mental health care among ethnic               34.   Mind, Rethink Mental Illness. Time to change. 2008. http://www.
+      minorities. Issues Ment Health Nurs 2005;26:979–99.                             time-to-change.org.uk/
+16.   Keating F, Robertson D. Fear, black people and mental illness: a          35.   Evans-Lacko S, Corker E, Williams P, et al. Effect of the time to
+      vicious circle? Health Soc Care Community 2004;12:439–47.                       change anti-stigma campaign on trends in mental-illness-related
+17.   Tabassum R, Macaskill A, Ahmad I. Attitudes towards mental health               public stigma among the English population in 2003-13: an analysis
+      in an urban Pakistani community in the United Kingdom. Int J Soc                of survey data. Lancet Psychiatry 2014;1:121–8.
+      Psychiatry 2000;46:170–81.                                                36.   Malat J, Purcell D, van Ryn M. Factors affecting whites’ and blacks’
+18.   Black Minority Ethnic Community Partnership. BMECP Black and                    attitudes toward race concordance with doctors. J Natl Med Assoc
+      Minority Ethnic Community Partnership 2010–2013. http://bmecp.                  2010;102:787–93.
+      org.uk/                                                                   37.   Malgady RG, Costantino G. Symptom severity in Bilingual Hispanics
+19.   Braun V, Clarke V. Using thematic analysis in psychology. Qual Res              as a function of clinician ethnicity and language of interview. Psychol
+      Psychol 2006;3:77–101.                                                          Assess 1998;10:120–7.
+20.   Lamb J, Bower P, Rogers A, et al. Access to mental health in              38.   BME Network. NHS BME network. 2016. http://www.nhsbmenetwork.
+      primary care: a qualitative meta-synthesis of evidence from the                 org.uk
+
+
+
+
+Memon A, et al. BMJ Open 2016;6:e012337. doi:10.1136/bmjopen-2016-012337                                                                                   9
+

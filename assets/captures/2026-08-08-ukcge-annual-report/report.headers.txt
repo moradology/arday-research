@@ -1,0 +1,10 @@
+HTTP/2 200 
+content-type: application/pdf
+last-modified: Tue, 18 Nov 2025 11:19:13 GMT
+accept-ranges: bytes
+content-length: 13558834
+date: Fri, 07 Aug 2026 03:50:51 GMT
+server: LiteSpeed
+vary: User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+

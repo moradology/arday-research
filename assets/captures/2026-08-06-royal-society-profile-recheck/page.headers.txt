@@ -1,0 +1,6 @@
+HTTP/2 403 
+server: Microsoft-Azure-Application-Gateway/v2
+date: Fri, 07 Aug 2026 04:46:36 GMT
+content-type: text/html
+content-length: 1644
+

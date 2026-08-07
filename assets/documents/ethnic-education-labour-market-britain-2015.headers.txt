@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 18:06:59 GMT
+content-type: application/pdf
+cache-control: no-cache
+content-security-policy: script-src 'none'
+pragma: public
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+set-cookie: JSESSIONID=D1934A2B3416DDAA6C83B016051AF7BD; Path=/ws; Secure; HttpOnly; SameSite=None
+set-cookie: __cf_bm=ZeWUm2pVU4OpBGLOOP5_1i59foENf6ysIh2lAGuzgNU-1786039618.6164396-1.0.1.1-zjQbSnPzBIPcjAIBcPnSBrDGUDhEuYRTxRLdsd2nRS1CH1vVMy6a3rjv8W13vE41vzIiSTkadLobzfGRY9bAALssXs_BjHeoq_1j8I55L2IJgQnvWthb80d7C5ztKZyu; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:59 GMT
+set-cookie: _cfuvid=zd.268_CkXXnlEjQRzvI9LBdXSmrhzfVeSgg9667f5c-1786039618.6164396-1.0.1.1-Z0U4Ew0kcel5mOChKKt3hqh1XMQQVtXdhdW6fnkawPM; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.manchester.ac.uk
+cf-ray: a26ffa805def6e3c-OMA
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,39 @@
+HTTP/2 103 
+link: <https://api.goaffpro.com/loader.js?shop=vsug6bqqyf>; as=script; rel=preload, <https://r1-t.trackedlink.net/ddbcbis.js?id=6XH2&sid=53&t=2>; as=script; rel=preload, <https://cdn11.bigcommerce.com/s-vsug6bqqyf>; as=font; crossorigin=anonymous; rel=preconnect, <https://fonts.googleapis.com/>; as=font; crossorigin=anonymous; rel=preconnect, <https://fonts.gstatic.com/>; as=font; crossorigin=anonymous; rel=preconnect, <https://fonts.googleapis.com/css?family=Roboto:400&display=block>; as=style; rel=preload, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.head_async.js>; as=script; rel=preload, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.font.js>; as=script; rel=preload, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/css/theme-cb085c30-72fd-013f-7fe3-0e5298483961.css>; as=style; rel=preload, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.main.js>; as=script; rel=preload
+
+HTTP/2 200 
+date: Fri, 07 Aug 2026 20:08:56 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a278ea809c0cf571-ORD
+cf-cache-status: DYNAMIC
+cache-control: no-store, no-cache, must-revalidate
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+link: <https://api.goaffpro.com/loader.js?shop=vsug6bqqyf>; rel=preload; as=script, <https://r1-t.trackedlink.net/ddbcbis.js?id=6XH2&sid=53&t=2>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-vsug6bqqyf>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Roboto:400&display=block>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.head_async.js>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.font.js>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/css/theme-cb085c30-72fd-013f-7fe3-0e5298483961.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-vsug6bqqyf/stencil/9fbafe80-26b0-013f-a213-4e15b12575e2/e/28b3d5b0-f15f-013a-5319-1e9f1ee4948a/dist/theme-bundle.main.js>; rel=preload; as=script
+server: cloudflare
+x-request-id: e296c29b61a518dd514a1e109477b102
+strict-transport-security: max-age=300
+vary: Accept-Encoding
+via: 1.1 google
+pragma: no-cache
+bc-ray: 1
+bc-ray: 1
+alt-svc: h3=":443"; ma=86400
+x-bc-disable-meta-pixel-page-view: true
+x-bc-is-ha: 1
+x-bc-store-id: 1001681105
+x-content-type-options: nosniff
+x-frame-options: deny
+x-makeswift-page-locale: en
+x-makeswift-stable-page-reference: product-462444
+x-permitted-cross-domain-policies: none
+set-cookie: SF-CSRF-TOKEN=3faeb7e7-b840-4e5e-a147-1f73c7d8c474; Path=/; Secure; SameSite=Strict
+set-cookie: fornax_anonymousId=e394b0fb-66ee-415a-8453-671135d79dba; Expires=Sun, 06 Aug 2028 20:08:55 GMT; Path=/; Secure; SameSite=None
+set-cookie: athena_short_visit_id=fe320793-f5b5-41c8-bba0-07a57acb8a48:1786133335; Expires=Fri, 07 Aug 2026 20:38:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
+set-cookie: Shopper-Pref=7A7AEDF6A391F5E7272DD1E08AC4FFDBECE6B48A-1786738135985-x%7B%22cur%22%3A%22GBP%22%2C%22funcConsent%22%3Atrue%7D; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly
+set-cookie: XSRF-TOKEN=c570f0894c99aeeab0bab189c251736d0347bea9dd64e74f74d082a55c08b3fd; path=/; Secure; SameSite=none
+set-cookie: SHOP_SESSION_TOKEN=3633d0da-b479-4ebe-a547-6bf264a61a8c; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
+set-cookie: __cf_bm=ApLZDPutb6Dja01IubjR81wmWONU4FloVVLa8ZtzFF8-1786133335.1349418-1.0.1.1-99mASewPPHqgQzPl9789EI1wAEtm.0QQnrFVRR2pds3TfRZvfp.ytCu9agFeznJv.UxELc_FMZoeuY3tIRND.Ttng0DTguP890_kOFlv.sBN5Ihtb_9NrIMO3GEimiY.; HttpOnly; SameSite=None; Secure; Path=/; Domain=timesbookshop.co.uk; Expires=Fri, 07 Aug 2026 20:38:56 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pF07qSGUJq%2B9ky04UrJCXJrNicIm3IiAKZT2aMfvStZyHmPbT4phyDVIhvQnRBGID1uF8y51sOJGzIRpEkCSRcjllaLwlj7E2x93dUIKxjHCVoaZZkiIdaP9RDq2EyLGGQ8QZnU%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: br
+

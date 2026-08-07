@@ -1,0 +1,200 @@
+# Jason Arday — public-output index
+
+Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
+
+## 1. Current institutional profiles and records
+
+- [Autism Centre of Excellence Companies House officers record](sources/2026-08-06-companies-house-autism-centre-officers.md) — current public legal-register manifestation listing Arday as an active director appointed 30 March 2024; no end date shown.
+- [Cambridge College Fellows 2025–26 roster](sources/2025-10-09-cambridge-college-fellows.md) — official *University Reporter* PDF listing Arday among Jesus College Fellows on printed page 32; dated roster evidence, not current post-resignation status.
+- [Cambridge Education Faculty Committee notice](sources/2024-12-11-cambridge-education-faculty-committee.md) — official *University Reporter* notice listing Arday for the 1 October 2025 Academic Career Pathways exercise on printed page 188.
+- [Cambridge Regent House rolls](sources/2025-11-06-cambridge-promulgated-regent-house-roll.md) — final November 2025 roll plus the [superseded October proposed roll](sources/2025-10-01-cambridge-proposed-regent-house-roll.md), both listing Arday with Jesus College (`JE`).
+
+- [University of Cambridge Faculty of Education profile](https://faculty.educ.cam.ac.uk/people/staff/arday/) — research interests, projects, affiliations, and selected publications.
+- [Cambridge appointment announcement](https://faculty.educ.cam.ac.uk/230223-jason-arday) — appointment context and biographical narrative.
+- [ORCID record](https://orcid.org/0000-0002-9822-1068) — persistent researcher identifier and Crossref-indexed works; the 11-work API response is preserved in [the local snapshot](assets/documents/orcid-works-0000-0002-9822-1068-2026-08-06.json) with [capture metadata](assets/metadata/orcid-works-capture-2026-08-06.md).
+- [OpenAlex author record](https://openalex.org/A5048886069) — independent bibliographic discovery boundary; the original 56-work snapshot is preserved in [SRC-170](sources/2026-08-06-openalex-author-works-audit.md), and the 6 August recheck (same work set, citation count 1,136) is preserved in [SRC-284](sources/2026-08-06-openalex-author-works-recheck.md).
+- [Crossref exact-author audit](sources/2026-08-06-crossref-jason-arday-author-audit.md) — 47 exact-name DOI records were normalized against the registry; no new Jason Arday work was found in this capture. The preserved response also documents unrelated Arday-name matches and the teacher-education DOI formatting variant.
+- [Adult Literacy Trust 2025 annual report](sources/2026-02-13-adult-literacy-trust-2025-annual-report.md) — regulator-hosted 25-page report; printed pages 12 and 14 preserve a later patron listing and organisational financial context.
+- [Royal Holloway EDI Annual Report 2023/24](sources/2025-06-23-royal-holloway-edi-annual-report.md) — first-party annual report preserving the Black History Month 2023 “Decolonising the University” conversation hosted by Arday; local PDF and text preserved.
+- [CoPICS study protocol](sources/2024-02-28-copics-study-protocol.md) — 2024 BMJ Open protocol, DOI 10.1136/bmjopen-2024-084121; local PDF preserved.
+- [Under-represented young people narrative-inquiry protocol](sources/2025-11-26-underrepresented-young-people-protocol.md) — 2025 BMJ Open protocol, DOI 10.1136/bmjopen-2024-098223; local PDF preserved.
+- [We See Things They’ll Never See — UNSW Press catalogue manifestation](sources/2026-02-unsw-press-we-see-things-catalogue.md) — February 2026 Haymarket Books paperback metadata, ISBN 9798888904503; alternate edition deduplicated to the canonical Lewis/Arday book record.
+- [Georgian 2025 national English exam booklet](sources/2025-naec-english-exam-jason-arday.md) — public examination PDF containing a derivative Arday biographical reading passage; local PDF preserved.
+- [Women academics access/participation article](sources/2024-11-01-women-academics-access-participation.md) — 2024 *British Educational Research Journal* article, DOI 10.1002/berj.4047; local PDF preserved.
+  - Additional versioned manifestation: [Cambridge Repository published PDF](sources/2026-08-08-cambridge-repository-data-snapshots-women.md) — 28-page file, distinct from the existing QUB copy; deduplicated by DOI.
+- [Mental health and BME university students](sources/2018-10-13-mental-health-bme-students.md) — 2018 *Social Sciences* article, DOI 10.3390/socsci7100196; local PDF preserved.
+- [Durham University research repository profile](https://durham-repository.worktribe.com/person/303473/jason-arday/outputs) — repository outputs and publications from his Durham period.
+- [Companies House officer record](https://find-and-update.company-information.service.gov.uk/officers/RnZDN_zYN0COLN2bT-a0Vw3RZqU/appointments) — official company appointment/resignation record for Jason Arday; use the Charity Commission separately for charity accounts and filings.
+- [Royal Society profile](sources/2026-08-06-royal-society-profile.md) · [live profile](https://royalsociety.org/people/jason-arday-36339/) — institutional biography listing roles, awards, committee participation, and a profile portrait; its Runnymede wording is preserved as a source-version conflict with Companies House.
+- [Genius Within 2023 award announcement](sources/2023-genius-within-neurodivergent-achiever-award.md), [Southampton Solent honorary degree](sources/2023-07-14-southampton-solent-honorary-degree.md), [MBCC 2023 award report](sources/2023-12-07-mbcc-most-inspirational-person.md), and [British Science Association Honorary Fellows directory](sources/2023-british-science-association-honorary-fellow.md) — first-party corroboration for four honours named in the Royal Society profile.
+- [ITV Cultural Advisory Council announcement](sources/2024-01-30-itv-cultural-advisory-council.md) and [NHS Race & Health Observatory Academic Reference Group](sources/2026-nhs-rho-academic-reference-group.md) — first-party institutional records for two advisory roles.
+- [University of Leeds Generation Delta advisory board](sources/2026-generation-delta-durham-affiliation.md) — current third-party programme wording for the Durham honorary-professor claim; direct page access is currently 403 and the wording is not treated as a Durham HR record.
+- [UKRI Gateway to Research EDICa record](sources/2026-08-06-ukri-gtr-jason-arday.md) — official indexed funder result associating Arday with the £3.637m ESRC-funded Equality Diversity and Inclusion Caucus award; direct GtR capture currently renders a mismatched person page and is preserved as an access anomaly.
+
+## 2. Recorded talks and video
+
+- [UCL keynote: “Engaging pedagogically with race and racism in higher education”](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/keynote-lecture-engaging-pedagogically-race-and-racism-higher-education) — includes the recording and lecture slides; topics include decolonising curricula, intersectionality, and inclusive pedagogy.
+- [YouTube recording of the UCL keynote](https://youtu.be/2S8JUO3M_04).
+- [UCL BAME Awarding Gap Project Evaluation Report](sources/2023-05-31-ucl-bame-awarding-gap-evaluation.md) — May/July 2023 retrospective report; printed page 42 records the March 2020 Arday session and lists its pedagogical scope; local PDF and extracted text preserved.
+- [PBS, *A World of Difference*: “The Importance of Early Intervention”](https://www.pbs.org/video/the-importance-of-early-intervention-4mokof/) — interview focused on his childhood, autism, speech therapy, literacy, and education.
+- [ABC News video: “He spoke his first word at 11. Now, he’s the youngest Black professor at Cambridge”](https://abcnews.com/video/97998031/) — 2023 profile/interview.
+- [Society for Experimental Biology: “Things Can Only Get Better”](sources/2026-seb-things-can-only-get-better.md) — 47-minute listing for a YouTube-hosted symposium talk; original upload unresolved.
+- [Crick Institute: “Science and Society — In conversation with Professor Jason Arday”](https://connect.crick.ac.uk/event/science-and-society-in-conversation-with-professor-jason-arday) — 2024 event page for a background and academia discussion.
+- [2024 Inclusion and Diversity in Nuclear conference](https://idnuclear.com/events/2024-idn-conference/) — keynote listing and embedded Vimeo conference material.
+- [South Bank Colleges honorary-doctorate event](https://www.southbankcolleges.ac.uk/about-us/our-journal/honorary-doctorate-awarded-to-professor-jason-arday-at-sbc-graduation-2024) — 2024 speech/event page with embedded video.
+- [Institute for Equity Annual Conference 2025](sources/2025-06-27-institute-for-equity-conference.md) — final and draft programmes preserved; Arday was scheduled as a 15:35 keynote speaker on 27 June 2025, with no public recording located.
+- [St Mary’s Olympic torch record](sources/2012-st-marys-olympic-torch.md) — the 2012 alumni magazine records Arday carrying the Olympic torch in Merton on 23 July 2012 and preserves the contemporary photograph.
+- [Bristol “One to Another” seminar](sources/2024-06-04-bristol-one-to-another.md) — 4 June 2024 CHET event page and graphic preserved; no recording or transcript exposed.
+- [Queen’s University Belfast 2019 seminar visit](sources/2019-11-08-qub-jason-arday-seminar.md) — institutional activity page preserved with listed audiovisual and text attachments; both attachment URLs are currently Cloudflare-blocked.
+- [ITV Black Voices resource page](https://www.itv.com/blackvoices/get-educated/) — lists short-form appearances including “Aspects that I can control,” “Harassment at Work,” and “Realities for Lecturers.”
+- [Cambridge “Black Men On The Couch”](sources/2023-10-25-cambridge-black-men-on-the-couch.md) — 25 October 2023 mental-health panel with Simon Woolley, George the Poet, and Rotimi Akinsete; official 2:13:48 recording and automatic captions locally preserved.
+- [Cambridge EDI Information Report 2023–24](sources/2025-03-06-cambridge-edi-report-2023-24.md) — official retrospective reporting the panel’s attendance and YouTube-view snapshot on PDF page 8; distinct from the recording record.
+- [CGHE *No One Can See Me Cry* presentation](sources/2020-07-02-cghe-no-one-can-see-me-cry-presentation.md) — 2 July 2020, 12-page public presentation deck; retained as a dated precursor/source-version distinct from the later journal article.
+- [Leeds CERS “Stand By Me: Disrupting Racism in the Academy”](sources/2021-11-24-leeds-cers-stand-by-me.md) — 24 November 2021 talk/event page with a linked Zoom recording; page and recording currently preserve access boundaries only.
+
+Canonical records for the five leads above: [Society for Experimental Biology](sources/2026-seb-things-can-only-get-better.md), [IDN 2024 keynote](sources/2024-07-04-idn-conference-keynote.md), [South Bank Colleges graduation](sources/2024-south-bank-colleges-graduation-video.md), [ITV short clips](sources/2020-itv-black-voices-short-clips.md), and [Crick Institute event](sources/2024-11-15-crick-science-society-event.md). The original links remain above as discovery targets.
+
+## 3. Interviews, radio, and podcasts
+
+- [The Guardian: “Jason Arday: he learned to talk at 11 and read at 18…”](https://www.theguardian.com/society/2023/jul/11/jason-arday-cambridge-university-youngest-black-professor) — long-form 2023 profile and interview.
+- [Global Player: *Full Disclosure with James O’Brien*](https://www.globalplayer.com/podcasts/episodes/7DrfQkN/) — 20 April 2023, approximately 67 minutes; biography, perseverance, community, and education.
+- [Portrait of a Londoner podcast](https://www.listennotes.com/podcasts/portrait-of-a/jason-arday-on-racial-m_6kAtKTQZb/) — 18 September 2020; racial inequality in higher education, Runnymede Trust, childhood, and autism.
+- [ARU Podcast: “Race Equality Advocates — A Conversation with Professor Jason Arday”](https://podbay.fm/p/aru-podcast) — 2022 discussion of allyship and challenging racism.
+- [Lives Retold transcript](https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives%2Bretold%2Barday%2Bjason.pdf) — transcript/archival text of his 2021 BBC Radio 4 Lent Talk, “A Crucial Interview.”
+- [How Do You Cope? interview](sources/2025-05-26-how-do-you-cope-jason-arday.md) — 26 May 2025, approximately 63 minutes; includes discussion of masking, neurodiversity, childhood, literacy, and academic life.
+- [BBC Radio 4 *Beyond Lonely* series](sources/2025-04-17-bbc-beyond-lonely.md) — April 2025; three current episode records preserved, including a first-party synopsis of teenage snooker practice and solitude; audio is DRM-only and two listed episode states are 404.
+- [BBC Radio 4 *Today* guest-editor programme](sources/2023-12-30-bbc-today-guest-editor.md) — 30 December 2023; Arday guest-edited a programme focused in part on adult literacy.
+- [BBC *Best of Today*: “What should children learn?”](sources/2024-10-11-bbc-best-of-today-children-learn.md) — 11 October 2024; curriculum and assessment episode naming Arday as a contributor; non-DRM audio locally preserved.
+- [St Mary's Students' Union Values Talk](sources/2020-11-19-st-marys-values-talk.md) — 19 November 2020; official 46:15 talk on generosity of spirit, with separate local video/audio streams.
+- [St Mary's annual report for 2023/24](sources/2024-12-12-st-marys-annual-report.md) — first-party annual-report source-version recording the July 2024 honorary degree and St Mary's “youngest ever” Cambridge wording; local PDF and extracted text preserved.
+- [The Bookseller memoir interview](sources/2026-06-12-bookseller-memoir-interview.md) — 12 June 2026; trade interview about *Great and Unfortunate Things*, with indexed family/name-origin and memoir-production details; full article login-gated and local HTTP-429 boundary preserved.
+- [Associated Press resignation/investigation report](sources/2026-08-06-ap-resignation-investigation-report.md) — 6 August 2026; wire-service reporting with a locally preserved AP/PA Olympic-torch photograph; allegations and investigation outcome remain unresolved.
+- [University of Bath discussion summary](sources/2023-03-21-bath-arday-interview.md) — 21 March 2023; indexed institutional summary containing attributed first-person childhood, schooling, football, snooker, speech, and literacy details; direct page access is currently 403.
+- [*Now and Men* episode](sources/2022-01-26-now-and-men-jason-arday.md) — 26 January 2022; locally preserved interview on Black masculinity, disability, growing up, education, and the planned *Being Young, Black and Male* book.
+- [Student Sessions interview](sources/2023-12-15-student-sessions-jason-arday.md) — 15 December 2023; “Overcoming barriers and self-celebration”; page and audio locally preserved.
+- [Ruling Passions interview](sources/2022-03-22-ruling-passions-jason-arday.md) — 22 March 2022; music, autism and biography; full transcript and image locally preserved, Spotify audio linked.
+- [ARU Unlearn / Lightbulb session](sources/2025-04-02-aru-unlearn-jason-arday.md) — 2 April 2025; intersections of neurodiversity, race and education; page and video locally preserved.
+- [ARU Annual Conference keynote](sources/2021-06-22-aru-annual-conference-keynote.md) — 22 June 2021; anti-racism in higher education; official page preserved, recording player currently timed out.
+- [Merton College profile](sources/2023-03-16-merton-college-jason-arday-profile.md) — 16 March 2023; former-student and Sandro Sandri mentor record; page and image locally preserved.
+- [Southfields Academy search boundary](sources/2026-08-06-southfields-academy-archive-search.md) — 6 August 2026; official alumni page captured, with no directly accessible Arday attendance record.
+- [BSA current governance page](sources/2026-08-06-bsa-current-governance.md) and [BSA biography PDF](sources/2025-12-03-bsa-jason-arday-biography.md) — current BSA role confirmed; former-Runnymede wording and additional profile-level roles preserved.
+- [Adult Literacy Trust patron record](sources/2024-05-02-adult-literacy-trust-jason-arday.md) and [Get Further patron announcement](sources/2025-01-13-get-further-jason-arday-patron.md) — direct charity-host confirmations, with local pages and images preserved.
+- [Autism Action / Autism Centre of Excellence trustee record](sources/2024-03-30-autism-action-charity-commission-record.md) — regulator confirmation of the trustee role and organization identity.
+- [Cambridge Faculty profile current capture](sources/2026-08-06-cambridge-faculty-profile-current-capture.md) — versioned institutional biography snapshot documenting the current omission of the older RSA/CLASS wording.
+- [Association of British Insurers Annual Conference 2025](sources/2025-02-27-abi-annual-conference-jason-arday.md) — 27 February 2025 fireside-chat programme record and indexed speaker-biography version; direct ABI profile and agenda endpoints currently return 403.
+- [Springfields Academy Arday Class](sources/2026-08-06-springfields-arday-class.md) — first-party specialist-school recognition record.
+- [Cambridge Festival 2024 report](https://www.festival.cam.ac.uk/system/files/camfest_report_2024.pdf) — records a BBC Radio Cambridgeshire appearance on “Race & society.”
+- [Newcastle University “Sign o’ the times” lecture](sources/2025-10-14-newcastle-black-history-month-lecture.md) — 14 October 2025 Black History Month lecture listing; no recording, transcript, or slides exposed, and host biography retained as dated source-version wording.
+- [Podchaser creator page](https://www.podchaser.com/creators/jason-arday-107tenATJb) — index of four podcast credits/guest appearances; use as a discovery aid rather than a primary source.
+
+## 4. Books and edited volumes
+
+- [*The Black PhD Experience: Stories of Strength, Courage and Wisdom in UK Academia*](sources/2024-09-10-black-phd-experience-book.md) — 2024 Policy Press/Bristol University Press edited volume; Cambridge Core records Arday’s co-authored foreword on pp. xv–xvi. The book-level record is distinct from the foreword record [SRC-016](sources/2025-01-08-black-phd-experience-foreword.md).
+- [*Dismantling Race in Higher Education: Racism, Whiteness and Decolonising the Academy*](sources/2018-dismantling-race-higher-education.md) — edited with Heidi Safia Mirza; includes Arday’s chapter “Being Black, Male and Academic: Navigating the White Academy.”
+- [“Being Black, Male and Academic: Navigating the White Academy”](sources/2018-being-black-male-academic-chapter.md) — 2018 chapter, pp. 161–174, DOI 10.1007/978-3-319-60261-5_9; local publisher HTML snapshot preserved.
+- *Cool Britannia and Multi-ethnic Britain: Uncorking the Champagne Supernova* — Routledge, 2019/2020 edition family. The current Routledge record lists 106 pages; a public 11-page PagePlace preview is locally preserved.
+- [Cool Britannia chapter-level DOI family](sources/2019-cool-britannia-chapter-doi-family.md) — introduction and three chapters preserved as nested manifestations of the monograph, with the preview’s contents and source-version pages captured.
+- [*Doing Equity and Diversity for Success in Higher Education: Redressing Structural Inequalities in the Academy*](sources/2021-doing-equity-diversity-higher-education.md) — edited with Dave Thomas, Palgrave Macmillan, 2021; publisher page and cover preserved locally. Durham’s “Understanding, addressing and centring BAME Leadership” index title is reconciled to the publisher-verified “Many Rivers to Cross” chapter below; it is not counted separately.
+- [“Many Rivers to Cross”](sources/2021-doing-equity-many-rivers-chapter.md) — co-authored with Marcia Wilson, 2021 chapter, pp. 313–324, DOI 10.1007/978-3-030-65668-3_23.
+- [“Sowing the Seeds”](sources/2021-doing-equity-sowing-seeds-chapter.md) — 2021 chapter, pp. 345–350, DOI 10.1007/978-3-030-65668-3_25; local publisher HTML snapshot preserved.
+- [*We See Things They’ll Never See: Love, Hope, and Neurodiversity*](sources/2025-we-see-things-theyll-never-see.md) — co-authored with Chantelle Jessica Lewis, Princeton University Press, 2025.
+- [Chapter 3: “I’ll See You on the Dark Side of the Moon”](sources/2025-12-31-we-see-things-chapter-3.md) — Lewis and Arday, pp. 76–101, DOI 10.1515/9780691263946-007; chapter-level publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 7: “For Tomorrow”](sources/2025-12-31-we-see-things-chapter-7.md) — Lewis and Arday, pp. 185–206, DOI 10.1515/9780691263946-011; chapter-level publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 1: “Sowing the Seeds of Love”](sources/2025-12-31-we-see-things-chapter-1.md) — pp. 1–41, DOI 10.1515/9780691263946-005; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 2: “What’s Love Got to Do with It?”](sources/2025-12-31-we-see-things-chapter-2.md) — pp. 42–75, DOI 10.1515/9780691263946-006; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 4: “The Great Beyond”](sources/2025-12-31-we-see-things-chapter-4.md) — pp. 102–129, DOI 10.1515/9780691263946-008; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 5: “A Design for Life”](sources/2025-12-31-we-see-things-chapter-5.md) — pp. 130–157, DOI 10.1515/9780691263946-009; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Chapter 6: “Everything Is Everything”](sources/2025-12-31-we-see-things-chapter-6.md) — pp. 158–184, DOI 10.1515/9780691263946-010; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [Afterword](sources/2025-12-31-we-see-things-afterword.md) — pp. 207–214, DOI 10.1515/9780691263946-012; component metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
+- [2026 *British Journal of Educational Studies* review](sources/2026-02-04-white-rose-we-see-things-book-review.md) — Charlotte White and Jessica Bradley’s five-page accepted manuscript reviewing *We See Things They’ll Never See*; White Rose Research Online preserves the CC BY 4.0 repository copy.
+- [Foreword to *We See Things They’ll Never See*](sources/2025-we-see-things-foreword.md) — DOI 10.2307/jj.26932075.3, pages ix–xii; publisher shell access boundary retained.
+- [*The Fire Now* chapter](sources/2018-fire-now-racism-academy-chapter.md) — “Understanding Racism within the Academy,” pp. 26–37, DOI 10.5040/9781350225480.ch-003; public preview PDF preserved.
+- [Liberated Library 2018 roundtable](sources/2018-liberated-library-roundtable.md) — one presentation under two DOI aliases; DataCite metadata preserved, Humanities Commons landing-page access boundary recorded.
+- [Teacher-education chapter](sources/2019-teaching-social-justice-physical-education.md) — “Equality and Diversity in Teacher Education,” pp. 187–196; public book preview and official contents witness preserved, current publisher pages captured as 403/redirect boundaries, indexed DOI unresolved at publisher.
+- [*Considering Racialised Contexts in Education*](sources/2019-considering-racialised-contexts-education.md) — Routledge project with a 2019 repository/contract trail and current catalog ISBN; publication date remains unresolved because catalogs display a 2030 placeholder.
+- [*Being Young, Black and Male: Challenging the dominant discourse*](sources/2020-being-young-black-male.md) — public repository manuscript-in-preparation record and 2022 podcast reference; publication not verified.
+- [*Great and Unfortunate Things* memoir family](sources/2026-08-11-simon-schuster-great-and-unfortunate-things.md) — Simon & Schuster US publisher page and excerpt, distinct [Google Books US edition records](sources/2026-08-08-google-books-us-memoir-editions.md), [UK ebook](sources/2026-08-27-simon-schuster-uk-memoir-ebook.md), [UK hardcover](sources/2026-08-27-simon-schuster-uk-memoir-hardcover.md), [FNAC ebook](sources/2026-08-06-fnac-memoir-ebook.md), and [bol.com paperback](sources/2026-08-06-bol-memoir-paperback.md) manifestations, Google Books UK catalog record, [Goodreads reader record](sources/2026-08-06-goodreads-great-and-unfortunate-things.md), [Audiobooks.com retailer record](sources/2026-08-06-audiobooks-com-great-and-unfortunate-things.md), Publishers Weekly review, rights catalog, and audiobook edition are deduplicated separately. US/UK covers and access-boundary artifacts are locally preserved; the audiobook remains streaming/catalog-only.
+- [Aevitas Creative Management client profile](sources/2026-08-06-aevitas-jason-arday-profile.md) — current literary-agency page naming Jennifer Gates as representative and listing *Great and Unfortunate Things* as forthcoming from 37 Ink; agency biography wording is kept separate from independent institutional evidence.
+- [Black History Month UK event listing](sources/2021-03-27-black-history-month-uk-jason-arday.md) — 27 March 2021 online conversation listing, with local HTML and promotional image; no recording or transcript exposed.
+
+## 5. Reports and public-facing research
+
+- [*The Black Curriculum: Black British History in the National Curriculum Report*](https://niromp.org/wp-content/uploads/2020/11/19588-tbc2021report.pdf) — authored by Jason Arday; argues that Black British history is systematically underrepresented in England’s curriculum.
+- [The Black Curriculum policy and research page](https://theblackcurriculum.com/research) — organization-level research archive.
+- [*Aiming Higher* report](https://www.runnymedetrust.org/uploads/Aiming%20Higher.pdf) — report associated with Jason Arday and Claire Alexander on Black participation and progression in higher education.
+- [ThinkHigher: *The Black Experience Project*](sources/2022-thinkhigher-black-student-experience-report.md) — 2022 report authored by Jason Arday.
+- [“The black professoriate: assessing the landscape within British higher education”](sources/2022-black-professoriate.md) — open-access journal article on representation and progression.
+- [The Black PhD Experience foreword](sources/2025-01-08-black-phd-experience-foreword.md) — 2024 foreword by Jason Arday and Wayne A. Mitchell; alternate platform identifiers are deduplicated in one record.
+- [The Black Professoriate local article capture](sources/2022-black-professoriate.md) — six-page CC BY PDF and Glasgow/Pedocs records preserved locally.
+- [Mental-health staff encyclopedia edition audit](sources/2020-2022-mental-health-staff-encyclopedia-editions.md) — 2020 and 2022 Springer chapter manifestations with distinct DOI/pagination.
+
+## 6. Scholarly publications and article-level records
+
+The Open University’s separate public educational course [*Introducing Union Black*](sources/2024-10-31-openlearn-union-black.md) was first published on 31 October 2024 and names Arday as one of four course authors. It is catalogued as an open educational resource, not as a scholarly article or book chapter.
+
+The most reliable discovery points are the [ORCID record](https://orcid.org/0000-0002-9822-1068), [Cambridge selected-publications list](https://faculty.educ.cam.ac.uk/people/staff/arday/), and [Durham repository outputs](https://durham-repository.worktribe.com/person/303473/jason-arday/outputs). The following are key items with DOI links:
+
+Canonical workspace records now exist for selected items in this list and newly normalized records: [2018 educational leadership](sources/2018-race-educational-leadership.md), with a distinct [SAGE publisher manifestation/access boundary](sources/2026-08-08-sage-race-educational-leadership-manifestation.md), [2022 Black student wellbeing protocol](sources/2022-02-09-black-student-wellbeing-protocol.md), [2022 Black pupils chapter](sources/2022-black-pupils-mental-wellbeing-resilience.md), and [2023 football chapter](sources/2023-racialised-construction-black-footballers.md). The Black pupils chapter now has Routledge contents metadata, exact pages, ISBN variants, a preserved publisher page, and cover. The Durham profile reports 58 outputs, while the current ORCID page reports 11 works; these are discovery boundaries, not interchangeable totals.
+
+Additional Durham non-DOI records now include the [CLASS/UCU report chapter](sources/2019-05-class-bame-underrepresentation-report.md), [BBC Newsnight item](sources/2020-11-17-bbc-newsnight-black-phd-applicants.md), [Guardian authored commentary](sources/2020-06-13-guardian-black-history-curriculum.md), two [repository manuscript records](sources/2020-living-hand-to-mouth-manuscript.md) and [sources/2020-race-educational-leadership-manuscript.md), and the [UKCGE Research in Focus lead](sources/2019-ukcge-research-in-focus.md). Manuscripts and inaccessible media are deliberately not counted as published works.
+
+The remaining Durham book-chapter boundary also contains the unresolved [“Decolonising higher learning education in the UK” lead](sources/nd-decolonising-higher-learning-education-uk.md). Search-index witnesses now conflict among Durham’s “France: Springer” and “USA: Information Age Publishing” fields and separate 2024 La Découverte volume-level evidence; the lead remains unresolved until the chapter’s author/title/volume, DOI, pages, or full text can be independently identified.
+
+The previously unresolved [“Walls can come tumbling down” chapter](sources/2023-walls-can-come-tumbling-down.md) is now canonicalized to Routledge’s *New Critical Race and Whiteness Studies* handbook, with a public 47-page contents preview locating pp. 143–154; the chapter body and DOI remain unresolved.
+
+The next Durham slice adds the [2017 UCU doctoral report](sources/2017-ucu-bme-doctoral-students-report.md), [University World News lead](sources/2017-university-world-news-racial-inequality.md), [Leading Routes report](sources/2019-leading-routes-broken-pipeline.md), three 2019 book-chapter records ([mental health](sources/2019-springer-mental-health-teacher-chapter.md), [teacher education](sources/2019-teaching-social-justice-physical-education.md), [race and leadership](sources/2019-race-leadership-where-starts-chapter.md)), the [BSA digital artefact](sources/2020-bsa-talking-about-revolution.md), and the [Guardian creativity item](sources/2019-02-14-guardian-universities-creativity.md). Repository metadata, publisher pages, and authored journalism remain distinct evidence types.
+
+The chapter/artefact continuation adds [The Fire Now](sources/2018-fire-now-racism-academy-chapter.md), [Trying to Break the Monopoly](sources/2020-decolonizing-teaching-trying-break-monopoly.md), two separate [Doing Equity](sources/2021-doing-equity-sowing-seeds-chapter.md) and [BAME leadership](sources/2021-doing-equity-bame-leadership-chapter.md) chapters, and two BBC News records ([race bias in research](sources/2021-bbc-universities-race-bias-research.md) and [university offers](sources/2021-bbc-university-offers-diverse-students.md)).
+
+The remaining older/newer output slice adds the 2015 [School Report](sources/2015-school-report-race-education-inequality.md), the 2021 [BME participation synthesis](sources/2021-bme-participation-uk-higher-education.md), the 2021 [response on equality of educational outcomes](sources/2021-response-equality-educational-outcomes.md), and the 2024 [elite schools and slavery article](sources/2024-05-05-elite-schools-slavery-uk.md). DOI and repository records are kept distinct from reports and manuscripts.
+
+The page-level audit also recovered an early, non-DOI journal record: [Developing Professional Learning in Higher Education](sources/2013-professional-learning-peer-mentoring.md), published in *Innovations in practice* in 2013. It is retained as a verified bibliographic record, with the publisher issue link preserved separately from the Durham deposit record.
+
+The 2022 precarious-employment article has a locally preserved PDF that the University of Glasgow’s first-party item record labels “Published Version”; its distinct repository manifestation is recorded in [SRC-457](sources/2026-08-08-glasgow-published-version-more-to-prove.md). Its possible relationship to the 2020 *Living Hand to Mouth* submitted manuscript remains provisional because the submitted text is unavailable for direct comparison.
+
+- [The routes to intellectual authority in a prior colonial empire](sources/2024-09-routes-intellectual-authority.md) — 2025, with Dina Zoe Belluigi and Joanne O’Keeffe; DOI `10.1080/13613324.2024.2398491` and QUB-hosted publisher PDF locally preserved.
+- [Correction to “Attempting to break the chain”](sources/2024-05-16-educational-philosophy-correction.md) — Taylor & Francis correction published online 16 May 2024, clarifying methodology/source relationships and adding two references; direct publisher binary access is currently Cloudflare-blocked.
+- [We’ll see things they’ll never see: Sociological reflections on race, neurodiversity and higher education](sources/2023-race-neurodiversity-higher-education.md) — 2023, with Chantelle Jessica Lewis.
+- [Same storm, different boats](sources/2022-same-storm-different-boats.md) — 2022, with Christopher Jones.
+- [“More to prove and more to lose”](sources/2022-more-to-prove-more-to-lose.md) — 2022; DOI and Glasgow published-version PDF locally preserved; repository manifestation tracked separately in [SRC-457](sources/2026-08-08-glasgow-published-version-more-to-prove.md).
+- [Covid-19 and higher education: The Times They Are A’Changin](sources/2022-covid-higher-education-times-are-changin.md) — 2022.
+- [No one can see me cry](sources/2021-no-one-can-see-me-cry.md) — 2022 issue publication; mental health among Black and minority-ethnic academic staff.
+- [CGHE presentation version](sources/2020-07-02-cghe-no-one-can-see-me-cry-presentation.md) — 2 July 2020 public research-talk deck; title and audience scope differ from the later article.
+- [Fighting the tide](sources/2020-fighting-the-tide-doctoral-students.md) — doctoral students and academic careers.
+- [Attempting to break the chain](sources/2020-attempting-break-chain-inclusive-pedagogy.md) — inclusive pedagogy and decolonising the curriculum, with Dina Zoe Belluigi and Dave Thomas.
+- [Race and educational leadership](sources/2021-race-educational-leadership-representation.md) — with Uvanney Maylor, Lorna Roberts, and Kenisha Linton.
+- [2019 Bloomsbury chapter on race and educational leadership](sources/2019-race-education-leadership-chapter.md) — DOI 10.5040/9781350068629.ch-008; distinct from the 2018 journal article with the similar title.
+- [OSF narrative-inquiry preprint version audit](sources/2026-01-osf-narrative-inquiry-preprint-versions.md) — v1 and v2 PDFs preserved locally; later BMJ protocol linked as a distinct publication.
+- [Dismantling power and privilege through reflexivity](sources/2019-dismantling-power-privilege-reflexivity.md) — normative whiteness, Eurocentric curricula, and racial microaggressions.
+- [Race, education and social mobility](sources/2020-race-education-social-mobility.md).
+- [Understanding mental health: What are the issues for Black and ethnic minority students at university?](sources/2018-understanding-mental-health-students.md) — 2018; note that the publisher record includes a later correction/update.
+
+## 7. Journalism and public commentary
+
+- [Guardian author page](https://www.theguardian.com/profile/jason-arday) — includes “If we want a more equal Britain, we must teach its true black history.”
+- [Guardian: “Real change is needed”](https://www.theguardian.com/education/2021/feb/16/real-change-is-needed-addressing-the-bame-postgrad-attainment-gap) — postgraduate attainment gap.
+- [Guardian: Home Office colonialism training module](https://www.theguardian.com/politics/2022/jun/10/home-office-tried-to-sanitise-staff-education-module-on-colonialism) — comments on a government training module.
+- [British Sociological Association: “Talking about a Revolution”](https://es.britsoc.co.uk/talking-about-a-revolution-diversifying-the-knowledge-canon-in-the-academy/) — public-facing article on diversifying the knowledge canon.
+- [Times Higher Education: career advice for young Black academics](https://www.timeshighereducation.com/campus/fools-gold-career-advice-young-black-academics) — first-person essay from 2022.
+- [House of Lords Youth Unemployment Committee oral evidence](sources/2021-06-29-parliament-youth-unemployment-evidence.md) — corrected public transcript of Arday’s 29 June 2021 evidence on employment inequality, mentoring, education, and social mobility.
+- [Quality Strategy Network: “The fragile future of EDI demands bold university leadership”](sources/2026-01-07-quality-strategy-network-edi-leadership.md) — co-authored public commentary with Arun Verma, 7 January 2026; local capture preserves metadata and subtitle but not the substantive body.
+- [The Herald: Glasgow visiting-professor affiliation report](sources/2026-08-03-affiliation-denial-reports.md) — 3 August 2026 report preserving Glasgow’s attributed denial and the distinction between the disputed visiting role and the documented Glasgow professorship.
+- [AMOSSHE National Conference 2026](sources/2026-07-03-amosshe-national-conference-jason-arday.md) — organizer promotion for a 3 July closing keynote, with current official programme/speakers pages preserved as a changed omission state; delivery unresolved.
+
+## 8. Current controversy — keep separate from the historical archive
+
+- [*The Telegraph* plagiarism-row report](sources/2026-07-24-telegraph-plagiarism-row.md) — 24 July 2026; archived article with attributed allegations, Cambridge/LJMU responses, and two preserved article images.
+
+- [Retraction Watch investigation](https://retractionwatch.com/2026/07/27/cambridge-jason-arday-plagiarism-allegations-times-higher-education/) — reports on allegations involving his thesis and publications, Cambridge’s stated position, and the suppression of a planned news story.
+- [Retraction Watch investigation — local record](sources/2026-07-27-retraction-watch-arday-investigation.md) — modified 5 August 2026; preserves the article, featured image, attributed institutional response, and reported BSA-plenary remark.
+- [Cambridge academic-misconduct procedure](https://www.plagiarism.admin.cam.ac.uk/investigating) — relevant institutional policy, not a finding about Arday.
+- [Cambridge profile](https://faculty.educ.cam.ac.uk/people/staff/arday/) — useful for comparing current institutional descriptions with archived material; pages may change after the reported resignation/investigation.
+
+Allegations, corrections, biographical disputes, and online commentary should be logged separately from verified publications and recordings. Do not treat similarity analyses, blog posts, social-media claims, or AI-detection scores as final findings without an authoritative investigation or publisher/university decision.
+
+## 9. Suggested archive workflow
+
+1. Save the linked pages and download public PDFs locally.
+2. Record title, date, speaker/author, host institution, URL, and whether the item is first-party, publisher-hosted, journalistic, or commentary.
+3. For every publication, preserve the DOI landing page plus an open-access copy where available.
+4. For the controversy, preserve dated versions of institutional statements and publisher correction notices rather than relying on later summaries.

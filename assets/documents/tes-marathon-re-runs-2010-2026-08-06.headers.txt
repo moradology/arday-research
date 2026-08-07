@@ -1,0 +1,32 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+set-cookie: SSESS6a207cf063c42ff9948ec180cec61f1c=Y2LSUBLADrgaRDMbh-KrzaHfnTmFuxYHhhYmsGkPMmI; expires=Sat, 29-Aug-2026 20:05:58 GMT; Max-Age=2000000; path=/; domain=.www.tes.com; secure; HttpOnly
+link: <https://www.tes.com/magazine/archive/marathon-re-runs?amp> rel="amphtml"
+x-ua-compatible: IE=edge
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 06 Aug 2026 16:32:37 GMT
+etag: "1786033957"
+fastly-drupal-html: YES
+content-security-policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.pndo.io *.googletagservices.com *.doubleclick.net *.googlesyndication.com *.newrelic.com bam.nr-data.net *.pendo.io google.com gstatic.com www.gstatic.com recaptcha.net www.recaptcha.net *.googleapis.com *.google.com *.google.co.uk *.google.au *.google.pl *.google.ie cdn.ampproject.org *.twitter.com cdn.cookielaw.org *.googletagmanager.com *.hsforms.net assets.tes.com; frame-src 'self' https://player.captivate.fm https://player.vimeo.com https://www.youtube.com https://datawrapper.dwcdn.net https://www.google.com https://google.com https://*.googlesyndication.com https://*.ampproject.net https://*.twitter.com/ https://*.amuselabs.com https://app.eu.pendo.io https://amuselabs.com https://lookerstudio.google.com https://recaptcha.google.com https://www.recaptcha.net https://recaptcha.net https://*.hsforms.net; report-uri /magazine/report-csp-violation
+strict-transport-security: max-age=31536000; includeSubDomains
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(self), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(self), usb=()
+x-permitted-cross-domain-policies: none
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 16:32:38 GMT
+set-cookie: geoCountry=US; Domain=.tes.com; Path=/; Secure
+set-cookie: siteCountry=US; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+set-cookie: siteInternational=US; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+set-cookie: geoCurrency=USD; Path=/; Secure
+set-cookie: siteCurrency=USD; Max-Age=31556952; Path=/; Secure
+set-cookie: csrf=94079f61aa61a2a7c0dbbc500a908be4; Domain=.tes.com; Path=/; Secure
+set-cookie: __tese=64b1b9be-0dc8-4088-a08b-1651c0c3d510; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+cache-control: max-age=3600, public, s-maxage=3600, stale-if-error=43200, stale-while-revalidate=3600, no-transform
+x-served-by: cache-lhr-egwu1540060-LHR, cache-iad-kiad7000151-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+vary: Accept-Encoding
+

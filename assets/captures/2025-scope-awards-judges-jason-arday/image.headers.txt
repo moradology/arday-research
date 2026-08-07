@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: image/jpeg
+etag: "pqOgkZDoF3iQB5vbx7aVzHRAWGJUXeWaNxSST9DD95c"
+fastly-io-info: ifsz=30168 idim=400x400 ifmt=jpeg ofsz=26873 odim=400x400 ofmt=jpeg
+fastly-io-served-by: img15-europe-west1
+fastly-io-transform-stats: ifsz=30168 ofsz=26873 ofmt=jpeg
+fastly-stats: io=1
+x-ms-access-tier: Hot
+x-ms-access-tier-inferred: true
+accept-ranges: bytes
+x-served-by: cache-ams-eham8680031-AMS, cache-iad-kiad7000163-IAD
+x-cache: HIT, MISS
+x-cache-hits: 6, 0
+x-timer: S1786056059.219145,VS0,VE87
+access-control-allow-origin: *
+cache-control: public, immutable, max-age=31536000
+date: Thu, 06 Aug 2026 22:40:59 GMT
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 26873
+

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 06:43:25 GMT
+Server: Zope/(2.13.22, python 2.7.16, linux2) ZServer/1.1
+content-length: 95615
+x-cache-operation: plone.app.caching.moderateCaching
+content-language: en
+expires: Tue, 09 Aug 2016 06:43:25 GMT
+vary: X-Anonymous,Accept-Encoding
+etag: "||15093282|en|0|Turnkey Theme|0|0|1775030884.41|"
+x-ua-compatible: IE=edge,chrome=1
+cache-control: max-age=0, s-maxage=3600, must-revalidate
+x-cache-rule: plone.content.folderView
+x-frame-options: SAMEORIGIN
+content-type: text/html;charset=utf-8
+X-Varnish: 336692506 328533345
+Age: 1303
+Via: 1.1 varnish (Varnish/6.5)
+X-Cache: HIT
+Accept-Ranges: bytes
+Via: 1.1 www.psych.ox.ac.uk
+Strict-Transport-Security: max-age=15768000
+

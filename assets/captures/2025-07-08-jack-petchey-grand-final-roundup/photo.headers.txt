@@ -1,0 +1,12 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 21:42:09 GMT
+content-type: image/jpeg
+content-length: 192077
+last-modified: Tue, 08 Jul 2025 15:06:43 GMT
+etag: "686d3403-2ee4d"
+cache-control: public, max-age=31536000
+vary: Accept-Encoding
+access-control-allow-origin: *
+accept-ranges: bytes
+

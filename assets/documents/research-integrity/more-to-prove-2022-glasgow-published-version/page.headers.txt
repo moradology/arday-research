@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 15:00:09 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: frame-ancestors 'self';
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

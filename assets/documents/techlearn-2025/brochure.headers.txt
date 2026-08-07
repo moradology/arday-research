@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/pdf
+Last-Modified: Mon, 18 Aug 2025 14:50:29 GMT
+Accept-Ranges: bytes
+ETag: "20ccec704f10dc1:0"
+Server: eShow Server S5
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+Content-Security-Policy: base-uri 'self'; frame-src *;
+Date: Thu, 06 Aug 2026 21:22:55 GMT
+Content-Length: 2953981
+

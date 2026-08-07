@@ -1,0 +1,65 @@
+HTTP/2 302 
+date: Thu, 06 Aug 2026 15:33:46 GMT
+content-type: text/html; charset=utf-8
+location: https://padlet.com/tenant/114206/redirect?redirect_url=https%3A%2F%2Fpadlet.com%2Fauth%2Flogin%3Flibrary_id%3D357924
+server: cloudflare
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+ww-app-version: v-2608061422-c5cfd-production
+vary: Accept-Encoding, Accept-Language
+p3p: CP="IDC DSP COR CURa ADMa OUR NOR ONL COM"
+ww-qt: low
+cache-control: no-cache
+x-request-id: 2f8c067c-5603-4a5d-aa17-3ba89e5d6282
+x-runtime: 0.025252
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+ww-box: mozart-web-d46b6f5-gbvpn
+via: 1.1 google
+x-backend: GKE-mozart-production
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+set-cookie: ww_d=6ec97d08812f23f484ecfcc7e01bad96; domain=padlet.org; path=/; expires=Thu, 06 Aug 2076 15:33:46 GMT; secure
+set-cookie: ww_s=c367df2e65397af6b66990cf728a6450; domain=padlet.org; path=/; expires=Thu, 06 Aug 2026 16:03:46 GMT; secure
+set-cookie: __cf_bm=wntruRdovmc00jlSMuD79KaBiYiwuwz3E23cYHOTbKA-1786030426.263275-1.0.1.1-ZiMRDXeYmwEEelZnrxJ3TmWL0y5OU8o2gsEoN60EY8Hx9wRK_YSOTqrhzyCx7f00s4RSd2XsuWb9tbRay.dLbMV2ESAkTJIKBTdFaoPgMZU4n4lUOwIUjZaxBZMbL5cf; HttpOnly; SameSite=None; Secure; Path=/; Domain=padlet.org; Expires=Thu, 06 Aug 2026 16:03:46 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fwGr0WW18XB%2BwQdexeFjeZAYXoNnJPvlE6%2BRCZNzeQBx2iuS2g%2Fgwkfwg5UdvNFz%2FAPixOlPAtKBly34GkzWFZbduMVT1%2FS5%2FLBnRhtIcVlBihjzp24NSoVafshqNaIi"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+mozart-experiments-green: true
+mozart-experiments-blue: true
+cf-ray: a26f1a142c7a99e6-OMA
+
+HTTP/2 103 
+link: <https://padlet.net/ui/assets/library_delete-BSRU31mV.css>; as=style; nopush; rel=preload, <https://padlet.net/ui/assets/tailwind-Dp2zhYIM.css>; as=style; nopush; rel=preload, <https://padlet.net/ui/assets/OzPadletLogo-Blu8hmXD.css>; as=style; nopush; rel=preload, <https://padlet.net/fonts/inter/subset/inter-latin.woff2>; as=font; crossorigin; rel=preload, <https://padlet.net/fonts/inter/subset/inter-latin.woff2>; as=font; crossorigin=anonymous; rel=preload; type=font/woff2
+
+HTTP/2 200 
+date: Thu, 06 Aug 2026 15:33:46 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+ww-app-version: v-2608061422-c5cfd-production
+vary: Accept-Encoding, Accept-Language
+p3p: CP="IDC DSP COR CURa ADMa OUR NOR ONL COM"
+ww-qt: low
+x-robots-tag: noindex, nofollow
+set-cookie: ww_d=cb386abc28128ed4e62b6223c3f485c4; domain=padlet.com; path=/; expires=Thu, 06 Aug 2076 15:33:46 GMT; secure
+set-cookie: ww_s=faf5cd37902e3acbd30dbd3ec71b0702; domain=padlet.com; path=/; expires=Thu, 06 Aug 2026 16:03:46 GMT; secure
+set-cookie: ww_mr=1; domain=padlet.com; path=/; expires=Thu, 06 Aug 2026 15:38:46 GMT; secure
+set-cookie: ww_p=wTeRGl9v9sfSSovu6Im%2FZq7UvPLh1%2FHIKhhd3kgHFxm7GlTXkWCNa%2FkmpeOyp%2BF%2FORFWFS%2FmnChQ%2BZDKvD2o7VSax%2F%2FEfoJmrNHoiknhdxxsWbh6wo%2FkY3wzKJ0PL%2FkYgNGREG6p0kltULjs5b3jg4ju25sro72Ty6Q4dEg%2F7NV1OBzMOxr8MZP1qknnQMRlcSgT9mwb0PNSTp8fOn3uifVExhOtE6HPHpZNsTT%2BzvbXcefGH9913yfMt1ofeYmxgGBK7i54%2BFsVKLFTQsC0Hviy6LxVBODX5cVzI%2FyK5fRPN8K8aJVxGCQ8VeqCc1wYmQuN6qfVHhNZm4in5SziRHxL--2sNzS0%2FeWrz%2FMhIV--UMDcSGyUOSY85Y4M4rtB0g%3D%3D; domain=padlet.com; path=/; expires=Wed, 04 Nov 2026 15:33:46 GMT; secure; HttpOnly
+set-cookie: __cf_bm=1_xQ2RNmF3RunKxOqO5fRIOziEjOtceFqK91uHlxbIc-1786030426.3957536-1.0.1.1-3QMO8MzS1cryiB7T.QUhti.OgZKcI_5SjPkT9VggRQZr.KpqhZ7rpQazvQE_nF41EoekqRv3t88a3CnWXHgHpqnrR5e5M_G4250PnwosD8zF7v0ndafCcKho5bL6dQBFPrIoYP0.HZAKn9RvFBkcNQ; HttpOnly; SameSite=None; Secure; Path=/; Domain=padlet.com; Expires=Thu, 06 Aug 2026 16:03:46 GMT
+cache-control: max-age=0, private, must-revalidate
+x-request-id: d7db77e4-ed4e-4a0b-9fc3-f9ddbd9d38a0
+x-runtime: 0.016395
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+ww-box: mozart-web-d46b6f5-z4n2l
+content-security-policy-report-only: script-src 'self' dl.frontapp.com static.cloudflareinsights.com padlet.net maps.googleapis.com apis.google.com ta-echo.padlet.com api.commandbar.com cdn.commandbar.com app.getbeamer.com challenges.cloudflare.com embed.cloudflarestream.com cdn.usefathom.com blob: 'unsafe-inline' 'unsafe-eval'; style-src 'self' padlet.net fonts.googleapis.com cdn.commandbar.com app.getbeamer.com 'unsafe-inline'; font-src 'self' padlet.net fonts.gstatic.com data:; report-uri https://padlet.com/csp-report;
+via: 1.1 google
+x-backend: GKE-mozart-production
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+link: <https://padlet.net/ui/assets/migrated_tenant_redirect-ClI6lwd4.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,<https://padlet.net/ui/assets/library_delete-BSRU31mV.css>; rel=preload; as=style; nopush,<https://padlet.net/ui/assets/tailwind-Dp2zhYIM.css>; rel=preload; as=style; nopush,<https://padlet.net/ui/assets/OzPadletLogo-Blu8hmXD.css>; rel=preload; as=style; nopush,<https://padlet.net/fonts/inter/subset/inter-latin.woff2>;rel="preload";as="font";crossorigin,<https://padlet.net/fonts/inter/subset/inter-latin.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://padlet.net/ui/assets/utm-DzULfAC8.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush
+cf-ray: a26f1a14fa1e06b5-OMA
+

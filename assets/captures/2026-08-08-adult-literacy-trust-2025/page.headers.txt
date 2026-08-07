@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 03:30:30 GMT
+content-type: text/html;charset=UTF-8
+set-cookie: ApplicationGatewayAffinityCORS=907e3d58bf01e2c0be1b2349eb57affd; Path=/; SameSite=None; Secure
+set-cookie: ApplicationGatewayAffinity=907e3d58bf01e2c0be1b2349eb57affd; Path=/
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+set-cookie: JSESSIONID=96EDA14FED9243153FBF8B92CAB114E1.liferay-6c9754bbb4-tv5q7; Path=/; HttpOnly
+set-cookie: GUEST_LANGUAGE_ID=en_GB; Max-Age=31536000; Expires=Sat, 07 Aug 2027 03:30:29 GMT; Path=/; HttpOnly
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: private, no-cache, no-store, must-revalidate
+pragma: no-cache
+set-cookie: COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sat, 07 Aug 2027 03:30:29 GMT; Path=/; HttpOnly
+

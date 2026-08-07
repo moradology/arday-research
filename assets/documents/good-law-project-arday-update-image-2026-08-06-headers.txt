@@ -1,0 +1,27 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 17:26:21 GMT
+content-type: image/jpeg
+content-length: 350252
+cf-ray: a26fbefd296ad3d3-OMA
+cf-cache-status: HIT
+accept-ranges: bytes
+cache-control: public, max-age=31536000
+etag: "6a67789c-5582c"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+last-modified: Mon, 27 Jul 2026 15:26:20 GMT
+server: cloudflare
+vary: Accept, accept-encoding
+ki-cf-cache-status: HIT
+x-content-type-options: nosniff
+x-edge-location-klb: 1
+cf-bgj: h2pri,imgq:100
+cf-polished: vary_header_present
+ki-cache-tag: 56e7cdee-298f-4bef-803a-e1abc6a438d4,192a240d2980858095f56b6d197d0c2d115269b9de206ee9632189a60b6a2320
+ki-cache-type: CDN
+ki-edge: v=28.4.5;mv=99.9.9
+ki-origin: o1i
+set-cookie: __cf_bm=uz2gvXOuqTWhTqO6pej_ifTHcXc5iZSWE6vf_TgxiF8-1786037180.9864485-1.0.1.1-Rhq4F8dQFMSzL0VPHKlAk7Zc8Au0.v14nTJUOsTbdbbhrF9OfCaF8DPMdDToC0DapGPJ7W55RF4T.ikdMSFFIXQ7j36ldMGHQTnjzX24Yq9RgUVbYG4gZwS4RsV1tZF2; HttpOnly; SameSite=None; Secure; Path=/; Domain=goodlawproject.org; Expires=Thu, 06 Aug 2026 17:56:21 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uC8S0d9PELN6WSWseOTe6uCeVHw2lc0%2Flv7nvGSgdfl3APooJAbr2diFIhdbicp%2BZdEQTPMDutJQWJ3kAly%2FOxQo2yweK8y8jRLzMx%2FmwaDRM2orDY6wpadqIB4jnHf9cQru3w%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+alt-svc: h3=":443"; ma=86400
+

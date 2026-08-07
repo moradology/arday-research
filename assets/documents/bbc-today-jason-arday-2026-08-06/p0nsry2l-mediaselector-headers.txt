@@ -1,0 +1,27 @@
+HTTP/2 404 
+content-type: application/json;charset=UTF-8
+cache-control: private, s-maxage=58, max-age=53
+x-ms-disclaimer: This code and data form part of the BBC iPlayer content protection system. Tampering with, removal of, misuse of, or unauthorised use of this code or data constitutes circumvention of the BBC's content protection measures and may result in legal action. BBC (C) 2026.
+x-requestid: 45a83375-52d6-4cb3-8304-aa47a4ad3fe1
+origin-agent-cluster: ?0
+req-svc-chain: FASTLY,GTM
+via: 1.1 BBC-GTM, 1.1 varnish
+x-bbc-edge-cache-status: MISS
+x-bbc-origin-response-status: 404
+server: BBC-GTM
+fastly-restarts: 1
+x-fastly-cache-reason: CACHE-CONTROL
+x-fastly-cache-reason: HITPASS
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 21:12:38 GMT
+x-fastly-cache-status: PASS
+x-served-by: cache-iad-kiad7000125-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786050759.720568,VS0,VE108
+x-fastly-pre-flight-cache: MISS, HIT
+x-fastly-pre-flight-cache-status: HIT-CLUSTER
+vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 316
+

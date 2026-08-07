@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Length: 645354
+Content-Type: application/pdf
+Content-MD5: ytZL2jZ067XjQ/+XOBShYA==
+Last-Modified: Wed, 03 Nov 2021 00:02:21 GMT
+ETag: 0x8D99E5D35624E8A
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 3d0750e3-101e-00aa-05d3-25575d000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Date: Thu, 06 Aug 2026 18:41:31 GMT
+

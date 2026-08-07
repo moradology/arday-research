@@ -1,0 +1,70 @@
+HTTP/2 302 
+content-type: text/html
+location: https://bbc.pdn.tritondigital.com/ak/mpg_mp3_med/modav/bUnknown-368a84cd-734f-4d8c-8942-350fda23f4e0_p0l8rpvq_cUnknown_1746628244675.mp3?__gda__=1786055750_38bbdded76919285fdd13e28ef9fac48
+cache-control: private, s-maxage=290, max-age=899
+x-ms-disclaimer: This code and data form part of the BBC iPlayer content protection system. Tampering with, removal of, misuse of, or unauthorised use of this code or data constitutes circumvention of the BBC's content protection measures and may result in legal action. BBC (C) 2026.
+x-requestid: 417a3abe-e8ac-4647-84f6-105928131b73
+origin-agent-cluster: ?0
+req-svc-chain: FASTLY,GTM
+via: 1.1 BBC-GTM, 1.1 varnish
+x-bbc-edge-cache-status: MISS
+x-bbc-origin-response-status: 302
+server: BBC-GTM
+fastly-restarts: 1
+x-fastly-cache-reason: CACHE-CONTROL
+x-fastly-cache-reason: MISS
+accept-ranges: bytes
+date: Thu, 06 Aug 2026 16:35:50 GMT
+x-fastly-cache-status: PASS
+x-served-by: cache-iad-kiad7000114-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786034151.569997,VS0,VE147
+x-fastly-pre-flight-cache: MISS, MISS
+x-fastly-pre-flight-cache-status: MISS-CLUSTER
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 302 
+content-type: application/json
+content-length: 0
+location: https://bbc.pdn.tritondigital.com/v1/download/media/c2478355-71a7-5fa4-87d3-40cac45f5790.mp3?a=en&u=bbc&q=radio4&h=1188403&eg=urn%3Abbc%3Apodcast%3Am002bt9b&g=urn%3Abbc%3Apodcast%3Am002bt9b&k=https%3A%2F%2Fpodcasts.files.bbci.co.uk%2Fp0gg4k6r.rss&eu=http%3A%2F%2Fwww.bbc.co.uk%2Fprogrammes%2Fm002bt9b&n=Radical&et=Joe%20Biden%2C%20VE%20Day%20and%20the%20politics%20of%20nostalgia&c=%5B%22Society%20%26%20Culture%22%5D&d=2025-05-08&i=ak%2Fmpg_mp3_med%2Fmodav%2FbUnknown-368a84cd-734f-4d8c-8942-350fda23f4e0_p0l8rpvq_cUnknown_1746628244675.mp3&f=122532&o=3093839&r=128&p=2&m=%5B2738000%2C2738000%5D&t=2&v=attachment%3B%20filename%3D%22TheTodayPodcast-20250508-JoeBidenVEDayAndThePoliticsOfNostalgia.mp3%22&yp=%7B%22content_station_id%22%3A%221188403%22%7D&b=%5B%22IAB1-8%22%2C%22IAB3-3%22%2C%22IAB3-7%22%2C%22IAB4-3%22%2C%22IAB4-10%22%2C%22IAB5-12%22%2C%22IAB7-5%22%2C%22IAB7-39%22%2C%22IAB9-9%22%2C%22IAB9-18%22%2C%22IAB9-32%22%2C%22IAB11%22%2C%22IAB11-1%22%2C%22IAB11-2%22%2C%22IAB11-3%22%2C%22IAB11-4%22%2C%22IAB11-5%22%2C%22IAB11-6%22%2C%22IAB11-7%22%2C%22IAB11-8%22%2C%22IAB14-6%22%2C%22IAB14-7%22%2C%22IAB14-8%22%2C%22IAB14-9%22%2C%22IAB14-10%22%2C%22IAB15%22%2C%22IAB15-5%22%2C%22IAB17-18%22%2C%22IAB23%22%2C%22IAB23-1%22%2C%22IAB23-2%22%2C%22IAB23-3%22%2C%22IAB23-4%22%2C%22IAB23-5%22%2C%22IAB23-6%22%2C%22IAB23-7%22%2C%22IAB23-8%22%2C%22IAB23-9%22%2C%22IAB23-10%22%2C%22IAB23-11%22%2C%22IAB24%22%2C%22IAB25%22%2C%22IAB25-1%22%2C%22IAB25-2%22%2C%22IAB25-3%22%2C%22IAB25-4%22%2C%22IAB25-5%22%2C%22IAB25-6%22%2C%22IAB25-7%22%2C%22IAB26%22%2C%22IAB26-1%22%2C%22IAB26-2%22%2C%22IAB26-3%22%2C%22IAB26-4%22%5D&im=dai&ttl=21600&Expires=1786055751&Key-Pair-Id=K1J2BR3INU6RYD&Signature=DmDTpwnEA4CrY~ZwqEdr6a5J0CEdTaMNmqr3EqOYVAYrhk49pWl5c6wqsdK8cZqvPfqSaMRfrrhYWFiJUkXvzl9~oyAXHw-XKnrSIt2m-xk7Ck7c5WmmOCoqVL6moI2zI1qqc1si1mBu-pUQBjwqNW6RrpCqMR1-51K91q~ZmEdpj1yz-LJIhljgdR6jCZVRATr67NyUAsyU~AabPZczpGbkKHlFNbCUX5wOO6YMqw60w~0qItKRmexDI2-xUTRISvQQkx7q2-u82JCCu89u7NnEwPQrDwuQh1i9NsVONr7kxdA0iSAEy2TpNY1ftMOaQ1Ko-s6tM41QLVpfIYilDw__
+date: Thu, 06 Aug 2026 16:35:51 GMT
+x-amzn-trace-id: Root=1-6a74b7e7-1e8019da2d30e92d10006074;Parent=78b2b5b7817bb697;Sampled=0;Lineage=1:3263130e:0
+x-amzn-requestid: 832c4c77-a22f-4a76-874c-8b02b4b3385c
+x-cache: Miss from cloudfront
+via: 1.1 7e681ba2e60f1d8da9b3afd175605ff8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P11
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: GNon8kT0UISheMH86eAYpiU2k76TDJnWuGcQRUOGxYnwosnC2_0eLA==
+vary: Origin
+
+HTTP/2 302 
+content-type: application/json
+content-length: 0
+location: https://bbc.pdn.tritondigital.com/v1/variant/d266669c-70a3-5db8-9b4a-e682a9e7bc66.mp3?si=e90de64a-3031-574b-a47a-e6d03a083d08&r=128&o=3093839&f=122532&cc=YYYYYYYYYY&ct=DOWNLOAD&g=urn%3Abbc%3Apodcast%3Am002bt9b&h=1188403&q=radio4&u=bbc&te=BBC&ti=1786034151&response-content-disposition=attachment%3B%20filename%3D%22TheTodayPodcast-20250508-JoeBidenVEDayAndThePoliticsOfNostalgia.mp3%22&i=ak%2Fmpg_mp3_med%2Fmodav%2FbUnknown-368a84cd-734f-4d8c-8942-350fda23f4e0_p0l8rpvq_cUnknown_1746628244675.mp3&eg=urn%3Abbc%3Apodcast%3Am002bt9b&ppi=ce10025a-b9d9-5132-829a-62acf97ae0ee&epi=36040417-9ffc-56ab-9548-10d8f0310fe0&emt=audio&mt=dynamic&fu=https%3A%2F%2Fbbc.pdn.tritondigital.com%2Fmedia%2Fc2478355-71a7-5fa4-87d3-40cac45f5790.mp3%3Fsi%3De90de64a-3031-574b-a47a-e6d03a083d08%26r%3D128%26o%3D3093839%26f%3D122532%26cc%3DYYYYYYYYYY%26ct%3DDOWNLOAD%26g%3Durn%253Abbc%253Apodcast%253Am002bt9b%26h%3D1188403%26q%3Dradio4%26u%3Dbbc%26te%3DBBC%26ti%3D1786034151%26response-content-disposition%3Dattachment%253B%2520filename%253D%2522TheTodayPodcast-20250508-JoeBidenVEDayAndThePoliticsOfNostalgia.mp3%2522%26i%3Dak%252Fmpg_mp3_med%252Fmodav%252FbUnknown-368a84cd-734f-4d8c-8942-350fda23f4e0_p0l8rpvq_cUnknown_1746628244675.mp3%26eg%3Durn%253Abbc%253Apodcast%253Am002bt9b%26ppi%3Dce10025a-b9d9-5132-829a-62acf97ae0ee%26epi%3D36040417-9ffc-56ab-9548-10d8f0310fe0%26emt%3Daudio%26mt%3Dstatic%26edt%3Dmp3%26Expires%3D1786055751%26Key-Pair-Id%3DK1J2BR3INU6RYD%26Signature%3DAaRn1XOsm~GtBmS9VCALZ6IvRIQlyVXCaDI7FCE5xuhaHb7tAd5ZApSR9k~2cvWQnugOWgqMHg-JHyTMWkYdyb3WRL5wEP47BKUu1UYznpYk3QCJsv4V1I9EHevtIUiokUMFDzuUewWjpKeIsyN36NhPp~5vtZ9FOg~E4sSsRYqe~~3JT9L4mNlN18irCEcnvF-hNJvBoJ9dYN86JbsUl68cyUUmsW5Rn7ziKOGhQuJWz1RytfaSnqPrHxtv6Yz5ejB4HOPqFEJ-SrIdAGxvQ~vkVuDIaTjDPBQNTgIgE-E20m6-w2UXLQCdbA3avDkm3Q06nMAn~X3R5l16aRONag__&edt=mp3&Expires=1786055751&Key-Pair-Id=K1J2BR3INU6RYD&Signature=nFNFq98eKQM5aSmNeh~7gGNB5HT0mwZ8DqY6~1S6UJYReAQi~OCeOMbYUof32~ZOk7fjH2s9Yee~fjzndMgy~YsL2intbaJc5pdJxBwmqLFHJD~RNni-NjcNWiON5frlo2GUeGRkveajBpUArsHloRG-XeInNrpccst8a3onYeDyht6sCvLcBsXGE865rJsuDOiPG0MvwmJqec4DvdgEuVMX93YTfZUKCx9uRa9G5M~AOqHEzCy3y9zmBHn~KtoiwbMzAn3sz6CUvZJkkCHiwTadgwy~9EZZtfbpUbTG3EUCrGIHy-RHNtoY3vPkVvcjZ8bReymU15GLACH4TsKIKQ__
+date: Thu, 06 Aug 2026 16:35:51 GMT
+x-amzn-trace-id: Root=1-6a74b7e7-7b08ba8f3ebb5e3547053565;Parent=173951182e9cc4a1;Sampled=0;Lineage=1:8af35bed:0
+x-amzn-requestid: 2e16e5bc-f5bd-4ce2-8469-ead0793cc201
+x-cache: Miss from cloudfront
+via: 1.1 7e681ba2e60f1d8da9b3afd175605ff8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P11
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: bZhHxTM5jjdQquXXT_dj0wHNKmIYcE1JBL-E_fkiZ7Dm9NhNGM7Pow==
+vary: Origin
+
+HTTP/2 200 
+content-type: audio/mpeg
+content-length: 51279057
+server: CloudFront
+cache-control: max-age=604800, no-transform
+accept-ranges: bytes
+content-disposition: attachment; filename="TheTodayPodcast-20250508-JoeBidenVEDayAndThePoliticsOfNostalgia.mp3"
+date: Thu, 06 Aug 2026 16:35:52 GMT
+x-cache: Miss from cloudfront
+via: 1.1 7e681ba2e60f1d8da9b3afd175605ff8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P11
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: QNgRW9Jccx3jTt-CnCXdWRNtjmmMEf2xxtJm6hAbzRDPDAFU5TG2mQ==
+vary: Origin
+

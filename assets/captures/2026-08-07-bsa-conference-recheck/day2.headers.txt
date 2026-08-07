@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 01:50:40 GMT
+content-type: application/pdf
+content-length: 2246558
+accept-ranges: bytes
+etag: "70fafdae18bddc1:0"
+last-modified: Thu, 26 Mar 2026 12:04:22 GMT
+set-cookie: ARRAffinity=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;Secure;Domain=www.britsoc.co.uk
+set-cookie: ARRAffinitySameSite=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.britsoc.co.uk
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: block-all-mixed-content; base-uri 'self'; frame-ancestors 'self'; object-src 'none';
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: geolocation=(self), microphone=()
+x-permitted-cross-domain-policies: none
+expect-ct: max-age=86400, enforce
+

@@ -1,0 +1,33 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 04:01:42 GMT
+content-type: text/html; charset=UTF-8
+x-archive-orig-server: nginx
+x-archive-orig-date: Wed, 25 Aug 2010 09:49:50 GMT
+x-archive-orig-connection: close
+x-archive-orig-vary: Cookie
+x-archive-orig-x-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+x-archive-orig-x-pingback: http://30in35.wordpress.com/xmlrpc.php
+x-archive-orig-link: <http://wp.me/Zd4E>; rel=shortlink
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+memento-datetime: Wed, 25 Aug 2010 09:49:50 GMT
+link: <http://30in35.wordpress.com:80/page/4/>; rel="original", <https://web.archive.org/web/timemap/link/http://30in35.wordpress.com:80/page/4/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://30in35.wordpress.com:80/page/4/>; rel="timegate", <https://web.archive.org/web/20100825094950/http://30in35.wordpress.com:80/page/4>; rel="first memento"; datetime="Wed, 25 Aug 2010 09:49:50 GMT", <https://web.archive.org/web/20100825094950/http://30in35.wordpress.com:80/page/4/>; rel="memento"; datetime="Wed, 25 Aug 2010 09:49:50 GMT", <https://web.archive.org/web/20100825094950/http://30in35.wordpress.com:80/page/4/>; rel="last memento"; datetime="Wed, 25 Aug 2010 09:49:50 GMT"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: 51_17_20100825090641_crawl101-c/51_17_20100825094931_crawl103.arc.gz
+server-timing: captures_list;dur=1.098678, exclusion.robots;dur=0.057396, exclusion.robots.policy;dur=0.045237, esindex;dur=0.010457, cdx.remote;dur=1120.199300, LoadShardBlock;dur=70.300346, PetaboxLoader3.datanode;dur=88.368661, load_resource;dur=139.075578, PetaboxLoader3.resolve;dur=109.116797, nav;dur=0.262307
+x-app-server: wwwb-app244-dc8
+x-ts: 200
+x-tr: 2852
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=2
+set-cookie: wb-p-SERVER=wwwb-app244; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: HIT
+server-timing: HIT
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

@@ -1,0 +1,31 @@
+HTTP/2 301 
+date: Thu, 06 Aug 2026 18:06:57 GMT
+location: https://research.manchester.ac.uk/en/publications/ethnic-education-and-labour-market-position-in-britain-1972-2013/
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+set-cookie: __cf_bm=LiZqd8BZBBX_g9iZEqPj66xw9ETYir9gaEhiU_1KEKk-1786039617.4906573-1.0.1.1-WmeEWjRrfopkg1fm.ez3wR0KavA2xpks9WPN1WTplBWgh74plNts8MTMEPpVEA927tsTBZHxbPt4HWE_b2MRHfSY4U7wX2S6hdvtH9d.yzdLRjNlWljIVYg2DtzaKUCS; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:57 GMT
+cf-cache-status: BYPASS
+cf-ray: a26ffa794938b5fc-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Thu, 06 Aug 2026 18:06:58 GMT
+content-type: text/html;charset=UTF-8
+content-language: en-GB
+content-security-policy: default-src 'self' *.adobedtm.com *.altmetric.com *.cloudfront.net *.demdex.net *.elsevier.com *.google-analytics.com *.analytics.google.com *.googleapis.com *.googletagmanager.com *.gstatic.com *.cloudflare.com *.hotjar.com *.onetrust.com *.vimeo.com *.youtube.com *.g.doubleclick.net api.plu.mx bam-cell.nr-data.net bam.nr-data.net cdn.cookielaw.org *.elseviercdn.cn elsevier.data.adobedc.cn cdn.plu.mx cm.everesttech.net js-agent.newrelic.com www.google.com 'unsafe-inline' 'unsafe-eval' data: *.pendo.io analytics.google.com google-analytics.com googletagmanager.com; img-src 'self' * data:; frame-src 'self' *.cloudflare.com *.vimeo.com *.youtube.com elsevier.demdex.net *.pendo.io pure.manchester.ac.uk
+last-modified: Wed, 05 Aug 2026 00:00:00 GMT
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+tdm-reservation: 0
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-product: Pure Portal
+set-cookie: __cf_bm=GtiBs5FUxP3lxzbEwBxe5b3plK6u31wUSR9LT0svKfI-1786039617.8657556-1.0.1.1-HGWM6ZLRQszzQ6cyrxZ2qHuunSAYK8t1Xjcd844QQ7a7ynwzcec1KWqasS8Asin8DMRo8PRE8z5rLyEbaXwuLrBcpbVCiKTcahUpi2fNpdvO0Ao..wh8uoUYfaftKxoH; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:58 GMT
+cf-cache-status: BYPASS
+cf-ray: a26ffa7bad8ab5fc-OMA
+alt-svc: h3=":443"; ma=86400
+

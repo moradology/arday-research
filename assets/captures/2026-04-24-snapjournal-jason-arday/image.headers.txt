@@ -1,0 +1,12 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 22:30:38 GMT
+content-type: image/jpeg
+content-length: 92107
+cache-control: public, max-age=604800
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: a7fb96c2a6562cc48b09455f1de4c756-bos-edge4
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.018
+accept-ranges: bytes
+

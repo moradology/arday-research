@@ -1,0 +1,26 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 20:09:11 GMT
+content-type: image/jpeg
+content-length: 59506
+server: cloudflare
+cache-control: max-age=31556926, public
+content-disposition: inline; filename="9781398542747__67449.jpg"
+expires: Fri, 06 Aug 2027 22:14:43 GMT
+x-request-id: 3ff5a0a4c2fbb618e8692c8f2eb54e15
+access-control-allow-origin: *
+access-control-max-age: 604800
+x-bc-origin-cache: MISS
+x-bc-is-ha: 1
+cf-bgj: h2pri,imgq:100
+priority: u=1;i=?0,cf-chb=(280;u=3;i=?0 8221;u=5;i=?0 29133;u=6;i=?0)
+strict-transport-security: max-age=2592000; includeSubDomains
+cf-polished: webp_bigger
+accept-ranges: bytes
+bc-ray: 1
+last-modified: Fri, 07 Aug 2026 20:09:11 GMT
+cf-cache-status: HIT
+vary: accept-encoding
+set-cookie: __cf_bm=LQFqcYRYNhW7tNdnwYjMFgN10aCCkBp2evHP57vFokc-1786133351.7450006-1.0.1.1-fo3_GOfgXt0_..TQ1ReFQc7hoNE9spTpi8ha.b5Wd0bGaUevIt.xdlTD3QcZLGE6ojCEOd_hKcCrHI9oL5bLI6geqqX9u9Y7dx6jk5Gk5m6eRfeYdGfNhiL3X9yeSObm; HttpOnly; SameSite=None; Secure; Path=/; Domain=bigcommerce.com; Expires=Fri, 07 Aug 2026 20:39:11 GMT
+cf-ray: a278eae86c9dffc4-ORD
+alt-svc: h3=":443"; ma=86400
+

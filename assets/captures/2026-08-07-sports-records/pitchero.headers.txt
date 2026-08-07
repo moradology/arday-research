@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 333284
+date: Fri, 07 Aug 2026 02:19:10 GMT
+set-cookie: connect.sid=s%3AsdpXUNHOKO9poc8ytvyT7hNUlHAd3B6a.KkUBwBvn1JH4QQmt7bsbfb9ct%2BYL8W7OJMhfBsnTKpc; Path=/; HttpOnly
+x-frame-options: deny
+content-security-policy: frame-ancestors www.pitchero.com
+cache-control: no-cache, private
+x-powered-by: Next.js
+etag: "rbj53pol0y754h"
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 a4f9034f040b2c72126eaff1ca10fb64.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P14
+x-amz-cf-id: BVtMdipXmdthgzsRgbFKiq7cdCmezFR_-6hHoaz6uGrRl3QJHzdnhA==
+

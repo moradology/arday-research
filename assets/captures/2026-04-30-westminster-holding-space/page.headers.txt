@@ -1,0 +1,25 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 22:10:33 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+cache-control: max-age=21600, public
+x-drupal-dynamic-cache: MISS
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie,Accept-Encoding
+x-generator: Drupal 10 (https://www.drupal.org)
+content-security-policy: object-src 'self' https://discoveruni.gov.uk *.du-widget.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.tiktok.com *.click4assistance.co.uk *.googletagmanager.com *.salesforce.com *.force.com *.my.site.com *.adform.net https://ep2.adtrafficquality.google/sodar/sodar2.js cdn.jsdelivr.net code.jquery.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://region-eu.libanswers.com https://unpkg.com https://v4in1-si.click4assistance.co.uk https://westminster.accessplanit.com; script-src-attr 'self' 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline' *.googletagmanager.com *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.google.com *.google.co.uk *.youtube.com *.facebook.com *.facebook.net *.hotjar.com snap.licdn.com *.tiktok.com *.quantserve.com *.quantcount.com *.doubleclick.net *.infinity-tracking.net *.infinity-tracking.com sc-static.net *.click4assistance.co.uk *.vimeo.com cdn.unibuddy.co *.accessplanit.com *.newrelic.com *.nr-data.net *.clarity.ms *.bing.com westminsterstudent.libanswers.com www.redditstatic.com tags.srv.stackadapt.com *.snapchat.com qvdt3feo.com *.salesforce.com *.salesforceliveagent.com *.force.com *.my.site.com *.adform.net *.ep2.adtrafficquality.google/sodar/sodar2.js *.adtrafficquality.google/sodar/sodar2.js cdn.jsdelivr.net code.jquery.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://region-eu.libanswers.com https://unpkg.com https://v4in1-si.click4assistance.co.uk https://westminster.accessplanit.com; style-src 'self' 'unsafe-inline' *.force.com *.my.site.com cdn.jsdelivr.net https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://unpkg.com; style-src-attr 'self' 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' tags.srv.stackadapt.com *.force.com *.my.site.com *.adform.net cdn.jsdelivr.net https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://unpkg.com; frame-ancestors 'self' *.my.site.com *.adform.net
+x-drupal-cache: MISS
+last-modified: Thu, 06 Aug 2026 20:39:14 GMT
+x-request-id: v-e347a25e-91d6-11f1-876e-37032dfd6fec
+x-ah-environment: prod
+age: 5477
+via: varnish
+x-cache: HIT
+x-cache-hits: 5
+cf-cache-status: DYNAMIC
+cf-ray: a2715f4e9d6c089e-OMA
+

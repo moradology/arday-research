@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 21:47:38 GMT
+content-type: image/png
+content-length: 348403
+accept-ranges: bytes
+cache-control: max-age=31536000
+etag: "66e9757c-550f3"
+expires: Fri, 06 Aug 2027 21:47:37 GMT
+last-modified: Tue, 17 Sep 2024 12:26:36 GMT
+traceresponse: 00-18c9559c857e35f268385d29333eb065-b6c783dd2c1e3494-01
+vary: Accept-Encoding
+x-debug-info: eyJyZXRyaWVzIjowfQ==
+x-platform-cache: MISS
+x-platform-cluster: kveyokeqtjexq-master-7rqtwti
+x-platform-processor: 3j6ls3k6t4hthoajsjawpxof2e
+x-platform-router: vfkafxmvpaaeh7rrhzr5mz2fzq
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a2713db6efa98df3-OMA
+

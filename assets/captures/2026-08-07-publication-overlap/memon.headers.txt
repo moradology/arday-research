@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 05:07:08 GMT
+content-type: application/pdf
+content-length: 409251
+last-modified: Wed, 20 Feb 2019 08:43:20 GMT
+etag: "5c6d1328-63ea3"
+cache-control: public, max-age=2592000
+accept-ranges: bytes
+

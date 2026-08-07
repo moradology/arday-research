@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 17:00:44 GMT
+Server: Apache
+Last-Modified: Thu, 10 Apr 2025 17:49:40 GMT
+ETag: "14aad-6327035c39500"
+Accept-Ranges: bytes
+Content-Length: 84653
+Content-Type: application/pdf
+

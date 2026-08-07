@@ -1,0 +1,16 @@
+HTTP/2 200 
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: frame-ancestors 'self'
+etag: 0c076ae8bcadb00d2cbc23e48b63225a
+content-md5: DAdq6LytsA0svCPki2MiWg==
+last-modified: Thu, 12 Jun 2014 15:21:10 GMT
+expires: Sat, 07 Aug 2027 06:02:28 GMT
+content-disposition: inline; filename=dissonances_2.doc
+accept-ranges: bytes
+content-length: 99328
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-type: application/msword
+date: Fri, 07 Aug 2026 06:02:28 GMT
+server: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.5 mod_perl/2.0.12 Perl/v5.32.1
+

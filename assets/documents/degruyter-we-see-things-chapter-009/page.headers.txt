@@ -1,0 +1,17 @@
+HTTP/2 202 
+server: CloudFront
+date: Fri, 07 Aug 2026 18:14:15 GMT
+content-length: 0
+x-amzn-waf-action: challenge
+cache-control: no-store, max-age=0
+content-type: text/html; charset=UTF-8
+access-control-allow-origin: *
+access-control-max-age: 86400
+access-control-allow-methods: OPTIONS,GET,POST
+access-control-expose-headers: x-amzn-waf-action
+x-cache: Error from cloudfront
+via: 1.1 9f0d8c487f1d7c5a89050bcdba1c6144.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P14
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: TZTv3L-nuI4_qdpA4s4zVHV-wCR75mYrsGHa33T_g9wqwkQO_C8oCg==
+

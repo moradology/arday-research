@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	  <header>
+		    <query>(oaftype exact result) and (resulttypeid exact publication) and ((pidclassid exact "doi" and pid exact "10.1080/23793406.2019.1574211"))</query>
+				  <locale>en_US</locale>	
+					<size>10</size>
+			   <page>1</page>
+			   <total>1</total>
+							<fields>
+							</fields>
+			</header>
+	  <results>
+										<result xmlns:dri="http://www.driver-repository.eu/namespace/dri"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <header>
+            <dri:objIdentifier>doi_dedup___::b2d9bbd6c6a3dae6f697ce517b17a3c3</dri:objIdentifier>
+            <dri:dateOfCollection>2026-07-23T09:43:58.011974717</dri:dateOfCollection>
+            <dri:dateOfTransformation/>
+         </header>
+         <metadata>
+            <oaf:entity xmlns:oaf="http://namespace.openaire.eu/oaf"
+                        xsi:schemaLocation="http://namespace.openaire.eu/oaf https://www.openaire.eu/schema/1.0/oaf-1.0.xsd">
+               <oaf:result>
+                  <collectedfrom name="Crossref" id="openaire____::081b82f96300b6a6e3d282bad31cb6e2"/> 
+                  <collectedfrom name="Microsoft Academic Graph"
+                                 id="openaire____::5f532a3fc4f1ea403f37070f59a7a53a"/> 
+                  <originalId>10.1080/23793406.2019.1574211</originalId> 
+                  <originalId>50|doiboost____|b2d9bbd6c6a3dae6f697ce517b17a3c3</originalId> 
+                  <originalId>2912365194</originalId> 
+                  <pid classid="doi" classname="Digital Object Identifier" schemeid="dnet:pid_types"
+                       schemename="dnet:pid_types">10.1080/23793406.2019.1574211</pid> 
+                  <measure id="influence" score="6.4958887E-9" class="C4"/> 
+                  <measure id="popularity" score="5.448735E-8" class="C3"/> 
+                  <measure id="influence_alt" score="84" class="C4"/> 
+                  <measure id="citationCount" score="87" class="C4"/> 
+                  <measure id="popularity_alt" score="27.979162" class="C3"/> 
+                  <measure id="impulse" score="26" class="C4"/> 
+                  <title classid="main title" classname="main title" schemeid="dnet:dataCite_title"
+                         schemename="dnet:dataCite_title">Dismantling power and privilege through reflexivity: negotiating normative Whiteness, the Eurocentric curriculum and racial micro-aggressions within the Academy</title> 
+                  <title classid="main title" classname="main title" schemeid="dnet:dataCite_title"
+                         schemename="dnet:dataCite_title">dismantling power and privilege through reflexivity negotiating normative whiteness the eurocentric curriculum and racial micro aggressions within the academy</title> 
+                  <bestaccessright classid="UNKNOWN" classname="unspecified" schemeid="dnet:access_modes"
+                                   schemename="dnet:access_modes"/> 
+                  <creator rank="1" name="Jason" surname="Arday">Jason Arday</creator> 
+                  <dateofacceptance>2018-07-03</dateofacceptance> 
+                  <description>The challenging of normative Whiteness is paramount in dismantling the cycle of inequality that permeates society. The persistent and operant nature of Whiteness within the Academy is enduring and ...</description> 
+                  <subject classid="SDG" classname="Sustainable Development Goals"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:sdg">4. Education</subject> 
+                  <subject classid="FOS" classname="Fields of Science and Technology classification"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:fos">05 social sciences</subject> 
+                  <subject classid="SDG" classname="Sustainable Development Goals"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:sdg">16. Peace &amp; justice</subject> 
+                  <subject classid="SDG" classname="Sustainable Development Goals"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:sdg">10. No inequality</subject> 
+                  <subject classid="FOS" classname="Fields of Science and Technology classification"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:fos">0503 education</subject> 
+                  <subject classid="FOS" classname="Fields of Science and Technology classification"
+                           schemeid="dnet:subject_classification_typologies"
+                           schemename="dnet:subject_classification_typologies"
+                           inferred="true"
+                           inferenceprovenance="update"
+                           provenanceaction="subject:fos">0506 political science</subject> 
+                  <language classid="eng" classname="English" schemeid="dnet:languages"
+                            schemename="dnet:languages"/> 
+                  <relevantdate classid="created" classname="created" schemeid="dnet:dataCite_date"
+                                schemename="dnet:dataCite_date">2019-02-06</relevantdate> 
+                  <relevantdate classid="published-online" classname="published-online"
+                                schemeid="dnet:dataCite_date"
+                                schemename="dnet:dataCite_date">2019-02-06</relevantdate> 
+                  <relevantdate classid="published-print" classname="published-print"
+                                schemeid="dnet:dataCite_date"
+                                schemename="dnet:dataCite_date">2018-07-03</relevantdate> 
+                  <publisher>Informa UK Limited</publisher> 
+                  <source>Crossref</source> 
+                  <resulttype classid="publication" classname="publication" schemeid="dnet:result_typologies"
+                              schemename="dnet:result_typologies"/> 
+                  <resourcetype classid="publication" classname="publication" schemeid="dnet:result_typologies"
+                                schemename="dnet:result_typologies"/> 
+                  <isgreen>false</isgreen> 
+                  <isindiamondjournal>false</isindiamondjournal> 
+                  <publiclyfunded>false</publiclyfunded> 
+                  <journal issn="2379-3406" eissn="2379-3414" ep="161" sp="141" vol="3">Whiteness and Education</journal> 
+                  <context id="eutopia" label="EUTOPIA Open Research Portal" type="community"/> 
+                  <datainfo>
+                     <inferred>true</inferred>
+                     <deletedbyinference>false</deletedbyinference>
+                     <trust>0.8</trust>
+                     <inferenceprovenance>dedup-result-decisiontree-v4</inferenceprovenance>
+                     <provenanceaction classid="sysimport:dedup" classname="Inferred by OpenAIRE"
+                                       schemeid="dnet:provenanceActions"
+                                       schemename="dnet:provenanceActions"/>
+                  </datainfo> 
+                  <rels>
+                     <rel inferred="true" trust="1.0" inferenceprovenance="openaire:affiliation:crossref"
+                          provenanceaction="result:organization:openaireinference">
+                        <to class="hasAuthorInstitution" scheme="dnet:result_organization_relations"
+                            type="organization">openorgs____::f6d0bdf4b935c2907d157429ad783eb1</to>
+                        <country classid="GB" classname="United Kingdom" schemeid="dnet:countries"
+                                 schemename="dnet:countries"/> 
+                        <legalname>University of Warwick</legalname> 
+                        <legalshortname>University of Warwick</legalshortname> 
+                        <websiteurl>http://www2.warwick.ac.uk/</websiteurl> 
+                     </rel> 
+                  </rels>
+                  <children>
+                     <result objidentifier="doi_________::b2d9bbd6c6a3dae6f697ce517b17a3c3">
+            	           <title classid="main title" classname="main title" schemeid="dnet:dataCite_title"
+                               schemename="dnet:dataCite_title">Dismantling power and privilege through reflexivity: negotiating normative Whiteness, the Eurocentric curriculum and racial micro-aggressions within the Academy</title> 
+                        <instance>
+            	              <accessright classid="UNKNOWN" classname="unspecified" schemeid="dnet:access_modes"
+                                        schemename="dnet:access_modes"/> 
+                           <hostedby name="Whiteness and Education"
+                                     id="issn___print::b48845d9850986278c0821af1643c260"/> 
+                           <dateofacceptance>2018-07-03</dateofacceptance> 
+                           <instancetype classid="0001" classname="Article" schemeid="dnet:publication_resource"
+                                         schemename="dnet:publication_resource"/> 
+                           <refereed classid="0001" classname="peerReviewed" schemeid="dnet:review_levels"
+                                     schemename="dnet:review_levels"/> 
+                           <url>https://doi.org/10.1080/23793406.2019.1574211</url> 
+            		             <webresource>
+            		                <url>https://doi.org/10.1080/23793406.2019.1574211</url>
+            		             </webresource> 
+            	           </instance> 
+                        <publisher>Informa UK Limited</publisher> 
+                        <resulttype classid="publication" classname="publication" schemeid="dnet:result_typologies"
+                                    schemename="dnet:result_typologies"/> 
+                        <collectedfrom name="Crossref" id="openaire____::081b82f96300b6a6e3d282bad31cb6e2"/> 
+                        <creator>Jason Arday</creator> 
+                        <pid classid="doi" classname="Digital Object Identifier" schemeid="dnet:pid_types"
+                             schemename="dnet:pid_types">10.1080/23793406.2019.1574211</pid> 
+                        <dateofacceptance>2018-07-03</dateofacceptance> 
+                     </result> 
+                     <instance>
+                        <accessright classid="UNKNOWN" classname="unspecified" schemeid="dnet:access_modes"
+                                     schemename="dnet:access_modes"/> 
+                        <collectedfrom name="Microsoft Academic Graph"
+                                       id="openaire____::5f532a3fc4f1ea403f37070f59a7a53a"/> 
+                        <collectedfrom name="Crossref" id="openaire____::081b82f96300b6a6e3d282bad31cb6e2"/> 
+                        <collectedfrom name="Microsoft Academic Graph"
+                                       id="openaire____::5f532a3fc4f1ea403f37070f59a7a53a"/> 
+                        <hostedby name="Unknown Repository" id="openaire____::55045bd2a65019fd8e6741a755395c8c"/> 
+                        <hostedby name="Unknown Repository" id="openaire____::55045bd2a65019fd8e6741a755395c8c"/> 
+                        <hostedby name="Whiteness and Education"
+                                  id="issn___print::b48845d9850986278c0821af1643c260"/> 
+                        <dateofacceptance>2018-07-03</dateofacceptance> 
+                        <instancetype classid="0038" classname="Other literature type"
+                                      schemeid="dnet:publication_resource"
+                                      schemename="dnet:publication_resource"/> 
+                        <instancetype classid="0001" classname="Article" schemeid="dnet:publication_resource"
+                                      schemename="dnet:publication_resource"/> 
+                        <pid classid="doi" classname="Digital Object Identifier" schemeid="dnet:pid_types"
+                             schemename="dnet:pid_types">10.1080/23793406.2019.1574211</pid> 
+                        <alternateidentifier classid="mag_id" classname="Microsoft Academic Graph Identifier"
+                                             schemeid="dnet:pid_types"
+                                             schemename="dnet:pid_types">2912365194</alternateidentifier> 
+                        <alternateidentifier classid="mag_id" classname="Microsoft Academic Graph Identifier"
+                                             schemeid="dnet:pid_types"
+                                             schemename="dnet:pid_types">2912365194</alternateidentifier> 
+                        <alternateidentifier classid="doi" classname="Digital Object Identifier" schemeid="dnet:pid_types"
+                                             schemename="dnet:pid_types">10.1080/23793406.2019.1574211</alternateidentifier> 
+                        <alternateidentifier classid="doi" classname="Digital Object Identifier" schemeid="dnet:pid_types"
+                                             schemename="dnet:pid_types">10.1080/23793406.2019.1574211</alternateidentifier> 
+                        <refereed classid="0001" classname="peerReviewed" schemeid="dnet:review_levels"
+                                  schemename="dnet:review_levels"/> 
+            	           <webresource>
+            	              <url>https://doi.org/10.1080/23793406.2019.1574211</url>
+            	           </webresource> 
+                     </instance> 
+                  </children>
+               </oaf:result>
+
+            </oaf:entity>
+         </metadata>
+      </result>
+						</results>
+	  <browseResults>
+								</browseResults>
+</response>

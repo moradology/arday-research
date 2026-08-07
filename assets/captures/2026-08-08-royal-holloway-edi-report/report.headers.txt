@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 03:35:34 GMT
+content-type: application/pdf
+content-length: 908190
+vary: Accept-Encoding
+cache-control: max-age=1800
+etag: "1dbe42c0c18791e"
+last-modified: Mon, 23 Jun 2025 10:46:17 GMT
+strict-transport-security: max-age=2592000
+request-context: appId=cid-v1:ad2d455e-8988-4c4c-aba2-c7f4015b46ac
+x-frame-options: SameOrigin
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-azure-ref: 20260807T033534Z-1765547f68466tpchC1CHIpwe80000000q90000000005w58
+x-cache: TCP_MISS
+x-fd-int-roxy-purgeid: 205
+accept-ranges: bytes
+

@@ -1,0 +1,29 @@
+HTTP/2 301 
+date: Thu, 06 Aug 2026 16:29:44 GMT
+content-type: text/html; charset=UTF-8
+location: https://infoagepub.com/products/Teaching-About-Social-Justice-Issues-in-Physical-Education
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4AaXm%2BTz1m%2FZ4WzTbYDOxZp6KZcmGCsn7ByfBmFCfNVuWw38rpFfWRSlHoDTJMzTNSt%2Bz%2FGBi6sEqf0N2M6yP3G88ymJtYo0kBs6IyYK9IDiInW%2FvWIVndvSwbq6GujV8fFvwZ8%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a26f6c114f811bb9-OMA
+
+HTTP/2 301 
+date: Thu, 06 Aug 2026 16:29:44 GMT
+content-length: 0
+location: https://bookstore.emerald.com/findproduct?sku=9781641137195
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wvbZjIHWO0dAn%2B06bbbLH9x8R2Ydd5rSh3ZcJm%2B68lxjlNHhIGvrApaPCov49e2PiAhgqspY7lpxT3pfHVCS48U6HhFdcHkxVGutt%2B4TA416qDF9qD%2B8aZHcfC%2BeKs7LdA%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a26f6c11fafed3d3-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 403 
+date: Thu, 06 Aug 2026 16:29:44 GMT
+content-type: text/html; charset=UTF-8
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+referrer-policy: same-origin
+x-frame-options: SAMEORIGIN
+server: cloudflare
+cf-ray: a26f6c127f0150e6-OMA
+

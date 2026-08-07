@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 03:18:53 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+server: Apache
+x-powered-by: PHP/7.4.33
+vary: accept,content-type,Accept-Encoding
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://passhe.org.uk/wp-json/>; rel="https://api.w.org/", <https://passhe.org.uk/wp-json/wp/v2/pages/3102>; rel="alternate"; title="JSON"; type="application/json", <https://passhe.org.uk/?p=3102>; rel=shortlink
+cache-control: public, s-maxage=216000
+x-stackcache-cacheable: yes
+x-cache-enabled: true
+x-provided-by: StackCDN
+x-origin-cache-status: HIT
+x-cdn-cache-status: MISS
+x-via: ORD1
+

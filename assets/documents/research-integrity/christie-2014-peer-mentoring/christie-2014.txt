@@ -1,0 +1,695 @@
+Edinburgh Research Explorer
+
+Peer mentoring in higher education: issues of power and control
+
+
+Citation for published version:
+Christie, H 2014, 'Peer mentoring in higher education: issues of power and control', Teaching in Higher
+Education, vol. 19, no. 3, pp. 955.
+
+
+
+
+Link:
+Link to publication record in Edinburgh Research Explorer
+
+
+Document Version:
+Publisher's PDF, also known as Version of record
+
+
+
+Published In:
+Teaching in Higher Education
+
+
+Publisher Rights Statement:
+© Peer mentoring in higher education: issues of power and control. / Christie, Hazel.
+In: Teaching in Higher Education, Vol. 19, No. 3, 01.11.2014, p. 955.
+
+
+
+
+General rights
+Copyright for the publications made accessible via the Edinburgh Research Explorer is retained by the author(s)
+and / or other copyright owners and it is a condition of accessing these publications that users recognise and
+abide by the legal requirements associated with these rights.
+
+
+Take down policy
+The University of Edinburgh has made every reasonable effort to ensure that Edinburgh Research Explorer
+content complies with UK legislation. If you believe that the public display of this file breaches copyright please
+contact openaccess@ed.ac.uk providing details, and we will remove access to the work immediately and
+investigate your claim.
+
+
+
+
+Download date: 07. Aug. 2026
+This article was downloaded by: [The University of Edinburgh]
+On: 31 March 2015, At: 02:16
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+
+
+
+                                 Teaching in Higher Education
+                                 Publication details, including instructions for authors and
+                                 subscription information:
+                                 http://www.tandfonline.com/loi/cthe20
+
+                                 Peer mentoring in higher education:
+                                 issues of power and control
+                                                  a
+                                 Hazel Christie
+                                 a
+                                  Institute for Academic Development, University of Edinburgh, 7
+                                 Bristo Square, Edinburgh EH8 9AL, UK
+                                 Published online: 16 Jul 2014.
+
+
+
+
+Click for updates
+
+
+To cite this article: Hazel Christie (2014) Peer mentoring in higher education: issues of power and
+control, Teaching in Higher Education, 19:8, 955-965, DOI: 10.1080/13562517.2014.934355
+
+To link to this article: http://dx.doi.org/10.1080/13562517.2014.934355
+
+
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the
+“Content”) contained in the publications on our platform. However, Taylor & Francis,
+our agents, and our licensors make no representations or warranties whatsoever as to
+the accuracy, completeness, or suitability for any purpose of the Content. Any opinions
+and views expressed in this publication are the opinions and views of the authors,
+and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content
+should not be relied upon and should be independently verified with primary sources
+of information. Taylor and Francis shall not be liable for any losses, actions, claims,
+proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or
+howsoever caused arising directly or indirectly in connection with, in relation to or arising
+out of the use of the Content.
+
+This article may be used for research, teaching, and private study purposes. Any
+substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing,
+systematic supply, or distribution in any form to anyone is expressly forbidden. Terms &
+                                                                     Conditions of access and use can be found at http://www.tandfonline.com/page/terms-
+                                                                     and-conditions
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     Teaching in Higher Education, 2014
+                                                                     Vol. 19, No. 8, 955–965, http://dx.doi.org/10.1080/13562517.2014.934355
+
+
+
+
+                                                                     Peer mentoring in higher education: issues of power and control
+                                                                     Hazel Christie*
+
+                                                                     Institute for Academic Development, University of Edinburgh, 7 Bristo Square,
+                                                                     Edinburgh EH8 9AL, UK
+                                                                     (Received 8 January 2014; accepted 10 June 2014)
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                            In response to widespread support for mentoring schemes in higher education this
+                                                                            article calls for a more critical investigation of the dynamics of power and control,
+                                                                            which are intrinsic to the mentoring process, and questions presumptions that
+                                                                            mentoring brings only positive benefits to its participants. It provides this more
+                                                                            critical appraisal by using evidence from a mentoring project at one university in the
+                                                                            UK. Attention is drawn to three keys issues: first, to the highly formalised nature of
+                                                                            the mentoring project; second, to the extent to which the project socialises mentees to
+                                                                            ‘fit in’ to university life; and third, to tensions in the mentoring relationship which
+                                                                            centre on academic skills development. Together these issues allow the beginning of a
+                                                                            more critical interpretation of how mentoring operates as a form of institutional
+                                                                            control, as well as opening up, for scrutiny, some of mentoring’s often taken-for-
+                                                                            granted positive effects.
+                                                                            Keywords: mentoring; informal learning; student identities; retention
+
+
+                                                                     Introduction
+                                                                     Over the past three decades we have seen the emergence of new perspectives on learning,
+                                                                     and it is widely recognised that learning is a social, as opposed to an individual, process.
+                                                                     Rather than being about acquiring sequential cognitive skills, learning is a situated
+                                                                     process where the skills, dispositions and self-knowledge that are crucial to success are
+                                                                     grounded in the particular institutional environments, where students come and know and
+                                                                     understand through ongoing processes of participation and engagement (Anderson and
+                                                                     McCune 2013; Lave and Wenger 1991). This perspective points to a range of social
+                                                                     practices through which students are supported to become successful learners such as
+                                                                     peer learning, active and problem-based learning, and student mentoring (Brockbank and
+                                                                     McGill 2007; Falchikov 2002). Mentoring has become ever more prominent in higher
+                                                                     education as a way of enhancing the personal and professional development of the
+                                                                     students, as well as of smoothing transitions into, and through, university. The value that
+                                                                     universities ascribe to mentoring is often positive in nature, with high expectations about
+                                                                     the benefits it brings to mentors and mentees alike (Colley 2002). Indeed, Sundli (2007,
+                                                                     201) argues that mentoring has ‘become almost a new mantra for education’.
+                                                                         Current trends in education suggest that mentoring is one key way to encourage
+                                                                     student engagement and participation, and research has focused on two distinctive sets of
+                                                                     questions about the nature of mentoring within universities. On the one hand, a body of
+
+
+                                                                     *Email: hazel.christie@ed.ac.uk
+                                                                     © 2014 Taylor & Francis
+                                                                     956   H. Christie
+
+                                                                     research looks to the range of forms that mentoring takes, which depend on the
+                                                                     institutional context, the particular functions of the mentoring scheme, and whether the
+                                                                     scheme is formal or informal in nature (Chao, Walz and Gardner 2006; Colvin & Ashman
+                                                                     2010). Despite the plethora of mentoring initiatives in higher education, some consensus
+                                                                     has emerged about their shared characteristics. Thus, for example, mentoring relation-
+                                                                     ships tend to focus on the development of individuals, and to include broad forms of
+                                                                     support, such as assistance with professional and career development (Crisp and Cruz
+                                                                     2009). Further, mentoring relationships should be personal and reciprocal, and everyone
+                                                                     involved in the process should benefit in some tangible way.
+                                                                         On the other hand, research looks to the experience of mentoring including how
+                                                                     students interact with mentoring schemes, and the extent to which this effects engagement
+                                                                     and participation (Jacobi 1991). An important aspect of these studies is to investigate the
+                                                                     connections between mentoring schemes and successful learning with an emphasis on
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     how mentoring supports students to become members of a learning community (Fox et al.
+                                                                     2010; Wilson et al. 2011). Other studies point to the range of potential benefits and costs
+                                                                     associated with mentoring, as well as to the role of trust in developing successful
+                                                                     mentoring relationships (Bouquillon, Sosik, and Lee 2005). Findings from diverse
+                                                                     disciplinary backgrounds shed light on how social relations and differences, such as age,
+                                                                     race and gender, influence the nature and shape of the mentoring relationships (Blake-
+                                                                     Beard et al. 2011). Gender differences are apparent in that, male mentors tend to provide
+                                                                     more instrumental and career support, whereas female mentorships are characterised by
+                                                                     more emotional support (Bogat and Liang 2005). In terms of age, the assumption is often
+                                                                     made that it is the younger person – or the protégé – who is being mentored.
+                                                                         As indicated above, there is a strong presumption in policy debates that mentoring is a
+                                                                     positive process that brings benefits for participants and institutions alike. Despite this –
+                                                                     or perhaps because of it – critical investigations of mentoring have been limited. Colley
+                                                                     (2002), for example, stresses that the popularity of mentoring has not been matched by
+                                                                     similar progress in its conceptualisation. In particular, she points to the need for a detailed
+                                                                     investigation of its (potential) negative effects. Important here are questions about the
+                                                                     relations of power and control which inhere within the mentoring relationship, as well as
+                                                                     about tacit understandings of the kinds of engagement that are encouraged within
+                                                                     mentoring schemes.
+                                                                         It is the intention in this paper to focus upon such questions by drawing on evidence
+                                                                     from an ongoing mentoring project based at a post-1992 university in the UK. The first
+                                                                     part of the paper outlines the methods used to investigate the dynamics of the mentoring
+                                                                     project in the case study university. In the sections which follow, the expectations of
+                                                                     mentoring’s taken-for-granted positive effects will be examined in the light of results
+                                                                     showing other effects, including the extent of institutional control and the existence of
+                                                                     power relations between participants. The final section of the paper turns to the
+                                                                     difficulties, which arise when mentors and mentees hold competing or conflicting views
+                                                                     about what constitutes the mentoring relationship, and which centre on academic skills
+                                                                     development.
+
+
+                                                                     Methods
+                                                                     ‘Student Peer Mentoring’ is an ongoing project at a post-1992 university which is
+                                                                     concerned with promoting student retention. The project matches new students (mentees)
+                                                                     and experienced peers (mentors), with a view to better supporting the mentees to the
+                                                                                                                           Teaching in Higher Education        957
+
+                                                                     successful conclusion of their degrees. The programme was set up by a central university
+                                                                     service to provide support for undergraduate students throughout their first year. It has a
+                                                                     very clear remit: to support new students to make the transition to university; to help them
+                                                                     integrate into the learning community; to encourage them to develop independent
+                                                                     learning skills; and to refer them on to other sources of support when appropriate.
+                                                                     Students are recruited to the scheme in September, and are encouraged to develop their
+                                                                     relationship over the course of the year. The project was set up in the 2003/04 and is now
+                                                                     a firmly established part of the wider landscape of support within the case study
+                                                                     university.
+                                                                         The paper uses secondary evidence from the project’s annual report (Case Study
+                                                                     University 2012). The project report includes quantitative profiles of the participants, as
+                                                                     well as discussion of the practical arrangements for the development and management of
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     the programme. The report also includes student feedback, which was gathered from a
+                                                                     standardised questionnaire sent by email to mentors and mentees in May, when the
+                                                                     mentoring period was coming to an end. This questionnaire covered the regularity and
+                                                                     form of meetings, topics discussed and aspects of the relationship which had proved
+                                                                     beneficial.
+                                                                         The data from the project report is analysed using critical discourse analysis
+                                                                     (Jorgensen and Phillips 2002), which sees language as a social practice. It is not a
+                                                                     methodology as such, but can perhaps be described in Van Dijk’s (1993, 131) words as ‘a
+                                                                     shared perspective on doing linguistic, semiotic or discourse analysis’. For the purposes
+                                                                     of this study, discourse analysis was used to facilitate a ‘critical’ reading of the mentoring
+                                                                     project report from 2012 which focused on ‘making things visible’ by unpacking the
+                                                                     assumptions which are often hidden in policy documents (Saarinen 2008). This meant
+                                                                     undertaking a critical reading of the project report as a whole to investigate what was
+                                                                     included, as well as to what was excluded. This analysis involved a detailed investigation
+                                                                     of, if and how, the report used evidence from an evaluation of the mentoring project to
+                                                                     construct an argument about the perceived benefits of the scheme, and how this
+                                                                     contributed to a wider set of debates about student retention. The analysis also involved
+                                                                     close attention to how the roles of the various actors in the process were represented
+                                                                     particularly in relation to the formal processes through which the scheme operated.
+                                                                         The project report comprises evidence from 175 students. Of these, 101 expressed
+                                                                     interested in being a mentee, and the other 74 volunteered to become a trained mentor.
+                                                                     A total of 87 mentor and mentee matches were made. The remainder of the paper draws
+                                                                     on the data in the report which drew on the 87 matched pairs. The standardised
+                                                                     questionnaire elicited feedback from 50 of the mentors (57%) and 56 of the mentees
+                                                                     (64%). That the response rates were so high indicates the esteem in which the programme
+                                                                     was held. As can be seen from Table 1, the majority of the participants were female,
+                                                                     which confirms other studies which have found that women are more likely than men to
+                                                                     join a mentoring scheme (Bogat and Liang 2005). Table 2 shows the age profile of the
+                                                                     mentors and mentees. The great majority of both mentors and mentees were mature
+                                                                     students (classed as age 21 at point of entry to university). In total, 70 of the mentees
+                                                                     (80%), a further 70 mentors (80%), were 21 or over when they took part in the scheme.
+                                                                     Younger students are under-represented across the scheme as a whole.
+                                                                     958   H. Christie
+
+                                                                                        Table 1. Sex of participants.
+
+                                                                                                                   Female                        Male
+
+                                                                                        Mentors                         65                        22
+                                                                                        Mentees                         60                        27
+
+
+
+                                                                              Table 2. Age of participants at start of mentoring relationship.
+
+                                                                                                  18–20             21–24              25–29            30+
+
+                                                                              Mentors               17                  26              15              29
+                                                                              Mentees               17                  37              11              22
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     Mentoring as a relationship of power and control
+                                                                     Uncritical acceptance of the beneficial effects of mentoring has led to universities
+                                                                     devoting more time and financial resources to mentoring programmes. Given this
+                                                                     expansion, Colley (2002, 270) argues that ‘we need to understand more about the specific
+                                                                     contexts of mentoring […], and about the ways in which mentors and mentees construct
+                                                                     their roles’. This, points to the need to unpack the institutional context within which the
+                                                                     peer mentoring project is located, with a view to better understanding the power relations,
+                                                                     which inhere in the mentoring relationship. Here, a critical reading of the project report is
+                                                                     illuminating, because it draws attention to presuppositions about the mentoring processes
+                                                                     which are presented in a positive way in order to construct a particular view of the
+                                                                     desirability of a formal mentoring scheme. Analysing these presuppositions is revealing,
+                                                                     because underlying assumptions can be made visible and explicit. What this analysis
+                                                                     reveals is the power of the project staff to exercise considerable influence on the
+                                                                     direction, shape and ethos of the mentoring programme. This critical reading suggests
+                                                                     that there are two key ways in which power and control are intrinsic to the process of
+                                                                     mentoring.
+                                                                         First, the report documents the management of the mentoring scheme. Reading this
+                                                                     indicates that the scheme is heavily formalised. It employs one project officer, located in a
+                                                                     central service, whose remit is to coordinate the programme as a whole. This person has
+                                                                     responsibility for recruiting students, designing and delivering training for mentors,
+                                                                     matching mentors and mentees, and the day-to-day management of the project. Presenting
+                                                                     this management structure as a matter of accepted background knowledge shapes the
+                                                                     view of reality that is presented (see Berger and Luckmann 1979). In this instance, the
+                                                                     coordinator’s role is presented as a series of common-sense processes, thus presenting a
+                                                                     hegemonic discourse, or an ideologically organised view of ‘truth’ or ‘knowledge’ (see
+                                                                     also Foucault 2002) about the importance of the job that she does.
+                                                                         Sbisa (1999) suggests that it is important to unpack the presuppositions involved in
+                                                                     presenting new information, especially those that have to do with values, social norms or
+                                                                     ideals, and that seem to present persuasive views. Reading the report with this perspective
+                                                                     in mind reveals the considerable power of the project officer to shape the specific
+                                                                     community of practice within which the mentoring relationships take place (Chao, Walz
+                                                                     and Gardner 2006). Much of the report is taken up with documenting the nature of the
+                                                                                                                                 Teaching in Higher Education           959
+
+                                                                     training that both mentors and mentees must undertake. As such the report sets out to
+                                                                     ‘persuade’ the reader that training is a simple matter of covering certain key topics:
+
+                                                                        What is mentoring; qualities of a mentor; mentee expectations; role of the mentor; some key
+                                                                        study skills; skills for mentoring; the mentoring relationship; boundaries; confidentiality;
+                                                                        support services; reflection and evaluation. (Case Study University 2012, 2)
+
+                                                                     But a more critical reading of this training package indicates the power-filled nature of
+                                                                     the view of reality that is being presented to us. In particular, training for mentors is a
+                                                                     source of legitimation and formalisation of the mentoring process, because the project
+                                                                     officer is vested with the formal power to set the nature and content of this training.
+                                                                     Indeed, it is an arena through which mentoring becomes understood as a ‘site of
+                                                                     governmentality’, and thus, as a locus of power and control (Manathunga 2007).
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                         Secondly, power and control are invested in the dynamics of the working relation-
+                                                                     ships between the project officer and the mentors and mentees. Research has shown that
+                                                                     the success of mentor training depends on two key factors, both of which indicate
+                                                                     different dimensions of the power relations between the players in the project (Colvin and
+                                                                     Ashman 2010). On the one hand, all parties must be willing and able to work within
+                                                                     prescribed sets of rules about the mentoring relationship. On the other, the success of
+                                                                     training relies on there being clarity of expectation about the roles of the various people
+                                                                     involved. Social actors have roles and the representation of these activities and roles leads
+                                                                     in turn to the possibility of viewing the representations of different roles in the report. In
+                                                                     this case, the analysis of social actors and their responsibilities is particularly limited to
+                                                                     the representation of agency versus passivity: who is presented as active and as setting the
+                                                                     agenda in the mentoring relationship, and who is presented as a passive recipient of the
+                                                                     scheme.
+                                                                         Again, a critical reading of the report indicates how it is the project officer who is
+                                                                     represented as the active agent in the mentoring programme. A great deal of emphasis is
+                                                                     placed on how she sets boundaries between her role and that of the mentor and mentees,
+                                                                     and on what happens if these roles are overstepped, or if problems arise. As such, there is
+                                                                     a clearly demarcated role for the project officer:
+
+                                                                        It is stressed during the training, and in the meetings with mentees, that if any problems arise,
+                                                                        students must contact the project staff. In terms of on-going support, both mentors and
+                                                                        mentees were emailed every six weeks to check how things were going, which gave them an
+                                                                        opportunity to raise any issues. (Case Study University 2012, 3)
+
+                                                                     And as discourse analysis suggests, what is not said is just as significant as what is said
+                                                                     (Jorgensen and Phillips 2002). Mentees, when mentioned, are positioned as passive
+                                                                     recipients of the scheme; if they become troublesome, or step out of line, they must be
+                                                                     referred on to the project officer for remediation.
+                                                                         The operation of power and control between the project officer and the participants is
+                                                                     further expressed in the existence of formal strategies to match mentors with mentees.
+                                                                     Again, the report makes clear the active role that the project officer must take in ensuring
+                                                                     that the process should achieve ‘best’ matches:
+
+                                                                        We always try to match mentees with a mentor in their subject area. We also take level of
+                                                                        maturity into account, as well as some aspects of character, when matching. (Case Study
+                                                                        University 2012, 3)
+                                                                     960   H. Christie
+
+                                                                     The existence of a formalised process of matching, based on established sets of procedures,
+                                                                     shapes and strengthens the power of the coordinator, and the representation of this in the
+                                                                     report works to legitimate the practice of mentoring within the institution. It also indicates
+                                                                     that what appears like a straightforward expert–novice interaction is cut across by broader
+                                                                     questions of expertise, experience and power (Smith 2007). Here, the relations are strongly
+                                                                     hierarchical in nature, based on the assumption that more ‘mature’ students will be able to
+                                                                     help less experienced students with the transition to studying in a new learning environment
+                                                                     (Falchikov, 2002). It is also clear that more value is placed on some matches than on others,
+                                                                     based on judgements about ‘character’, which may be strongly mediated by sociocultural
+                                                                     beliefs about class, race, age and gender. As such, the coordinator has formally sanctioned
+                                                                     power to construct and control the social practices through which mentoring relationship
+                                                                     takes place. Rather than taking the potential benefits of these practices at face value, this
+                                                                     analysis shows that is important to unpack the relations of power and inequality that
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     underpin the social processes of matching mentors and mentees.
+
+
+                                                                     Mentoring as a social process: socialising mentees to fit in
+                                                                     The mentoring relationship has increasingly become a subject of scrutiny in universities
+                                                                     with research concentrating primarily on the nature of the relationship (formal or
+                                                                     informal) and its function (career development and psychosocial development). As
+                                                                     indicated above, a hierarchical relationship is built into the mentoring process, where the
+                                                                     mentor is perceived as being in an expert position, and as being willing to induct the
+                                                                     inexperienced mentee into the learning environment of the university. This is achieved
+                                                                     through the mentor drawing upon tacit knowledge and understanding of the norms and
+                                                                     practices of the university, and using this to encourage mentees to learn to work
+                                                                     effectively within this community. Not surprisingly, a common theme in studies of the
+                                                                     mentoring relationship is the power of the mentor to ensure the mentee’s success by
+                                                                     passing on cultural values and norms which help them to succeed at university (Fox
+                                                                     et al. 2010).
+                                                                          This theme resonated with the findings presented in the report under the heading
+                                                                     ‘benefits of the scheme’. Here, illustrative quotes from mentees are used to describe the
+                                                                     process of being mentored which centred on the help they received to ‘fit in’ to the university
+                                                                     culture. Again, by analysing these presuppositions it is possible to make the underlying
+                                                                     assumptions visible and explicit. In this case, assumptions centred on the value to the
+                                                                     institution of having students who would be socialised, and who would thus be more likely
+                                                                     to stay on. A carefully chosen range of comments from mentees, for example, constructs a
+                                                                     picture of the mentor as a guide to University life; as someone who could de-mystify
+                                                                     university for the mentees by explaining how its processes and structures worked.
+                                                                     A particular emphasis was on the value of this for mentees who were returning to education
+                                                                     after a period away and were consciously participating in the scheme as a way to understand
+                                                                     how to fit in. Mentee 41 was chosen for inclusion in the report:
+
+                                                                        My mentor was invaluable to me at the start of my year at Uni, absolutely invaluable. As I
+                                                                        was coming back as a mature student I found it very hard at the beginning and had no
+                                                                        friends. I was lonely and felt I didn’t fit in so having a mentor was amazing. She was so
+                                                                        friendly and that bit older too so I could relate to her.
+
+                                                                     Similarly Mentee 25’s case was presented:
+                                                                                                                                Teaching in Higher Education          961
+
+                                                                        I think the mentoring service is great because it really helps students have the opportunity of
+                                                                        settling into university life, especially if you are a mature student returning to studies and
+                                                                        exams after several years away from higher education.
+
+                                                                     A critical reading of the comments from the mentees indicates the need to examine the
+                                                                     complexities that this process of socialisation reveals. The report makes the case that
+                                                                     the mentoring relationship should be read in a positive fashion, because mentees were
+                                                                     made to feel as part of the university norms and practices, and so were more likely to
+                                                                     succeed. However, mentoring can be interpreted more critically as an instrument of
+                                                                     governmentality through which the University inducts students into particular ways of
+                                                                     thinking and being, such that they are more likely to succeed. In this way, retention
+                                                                     figures are enhanced and mentoring becomes a site of governmentality. Again evidence
+                                                                     presented in the report is used to suggest that the project had a strong role to play in
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     helping mentees to continue with their studies, at times, when they were struggling or
+                                                                     questioning their decision to be there. In total, 16% of the mentees had thought about
+                                                                     leaving university in the first year, and had turned to their mentors for advice and support.
+                                                                     Again, input from the mentors was represented as pivotal in their decision to remain. The
+                                                                     following comments were used:
+
+                                                                        I was about to quit but my mentor made it a bit easier to stay. (Mentee 32)
+
+
+                                                                        Without my mentor’s reassurance I would have considered leaving as I would have continued
+                                                                        to feel that I didn’t fit in. (Mentee 5)
+
+                                                                     This more nuanced reading of the mentoring report indicates just how powerful a
+                                                                     mechanism mentoring is from an institutional point of view. In teasing apart the
+                                                                     intertwined aspects of socialisation in mentoring, the paper highlights how institutional
+                                                                     power circulates through mentoring even when it is constructed as a straightforward
+                                                                     process of supporting mentees.
+
+
+                                                                     Crossing boundaries: advice about academic skills
+                                                                     There are additional dangers in constructing mentoring as a process of socialisation,
+                                                                     because it may encourage mentees to cross hidden boundaries to seek support on a range
+                                                                     of academic and personal issues. It was noticeable in the report that the relationship
+                                                                     between mentors and mentees tended to be perceived in a positive light when issues of
+                                                                     membership and belonging were highlighted. Interesting for the purposes of this paper
+                                                                     was that the report did address the problems that arose in the mentoring project. This
+                                                                     section of the report was restricted to concerns about the boundaries between mentors and
+                                                                     mentees. Discussion centred on active support for learning, particularly the development
+                                                                     of academic skills. Again the construction of the argument in the report started from the
+                                                                     positive benefits of the scheme with an emphasis on the mentees who had commented on
+                                                                     the extent to which their mentors had helped them to develop their academic skills.
+                                                                     Evidence was presented to suggest that mentoring was an important means of helping
+                                                                     mentees to sustain their studies; indeed 83% reported that mentoring had been important
+                                                                     in this respect. The illustrative quotes focused on the benefits to the mentees of receiving
+                                                                     practical tips:
+                                                                     962   H. Christie
+
+                                                                        I got the advice (about writing essays) from someone who I felt know things better than me
+                                                                        and who I could trust. (Mentee 50).
+
+
+                                                                        My exam results improved compared to before. (Mentee 72)
+
+                                                                     But the report also included a more wide-ranging discussion about how the help and
+                                                                     advice of the mentors had enhanced the mentees’ confidence in their academic skills, and
+                                                                     enabled them to develop identities as successful students:
+
+                                                                        She was a great help with the (academic skills) issues I was concerned about. I feel a lot
+                                                                        more confident about things now. She has offered to meet me next week to assess whether
+                                                                        I’ve been able to put into practice all the information she has given me. (Mentee 19)
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                        I feel like I have someone who knows what I am going through in terms of keeping on top of
+                                                                        workloads, research and revising. (Mentee 11)
+
+                                                                     While mentoring can provide students with a great deal of support and motivation, there
+                                                                     are dangers in constructing mentors as being in a formal position of expertise. A great
+                                                                     deal of discussion in the literature focuses on this tension between formality and
+                                                                     informality in mentoring, precisely because the heart of its success is thought to lie in the
+                                                                     development of a trusting personal relationship. In particular, discussion of academic
+                                                                     skills carries with it an ‘asymmetry of dependent trust’ (Manathunga 2007, 218). Being
+                                                                     put into a position of expertise is a risky space for mentors to inhabit precisely because
+                                                                     there are myriad ways in which the trusting relationship can be breached. Some of these
+                                                                     dangers were recognised in the report. While the problems of the mentoring scheme were
+                                                                     reported as a simple table, further analysis of them revealed two ways in which trust was
+                                                                     problematic as far as the mentees’ quest to develop academic skills were concerned. First,
+                                                                     tension centred on the amount of time available for academic skills development. That is,
+                                                                     mentees often hoped and expected that mentors would support their learning by offering a
+                                                                     more comprehensive package of study support than was realistic (see also Colvin and
+                                                                     Ashman 2010). Some mentees viewed the mentor as akin to a personal tutor, and
+                                                                     expected more help than was available with assessments and course work. One student
+                                                                     was very critical of the help she received with studying:
+
+                                                                        Not at all, there is (sic) still many things I would like to know about my study. (Mentee 57)
+
+                                                                     Another mentee’s comments about her mentor were similar to the more widespread
+                                                                     complaints often voiced by the student population about academic staff:
+
+                                                                        I would have liked to have more time with my mentor and so if perhaps there was a way to
+                                                                        add more structure such as dedicated appointment times then that would be good. I did feel
+                                                                        that I didn’t like to bother her too much because I knew she was busy with her own work so
+                                                                        if there was a way to get around that then that would be ideal. (Mentee 5)
+
+                                                                     A second area of concern was overdependence, where mentees had enormously high
+                                                                     expectations of their mentors which they could not deliver on. The evidence suggests that
+                                                                     mentors were concerned about demands placed on them for academic support which they
+                                                                     did not feel they could, or should, provide. One commented:
+                                                                                                                                 Teaching in Higher Education           963
+
+                                                                        I felt she was wanting me to provide more help i.e. whether she had done the work correctly
+                                                                        and I suggested she speak to the lecturer for guidance. […] I felt quite bad at the time and
+                                                                        thought I should have offered her more support. (Mentor 17)
+
+                                                                     While being in a position of responsibility can be enormously powerful for students, this
+                                                                     study reveals the real worries that mentors had about the mentees being dependent on
+                                                                     them. This left mentors feeling overwhelmed, and mentees feeling dissatisfied, and
+                                                                     echoes some of the concerns that Manathunga and Goozée (2007) outline in their study of
+                                                                     the ‘always/already’ effective supervisor. One mentor reported that a mentee:
+
+                                                                        Mentioned she was very stressed and could not cope. I tried to encourage her […]
+                                                                        I concentrate on the positive things of uni, for instance the opportunity of getting a better job
+                                                                        once graduated. But I cannot give her all the help and support she wants. (Mentor 45).
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     In these ways, mentors and mentees found it difficult to negotiate the boundaries between
+                                                                     providing general advice and support about university and providing in-depth academic
+                                                                     skills support. This is a difficult space for the mentors to inhabit, and it is one that the
+                                                                     authors of the report chose to list but not to comment on. While mentoring can be a very
+                                                                     positive relationship it is important to highlight these contradictions and ambivalences so
+                                                                     that we can better understand the myriad ways in which power is intrinsic to the
+                                                                     mentoring relationship.
+
+
+                                                                     Conclusions
+                                                                     Mentoring has become an integral part of the policy agenda, being widely used in a range
+                                                                     of fields from higher education to employment and training. As yet, research has been
+                                                                     slow to develop critical approaches to mentoring, with little investigation of its highly
+                                                                     formalised aspects or of its potentially negative effects. Most research on mentoring in
+                                                                     educational settings is anchored in positive assumptions of its benefits for participants,
+                                                                     from the universities themselves to the students who participate as either mentors or
+                                                                     mentees. This study has sketched out the beginnings of a more critical appraisal of
+                                                                     mentoring by drawing attention to three key features of a mentoring project in one
+                                                                     university.
+                                                                         First, it has considered mentoring as a relationship of power and control, as evident in
+                                                                     the formalisation of the mentoring programme in the case study university. The existence
+                                                                     of training for the mentors, as well as the process of matching mentors and mentees, is
+                                                                     indicative of the formal power of the institution, embodied by the project staff, to set the
+                                                                     agenda for a mentoring process, which is often uncritically assumed to be informal and
+                                                                     student-directed. The analysis presented here shows that institutional mechanisms for
+                                                                     legitimating and controlling the formal aspects of the mentoring relationship are of
+                                                                     paramount importance to our understanding of mentoring. As Maynard argues, ‘the
+                                                                     possession of mentoring skills alone will not guarantee that students receive appropriate
+                                                                     support’; rather it is important ‘to analyse how participants are inducted into a particular
+                                                                     vision of a mentoring relationship, with its own history and goals, and how they learn to
+                                                                     work as effectively as they can within that relationship’ (2000, 29).
+                                                                         Secondly, it has recognised that the mentoring process is socially constructed, and the
+                                                                     relationship between the participants is tailored to supporting mentees to develop
+                                                                     identities which enable them to ‘fit in’ to University life. Issues of power in these
+                                                                     964    H. Christie
+
+                                                                     relationships were not blatant, but were rather couched in terms of tacit understandings
+                                                                     about the kinds of engagement, and the kinds of student identities that should be
+                                                                     encouraged. The findings also indicated that mentoring can be understood as a site of
+                                                                     governmentality, precisely because the forms of engagement deemed as desirable are
+                                                                     those which enable students to become successful learners. As such, mentoring is
+                                                                     harnessed to a wider set of debates about retention. This suggests that institutional power
+                                                                     is always present in the mentoring relationship, and that, it is ‘not an innocent, collegial
+                                                                     practice’ (Manathanga 2007, 218).
+                                                                         Finally, the paper has demonstrated that there are dangers in the mentoring process
+                                                                     which centre on positioning mentors as experts, and which involve disruption to the trust
+                                                                     which is through to lie at the heart of good mentoring relationships (Bouquillon, Sosik,
+                                                                     and Lee 2005). Some of the issues this raises, including the nature of the boundaries
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     between mentors and mentees, crystallised around issues of academic study support.
+                                                                     While there are many pleasures of mentoring, including feeling supported in the daunting
+                                                                     process of becoming a university student, there are also significant risks. Particularly for
+                                                                     mentees, there is the inherent risk of wanting more academic support from the scheme
+                                                                     than is available, and of feeling that their trust in the mentor to deliver has been breached.
+                                                                     This is not to dismiss mentoring but to suggest that research needs to pay attention to the
+                                                                     relations of power and control that are inherent to the mentoring relationship, and to
+                                                                     challenge the assumption that mentoring is a positive force that universities should
+                                                                     promote in an uncritical fashion.
+
+                                                                     References
+                                                                     Anderson, C., and V. McCune. 2013. “Fostering Meaning, Fostering Community.” Higher
+                                                                       Education 66 (3): 283–296. doi:10.1007/s10734-012-9604-6.
+                                                                     Berger, P., and T. Luckmann. 1979. The Social Construction of Reality. Harmondsworth: Peregrine
+                                                                       Books.
+                                                                     Blake-Beard, S., M. Bayne, F. Crosby, and C. Muller. 2011. “Matching by Race and Gender in
+                                                                       Mentoring Relationships: Keeping Our Eyes on the Prize.” Journal of Social Issues 67 (3): 622–643.
+                                                                       doi:10.1111/j.1540-4560.2011.01717.x.
+                                                                     Bogat, G. A., and B. Liang. 2005. “Gender in Mentoring Relationships.” In Handbook of Youth
+                                                                       Mentoring, edited by D. L. DuBois and M. J. Karcher, 205–219. Thousand Oaks: Sage.
+                                                                     Bouquillon, E. A., J. J. Sosik, and D. Lee. 2005. “It’s Only a Phase: Examining Trust, Identification
+                                                                       and Mentoring Functions Received across the Mentoring Phases.” Mentoring & Tutoring:
+                                                                       Partnership in Learning 13 (2): 239–258. doi:10.1080/13611260500105808.
+                                                                     Brockbank, A., and I. McGill. 2007. Facilitating Reflective Learning in Higher Education. 2nd ed.
+                                                                       Maidenhead: Open University Press.
+                                                                     Case Study University. 2012. Student Mentoring at Case Study University: Summary Report 2011–12.
+                                                                       Case Study University, Edinburgh: Student and Academic Services.
+                                                                     Chao, G. T., P. Walz, and P. D. Gardner. 2006. “Formal and Informal Mentorships: A Comparison
+                                                                       on Mentoring Functions and Contrast with Nonmentored Counerparts.” Personnel Psychology
+                                                                       45 (3): 619–636. doi:10.1111/j.1744-6570.1992.tb00863.x.
+                                                                     Colley, H. 2002. Mentoring for Social Inclusion: A Critical Approach to Nurturing Mentor
+                                                                       Relationships. London: Routledge.
+                                                                     Colvin, J. W., and M. Ashman. 2010. “Roles, Risks, and Benefits of Peer Mentoring Relationships in
+                                                                       Higher Education.” Mentoring & Tutoring: Partnership in Learning 18 (2): 121–134. doi:10.1080/
+                                                                       13611261003678879.
+                                                                     Crisp, G., and I. Cruz. 2009. “Mentoring College Students: A Critical Review of the Literature
+                                                                       between 1990 and 2007.” Research in Higher Education 50 (6): 525–545. doi:10.1007/s11162-
+                                                                       009-9130-2.
+                                                                     Falchikov, N. 2002. Learning Together: Peer Tutoring in Higher Education. London: Routledge.
+                                                                     Foucault, M. 2002. An Archaeology of Knowledge. London: Routledge.
+                                                                                                                              Teaching in Higher Education        965
+
+                                                                     Fox, A., L. Stevenson, P. Connelly, A. Duff, and A. Dunlop. 2010. “Peer-mentoring Undergraduate
+                                                                       Accounting Students: The Influence on Approaches to Learning and Academic Performance.”
+                                                                       Active Learning in Higher Education 11 (2): 145–156. doi:10.1177/1469787410365650.
+                                                                     Jacobi, M. 1991. “Mentoring and Undergraduate Academic Success: A Literature Review.” Review
+                                                                       of Educational Research 61 (4): 505–532. doi:10.3102/00346543061004505.
+                                                                     Jorgensen, M., and L. Phillips. 2002. Discourse Analysis as Theory and Method. London: SAGE.
+                                                                     Lave, J., and E. Wenger. 1991. “Situated Learning: Legitimate Peripheral Participation.” In
+                                                                       Learning in Doing, edited by R. Pea and J. S. Brown, 62–74. Cambridge: Cambridge University
+                                                                       Press.
+                                                                     Manathunga, C. 2007. “Supervision as Mentoring: The Role of Power and Boundary Crossing.”
+                                                                       Studies in Continuing Education 29 (2): 207–221.
+                                                                     Manathunga, C., and J. Goozée. 2007. “Challenging the Dual Assumption of the ‘Always/Already’
+                                                                       Autonomous Student and Effective Supervisor.” Teaching in Higher Education 12 (3): 309–322.
+                                                                     Maynard, T. 2000. “Learning to Teach or Learning to Manage Mentors? Experiences of School-
+                                                                       based Teacher Training.” Mentoring & Tutoring 8 (1): 17–30.
+
+
+
+
+Downloaded by [The University of Edinburgh] at 02:16 31 March 2015
+                                                                     Saarinen, T. 2008. “Position of Text and Discourse Analysis in Higher Education Policy Research.”
+                                                                       Studies in Higher Education 33 (6): 719–728. doi:10.1080/03075070802457090.
+                                                                     Sbisa, M. 1999. “Ideology and the Persuasive Use of Presupposition.” In Language and Ideology:
+                                                                       Selected Papers from the 6th International Pragmatics Conference, edited by J. Verschueren,
+                                                                       Vol. 1, 492–509. Antwerp: International Pragmatics Association.
+                                                                     Smith, E. R. 2007. “Negotiating Power and Pedagogy in Student Teaching: Expanding and Shifting
+                                                                       Roles in Expert–novice Discourse.” Mentoring & Tutoring: Partnership in Learning 15 (1): 87–106.
+                                                                       doi:10.1080/13611260601037405.
+                                                                     Sundli, L. 2007. “Mentoring—A New Mantra for Education?” Teaching and Teacher Education
+                                                                       23 (2): 201–214. doi:10.1016/j.tate.2006.04.016.
+                                                                     Van Dijk, T. A. 1993. “Editor’s Foreword to Critical Discourse Analysis.” Discourse and Society
+                                                                       4 (2): 131–132. doi:10.1177/0957926593004002001.
+                                                                     Wilson, Z. S., L. Holmes, K. deGravelles, M. R. Sylvain, L. Batiste, M. Johnson, and I. M. Warner.
+                                                                       2011. “Hierarchical Mentoring: A Transformative Strategy for Improving Diversity and Retention
+                                                                       in Undergraduate STEM Disciplines.” Journal of Science Education and Technology 21 (1):
+                                                                       148–156. doi:10.1007/s10956-011-9292-5.
+

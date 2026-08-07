@@ -1,0 +1,11 @@
+HTTP/2 200 
+server: nginx/1.30.4
+date: Thu, 06 Aug 2026 22:44:22 GMT
+content-type: application/pdf
+content-length: 123129
+last-modified: Wed, 02 Oct 2024 09:58:14 GMT
+etag: "66fd1936-1e0f9"
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+x-clacks-overhead: GNU Terry Pratchett
+accept-ranges: bytes
+

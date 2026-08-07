@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: video/mp4
+content-length: 5462715
+date: Thu, 06 Aug 2026 16:58:25 GMT
+last-modified: Thu, 02 Mar 2023 12:32:36 GMT
+etag: "b4fae4a78becccd96230bfc4d879cd0d"
+x-amz-storage-class: GLACIER_IR
+x-amz-server-side-encryption: AES256
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 62bd0bb5da0f14d62bdae0c2ab5e672e.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: Z3Zy8oTAFIfGNomYT0r4tX7E5xTgh-g04FUh2hwKwqqvVqgPxedJbw==
+vary: Origin
+

@@ -1,0 +1,21 @@
+HTTP/1.1 303 See Other
+Date: Fri, 07 Aug 2026 16:46:48 GMT
+Server: Apache
+Cache-Control: private, max-age=0, must-revalidate
+Allow: GET,HEAD,PUT,PATCH,OPTIONS
+Location: https://kar.kent.ac.uk/81378/1/Attempting%20to%20break%20the%20chain%20reimaging%20inclusive%20pedagogy%20and%20decolonising%20the%20curriculum%20within%20the%20academy.pdf
+Strict-Transport-Security: max-age=31536000
+Content-Length: 0
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 16:46:49 GMT
+Server: Apache
+Cache-Control: private, max-age=0, must-revalidate
+ETag: d282adbbfc6cba7acad33f16de587588
+Content-MD5: 0oKtu/xsunrK0z8W3lh1iA==
+Last-Modified: Thu, 08 Dec 2022 12:56:28 GMT
+Expires: Sat, 07 Aug 2027 16:46:49 GMT
+Content-Disposition: inline; filename=Attempting%20to%20break%20the%20chain%20reimaging%20inclusive%20pedagogy%20and%20decolonising%20the%20curriculum%20within%20the%20academy.pdf
+Accept-Ranges: bytes
+Content-Length: 494398
+Strict-Transport-Security: max-age=31536000
+Content-Type: application/pdf

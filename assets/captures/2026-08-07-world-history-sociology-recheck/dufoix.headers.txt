@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 06:32:17 GMT
+Server: Apache/2.4.25 (Debian)
+Strict-Transport-Security: max-age=15552000
+Set-Cookie: PHPSESSID=1ti54bg1cd86jq1ncivtpb4bh1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Distributor: yes
+X-Pingback: https://u-paris.fr/global-research-institute-paris/xmlrpc.php
+Set-Cookie: pll_language=fr; expires=Sat, 07-Aug-2027 06:32:17 GMT; Max-Age=31536000; path=/; secure
+Link: <https://u-paris.fr/global-research-institute-paris/wp-json/>; rel="https://api.w.org/"
+Link: <https://u-paris.fr/global-research-institute-paris/?p=16097>; rel=shortlink
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 13268
+Content-Type: text/html; charset=UTF-8
+

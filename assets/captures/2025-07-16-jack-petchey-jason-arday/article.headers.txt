@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 21:36:03 GMT
+content-type: text/html; charset=UTF-8
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+vary: accept, content-type,Accept-Encoding,User-Agent
+link: <https://enfielddispatch.co.uk/wp-json/>; rel="https://api.w.org/"
+link: <https://enfielddispatch.co.uk/wp-json/wp/v2/posts/21157>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://wp.me/pabrJk-5vf>; rel=shortlink
+x-litespeed-cache-control: public,max-age=604800
+x-litespeed-tag: 332_post,332_URL.9a964732e20becb15532499a5f6533e6,332_Po.21157,332_
+x-litespeed-cache: miss
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sWhmRNpet8X10HqifmJScan7%2FGFbnSWqVcMk4M2ksB9neQXG6%2FjW5mI45Neyz%2FXSAvnrifgCW%2B0e1Qo4qMC8%2BQCgSiQAJoY4HDnkNAJ29AZvORQrPPGHQKMafCKWT4UBoayqq8TlTBE%3D"}]}
+server: cloudflare
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+cf-ray: a2712cb4caa02bb1-OMA
+alt-svc: h3=":443"; ma=86400
+

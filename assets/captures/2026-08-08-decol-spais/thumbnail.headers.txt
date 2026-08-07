@@ -1,0 +1,18 @@
+HTTP/2 200 
+cache-control: max-age=2592000
+content-type: image/jpeg
+etag: "08563da32ccd6bac4c2c8173123e2f85"
+viewmaster-source-region: US-CENTRAL1
+via: 1.1 google, 1.1 varnish, 1.1 varnish
+access-control-allow-origin: *
+access-control-expose-headers: X-Viewmaster-Status
+access-control-max-age: 86400
+accept-ranges: bytes
+age: 0
+date: Fri, 07 Aug 2026 08:04:39 GMT
+x-served-by: cache-dfw-kdfw8210138-DFW, cache-chi-kmdw8640083-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786089879.891040,VS0,VE277
+content-length: 116543
+

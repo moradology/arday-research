@@ -1,0 +1,12 @@
+HTTP/1.1 200 
+Date: Fri, 07 Aug 2026 02:50:32 GMT
+Server:  
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Origin: *
+Content-Type: text/xml;charset=UTF-8
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Transfer-Encoding: chunked
+

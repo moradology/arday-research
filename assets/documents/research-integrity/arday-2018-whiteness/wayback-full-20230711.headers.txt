@@ -1,0 +1,53 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 17:12:48 GMT
+content-type: text/html;charset=UTF-8
+x-archive-orig-date: Tue, 11 Jul 2023 13:09:52 GMT
+x-archive-orig-transfer-encoding: chunked
+x-archive-orig-connection: keep-alive
+x-archive-orig-x-xss-protection: 1; mode=block
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-strict-transport-security: max-age=15552000
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-set-cookie: JSESSIONID=90A06BB29003C69979D5221A89B3E2D5; Path=/; Secure; HttpOnly
+x-archive-orig-set-cookie: SERVER=WZ6myaEXBLH8gZCK2k+5GQ==; path=/; domain=.tandfonline.com; secure; HttpOnly
+x-archive-orig-set-cookie: MAID=Z7CTfxv45abx7ifepyVX0w==; path=/; domain=.tandfonline.com; secure; HttpOnly; expires=Mon, 06 May 2024 13:09:52 GMT
+x-archive-orig-set-cookie: MACHINE_LAST_SEEN=2023-07-11T06%3A09%3A52.768-07%3A00; path=/; domain=.tandfonline.com; secure; HttpOnly; expires=Mon, 06 May 2024 13:09:52 GMT
+x-archive-orig-set-cookie: JSESSIONID=90A06BB29003C69979D5221A89B3E2D5; path=/; domain=.tandfonline.com; secure; HttpOnly; SameSite=None
+x-archive-orig-p3p: CP="NOI DSP ADM OUR IND OTC"
+x-archive-orig-cache-control: no-cache, no-store, must-revalidate
+x-archive-orig-x-webstats-respid: 902d6cb60477e84df60d164cdae99434
+x-archive-orig-link: </wro/mbtz~product.css>; rel=preload; as=style;
+x-archive-orig-link: </wro/mbtz~product.js>; rel=preload; as=script;
+x-archive-orig-link: </wro/mbtz~google-fonts.css>; rel=preload; as=style;
+x-archive-orig-link: </templates/jsp/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0>; rel=preload; as=font; crossorigin=anonymous; type=font/woff2
+x-archive-orig-link: </templates/jsp/_style2/_tandf/pb2/fonts/icomoon/icomoon.woff2?g276mb>; rel=preload; as=font; crossorigin=anonymous; type=font/woff2
+x-archive-orig-cf-cache-status: DYNAMIC
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-server: cloudflare
+x-archive-orig-cf-ray: 7e51488c0b6315ba-SJC
+content-encoding: gzip
+x-archive-orig-alt-svc: h3=":443"; ma=86400
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Tue, 11 Jul 2023 13:09:52 GMT
+link: <https://www.tandfonline.com/doi/full/10.1080/23793406.2019.1574211>; rel="original", <https://web.archive.org/web/timemap/link/https://www.tandfonline.com/doi/full/10.1080/23793406.2019.1574211>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.tandfonline.com/doi/full/10.1080/23793406.2019.1574211>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: spn2-20230712070352/spn2-20230711105757-wwwb-spn17.us.archive.org-8005.warc.gz
+server-timing: captures_list;dur=0.394856, exclusion.robots;dur=0.040339, exclusion.robots.policy;dur=0.032345, esindex;dur=0.007599, cdx.remote;dur=6.741185, LoadShardBlock;dur=110.832190, PetaboxLoader3.datanode;dur=62.486871, PetaboxLoader3.resolve;dur=1071.241952, load_resource;dur=1062.024540
+x-app-server: wwwb-app218-dc8
+x-ts: 200
+x-tr: 1194
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app218; path=/
+cache-control: private
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

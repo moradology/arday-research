@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="BEmkhOOXcv1fOo0QTgxzlJY3V4YOb2qOVpNBidxZ">
+
+        <title>OUPPS (Open University People Profile System)</title>
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+        <!-- Scripts -->
+        <link rel="preload" as="style" href="https://profiles.open.ac.uk/build/assets/app-f1a925b0.css" /><link rel="modulepreload" href="https://profiles.open.ac.uk/build/assets/app-d3292896.js" /><link rel="stylesheet" href="https://profiles.open.ac.uk/build/assets/app-f1a925b0.css" /><script type="module" src="https://profiles.open.ac.uk/build/assets/app-d3292896.js"></script>        
+        <!--Please don't remove the below meta tag. To remove the 'google site verification' meta tag need approval from OU Home business-->
+        <meta name="google-site-verification" content="ONiBPgDBPMuHbLge1MXCHk-9kKLjrEV85Fm_M1WViM4" />
+	
+	<!-- additional google identifier requested by wendy bradley -->
+	<meta name="google-site-verification" content="lP5WNrfabL8WR80zW96h8z6SWo9NUUTLg6-CMHM2JjA" />
+	
+	<!--This script is for MS Clarity From OUHome Business-->
+        <!--<script type="text/javascript">
+            (function (c, l, a, r, i, t, y) {
+                c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+                t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+                y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+            })(window, document, "clarity", "script", "h8wik4qrfk");
+        </script>-->
+        <!-- Before head -->
+        <!-- ou-head v2.0.0.542 -->
+
+        <meta property="og:image" content="https://www.open.ac.uk/ouheaders/18062025/gui/Open_University_OG_Image.png">
+        <meta property="og:image:alt" content="The Open University">
+        <meta property="twitter:image" content="https://www.open.ac.uk/ouheaders/18062025/gui/Open_University_OG_Image.png">
+        <meta property="og:title" content="OUPPS (Open University People Profile System)">
+        <!-- ou-head v2.0.0.542 -->
+
+        <script src="//cdn.optimizely.com/js/221317523.js"></script>
+
+        <!-- Google Tag Manager Generic Data Layer -->
+        <!-- Make sure any site specific layers happen before this line -->
+        <script>/*<![CDATA[*/window.dataLayer = window.dataLayer || [];/*]]>*/</script>
+        <!-- End Google Tag Manager Generic Data Layer -->
+        <!-- Google Tag Manager -->
+
+        <script>
+    /*<![CDATA[*/   (function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'
+                    }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-PPS2SH');
+                /*]]>*/</script>
+    <!-- End Google Tag Manager -->
+    
+    <link rel="stylesheet" href="https://profiles.open.ac.uk/build/assets/darkmode-overrides.css?v=1.01">
+	<style>
+		.ou-ia-footer-accessibility-statement {display:none !important}
+	</style>
+    </head>
+
+    <body class="font-sans antialiased bg-ou-body">
+        <div class="min-h-screen">
+            <meta property="og:image" content="https://www.open.ac.uk/ouheaders/gui/Open_University_OG_Image.png"><meta property="og:image:alt" content="The Open University"><meta property="twitter:image" content="https://www.open.ac.uk/ouheaders/gui/Open_University_OG_Image.png"><meta property="og:title" content="The Open University"><!-- ou-head v2.0.0.795 -->
+
+<script src="https://de.cdn-v3.conductrics.com/ac-LXFBNkXiNm/v3/agent-api/js/f-dWyHnIAdDA/dt-EzQ29xSsSbrFdEypQszyo9LrPicxDP?apikey=api-Yj4rznDbbdMSfZflSxhm7BLtxY"></script>
+
+<!-- Google Tag Manager Generic Data Layer -->
+<!-- Make sure any site specific layers happen before this line -->
+<script>/*<![CDATA[*/window.dataLayer = window.dataLayer || [];/*]]>*/</script>
+<!-- End Google Tag Manager Generic Data Layer -->
+
+<!-- Google Tag Manager -->
+
+<script>/*<![CDATA[*/   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://sgtm.open.ac.uk/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PPS2SH');
+   /*]]>*/</script>
+<!-- End Google Tag Manager -->
+<!-- Silktide scripting -->
+<script defer src="https://analytics.silktide.com/6df84daffb8465655442c815000dfa70.js"></script><script>
+      (function (s,i,l,k,y) {
+      s[i] = s[i] || y;
+      s[l] = s[l] || [];
+      s[k] = function(e, p) { p = p || {}; p.event = e; s[l].push(p); };
+      s[k]('page_load');
+      })(window, 'stConfig', 'stEvents', 'silktide', {});
+    </script>
+<!-- End Silktide scripting -->
+
+<!-- Start JS-->
+<script src="/ouheaders/js/headerfooter.min.js?2.0.0.795"></script>
+<!-- End JS replacement -->
+
+<!-- Stylesheets --><link rel="stylesheet" type="text/css" href="/ouheaders/gui/headerfooter.css?2.0.0.795" media="screen">
+
+<!--[if lt IE 9]><link rel="stylesheet" href="/ouheaders/gui/header-footer-ie.css" /><![endif]-->
+<link rel="stylesheet" href="/ouheaders/gui/headerfooter-print.css?2.0.0.795" media="print">
+
+<!-- Stylesheets For cassie cookie widget -->
+<link rel="stylesheet" type="text/css" href="/ouheaders/gui/cassiecookiewidget.css?2.0.0.795" media="screen">
+<!-- End of Stylesheets For cassie cookie widget -->
+
+<!-- End ou-head v2.0.0.795 -->
+
+<!-- ou-header v2.0.0.795 -->
+<div class="ou_gtaiframe"><noscript><iframe src="https://sgtm.open.ac.uk/ns.html?id=GTM-PPS2SH" height="0" width="0" style="display:none;visibility:hidden" name="GTM"></iframe></noscript></div>
+<div id="ou-head">
+   <div id="ou-header"><a class="ou-skip" href="#int-content" id="ou-skip-anchor-tutor-home" data-translate="true"><i class="int-icon int-icon-arrow-circle-down"></i>Skip to content
+         </a>
+      
+      <div id="ou-logo">
+         <a class="ou-logo england" href="https://www.open.ac.uk/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo roi" href="https://www.open.ac.uk/republic-of-ireland/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo nir" href="https://www.open.ac.uk/northern-ireland/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo scotland" href="https://www.open.ac.uk/scotland/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo wales" href="https://www.open.ac.uk/wales/en/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo cymraeg" href="https://www.open.ac.uk/wales/cy/" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         <a class="ou-logo nonav" href="javascript:void(0);" title="The Open University">
+            <img src="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Logo_Mobile.svg?2.0.0.795 2x" alt="The Open University">
+            </a>
+         </div>
+      <div id="mod-mobile-basket"><button onclick="javascript:mc_show_mobile_basket()" id="mod-basket-link" aria-label="Shopping cart - Your module choices"><i class="int-icon int-icon-shopping-cart int-icon-2x"></i><span id="mc-mobilecredits">0</span>cr
+            </button></div>
+      <div class="ou-identity">
+         <p class="ou-identity-name" data-hj-masked=""></p>
+      </div>
+      <div class="ou-mobile-menu-toggle-div"><a href="#" class="ou-mobile-menu-toggle icon-up" id="ou-mobile-menu-toggle"><img src="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795" srcset="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 1x, /ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 2x" alt="Toggle service links" title="Toggle service links"></a></div>
+      
+      <div id="ou-header-nav">
+         <div id="ou-service-links" aria-label="Your links" role="navigation">
+            <div id="ou-identity">
+               <p class="ou-identity-name" data-hj-masked=""></p>
+               <p id="ou-identity-id" data-hj-masked=""></p>
+            </div>
+            <ul>
+               <li class="ou-role-signin" id="ou-signin1"><a href="https://msds.open.ac.uk/signon/sams001.aspx" id="ou-signin2" data-translate="true">Sign in</a><span>|</span></li>
+               <li class="ou-role-signout ou-header-remove" id="ou-signout"><a href="https://msds.open.ac.uk/signon/samsoff.aspx" id="ou-signout2" data-translate="true">Sign out</a><span>|</span></li>
+               
+               <li id="ou-myaccount" class="ou-header-remove">
+                  <a href="https://msds.open.ac.uk/students/" data-translate="true">My Account</a>
+                  <span>|</span>
+                  </li>
+               
+               <li id="ou-studenthome" class="ou-header-remove">
+                  <a href="https://msds.open.ac.uk/students/" data-translate="true">StudentHome</a>
+                  <span>|</span>
+                  </li>
+               
+               <li id="ou-tutorhome" class="ou-header-remove">
+                  <a href="https://msds.open.ac.uk/tutorhome/" data-translate="true">TutorHome</a>
+                  <span>|</span>
+                  </li>
+               
+               <li id="ou-intranethome" class="ou-header-remove">
+                  <a href="https://intranet.open.ac.uk/oulife-home/" data-translate="true">IntranetHome</a>
+                  <span>|</span>
+                  </li>
+               
+               <li id="ou-contact"><a href="https://www.open.ac.uk/contact" data-translate="true" class="ou-ia-public" id="ou-public-contact">Contact the OU</a><a href="https://www2.open.ac.uk/students/help/your-contacts/" data-translate="true" class="ou-ia-student" id="ou-student-contact">Contact the OU</a><a href="https://www2.open.ac.uk/tutors/help/who-to-contact/" data-translate="true" class="ou-ia-tutor" id="ou-tutor-contact">Contact the OU</a><span>|</span></li>
+               <li><a href="https://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-accessibility-open-university" data-translate="true" class="ou-display-public-tutor">Accessibility hub</a><a href="https://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-accessibility-open-university/" data-translate="true" class="ou-ia-student">Accessibility hub</a></li>
+               <li class="ou-search ou-ia-public"><label for="ou-header-search-public" class="ou-hide" data-translate="true">Search the OU</label><input type="search" id="ou-header-search-public" class="ou-header-search" name="q" data-translate="true" placeholder="Search the OU" onkeyup="javascript: onSearchBoxInput(event);"><div class="ou-button-container"><button type="button" value="Search" id="search-button-header" onclick="submitSearch('ou-header-search-public');"><img src="/ouheaders/gui/Search_Icon_Magnifier.svg?2.0.0.795" srcset="/ouheaders/gui/Search_Icon_Magnifier.svg?2.0.0.795 1x, /ouheaders/gui/Search_Icon_Magnifier.svg?2.0.0.795 2x" alt="Search" title="Search"></button></div>
+               </li>
+            </ul>
+         </div>
+         <!-- end ou-service-links -->
+         <div class="ou-ia-nav" id="ou-ia-nav" aria-label="Main" role="navigation">
+            
+            <ul class="ou-ia-public">
+               
+               <li class="ou-ia-courses">
+                  <a href="https://www.open.ac.uk/courses">Courses</a>
+                  </li>
+               
+               <li class="ou-ia-postgraduate">
+                  <a href="https://www.open.ac.uk/postgraduate">Postgraduate</a>
+                  </li>
+               
+               <li class="ou-ia-inter_national">
+                  <a href="https://www.open.ac.uk/courses/international-students">International</a>
+                  </li>
+               
+               <li class="ou-ia-research">
+                  <a href="https://research.open.ac.uk/">Research</a>
+                  </li>
+               
+               <li class="ou-ia-about">
+                  <a href="https://about.open.ac.uk/">About</a>
+                  </li>
+               
+               <li class="ou-ia-news">
+                  <a href="https://www.open.ac.uk/blogs/news/">News &amp; media</a>
+                  </li>
+               
+               <li class="ou-ia-business">
+                  <a href="https://business.open.ac.uk/">Business &amp; apprenticeships</a>
+                  </li>
+               </ul>
+            </div>
+         <!-- end ou-ia-nav -->
+         </div>
+      <!--end ou-header-navigation-->
+      </div>
+</div><!-- End ou-header v2.0.0.795 -->
+
+
+            <style>
+.ou-subheading {
+ background-color: #d1dfee;
+}
+
+.ou-heading-container {
+padding-top: 2px;
+}
+
+.menulink {
+ color: #000000;
+ padding: 11px 12px;
+ font-weight: 500;
+ line-height: 45px;
+ margin-top: 2px;
+}
+
+.ou-subheading ul {
+list-style: none;
+}
+
+.ou-subheading li {
+display: inline-block;
+    font-size: 0.9rem;
+}
+
+.menulink:hover{
+ text-decoration: underline;
+}
+.menulink:active {
+border-top: 2px solid #0e56a7;
+background-color: #ffffff !important;
+}
+
+.active {
+border-top: 2px solid #0e56a7;
+ background-color: #ffffff !important;
+}
+</style>
+
+
+
+<nav class="ou-subheading">
+<div class="max-w-7xl mx-auto ou-heading-container">
+<ul>
+       <li> <a href="/" class="menulink active" data-id="home">OU Profiles homepage</a></li>
+                       <li> <a href="/login" class="menulink" data-id="edit">Edit my profile</a></li>                <li><a href="/userguide" class="menulink" data-id="userguide">User guide</a></li>
+        <li><a href="/accessibility-statement" data-id="accessibility" class="menulink">Accessibility Statement</a></li>
+</ul>
+</div>
+</nav>
+
+<script>
+
+var buttons = document.querySelectorAll('.menulink');
+var activeButton = document.querySelector('.menulink.active');
+
+var activeLink = localStorage.getItem('activeBtn')
+        if( activeLink  ) {
+                document.querySelector('.menulink[data-id=home]').classList.remove('active')
+                var savedLink = document.querySelector('.menulink[data-id='+activeLink+']');
+                console.log(savedLink)
+                if(savedLink) {
+                        savedLink.classList.add("active");
+                }
+        }
+
+buttons.forEach(button => {
+
+button.addEventListener('click', (el) => {
+if(activeButton) { 
+        activeButton.classList.remove('active');
+}
+    button.classList.add('active')
+    activeButton = button
+    localStorage.setItem('activeBtn', el.target.dataset.id )
+        });
+
+});
+
+</script>
+
+
+
+            <!-- Page Heading -->
+            
+            <!-- Page Content -->
+            <main>
+                <div>
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex grid grid-cols-12 gap-3">
+                <div class="col-span-12 md:col-span-3 md:sticky top-0 md:h-screen">
+
+                                        <img src="https://profiles.open.ac.uk/storage/profile_pictures/67800891eba91.jpg" class="rounded-lg mt-6" alt="Picture  of Rehana Awan">
+                                        <section id="contact" class="p-2 pt-4">
+                    <p>
+                        <h1 class="text-xl"><b>Ms Rehana Awan</b></h1>
+                    </p>
+                    <p class="pt-4">
+                                <svg height="1em" alt="Job Description" class="align-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12.25c1.24 0 2.25-1.01 2.25-2.25S13.24 7.75 12 7.75 9.75 8.76 9.75 10s1.01 2.25 2.25 2.25zm4.5 4c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9v-.75zM19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14z"/></svg>                    
+        Senior Lecturer
+    </p>
+                    <p class="pt-4">
+                        <a href="/?org_id=359">
+                                        <svg height="1em" alt="Org Unit" class="align-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3L1 9l11 6 9-4.91V17h2V9L12 3z"/></svg>                <!--<svg height="1em" alt="Org Unit" class="align-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M15 11V5l-3-3-3 3v2H3v14h18V11h-6zm-8 8H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm6 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm6 12h-2v-2h2v2zm0-4h-2v-2h2v2z"/></svg>-->
+                    
+        School of Computing &amp; Communications
+        </a>
+    </p>
+                    <p class="pt-4">
+                        <a href="mailto:rehana.awan@open.ac.uk">
+                                        <svg height="1em" alt="Email" class="align-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>                    
+        rehana.awan@open.ac.uk
+        </a>
+    </p>
+                                                                                
+                    <div class="flex flex-wrap gap-2 gap-y-4 mt-4">
+                                            </div>
+                    </section>
+                </div>   
+
+                <div class="col-span-12 md:col-span-7 main-profile">
+                        <div class="py-6 px-2 flex">
+                            
+                            <div class="flex-1" style="overflow: auto;">
+
+                                <section id="details" class="section space-y-1">
+                                    <div class="bg-white shadow-sm rounded-lg mb-6">
+                                        <div class="p-6">
+                                            <h2 class="text-xl">Biography</h2>
+					    <div class="text-from-editor">
+						<style>
+							.text-from-editor ul li{
+							font-family: arial;
+							}		
+						</style>			    
+						                                            <p class="MsoNormal">Rehana is the Academic Lead for Access, Participation and Success in the Faculty of Wellbeing, Education, Languages and Sports and Senior Lecturer/Academic Lead for EDI in the School of Computing and Communications in the Faculty of Science, Technology, Engineering and Maths. In these roles Rehana directs activities which identify, design and deliver improvements to student support, curricula, and resources to reduce degree awarding gaps.&nbsp;These roles are a nexus of praxis drawing together her research to inform policy and practice at the OU.</p>
+<p class="MsoNormal">After joining the OU in September 2008, Rehana has held several roles over the years including Regional Coordinator for Openings, Presentation Manager for Access, Senior Manager in AL Support and Professional Development, Manager Communications and Engagement on the Open Programme. Rehana moved to an academic contract in 2019 when she became the first Staff Tutor/Lecturer for Open and Access and Academic lead for the Student Support Team. She was also the OU&rsquo;s first Academic Lead for Interdisciplinary Studies. This role aligned well with Rehana's own interdisciplinary background and research interests.</p>
+<p class="MsoNormal">Rehana has also been the co-chair of the Black and Minority Ethnic staff network (2020-2024). She chaired the first ever event for South Asian Heritage month, was part of the team that set up the Race and Ethnicity Hub and was Chair of the group looking to improve support for Black students with mental health conditions. She also set up a peer mentoring scheme for racially minoritised staff and contributes to the student pipeline group as part of the OUs submission for the&nbsp;Race Equality Charter.</p>
+<p class="MsoNormal">Before joining the OU, Rehana worked in Further Education as Head of Teacher Training, and Access to HE. Prior to that she worked in the private sector for several years in training and management development.</p>
+<p class="MsoNormal">Rehana is also an Associate Lecturer. Currently she supports students coming to the end of their qualification on a stage 3 module E320 Contemporary Research with Children and Young People. She has also tutored on an introductory Social Sciences module as well as Access. Rehana has demonstrated her commitment to leading and managing teaching and learning as a Senior Fellow of the Higher Education Academy (SFHEA) and Fellow of the Staff and Educational Development Association (FSEDA).&nbsp;</p>
+<p class="MsoNormal">Rehana&rsquo;s doctoral research focused on student narratives and degree awarding gaps at the OU.</p>
+<p class="MsoNormal"><strong>Research interests</strong></p>
+<p class="MsoNormal">Rehana is interested in inequalities in education, online teaching and learning, online teacher development, transitions to HE, and multi and interdisciplinary study.&nbsp;&nbsp;</p>
+<p class="MsoNormal"><strong>Teaching interests</strong></p>
+<p class="MsoNormal">Access, Social Sciences, Sociology, Education, and Educational Research.&nbsp;</p>
+<p class="MsoNormal"><strong>External collaborations</strong></p>
+<p class="MsoNormal">Rehana is External Examiner for the Certificate in Higher Education at Cardiff University. She has been a subject specialist moderator for Open College Network and was External Advisor and Assessor for University of Birmingham's UKPSF scheme.</p>
+					    </div>
+					<script>document.querySelectorAll('.text-from-editor *').forEach(el => el.removeAttribute('style'))</script>
+                                        </div>
+                                    </div>
+				</section>
+                                                                
+
+				<!-- added 20052026 to allow citation view -->
+				
+				<section id="publications" class="section space-y-1">
+                                    <div class="bg-white shadow-sm rounded-lg mb-6">
+                                        <div class="p-6">
+                                            <h2 class="text-xl">Publications</h2>
+                                                                                        <section id="DigitalArtefact" class="section">
+                                                <h3 class="pt-4">Digital Artefact</h3>                                                
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/74631/" target="_blank">The awarding gap at the Open University (2020)</a></p>
+                                                    
+                                                                                            </section>
+                                                                                        <section id="JournalArticle" class="section">
+                                                <h3 class="pt-4">Journal Article</h3>                                                
+                                                						    <p class="pt-2"><a href="http://oro.open.ac.uk/81245/" target="_blank">How do we talk about race…and mental health? (2021)</a></p>
+                                                    
+                                                                                            </section>
+                                                                                        <section id="Presentation/Conference" class="section">
+                                                <h3 class="pt-4">Presentation / Conference</h3>                                                
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/98248/" target="_blank">Academic conduct referrals and students from underrepresented groups (2024)</a></p>
+                                                    
+                                                						    <p class="pt-2"><a href="http://oro.open.ac.uk/81511/" target="_blank">Preparing school leavers transitioning to online higher education: a case study (2021)</a></p>
+                                                    
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/81532/" target="_blank">Digital development – experiences offering staff development using the student’s online learning environment [Oral presentation] (2014)</a></p>
+                                                    
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/74211/" target="_blank">Exploring the highs and lows of developing, organising and running an online conference for the CPD of lecturers (2013)</a></p>
+                                                    
+                                                                                            </section>
+                                                                                        <section id="Presentation/ConferenceContribution" class="section">
+                                                <h3 class="pt-4">Presentation / Conference Contribution</h3>                                                
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/99315/" target="_blank">Challenging the narrative through conversations to build EDI practice for a changing world (2024)</a></p>
+                                                    
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/74209/" target="_blank">Using technology to support team-working skills for effective groups: the development of tools and spaces (2017)</a></p>
+                                                    
+                                                                                            </section>
+                                                                                        <section id="Thesis" class="section">
+                                                <h3 class="pt-4">Thesis</h3>                                                
+                                                						    <p class="pt-2"><a href="https://oro.open.ac.uk/109232/" target="_blank">What's the story: Exploring inequality in outcomes through the narratives of part-time racially minoritised students in online learning (2026)</a></p>
+                                                    
+                                                                                            </section>
+                                                                                    </div>
+                                    </div>
+                                </section>
+                                                                                        </div>
+                        </div>
+                </div>
+                
+		<div class="col-span-2 sticky top-0 md:h-screen md:block hidden">
+                    <div class="pt-7 sidenav">
+                        
+                        
+                        
+                        <p class="text-xl pb-2">Jump to</p>
+                        <ul>
+                            <li class="sidenav-li"><a href="#details" class="sidenav-link active">Biography</a></li> 
+                                                                     
+                                                        <li class="sidenav-li"><a href="#publications" class="sidenav-link">Publications</a>
+                                <ul>                                
+                                                                    <li class="sidenav-li"><a href="#DigitalArtefact" class="sidenav-link">Digital Artefact</a>  
+                                                                    <li class="sidenav-li"><a href="#JournalArticle" class="sidenav-link">Journal Article</a>  
+                                                                    <li class="sidenav-li"><a href="#Presentation/Conference" class="sidenav-link">Presentation / Conference</a>  
+                                                                    <li class="sidenav-li"><a href="#Presentation/ConferenceContribution" class="sidenav-link">Presentation / Conference Contribution</a>  
+                                                                    <li class="sidenav-li"><a href="#Thesis" class="sidenav-link">Thesis</a>  
+                                                                </ul>
+                            </li>
+                                                 
+                        </ul>
+
+                                                                 
+			
+			
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+            </main>
+        </div>
+        
+        <!-- ou-footer v2.0.0.795 -->
+<div id="ou-org-footer" class="ou-footer" role="contentinfo" aria-label="ou site footer"><div class="ou-container"><div class="ou-header"><div class="ou-crest"><img src="/ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795 1x, /ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795 2x" alt="The Open University Crest" title="The Open University Crest" /></div><div class="ou-mob-crest"><img src="/ouheaders/gui/OU_Crest_SVG_Mobile.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Crest_SVG_Mobile.svg?2.0.0.795 1x, /ouheaders/gui/OU_Crest_SVG_Mobile.svg?2.0.0.795 2x" alt="The Open University Crest" title="The Open University Crest" /></div><div class="ou-footer-title"><h2 data-translate="true">The Open University</h2></div></div><div class="ou-footer-nav">
+      <!--US-590505_OU_Public_Footer_Oct22:na5649-->
+      <div id="ou-ia-public" class="ou-ia-footer" role="tablist">
+        <div class="public-lineone">
+          <h3 class="ou-collapsible-footer" id="ou-publicFooter-explore-toggle" aria-controls="ou-publicFooter-explore" role="tab" tabindex="-1">
+            <span data-translate="true">Explore</span>
+            <span class="ou-mobile-menu-toggle icon-up">
+              <img src="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795" srcset="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 1x, /ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 2x" alt="Menu toggle" title="Menu toggle" />
+            </span>
+          </h3>
+          <ul class="ou-mobile-menu-toggle" id="ou-publicFooter-explore" aria-labelledby="ou-publicFooter-explore-toggle">
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses">Study with us</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://jobs.open.ac.uk/">Work with us</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/what-is-distance-learning">Supported distance learning</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/fees-and-funding">Funding your studies</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/international-students">International students</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/what-is-distance-learning/our-global-reputation">Global reputation</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/sustainability/">Sustainability</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://business.open.ac.uk/">Business</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://business.open.ac.uk/apprenticeships">Apprenticeships</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://business.open.ac.uk/professional-development">Develop your workforce</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://research.open.ac.uk/">Research</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/blogs/news/">News &amp; media</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/contact">Contact the OU</a>
+            </li>
+          </ul>
+        </div>
+        <div class="public-linetwo">
+          <h3 class="ou-collapsible-footer" id="ou-publicFooter-undergraduate-toggle" aria-controls="ou-publicFooter-undergraduate" role="tab" tabindex="-1">
+            <span data-translate="true">Undergraduate</span>
+            <span class="ou-mobile-menu-toggle icon-up">
+              <img src="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795" srcset="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 1x, /ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 2x" alt="Menu toggle" title="Menu toggle" />
+            </span>
+          </h3>
+          <ul class="ou-mobile-menu-toggle" id="ou-publicFooter-undergraduate" aria-labelledby="ou-publicFooter-undergraduate-toggle">
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/accounting">Accounting</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/arts">Arts and Humanities</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/art-history">Art History</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/biology">Biology</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/business-management">Business and Management</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/chemistry">Chemistry</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/classical-studies">Classical Studies</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/combined-studies">Combined Studies</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/computing-it">Computing and IT</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/counselling">Counselling</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/creative-arts">Creative Arts</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/creative-writing">Creative Writing</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/criminology">Criminology</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/design">Design</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/early-years">Early Years</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/economics">Economics</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/education">Education</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/electronic-engineering">Electronic Engineering</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/engineering">Engineering</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/english">English</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/environment">Environment</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/film-media">Film and Media</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/geography">Geography</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/health-social-care">Health and Social Care</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/health-wellbeing">Health and Wellbeing</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/health-sciences">Health Sciences</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/history">History</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/international-studies">International Studies</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/languages">Languages</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/law">Law</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/marketing">Marketing</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/maths">Mathematics</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/mental-health">Mental Health</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/music">Music</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/nursing-healthcare">Nursing and Healthcare</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/philosophy">Philosophy</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/physics">Physics</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/politics">Politics</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/psychology">Psychology</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/religious-studies">Religious Studies</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/science">Science</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/social-sciences">Social Sciences</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/social-work">Social Work</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/sociology">Sociology</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/search-result/software-engineering">Software Engineering</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/sport-fitness">Sport and Fitness</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/courses/statistics">Statistics</a>
+            </li>
+          </ul>
+        </div>
+        <div class="public-linethree">
+          <h3 class="ou-collapsible-footer" id="ou-publicFooter-postgraduate-toggle" aria-controls="ou-publicFooter-postgraduate" role="tab" tabindex="-1">
+            <span data-translate="true">Postgraduate</span>
+            <span class="ou-mobile-menu-toggle icon-up">
+              <img src="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795" srcset="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 1x, /ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 2x" alt="Menu toggle" title="Menu toggle" />
+            </span>
+          </h3>
+          <ul class="ou-mobile-menu-toggle" id="ou-publicFooter-postgraduate" aria-labelledby="ou-publicFooter-postgraduate-toggle">
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate">Postgraduate study</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/research-degrees">Research degrees</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f80">Masters in Social Work (MA)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f71">Masters in Creative Writing (MA)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f70">Masters in Education (MA/MEd)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f46">Masters in Engineering (MSc)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f88">Masters in English Literature (MA)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f89">Masters in History (MA)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f94">Masters in International Relations (MA)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f67">Masters in Finance (MSc)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f87">Masters in Cyber Security (MSc)</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/qualifications/f74">Masters in Psychology (MSc)</a>
+            </li>
+            <li>
+              <a href="https://www.open.ac.uk/postgraduate/qualifications/f61">MBA</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://www.open.ac.uk/postgraduate/atoz">A to Z of Masters degrees</a>
+            </li>
+          </ul>
+        </div>
+        <div class="public-linefour">
+          <h3 class="ou-collapsible-footer" id="ou-publicFooter-policy-toggle" aria-controls="ou-publicFooter-policy" role="tab" tabindex="-1">
+            <span data-translate="true">Policy</span>
+            <span class="ou-mobile-menu-toggle icon-up">
+              <img src="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795" srcset="/ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 1x, /ouheaders/gui/Accordion_Chevron_Down.svg?2.0.0.795 2x" alt="Menu toggle" title="Menu toggle" />
+            </span>
+          </h3>
+          <ul class="ou-mobile-menu-toggle" id="ou-publicFooter-policy" aria-labelledby="ou-publicFooter-policy-toggle">
+            <li class="ou-ia-footer-accessibility-statement">
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-accessibility-hub/accessibility-statement-open">OU Accessibility statement</a>
+            </li>
+            <li>
+              <a href="https://www5.open.ac.uk/wales/cy/yr-iaith-gymraeg">Cymraeg</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/conditions-use-open-university-websites">Conditions of use</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-privacy-ou">Privacy policy</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/cookie-use-ou-website">Cookie policy</a>
+            </li>
+            <li>
+              <a data-translate="true" href="#" onclick="CassieWidgetLoader.Widget.showModal(); managePreferenceSetInterval();">Manage cookie preferences</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/statement-eradicating-modern-slavery-supply-chains">Modern slavery act</a>
+            </li>
+            <li>
+              <a data-translate="true" href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/copyright-ou-websites">Copyright</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="ou-ia-student" class="ou-ia-footer">
+        <div class="ou-row">
+          <div class="ou-grid3">
+            <ul>
+              <li>
+                <h4 class="ou-social-media" id="ou-footer-ou-community-toggle">
+                  <span>Follow us on Social media</span>
+                  <span class="ou-mobile-menu-toggle icon-up">
+                    <img src="#" srcset="/ouheaders/gui/sprite.png?2.0.0.795 1x, /ouheaders/gui/sprite-x3.png?2.0.0.795 2x" alt="Menu toggle" title="Menu toggle" />
+                  </span>
+                </h4>
+                <div class="ou-mobile-menu-toggle" id="ou-footer-ou-community" role="tabpanel">
+                  <ul class="ou-inline">
+                    <li class="facebook">
+                      <a href="https://www.facebook.com/theopenuniversity" title="Facebook">
+                        <span>
+                          <img src="/ouheaders/gui/Social_facebook.svg?2.0.0.795" srcset="/ouheaders/gui/Social_facebook.svg?2.0.0.795 1x, /ouheaders/gui/Social_facebook.svg?2.0.0.795 2x" alt="Facebook" title="Facebook" />
+                        </span>
+                      </a>
+                    </li>
+                    <li class="twitter">
+                      <a href="https://twitter.com/OpenUniversity" title="Twitter">
+                        <span>
+                          <img src="/ouheaders/gui/Twitter_X_icon.svg?2.0.0.795" srcset="/ouheaders/gui/Twitter_X_icon.svg?2.0.0.795 1x, /ouheaders/gui/Twitter_X_icon.svg?2.0.0.795 2x" alt="X (formerly Twitter)" title="X (formerly Twitter)" />
+                        </span>
+                      </a>
+                    </li>
+                    <li class="youtube">
+                      <a href="https://www.youtube.com/user/TheOpenUniversity" title="Youtube">
+                        <span>
+                          <img src="/ouheaders/gui/Social_youtube.svg?2.0.0.795" srcset="/ouheaders/gui/Social_youtube.svg?2.0.0.795 1x, /ouheaders/gui/Social_youtube.svg?2.0.0.795 2x" alt="YouTube" title="YouTube" />
+                        </span>
+                      </a>
+                    </li>
+                    <li class="linkedin">
+                      <a href="https://www.linkedin.com/edu/school?id=12659&amp;trk=edu-cp-title" title="LinkedIn">
+                        <span>
+                          <img src="/ouheaders/gui/Social_linkedin.svg?2.0.0.795" srcset="/ouheaders/gui/Social_linkedin.svg?2.0.0.795 1x, /ouheaders/gui/Social_linkedin.svg?2.0.0.795 2x" alt="LinkedIn" title="LinkedIn" />
+                        </span>
+                      </a>
+                    </li>
+                    <!--<li class="googleplus">
+                      <a
+												href="https://plus.google.com/+TheOpenUniversity"
+												title="Google+">
+                        <span>
+                          <img src="/ouheaders/gui/sprite.png?2.0.0.795" srcset="/ouheaders/gui/sprite.png?2.0.0.795 1x, /ouheaders/gui/sprite-x3.png?2.0.0.795 2x" alt="Google+" title="Google+" />
+                        </span>
+                      </a>
+                    </li>-->
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="ou-grid3">
+            <ul class="ou-mobile-menu-toggle" id="ou-footer-support">
+                <li class="ou-ia-footer-accessibility-statement">
+                  <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-accessibility-hub/accessibility-statement-open">OU Accessibility statement</a>
+                </li>
+                <li>
+                  <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/conditions-use-open-university-websites">Conditions of use</a>
+                </li>
+                <li>
+                  <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/copyright-ou-websites">Copyright</a>
+                </li>
+                <li>
+                  <a href="https://www5.open.ac.uk/wales/cy/yr-iaith-gymraeg">Cymraeg</a>
+                </li>
+              </ul>         
+          </div>
+          <div class="ou-grid3">
+            <ul>
+              <li>
+                <ul class="ou-mobile-menu-toggle" id="ou-footer-study">
+                  <li>
+                    <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-privacy-ou">Privacy policy</a>
+                  </li>
+                  <li>
+                    <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/cookie-use-ou-website">Cookie policy</a>
+                  </li>
+                  <li>
+                    <a href="#" onclick="CassieWidgetLoader.Widget.showModal(); managePreferenceSetInterval();">Manage cookie preferences</a>
+                  </li>
+                  <li>
+                    <a href="https://help.open.ac.uk/documents/policies">
+                      Student Policies and Regulations
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="ou-grid3">
+            <ul>
+              <li>
+                <ul class="ou-mobile-menu-toggle" id="ou-footer-policy">
+                  <li>
+                    <a href="https://about.open.ac.uk/policies-and-reports/policies-and-statements/student-charter">
+                      Student Charter
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://status.open.ac.uk">
+                      System Status
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="ou-ia-outis1bd-footer">
+        <ul>
+          <li>
+            <a href="https://www.open.ac.uk/contact" class="ou-ia-public" id="ou-footer-public-contact" data-translate="true">Contact the OU</a>
+            <a href="https://www2.open.ac.uk/tutors/help/who-to-contact/" class="ou-ia-tutor" id="ou-footer-tutor-contact" data-translate="true">Contact the OU</a>
+          </li>
+          <li>
+            <a href="https://jobs.open.ac.uk/" data-translate="true">Work with us</a>
+          </li>
+          <li class="ou-ia-footer-accessibility-statement">
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-accessibility-hub/accessibility-statement-open" data-translate="true">OU Accessibility statement</a>
+          </li>
+          <li>
+            <a href="https://www5.open.ac.uk/wales/cy/yr-iaith-gymraeg">Cymraeg</a>
+          </li>
+          <li>
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/conditions-use-open-university-websites" data-translate="true">Conditions of use</a>
+          </li>
+          <li>
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/website-privacy-ou" data-translate="true">Privacy policy</a>
+          </li>
+          <li>
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/cookie-use-ou-website" data-translate="true">Cookie policy</a>
+          </li>
+          <li>
+            <a href="#" onclick="CassieWidgetLoader.Widget.showModal(); managePreferenceSetInterval();" data-translate="true">Manage cookie preferences</a>
+          </li>
+          <li>
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/statement-eradicating-modern-slavery-supply-chains" data-translate="true">Modern Slavery Act</a>
+          </li>
+          <li>
+            <a href="https://about.open.ac.uk/strategy-and-policies/policies-and-statements/copyright-ou-websites" data-translate="true">Copyright</a>
+          </li>
+        </ul>
+      </div>
+
+    
+<div class="ou-small-print"><div class="ou-crest-icon"><img src="/ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795" srcset="/ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795 1x, /ouheaders/gui/OU_Crest_SVG.svg?2.0.0.795 2x" alt="The Open University Crest" title="The Open University Crest" /></div><p class="ou-copyright" id="ou-copyright" style="display:none"><small>
+                &#xA9;<span id="ou-copyright-year"><a style="display:none">.</a></span>. <span data-translate="true" id="ou-footer-statement"><a style="display:none">.</a></span></small></p>
+</div>
+</div>
+</div>
+</div>
+
+<!-- End ou-footer v2.0.0.795 -->
+	
+	
+    </body>
+</html>
+
+<script>
+</script>
+

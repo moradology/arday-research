@@ -1,0 +1,37 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Fri, 07 Aug 2026 18:53:47 GMT
+Server: Zope/(2.13.22, python 2.7.16, linux2) ZServer/1.1
+bobo-exception-line: 41
+content-length: 0
+bobo-exception-value: See the server error log for details
+bobo-exception-type: <class 'zExceptions.Redirect'>
+location: https://www.arc-oxtv.nihr.ac.uk/publication/1659386
+x-frame-options: SAMEORIGIN
+bobo-exception-file: traversal.py
+X-Varnish: 152699924
+Age: 0
+Via: 1.1 varnish (Varnish/6.5)
+X-Cache: MISS
+Set-Cookie: ANONSERVERID=app-anonx-2.haiku.fry=c1; path=/
+Via: 1.1 www.arc-oxtv.nihr.ac.uk
+Strict-Transport-Security: max-age=15768000
+
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 18:53:47 GMT
+Server: Zope/(2.13.22, python 2.7.16, linux2) ZServer/1.1
+content-length: 30771
+content-language: en
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-ua-compatible: IE=edge,chrome=1
+x-frame-options: SAMEORIGIN
+content-type: text/html;charset=utf-8
+X-Varnish: 152699926
+Age: 0
+Via: 1.1 varnish (Varnish/6.5)
+X-Cache: MISS
+Accept-Ranges: bytes
+Set-Cookie: ANONSERVERID=app-anonx-1.haiku.fry=c2; path=/
+Via: 1.1 www.arc-oxtv.nihr.ac.uk
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15768000
+

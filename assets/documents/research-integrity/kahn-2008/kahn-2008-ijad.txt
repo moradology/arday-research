@@ -1,0 +1,632 @@
+Theory and legitimacy in professional education: A Practitioner Review of
+Reflective Processes within Programmes for New Academic Staff
+
+
+Peter Kahna, Richard Youngb, Sue Gracec, Ruth Pilkingtond, Linda Rushe, Bland
+Tomkinsonf and Ian Willisa
+a
+ The University of Liverpool, UK; bNewcastle University, UK; cThe University of York,
+UK; dUniversity of Central Lancashire, UK; eEdge Hill University, UK; fThe University
+of Manchester
+
+International Journal for Academic Development, 13(3),161-73
+
+        Abstract
+
+        We review research literature on coherent theoretically-based approaches to the
+        use of reflective processes within programmes of initial professional education
+        for new academic staff. Employing a novel methodology that incorporates
+        practitioner perspectives, we establish a framework that highlights the role of
+        personal and social factors, and also pedagogic and theoretical considerations, in
+        shaping reflective processes. The included studies identified participants who
+        had engaged in certain categories of reflection. Certain fundamental outcomes,
+        however, such as changes in professional commitment, were never seen across
+        an entire cohort. We thus discuss the intended learning outcomes that
+        programmes might legitimately seek to meet.
+
+
+Introduction
+
+The notions of ‘reflective practice’ and ‘reflective learning’ are now widely employed
+across higher education, Dewey (1933, p9), for instance, takes reflective practice to
+mean the extended consideration of aspects of practice in light of its supporting grounds
+and the further conclusions to which it tends. Schön (1983), meanwhile, applied this
+notion of reflective practice to professional education, and in recent years we have seen
+the wider use of reflective processes to support student learning more generally, as with
+Boud and Walker (1990) and Moon (2000). The initial professional education that new
+members of academic staff receive in relation to the application of reflective processes
+to their own learning and practice is thus influential in shaping student learning across
+higher education.
+    Existing reviews on the use of reflective processes in programmes for new academic
+staff have reported inconclusive results. The review by Prebble et al (2004, p9) found
+no evidence that university teaching staff who had taken a programme that incorporated
+training in reflective practice were able to make decisions on the basis of reflection as
+opposed to convention, even if some programmes resulted in promising outcomes.
+Gilbert and Gibbs (1998) concluded similarly, noting that the conceptual frameworks in
+accounts of these programmes were usually implicit. Studies have also identified issues
+with the role that reflective practice plays within these programmes. Fanghanel (2004)
+
+
+ Centre for Lifelong Learning, University of Liverpool, 128 Mount Pleasant, Liverpool L69 3GW.
+Email: Peter.Kahn@liverpool.ac.uk
+identified a range of dissonances within three specific programmes, related to practice,
+epistemology, structure and ideology, with reflection essentially used as a metaphor for
+problematising professional practice. Clegg et al (2002) argues that the language of
+reflective practice has been employed as a strategic approach for accreditation, while
+Edwards and Nicoll (2006) point out that the rhetoric of reflective practice may serve to
+mobilize professional identity and to motivate participants towards particular forms of
+professional development.
+    One key issue in these various studies concerns the underlying notion of reflection,
+which Kreber (2004) identifies as one that is poorly conceptualized. Indeed, it is evident
+that theorists typically see the need to qualify the usage of the term with further
+distinctions as Moon (2000, pp18-19) observes. It is thus not surprising that previous
+studies have found inconclusive evidence as to the effectiveness of programmes for new
+academic staff that promote ‘reflective practice’. We highlight this point by looking at
+the study by Ho (2000), which focuses on conceptual change. It can be argued that the
+intervention reported in this study required participants on the programme to engage in
+intensive reflection in relation to the supporting grounds for their practice, but typically
+conceptual change is located under a different category to ‘reflective practice’, as with
+Gilbert and Gibbs (1998). Kreber emphasizes that it is essential to both identify the
+definition of reflection underpinning a study and to consider how the respective findings
+can be linked, when seeking to judge the contribution of a body of studies in this area.
+    Scope thus remains to gain insight into the use of reflective processes within
+programmes for new academic staff, allowing us to shape practice in an informed
+fashion. We report here on a review of the research literature on the characteristics of
+coherent theoretically-based approaches to the use of reflective processes on
+programmes of initial professional development for new members of academic staff (for
+the full review report see Kahn et al, 2006). The review was one of a series of literature
+reviews commissioned by the Higher Education Academy to take place between
+October 2005 and May 2006, with those acting as reviewers recruited by the Project
+Director from amongst colleagues within a network of programme leaders based in both
+pre-1992 and post-1992 universities in the north of England.
+
+An Interpretive-practitioner Methodology
+
+The use of practitioners in undertaking a review of research literature provides a clear
+context for the methodology, locating it within the tradition of practitioner research. It is
+evident, however, that this tradition has yet significantly to engage with reviews of
+research. The user review (see Burton, 2004) remains a notable exception, although user
+reviews are not themselves seen as research. Rather, they are based on an earlier
+academic review of the literature, as evident in Rickinson et al (2004). Many
+established review methodologies, meanwhile, adopt objective stances towards research
+literature that may sit uneasily with practitioners (as for instance with systematic
+reviews, Cooper and Hedges, 1994, and realist reviews, Pawson, 2002), favouring as
+they do transparent and technical approaches.
+    We thus developed a novel interpretive-practitioner methodology for the review, one
+that may broadly be classed as a narrative review. Our claim to novelty lies particularly
+in maintaining a balance between contributions from the research literature and
+practitioner perspectives; with both extracted data and practitioner commentary
+incorporated into our narrative synthesis. The methodology employed for the review
+itself may be divided into four phases: selection of studies for inclusion within the
+review, extraction of data from the included studies along with associated practitioner
+commentary, analysis of the data (including the creation of a theoretical sub-sample of
+studies on which to base the main conclusions) and finally the narrative report.
+    The review incorporated a study on the current state of practice within programmes
+within England. This involved a review of grey literature, covering programme
+handbooks and other documentation from a sample of 15 English higher education
+institutions. This further permits us to highlight within the synthesis issues relevant to
+external validity. The institutions covered included a number from the network of
+programme leaders from which the review team was drawn. While such a documentary
+analysis provides a relatively limited view of any one programme, and cannot be taken
+as representative of the population of programmes, it does allow us to focus directly on
+the language employed within the programme.
+    Given the novelty of this methodology, considerations of internal and external
+validity are important, as more fully analysed in Kahn et al (2007), but the validity of
+our methodology will also be seen by the extent to which the review itself is useful to
+practitioners and researchers. In overall terms this approach fits well with our central
+research question, which concerns ascertaining the characteristics of coherent
+theoretically-informed approaches to the use of reflective processes within programmes
+for new academic staff, with the perspectives of practitioner researchers shaping the
+way that this question is to be answered.
+    The initial phase of identifying relevant literature was designed to allow freedom for
+the practitioner reviewers to select studies that they considered of relevance to their own
+practice, a freedom tempered by the need for construct validity in relation to the central
+notion of a reflective process applied to professional practice and learning. Five
+members of the review team each took a specific area of the published literature to
+review: purposes and outcomes for reflection; reflective processes that involve personal
+reflection; reflective processes that involve a social dimension; assessment; the
+pedagogy of reflective processes. This ensured that the overarching concept of reflective
+process was approached at a detailed level, so that studies operating with an implicit
+understanding of reflective practice were less likely to be included within the review.
+These areas provided the basis for the key words used to search standard databases such
+as the British Education Index. Relevant studies were also located through
+recommendations from colleagues, hand searching relevant journals, and studies
+identified within earlier reviews. The areas themselves were established through
+exchanges with a consultant, and left scope also for the inclusion of relevant studies
+from related professional domains. Such wider inclusion of literature was important
+given the limited number of studies of direct relevance to programmes for new
+academic staff.
+    Following standard reviewing practice, data extraction from the studies was based on
+a proforma: the fields included the abstract from each study, as well as those detailing
+the nature of the intervention, its context and theoretical basis. Fields further included
+commentary on insights for practice, policy and learning on the part of the practitioner
+reviewer. This ensured that studies from related fields were specifically interpreted with
+relevance to programmes for new academic staff in mind. Analysis of extracted data
+was then based on specific techniques drawn from grounded theory (Glaser, 1998; see
+also Weed, 2005 for the application of grounded theory to reviewing). In particular, we
+employed the method of constant comparison, searching across the proforma data for
+common ideas, issues and categories. This resulted in the creation of a nested set of
+categories, based on a tree structure. This framework of categories further provided a
+theoretical basis for selecting a sub-sample of studies, ensuring conceptual sensitivity
+specifically in line with the characteristics of the framework.
+    We thus present in this paper a narrative that articulates this framework and analyses
+the theoretical basis and the reported outcomes of the sub-sample of studies. Quality of
+study is thus assessed in theoretical terms, rather than through such factors as robustness
+of methodology or effect size (as for Slavin, 1986); although we are more cautious here
+than in the main report (Kahn et al, 2006) about the extent to which conclusions can be
+drawn in relation to the effectiveness of the interventions reported. The approach taken
+in this paper sits more naturally with an interpretive practitioner review, focusing as it
+does on the development of understanding, while also allowing connections to be made
+with practice.
+
+Characteristics of Approaches to Reflective Processes
+
+Sixty-eight studies were formally included within the review, with 12 focusing
+specifically on programmes for new academic staff, 18 covering the development of
+academics more widely, 20 within initial teacher training, ten within medical or health
+related practice and eight from other contexts. The studies came from 25 journals, with
+Reflective Practice contributing 18 and International Journal for Academic
+Development nine; and they were carried out within a range of countries, with the UK,
+Australia and the US contributing the greatest numbers.
+    This sample as a whole served two main purposes: to generate a framework for
+understanding and to allow for the creation of a sub-sample of directly relevant studies.
+While we will explore the framework in greater detail in a subsequent paper, it is
+important here to provide an outline given its centrality to the review methodology. The
+method of constant comparison yielded 6 major categories with which to code the data
+as indicated in Table 1, with some 123 nested sub-categories articulated in total, leading
+to 634 identifications against these categories across the proforma data. These
+categories cover analysis of the interventions as well as actual descriptions of
+programmes.
+
+
+Major category                                           Description
+Core reflective     Task – an extended activity or set of activities (e.g. peer observation; portfolio
+process (task and   development; action research; projects; action learning; co-observation; with
+focus)              specific features (e.g. a cycle of activities; progression evident in the level of
+                    challenge).
+                    Focus – The aspect of, or foundations for, practice investigated during the task,
+                    typically viewed through one or more theories (e.g. individual practice;
+                    collaborative practice; specific bases for practice; the reflective process itself).
+
+Social basis        The social interactions between participants, facilitators and others, which may
+                    help sustain the core reflective process (e.g. dialogue, including such aspects as
+                    challenges, prompts, crossing of boundaries, insights from literature, specialist
+                    language and feedback; roles; atmosphere).
+Personal basis      Factors influencing how an individual engages in a reflective process (e.g.
+                    experience; ownership; personal and professional identity; roles).
+Wider context       Factors concerning the context within which the reflective process unfolds (e.g.
+                    programme; workplace setting; discipline; institution).
+Theoretical basis   The theoretical foundations for the reflective process (e.g. theories of practice;
+                    theories of reflection; theories of professional learning)
+Outcomes            Outcomes resulting from following a reflective process (e.g. change in practice;
+                 development of expertise; ability to engage in reflective processes).
+
+
+       Table 1: The elements of a directed reflective process as applied to practice,
+       along with examples of sub-categories (and, where relevant, sub-sub-
+       categories)
+
+    It is evident from Table 1 that the framework, while focusing on the reflective
+process, also addresses issues from professional learning. The social basis for a
+reflective process, where the participant is drawn to consider new perspectives on their
+practice, is equally an integral aspect of pedagogy in relation to the process. Indeed, this
+emerged as the sub-category most frequently identified within the studies. A similar
+emphasis on the role of discourse in reflective learning is also evident within Brockbank
+and McGill (2007). The personal basis, meanwhile, plays a significant role in enabling
+a process to unfold suitably, as with the willingness to engage, but also more directly in
+the contribution that experience makes to providing material on which to focus the
+process. While the wider context may be regarded as more remote from the actual
+process, it does still shape both learning and the reflective process, given for instance
+the actual scope within the workplace to make changes in practice during or following a
+reflective process. A clear link is further evident between the intended learning
+outcomes and the focus of the reflective process. The theoretical basis for the process is
+also relevant, as we will consider in further detail with reference to the sub-sample.
+    These major categories may all be linked in a relatively open way through what we
+term the ‘directed reflective process’. The term ‘reflective process’ itself highlights the
+range of possible approaches to and the need to select from within this range; while the
+word ‘directed’, which we interpret to allow for the possibility of self-direction,
+emphasises the way in which the process must both be targeted and sustained, where
+possible through ensuring alignment across the different elements of the framework,
+enabling it to be pursued to the necessary depth, and yielding the intended or emergent
+outcomes. Alternatively we can think of these different elements of the framework as
+conditions to be met if specific forms of reflection or outcomes are to occur.
+    The sweep of issues covered by the framework is indeed large; theories of learning
+may be said typically to focus on one or two of these aspects, as with the social
+construction or the cognitive construction of learning, peer learning in the workplace or
+theories of reflection themselves. While we present the idea of alignment between these
+elements as important, it is also evident that the interplay between the different elements
+will be complex, potentially making it difficult to effect alignment, particularly where
+there is limited control over some elements of the framework. While both detailed
+consideration of the studies themselves and observations in relation to practice will help
+us to offer an initial synthesis of the different elements of the framework, more
+sophisticated analysis (which we will address in the further paper) would benefit from a
+broader theoretical perspective, such as that provided by social realism (see for instance
+Archer, 2000) which considers the interplay between social structure and human
+agency.
+     Within the set of included studies, we thus identify here a sub-sample of six studies
+for which proforma data was most frequently linked to sub-categories, that remained
+closest to the context of a programme for new academics, and which report a
+theoretically based intervention. The studies within this sub-sample that directly focus
+on programmes for new academics were Bell (2001), Booth and Anderberg (2005), Ho
+(2000) and Staniforth and Harland (2003). We also include two studies in the sub-
+sample that focus more generally on the professional development of academic staff:
+Lyons (2006); and MacKinnon (2001). Level of experience is certainly one factor that
+affects how a reflective process unfolds, but these studies nonetheless address a range of
+relevant issues. We provide in Table 2 a summary description of the match with the
+framework, citing examples of overlap with the major categories. The match itself was
+made on the basis of a finer level of detail, with Bell (2001), for instance, contributing
+on 18 occasions to sub-categories, including: tasks such as ‘Peer observation’ and
+‘Action-research’; a social basis that incorporated the sub-categories ‘Feedback’,
+‘Questioning’ and ‘Respect amongst peers’; and outcomes such as ‘Capacity for
+reflection on practice’ and ‘Capacity for practice’.
+    It is helpful also in reaching a synthesis to consider in Table 2 the theoretical basis
+for each study within sub-sample. We see the inclusion of theories on the nature of
+reflection within these studies, although the notion of reflective practice from Schön is
+still dominant. Bell (2001), for instance, while drawing on Schön, qualifies this with
+further reference to the internal reflective and external technical dimensions of practice
+from Brookfield (1986). But a significant contribution comes from theories of
+professional learning. Mackinnon (2001) draws on Boud’s theories of professional
+learning (see for instance Boud, 1999) in recognizing that it is sites for academic
+practice that primarily influence academic identity. Action research similarly places the
+professional context at the heart of the learning process. Recognition of the value of a
+socialization linked directly to the professional context is also evident, in helping to
+foster possibilities for new insights, challenge, and ultimately, changes in practice and
+identity.
+
+Study            Theoretical basis for programme            Overlaps with framework
+Bell (2001)      Reflective practitioner (Schön); action    Action research provides a focus for social
+                 research (Lewin); critical thinking        interaction to support the reflective process,
+                 (Brookfield); lifelong learning            while incorporating personal engagement in
+                 (Brookfield, Candy and Mezirow);           relation to levels of experience and the work
+                 learning in practice contexts (Boud) and   context.
+                 others.
+Booth and        Practice-Experience-Theory model;          Developing insights into personal teaching
+Anderberg        nature of knowledge (Ryle);                stances, and action research. Use of
+(2005)           phenomenography and variation theory       discussion and collaborative writing, with
+                 (Marton); knowledge capabilities           consideration given to language and the
+                 (Bowden); reflective problematisation.     practice setting.
+Ho (2000)        Conceptions of teaching (Trigwell and      Seven-stage process involving reflection on
+                 Prosser); theories of action (Argyris &    espoused conceptions of teaching and actual
+                 Schön); conceptual change (Posner);        practice, involving challenges, insights from
+                 social change (Lewin) and others.          the literature, and planning subsequent
+                                                            practice. Addresses the work environment
+                                                            and professional experience.
+Staniforth and   Collaborative action research (Carr and    Action research supported online, with a
+Harland          Kemmis)                                    supportive and critical community. Covers
+(2003)                                                      tensions between research and teaching, and
+                                                            professional identity.
+Lyons (2006)     Reflective inquiry (Dewey); reflective     Involves creation of a teaching portfolio,
+                 practitioner (Schön); scholarship of       with support stemming from the regular
+                 teaching (Boyer).                          sharing of entries, links to literature
+                                                            Considers the relevance of personal,
+                                                            professional and institutional elements.
+MacKinnon        Consultation as a working alliance         Teaching observations, supported by a
+(2001)        (Bordin); learning in practice contexts   structured process of reflection; involving a
+              (Boud).                                   partnership with a consultant, observational
+                                                        tools and taking account of the context for
+                                                        practice.
+
+Table 2: Theoretical basis for the programmes reported within the sub-sample studies
+
+   In addition there are theories of knowledge and of professional action. The use of
+action research, for instance, cuts across these different areas, in viewing the
+practitioner as central to process, both in engaging in and investigating an aspect of
+practice. Epistemology plays a key role in ensuring a process addresses supporting
+grounds for practice, and thus in helping to frame further conclusions. Stenhouse et al
+(1979), indeed, points out that a focus on the fundamental structures of knowledge in
+any discipline is a critical part of any educational endeavour. Ho (2000) shows how a
+programme can involve a reflective process in relation to the fundamental structures of
+knowledge within a professional field. Theories of reflection, practice, knowledge and
+learning in professional contexts may thus all serve to provide direction for, or shape to,
+the reflective process. The reflective processes involved in the sub-sample studies are
+designed around such considerations, helping to ensure a consistent approach across the
+elements of the framework.
+
+The Outcomes of Reflective Processes Employed on Programmes
+
+This above analysis is important for understanding the characteristics of reflective
+processes employed in contexts of initial professional education, but it also enables us
+to explore the outcomes associated with the use of reflective processes on programmes
+for new academic staff.
+    Table 3 provides an overview of the outcomes claimed within the sub-sample
+studies. The reported outcomes primarily concern enhanced capacity for practice, ability
+to engage in specific accessible reflective processes (although the extent to which an
+increase in ability could be directly attributed to a programme was typically less clear)
+and to engage in, become aware of, or understand aspects of practice; with these
+specific outcomes affecting the majority of subjects involved. For instance, Lyons
+(2006) argues that the creation of a reflective teaching portfolio enabled the university
+teachers to redirect their practice in line with their new insights, establishing a link in
+this case between capacity to engage in a specific reflective process and enhanced
+capacity for practice. While changes may be been evident in practice, it is further clear
+that when entire cohorts are considered there is significant variation for individual
+members of staff, ranging from little to extensive change in practice.
+    However, claims for entire cohorts achieving potentially more demanding forms of
+reflection, such as critical reflection or premise reflection were not in evidence either in
+the sub-sample studies or in the main sample. Indeed, the most commonly identified
+outcomes in the main sample also concerned changes in practice and in the ability to
+engage in specific reflective processes, with changes in personal qualities or
+professional identity seen far less frequently (although claims made in some studies
+suggest that these are more likely to occur where the staff are experienced). Any
+potential evidence for the achievement of wider outcomes, such as commitment to
+professional development, changes in professional identity or more demanding forms of
+reflection comes from a limited proportion of the participants on a programme.
+   It seems likely that change of this order involves factors beyond the control of a
+programme. A research culture within an institution, for instance, is a well known factor
+in over-riding professional commitment to teaching (see, for instance, Prosser et al,
+2006). Moreover, the programmes involved are usually part-time and modest in scale,
+typically covering at most 600 notional hours of learning at masters-level. One might
+also consider the way in which dominant ideologies affect the attainment of the more
+demanding outcomes. Studies from the related field of action research are helpful here:
+thus Carr and Kemmis (2005) refer to difficulties evident in practitioners realising a
+specific vision of criticality. They argue that technical means-end approaches reflect the
+ideology sustaining the culture of modernity, an ideology at odds with their approach.
+
+Study          Outcomes                                                          Context
+Bell (2001)    For more than three quarters: ability to engage in the            Programme for new
+               reflective process (although only for two more experienced        academic staff, with
+               participants attaining a more critical dimension); development    study based on self-
+               of ideas about teaching; changes to practice; developing          reports from 28
+               collegiality. For most participants: improved confidence.         participants.
+               Towards one half: an influence on longer-term professional
+               development. For less than one quarter: critical reflection
+               identifying a gap between theories in practice and espoused
+               theories.
+Booth and      Most new members of academic staff on the programme               Short course for new
+Anderberg      reported changing their teaching, with evidence generally         teaching staff, and a
+(2005)         across the cohort of increased capacity to engage in different    more extended
+               aspects of the reflective process, as with linking theory and     continuation course;
+               practice, and bringing knowledge to bear on student learning.     involving 23
+                                                                                 participants.
+Ho (2000)      Conceptual change in two thirds of the participants on the        Non-accredited short
+               programme for new academic staff. All these participants          course for academic
+               changed their teaching practices in the following academic        staff taken on a
+               year. For one half of the teachers who changed conceptions a      voluntary basis.
+               positive impact was observed on their students’ approaches to
+               learning.
+Staniforth     Evidence for mutual support assisting staff to engage in the      Covers two voluntary
+and Harland    reflective processes involved, some evidence from self-           programmes for new
+(2003)         reports that some participants on the programme for new           academics (in the UK
+               academic staff began to see a change in their academic            and in New Zealand).
+               identity, viewing themselves as change agents. Only
+               occasional direct evidence for changed practice.
+Lyons (2006)   Ability to engage in a reflective portfolio process and greater   Three experienced
+               awareness of teaching, re-conceptualisation of and changes in     members of staff,
+               practice , increased student focus, changes in practice, and      creating portfolios.
+               intentions to change practice.
+MacKinnon      Ability to engage in the reflective process in evidence,          One experienced
+(2001)         changes to teaching, increased expectations of students,          member of staff, using
+               enhanced professional identity and confidence as a teacher        observational feedback
+               and sense of self-efficacy, although more attention was
+               devoted in the study to technical and pedagogic aspects of
+               reflection.
+
+Table 3 Outcomes reported in the sub-sample studies reporting relevant interventions,
+with contextual information
+Rhetoric and Legitimacy
+
+It is instructive to compare these findings with observations from our integral study on
+the state of practice on programmes for new academic staff. It was evident in the state
+of practice study that the notion ‘reflection’ was central to the headline purpose of all
+the programmes covered: whether to develop a ‘reflective approach to the practice of
+teaching and the support of learning in higher education’ or involving the ‘Use of
+reflection as a tool for critical thought on the teaching and learning process’. Terms
+such as ‘reflection’ or ‘reflective practice’ were, however, only rarely unpacked within
+the documentation. While exploration of their meaning might well occur during a
+programme, it was clear in the documentation that the ability to engage in a reflective
+process was not simply an end in itself. Other intended outcomes flowing from the
+application of reflective processes included the ability to innovate, the willingness to
+take risks, a framework for career long development and so on. A direct link was made
+in each programme between reflective processes and professional development, with the
+use of reflection to support self-improvement and adaptation of practice prevalent to
+varying extents, as with one programme which sought to promote ‘a framework for …
+career-long development based on reflective practice’. This was typically set within a
+context of change within higher education.
+    Our above findings, however, indicated that evidence for the attainment of many
+such wider outcomes was not seen across an entire cohort. Programmes that claim that
+their participants attain outcomes that apply to the longer term or that concern identity
+or demanding forms of reflection may find it difficult to substantiate their position;
+raising the possibility that the claims may serve other purposes than simply to represent
+the actual outcomes for participants. Programme documentation, indeed, is employed
+for accreditation purposes; the programmes concerned were accredited by the Higher
+Education Academy, and in some cases also the Staff and Educational Development
+Association. At the time of the review, both of these bodies required programmes to
+promote reflection on practice.
+    Edwards and Nicoll (2006) also argue that the language of reflective practice forms
+part of the discourse of professional development, set within a context of change (p118).
+Edwards and Nicoll suggest that there is a certain attractiveness to the language of
+reflective practice, advocating as it does open-mindedness and a readiness to question
+on the part of the audience. They contend that such language is employed in part to
+legitimize the need for professional development: ‘The rhetoric of reflective practice
+may be powerful, not in the sense of whether it is literally true, but in the ways in which
+it is persuasive and the work it attempts to do.’ (p123)
+    It is also clear, though, that this discourse of reflective practice, or indeed
+professional development, is not always accepted within the workplace setting of the
+participants. Fanghanel (2004) argues that reflective practice generally underpins the
+environment for teaching and learning present on programmes for new academic staff.
+She highlights dissonance between this environment and the environment in operation
+within the workplace settings of the programme participants, whether in relation to
+practice, structure, ideology or epistemology. Trowler and Cooper (2002) similarly
+show incongruities between self-theories, exercise of power, discourses within
+disciplines, and underlying assumptions operating within these two settings.
+    Our review reveals further complexities, in that reflective processes applied to
+practice were seen to be sensitive to both personal and social engagement, and to the
+nature of the connection with the workplace. Learning that is based on a reflective
+process within a programme is thus likely to be affected by incongruities between the
+environments of professional education and professional practice. Indeed, we can posit
+a cycle in which dissonances result in a weaker attainment of outcomes linked to
+reflection on practice, leading to a widening of the gap between the language employed
+on a programme and the outcomes that are actually realized. Care is thus needed in
+designing reflective processes for use on a programme for new academic staff, to ensure
+that the nature of practice within the workplace settings of the participants is taken fully
+into account; and even for reflective processes to be applied to consider this gap
+between the practice and training environments.
+
+Conclusions
+
+This review has sought to enhance our understanding of reflective processes employed
+within programmes for new academic staff, developing a framework that synthesises
+insights from across the literature. This framework provides a means to understand
+ways in which reflective processes may be based on theories from a range of domains,
+whether in relation to practice, knowledge or pedagogy; rather than simply relying on
+theorization in relation to reflection itself.
+    We were further able to explore a potential gap between rhetoric and reality on
+programmes for new academic staff. Claims for a wide set of intended learning
+outcomes, including those that concerned professional identity or more demanding
+categories of reflection, were never seen in the literature included within the review to
+be achieved for an entire cohort. Programmes are thus particularly advised when
+shaping or supporting reflective processes to consider the relevance of professional
+context, given the tensions exposed within this study. Professional learning is a complex
+area, one in which care is needed when matching intended learning outcomes with what
+participants on a programme can realistically achieve.
+    We recognize here that further research to assess the methodological adequacy of the
+studies included within the sub-sample would assist in judging of effectiveness more
+directly. It would, for instance, be possible for professional researchers to support a
+practitioner review in the way that action research is often supported by researchers.
+However, we have seen various insights stemming from our synthesis and from the
+associated descriptions of coherent theoretically-informed approaches. Elliot (2001),
+indeed, argues that generalization in relation to the effectiveness of a given educational
+practice remains of relatively limited use in comparison to knowledge that is more
+directly actionable by practitioners.
+    In looking to adapt practice on programmes for new academic staff, or indeed in
+relation to the pedagogy of reflective learning and practice more widely, the experience
+of the reviewers themselves is instructive, in that insights into the application of the
+literature to practice stemmed both from the ongoing dialogue within the review team,
+as much as from reading specific studies, as explored in the associated study of the
+methodology for the review (Kahn et al, 2007). Practitioners seeking to learn from this
+report might thus find it helpful both to engage with the sub-sample of studies, in
+dialogue with colleagues. A shared understanding of reflection is clearly an important
+first step in moving practice forward.
+    Research into the characteristics and wider effectiveness of programmes for new
+academic staff should further take into account theories of knowledge, practice and
+learning. Similar considerations are also likely to apply to research on the use of
+reflective processes within a range of professional contexts. Indeed, the framework
+developed here may be of wider interest in achieving a synthesis in relation to the
+pedagogy of reflective processes, when associated theories of professional practice and
+knowledge are also considered.
+   This paper has not sought to provide a blueprint for the use of reflective processes
+within programmes for new academic staff, or indeed to seek straightforwardly to claim
+that the use of such processes are effective. Rather we have aimed to develop
+understanding of the ways in which a theoretical basis in notions of reflection,
+pedagogy, knowledge and practice may contribute to making legitimate claims for the
+place of reflective processes in the professional education of new academics, and to
+shaping practice in an informed fashion.
+
+Acknowledgements
+
+We are grateful to the Higher Education Academy for funding this research, and to
+Jenny Moon, Terry Wareham and Liz Evans for their roles in the project.
+
+
+Notes on contributors
+
+Peter Kahn is an Educational Developer at the University of Liverpool. His books
+include Developing your Teaching (Kahn and Walsh, 2006, Routledge) and A Guide to
+Staff and Educational Development (Kahn and Baume, 2003, Kogan Page).
+
+Richard Young works in Academic Staff Development at the University of Newcastle,
+leading the Postgraduate Certificate in Academic Practice.
+
+Sue Grace is Programme Director of the Postgraduate Certificate in Academic Practice
+at the University of York
+
+Ruth Pilkington is Course Leader of the MEd (Professional Practice in Higher
+Education) and the Postgraduate Certificate in Learning and Teaching in Higher
+Education at University of Central Lancashire.
+
+Linda Rush is Senior Lecturer in Teaching and Learning Development at Edge Hill
+University. She leads the university’s Postgraduate Certificate in Teaching and Learning
+Support in Higher Education.
+
+Bland Tomkinson is the University Adviser on Pedagogic Development at the University of
+Manchester and Programme Director for the Academic Staff Programme.
+
+Ian Willis is Programme Director for the Postgraduate Certificate in Learning and
+Teaching in Higher Education at the University of Liverpool.
+
+
+References
+
+Archer, M. (2000). Being human: the problem of agency. Cambridge: Cambridge
+   University Press.
+Bell, M. (2001). ‘Supported Reflective Practice: a Programme of Peer Observation and
+    Feedback for Academic Teaching Development.’ International Journal for
+    Academic Development 6(1): pp.29-39.
+Booth, S. and Anderberg, E. (2005). Academic Development for Knowledge
+    Capabilities: Learning, Reflecting and Developing. Higher Education Research and
+    Development, 24, 373-386.
+Boud, D. (1999). Situating Academic Development in Professional Work: Using Peer
+    Learning. International Journal for Academic Development 4, 3-13.
+Boud, D. and Walker, D. (1990). Making the most of experience, Studies in Continuing
+    Education. 12, 2, 61-80.
+Brockbank, A. and McGill, I. (2007). Facilitating reflective learning in higher
+    education. Maidenhead: Open University Press.
+Brookfield, S. (1986). Understanding and facilitating adult learning. San Francisco:
+    Jossey-Bass.
+Burton, L. (2004). A new venture–bridging the gap between educational research and
+    policy and practice. British Educational Research Journal, 30, 3-7.
+Carr, W. and Kemmis, S. (2005). Staying critical. Educational Action Research, 13,
+    347-328.
+Clegg, S., Tan, J., Saeidi, S. (2002). Reflecting or Acting? Reflective Practice and
+    Continuing Professional Development Programmes in Higher Education. Reflective
+    Practice 3,131 – 146.
+Cooper, H. and Hedges, L. (Eds) (1994). The handbook of research synthesis. New
+    York: Russell Sage Foundation.
+Dewey, J. (1933). How we think: a restatement of the relation of reflective thinking to
+    the educative process. Boston: D C Heath.
+Edwards, R. and Nicoll, K. (2006). Expertise, Competence and Reflection in the
+    Rhetoric of Professional Development. British Educational Research Journal, 32,
+    115-131.
+Elliott, J. (2001). Making evidence-based practice educational. British Educational
+    Research Journal, 27, 555-574.
+Fanghanel, J. (2004). ‘Capturing Dissonance in University Teacher Education’. Studies
+    in Higher Education, 29, 575-590.
+Gilbert A and Gibbs G (1998). A Proposal for an international collaborative research
+    programme to identify the impact of initial training on university teachers. Research
+    and Development in Higher Education Series, 21, Higher Education Research and
+    Development Society of Australasia, Wellington: NZ, 131-43.
+Glaser, B. (1998). Doing grounded theory: issues and discussions. Mill Valley, CA:
+    Sociology Press.
+Ho, A.S.P. (2000). A Conceptual Change Approach to Staff Development: A Model for
+    Curriculum Design. International Journal for Academic Development, 5, 30-41.
+Kreber, C. (2004). An Analysis of Two Models of Reflection and their Implications for
+    Educational Development. International Journal for Academic Development, 9, 29-
+    49.
+Kahn, P.E., Young, R., Grace, S., Pilkington, R., Rush, L., Tomkinson, C. B. and
+    Willis, I. (2006). The role and effectiveness of reflective practices in programmes
+    for new academic staff: a grounded practitioner review of the research literature.
+    York: Higher Education Academy.
+Kahn, P.E., Wareham, T., Young, R., Willis, I. and Pilkington, R. (2007). Exploring a
+    practitioner-based interpretive approach to reviewing research literature. Submitted
+    to International Journal of Research and Method in Education.
+Lyons, N. (2006). Reflective Engagement as Professional Development in the Lives of
+   University Teachers. Teachers and Teaching: Theory and Practice, 12, 151-168.
+MacKinnon, M.M. (2001). Using Observational Feedback to Promote Academic
+   Development. International Journal for Academic Development, 6, 21-28.
+Moon, J.A. (2000). Reflection in learning and professional development. London:
+   Kogan Page.
+Pawson, R. (2002). Evidence-based policy: the promise of ‘realist synthesis’.
+   Evaluation, 8, 340–358.
+Prebble, T. et al (2004). Impact of Student Support Services and Academic Development
+   Programmes on Student Outcomes in Undergraduate Tertiary Study, Massey
+   University College of Education, New Zealand (Online, accessed 25 April 2005),
+   http://www.minedu.govt.nz/web/downloadable/dl10247_v1/ugradstudentoutcomes.p
+   df.
+Prosser, M., Richardson, M., Bence, V., Hanbury, A. and Kulej, M. (2006). Formative
+   evaluation of accredited programmes. York: Higher Education Academy.
+Rickinson, M., Clark, A., Dawson, L., McLeod, S., Poulton, P., Sargent, J. (2004). What
+   on earth has research got to do with me? Teacher Development, 8, 201-220.
+Schön, D.A. (1983). The Reflective Practitioner: how professionals think in action.
+   New York: Basic Books.
+Slavin, R.E. (1986). Best evidence synthesis: an alternative to meta-analytic and
+   traditional reviews. Educational Researcher, 15, 5-11.
+Staniforth, D. and Harland, T. (2003). Reflection on Practice: Collaborative Action
+   Research for New Academics. Educational Action Research, 11, 79-92.
+Stenhouse, L., Verma, G., Wild, R. and Nixon, J. (1979). Problems and effects of
+   teaching about race relations. London: Ward Lock.
+Trowler, P. and Cooper, A. (2002). Teaching and learning regimes: implicit theories and
+   recurrent practices in the enhancement of teaching and learning through educational
+   development programmes. Higher Education Research and Development, 21, 221-
+   240.
+Weed M (2005). Meta-interpretation: a method for the interpretive synthesis of
+   qualitative research. Forum: Qualitative Social Research, 6, 1, 37.
+

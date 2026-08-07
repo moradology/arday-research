@@ -1,0 +1,22 @@
+HTTP/2 200 
+set-cookie: sp_t=99f04453-97e3-40d9-b0d6-e0efdeb684d4; path=/; expires=Sat, 07 Aug 2027 20:00:11 GMT; domain=.spotify.com; samesite=none; secure
+set-cookie: sp_landing=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F1OKa61HMoxmb4Mq31spFLg%3Fsp_cid%3D99f04453-97e3-40d9-b0d6-e0efdeb684d4%26device%3Ddesktop; path=/; expires=Sat, 08 Aug 2026 20:00:11 GMT; domain=.spotify.com; samesite=none; secure; httponly
+set-cookie: sp_t=99f04453-97e3-40d9-b0d6-e0efdeb684d4; Max-Age=31536000; Path=/; Domain=.spotify.com; Secure
+set-cookie: sp_new=1; Max-Age=86400; Path=/; Domain=.spotify.com; Secure
+set-cookie: sp_landing=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F1OKa61HMoxmb4Mq31spFLg; Max-Age=86400; Path=/; Domain=.spotify.com; HttpOnly; Secure
+content-security-policy: script-src 'self' 'unsafe-eval' blob: open.spotifycdn.com open-review.spotifycdn.com quicksilver.scdn.co www.google-analytics.com www.googletagmanager.com static.ads-twitter.com analytics.twitter.com s.pinimg.com sc-static.net https://www.google.com/recaptcha/ cdn.ravenjs.com connect.facebook.net www.gstatic.com sb.scorecardresearch.com pixel-static.spotify.com cdn.cookielaw.org geolocation.onetrust.com www.fastly-insights.com static.hotjar.com script.hotjar.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googleadservices.com/pagead/conversion/ https://analytics.tiktok.com/i18n/pixel/sdk.js https://analytics.tiktok.com/i18n/pixel/identify.js https://analytics.tiktok.com/i18n/pixel/config.js https://www.redditstatic.com/ads/pixel.js https://t.contentsquare.net/uxa/22f14577e19f3.js https://get.microsoft.com/badge/ms-store-badge.bundled.js https://cdn.us.heap-api.com https://heapanalytics.com 'sha256-WfsTi7oVogdF9vq5d14s2birjvCglqWF842fyHhzoNw=' 'sha256-KRzjHxCdT8icNaDOqPBdY0AlKiIh5F8r4bnbe1PQwss=' 'sha256-Z5wh7XXSBR1+mTxLSPFhywCZJt77+uP1GikAgPIsu2s=' 'sha256-o2wzIImHJ4+WWE5DCTR+myWU0UNml0+wwpDXRo++vII='; frame-ancestors 'self' https://adgen-dev.spotify.com/account/*/ad/*/details https://adgen-dev.spotify.com/preview/* https://local.spotify.net/account/*/ad/*/details https://local.spotify.net/preview/* https://app.smartly.io/*;
+content-type: text/html; charset=utf-8
+x-spotify-open-index: true
+x-envoy-upstream-service-time: 360
+server: envoy
+via: HTTP/1.1 fringe, HTTP/2 edgeproxy, 1.1 google, 1.1 varnish
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Fri, 07 Aug 2026 20:00:12 GMT
+x-served-by: cache-chi-kigq8000049-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786132812.630493,VS0,VE387
+vary: Accept-Encoding
+

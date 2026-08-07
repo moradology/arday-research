@@ -1,0 +1,26 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 15:42:39 GMT
+content-type: video/mp4
+content-length: 4762544
+cf-ray: a26f2718199e054e-OMA
+cf-cache-status: MISS
+accept-ranges: bytes
+cache-control: public, max-age=86400
+expires: Fri, 07 Aug 2026 15:42:39 GMT
+last-modified: Fri, 07 Feb 2025 08:24:04 GMT
+server: cloudflare
+access-control-expose-headers: X-CDN, X-CDN-Client-IP-Version, X-CDN-Proto, X-Cache, X-CDN-RCODE
+x-content-type-options: nosniff
+x-li-proto: http/1.1
+x-li-uuid: AAZYYrzkuGuwFlj5E/Fpqg==
+x-li-fabric: prod-lva1
+x-li-pop: prod-lva1-x
+x-ambry-blob-size: 4762544
+access-control-allow-origin: *
+timing-allow-origin: *
+x-cdn: CFLR
+x-cache: MISS
+x-cdn-client-ip-version: IPV6
+x-cdn-proto: HTTP2
+alt-svc: h3=":443"; ma=86400
+

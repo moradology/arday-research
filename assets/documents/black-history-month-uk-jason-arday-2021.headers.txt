@@ -1,0 +1,9 @@
+HTTP/2 200 
+server: nginx
+date: Thu, 06 Aug 2026 20:04:29 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-powered-by: PHP/8.2.33
+link: <https://www.blackhistorymonth.org.uk/wp-json/>; rel="https://api.w.org/", <https://www.blackhistorymonth.org.uk/?p=31164>; rel=shortlink
+x-powered-by: PleskLin
+

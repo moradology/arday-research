@@ -1,0 +1,14 @@
+HTTP/2 200 
+access-control-allow-headers: origin, content-type, accept, x-requested-with
+access-control-allow-methods: POST, GET, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-origin: *
+content-type: application/json
+date: Fri, 07 Aug 2026 17:55:18 GMT
+nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=3SZ%2F1hAdqM4tMpBR3uaYwRFjnBRS6urpRvabjW2RnWY%3D\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\u0026ts=1786125318"}],"max_age":3600}
+reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=3SZ%2F1hAdqM4tMpBR3uaYwRFjnBRS6urpRvabjW2RnWY%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1786125318"
+server: Heroku
+vary: Accept-Encoding
+via: 2.0 heroku-router
+content-length: 1145
+

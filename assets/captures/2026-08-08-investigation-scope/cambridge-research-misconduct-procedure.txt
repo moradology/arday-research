@@ -1,0 +1,1404 @@
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+1
+
+P R O C E D U R E FOR THE I N V E S T I G ATION OF AN A L LE GAT IO N
+OF R E S E A R C H M I S C O N D U C T
+1. Overview
+1.1 The University of Cambridge is committed to the highest standards of rigour and integrity in its research.
+For further information, please see the University’s information relating to research integrity at https://www.
+research-integrity.admin.cam.ac.uk/.
+1.2 The University is committed through the adoption of this procedure to ensuring that allegations of
+Research Misconduct are investigated with all possible thoroughness, transparency and sensitivity and in a
+robust, fair, consistent and timely manner. This is in compliance with and part of the University’s commitment
+to the Concordat to Support Research Integrity. 1
+1.3 This procedure will be reviewed every three years.
+1.4 Appendix A of this procedure provides additional guidance on the implementation of this procedure and
+should be read alongside the main procedure.
+1.5 The University of Cambridge is fully committed to securing and promoting freedom of speech within the
+law for staff, students and visiting speakers in all activities related to academic life. Our Code of Practice on
+Freedom of Speech sets out the University’s values, approach and associated procedures in detail. All those
+involved in implementing this Procedure must familiarise themselves with the Code of Practice. The Procedure
+is to be interpreted and applied in a manner consistent with the Code of Practice; in the case of any perceived
+conflict, the provisions of the Code of Practice will take precedence insofar as that is lawful and reasonably
+practicable
+2. Scope
+2.1 This procedure applies where there is an allegation of Research Misconduct (as defined in section 3)
+against any person undertaking research either as a member of or whilst connected to a University institution or
+using University facilities or funding. This includes, but is not limited to, University employees and workers
+(staff), students, visiting scholars, emeritus staff, individuals with an honorary contract or voluntary research
+agreement with the University, and those holding honorary clinical contracts. (See paragraph 4.3.) This procedure
+does not apply to staff engaged for employment under Statute J 6 when undertaking research in the service of
+the Press and Assessment Department.
+2.2 The University may also consider under this procedure allegations of Research Misconduct made against
+individuals where they relate to research carried out at a time when they were employed by or otherwise
+associated with the University, including former students. Allegations relating to individuals who have left the
+University may be investigated or acted upon, having regard to the seriousness of the issue raised, the credibility
+of the allegation, and the prospects of being able to investigate the matter fully and fairly.
+2.3 This procedure does not apply to allegations of bullying, harassment, discrimination, sexual misconduct
+and victimisation as set out in the University’s Dignity at Work Policy. 2 These should be raised informally or
+formally via the relevant grievance or disciplinary procedure 3 for employees as appropriate. If an investigation
+under this procedure uncovers evidence of these types of inappropriate behaviour, this will be referred to the
+relevant disciplinary procedure.
+2.4 This procedure does not apply to allegations relating to student work being prepared for examination or
+assessment. Such allegations should be handled according to the procedures and policy for investigating
+academic misconduct. 4 This procedure also does not apply to complaints about the conduct of employees or
+other students, which are dealt with under other student procedures. 5
+2.5 This procedure is not part of the University’s formal disciplinary procedures, nor does it override such
+procedures. However, the outcome of an investigation under this procedure may be to initiate other University
+procedures, including the relevant University disciplinary procedure. Allegations concerning the conduct of
+research will normally be considered first under this procedure, prior to any referral to a disciplinary procedure,
+unless the person responsible for the disciplinary procedure directs that the investigation is to be dealt with
+under that disciplinary procedure. Any evidence identified or produced through this procedure and the report of
+the Formal Investigation may be considered as part of any subsequent disciplinary process.
+2.6 In cases involving a University employee, a finding of Research Misconduct may be considered serious
+or gross misconduct or, in the case of University officers, ‘good cause’ for dismissal under Section 4 of Chapter I
+in the Schedule to Statute C. Information gathered as part of an investigation conducted under this procedure,
+along with any findings, may be taken into account for the purposes of any disciplinary, capability or other
+University procedure, which could lead to formal disciplinary sanctions, up to and including dismissal. In cases
+UK Committee on Research Integrity, The Concordat to Support Research Integrity (2025), https://ukcori.org/researchintegrity-concordat/
+2
+https://www.hr.admin.cam.ac.uk/policies-procedures/dignity-work-policy.
+3
+https://www.hr.admin.cam.ac.uk/policies-procedures/disciplinary-action-grievances-and-appeals-0.
+4
+See: https://www.plagiarism.admin.cam.ac.uk/investigating.
+5
+https://www.studentcomplaints.admin.cam.ac.uk/harassment-sexual-misconduct/i-want-know-more-about-universitys- policies.
+1
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+2
+
+involving a worker or a visiting scholar, a finding of Research Misconduct may result in the assignment or
+relevant visitor agreement (as appropriate) being terminated before the agreement end date.
+2.7 In cases involving students or former students, a finding of Research Misconduct may be considered a
+breach of the University’s Rules of Behaviour for Registered Students or Formerly Registered Students. 6
+Information gathered as part of an investigation conducted under this procedure, along with any findings, may
+be taken into account for the purposes of any disciplinary or other University procedure, which could lead to
+formal disciplinary sanctions, up to and including removal of University membership, removal of academic
+awards and permanent exclusion.
+2.8 Allegations of misconduct unrelated to or having no impact on the research process do not fall under the
+remit of this procedure. Allegations relating to the misuse of research funds or equipment will not fall under the
+remit of this procedure unless the conduct complained of affects the manner in which research is conducted.
+2.9 Complaints under this procedure may be made by any individual, regardless of whether that individual is
+employed by or is a student of the University, or by any organisation.
+3. Definitions
+In this procedure, the following terms shall have the following meanings:
+Terms
+Meaning
+Appeal Manager
+A University officer appointed by the Academic Secretary to hear an appeal.
+Appeal Stage
+The part of this procedure described in section 13.
+Appellant
+The Respondent or Complainant who is making the appeal.
+Complaint
+A report of alleged Research Misconduct that it has been decided should be
+investigated under this procedure, as set out in section 6.
+Complainant
+An individual or individuals who, or organisation or organisations which,
+raises a Concern or makes a Complaint.
+Concern
+A matter relating to potential Research Misconduct that has not yet been
+formally classed as a Complaint as set out under section 6.
+Dispute Resolution Process
+Formal Investigation
+Formal Investigation
+Committee
+Head of Institution
+Independent Investigator
+
+Preliminary Investigation
+Questionable Research
+Practices
+
+The process for handling Concerns that do not require investigation under this
+procedure, as set out in Appendix B.
+An investigation under Stage 3 of this procedure (see section 10).
+A Committee consisting of at least three persons, at least one of whom should
+be external to the University, appointed by the relevant University committee
+to undertake a Formal Investigation as set out in sections 10 and 11.
+A Head of Department, Chair of Faculty Board or head of any other University
+Institution under the supervision of either the Council or the General Board.
+An individual or individuals appointed by the Responsible Person to undertake
+an Initial Screening Review and/or Preliminary Investigation as set out in
+sections 8 and 9. The Independent Investigator will normally be a University
+officer and must have appropriate expertise, and experience in the relevant
+field, to investigate the case (see section A5). Where there are two Independent
+Investigators, they act jointly as an Investigatory Panel.
+An investigation under Stage 2 of this procedure (see section 9).
+Minor infractions or research practices, including avoidable errors, which fall
+short of the definition of research misconduct. They may arise due to a lack of
+knowledge or attention to detail, negligence, or deliberate action, and may
+occur where there is no evident intention to deceive. Minor infractions that for
+which there was no evidence intention to deceive and that did not result from
+deliberate action, negligence, or recklessness, will normally be considered
+‘honest errors’ rather than questionable research practices. 7
+
+Research 8
+
+A part of a process leading to new insights.
+
+Research Governance and
+Integrity Team
+
+A team within in the University Research Office designated to offer support to
+the Responsible Person in handling investigations under this procedure (email:
+researchintegrity@admin.cam.ac.uk).
+
+See Ordinances, Chapter II (Statutes and Ordinances, p. 195).
+The definition of Questionable Research Practices adopted here is based on: UK Committee on Research Integrity, The
+Concordat to Support Research Integrity (2025), p. 13.
+8
+The definition of Research adopted here is that given in: UK Committee on Research Integrity, The Concordat to Support
+Research Integrity (2025), p. 13.
+6
+7
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+Terms
+Research Misconduct 9
+
+3
+
+Meaning
+Behaviours and deliberate actions that fall short of the standards of ethics,
+research and scholarship required to ensure that the integrity of research is
+upheld. This includes behaviours associated with the ideation of research
+proposals, reviewing the work of others, and the reporting of research findings
+Research Misconduct includes, but is not restricted to:
+• Fabrication: making up results, other outputs (for example, artefacts) or
+aspects of research, including documentation and participant consent, and
+presenting and/or recording them as if they were real.
+• Falsification: inappropriately manipulating and/or selecting research
+processes, materials, equipment, data, imagery and/or consents.
+• Plagiarism: using other people’s ideas, intellectual property or work (written
+or otherwise) without acknowledgement or permission.
+• Failure to meet legal, ethical and professional obligations, for example:
+○ not observing legal, ethical and other requirements for human research
+participants, animal subjects, or human organs or tissue used in research,
+or for the protection of the environment;
+○ breach of the duty of care for humans involved in research, including
+failure to obtain appropriate informed consent;
+○ misuse of personal data, including inappropriate disclosures of the
+identity of research participants and other breaches of confidentiality;
+○ improper conduct in peer review of research proposals, results or
+manuscripts submitted for publication. This includes failure to disclose
+conflicts of interest; inadequate disclosure of clearly limited competence;
+misappropriation of the content of material; and breach of confidentiality or
+abuse of material provided in confidence for the purposes of peer review.
+• Misrepresentation of:
+○ data, including suppression of relevant results/data or knowingly, recklessly
+or by gross negligence presenting a flawed interpretation of data;
+○ involvement, including inappropriate claims to authorship or attribution
+of work and denial of authorship/attribution to persons who have made
+an appropriate contribution;
+○ interests, including failure to declare competing interests of researchers
+or funders of a study;
+○ qualifications, experience and/or credentials;
+○ publication history, through undisclosed duplication of publication,
+including undisclosed duplicate submission of manuscripts for publication.
+• Improper dealing with allegations of misconduct: failing to address possible
+infringements, such as attempts to cover up misconduct and reprisals against
+whistleblowers, or failing to adhere appropriately to agreed procedures in
+the investigation of alleged Research Misconduct accepted as a condition of
+funding. Improper dealing with allegations of misconduct includes the
+inappropriate censoring of parties through the use of legal instruments, such
+as non-disclosure agreements.
+For the avoidance of doubt, Research Misconduct includes acts of omission as
+well as acts of commission. It also includes actions meeting the definitions
+above undertaken through recklessness or gross negligence.
+The standards by which allegations of Research Misconduct shall be judged
+are those applicable at the date that and for the discipline in which the behaviour
+under investigation took place. As such, no individual may be found guilty of
+Research Misconduct for systematic problems or failings. Any such issues
+should be handled through recommendations for action as set out in
+paragraph 14.1(e) below.
+Honest errors and differences in, for example, research methodology or
+interpretations do not constitute research misconduct.
+Research Misconduct does not include any alleged failure to meet legal,
+ethical or professional obligations not directly related to the research process
+
+The definition of Research Misconduct adopted here has been adapted from that given in: UK Committee on Research
+Integrity, The Concordat to Support Research Integrity (2025), pp. 13–14.
+
+9
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+4
+
+Terms
+
+Meaning
+(such as financial fraud, copyright or IP infringement, or export control
+violations), which will be handled under different University policies.
+
+Respondent
+Responsible Person
+
+An individual or individuals about whom a Complaint is made.
+The head of the University Institution in which the Research Misconduct is
+alleged to have occurred, or where the Respondent is not a member of a
+University institution, the Chair of the Board, Syndicate, or other body which
+is chiefly concerned with the Respondent’s research. Where there is more than
+one University Institution involved or in the event of doubt, the Secretary of
+the Process will decide who is the Responsible Person.
+(a) In any case where all potential Respondents are assistant staff, the
+Secretary of the Process shall be the Secretary of the Human Resources
+Committee.
+(b) In all other cases the Secretary of the Process shall be either of the
+following:
+(i) Where the Complaint concerns a University institution under the
+supervision of the General Board or postgraduate students registered
+with the University but working at a University Partner Institution
+recognised by the General Board, the Academic Secretary or a deputy
+appointed for this purpose (email academic.secretary@admin.cam.ac.
+uk).
+(ii) In the case of all other University institutions, the Registrary or a
+deputy appointed for this purpose (email registrary@admin.cam.ac.
+uk).
+(c) A member or members of the Research Governance and Integrity Team
+may act on behalf of the Secretary of the Process at any stage at the request
+of the Secretary of the Process.
+Any student pursuing a course of study at the University of Cambridge,
+including those studying for a University of Cambridge qualification at another
+institution, who has undertaken research where that research does not form part
+of work prepared for examination or assessment (see paragraph 2.4).
+A Faculty, Department or other body under the supervision of the Council or
+the General Board.
+Any day excluding UK public holidays and weekends.
+
+Secretary of the Process
+
+Student
+
+University Institution
+Working Day
+
+4. Procedure
+4.1 The Secretary of the Process is responsible for overseeing the application of this procedure in relation to
+any Complaint. The Research Governance and Integrity Team supports the administration and running of the
+procedure.
+4.2 The Research Governance and Integrity Team may, where necessary in the interests of fairness (for
+example, to resolve conflicts, inconsistencies or other practicalities), propose to the Secretary of the Process the
+variation of this procedure in a particular case. This may include the suspension or termination of an investigation
+under this procedure where necessary, for example where another procedure is more appropriate for handling a
+Complaint. The Secretary of the Process shall have discretion to approve variations where the Secretary judges
+that fairness to all parties is maintained and the objective of this procedure, as defined in paragraph 1.2, is
+achieved. Where the procedure is varied, a formal record of this decision and the reasons for it will be kept by
+the Research Governance and Integrity Team. Reasonable adjustments will be made to enable the full
+participation of any person involved in the procedure.
+4.3 Where a Complaint concerns collaborative Research with other institutions, for example another University
+or NHS Trust, or where it concerns a Student registered with the University whilst pursuing a course of study at
+an approved University Partner Institution, an appropriate investigatory procedure will be determined between
+the relevant institutions. This will, where possible, be carried out according to the principles established in the
+Russell Group Statement of Cooperation in respect of cross-institutional research misconduct allegations. 10 The
+resultant approach may be as laid out in a formal agreement between the institutions, or as determined on a case
+by case basis by the Secretary of the Process in liaison with the other institution. This may, where appropriate,
+include a joint investigation.
+4.4 Where a complaint concerns research that is funded wholly or partially by the United States Public Health
+Russell Group Statement of Cooperation in respect of cross-institutional research misconduct allegations, https://
+russellgroup.ac.uk/policy/policy-documents/research-integrity-statement-of-cooperation/.
+10
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+5
+
+Service (PHS) grants, the provisions of Appendix C will be followed alongside this Procedure, as set out in
+Appendix C. This may require variations to this Procedure, which will be made according to section 4.2.
+4.5 Any breaches of statutory or regulatory requirements will be handled as required by the relevant statutory
+or regulatory framework. The nature of a Complaint may mean that it is necessary to notify legal or regulatory
+authorities, which may require the University to comply with an investigation led by a legal or regulatory
+authority, which will ordinarily take precedence over this procedure. This procedure may continue in parallel,
+but the Secretary of the Process may suspend the procedure, terminate it or take such other action as may be
+appropriate under the discretion in paragraph 4.2 above.
+4.6 This procedure is designed to feed into other established University procedures where appropriate. Should
+a matter being investigated under this procedure be referred at any stage to an alternative University procedure,
+the alternative procedure shall be followed to the exclusion of this procedure, save for the matters set out in
+sections 14–16 and section A4, unless the involvement of other Respondents requires that investigation under
+this procedure continues in parallel. In such circumstances, information obtained through this procedure may be
+admitted in the parallel procedure, and vice versa.
+4.7 No Complainant should be penalised by, or suffer any detriment within, the University for bringing a
+Complaint, unless that Complaint is found to be malicious or vexatious (see 4.9 below). Any employee or
+student who has made a Complaint and who feels that, as a result, they have suffered adverse treatment may
+submit a formal complaint under the relevant Grievance Procedure11 or Student Complaint Procedure 12. In the
+case of workers or visiting scholars the matter will be dealt with according to the University Payment System
+(UPS) handbook 13 or the relevant visitor agreement.
+4.8 Where a member of staff feels unable to raise Concerns through this procedure, for example where they
+have reason to believe that doing so may lead to their suffering detrimental treatment, they may alternatively
+make an initial allegation under the process set out in the University’s Whistleblowing Policy. 14 Allegations
+made under the Whistleblowing Policy must be made in the public interest. Where an allegation is made under
+the Whistleblowing Policy, it shall be open to the person to whom the allegation is made to determine whether
+any internal investigation to be undertaken is carried out according to this procedure.
+4.9 If a Complaint is found to be malicious or vexatious at any stage of the procedure, appropriate action may
+be taken against the Complainant, which may in some cases include referral to the relevant disciplinary
+procedure if the Complainant is an employee. 15
+4.10 At each stage of the procedure, the Responsible Person may recommend that the Respondent should be
+suspended, excluded from University premises, and/or required to carry out restricted duties. Any such
+recommendation should be taken in accordance with the guidance on suspension provided in section A1.
+4.11 Counter-allegations of Research Misconduct made during the course of the procedure will be handled as
+separate Complaints under this procedure.
+4.12 Where there are multiple Respondents, each Respondent will be kept informed through separate meetings
+and separate written correspondence. Throughout the procedure every effort will be made to keep matters
+confidential to each Respondent and distinct where practical.
+4.13 The Secretary of the Process may seek confidential advice in relation to any aspect of this procedure
+from those with relevant expertise, including on behalf of the Responsible Person or the Formal Investigation
+Committee.
+5. Raising Concerns informally
+5.1 The University promotes an open culture which supports confidential discussion of any concerns about
+standards of conduct in Research at the earliest opportunity.
+5.2 Should any individual or organisation have a Concern of any sort but be unsure whether there are grounds
+to make a formal Complaint, they are strongly encouraged to raise their Concern at the earliest opportunity
+informally with the relevant Head of Institution. For the avoidance of doubt, seeking informal advice is not a
+required stage of this process; a formal Complaint under section 6 of this procedure may be made without
+seeking informal advice.
+5.3 Informal and confidential advice may alternatively be sought from the Research Governance and Integrity
+Team by contacting researchintegrity@admin.cam.ac.uk. Specialist advice is also available from the Human
+Resources Division and the Office of Student Conduct, Complaints and Appeals Office in accordance with
+section A8.
+https://www.hr.admin.cam.ac.uk/policies-procedures/disciplinary-action-grievances-and-appeals-0.
+https://www.studentcomplaints.admin.cam.ac.uk/student-complaints.
+13
+See the key documents on the following webpage: https://www.hr.admin.cam.ac.uk/information-workers.
+14
+https://www.hr.admin.cam.ac.uk/policies-procedures/whistleblowing-policy-public-disclosure-university-employees.
+15
+A vexatious complaint is one that is made with the intention to harass, annoy or subdue somebody, or that is unreasonable,
+without foundation, frivolous, repetitive, burdensome or unwarranted.
+A malicious complaint is one that is made with the intention to intimidate, to lower the reputation of, or otherwise injure or harm
+to an individual, through knowingly providing false or misleading information or withholding information about an incident or
+issue.
+11
+12
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+6. Raising Concerns formally
+6.1 Concerns may be raised formally by an individual or organisation contacting the relevant Head of
+Institution in writing. Where the Complainant believes that the Head of Institution may have a conflict of
+interest in the matter, Concerns may be raised with the Secretary of the Process. Concerns relating to Research
+Misconduct received through other means will be referred to the Head of Institution, the Research Governance
+and Integrity Team, or the Secretary of the Process as appropriate.
+6.2 Where a Concern has been raised with a Head of Institution, the Head of Institution shall decide whether
+the matter relates solely to their University Institution. In such cases, the Head of Institution will normally
+become the Responsible Person for implementing this procedure. Where a Concern has been raised directly
+with the Secretary of the Process, or the Head of Institution has a conflict of interest in the matter (see section A5),
+the Secretary shall identify an appropriate Responsible Person.
+6.3 The Responsible Person shall determine whether the Complaint identifies a situation where immediate
+action is needed to prevent risk of harm to humans, animals or to the environment, or to prevent illegal activity,
+and if necessary take such action as the Responsible Person thinks fit and in accordance with section A1. Where
+the Responsible Person identifies potential for serious reputational harm to the University, they shall inform
+the Academic Secretary of the risk.
+6.4 Upon receipt of a Concern, the Responsible Person will first consider whether it would be more effective
+to handle the Concern through the Dispute Resolution Process (as set out in Appendix B) than for it to be
+investigated under this procedure.
+6.5 It may be appropriate to refer a Concern to the Dispute Resolution Process where:
+(a) the Concern is one brought to seek redress or to settle a dispute (such as a Concern regarding
+unfair authorship practices or seeking a correction to a published article); and
+(b) it remains possible to address the Concern (e.g. through an agreement by the Respondent to take
+particular action to address the Concern, such as correcting a published article); and
+(c) the Responsible Person is satisfied that, should the Concern have substance, corrective action would be
+sufficient to address the Concern (i.e. disciplinary action against the Respondent would not be
+appropriate).
+6.6 Should the Responsible Person decide that a Concern would most effectively be handled through the
+Dispute Resolution Process, the Responsible Person shall write to the Complainant to seek consent for this
+process to be used. Concerns may only be referred to the Dispute Resolution Process with the written consent
+of the Complainant. Should the Complainant agree, the Dispute Resolution Process may be followed to the
+exclusion of this procedure (please refer to Appendix B).
+6.7 Should the Responsible Person decide that the Dispute Resolution Process would not be appropriate or the
+Complainant does not consent to its use, the Concern shall henceforth be considered a Complaint of Research
+Misconduct and this procedure will continue to be followed.
+7. Investigation stages
+7.1 Summary table
+Name of stage
+Stage 1 Initial screening
+review
+
+Stage 2 Preliminary
+Investigation
+
+Stage 3 Formal
+Investigation
+
+Purpose
+To determine whether the
+Complaint falls within the
+scope of the procedure,
+meets the definition of
+Research Misconduct, and is
+not trivial or clearly without
+foundation, and therefore
+should be subject to a
+Preliminary Investigation.
+To evaluate the facts of the
+Complaint in order to
+ascertain whether there is
+sufficient evidence of a case
+of Research Misconduct to
+require a Formal
+Investigation.
+To examine and evaluate all
+the relevant evidence and
+conclude whether Research
+Misconduct took place and if
+so, who was responsible.
+
+Carried out by
+Independent
+Investigator
+
+Approximate timeline
+Complete within
+approximately 15 Working
+Days of the appointment of
+the Independent Investigator.
+
+Independent
+Investigator
+
+Complete within
+approximately 30 Working
+Days from the date of the
+appointment of the
+Independent Investigator to
+undertake Stage 2.
+
+Formal
+Investigation
+Committee
+
+Complete within
+approximately 40 Working
+Days from the date of the
+appointment of the Formal
+Investigation Committee.
+
+6
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+7
+
+8. Stage 1 – Initial screening review
+8.1 Once it has been decided that a Concern will be handled under this procedure, the Responsible Person will
+inform and seek advice from the Secretary of the Process and the Research Governance and Integrity Team.
+Advice should also be sought from a HR Business Partner or HR Adviser or, in the case of a Respondent who is
+a current or former Student, the Senior Tutor of the Student’s College and the Head of the Student Conduct,
+Complaints and Appeals Office (see section A4).
+8.2 The Responsible Person, or the Research Governance and Integrity Team on the Responsible Person’s
+behalf, shall acknowledge receipt of the Complaint in writing, normally within 10 working days, and provide
+the Complainant with a copy of this procedure.
+8.3 The Responsible Person will appoint an Independent Investigator (or two Independent Investigators acting
+jointly as an Investigatory Panel in more complex cases) to conduct the initial screening review (see section A5).
+The appointment of the Independent Investigator will be arranged without undue delay and the Complainant
+will be kept informed of progress,
+8.4 The Independent Investigator will then carry out an initial screening review. The review will normally
+take the form of a paper review of the evidence provided as part of the Complaint. The Independent Investigator
+may request further information from the Complainant if this is required to make a judgement. The purpose of
+the initial screening review is to determine that:
+(a) the Complaint falls within the scope of this procedure as set out in section 2 above;
+(b) the subject-matter of the Complaint falls within the definition of Research Misconduct, as set out in
+section 3 above; and
+(c) the Complaint is not trivial or clearly without foundation.
+8.5 The initial screening review should be completed as soon as possible, normally the outcome of the review
+should be received by the Responsible Person within 15 Working Days of the appointment of the Independent
+Investigator. This is an indicative deadline and may be extended where the Responsible Person judges this
+necessary. The Responsible Person inform the Complainant if the initial screening will take longer than set out
+above and the reasons for this.
+8.6 The Independent Investigator shall inform the Responsible Person of the outcome of the initial screening
+review. The Independent Investigator’s findings should be provided to the Responsible Person in writing, but
+not necessarily in the form of a formal report, and should clearly set out whether, in the opinion of the Independent
+Investigator, the Complaint meets all of the requirements set out in paragraph 8.4. Where two Independent
+Investigators have been appointed and they disagree on whether those requirements are met, the nature and
+reasons for the disagreement shall be set out in writing.
+8.7 Should the initial screening review conclude that the Complaint does not meet all of the requirements set
+out in paragraph 8.4, the Responsible Person may dismiss the Complaint or refer the Complaint to an alternative
+internal or external procedure or authority, as appropriate.
+8.8 If the initial screening review concludes that the Complaint meets all of the requirements set out in
+paragraph 8.4, the Responsible Person shall establish a Preliminary Investigation under Stage 2.
+8.9 The Responsible Person shall inform the Complainant, the Secretary of the Process and the Research
+Governance and Integrity Team of their decision in writing.
+8.10 The Complainant may appeal a decision to dismiss a Complaint under section 13.
+9. Stage 2 – Preliminary Investigation
+9.1 Once a decision has been made to establish a preliminary investigation, the Responsible Person will,
+seeking confidential advice where necessary:
+(a) comply with any requirement under grant conditions, law, or other obligations, to report the establishment
+of a Preliminary Investigation to funders of Research, publishers, regulators and professional and/or
+statutory bodies (see paragraph A4.6). Reports to such bodies may also be required at subsequent stages
+of the procedure.
+(b) take all possible steps to ensure that relevant Research, records or materials which might be required for
+evidentiary purposes or which may have been compromised by the alleged Research Misconduct, are
+preserved and if appropriate secured.
+9.2 The Responsible Person will ask the Independent Investigator to conduct the Preliminary Investigation. If
+required, for whatever reason, the Responsible Person may choose to appoint a new or a second Independent
+Investigator at this stage (see section A5). Where replacement of the Independent Investigator is required, this
+will be arranged without undue delay and the Complainant will be kept informed of progress.
+9.3 The Responsible Person will:
+(a) inform the Complainant in writing that the Complaint will be subject to a Preliminary Investigation,
+providing the identity of the Independent Investigator, a copy of this procedure and any materials necessary
+for the Complainant’s involvement in the investigation, and explain the next steps and timescales;
+(b) inform the Respondent of the intention to establish a Preliminary Investigation, providing details of the
+Independent Investigator, copies of the materials and a copy of the written findings of the initial screening
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+8
+
+review (subject to paragraph A2.5), a copy of this procedure, and explain the next steps and timescales,
+including the opportunity for the Respondent to respond to the Complaint and provide additional
+information or evidence, and the potential consequences should the Complaint be upheld. Where possible
+this should be done at a confidential meeting to which the Respondent may be accompanied as set out in
+section A3. Where this is not possible (for example, because the Respondent is no longer based in the
+University), this should be done through a formal confidential letter (delivered by post or electronically);
+(c) advise the Complainant and the Respondent on the circumstances in which they may request the
+replacement of the Independent Investigator as set out in paragraph A5.4.
+9.4 The Responsible Person should take all reasonable steps to inform the Respondent of the Preliminary
+Investigation and give the Respondent an opportunity to respond to the Complaint. Should it not prove possible,
+after a reasonable number of attempts, to contact the Respondent, or should the Respondent refuse to participate
+in the investigation, the investigation may continue without the Respondent’s participation and decisions will be
+based on the evidence available.
+9.5 The Responsible Person will provide the Independent Investigator with copies of all materials necessary
+to undertake the Preliminary Investigation. The Secretary of the Process will arrange administrative support for
+the Preliminary Investigation, which will usually be provided by the Research Governance and Integrity Team.
+9.6 The purpose of the Preliminary Investigation is to evaluate the facts of the Complaint in order to ascertain
+whether there is sufficient evidence of a case of Research Misconduct to require a Formal Investigation under
+Stage 3 of this procedure. The Independent Investigator will need to be satisfied that the information is sufficiently
+complete to be able to reach an informed decision. The Preliminary Investigation will normally include
+interviewing the Complainant and the Respondent. Any new evidence collected by the Independent Investigator,
+including notes of interviews, will be provided to the Respondent. The Complainant will receive any materials
+necessary for their involvement in the investigation.
+9.7 The investigation should normally take no more than 30 Working Days from the date of the appointment
+of the Independent Investigator to undertake the Preliminary Investigation until the delivery of the draft report
+to the Respondent (see paragraph 9.9 below). Should the Independent Investigator determine that more time will
+be needed to complete the Preliminary Investigation, the Independent Investigator may seek the permission of
+the Secretary of the Process to extend this deadline. The Secretary of the Process will inform the Respondent
+and the Complainant of any extension to the deadline and the reasons for this.
+9.8 The Independent Investigator will prepare a written report, setting out the evidence which has been
+evaluated and a conclusion as to whether in their opinion there is sufficient evidence of a case of Research
+Misconduct to require a Formal Investigation under Stage 3. Where the investigation has identified systemic
+challenges to research integrity or identified potential improvements to University policies, procedures or
+support, these should also be clearly set out in the report.
+9.9 The Independent Investigator will provide the Respondent with a draft copy of the report and give the
+Respondent an opportunity to comment in writing on the factual accuracy of the report within 10 Working Days.
+The Respondent’s written comments will be attached as an annex to the report. Only where the Independent
+Investigator judges that the report contains errors of fact should the Independent Investigator modify the report.
+If changes are made, the Independent Investigator will provide the Respondent with an amended copy of the
+report, with amendments clearly identified, and will give a further opportunity to the Respondent to comment on
+the changes made.
+9.10 The Independent Investigator will provide the Responsible Person and the Respondent with the final
+version of the report. The report will set out the outcome of the Preliminary Investigation, which will be one or
+more of the following findings:
+(a) There is insufficient evidence of a case of Research Misconduct and the matter should be closed.
+(b) It is not appropriate to consider the matter under this procedure and it should be referred for consideration
+under another University procedure or be dealt with by other means. This could include a referral for
+consideration under another disciplinary procedure, in which case the Responsible Person would consider
+whether any actions are necessary under section 14 after the conclusion of that disciplinary procedure.
+(c) There is insufficient evidence of a case of Research Misconduct for the matter to require further
+investigation under this procedure, but there is evidence of Questionable Research Practices or an honest
+error that should be addressed through mentoring, education and training or other non-disciplinary
+approaches. To conclude that an infraction has resulted from an honest error, the Independent
+Investigator must be satisfied that there was no evident intention to deceive and that the infraction was
+not the result of deliberate action, recklessness or negligence. The Responsible Person must consider the
+advice of the Secretary of the Process before concluding that a case may be dealt with through nondisciplinary measures.
+(d) There is sufficient evidence of a case of Research Misconduct to require a Formal Investigation under
+Stage 3 (see section 10 below).
+9.11 The Responsible Person will inform the Secretary of the Process and Research Governance and Integrity
+Team in writing of the Independent Investigator’s decision, providing them with a copy of the report. Where the
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+9
+
+Responsible Person is not the Respondent’s Head of Institution, the Head of Institution should also be informed
+and provided with a copy of the report. Where any Respondent is a member of staff, the Director of Human
+Resources or their nominated deputy shall also be provided with a copy of the report. Where the Respondent is
+a Student, the Senior Tutor of the Student’s College shall also be provided with a copy of the report. The
+Responsible Person shall write to the Complainant and to the Respondent to inform them of the outcome of the
+Preliminary Investigation and explain the next steps.
+9.12 If an investigation is closed at Stage 2, the Complainant may appeal that decision under section 13. If the
+decision is a finding under paragraph 9.10(b), (c) or (d) above, the Respondent may appeal that decision under
+section 13.
+10. Stage 3 – Formal Investigation
+10.1 If it is established that there is evidence of a case of Research Misconduct the Responsible Person shall
+refer the case to the Secretary of the Process and the Research Governance and Integrity Team to establish a
+Formal Investigation.
+10.2 The purpose of a Formal Investigation is to examine and evaluate all the relevant evidence and whether
+it is sufficient to support a decision by the Responsible Person that Research Misconduct has taken place and, if
+so, who was responsible and what action should ensue.
+10.3 The Secretary of the Process shall ask the relevant University committee to appoint a Formal Investigation
+Committee to undertake a Formal Investigation. The appointment process will be arranged without undue delay
+and the Complainant and Respondent will be kept informed of progress.
+(a) The relevant University committee shall be the Human Resources Committee where the Respondent is a
+member of assistant staff, the General Board where the Complaint concerns a University Institution under
+the supervision of the General Board or a postgraduate Student registered with the University but working
+at a University Partner Institution recognised by the General Board, and the Council where the Complaint
+concerns any other University Institution. In any instances where it is unclear which body should appoint
+the Formal Investigation Committee, the Secretary of the Process shall decide the most appropriate
+means of doing so. The Secretary of the Process may, where the Secretary considers this necessary, ask
+the Chair of the relevant University committee to appoint the members of the Formal Investigation
+Committee by Chair’s action, for subsequent report to the University committee.
+(b) The Formal Investigation Committee shall consist of at least three persons, one of whom shall be
+appointed as the Chair and at least one of whom shall be an external member. 16 Those members of the
+Formal Investigation Committee who are not external shall be University officers and shall not hold an
+affiliation or appointment in the same University Institution as either the Respondent or the Complainant.
+The Chair will not normally be an external member. All members must have appropriate expertise to
+investigate the case, experience in the relevant field, and must have no conflict of interest in, or previous
+involvement with, the case (see section A5).
+10.4 The Secretary of the Process will:
+(a) define in writing the Complaint to be investigated;
+(b) inform the Respondent and the Complainant in writing of the Complaint to be formally investigated, the
+names of the members of the Formal Investigation Committee and details of next steps and timescales;
+(c) explain to the Respondent and the Complainant the circumstances in which they may request the
+replacement of members of the Formal Investigation Committee under paragraph A5.3;
+(d) inform the Complainant that they will be invited to be interviewed and the Respondent that they will be
+invited to a hearing in due course, explaining the arrangements for these meetings (including that the
+Respondent will be able to ask questions about the evidence, provide additional information and call
+witnesses as part of the hearing).
+(e) appoint an individual to act as secretary to the Formal Investigation Committee, who will usually be a
+member of the Research Governance and Integrity Team.
+10.5 The Formal Investigation should normally take up to 40 Working Days from the date of the appointment
+of the Formal Investigation Committee until the delivery of the draft report to the Respondent (see
+paragraph 10.11 below). Should the Chair of the Formal Investigation Committee determine that more time
+will be needed to complete the Formal Investigation, they may seek the permission of the Secretary of the
+Process to extend this deadline. The Secretary of the Process will inform the Respondent and Complainant of
+any extension to the deadline and the reasons for this.
+For the purposes of this procedure, the definition of ‘external member’ in Special Ordinance A (viii) 6 shall apply, i.e. any
+person who at the time of appointment is not qualified to be a member of the Regent House except under Special Ordinance A
+(i) (a)(ii) nor is an employee of the University or any of its companies or a College. For allegations involving staff on honorary
+clinical contracts the Committee may include members from the employing NHS Trust, but those members will not be
+considered external members.
+16
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+10
+
+10.6 The Formal Investigation Committee will:
+(a) examine all relevant documentation from Stages 1 and 2 of the procedure;
+(b) identify whether it requires further information and obtain this;
+(c) interview the Complainant, as well as any other individuals whom the Formal Investigation Committee
+believe may possess knowledge or information relevant to the Complaint. With the exception of the
+Complainant, individuals interviewed at the Preliminary Investigation Stage will not be interviewed
+again unless the Chair of the Committee considers this necessary;
+(d) provide the Respondent with all evidence, including notes of interviews, subject to paragraph A2.5; and
+(e) provide the Complainant with all evidence necessary to participate in the Formal Investigation.
+10.7 Once all interviews have been completed and all notes and evidence have been shared with the Respondent,
+the Formal Investigation Committee will then invite the Respondent, in writing, to a hearing, which will be held
+without unreasonable delay. The Respondent will be provided with a reasonable amount of time to prepare their
+case in advance of the hearing. The Respondent may submit additional evidence in advance of the hearing and
+will be invited to call witnesses to support their case. The Respondent must provide reasonable advance notice
+to the secretary of the Formal Investigation Committee of any intention to call witnesses. Witnesses called by
+the Respondent or the Formal Investigation Committee may attend the hearing to provide their statement in
+person or instead provide a witness statement in advance of the hearing if they attend but prefer not to present
+their own statement or if they are unable to attend (hearings will not be delayed to enable witnesses to attend in
+person). The Respondent should make every effort to attend the hearing.
+10.8 At the hearing the Formal Investigation Committee will explain the Complaint, discuss the evidence, and
+ask the Respondent questions. The Respondent will be given the opportunity to set out their response to the
+Complaint, ask the Committee questions, present their own evidence, call witnesses to support their case and
+raise points about the information provided by witnesses. The Respondent is encouraged to provide any new
+written evidence in advance of the meeting. If the Chair of the Formal Investigation Committee considers that it
+is in the interest of fairness to do so, the Respondent may introduce new additional evidence (including the
+calling of additional witnesses) after circulation of the papers for the hearing or at the hearing. The Chair of the
+Formal Investigation Committee may at their discretion decide to adjourn the hearing, provided that any
+adjournment will not lead to an unreasonable delay.
+Following the hearing, the Formal Investigation Committee will consider its conclusions in private. The
+Formal Investigation Committee will aim to make a unanimous decision, failing which a majority decision will
+be acceptable.
+10.9 The Formal Investigation Committee will prepare a final written report. The report will summarise the
+evidence collected by the Formal Investigation Committee (and by the Respondent, if applicable) and provide
+its conclusions, with the reasons for these, and may make recommendations for actions to be taken by the
+Responsible Person (see paragraph 11.3). Where the Formal Investigation Committee is unable to reach a
+definitive conclusion, it will give its reasons and make recommendations on possible methods for closure.
+10.10 The Formal Investigation Committee may also make any further recommendations as it sees fit. This
+might include measures to safeguard Research participants, correct the Research record or investigate other
+matters of possible misconduct. Where the Formal Investigation has identified systemic challenges to research
+integrity or identified potential improvements to University policies, procedures or support, these shall also be
+clearly set out in the report.
+10.11 The secretary to the Formal Investigation Committee shall provide the Respondent with a draft copy of the
+report and an opportunity to comment in writing on the factual accuracy of the report within 10 Working Days. The
+written comments will be attached as an annex to the report. Only where the Formal Investigation Committee
+judges that the report contains errors of fact should it modify the report. If changes are made, the secretary to the
+Formal Investigation Committee shall provide the Respondent with an amended copy of the report, with amendments
+clearly identified, and give the Respondent a further opportunity to comment on the changes made.
+10.12 The secretary to the Formal Investigation Committee shall provide the final version of the report to the
+Respondent, the Secretary of the Process, the Responsible Person and the Research Governance and Integrity
+Team.
+11. Action on receipt of a Stage 3 report
+11.1 The Responsible Person, taking the advice of the Secretary of the Process and the Research Governance
+and Integrity Team, will consider the report and will take such action as they deem appropriate in light of the
+findings of the Formal Investigation Committee.
+11.2 Actions taken by the Responsible Person will be one or more of the following:
+(a) a determination that Research Misconduct has not taken place, and the Complaint should be dismissed;
+(b) a determination that Research Misconduct has taken place such that it will be referred for consideration
+under the applicable University disciplinary procedure (see section 12). For the purposes of reporting and
+other consequential actions under section 14, this will be considered a finding of Research Misconduct on
+the balance of probabilities against the Respondent. Results of any investigation undertaken under this
+procedure, including the final report and any evidence collected, may be taken into account for the
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+11
+
+purposes of any disciplinary procedure;
+(c) a determination that Research Misconduct has not taken place, but the evidence does indicate
+Questionable Research Practices or an honest error, that should be addressed through mentoring,
+education and training or other non-disciplinary approaches. To conclude that an infraction has resulted from an
+honest error, the Responsible Person must be satisfied that there was no evident intention to deceive and that the infraction
+was not the result of deliberate action, recklessness or negligence. The Responsible Person must consider the advice
+of the Secretary of the Process before concluding that a case may be dealt with through non-disciplinary
+measures;
+(d) a determination that Research Misconduct has not taken place, but the Formal Investigation has identified
+matters that should be referred for consideration under another University procedure or be dealt with by
+other means;
+(e) in the case of a Complaint relating to a Respondent who is not a University employee or a Student, a
+recommendation as to the appropriate next step bearing in mind the status of the Respondent.
+11.3 The secretary to the Formal Investigation Committee shall provide the Respondent and the Complainant
+with written confirmation of the decision following the Final Investigation and the actions being taken, which
+should summarise the reasons for those decisions.
+11.4 If the Complaint is dismissed at Stage 3, the Complainant may appeal the decision under section 13.
+11.5 If the decision following the Formal Investigation is any of the actions under paragraph 11.3(b)–(e), the
+Respondent may make an appeal under section 13.
+12. Referral to a disciplinary procedure
+12.1 Should there be a decision at the Formal Investigation stage of this procedure (Stage 3) that the matter
+should be referred for consideration of the appropriate sanction under the University disciplinary procedure
+applicable to the Respondent, the matter shall proceed according to that disciplinary procedure. Where more
+than one procedure may be appropriate, the Secretary of the Process shall take advice from HR or, in the case of
+students, the Office of Student Conduct, Complaints and Appeals.
+12.2 In the case of University officers, for whom the relevant disciplinary procedure is contained in Chapter III
+of the Schedule to Statute C, a decision will be made by the Responsible Person under that disciplinary procedure
+as to whether the matter should be addressed within the Department or other institution under sections 2 or 3, or
+referred to the Vice-Chancellor under section 5, of that chapter (https://www.admin.cam.ac.uk/univ/so/). The
+Responsible Person may ask the Formal Investigation Committee to provide an additional report assessing its
+findings against the higher standard of proof (beyond reasonable doubt) where the matter has or may be referred
+to the Vice-Chancellor under Chapter III of the Schedule to Statute C.
+12.3 For unestablished academic and academic-related staff (including contract research staff), the matter will
+be handled according to the Statement of the University’s policy and procedures relating to disciplinary
+action, grievances and appeals in respect of unestablished academic and academic-related staff
+(https://www.hr.admin. cam.ac.uk/policies-procedures/disciplinary-action-grievances-and-appeals0/disciplinary-grievances-and- appeals).
+12.4 In the case of assistant staff, the matter will proceed according to the Disciplinary Procedures set out in the
+Assistant Staff Handbook (https://www.hr.admin.cam.ac.uk/hr-staff/information-staff/assistant-staff-handbook/
+disciplinary-procedures).
+12.5 In the case of clinical staff, the matter will proceed according to the disciplinary procedures relevant to
+both the University and the relevant NHS Trust where the postholder holds an honorary clinical contract. The
+report on the Formal Investigation and any relevant information including the outcome of any disciplinary
+process will be shared with the relevant NHS Trust and regulatory body (GMC/NMC/HCPC) where appropriate.
+12.6 In the case of University Students or former Students, the matter will proceed according to the University
+Student Disciplinary Procedure (https://www.studentcomplaints.admin.cam.ac.uk/student-discipline).
+12.7 In cases in which the Respondent is not an employee, Student or former Student of the University, it will
+not be possible for the University to take disciplinary action. In the case of workers employed by the University
+or visiting scholars, the matter will be dealt with according to the UPS handbook or the relevant visitor agreement
+as appropriate and may lead to the termination of the assignment or visitor agreement.
+12.8 The decision following a Formal Investigation under this procedure resulting in an action under
+paragraph 11.2(b) will not be retrospectively affected by any subsequent disciplinary procedure. For the
+avoidance of doubt, a determination under paragraph 11.2(b) shall not be reversed by the decision in subsequent
+disciplinary proceedings. The Respondent may appeal the findings of an investigation undertaken under this
+procedure as part of an appeal against the decision following the Formal Investigation under section 13.
+13. Appeal
+13.1 Should either the Respondent or Complainant wish to appeal the outcome of this procedure, they can do
+so by making written representations to the Secretary of the Process within 15 Working Days of receipt of the
+decision. For the purpose of this Appeal Stage, the outcome is the decision that concludes the procedure as
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+12
+
+described in previous sections, including but not limited to any actions the Responsible Person decides to take
+under paragraph 11.2. The Respondent or Complainant will set out the grounds of appeal and state whether the
+appeal is in respect of the whole or any specified part of any finding of fact or decision.
+13.2 The Academic Secretary will appoint an Appeal Manager, who will be a University officer of seniority
+equivalent to or greater than the Responsible Person, and who has no conflict of interest and has had no previous
+involvement in the case. A member of the Research Governance and Integrity Team and an HR representative
+will be appointed to provide procedural advice to the Appeal Manager. The Appeal Manager will receive all
+documents relied upon by the Responsible Person in reaching a decision.
+13.3 During the appeal proceedings, the Appellant will not be entitled, except with the agreement of the
+Appeal Manager, to rely on any grounds of appeal not specified in their written appeal.
+13.4 Where the appeal directly affects another person (for example, the Complainant, if the Respondent
+submits an appeal, or vice versa), that person should be advised of the appeal, the likely timescale for considering
+it, and the outcome of the appeal. If new information is required from that person in order to decide the outcome
+of the appeal, they will be provided with the necessary information and an opportunity to respond to the points
+made in the grounds of appeal. The person affected will be told if anyone else is to be informed about the appeal
+outcome and about the type of information they will be given.
+13.5 An appeal hearing should be arranged without unreasonable delay. Notes will be taken at the appeal
+hearing.
+13.6 The Appellant may make representations in person and/or in writing at the appeal hearing.
+13.7 Unless the Appellant has indicated they do not wish to make representations in person, they must make
+every effort to attend the hearing. If the Appellant fails to attend without good reason, or is persistently unable
+to do so, the Appeal Manager may proceed on the evidence available in the Appellant’s absence.
+13.8 Others involved in the investigation (e.g. the Responsible Person, the Investigator or witnesses) may be
+asked to attend the appeal hearing, or to provide written representations in advance of the hearing, to respond to
+questions raised by the Appeal Manager. Anyone attending the appeal hearing may be accompanied as set out
+in section A3.
+13.9 The Appeal Manager may set time-limits for each stage of the appeal proceedings, including a time-limit
+within which the hearing will take place, so that the appeal will be heard and determined as expeditiously as is
+reasonably practicable. The Appeal Manager may at their discretion decide to adjourn the appeal hearing,
+provided that any adjournment will not lead to an unreasonable delay.
+13.10 Following the appeal hearing, the Appeal Manager will consider the facts of the case and may uphold
+or dismiss the appeal, in whole or in part.
+13.11 The Appeal Manager will notify the Appellant of their decision in writing, setting out reasons for the
+decision. This should occur without unreasonable delay and wherever possible within 10 working days of the
+appeal hearing. A copy of the letter will be sent to the Secretary of the Process. In cases where the Respondent
+is not the Appellant, the Respondent should be advised of any parts of the Appeal Manager’s decision relevant
+to them.
+13.12 The Appeal Manager may decide to vary the above Appeal Stage procedure as they deem appropriate,
+provided the appeal is dealt with fairly and impartially and without unreasonable delay.
+13.13 There is no further right to appeal the outcome of this procedure.
+14. Completion of the procedure
+14.1 Following the issue of a decision in writing concluding the procedure, or the referral of the matter for
+consideration under another procedure (following, if appropriate, the conclusion of any appeal under section 13),
+the Responsible Person shall ensure that the following actions are taken, aiming to complete them within three
+months of completion of the Formal Investigation:
+(a) the notification of all regulatory, funding or other bodies required to be notified of the outcome of the
+procedure under grant conditions, by law or other obligations;
+(b) the notification of Research participants or patients (and their doctors) as circumstances, contractual and
+ethical obligations and statutory requirements dictate;
+(c) the notification of any third parties deemed by the Responsible Person to have a legitimate interest in the
+outcome of the procedure, for example, other employing institutions;
+(d) the recommendation of any changes to the internal management procedures governing the Research
+concerned, including training and enhanced supervision where appropriate;
+(e) discussion with the Research Governance and Integrity Team of any recommendations or lessons learnt
+that suggest the need for changes to University policies, procedures or support. Where serious systemic
+research integrity issues have been identified, the Research Governance and Integrity Team will inform
+the Pro-Vice-Chancellor with responsibility for Research and agree steps for action to address these;
+(f) the rectification of the Research record where required, including but not limited to informing the editors
+of any journals that have published articles concerning Research linked to a Complaint which has been
+upheld.
+
+Procedure for the Investigation of an Allegation of Research Misconduct (2026)
+
+13
+
+14.2 If, at any stage of the procedure, a Complaint is dismissed, withdrawn or found to be unsubstantiated, the
+Responsible Person shall take any action they deem necessary to protect the interests and reputation of the
+Respondent and the University. This may include ensuring that all those who had been made aware of the
+Complaint are informed in writing that the Complaint has been investigated and that no further action is to be
+taken. If the Complaint or the substance of the Complaint was published, the University will make public the
+outcome of the procedure.
+14.3 In handling the outcome of this procedure, or of any procedure to which a Complaint made under this
+procedure is referred, the Responsible Person will not make inappropriate use of legal instruments, such as nondisclosure agreements, to censor parties.
+14.4 Where the decision under Stage 2 or Stage 3 of this procedure is that the Respondent is to undertake
+mentoring, education, training or another activity, the Respondent’s failure to participate in such activity may
+result in disciplinary action being taken.
+15. Continuation of investigation
+15.1 The Responsible Person may decide to take no further action at any point during this procedure for good
+cause, including the receipt of new information about the Complaint. The Respondent resigning from, or
+otherwise leaving, the University before the conclusion of this procedure alone shall not constitute good cause.
+The Respondent should also be advised that the University may inform, and in some cases may be legally
+obliged to inform, future employers, regulatory, funding or professional bodies that a Complaint has been made,
+irrespective of whether the procedure has concluded.
+15.2 Where the Respondent admits the Complaint made against them, or otherwise admits Research
+Misconduct, the Responsible Person, with the advice of the Secretary of the Process, will decide whether to
+continue with this procedure or to refer the matter for consideration under a University disciplinary procedure
+as set out in section 12.
+15.3 Where the Complainant withdraws the Complaint or fails to participate in the procedure, the Responsible
+Person, with the advice of the Secretary of the Process, will nevertheless seek, wherever possible, to complete
+the procedure.
+16. Record-keeping
+16.1 On the completion of any investigation under this procedure, the Responsible Person and, if appropriate,
+the secretary to the Formal Investigation Committee will provide the Research Governance and Integrity Team
+with all substantive records in their possession relating to the investigation procedure, including notes of
+meetings. A record of every Complaint, its outcome and the location of all records relating to that Complaint will
+be kept by the Research Governance and Integrity Team.
+16.2 The Research Governance and Integrity Team will ensure that proper records of all stages of the procedure
+are kept in accordance with the University’s Statement of Records Management Practice and Master Records
+Retention Schedule. 17
+Procedure Owner:
+Date Last Reviewed:
+Date of Next Review:
+
+17
+
+Research Integrity Team
+12/02/2026
+12/02/2029
+
+https://www.information-compliance.admin.cam.ac.uk/records-management.
+
+Appendix A: Supplementary information on implementation (2024) 18
+
+Appendix A: Supplementary Information on the Implementation of the Procedure for the Investigation
+of an Allegation of Research Misconduct
+A1. Suspension, exclusion and/or modified duties
+A1.1 At any stage of the procedure, the Responsible Person may recommend that the Respondent should be
+suspended from work on full pay or from study, excluded from all or part of the University premises 1, and/or
+required to carry out modified duties. This recommendation should be made with the advice of the Secretary of
+the Process and the HR Division 2 or, for Students, the Office of Student Conduct, Complaints and Appeals. The
+suspension, exclusion and/or modified duties will be taken in accordance with the relevant procedure for the
+Respondent.
+A1.2 Suspension, exclusion and/or modified duties are not disciplinary decisions, although in some cases, the
+procedure for making such decisions is part of a disciplinary procedure. Imposing such conditions does not
+imply that any decision has been made about whether or not Research Misconduct has been committed.
+A1.3 In the case of a University officer, the Responsible Person shall refer the matter to the Vice-Chancellor,
+in accordance with Section 5 of Chapter III of the Schedule to Statute C, and the Vice-Chancellor shall determine
+whether or not suspension, exclusion and/or modified duties is appropriate pursuant to Section 7 of Chapter III
+of the Schedule to Statute C. Thereafter, the procedure in Chapter III of the Schedule to Statute C shall be
+followed in relation to the Complaint against that individual Respondent, subject to paragraph 4.6 of the
+Procedure for the Investigation of an Allegation of Research Misconduct.
+A1.4 In the case of an employee who is not a University officer, if the Responsible Person considers that
+suspension, modified duties and/or exclusion from University premises is appropriate, they shall refer the
+question to the Respondent’s Head of Institution, who shall in each case determine whether the action should be
+taken in accordance with the relevant disciplinary procedure, and if so, be responsible for informing the
+Respondent and monitoring the decision until such time as it comes to an end.
+A1.5 In the case of a Student, the Responsible Person shall refer the matter to the Head of the Student
+Conduct, Complaints and Appeals Office for consideration under the appropriate procedure. 3
+A1.6 In relation to any other Respondent, the Responsible Person may consider whether suspension, exclusion
+and/or modified duties would be appropriate in relation to the status of the Respondent and what, if any,
+procedure would be applicable.
+A1.7 If an individual is suspended, placed on modified duties or excluded from University premises, this
+situation should be monitored and if, at any stage, the conditions imposed on the individual concerned are
+considered no longer to be necessary, the Responsible Person shall remove the condition.
+A1.8 During a suspension or exclusion, should the Respondent require access to excluded resources for the
+purpose of taking copies of relevant evidence for use in their response, the Respondent will normally be
+permitted to do so if accompanied by the Responsible Person or another member of University staff appointed
+by the Responsible Person for this purpose. For the avoidance of doubt, being provided with access to resources
+under this provision entitles the Respondent to review or obtain only information to which they would otherwise
+already have access, and while the Respondent may take copies of relevant information, no information may be
+altered, removed or deleted.
+A1.9 If required, any suspension, exclusion and/or modified duties should be reported to funders or other
+authorities according to paragraph A4.7 below.
+A1.10 The Responsible Person will normally recommend suspension, modified duties or exclusion from
+University premises only in cases where the Responsible Person reasonably believes that:
+(a) there is a serious risk that the Respondent may hinder or prejudice the investigation; and/or
+(b) the Respondent may pose a serious risk to the integrity of the evidence to be used in the investigation
+or to other Research data or materials; and/or
+(c) the Respondent’s continued involvement in their duties or presence on University premises has
+the potential to pose a risk to humans or animals; and/or
+(d) it would be difficult for the Respondent, or others with whom they come into contact in the course of
+their work/study, to perform their duties while the investigation is being conducted.
+A1.11 Unless otherwise specified, suspension normally means that the Respondent is required not to visit any
+work premises and not to perform the duties of their role. In some situations less significant temporary
+adjustments to working arrangements can remove the need to suspend. Examples of such adjustments include:
+(a) placing the individual on restricted duties;
+University premises are here defined as those University-occupied locations where the Respondent would normally be
+expected to conduct their studies or work on behalf of the University.
+2
+Normally advice will be taken from the HR Business Partner.
+3
+For registered students, this will be under Special Ordinance D (v) concerning precautionary action.
+1
+
+Appendix A: Supplementary information on implementation (2024) 19
+
+(b) excluding the individual from part of the University’s premises;
+(c) restricting or removing access to particular equipment, software, digital spaces or services (e.g. email or
+share data storage);
+(d) temporarily transferring the Respondent to different a role (which should be of a similar status to their
+normal role and on the same terms and conditions of employment).
+If the Respondent is a Student and subject to precautionary action under Special Ordinance D (v), in addition to
+suspension from studies, the Student may also be excluded from all or part of the University’s facilities or
+premises, and conditions may be imposed on the use of facilities or on the Student’s contact with other persons.
+A1.12 The Responsible Person will consider whether any temporary adjustments can be made and will only
+make a decision to suspend the Respondent where such adjustments are not practical. The Responsible Person
+will take care to ensure that any conditions imposed on the Respondent’s working arrangements are proportionate
+to the risk that they are designed to address (and effectively address that risk). Except in respect of University
+officers, the adjustments may be taken by the Head of Institution on the basis of their own authority, provided
+that it is justified in the circumstances. However, the Head of Institution is advised to consult with the HR Division
+before taking such action so that appropriate advice and support can be provided. The HR Division must be
+consulted before any such adjustments to working arrangements are made in respect of University officers.
+A2. Anonymity and redaction
+A2.1 Complainants are encouraged to put their name to any Complaint. If a person making a Complaint
+identifies themselves to the person to whom the Complaint is made, but wishes to remain anonymous, their
+identity will be kept confidential so far as is possible provided that this is compatible with a proper investigation.
+In the interests of transparency and fairness, the University wishes to avoid, where possible, keeping the names
+of those making key contributions to the investigation confidential.
+A2.2 If the University receives an anonymous Complaint, a Complaint by an individual or group operating
+under a pseudonym, or any other Complaint with no specific Complainant (for example made anonymously
+online or where strong evidence of misconduct is provided by a Complainant who subsequently withdraws their
+Complaint), such Complaints may be investigated or acted upon as the Secretary of the Process sees fit, having
+regard to the seriousness of the issue raised, the credibility of the Complaint, and the prospects of being able to
+investigate the matter fully and fairly.
+A2.3 In circumstances in which there is no specific Complainant or the Complainant has not identified
+themselves to the person to whom the Complaint is made, the Investigation will normally proceed without a
+Complainant. To help ensure the confidentiality of the investigation procedure, the Responsible Person may
+limit the information provided to anonymous or pseudonymous Complainants regarding the investigation as
+they see fit.
+A2.4 As part of any investigation process, it will not be possible to interview those Complainants who have
+chosen to withhold their identify from the person receiving the Complaint and remain fully anonymous.
+Individuals who have identified themselves, but wish to remain anonymous, will be interviewed wherever
+possible.
+A2.5 In some circumstances it may be necessary to redact documents and/or meeting notes. Redacting may
+happen when information is presented that is not directly relevant to the investigation, or which could cause
+offence, or is inflammatory, or financially or commercially sensitive, or contains personal data and/ or is
+otherwise confidential. Any redaction must not affect the right of the Respondent to understand the nature of the
+Complaint and have sufficient details to be able to respond to the Complaint. Any redacting is usually done by
+the Research Governance and Integrity Team and HR Schools team in conjunction with the Responsible Person.
+A3. Attendance at meetings
+A3.1 Any Respondent, Complainant or witness attending a meeting (including a hearing or interview) as part
+of this procedure (interviewee) may be accompanied by another person as defined below.
+A3.2 Where the interviewee is an employee or worker of the University, the accompanying person will be an
+employee or worker of the University, a trade union representative or an official employed by a trade union.
+Where the interviewee is a student, they may be accompanied by a representative of their College, an individual
+acting in an official capacity as a Student Union official, or an employee of the University. Where the interviewee
+is not an employee of the University, they may be accompanied by an appropriate companion (although not a
+legal representative). Other individuals may accompany the interviewee to investigatory meetings with the
+agreement of the Secretary of the Process, not to be unreasonably withheld.
+A3.3 The interviewee should notify the University of the name of the accompanying person in enough time
+for the University to prepare for the accompanying person’s attendance at the meeting. If the accompanying
+person is not available at the time proposed for the meeting, this should be raised immediately so that an
+alternative time can be arranged. Meetings will be postponed to allow an accompanying person’s attendance
+provided that the alternative time is reasonable and ideally not more than five Working Days after the date
+
+Appendix A: Supplementary information on implementation (2024) 20
+
+originally proposed.
+A3.4 The accompanying person will be required to maintain appropriate confidentiality. The accompanying
+person will be allowed to address the meeting, to put and sum up the interviewee’s case, confer with the
+interviewee during the meeting and respond on their behalf to views expressed at the meeting. The accompanying
+person does not, however, have the right to address the meeting if the interviewee does not wish it, or prevent
+any other individual at the meeting from speaking or making a case.
+A3.5 An accompanying person does not have to agree to attend a meeting if invited. The role is voluntary.
+If the accompanying person is a University employee, that person will receive paid time off work to attend the
+meeting.
+A3.6 Although it is preferable for interviewees to attend meetings in person, the Secretary of the Process may
+approve the use of teleconferencing or other remote attendance where appropriate. Reasonable adjustments will
+be made to interview processes if required on the basis of disability.
+A4. Confidentiality and formal reporting
+A4.1 Complaints will be dealt with under this procedure as confidentially as is reasonably practicable. Details
+of the Complaint (including the names of the Complainant and the Respondent) must only be disclosed on a
+‘need-to-know’ basis. Breach of confidentiality in either an informal or formal resolution process may give rise
+to disciplinary action under the relevant disciplinary procedure. The confidential nature of the proceedings will
+be maintained provided this does not compromise either the investigation, any health and safety requirement,
+any legal, contractual or regulatory obligation of the University, or any issue related to the safety of participants
+in Research. Personal data, including any special category data, collected during the course of the procedure will
+be used and stored in accordance with current data protection legislation and the University’s Data Protection
+Policy, 4 and will only be shared where necessary to carry out this procedure.
+A4.2 The substance of a Complaint and evidence provided will be disclosed to the Respondent in full except
+in exceptional circumstances, and to the extent it is lawful to do so.
+A4.3 The Complainant, Respondent, and all those involved in the procedure for investigating a Complaint,
+including witnesses, representatives and persons providing information, evidence and/or advice, have a duty to
+maintain strict confidentiality, unless otherwise required by law or to the extent that the consent of the University
+and any other relevant parties has been obtained.
+A4.4 In exceptional circumstances, the Secretary of the Process may approve limitations on the information
+provided to individuals, other than the Respondent, involved in an investigation. For the avoidance of doubt, this
+includes the Complainant and, exceptionally, may include undertaking an investigation without informing or
+involving the Complainant.
+A4.5 The number of Preliminary and Formal Investigations undertaken by the University on an annual basis,
+together with information on the type of issue investigated and whether Research Misconduct was found to have
+taken place, will be reported, in an anonymised form, in the University’s annual public research integrity report.
+A4.6 The University will report Complaints, investigations, and suspensions to funders, collaborators, coemployers, publishers, regulators and professional and/or statutory bodies if and as required by grant/contractual
+conditions, legal requirements or other obligations. Information may also be made available to the University’s
+professional advisers and insurers as required. Reporting will be carried out by the Research Governance and
+Integrity Team on behalf of the Responsible Person. The Research Governance and Integrity Team will be
+responsible for advising the Responsible Person and the Secretary of the Process on reporting requirements.
+A5. Experience, delegation and conflicts of interest
+A5.1 All persons undertaking a decision-making, investigatory or formal advisory role under the procedure
+must possess appropriate experience and knowledge to be able to undertake their role. They must not have a
+conflict of interest in the matters under investigation. They must also have undertaken unconscious bias training.
+All such persons will be prepared and supported for their role by the Research Governance and Integrity team
+and, where judged necessary by that team, will receive training in investigation best practice. Where possible
+the Formal Investigatory Committee will include at least one member who has received training in investigation
+best practice.
+A5.2 Any reference in this procedure to a University officer or other named role (other than the Respondent
+or Complainant) includes a deputy appointed by that officer or roleholder or by the Registrary to exercise the
+functions assigned to that officer or roleholder under this procedure.
+A5.3 A conflict of interest can be defined as a set of circumstances that creates a risk that professional
+judgement or actions regarding one interest will be unduly influenced by another interest. Conflicts of interest
+may include personal interests (such as friendships or close personal relationships), financial interests (such as
+investments that may be impacted by the outcome of an investigation) or professional interests (such as having
+supervised or published with an individual involved in an investigation). Minor connections, such as sharing a
+4
+
+https://www.information-compliance.admin.cam.ac.uk/data-protection.
+
+Appendix A: Supplementary information on implementation (2024) 21
+
+College, Department or Faculty, or having met or been acquainted with a Respondent or Complainant, would
+not normally be considered conflicts of interest.
+A5.4 Any individual with a conflict of interest that might impair their ability to perform their role or who has
+concerns about conflicts of interest held by others must provide information on that conflict directly to the Secretary
+of the Process or through the Research Governance and Integrity Team. The Secretary of the Process shall determine
+whether a conflict of interest exists and, if so, shall recommend steps to mitigate it, which may include the
+replacement of any individual with a decision-making, investigatory or formal advisory role in the procedure.
+A5.5 Where the Secretary of the Process determines that the person who would normally act as the Responsible
+Person has a conflict of interest, or that person is unable to act in this role for any other reason, the Secretary of
+the Process shall determine who is to be the Responsible Person. For the avoidance of doubt, being Head of the
+Institution in which the Respondent holds an affiliation or appointment should not, in itself, be considered
+sufficient to constitute a conflict of interest barring an individual from serving as the Responsible Person.
+A5.6 At various stages of this procedure the Respondent and the Complainant will be informed of the identities
+of those who are undertaking an investigatory or decision-making role in the procedure. Upon receipt of
+notification of the identity of those persons, the Respondent or the Complainant may, if they consider that the
+provisions of paragraph A5.1 are not fulfilled, request that these individuals be replaced. Any such challenge
+must be made in writing to the Secretary of the Process within five Working Days of receipt of the notification
+of the identities of the individuals concerned. The Secretary of the Process may replace the individuals concerned
+if the Secretary is satisfied that the Respondent or the Complainant has presented reasonable grounds why the
+individuals concerned are not appropriate.
+A6. Recording of interviews
+A6.1 The Secretary of the Process or the Research Governance and Integrity Team shall arrange for a notetaker
+to be present at any interview to take a note of the interview. The interview notes will provide a summary of the
+key discussion points and are not intended to be a verbatim record.
+A6.2 A draft of the interview notes will be agreed by the notetaker and the Independent Investigator or the
+Formal Investigation Committee. The Investigator or the secretary of the Formal Investigation Committee will
+send the agreed draft to the person interviewed, who will be asked to confirm whether it is a factually accurate
+note of the interview. The interviewee should provide any proposed amendments to the notetaker within five
+Working Days of the interviewee receiving the notes.
+A6.3 The notetaker will ask the Independent Investigator or the Formal Investigation Committee to consider
+whether they agree with the proposed amendments. Should the amendments be agreed, the notetaker will
+provide the agreed notes for inclusion in the evidence. Where it is not possible to agree a single set of notes, both
+versions will be included in the evidence.
+A6.4 No party may make an electronic recording (whether audio or video) of any interview held under this
+procedure. If a University employee or Student makes such a recording without consent, this may result in
+disciplinary action.
+A7. Support for Respondents and Complainants
+A7.1 Respondents and Complainants who are members of University staff may seek advice and support
+from the University’s HR Division, from their trade union, or from a legal representative.
+A7.2 Support for University Students is available from their College Tutor and the Students’ Union’s
+Advice Service (https://www.studentadvice.cam.ac.uk/).
+A7.3 Those involved in investigations under this procedure may seek the support of the University
+Counselling Service (https://www.counselling.cam.ac.uk/) and the Staff Counselling Service
+(https://staff.counselling.cam.ac.uk/)
+A7.4 Further details of the support services available at the University can be found on the following
+webpages:
+• https://www.hr.admin.cam.ac.uk/hr-services/wellbeing/support-services-university
+• https://www.studentwellbeing.admin.cam.ac.uk/
+A7.5 Support will be given as required if English is not the first language of those involved in this procedure.
+A8. Further advice
+A8.1 Confidential advice on this procedure or on matters of potential Research Misconduct may be sought
+at any time from:
+• Research Governance and Integrity Team: researchintegrity@admin.cam.ac.uk
+• Human Resources Division – please contact your School’s HR Adviser or HR Business
+Partner: https://www.hr.admin.cam.ac.uk/hr-services/hr-business-partnering
+• Office for Student Conduct, Complaints and Appeals: https://www.studentcomplaints.admin.cam.ac.uk/
+
+Appendix B: Dispute Resolution Process
+B1. Scope
+B1.1 This is a sub-process of the Procedure for the Investigation of an Allegation of Research Misconduct
+(Research Misconduct Procedure). All terms used should be understood according to the definitions set in that
+procedure.
+B1.2 The process is designed to allow the proportionate handling of Concerns regarding Research practice at
+the University of Cambridge that do not require the use of the Research Misconduct Procedure. Its purpose is to
+enable Concerns to be handled through mediation and to avoid the need for the full investigatory procedure.
+B1.3 Specifically it is intended for the handling of Concerns for which:
+(a) the Concern is one brought to seek redress or to settle a dispute (such as a Concern regarding
+unfair authorship practices or seeking a correction to a published article); and
+(b) it remains possible to address the Concerns raised (e.g. through an agreement by the Respondent to
+take particular action to address the Concern, such as correcting a published article); and
+(c) the Responsible Person is satisfied that, should the Concern have substance, corrective action would
+be sufficient to address the Concern (i.e. disciplinary action against the Respondent would not be
+appropriate).
+B1.4 Concerns may only be referred to the dispute resolution process with the written consent of the
+Complainant.
+B1.5 This process is voluntary for all involved, although should the Respondent and Complainant agree to this
+process, they will be asked to provide written confirmation that they will commit to participate until the
+conclusion of the process.
+B2. Process
+B2.1 Where a decision has been made to refer a Concern to the dispute resolution process, the Responsible
+Person will, seeking confidential advice where necessary:
+(a) inform the Secretary of the Process and the Research Governance and Integrity Team of the decision; and
+(b) write to the Respondent to ask them to participate in the dispute resolution process, providing them with
+details of the Concern raised and a copy of this process. It should be made clear to the Respondent that
+this process is designed to settle the dispute or Concern without requiring investigation under the Research
+Misconduct Procedure.
+B2.2 Should the Respondent refuse to participate in the dispute resolution process or fail to respond to the
+Responsible Person within a reasonable time period, the Responsible Person shall write to the Complainant to
+inform them of the Respondent’s decision or failure to respond. The Complainant may, as appropriate, inform
+the Responsible Person that they wish that their Concern to be considered as a Complaint of Research Misconduct
+as set out under paragraph 6.7 of the Procedure for the Investigation of an Allegation of Research Misconduct
+or choose not to take the matter any further.
+B2.3 Should the Respondent agree to participate in the dispute resolution process, the Responsible Person will
+appoint an independent person to conduct the process. The independent person will normally be a University
+officer. The independent person should have appropriate expertise to handle the matter under consideration,
+experience in the relevant field, and no conflict of interest in, or previous involvement with, the case.
+B2.4 The Responsible Person should advise both parties of the identity of the independent person. Either party
+may request the replacement of the independent person by following the process in section A5 of the Research
+Misconduct Procedure.
+B2.5 The Responsible Person will arrange administrative support for the independent person, which may be
+provided by the Research Governance Integrity Team or another suitably qualified member of University
+administrative staff. The independent person should also take advice from the HR Division and/or, for cases
+involving students, the Student Conduct, Complaints and Appeals Office, as required.
+B2.6 The process should take up to approximately 30 Working Days from the date of the agreement by the
+Respondent to participate in the process.
+B2.7 The independent person shall:
+(a) meet with or speak to the Complainant about the Complainant’s Concern and identify any evidence
+that needs to be collected;
+(b) meet with or speak to the Respondent to gauge their response to the Concern and identify any further
+evidence that needs to be collected;
+(c) work with their administrative support to collect all relevant evidence;
+(d) where possible and acceptable to all parties, arrange a meeting or meetings involving themselves, the
+
+Complainant and the Respondent, with the aim of reaching a settlement.
+B2.8 Notes will be made of the outcomes of the meetings, which will be provided to the participants in
+those meetings for confirmation of their accuracy.
+B2.9 Should the Complainant and Respondent be able to reach agreement as a result of the meeting(s), the
+independent person will produce a written version of the agreement and a short summary of the process by
+which it was reached. Both parties will be provided with a draft copy of the agreement and will be asked to agree
+to the written version. Where necessary to reach the agreement of both parties, the independent person should
+make alterations to the written agreement. Once agreed, the written agreement will be provided to the Responsible
+Person who will require that the Respondent and Complainant abide by its contents. Should it not be possible to
+produce a written version of the agreement that is satisfactory to both parties, the matter shall proceed according
+to B2.10.
+B2.10 Should an agreement not be reached, the independent person will write a short report for the Responsible
+Person that will summarise the discussions they held with the Respondent and Complainant and provide a
+recommendation as to how the matter is best resolved together with any other relevant information.
+B2.11 On the basis of the recommendation from the independent person, the Responsible Person will come to
+a conclusion on how to proceed, which may include:
+(a) that the Concern has no substance and the matter should be closed;
+(b) that specific actions should be taken by the Respondent and/or Complainant to address the Concern;
+(c) that it has not been possible to address the Concern through this process and that it should be referred for
+consideration under another University procedure, including but not limited to the Research Misconduct
+Procedure.
+B2.12 The Responsible Person will write to the Complainant, Respondent and Secretary of the Process to
+inform them of their decision. Where the Responsible Person has concluded that actions should be taken by the
+Respondent and/or Complainant to address the Concern, they shall inform both parties that they are expected to
+undertake those actions.
+B2.13 Should a Complainant refuse to follow the actions required by the Responsible Person, any expectations
+on the Respondent shall become void and the matter shall be closed.
+B2.14 Should the Respondent refuse to follow the actions required by the Responsible Person, the Responsible
+Person may refer the matter for consideration under another University procedure, including but not limited to
+the Research Misconduct Procedure.
+B2.15 Should the Respondent or Complainant dispute the conclusions of this process, they may make written
+representations to the Secretary of the Process, within 10 Working Days of receipt of the decision. The Secretary
+of the Process will consider their review, and may, in exceptional circumstances, require the Responsible Person
+to reconsider the matter.
+
+Appendix C: Addendum to the University of Cambridge Procedure for the Investigation of an Allegation
+of Research Misconduct to Apply to Research funded by the United States Public Health Service.
+C1. Purpose
+C1.1 This addendum applies to all research funded wholly or partially by Public Health Service (PHS) grants.
+The provisions herein complement the existing University of Cambridge Research Misconduct Procedure,
+ensuring compliance with the Public Health Service (PHS) policies on research misconduct, as outlined in 42
+CFR Part 93.
+C2. Applicability and Alignment with the University Procedure
+C2.1 This addendum applies specifically to allegations of research misconduct that involve PHS support, as
+defined in 42 CFR 93.230, and the alleged misconduct falls under the PHS definition (42 CFR 93.234), meeting
+the applicability criteria outlined in 42 CFR 93.102. Allegations related to self-plagiarism, authorship, or credit
+disputes are not covered by this addendum, as they are excluded from the definition of plagiarism under 42 CFR
+93.227 and do not meet the PHS definition of research misconduct. However, such allegations may still be
+investigated under the existing University of Cambridge Research Misconduct Procedure.
+C2.2 The University will align its process with PHS guidelines to the extent possible and allowable under UK
+law.
+C2.3 Subject to C2.2, where PHS guidelines requires steps not required by the University Procedure or exceeding
+such requirements the PHS guidelines will be observed. Where the University Procedure’s requirements are
+higher or not covered by PHS guidelines, the University’s Procedure will be observed.
+C2.4 Any procedural variations made to the University’s Procedure in adherence to this addendum will be made
+according to section 4.2 of that Procedure and will be clearly documented.
+C3. Time Limitations
+C3.1 This addendum applies only to allegations of research misconduct that are received by the University or
+the PHS within six years of the date of the alleged misconduct, in accordance with 42 CFR 93.104. However,
+exceptions to this six-year limitation may apply in cases of:
+(a) Subsequent use: The respondent continues or renews any incident of alleged research misconduct that
+occurred before the six-year limitation through the use of, republication of, or citation of the portion(s) of the
+research record (e.g., processed data, journal articles, funding proposals, data repositories) alleged to have been
+fabricated, falsified, or plagiarised, for the potential benefit of the respondent.
+(b) Health or safety of the public: If the University or Office of Research Integrity (ORI) determines
+that the alleged research misconduct, if it occurred, would possibly have a substantial adverse effect on the
+health or safety of the public.
+C4. Evidentiary Standards
+C4.1 Investigations under this addendum will be conducted in accordance with the evidentiary standards set out
+in 42 CFR 93.105, which sets the standard of proof as “a preponderance of the evidence”.
+C5. Definitions
+C5.1 For the purposes of this addendum, the definitions provided in Subpart B of 42 CFR Part 93 will apply.
+C6. Institutional Record
+C6.1 The University will maintain an institutional record for each research misconduct proceeding. The
+institutional record involving PHS support will include, but is not limited to, the materials and documentation
+specified in 42 CFR 93.220.
+C6.2 Institutional records will be retained and safeguarded in accordance with 42 CFR 93.318, ensuring secure
+custody and preservation for the specified retention period or as required by PHS regulations.
+C7. Institutional Responsibilities
+C7.1 The University will comply with all applicable requirements pertaining to institutional responsibilities as
+outlined in 42 CFR Part 93.300. Specifically, the University acknowledges its obligation to cooperate fully with
+HHS during any research misconduct proceeding or compliance review. This includes addressing deficiencies
+in the institutional record or responding to additional allegations if directed by ORI.
+C7.2 For the purposes of aligning the University's Research Misconduct Procedure with the PHS regulations
+outlined in 42 CFR Part 93, the Research Integrity Officer (RIO), as defined by PHS policy, is equivalent to the
+Head of the Research, Policy, Governance and Integrity in the Research Strategy Office. The Institutional
+Deciding Official under PHS regulations corresponds to the Responsible Person, as outlined in Section 3 of the
+University’s Research Misconduct Procedure.
+C8. General Conduct of Research Misconduct Proceedings
+C8.1 Investigations involving PHS support will be conducted according to the University of Cambridge
+
+Research Misconduct Procedure and aligned with the process set out in Subpart C of 42 CFR Part 93:
+(a) Stage 1 Initial Screening Review will be aligned with the PHS process’s initial assessment and will be
+conducted to determine whether an allegation warrants a referral to Stage 2.
+(b) Stage 2 Preliminary Investigation will be aligned with the PHS process’s Institutional Enquiry and will
+be conducted to gather information and determine whether an investigation referral to Stage 3 is necessary.
+(c) Stage 3 Formal Investigation will be aligned with the PHS process’s Institutional Investigation and will
+be conducted to reach a finding.
+C8.2 Adjustments will be made to each stage of the University’s Procedure where needed and according the
+section 4.2 of the University’s Procedure.
+C8.3 The University will report to the Office of Research Integrity (ORI) on the outcome of the enquiry and
+investigation, in accordance with 42 CFR 93.309 and 93.310.
+C9. Initial Screening Review (Institutional Assessment)
+C9.1 In conducting the assessment of allegations of research misconduct involving PHS-funded research, the
+University will, in addition to the requirements set out in Stage 1 of Section 8 of the University of Cambridge
+Research Misconduct Procedure, adhere to the requirements outlined in 42 CFR 93.306 as part of its research
+misconduct procedures. Specifically, the Independent Investigator appointed under the University Procedure
+will determine if the allegation meets the three assessment criteria in paragraph (b) of 42 CFR 93.306:
+(a) Falls within the definition of research misconduct as outlined under 42 CFR 93.234;
+(b) Is within the applicability criteria of 42 CFR 93.102; and
+(c) Is sufficiently credible and specific so that potential evidence of research misconduct may be identified.
+C9.2 Only if all three criteria are met will the allegation proceed through the PHS-compliant misconduct
+procedures. Allegations that do not meet these criteria will not proceed under this addendum but may still be
+addressed under the University’s general Misconduct Procedure.
+C10. Preliminary Investigation (Institutional Enquiry)
+C10.1 The preliminary investigation process, in addition to adhering to the University's internal requirements
+outlined in section 9 , must also meet the standards outlined in 42 CFR 93.307 and 42 CFR 93.308. This includes
+ensuring that the enquiry is conducted in compliance with US federal guidelines, specifically:
+(a) Identifying and securing relevant evidence as required under 42 CFR 93.307(d).
+(b) Conducting an initial review of evidence to determine whether an investigation is warranted, as outlined
+in 42 CFR 93.307(e).
+(c) Evaluating whether the criteria for initiating a formal investigation have been met, as described in 42
+CFR 93.307(f).
+C10.2 Furthermore, the University will comply with the reporting requirements set forth in 42 CFR 93.309 and
+42 CFR 93.310. This includes providing timely and accurate reports to the Office of Research Integrity (ORI),
+ensuring transparency, and addressing any additional requirements specified by PHS regulations.
+C.11 Formal Investigation (Institutional Investigation)
+C.11.1 In addition to the requirements outlined in Stage 3 of Section 10 of the University of Cambridge Research
+Misconduct Procedure, the formal investigation process for allegations of research misconduct involving PHSfunded research will adhere to the requirements outlined in 42 CFR 93.310 , 93.311, 93.312 & 93.313.
+C12. Determinations and Appeals
+C12.1 In addition to the appeal process outlined in Section 13 of the University of Cambridge Research
+Misconduct Procedure, the University will ensure compliance with PHS regulations regarding determinations
+and appeals for allegations involving PHS-funded research. This includes adhering to the following:
+(a) Compliance with PHS Procedural Rights (42 CFR 93.314 , 93.315, 93.316 & 93.317):
+1) The respondent will be afforded procedural rights as outlined in PHS regulations.
+2) The appeal process will follow the requirements of 42 CFR 93.315.
+(b) Notification to PHS:
+1) The University will notify the Office of Research Integrity (ORI) of the outcome of the
+investigation and any appeal as required under 42 CFR 93.315.
+C12.2 The institution’s determination and appeal outcome will be considered final, with ORI reviewing the
+process to ensure compliance with PHS regulations, rather than serving as an appellate body.
+C13. Timelines
+C13.1 For investigations involving PHS-funded research, the University will adhere to the specific timelines
+outlined in 42 CFR 93.306 – 93.313, unless the University's procedures specifies shorter timelines. These
+
+timelines include the following:
+(a) Enquiry (Preliminary Investigation):
+1) The enquiry must be completed within 90 days of its initiation, unless special circumstances justify an
+extension, which must be documented.
+(b) Investigation:
+1) The investigation must be initiated within 30 days of determining that an investigation is warranted, or
+within the timeframe specified by the University's procedures, whichever is shorter.
+2) The entire investigation process, including preparing the final report, must be completed within 180
+days of initiating the investigation, unless an extension is granted by the Office of Research Integrity (ORI).
+3) The respondent must be provided with a copy of the draft investigation report and access to the evidence
+considered during the investigation. The respondent must be allowed 30 days to review and submit comments.
+C14. Notification to the Office of Research Integrity (ORI)
+C14.1 For investigations involving PHS-funded research, the University shall notify ORI promptly at the
+following points:
+a)
+When an investigation is initiated.
+b)
+Within 30 days of determining that an investigation is warranted and provide all required
+documentation, including the inquiry report.
+c)
+when there is an immediate need to protect public health or Federal funds.
+d)
+At the conclusion of an investigation, through submission of the final investigation report.
+C14.2 The University shall also promptly prepare and submit a comprehensive investigation report to ORI,
+including:
+a)
+Details of the allegation and its assessment.
+b)
+A thorough description of the investigation process.
+c)
+Findings and supporting evidence.
+d)
+Recommended corrective actions or sanctions, as appropriate.
+C15. Amendments and Updates
+C15.1 This addendum may be amended or updated from time to time to ensure continued compliance with PHS
+policies and regulations.
+
+

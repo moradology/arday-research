@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 07 Aug 2026 05:55:32 GMT
+Server: UoL Web Server
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Strict-Transport-Security: max-age=15768000
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: DENY
+ETag: 7522ad45f72628725f26f9d2553319d1
+Content-MD5: dSKtRfcmKHJfJvnSVTMZ0Q==
+Last-Modified: Mon, 25 Nov 2013 10:43:08 GMT
+Expires: Sat, 07 Aug 2027 05:55:32 GMT
+Content-Disposition: inline; filename=IJRME_2008_reflective_review_31-2.doc
+Accept-Ranges: bytes
+Content-Length: 113152
+Content-Type: application/msword
+

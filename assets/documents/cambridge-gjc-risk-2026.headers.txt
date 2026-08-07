@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Date: Thu, 06 Aug 2026 19:13:36 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Set-Cookie: PHPSESSIDSENDFILES=ulc235k5iqgoc3moe42qcndug5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

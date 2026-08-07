@@ -1,0 +1,18 @@
+HTTP/2 404 
+content-type: application/javascript; charset=UTF-8
+server: Squarespace
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-contextid: 0Ant59eL/ihD1Wbdd
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Thu, 06 Aug 2026 22:04:37 GMT
+x-served-by: cache-dfw-kdfw8210062-DFW, cache-chi-kmdw8640068-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786053878.733698,VS0,VE115
+vary: Accept-Encoding
+tracepoint: Fastly
+content-length: 1
+

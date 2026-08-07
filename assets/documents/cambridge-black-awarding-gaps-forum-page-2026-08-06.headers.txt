@@ -1,0 +1,27 @@
+HTTP/2 200 
+cache-control: max-age=900, public
+content-language: en
+content-type: text/html; charset=UTF-8
+etag: W/"1785358898"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Wed, 29 Jul 2026 21:01:38 GMT
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-drupal-dynamic-cache: MISS
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 11 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-eu-a-6975d949c6-kjscd
+x-styx-req-id: d49bd23e-91d0-11f1-9c13-5e0b9b6dcce5
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Thu, 06 Aug 2026 19:55:53 GMT
+x-served-by: cache-ams-eham8680084-AMS, cache-mci680038-MCI, cache-mci680038-MCI, cache-mci680038-MCI
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1786046153.077111,VS0,VE290
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 126358
+

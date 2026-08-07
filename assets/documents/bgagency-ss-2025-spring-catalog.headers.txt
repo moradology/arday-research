@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: aruba-proxy
+date: Fri, 07 Aug 2026 18:49:23 GMT
+content-type: application/pdf
+content-length: 9602503
+last-modified: Wed, 21 Jan 2026 16:35:10 GMT
+accept-ranges: bytes
+x-servername: webx.aruba.it
+alt-svc: h3=":443"; ma=86400
+

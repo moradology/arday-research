@@ -1,0 +1,1503 @@
+Received: 4 March 2024    | Accepted: 25 June 2024
+DOI: 10.1002/berj.4047
+
+
+ORIGINAL ARTICLE
+
+
+
+
+Data snapshots of the access and participation
+of ‘women’ academics in UK universities:
+Questioning continued gendered, racialised
+and geopolitical inequalities
+
+Dina Zoe Belluigi1,2                      | Jason Arday3                | Joanne O'Keeffe1
+
+1
+ Social Sciences, Education and Social
+Work, Queen's University Belfast, Belfast,         Abstract
+UK                                                 Replete with espoused discourses of equality, di-
+2
+  Chair for the Critical Studies of Higher         versity and inclusion within public bodies, is the UK,
+Education Transformation, Nelson Mandela
+University, Gqeberha, South Africa                 wherein lauded initiatives reward its universities’
+3
+ Faculty of Education, Cambridge                   commitments to increasing the access and position-
+University, Cambridge, UK                          ing of ‘women’ in higher education. This paper con-
+                                                   tributes a critical quantitative analysis of the state of
+Correspondence
+Dina Zoe Belluigi, School of Social                representation and participation of academic staff
+Sciences, Education and Social Work,               within these universities generally, and the majority-­
+Queen's University Belfast, 69-­71 University      female discipline of education particularly. Education
+Street, Belfast, BT7 1LN, UK.
+Email: d.belluigi@qub.ac.uk                        is important because it has a direct relation to social
+                                                   change and ethicality. It may maintain or reproduce
+                                                   the status quo; however, exercising its transforma-
+                                                   tive potential is essential for the success of various
+                                                   international frameworks aiming to address global
+                                                   inequality, including most recently the Sustainable
+                                                   Development Goals. Sensitised by QuantCrit prin-
+                                                   ciples, a descriptive statistical exploration was un-
+                                                   dertaken of the staff composition and employment
+                                                   conditions captured within the administrative data-
+                                                   sets reported on academic staff by all the public uni-
+                                                   versities in the devolved nations of England, Northern
+                                                   Ireland, Scotland, and Wales from 2015 to 2020. The
+                                                   findings of this study confirmed: (i) the continuation
+                                                   of gendered inequalities across the academic hi-
+                                                   erarchy, particularly as the pyramid narrows to the
+                                                   assigned intellectual leadership position of ‘profes-
+                                                   sor’; (ii) racialised, gendered inequalities in access to
+                                                   employment, and in positioning once employed; and
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution
+and reproduction in any medium, provided the original work is properly cited.
+© 2024 The Author(s). British Educational Research Journal published by John Wiley & Sons Ltd on behalf of British
+Educational Research Association.
+
+Br Educ Res J. 2024;00:1–28.	﻿	                                                       wileyonlinelibrary.com/journal/berj   | 1
+2   |                                                                                       BELLUIGI et al.
+
+
+
+
+                                      (iii) more adverse conditions where gendered, ra-
+                                      cialised and geopolitical inequalities intersect, most
+                                      extremely for Black African female academics. The
+                                      study demonstrates that the centring of ‘race’ and
+                                      consideration of nationality are required to challenge
+                                      coloniality, and to bring to the fore the differential im-
+                                      pacts of systems of discrimination within this globally
+                                      influential sector.
+
+                                      KEYWORDS
+                                      equality, gender, geopolitics, race, representation
+
+
+
+
+     Key insights
+
+
+     What Is the Main Issue that the Paper Addresses?
+
+     The paper contributes a critical quantitative analysis of administrative datasets to
+     identify inequalities in the academic staff composition and employment conditions in
+     universities in the UK, and the majority-­female discipline of education.
+
+     What Are the Main Insights that the Paper Provides?
+
+     Descriptive statistical snapshots reveal: (i) gendered inequalities across the aca-
+     demic hierarchy, particularly in positions of seniority; (ii) racialised, gendered in-
+     equalities in access to employment and in positioning once employed; and (iii) more
+     adverse conditions where gendered, racialised and geopolitical inequalities inter-
+     sect, particularly for academics from the Global South.
+
+
+
+I NTRO DUCTI O N
+
+British higher education features in global scholarship about ‘the university’ because of the
+continued reach, impact, influence and prestige of its universities, from colonialism through
+to the present day of ‘internationalisation’, ‘globalisation’ and ‘knowledge diplomacy’. Various
+political commitments have been proposed and adopted by a range of actors and institu-
+tions to regulate, monitor and address inequalities within societies and public institutions,
+including human rights for which states bear responsibility, and more recent systemic ap-
+proaches, such as those recognising human exploitation and environmental extraction at
+the global scale, through the Sustainable Development Goals (SDGs) which have inter/
+national monitoring and evaluation dimensions. Towards these, universities and the intellec-
+tuals they employ are positioned as playing important agential roles. This study inverts the
+gaze by looking at an aspect of the state of inequality within these universities, by analysing
+administrative data held on academic staff employed in public universities within the borders
+that delineate the current ‘United Kingdom’ (UK).
+    As a social institution, it is to be anticipated that aspects of the university will also be
+formed and will inform social formation and representation of its context, and that this will
+shift in time in response to external and internal influence. Thus, the paper begins with a
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                             | 3
+
+brief introductory narrative to historicise the regulation of social change which claimed to ad-
+dress gendered and, at a far later point, racialised inequalities within UK public universities,
+including the foci of contemporary interventions. This brief chronological overview of pol-
+icy and practice makes apparent the problematic decontextualisation and essentialising of
+‘women’ by binaries of ‘sex’, implicitly as ‘white’ and UK born, with the effect of marginalising
+and invisibilising nuanced and subordinate identities, and minimising attention, monitoring
+and action to address systems of discrimination and oppression. Neoliberal discourses of
+individualism and responsibilitisation have contributed to depoliticising social inequality in
+contemporary Great Britain and Northern Ireland (Crimmins, 2021), with discourses of deficit
+placing the burden to assimilate, prove excellence and raise critiques on those encountering
+social discrimination. However, scholars have problematised the trajectories of inequality in
+the UK academy, and advocated for them to be addressed. This has included insights into
+the qualitative experiences of framings and initiatives for the ‘success’ for women in general;
+access and participation for those racially minoritised; class-­related inequalities; and geopo-
+litical inequalities and exclusions.
+    The contextualisation of policy, practice and insider scholarship of our introduction sets
+the scene for a discussion of our methodological engagement with the administrative dataset
+collected and curated by the Higher Education Statistics Agency (HESA), which is espoused
+to allow for the monitoring of the state of equality in the staff composition and employment
+conditions of all those who work for UK universities. As a quantitative source produced by
+a public body, it cannot evoke the metaphysics of intersectionality (Bernstein, 2020) nor
+reflect experiences of those at the intersections of systems of discrimination or oppression
+(Crenshaw, 1991). Rather, the dataset allowed for exploration of the inequalities known from
+the reporting of outcomes within the majority-­female discipline of education, in particular,
+in comparison with all of the disciplines (combined) of UK universities (Belluigi et al., 2023).
+This paper focuses on the observed gendered inequalities in access and positioning of aca-
+demics employed during the period 2015–2020, through intra-­and inter-­categorical analysis
+of the known data reported on 'sex', 'race', nationality, age and dis/ability.
+
+
+H I STO R I CI S I NG I N EQUA LIT Y W ITH I N TH E UK ' S BO R DERS
+
+Higher education policies across the UK have long been constrained by their systemic in-
+terdependence (Raffe, 2013, p. 11) and social regulation, such as through Equality Acts.
+However, when considered from the departure point of inequalities within universities, sig-
+nificant differences have emerged, distinguishing devolved nations’ histories of interven-
+tions and targets of social regulation to address inequalities, particularly since devolution in
+1998–1999 (Shattock and Horvath, 2020).
+   It bares remembering although that it was almost a century ago, in 1928, when women in
+England, Scotland and Wales were awarded the same terms as male voters, which Northern
+Ireland was legislated later in 1968–1969 and enacted in 1973. Access to sit examinations at
+universities for women students in England, Scotland and Wales had been formalised earlier
+than that, during the late colonial period through the 1867 Royal Charter (‘Special Examination
+for Women’), and in Ireland (prior to the partition between the Republic and Northern Ireland)
+in the 1878 Intermediate Education Act. However, owing to the nature of institutional auton-
+omy, the granting of degrees varied considerably by institution. For instance, the University
+of London granted degrees to women from 1878, Oxford from 1920 and Cambridge as
+late as 1948. Rights to vote and to gain access to higher education are assumed to im-
+pact the pipeline to employment in ‘the professoriate’ (which in the UK was increasingly
+stratified across various professional positions after the Second World War). Yet these are
+not matters of linear progress: the first academic woman's appointment to the assigned
+4   |                                                                                BELLUIGI et al.
+
+
+
+intellectual leadership position of ‘professor’ is claimed by a Scottish institution to be 1892
+(BBC Scotland, 2017), by an English institution to be 1904 (University of Reading Special
+Collections, n.d.), and in Northern Ireland to be 1916 (Queen's University Belfast, 2020).
+‘Equality’ and ‘women's empowerment’ have been a feature of UK universities’ domestic
+and international promotional discourses, particularly within the Commonwealth (see for
+instance the discourse of the first woman Vice-­Chancelor in the UK and the Commonwealth
+in 1948 by the University of London, 2023). Copious performative statements, scholarship
+and public pedagogy have commemorated such ‘firsts’ as if representation of all women.
+Institutions’ public declarations of the success of women academics with intersecting identi-
+ties have been less prevalent and less lauded.1 Recently, with public interest in decolonisa-
+tion, Black Lives Matter, and ‘equality, diversity and inclusion’ discourses, such celebrations
+of ‘firsts’ have widened to women with non-­dominantly placed social identities. In so doing,
+this exposed the marginalisation of Black academic women from intellectual and administra-
+tive leadership in particular (see reporting on Olivette Otele as the ‘first’ Black woman to be
+a British professor of History in 2018, Bennett, 2023; and Valerie Amos’ appointment as the
+‘first’ Black woman Vice-­Chancellor in 2015, Wynne-­Jones, 2015). The dominant equality
+discourse, about women, espoused by universities, was found wanting and increasingly
+challenged after the cessation of the Cold War. Heward and Taylor (1992, p. 111) argued that
+‘progression in the implementation of equal opportunities in British higher education (HE) is
+unimpressive, foundering at the stage of monitoring recruitment practices’. Such scholars
+utilised their academic resources to demonstrate, through quantitative analysis of the mar-
+ginal effect of the supply side of senior staff, the contradictions between rhetoric and reality
+when it came to the colour-­blind, essentialised gender binary of the time. Social regulation of
+inequality had been introduced ineffectually, as compliance lacking a firm legislative frame-
+work and accountability (Heward & Taylor, 1993).
+    Despite its history of Empire and colonialism, the UK's acknowledgement of racism and
+racial inequalities has been characterised by considerable delays and deprioritisation, even
+more so their intersections with other systems of discrimination and oppression, including
+patriarchy. Formalised with decolonisation since the 1960s has been the governments’ de-
+sire to distinguish those racialised as ‘white’ from those racialised as ‘other-­than-­white’ (the
+terminology encouraged by the UK governance, GOV.UK, 2021) through its monitoring of
+migration, residency and employment (Laux, 2019; Patel, 2022). Despite its international
+legacy of structural racism, subjugation and coloniality, recognition of the practices of rac-
+ism in public institutions within its borders was only introduced to the public lexicon in 1999
+in England (HMSO, 1999) and in 2005 in Northern Ireland (McVeigh & Duchan, 2005), a
+context that continues to be resistant to anti-­racism as an unaccountable outlier of UK leg-
+islation (Gilligan, 2018). Interventions of universities are discussed in the section below;
+however, it bares noting here that the salience of ‘race’ in UK policy in general has less-
+ened in the past decade, including in education (Gillborn et al., 2016) and higher education
+(Pilkington, 2018). Universities’ self-­conceptions as liberal institutions with fair policies have
+meant that they ‘ignore adverse outcomes and do not see combating racial inequalities
+as a priority’ (Pilkington, 2020, p. 29). Authoritative influences of such dysconscious rac-
+ism include the Race Disparity Audit published in 2017 by the English government, which
+Smith (2023, p. 1) described as ‘a pernicious form of political doublespeak which effects a
+maintenance of the status quo. In excluding racism as a cause of disparities, the audit acts
+to de-­legitimise anti-­racism as part of the solution, thereby preventing actions with the po-
+tential to end racial injustices’. Similarly, the 2020 report by the Commission on Race and
+Ethnic Disparities (known colloquially as the Sewell Report) obfuscated the state of racial
+equality in the UK on which it was intended to report, receiving widespread critique (Gopal
+& Rao, 2021).
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                 | 5
+
+Policy and practice interventions for ‘equality’ in the UK university
+
+‘A relative depoliticisation of the staff equality agenda in higher education’ (Deem &
+Morley, 2006, p. 185) was noted in the early twenty-­first century, informed by a study with
+participating academic staff based in England, Scotland and Wales. While there may be
+institutional variations, in this section we discuss how the UK university sector prioritised
+the inequalities faced by ‘women’ as a unitary category, with less uptake of the more re-
+cent sectoral considerations of structural and institutional racism on staff, and the continued
+misrecognition of structured intersectionality and carelessness about discriminatory experi-
+ences of those at the intersection of socially oppressive categories. Data about the ‘pro-
+tected characteristics’ under Equality Acts are collected from staff and reported by public
+universities to HESA, with limited public access presented online (see https://​w ww.​hesa.​
+ac.​uk/​data-­​and-­​analy​sis/​staff ​). However, legislation continues only to be firmly applied, in
+recognition of patriarchy, to the reporting of statistics about ‘sex’ of employees by public
+authorities in all the devolved nations, and to ‘religious background’ in Northern Ireland in
+particular in recognition of sectarianism.
+   As with many international sectors, the UK sector has seen the creation and success of
+feminist movements and institutionalised practice-­based initiatives to address inequalities
+for ‘women’. Gender mainstreaming has been adopted elsewhere, such as within the Indian
+university sector since 1986 (Banerjee et al., 2011), an approach that mitigates the risk of
+marginalisation on those tasked with undertaking critical work as ‘gender persons’ in disci-
+plinary or administrative homes (Henderson, 2019). UK sectoral investment since 2005 has
+included Athena SWAN's (Scientific Women's Academic Network) self-­reported institutional
+audits, which are well documented and probed in scholarship (Rosser et al., 2019). That par-
+ticular intervention has, however, been the subject of much critique. One is that the feminist
+impetus was co-­opted and then mobilised as an effective neoliberal tool for the purposes of
+institutional reputation gains rather than systemic transformation (Tzanakou & Pearce, 2019;
+Yarrow & Johnston, 2023). Gains have been of less benefit to women of social groups mi-
+noritised due to racialisation, into what is currently termed ‘Black, Asian and minority ethnic’
+(‘BAME’),2 classism (Bhopal & Henderson, 2021) and gender marginality. Flattened con-
+structs of ‘women’ mask power and privilege, suturing the politics of institutional change.
+The efficacy of such Gender Equality Plans faced critique in the European Union too (Rosa
+& Clavero, 2022). Regardless, the UK's initiative was lauded a success by the sector, and
+adopted in other contexts, including the Republic of Ireland (Drew, 2022), which too has gen-
+dered pathways to professorship (Harford, 2020), weak legislative framing on the reporting
+of ‘race’, and passport privilege impacting academic employment (Sequiera, 2021).
+   In 2014, an additional charter mark was established in the UK sector, the Race Equality
+Charter. Scholars considered the experience and expertise of those implementing such pro-
+cesses (Henderson & Bhopal, 2022), with both appreciation of its potential at the institutional
+level and concern about perverse incentives and gaming (Bhopal & Pitkin, 2018). Gains in
+terms of the staff composition and belonging are yet to be seen (Campion & Clark, 2022).
+Elite institutions were exposed as particularly problematic, when analysis of a longitudinal
+dataset of 120 UK universities, that had espoused organisational commitments, showed
+negligible changes to their appointment of ‘BAME’ staff (Baltaru, 2023). Those with insider
+insights hold that ‘institutional directives to address race inequalities often fail to engage
+seriously with the fundamental aspects of race and racism’ (Rollock, 2018, p. 313), which is
+why calls have been made for scholarship which looks beyond the veil of the ‘organisational
+display of inclusion’ (Baltaru, 2022, p. 229).
+   Despite the routine collection of so-­called ‘equality data’ in the resource-­rich context,
+there is rarely demonstration of transparency by public authorities about the systemic advan-
+tage for dominantly-­placed ethnicities, and even rarer exploration of structural intersectional
+6   |                                                                              BELLUIGI et al.
+
+
+
+inequalities. For instance, ‘sex’ and ‘race’ were only recently explored as discrete categories
+(intercategorical analysis) in relation to award applications, rates and amounts by UK re-
+search funders (UKRI, 2024) and by those in the USA (Chen et al., 2022). The limited intra-­
+categorical analysis of ‘sex’ and ‘race’ published in the past year by UK's public research
+funding bodies (UKRI, 2024) revealed the dismal 3% award rate of all applications made by
+the combined group of ‘female ethnic minority’ primary investigators. Such delays could be
+read as symptomatic of the lack of institutional accountability for recognising and, moreover,
+addressing the effects of intersectional inequalities on women, which Crenshaw (1991, p.
+1245) describes as representational intersectionality. Racial orthodoxy has seemingly, as
+articulated about the USA, ‘advanced the goal of racial minority inclusion, but at the cost
+of downplaying problems of racial inequality and misrepresenting racial minorities’ campus
+experiences’ (Berrey, 2011, p. 573). The problematic ethical stance (Aiston, 2011) of the
+neoliberal ethos of prestige and rankings has increasingly sidelined ‘equality’, and replaced
+it with discourses of ‘diversity’ and ‘inclusion’ (Bowl, 2018), which are ‘more compatible with
+elitism than with social justice’ in the UK (Bowl, 2018, p. 671) and elsewhere (Smidt et al.,
+2021).
+    Categorial separations between discriminatory systems are not only maintained, but in-
+equalities in access and participation for many excluded and marginalised groups are made
+invisible. At the time of writing there are as yet no formal UK-­wide, university-­facing ac-
+knowledgements of nor interventions to address what has been described as the colonial-
+ity of ‘gender’ (Lugones, 2016). The lack of a formal mechanism to recognise geopolitical
+inequalities in UK equality law has seemingly effected an epistemological blinkeredness
+of fellow academics to inequalities that impact many migrant academics, including the ad-
+verse conditions experienced by those from the Global South/Majority World. Some argue
+that this lack of collegial critical consciousness of academic peers ‘fits an established pat-
+tern of harm to Black women and other marginalised groups getting less attention until the
+problem begins to affect people from dominant groups directly’ (Blell et al., 2022, p. 1824).
+However, scholars continue to emphasise the agency of practitioners to call attention to
+policy-­implementation and principle-­implementation gaps (Ahmed, 2007), and to structural
+and representational intersectionality, undertaken in scholarship about universities, to which
+this paper now briefly turns.
+
+
+Scholarship on inequality in the UK academy
+
+The question of the access, positioning and flourishing of ‘women’ in UK higher education
+has produced considerable scholarship, much of which recognises plural, fluid identities,
+and the differences among (‘intracategorical’) and between (‘intercategorical’) how people
+group themselves (in terms of self-­identification and as coalitions of solidarity), and the con-
+trast to how people are grouped institutionally and structurally (which in the UK are aligned).
+This section, for ease of reading, is organised into topics and social structures that relate to
+women in UK universities, although not exhaustive.
+
+
+Scholarship on success for women
+
+Insights into the circumstances and subjectivities of being the ‘first’ woman to gain ac-
+cess and positions of leadership within institutions emerge empirically from scholarship
+(Cownie, 2015) in contrast to the celebratory promotional narratives alluded to in the section
+above. Westoby et al. (2021) mapped the findings of 32 papers which contributed insights
+into the constraints to and enablements for women academics’ success in UK HE.
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                            | 7
+
+   UK scholarship on academic women spans the main academic functions (education, re-
+search, third mission). A particular concern is the persistent inequalities in conditions to
+undertake research, enacted through gatekeeping of peer review (Sato et al., 2021), funding
+for disciplines (Boyle et al., 2015) and funding bodies (Bedi et al., 2012), and through infor-
+mal relations such as in conferences (Burford et al., 2020; Henderson, 2021), mentorship
+(Davies & Healey, 2019) and networks. The social stratifications of institutions play a role too
+(Boliver, 2015). In addition, scholarship has probed positions, including mid-­career (Kandiko
+Howson et al., 2018), full professors or 'chairs' (Macfarlane & Burg, 2019) and university gov-
+ernance councils (Sherer & Zakaria, 2018). Employment conditions have been studied too,
+including promotion, to determine patterns of bias and dis/advantage related to gender and
+race, including for instance case study interviews of women's experiences (Bhopal, 2020);
+how educators across the life-­course in England experience the power of white sanction
+within promotion and progression challenges (Miller, 2016); and institutional case studies
+(Sadiq et al., 2019).
+   Ruptures have at times enabled scholarship into the dark spaces of universities. For in-
+stance, the salience of the #MeToo moment was seized (Chandrashekar & Siddiqui, 2018)
+to point to how less scholarly and practitioner attention has been paid in the UK to sexual
+and gender violence experienced by academic staff (Jones et al., 2021), with arguments that
+the ‘invidious circle of gender inequality and sexual harassment is mutually supportive and
+sustaining’ (from a case study of a Scottish university by McCarry & Jones, 2021, p. 928).
+
+
+Scholarship on access and participation for racially minoritised women
+
+Calls have long been made to explicate processes that ‘eliminated’ racialised minorities from
+academic professions—described almost 30 years ago as ‘a most important and intracta-
+ble problem in need of urgent theorising and investigation’ by scholars of the UK academy
+(Heward et al., 1995, p. 149). Despite under-­representation and constrained positioning to
+junior levels (Wright et al., 2007), UK Black Feminist academics have authored texts cen-
+tring the experiences of those marginalised and minoritised in the UK academy. Attention
+has been drawn to the oppressive systems of whiteness and misogynoir (recently, Arday &
+Mirza, 2018; Gabriel & Tate, 2017; and the special issue in Race, Ethnicity and Education by
+Tate & Bagguley, 2017), and on being within elite institutions as the ‘minority-­of-­minorities’
+(Stockfelt, 2018). Experiences of shaming (Dar & Ibrahim, 2019), discrimination and exclu-
+sion highlight injustice, bullying and racism (Mahony & Weiner, 2020).
+    Yet Nichols and Stahl's (2019) systematic review of 50 papers on the intersections of
+staff inequality found that ‘sex’ continues to be the central concern of scholarship, which
+some argue is symptomatic of the dismissal of Black feminist theory and women from con-
+temporary academe (Bilge, 2020). Counter-­narratives of agency have included navigating
+academia as Black female professors (Rollock, 2021).
+
+
+Scholarship on class-­related inequalities
+
+Socio-­economic stratification in the UK has seen the intersections of ‘sex’ and ‘class’ fea-
+ture in scholarship about the politics of belonging (Davis, 2022) and the costs of success for
+working class women, particularly in positions of seniority (Hoskins, 2010). An argument is
+that working class academics face the threat of loss of identity to succeed within the rigours
+and requirements to have legitimacy within UK academia, in ways not negotiated by those
+with visual markers of difference (Lynch & O'Neill, 1994). Class and race seemingly compete
+for recognition of systemic victimhood in the UK (Crawford, 2019), at times segregated to
+8   |                                                                              BELLUIGI et al.
+
+
+
+the detriment of solidarities. The continuation of classism has relegated the Black and white
+working classes to less prestigious HE institutions, with high achievers facing barriers to
+access elite institutions such as Oxbridge (Reay, 2018), exposing how such eliteness con-
+tinues to undermine meritocracy and reproduce privilege (Bhopal & Myers, 2023).
+
+
+Scholarship on geopolitical inequalities
+
+Studies of academic migration and staff (im)mobility have seen some recent interest in
+UK-­based research on higher education, as indicated by a recent special issue of Higher
+Education (Tzanakou & Henderson, 2021). However, geopolitical inequality and coloniality
+are not centred (Belluigi & Chiappa, 2022). Extending beyond blinkered methodological na-
+tionalism of the UK's regulatory ‘equality’ regimes requires consideration of the entangled
+relations between academic im/mobility, access and positioning to human and physical ge-
+ography, which involve power dynamics between groups, institutions, regions, states and
+inter-­national relations.
+    The dynamics of state regulation—including equality legislation, securitisation, the hostile
+environment and recent visa schemes—have been raised by scholars affected by barriers
+to access from beyond the Kingdom's borders (such as the immobility of African academics
+in Langa et al., 2019). Stark are the pressures felt on those from the Global South (Majority
+World) to pass the ‘whiteness threshold’, which continues to have considerable racial capital
+in the UK academy (Durak, 2022). The impact on the ways of being of those employed who
+present as ‘foreign’, newly migrated and with non-­English linguistic repertoires and accents
+has been studied (Luxon & Peelo, 2009; Tebbett et al., 2021), with insight into how migrant
+academics adopt fluid academic identities to fit host institutional environments (Clifford &
+Henderson, 2011). Migrant academics’ epistemic in/exclusion in the UK academic labour
+market is based on the country of PhD award (Pustelnikovaite & Chillas, 2022), known as
+‘academic nationality’ (Rostan & Höhle, 2014), data that is unfortunately not collected for
+so-­called equality reporting.
+    To study geopolitical inequality is to explore in what ways such dynamics are asymmetri-
+cal, and constitutive of past legacies and current stratifications to create and/or maintain in-
+equalities. Prevalent categorisations consider blocs of nations grouped economically, such
+as the Global North (Minority world) and Global South (Majority world), between which in-
+equalities have worsened since 1950s (see Freeman, 2024). Despite not reckoning directly
+with the roots causes of such geopolitical inequality (including colonialism, the Cold War
+and neoliberalism), recognition of the unsustainability of such ‘development’ underpins in-
+ternational commitments to the SDGs, and the annual monitored mapping by World Bank
+Country Income Categories. The SDGs include targets directly related to access to the
+human right to higher education, gender equality in education, global development educa-
+tion, scholarships for developing countries, and university partnerships (for more, consider
+the special issue of Higher Education edited by Chankseliani & McCowan, 2021).
+    The contrasts between policy, interventions in practice and the concerns of scholarship
+set the scene of our discussions of the methodological approach and limitations of this
+study, discussed in the next section.
+
+
+M ETHO DO LOG I CA L NOTES
+
+This paper is informed by a study of staff inequality in the discipline of education, which
+was supported by the British Educational Research Association, for which the full report
+(including a study description and replication checklist) is open access (Belluigi et al., 2023).
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                             | 9
+
+A descriptive analysis of administrative data held by public bodies on the academic staff
+composition and employment conditions in all UK universities between 2015 and 20203
+is offered, to challenge the complacency of assumptions around the progress of ‘equality,
+diversity and inclusion’, and to raise questions for further exploration. Similar approaches
+have brought attention to inequalities in academia within and beyond the UK, such as the
+socio-­demographics of who authored knowledge (i.e. publications) in the social sciences by
+analysing 20,000 Web of Science authors from 2016 to 2020 (Lockhart et al., 2024), and the
+socio-­demographics and the careers of university professional staff in the UK and Australia
+(Gander, 2018).
+    The processes and design of the larger project were a product of negotiation—between
+the call for tender for the funders, our intentionality and intellectual commitments as research-
+ers, and anticipated imagined readers— in a milieu of socio-­political divisiveness. Two of the
+authors had considerable experience in qualitative, interpretative, critical and emancipatory
+research approaches in projects related to universities (in the UK, South Africa and India);
+another's experience was of quantitative approaches to social justice educational interven-
+tions. We had a robust sense of what was already known experientially and represented
+in research outputs and other media, by minoritised academic citizens in the UK, and how
+such contributions were received by dominantly-­placed majorities and technorational institu-
+tions. Public datasets were claimed to be more comprehensive and less affected by biases
+related to participation and reporting than primary data collected as part of a research study
+(Connelly et al., 2016), and thus useful for exposing what is ‘known’ about small sub-­groups
+that may otherwise be difficult or unfeasible to ascertain (Drake & Jonson-­Reid, 1999). We
+embarked on the project in the hopes that it would provide opportunity to ‘talk back’ with a
+snapshot of the known existing data about the ‘state’ of inequality. This was at a point in time
+when doublespeak performativity (Smith, 2023) and optical allyship (Sobande, 2020) by in-
+stitutions and funders about ‘equality’ and ‘diversity’ were drowning out critique, scholarship
+and lived experience about discriminatory conditions and unequal outcomes, some of which
+we cite in the sections above.
+    The HESA holds the entire administrative dataset of information self-­reported by aca-
+demic citizens (academic and professional staff and students) of their ‘personal character-
+istics’, and employers’ reporting of employee's contracts, at all universities in the UK. We
+purchased data about all academic staff employed (inclusive of contract type, length and
+position on the academic hierarchy, and all whose practice included undertaking ‘teaching
+only’, ‘teaching and research’ or ‘research only’), rather than taking a ‘sample’ from the
+population. In December 2020, there were 224,530 academic staff employed (‘full person
+equivalent’, FPE) of which 149,085 were on full-­time contracts (HESA, 2022). Compliance
+to HESA reporting requirements means that we cannot report raw numbers nor unrounded
+percentages, which at times leads to odd totals and threatens to invisibilise extreme minori-
+ties. We indicate such rounding through the ‘>’ or ‘<’ signs to the nearest 0.5%. Percentages
+of data for the category FPE are utilised to analyse social groups represented, which is
+the equivalent of data on a single person, for an accurate picture of who is represented as
+having gained access to employment within the staff composition. To reveal inequalities in
+participation, data on ‘full time equivalent’ was analysed, to reflect the sum of the various
+contracts and employment conditions, as tabulated in Table 1.
+    The datasets were synthesised, verified against HESA publicly available datasets and
+then explored analytically. Descriptive statistics in the form of sorting, grouping through
+Pivot Tables, frequency distribution tables, and figures in Excel, enabled the researchers’
+exploration of patterns of the multiple fields to discern relationships and differences between
+the groupings of variables (Cooksey , 2020), and any emerging inequalities. Informed by
+ethical principles, including those of balance and justice, the set was approached from the
+different entry points of the socio-­demographic variables. For each variable, percentages
+10   |                                                                                           BELLUIGI et al.
+
+
+TA B L E 1    Full time equivalent data provided about employment conditions and how it was differentiated.
+
+ Employment conditions                                                                Differentiated data
+ ‘Academic employment function’                                                       Research only/teaching
+                                                                                      and research/teaching
+                                                                                      only/other
+ ‘Academic contract function’                                                         Junior/senior/professor/
+                                                                                      senior management
+ ‘Mode of employment’                                                                 Part-­time/full-­time
+ ‘Terms of employment’                                                                Fixed-­term/open-­ended
+ ‘Starters’
+ ‘Leavers’
+ ‘Attainment’ (i.e. promotion to various positions) and progression (i.e. promotion
+ to ‘professor’)
+ ‘Region of provider’ (i.e. devolved nation)                                          England, Northern
+                                                                                      Ireland, Scotland,
+                                                                                      Wales
+
+
+were calculated and then proportions of known statistics of each variable and intersecting
+variables considered. Differences and rates of change over the 5 year time frame were also
+calculated.
+   In some ways, the approach described above aligns with the ‘intersectional invisibility’
+research model (Purdie-­Vaughns & Eibach, 2008), which considers prototypes constructed
+as the standard persons of social groups, and those who are not ideal-­typical within such
+categories. The assumption of this model is that ‘the social invisibility that people with inter-
+secting identities experience by virtue of their non-­prototypicality gives them a mix of advan-
+tages and disadvantages compared to prototypical members of their groups’ (p. 381). The
+ideological type underpinning dominant ideals of the prototype, such as androcentricism,
+ethnocentrism or eurocentrism, is analysed not only via patriarchy and racism (intercategor-
+ical), but also in terms of responses to prototypical subordinate group members who have
+characteristics that do not readily fit with the prototypical group member (intracategorical),
+which may include less/more discrimination, and more/less voice (‘political invisibility’) and
+representation (‘cultural invisibility’), which are particularly noticeable in ‘historic invisibility’
+in archives, because they do not readily fit the dominant ideological categories. An import-
+ant contribution of US scholars has continued to be how this plays out as ‘legal invisibility’
+within legal frameworks, the absence of which are present in Equality Acts and related policy
+in the UK generally, in universities as public bodies particularly, and in turn, the collection,
+monitoring and action to address inequality. However, this conceptualisation did not inform
+our explicit intentionality within the research design.
+   Crimmins et al.'s (2023) insights are more akin to our thinking at the time. Those insights
+were informed by their analysis of UK institutions awarded formal recognition for supporting
+gender equity between 2015 and 2020 (the same period as the HESA datasets we pur-
+chased), where continued barriers to career opportunities were found. They caution that
+‘whilst inter-­categorical intersectionality is based on the notion that all social categories
+(such as age, race and gender) are equally salient, the degree of importance of any cate-
+gory will likely depend on location or context of the phenomena being examined’ (Crimmins
+et al., 2023, p. 659). Thus, they call for ‘iterative and translocational research into the impacts
+of the intersections of gender, ethnicity, race and religion in spaces of higher education, par-
+ticularly those with colonial legacies and presence’, to which this paper attempts to respond.
+Our analytical approach suspended assumptions of where forms of inequality would mani-
+fest; rather we compared and contrasted proportions intercategorically (sex, race/ethnicity,
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                            | 11
+
+nationality, age, disability, religious belief) initially, followed by explorations drilling down
+into subordinate groups intracategorically (again by sex, race/ethnicity, nationality, age, dis-
+ability, religious belief), and then looking at employment conditions. In our analysis, social
+location in addition to disciplinary (of education, compared with all UK disciplines combined)
+and national contexts were considered.
+    These laboursome, intensive processes enabled the observation of inequalities which
+manifested. Insights were limited by the quality of the dataset, which had incomplete and
+missing data, and problematics with the categories which were predetermined by HESA. We
+decided against multiple imputation (Rubin, 2018) to avoid distorting the values of the data.
+Instead, we made the missing/incomplete data of the undifferentiated data of each intercat-
+egorical variable (such as ‘sex’, ‘race/ethnicity’) apparent at the beginning of our reporting of
+the percentages of ‘access’ to employment. This was then followed by proportions of what
+was ‘known’ of intracategorical groupings for further exploration and analysis, as is appro-
+priate for descriptive statistics.
+    In the section below, and those which follow, we attempt to bring to the fore ways in which
+we negotiated our critical agency, constrained by the conditions of working with sources cre-
+ated and curated by a public authority. Healthy scepticism about the validity of datasets col-
+lected by public institutions and through mainstream social science methodologies has been
+raised by scholars of critical traditions. As indicated in the literature review above, many
+have instead adopted interpretative or critical approaches to centre the experiences and
+effects of patriarchy, racism, xenophobia, ableism etc. on qualitative aspects of life. These,
+in addition to methodological nationalism, are often deeply entrenched in public institutions
+and governmentality, and in turn such datasets, enacted through the ways in which people
+are monitored, reported on and constructed through categories not of their making, which in
+turn dis/allow truth claims (Crawford, 2019). In our attempts to be critical methodologically
+while working with the HESA dataset, the ‘Quantitative Critical Race Theory’ (QuantCrit)
+principles offered by Gillborn et al. (2018) served as a sensitisation device.
+    The first principle recognises that racism is a complex, fluid and changing characteristic of
+society that is hard to quantify and measure as an ‘object’, and is more than an identity and/
+or a variable. The second point of guidance is cognisance that numbers are not neutral, but
+constructed and analysed in ways which maintain and protect white-­dominated institutions’
+interests, assumptions and perceptions. We approached the study aware that majoritarian
+assumptions may have misshaped the collection, curation and prior analyses of such data.
+Indicators of ‘class’ for instance are not collected. Gaps in reporting were particularly notice-
+able in relation to ‘ethnicity/race’, disability, and religious belief. We have attempted to make
+omission and missing data a visible presence, to raise awareness of the ‘persistent issue [of]
+the lack of robust data’ (Blell et al., 2022, p. 1836), such as in our description of gendered
+and racialised dimensions of missing data, under Table 3, in the section below. The only
+firm legislative requirements for ‘sex’ indicate what is valued for accountability within the UK
+political economy between those ‘male’ and ‘female’—and also what has been institutionally
+avoided, such as the dearth of entries in Northern Ireland for the category ‘other’, legislated
+across the UK since 2017. Analysis of disclosure, reporting and minority/majority inequalities
+according to gender identity and sexual orientation of staff requires further exploration when
+it comes to UK HE (Hastings & Mansell, 2015), with precedent growing in policy studies
+related to transgenderism (see Cumming-­Potvin & Martino, 2018, about Western Australia).
+    The third principle, that categories are not natural nor given in how group boundaries are
+drawn, is a well-­known area of controversy within UK scholarship and public discourse, as
+indicated in the ‘historicising’ section above. The normalisation and mobilisation of terms
+imposed by those in power to label, organise and control persons and groups have been
+implicated in creating and disguising racial inequality, and furthering social divisions. There
+is weak public discourse on the relation between democracy and representation, and less
+12   |                                                                                           BELLUIGI et al.
+
+
+
+acknowledgement of the value of culturally plural heterogenous identities (such as those
+readily claimed in the USA; Lugo-­Lugo, 2008). We have utilised ‘sex’ rather than gender,
+and ‘male’ and ‘female’ within the analysis, in recognition of the limits such categories im-
+pose. We have utilised ‘racialised ethnic minority’ and ‘white’ for the most part, with the spe-
+cific terminology when relevant. Table 2 indicates how we have adapted the official terms for
+ease of reading. We were aware of how these approaches were re-­inscribed in quantitative
+measurement, which we attempt to bring to the fore by using the terms ‘recorded as’ and
+‘reported as’.
+    We anticipated, and sought to address transparently, the possible majoritarian assump-
+tions and moves of evasion of imagined readers. Exceptionalist arguments justifying con-
+textual differences of population and histories of inequality in England, Northern Ireland,
+Scotland and Wales were addressed by purchasing the combined data of each country to
+make visible contextual dynamics, the dynamics of all UK academic staff, and the discipline
+of education by comparing and contrasting at macro (UK) and meso (devolved region) levels.
+    To extend further than the methodological nationalism prevalent in UK university ‘equal-
+ity’ policy, practice and scholarship, we posed questions about geopolitics by exploring data
+on nationality. The datasets limited this to ‘primary nationality’— the single nationality per-
+mitted for recording in the order predetermined by HESA as UK, EU, then ‘non-­UK/EU’;
+despite double migration and multiple citizenship being a feature of citizens of prior colonial
+empires. We grouped these to ask questions about nationalities dis/advantaged by immigra-
+tion policy, such as those with/out access to the ‘right to work’, which prior to the UK's exit
+(‘Brexit’) included those from the EU, and those from beyond such arrangements (‘non-­UK/
+EU’). Possible global inequalities were considered by mapping nationalities to World Bank
+Country Income Categories to distinguish high-­income countries, often associated with
+the ‘Global North’ or ‘Minority World’, from those with less national resourcing, distinguish-
+ing Upper-­Middle, Middle, Low Income countries (LMICs) as part of the ‘Global South’ or
+‘Majority World’.
+
+
+
+T A B L E 2 Tabulating the categorisation of social groups within the first two datasets purchased and our
+reporting herein.
+
+ First dataset               Second dataset                          Terms used in this paper
+ ‘gender’                    ‘male’, ‘female’, ‘other’               Sex, male, female
+ ‘ethnicity’                                                         Race or racialised ethnicities
+ ‘White’, ‘BAME’, other,                                             Recorded as ‘white’
+ unknown                                                             Recorded as ‘racialised ethnic minority’
+ ‘White’                     (No further differentiated data         Recorded as ‘white’
+                             provided)
+ ‘Black’                     Black/Black British Caribbean           Recorded as ‘Black’ Caribbean/descent
+                             Black/Black African                     Recorded as ‘Black’ African/descent
+                             Other Black background                  Recorded as ‘other Black background’
+ ‘Asian’                     Asian/Asian British Indian Asian/       Recorded as Indian/descent
+                             Asian British Pakistani                 Recorded as Pakistani/descent
+                             Asian/Asian British Bangladeshi         Recorded as Bangladeshi/descent
+                             Chinese                                 Recorded as Chinese/descent
+                             Other Asian background                  Recorded as ‘other Asian background’
+ ‘Mixed’                     Mixed (no further differentiated data   Recorded as ‘mixed’
+                             provided)
+ Other and unknown                                                   Reported initially, after which ‘knowns’
+                                                                     are analysed
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                     | 13
+T A B L E 3 Rounded proportions of the staff composition in the UK's devolved nations by sex, comparing the
+discipline of education (left) and all disciplines combined (right).
+
+                                                       Education                    UK sector
+ England                                               83.0%                        83.0%
+    Female                                             69.0%                        47.0%
+    Male                                               31.0%                        53.0%
+ Northern Ireland                                      2.0%                         2.0%
+    Female                                             64.0%                        44.0%
+    Male                                               36.0%                        56.0%
+ Scotland                                              10.5%                        11.0%
+    Female                                             68.0%                        46.0%
+    Male                                               32.0%                        54.0%
+ Wales                                                 4.0%                         4.5%
+    Female                                             70.0%                        47.0%
+    Male                                               30.0%                        53.0%
+Bold values indicate the proportion of UK academic staff in that devolved nation.
+
+
+
+    We experienced barriers to accessing the data needed, despite ethical clearance, addi-
+tional contracts and payments. A second dataset had to be purchased with more valid differ-
+entiated data rather than the very broad categories curated by HESA in the first set provided
+(see Table 2). We were unsuccessful in attaining differentiated data in some categories. For
+instance, the curation of ‘religious belief’ made it impossible to raise questions about anti-­
+Semitic discrimination (in terms of both Islamaphobia and anti-­Jewish racism).
+    The fourth principle of ‘voice’ as an insight to interpretation of statistics was not met
+through empirical data in this study, which is a major limitation. Within the literature we
+reviewed (a fraction of which is represented herein, see more in the report and via an open-­
+access resource),4 we thus prioritised scholarship often positioned as marginalised readings
+of the university. The questions we asked, the departure points we foregrounded, and the
+concerns about blind spots and omissions were very much informed by the narratives within
+such scholarship, and our own prior studies. The authorial team, the data consultant and
+our critical readers brought scholarly and experiential expertise— inclusive of structures
+of racism, geopolitics, patriarchy, classism— enacted within universities, as resources to
+conscietise each other, and to resist assumptions within our processes.5 We were thus
+more thorough than perhaps necessary, as outlined in the systematic steps described. This
+also served as proactive protection in anticipation of accusations of ‘bias’ which in/validate
+researchers by those adopting biocentric frames of reference.
+    The fifth principle of numbers for social justice relates to our commitment to use quanti-
+tative data as anti-­oppressive praxis to challenge dominant narratives. Because UK univer-
+sities have not produced benchmarks or targets for representation (thereby protecting the
+dominant status quo by avoiding accountability and affirmative action), we thus undertook
+considerably more labour to compare to the discipline of education (termed ‘the cost centre
+135 Education’) with the combined data for all UK disciplines (‘cost centres’). The compre-
+hensive nature of the study (beyond what the commission required and renumerated) and
+of the report, was to fulfil our primary intention for the study to be utilised to trouble the
+status quo. Findings have been actively communicated through workshops, conferences,
+and learned society communiques to leadership of education departments across the UK,
+within various staff-­level initiatives in universities, to education staff and researchers within
+the UK, USA and EU. Visualised data portraits were created within the report (a selection of
+14   |                                                                             BELLUIGI et al.
+
+
+
+which are reproduced herein), inspired by those produced by DuBois (see Battle-­Baptiste &
+Rusert, 2018) to evoke the full impact of such comparisons.
+
+
+FI N D I NGS FRO M TH E A N A LYS I S O F 2 015 –2 02 0
+H ESA DATASETS
+
+Staff composition
+
+Across all disciplines in UK universities in 2020, there were slightly lower proportions of
+female staff (47%) than male staff (53%). Education had a considerably higher percentage
+of female staff (69%), with slight increases over the period studied in each of the devolved
+nations. Across disciplines and in education, >0% staff were reported in the ‘other’ cat-
+egory for ‘sex’ (an option since 2017). Our analysis is thus limited to the first two categories.
+Differences between devolved nations are provided in Table 3, showing that the pattern of
+highest/lowest proportions across disciplines, in those contexts, was consistent with the
+discipline of education.
+    The ‘ethnic’ staff composition of UK universities in 2020 was recorded as 75% ‘white’,
+<16.5% ‘BAME’, 9% ‘unknown’ (see methodological notes about rounded figures). Education
+recorded 85% ‘white’, 8% ‘BAME’, >6.5% ‘unknown’. Gendered and contextual dimensions
+were present in the latter gap: for instance, education in Wales had the lowest percentage
+reported ‘unknown’ for ethnicity (<1% female staff; 3% male staff), and Scotland the highest
+(>6% female staff; >12% male staff).
+    The findings hereafter are based on known, rounded reporting. Female staff in education
+were recorded as <91% ‘white’ and <9% racialised ethnic minorities. When grouped by male
+academic staff, a slightly higher proportion of racialised ethnic minorities is observed (>20%
+all disciplines; <10% education). There were differences per devolved nation. England had
+the highest percentage of reported racialised ethnic minorities by sex, where 18% of female
+academics were recorded as racialised ethnic minorities across disciplines, and <10% in
+education; of male groupings, across all disciplines <21% were recorded as racialised eth-
+nic minorities, and <10.5% in education. The lowest representation was in Northern Ireland,
+with racialised female staff >8% across all disciplines and <3% in education; and racialised
+male staff at 15.5% across all disciplines, >0% in education.
+    The general pattern of more female staff than male staff in education was similar when
+sex was considered by differentiated ‘ethnicity’ data, comparing those recorded as ‘BAME’
+to those recorded as ‘white’, which obscures the differences visualised in Figure 1. Over
+the 5 year period, the percentage of female staff recorded as Pakistani/descent and Black
+African/descent to access employment increased to <1%. In all the devolved nations,
+there was an under-­representation in education of male staff recorded as Indian/descent,
+Pakistani/descent other Black background, Black Caribbean/descent. Northern Ireland had
+neither male nor female staff (0%) recorded in those ethnic categories in education between
+2015 and 2020.
+    Age, participation and intellectual leadership seemed gendered (Figure 2). In education,
+specific age bands in the older groups showed different proportions to the average pattern
+of 69% females to 31% males. The impact of the older staff composition generally in edu-
+cation, and the pattern of attrition with age of female staff, suggests that female academics
+in education had shorter career durations at senior and professorial level than their male
+counterparts. Moreover, we found that the percentage age of promotion to professor level
+was from age 41 for female staff and 31 for males.
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                           | 15
+
+
+
+
+F I G U R E 1 Rounded differentiated data of the known reporting of racialised ethnic minorities by sex in
+education (Belluigi et al., 2023, p. 29).
+
+
+
+
+F I G U R E 2 Age of UK-­based academic staff in education and all disciplines combined (left), and age by sex
+in education (right) (Belluigi et al., 2023, p. 27).
+
+
+
+
+   Disclosure of disability had improved for males, where decreased percentages of ‘un-
+known’ were observed over the 5 year period. Outside of this, data on disability across UK
+disciplines appeared to show no differences in what was known by male and female staff.
+   Data analysed by grouping ‘primary nationality’ in the categories UK, EU and non-­EU/
+UK reflected the general pattern of more female to male staff in education. When ana-
+lysed according to the income status of the country, those from high-­income countries,
+which comprised the bulk of staff (90% in UK universities; <97% in education), also re-
+flected that pattern. This obscured the gendered inequalities acting on those from LMICs,
+which were marginalised in employment in general (upper middle-­income countries at >5%;
+16   |                                                                                              BELLUIGI et al.
+
+
+
+<4% lower middle-­income; >0% low-­income countries in UK universities; in education, 1%
+upper middle-­income countries; <1% lower middle-­income; 0% low-­income). These indi-
+cate geopolitical barriers for intellectuals without passport privilege from the continents of
+Africa, Asia and South America. The general pattern of more female staff in education was
+reversed for LMICs, with lower proportions of female staff than male staff employed. The
+lower the economic status of the country of primary nationality, the higher the proportion of
+male staff to female. This may be indicative of intersecting systems of gendered, racialised
+and geopolitical exclusion impacting access to employment in UK universities.
+
+
+Sex and employment conditions
+
+This section reports on the inequalities observed in the employment conditions for staff in
+UK universities generally and in the discipline of education.
+    Tenure ended in UK universities in 1988 (Education Reform Act, 1988). In 2020, male
+staff had a slightly higher proportion employed in open-­ended/permanent contracts (>73%;
+>70% female). In education, the number of fixed-­term contracts decreased between 2015
+and 2020, with a slightly higher proportion of female staff employed on fixed-­term contracts
+(<16%) than male staff (14%).
+    As indicated in Figure 3, male staff in UK universities were predominantly employed in
+full-­time positions, with the proportion of female staff employed full-­time showing a differ-
+ence of 10%. Education had comparatively higher proportions of both groupings employed
+in part-­time contracts.
+    A lower proportion of female staff in UK universities were employed in positions best
+placed for intellectual leadership, i.e. ‘teaching and research’ (>49%) compared with that of
+male staff (>57%). In education, when considering the participation of each sex relative to
+‘academic employment functions’, male staff were positioned at an advantage despite their
+numbers being lower, with a higher proportion employed in ‘teaching and research’ con-
+tracts (62%), compared with that function for female staff (58%).
+    Consistently across the 5 years studied, UK universities positioned higher proportions
+of males in senior positions (59.5%) than the proportions of attainment for females (<53%).
+Similarly, despite their low overall numbers, higher proportions of male staff in education
+attained senior academic positions (>76%) compared with the attainment within the female
+
+
+
+
+F I G U R E 3 A visualisation of ‘sex’ considered by full-­or part-­time employment, in education (left) and all
+disciplines of UK universities (right) (Belluigi et al., 2023, p. 31).
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                          | 17
+
+grouping (<71%). These were, in part, impacted by the mode of employment where lower
+proportions of staff were employed full-­time at junior levels, which was inverted at senior
+levels in education. Of the female staff employed at senior levels, 63% were full-­time, while
+at the same level, the proportion of male staff working full-­time was <73%, a difference of
+10% between male and female staff. The overall FPE showed smaller gaps in proportions by
+sex (male proportion at senior academic level, 64.8%; female proportion, 59%).
+    Across UK universities, <80% of professors were employed full-­time. Interestingly, the
+proportion of female staff employed as professors part-­time was lower (3.5%; full-­time <8%)
+than the proportion of their male counterparts (part-­time 13%; full time 15%). Although fewer
+men than women were employed in education, a higher proportion of the male group (>10%)
+than the female (>5%) was working at professor level. A slightly higher proportion of the
+male group (>5%) than the female (4%) progressed to senior management level in the period
+studied. Mode of employment seemed to affect this, in ways that differed from what was ob-
+served across disciplines. Of full-­time female staff, >6% were in professorships, compared
+with the <11% proportion of male full-­time staff. Of part-­time female staff in education, <3%
+were in professorships, compared with 8% of male part-­time staff. This indicates that female
+staff in part-­time positions at professorial level in education may be disadvantaged.
+    In education, there was slightly higher reporting of known disability by female professors
+(6%) than male professors (<5%), and higher reporting by male staff in senior management
+positions (>6%) to similarly positioned female staff (>2%). However, the low numbers and
+lack of detail about ‘disability’ limit inferences, which would benefit from a purpose-­built
+dataset with oversampling.
+    When sex was considered relative to differentiated ‘race/ethnicity’ data and professorial
+positions in education, certain groups were under-­represented. There were no female pro-
+fessors in education recorded as Bangladeshi/descent nor Black African/descent during the
+period of study. There were <1% male professors in education recorded as Black African/
+descent. There were <1% male professors in education recorded as Pakistani/descent, and
+the percentage of female professors recorded as Pakistani/descent was rounded to 0%.
+    The sex of professorial and senior management positions was explored by income leve of
+their country of origin. The 90% of academics in UK universities who were from high-­income
+countries had a proportion of <7% female professors and 16% male professors. The >5%
+of academic staff from upper middle-­income countries had >2% female professors and >5%
+male professors; the <4% of academic staff from lower middle-­income countries had 1.5%
+female professors and >4% male professors; and the >0% of staff from low income coun-
+tries had >1% females and >2% males. In education, the 97% of staff from high-­income
+countries had a proportion of 5% female professors and <16% male professors; the >1% of
+staff from upper middle-­income countries had >3% female professors and 7.5% male pro-
+fessors; the <1% of staff from lower middle-­income countries had >4% female professors to
+>5% male professors. While the absolute numbers for some of these are low, what is clear
+is the gendered and geopolitical inequalities.
+
+
+Recruitment and retention
+
+The low actual amounts and short timescale studied limited surety as to whether the hir-
+ing or promotion of staff was addressing inequalities that intersected with gender, with only
+aging playing a clear role in differences between groupings in education.
+   The composition of those newly recruited to education was predominately female (>69%),
+of which the highest proportion was in the 36–40 age group (>77%). The highest proportion
+for males newly recruited was in the 66+ age group (<58%). In terms of promotion in educa-
+tion, of female staff promoted the highest proportion was in the 51–55 age group (>17%). The
+18   |                                                                            BELLUIGI et al.
+
+
+
+highest proportion of male staff promoted in education in 2020 was in the 41–45 age group
+(>24%). In terms of attrition, of those female staff leaving education, the highest proportion
+was in the 56–60 age group (<18%). The highest proportion of male staff leaving education
+in 2019 was in the 66+ age group (<22%). The ‘reasons for leaving’ were not recorded for a
+considerable proportion of staff—21%, generally in UK universities and <36% in education.
+Slightly higher proportions of female staff (21%) in education recorded the reason for leav-
+ing as ‘end of fixed-­term contract’ (the male proportion was at 18%), resignation (21%; male
+staff 18%), retiring (16%, with the male proportion at 9%) and death (7.5% compared with
+the male proportion at 1.3%). A higher proportion of the male staff recorded ‘other (includes
+dismissal and ill-­health)’ (<5%) than the proportion recorded for female staff (<3%).
+
+
+D I SCUSSI O N A N D R ECO M M EN DATI O NS FO R
+FURTH ER R ESE A RCH
+
+This paper exposes how inequalities remain tangible in their effects on academic employ-
+ment in UK universities, even within a discipline predominantly populated by ‘women’ such
+as education. The data snapshots of such inequality describe what is known in officially col-
+lected administrative datasets, despite the problematic quality of categorisation, collection
+and curation of so-­called ‘equality data’. The intercategorical and intracategorical analysis
+raises concerns about the conditions for the flourishing of ‘women’ academic, generally,
+in their careers; for racially minoritised women particularly; and for the access of migrant
+woman academics from the Global South most extremely, as we discuss in this section. This
+challenges decontextualised assumptions that a critical mass (Garces & Jayakumar, 2014)
+accessing universities can alter discriminatory systems, such as patriarchy. The data snap-
+shots shown herein, however, should not preclude the agency of those operating within such
+limitations, even those at the margins and extremes of structural control and privileging. For
+instance, Tate (Forthcoming) and Wright et al. (2018) demonstrate UK-­based academics’
+resistance to aversely racist institutions; however, they also point out the cost and damage
+this does to individuals, to knowledge and UK universities when practices of anti-­racism and
+decolonisation are structurally limited or marginalised.
+    Although more female than male staff were employed in the discipline of education, we
+found that parity in attainment and progression had not been achieved, even at that level
+of comparison of the variable ‘sex’. Indications were that conditions favoured ‘white’ male
+staff employed, who were positioned in senior and assigned leadership positions earlier in
+life, and thus enjoyed longer careers to progress and flourish. Moreover, despite more fe-
+male staff being in part-­time positions than the proportions in UK universities, which could
+be interpreted positively for those wishing to undertake other roles and/or caring responsi-
+bilities, part-­time male professors enjoyed higher proportions of progression. As such, the
+favourable conditions in education for those choosing or requiring part-­time work, which was
+demonstrated in the large proportions of part-­time staff particularly at junior levels, seemed
+to come at the cost of progression to the top for female academics particularly.
+    This study's findings about the discipline of education confirm the importance of ‘race’
+within analysis of gender inequalities in the UK (Rankin-­Wright et al., 2020). Extreme raciali-
+sation, gendered marginalisation and inequality were found in the access and positioning of
+academics in the discipline of education, particularly for those categorised as Black African/
+descent and Bangladeshi/descent. There has been scholarship on students of Bangladeshi
+descent (Anand & Redclift, 2022; and Scandone, 2023; Takhar, 2016 about female stu-
+dents); however more intracategorical scholarship on and by female Bangladeshi academ-
+ics is needed. The under-­representation of Black academics (inclusive of African, Caribbean
+and other/descent) was confirmed at all levels of the academic hierarchy in education, but
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                           | 19
+
+particularly at the level of assigned intellectual leadership. In 2018, there were only 25 Black
+female full professors employed in UK universities (Rollock, 2019). Two years after the date
+range we studied, only 45 female full professors had progressed across all of the UK's public
+universities, an increase of only 20 individuals over 8 years (Zelzer, 2023), with the number
+of Black male full professors increasing from 80 in 2014 to 125 in 2022. Despite white fe-
+males being the group to have most benefited from growth (5865 at professorial level by
+2022), they continued to be significantly outnumbered by their male counterparts (13,255).
+    ‘Surviving’ or ‘thriving’ within the academy continues to be a struggle within patriarchal
+systems internal to the university globally. Workplace climate, rather than the oft cited work–
+life balance of domestic pressures (Reis, 2015), was the reason provided by female academ-
+ics in the USA for high attrition rates, in a context that also under-­represents females in all
+disciplines and levels of the academic hierarchy (Spoon et al., 2023). Internationally, inequal-
+ities that are gendered, racialised and geopolitical emerge in relation to scientific produc-
+tion, including income (Thomson et al., 2021), international collaboration (Callahan, 2019),
+publication (Bell & Mills, 2020) and Minority World framing of ranking criteria (Estera &
+Shahjahan, 2019). Such inequalities also frame the push–pull and barriers to mobility of ac-
+ademics, and which countries benefit from the ‘brain drain’ of academics from the Majority
+World (Gwaradzimba & Shumba, 2010; Ukpokodu, 2020). The UK's elite institutions, for in-
+stance, have been accused of exploiting ‘international’ staff as replacement labour (Khattab
+& Fenton, 2016).
+    Despite such international scholarship, conditions of in/equality experienced by migrant
+academics based in the UK are invisibilised in current ‘equality’ reporting and much higher
+education studies scholarship, perhaps symptomatic of continued white framing and colo-
+niality. This is despite such academic citizens being made hypervisible as marketing capital
+for the ‘international’ institution and sector, and their data being captured for monitoring
+within the ‘hostile environment’ regime of UK immigration (Andrews, 2019). The intersec-
+tional impacts of systems of racism, patriarchy, classism, ableism and geopolitics are ob-
+scured from view, although as our data snapshots indicate, administrative data can be read
+‘diagonally, from the bias’ (Tate & Page, 2018, p. 153). The agency of universities to engage
+with government agencies to unsettle equality frames (Webb et al., 2019) on such matters (a
+relation which is said to be strained, see Nicol, 2023) is an area in need of study. The social
+ethics of the global common good of intellectual leadership should become a demonstrated
+concern, or institutions’ sustainable development commitments will be rightly exposed to
+accusations of double-­speak.
+    This paper's data snapshots indicate the outcomes of selection processes which involve
+internal academic agents. Critiques of discrimination and delegitimation experienced by ra-
+cially minoritised migrant female academics have long been a feature of global scholarship
+about the university in the Minority World (Spivak, 1988, 2008). Disquiet about how aca-
+demic belonging is impacted by the politics of group membership in contexts with legacies
+of British colonialism has been expressed in studies on race and gender in ‘historically white’
+institutions in South Africa (Belluigi & Thondhlana, 2020), and race, gender and class in
+the Caribbean (Gregory, 2006) and in midwest USA (Hirshfield & Joseph, 2012). This has
+included adverse constraints on indigeneity, such as about Native American women in the
+USA (Dixon, 2008) and Maori women in New Zealand (McKinley, 2005). What many inter-
+national studies of universities and academic peer review systems demonstrate is that even
+where there is transparency of structural inequalities, institutions often fail to address the
+wilful dysconsciousness of in-­groups to discriminatory systems. Recent examples include
+caste-­blind perceptions of ‘General Category’ female staff in Indian universities (Dhawan
+et al., 2023) and gender-­blind perspectives of male academics in China (Horta & Tang, 2023).
+Thus, the ways in which social regulation and social formation interact should be a contin-
+ued concern for scholarship and practice for transformative change within institutions.
+20   |                                                                                              BELLUIGI et al.
+
+
+
+CO NCLUS I O N
+
+The inequalities revealed in this study jar with espoused national commitments to equality of
+public universities in the UK, that are regulated through labour legislation and involve com-
+pliant collection of data supposedly for the purposes of meeting equality duties. This paper's
+findings about the multiple, intersecting inequalities in access to academic employment and
+in positioning for academic participation, even in a predominantly female discipline such as
+education, raise questions about the conditions for academic freedom, participation and
+flourishing that UK universities should be providing for all of its academics.
+    Studies that report on statistics about inequality have been critiqued for ineffectually par-
+ticipating in the statistical groundhog day of UK policy craft which calls for, and then ig-
+nores, quantitative evidence of inequality of outcomes (Loke, 2015). Echoing scholars well
+versed in this macabre dance, we assert that the onus should not be on scholars nor on
+those disadvantaged within universities to continually challenge the veracity of promotional
+discourses of equality, diversity and inclusion. Rather than rewarding the double-­speak
+of commitments so late in an historical narrative of inequality, accountability requires that
+‘clearer evidence is needed by universities to demonstrate how they are meeting their legal
+equality requirements as specified by the Equality Act (2010)’ (Bhopal, 2020, p. 706). Firmly
+monitored employment equity legislation and political will have been found to be successful
+elsewhere despite economic challenges—such as increases reported in the representation
+of female researchers of the G20 (53.5% in Argentina and 46.2% in South Africa compared
+with 38.7% in the UK, according to the Institute for Scientific Information, 2023) and female
+academics’ perceptions, in eastern and southern African countries, of being more success-
+ful in gaining research grants than their male counterparts (Prozesky & Mouton, 2019). The
+limited gains of UK universities’ sectoral initiatives, such as Athena SWAN and the Race
+Equality Charter, have led scholars to advocate for state pressure, because the compla-
+cency and inertia of universities about racialised and gendered outcomes may ‘remain intact
+unless significant pressure is placed on universities to change’ (Pilkington, 2020, p. 29). We
+concur, while also calling for international attention to the reproduction of gendered, racial-
+ised and geopolitical inequalities in academic staffing in high-­income countries, such the
+UK, because of the impact such influential sectors has the global common good of (higher)
+education and knowledge.
+
+F U N D I N G I N F O R M AT I O N
+Funding was competitively awarded for the purchase of datasets, their initial analysis and
+representation in a study report by the British Educational Research Association (ref.
+BERAStEdu3).
+
+C O N F L I C T O F I N T E R E S T S TAT E M E N T
+The authors declare that they have no conflict of interest in this study.
+
+D ATA AVA I L A B I L I T Y S TAT E M E N T
+The data that support the findings of this study are available from the Higher Education
+Statistics Agency. Restrictions apply to the availability of these data, which were used under
+licence for this study. Much of the tables related to the findings are available open access
+published by the British Educational Research Association at https://​w ww.​bera.​ac.​uk/​publi​
+cation/​educa​tion-­​the-­​state​- ­​of-­​the- ­​disci​pline​-­​staff​- ­​equality, in addition to being archived in
+the first author's institutional repository at https://​pure.​qub.​ac.​uk/​en/​proje​cts/​educa​tion-­​the-­​
+state​-­​of-­​disci​pline/​​datas​ets/​.
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                                 | 21
+
+E T H I C S S TAT E M E N T
+Ethical clearance was awarded by the Research Ethics Committee of the School of Social
+Science, Education and Social Work of Queen's University Belfast (Ref. 036_2122). Data
+handling and presentation adhered to the ‘Five Safes’ framework of the Secure Research
+Service. The dataset was acquired through the formal process of requirements of ‘informa-
+tion security’ stipulated in a contract set by the Higher Education Statistics Agency, which
+impacted data transfer (supported by the Queen's University Belfast Data Compliance Unit)
+and data reporting herein.
+
+P E R M I S S I O N T O R E P R O D U C E M AT E R I A L F R O M O T H E R S O U R C E S
+Aspects of the original study report have been included herein. That report is authored by
+the same authors as this text, and published under the creative commons licence by the
+British Educational Research Association. It has been referenced actively within the text,
+including figures taken from the report. However, the argument presented herein is an origi-
+nal contribution.
+
+ORCID
+Dina Zoe Belluigi              https://orcid.org/0000-0003-4005-0160
+
+ENDNOTES
+1
+    Our concern here is with the historic representational invisibility in the dominant public socio-­cultural imagina-
+    tion (concerns raised by theorists of intersectionality, such as Crenshaw, 1991; Purdie-­Vaughns & Eibach, 2008).
+    Against this has been the production of counter-­narratives and counter-­archives curated by marginalised individ-
+    uals, collectives, social movements and scholarship, including by Black women academic citizens in the UK (see
+    for instance the evocative text by Longley, 2021).
+2
+    The language of ‘ethnicity’ which is utilised in modern UK bureaucratic governance can be seen to obscure its
+    racialisation, and to group heterogenous peoples in ways misrepresentative of (distinct and shared) histories and
+    ethnicities. Terminology and related categories have altered over time, and thus differ in some of the studies cited
+    herein. In addition, they are inconsistently applied in the four devolved regions. For more, see Aspinall's (2020)
+    mapping of the contrasting purposes of such changes, including the influence of political coalitions for advocacy.
+    For considerations in relation to the methodology of this study, please refer to that section herein.
+3
+    For feasibility, the set included a 5 year range. The end date was set before the Covid-­19 pandemic, with the
+    assumption that it may have impacted ‘usual’ employment dynamics and/or limited institutions’ actions to shape
+    change during times of ‘crisis’. The 5 year range provided some indications of stasis/change, although the du-
+    ration was insufficient for further statistical analysis and inferences to be made with confidence. Longitudinal
+    administrative data linked across different domains are particularly powerful as a research resource as they allow
+    pathways throughout the life course to be examined and provide insights into how circumstances, experiences and
+    opportunities are inter-­related (Denaxas, 2015). In this case, the low actual numbers of female academic staff not
+    racialised as white/not of UK nationality/reporting disabilities who were employed in universities, compounded the
+    issue.
+4
+    https://​www.​zotero.​org/​groups/​45660​21/​edi_​in_​uk_​he.
+5
+    We include this insight cautiously, aware of the temptations of cultivating authority through associations of
+    authenticity that depend on reified markers of identity and experience, prevalent in the current habitus of 'posi-
+    tionality statements' (Zembylas, 2024) that paradoxically ignore, and thus reinscribe, the coloniality of historical
+    assumptions of self–other relations from which they emerged (Gani & Khan, 2024). We have, in good faith,
+    narrativised ourselves in other texts in the public domain— there articulating relations to participants, social
+    groups and source material in acknowledgement of the power of the researcher when generating data and
+    in interpretation. In this study of an existing dataset, our choice has been to practise refusal, with humility, of
+    reviewers’ insistence on such declarations. Rather our way of holding ourselves to account has been to make
+    apparent the power structures that shaped the production of this work and the imperfections of our negotia-
+    tions, in both this section and (through hedging and other devices) throughout the paper, and in the report of
+    the larger study.
+22   |                                                                                                           BELLUIGI et al.
+
+
+
+REFERENCES
+Anand, K., & Redclift, V. (2022). Experiences of British Bangladeshi Muslims in higher education institutions in the
+      United Kingdom. In R. W. Hood & S. Cheruvallil-­Contractor (Eds.), Research in the social scientific study of
+      religion, volume 32 (pp. 163–183). Brill. https://​doi.​org/​10.​1163/​97890​0 4505​315_​010
+Andrews, P. (2019). The compliant environment: Conformity, data processing and increasing inequality in UK
+      higher education. Online Information Review, 43(6), 1063–1079. https://​doi.​org/​10.​1108/​OIR- ­​09-­​2018- ­​0284
+Aiston, S. J. (2011). Equality, justice and gender: Barriers to the ethical university for women. Ethics and Education,
+      6(3), 279–291. https://​doi.​org/​10.​1080/​17449​6 42.​2011.​632721
+Ahmed, S. (2007). ‘You end up doing the document rather than doing the doing’: Diversity, race equality and the
+      politics of documentation. Ethnic and Racial Studies, 30(4), 590–609. https://​doi.​org/​10.​1080/​01419​87070​
+      1356015
+Arday, J., & Mirza, H. S. (Eds.). (2018). Dismantling race in higher education. Springer. https://​link.​sprin​ger.​com/​
+      book/​10.​1007/​978-­​3 -­​319-­​60261​- ­​5.
+Aspinall, P. J. (2020). Ethnic/racial terminology as a form of representation: A critical review of the lexicon of
+      collective and specific terms in use in Britain. Genealogy, 4(3), 1–14. https://​doi.​org/​10.​3390/​genea​logy4​
+      030087
+Baltaru, R. D. (2023). Minority ethnic staff in universities: Organisational commitments, reputation and the (re)
+      structuring of the staff body. Sociology, 58(1), 66–92. https://​doi.​org/​10.​1177/​0 0380​38523​1163107
+Baltaru, R. D. (2022). The rise of agentic inclusion in the UK universities: Maintaining reputation through (for-
+      mal) diversification. Studies in Higher Education, 47(1), 229–242. https://​doi.​org/​10.​1080/​03075​079.​2020.​
+      1739015
+Banerjee, N., Sen, S., & Dhawan, N. (2011). Mapping the field: Gender relations in contemporary India. Bhatkal
+      & Sen.
+Battle-­Baptiste, W., & Rusert, B. (Eds.). (2018). WEB Du Bois's data portraits: Visualizing black America (Illustrated
+      edition). Princeton Architectural Press.
+BBC Scotland. 2017. The first female professor in the UK. https://​w ww.​bbc.​com/​news/​uk-­​scotl​and-­​39191297.
+Bedi, G., Dam, N. T. V., & Munafo, M. (2012). Gender inequality in awarded research grants. The Lancet,
+      380(9840), 474. https://​doi.​org/​10.​1016/​S0140​- ­​6736(12)​61292​- ­​6
+Bell, K., & Mills. (2020). What we know about the academic journal landscape reflects global inequalities [LSE].
+      Impact of Social Sciences. https://​blogs.​lse.​ac.​uk/​impac​tofso​cials​cienc​es/​2020/​10/​12/​what-­​we-­​know-­​about​
+      -­​the-­​acade​mic-­​journ​al-­​lands​cape-­​refle​cts- ­​globa​l-­​inequ​aliti​es/​.
+Belluigi, D. Z., Arday, J., & O'Keeffe, J. (2023). Education: The state of the discipline: An exploration of existing
+      statistical data relating to staff equality in UK higher education. British Educational Research Association.
+      https://​w ww.​bera.​ac.​uk/​publi​cation/​educa​tion-­​the-­​state ​- ­​of-­​the- ­​disci​pline ​-­​staff​- ­​equality.
+Belluigi, D. Z., & Chiappa, R. (2022, March 17). Discussing stuck and sticky contributions of critical academic
+      mobilities research [ACUSAfrica]. https://​w ww.​acusa​frica.​com/​post/​discu​ssing​-­​stuck​-­​and-­​stick​y- ­​contr​ibuti​
+      ons-­​of-­​criti​cal-­​acade​mic-­​mobil​ities​-­​resea​rch?​postId=​e1ffc​a69-­​5bf6- ­​43f8-­​9d68-­​b0d0a​7f699a.
+Belluigi, D. Z., & Thondhlana, G. (2020). ‘Your skin has to be elastic’: The politics of belonging as a selected
+      black academic at a ‘transforming’ south African university. International Journal of Qualitative Studies in
+      Education, 35(2), 141–162. https://​doi.​org/​10.​1080/​09518​398.​2020.​1783469
+Bennett, D. (2023). Pioneering Black British women in education and research. Liblog. https://​liblog.​port.​ac.​uk/​
+      blog/​2023/​10/​30986/​​.
+Berrey, E. C. (2011). Why diversity became orthodox in higher education, and how it changed the meaning of race
+      on campus. Critical Sociology, 37(5), 573–596. https://​doi.​org/​10.​1177/​08969​20510​380069
+Bernstein, S. (2020). The metaphysics of intersectionality. Philosophical Studies, 177(2), 321–335. https://​doi.​org/​
+      10.​1007/​s1109​8 -­​019-­​01394​-­​x
+Bhopal, K. (2020). Gender, ethnicity and career progression in UK higher education: A case study analysis.
+      Research Papers in Education, 35(6), 706–721. https://​doi.​org/​10.​1080/​02671​522.​2019.​1615118
+Bhopal, K., & Henderson, H. (2021). Competing inequalities: Gender versus race in higher education institutions
+      in the UK. Educational Review, 73(2), 153–169. https://​doi.​org/​10.​1080/​0 0131​911.​2019.​1642305
+Bhopal, K., & Myers, M. (2023). Elite universities and the making of privilege: Exploring race and class in global
+      educational economies. Routledge.
+Bhopal, K., & Pitkin, C. (2018). Investigating higher education institutions and their views on the race equality
+      charter (p. 44). University and College Union Research Report. https://​w ww.​ucu.​org.​uk/​HEIs-­​and-­​the-­​Race-­​
+      Equal​ity- ­​Charter.
+Bilge, S. (2020). The fungibility of intersectionality: An Afropessimist reading. Ethnic and Racial Studies, 43(13),
+      2298–2326. https://​doi.​org/​10.​1080/​01419​870.​2020.​1740289
+Blell, M., Liu, S.-­J. S., & Verma, A. (2022). “A one-­sided view of the world”: Women of colour at the intersections of
+      academic freedom. The International Journal of Human Rights, 26(10), 1822–1841. https://​doi.​org/​10.​1080/​
+      13642​987.​2022.​2041601
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                                                  | 23
+Boliver, V. (2015). Are there distinctive clusters of higher and lower status universities in the UK? Oxford Review
+      of Education, 41(5), 608–627. https://​doi.​org/​10.​1080/​03054​985.​2015.​1082905
+Bowl, M. (2018). Differentiation, distinction and equality – Or diversity? The language of the marketised university:
+      An England, New Zealand comparison. Studies in Higher Education, 43(4), 671–688. https://​doi.​org/​10.​1080/​
+      03075​079.​2016.​1190961
+Boyle, P. J., Smith, L. K., Cooper, N. J., Williams, K. S., & O'Connor, H. (2015). Gender balance: Women are
+      funded more fairly in social science. Nature, 525(7568), 181–183. https://​doi.​org/​10.​1038/​525181a
+Burford, J., Bosanquet, A., & Smith, J. (2020). ‘Homeliness meant having the fucking vacuum cleaner out’: The
+      gendered labour of maintaining conference communities. Gender and Education, 32(1), 86–100. https://​doi.​
+      org/​10.​1080/​09540​253.​2019.​1680809
+Callahan, M. (2019). How gender bias excludes women from international scientific collaboration. Northeastern
+      Global News. https://​news.​north​easte​rn.​edu/​2019/​08/​07/​how- ­​gende​r-­​bias-­​exclu​des-­​women​-­​from-­​inter​natio​
+      nal-­​scien​tific​-­​colla​borat​ion/​.
+Campion, K., & Clark, K. (2022). Revitalising race equality policy? Assessing the impact of the race equality char-
+      ter mark for British universities. Race Ethnicity and Education, 25(1), 18–37. https://​doi.​org/​10.​1080/​13613​
+      324.​2021.​1924133
+Chandrashekar, K., & Siddiqui, S. (2018). Sex and power in the university. Annual Review of Critical Psychology,
+      15, 1–245. https://​disco​urseu​nit.​com/​wp-­​conte​nt/​uploa​ds/​2018/​11/​arcp-­​15-­​sex-­​and-­​power​-­​in-­​the-­​unive​rsity​
+      -­​updat​ed.​pdf.
+Chankseliani, M., & McCowan, T. (2021). Higher education and the sustainable development goals. Higher
+      Education, 81(8), 1–8. https://​doi.​org/​10.​1007/​s1073​4 - ­​020- ­​0 0652​-­​w
+Chen, C. Y., Kahanamoku, S. S., Tripati, A., Alegado, R. A., Morris, V. R., Andrade, K., & Hosbey, J. (2022).
+      Systemic racial disparities in funding rates at the National Science Foundation. eLife, 11, e83071. https://​doi.​
+      org/​10.​7554/​eLife.​83071​
+Clifford, V. A., & Henderson, J. (2011). Shifting identities: International staff negotiating new academic identities.
+      In K.-­L. Krause, M. Buckridge, & S. Purbrick-­Illek (Eds.), Higher education research and development so-
+      ciety of Australasia (Vol. 34, pp. 108–117) http://​w ww.​herdsa.​org.​au/​wp-​conte​nt/​uploa​ds/​confe​rence/​​2011/​
+      papers/​HERDSA_ ​2011_​Cliff​ord.​PDF
+Connelly, R., Playford, C. J., Gayle, V., & Dibben, C. (2016). The role of administrative data in the big data revo-
+      lution in social science research. Social Science Research, 59, 1–12. https://​doi.​org/​10.​1016/j.​ssres​earch.​
+      2016.​0 4.​015
+Cooksey, R. W. (2020). Descriptive statistics for summarising data. Illustrating Statistical Procedures: Finding
+      Meaning in Quantitative Data, 61–139. https://​doi.​org/​10.​1007/​978-­​981-­​15-­​2537-­​7_​5
+Cownie, F. (2015). The United Kingdom's first woman Law professor: An Archerian analysis. Journal of Law and
+      Society, 42(1), 127–149. https://​doi.​org/​10.​1111/j.​1467-­​6 478.​2015.​0 0701.​x
+Crawford, C. E. (2019). The one-­in-­ten: Quantitative Critical Race Theory and the education of the ‘new
+      (white) oppressed’. Journal of Education Policy, 34(3), 423–444. https://​doi.​org/​10.​1080/​02680​939.​2018.​
+      1531314
+Crenshaw, K. (1991). Mapping the margins: Intersectionality, identity politics, and violence against women of
+      color. Stanford Law Review, 43(6), 1241–1299. https://​doi.​org/​10.​2307/​1229039
+Crimmins, G. (2021). Engaging feminist pedagogies to support equality bargaining in academia. Gender and
+      Education, 34(3), 313–328. https://​doi.​org/​10.​1080/​09540​253.​2021.​1902486
+Crimmins, G., Casey, S., & Tsouroufli, M. (2023). Intersectional barriers to women's advancement in higher edu-
+      cation institutions rewarded for their gender equity plans. Gender and Education, 35(6–7), 653–670. https://​
+      doi.​org/​10.​1080/​09540​253.​2023.​2238737
+Cumming-­Potvin, W., & Martino, W. (2018). The policyscape of transgender equality and gender diversity in the
+      Western Australian education system: A case study. Gender and Education, 30(6), 715–735. https://​doi.​org/​
+      10.​1080/​09540​253.​2018.​1483491
+Dar, S., & Ibrahim, Y. (2019). The blackened body and white governmentality: Managing the UK academy
+      and the production of shame. Gender, Work and Organization, 26(9), 1241–1254. https://​doi.​org/​10.​1111/​
+      gwao.​12395​
+Davies, C., & Healey, R. (2019). Hacking through the Gordian knot: Can facilitating operational mentoring untan-
+      gle the gender research productivity puzzle in higher education? Studies in Higher Education, 44(1), 31–44.
+      https://​doi.​org/​10.​1080/​03075​079.​2017.​1333494
+Davis, C. (2022, December 16). Academics of working class heritage talking—Stories of roots, and routes into
+      academia. https://​charl​iedav​is5.​github.​io/​AWCHT/​​Home.​html.
+Department of Education and Science. (1988). Education reform act 1988. Her Majesty's Stationery Office.
+Deem, R., & Morley, L. (2006). Diversity in the academy? Staff perceptions of equality policies in six contempo-
+      rary higher education institutions. Policy Futures in Education, 4(2), 185–202. https://​doi.​org/​10.​2304/​pfie.​
+      2006.4.​2.​185
+24   |                                                                                                                               BELLUIGI et al.
+
+
+Denaxas, S. C., & Morley, K. I. (2015). Big biomedical data and cardiovascular disease research: Opportunities
+      and challenges. European Heart Journal—Quality of Care and Clinical Outcomes, 1(1), 9–16. https://​doi.​org/​
+      10.​1093/​ehjqc​co/​qcv005
+Dhawan, N. B., Belluigi, D. Z., & Idahosa, G. E.-­O. (2023). “There is a hell and heaven difference among faculties
+      who are from quota and those who are non-­quota”: Under the veneer of the “new middle class” production
+      of Indian public universities. Higher Education, 86(2), 271–296. https://​doi.​org/​10.​1007/​s1073​4 -­​022-­​0 0932​-­​7
+Dixon, O. C. (2008). Warrior women: A qualitative content analysis of the perceptions of the experiences of native
+      American women in the academy [the University of san Francisco]. https://​w ww.​acade​mia.​edu/​11027​034/​
+      Warri​or_​Women_A_​Quali​tative_​Conte​nt_ ​A naly​sis_​of_​the_ ​Perce​ptions_​of_​the_ ​E xper​iences_​of_ ​Native_​
+      Ameri​can_​Women_​in_​the_ ​Academy.
+Drake, B., & Jonson-­Reid, M. (1999). Some thoughts on the increasing use of administrative data in child maltreat-
+      ment research. Child Maltreatment, 4(4), 308–315. https://​doi.​org/​10.​1177/​10775​59599​0 0400​4004
+Drew, E. (2022). Navigating unChartered waters: Anchoring Athena SWAN into Irish HEIs. Journal of Gender
+      Studies, 31(1), 23–35. https://​doi.​org/​10.​1080/​09589​236.​2021.​1923463
+Durak, T. (2022). Young Scholars: Passing the whiteness threshold; That's all that matters. UCL Young Scholar
+      Seminar Series, Yunus Emre Institute. https://​w ww.​event​brite.​co.​uk/e/​26096​22641​57?​aff=​efbneb
+Estera, A., & Shahjahan, R. A. (2019). Globalizing whiteness? Visually re/presenting students in global university
+      rankings websites. Discourse: Studies in the Cultural Politics of Education, 40(6), 930–945. https://​doi.​org/​
+      10.​1080/​01596​306.​2018.​1453781
+Freeman, A. (2024). The geopolitical economy of international inequality. Development and Change, 55(1), 3–37.
+      https://​doi.​org/​10.​1111/​dech.​12812​
+Gabriel, D., & Tate, S. A. (2017). Inside the ivory tower: Narratives of women of colour surviving and thriving in
+      British academia. Trentham Books. https://​w ww.​whsmi​th.​co.​uk/​produ​cts/​insid​e -­​the-­​ivory​-­​tower​-­​narra​tives​
+      - ­​of-­​women​- ­​of- ­​c olou​r-­​survi​ving-­​and-­​thriv​ing- ­​in- ­​briti​sh-­​acade​mia/​debor​ah- ­​gabri​el/​shirl​ey-­​anne-­​t ate/​paper​
+      back/​97818​58568​485.​html.
+Gander, M. (2018). A descriptive study of professional staff, and their careers, in Australian and UK universities.
+      Perspectives: Policy and Practice in Higher Education, 22(1), 19–25. https://​doi.​org/​10.​1080/​13603​108.​2017.​
+      1307876
+Gani, J. K., & Khan, R. M. (2024). Positionality statements as a function of Coloniality: Interrogating reflexive
+      methodologies. International Studies Quarterly, 68(2), sqae038. https://​doi.​org/​10.​1093/​isq/​sqae038
+Garces, L. M., & Jayakumar, U. M. (2014). Dynamic diversity: Toward a contextual understanding of critical mass.
+      Educational Researcher, 43, 115–124. https://​doi.​org/​10.​3102/​0 0131​89X14​529814
+Gillborn, D., Rollock, N., Warmington, P., & Demack, S. (2016). Race, racism and education: Inequality, resilience
+      and reform in policy & practice. A two-­year research project funded by the Society for Educational Studies
+      (SES) National Award 2013. Final report to funders. https://​soc-­​for-­​ed-­​studi​es.​org.​uk/​wp-­​conte​nt/​uploa​ds/​
+      2019/​02/​Gillb​ornD-­​et-­​al_ ​Race-­​Racis​m -­​and-­​Educa​tion.​pdf.
+Gillborn, D., Warmington, P., & Demack, S. (2018). QuantCrit: Education, policy, ‘big data’ and principles for a
+      critical race theory of statistics. Race Ethnicity and Education, 21(2), 158–179. https://​doi.​org/​10.​1080/​13613​
+      324.​2017.​1377417
+Gilligan, C. (2018). Northern Ireland and the crisis of anti-­racism: Rethinking racism and sectarianism. Manchester
+      University Press.
+Gopal, D. P., & Rao, M. (2021). Playing hide and seek with structural racism. BMJ, 373, n988. https://​doi.​org/​10.​
+      1136/​bmj.​n988
+GOV.UK. (2021). Writing about ethnicity. UK. https://​w ww.​ethni​city-­​facts​-­​f igur​es.​servi​ce.​gov.​uk/​style​- ­​guide/​​writi​
+      ng-­​about​- ­​ethni​city.
+Gregory, S. T. (2006). The cultural constructs of race, gender and class: A study of how afro-­Caribbean women
+      academics negotiate their careers. International Journal of Qualitative Studies in Education, 19(3), 347–366.
+      https://​doi.​org/​10.​1080/​09518​39060​0 696877
+Gwaradzimba, E., & Shumba, A. (2010). The nature, extent and impact of the brain drain in Zimbabwe and South
+      Africa. Acta Academica, 42(1), 209–241. https://​hdl.​handle.​net/​10520/​​EJC15473.
+Harford, J. (2020). The path to professorship: Reflections from women professors in Ireland. Irish Educational
+      Studies, 39(2), 193–204. https://​doi.​org/​10.​1080/​03323​315.​2019.​1698445
+Hastings, R., & Mansell, O. (2015). Somewhere over the rainbow: The challenges and opportunities open to
+      LGBT* staff. Perspectives: Policy and Practice in Higher Education, 19(4), 122–126. https://​doi.​org/​10.​1080/​
+      13603​108.​2015.​1046531
+Henderson, E. F. (2019). On being the ‘gender person’ in an academic department: Constructions, configura-
+      tions and implications. Journal of Gender Studies, 28(6), 730–742. https://​doi.​org/​10.​1080/​09589​236.​2019.​
+      1620709
+Henderson, E. F. (2021). Sticky care and conference travel: Unpacking care as an explanatory factor for gendered
+      academic immobility. Higher Education, 82(4), 715–730. https://​doi.​org/​10.​1007/​s1073​4 - ­​020- ­​0 0550 ​-­​1
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                                    | 25
+Henderson, H., & Bhopal, K. (2022). Narratives of academic staff involvement in Athena SWAN and race equality
+      charter marks in UK higher education institutions. Journal of Education Policy, 37(5), 781–797. https://​doi.​
+      org/​10.​1080/​02680​939.​2021.​1891576
+Heward, C., & Taylor, P. (1992). Women at the top in higher education: Equal opportunities policies in action?
+      Policy & Politics, 20(2), 111–121. https://​doi.​org/​10.​1332/​03055​73927​83054883
+Heward, C., & Taylor, P. (1993). Effective and ineffective equal opportunities policies in higher education. Critical
+      Social Policy, 13(37), 75–94. https://​doi.​org/​10.​1177/​02610​18393​01303704
+Heward, C., Taylor, P., & Vickers, R. (1995). What is behind Saturn's rings?: Methodological problems in the
+      investigation of gender and race in the academic profession. British Educational Research Journal, 21(2),
+      149–163. https://​doi.​org/​10.​1080/​01411​92950​210202
+Higher Education Statistical Agency (HESA). (2022). Higher Education Staff Statistics: UK. https://​w ww.​hesa.​ac.​
+      uk/​news/​01- ­​02-­​2022/​sb261​-­​highe​r- ­​educa​tion-­​staff​-­​stati​stics​.
+Hirshfield, L. E., & Joseph, T. D. (2012). ‘We need a woman, we need a black woman’: Gender, race, and identity tax-
+      ation in the academy. Gender and Education, 24(2), 213–227. https://​doi.​org/​10.​1080/​09540​253.​2011.​606208
+Horta, H., & Tang, L. (2023). Gender inequality and bias in Chinese universities: Perceptions of male and female
+      academics. Higher Education Research and Development, 42(8), 1954–1969. https://​doi.​org/​10.​1080/​07294​
+      360.​2023.​2197193
+Hoskins, K. (2010). The price of success? The experiences of three senior working class female academics in the
+      UK. Womens Studies International Forum, 33, 134–140. https://​doi.​org/​10.​1016/j.​wsif.​2009.​12.​0 03
+Institute for Scientific Information. (2023). G20 Scorecard & Research Performance Report 2023. Clarivate
+      https://​clari​vate.​com/​the-­​insti​tute-­​for-­​scien​tific​-­​infor​mation/​2023- ­​g20-­​score​card/​.
+Jones, C., Chappell, A., & Alldred, P. (2021). Feminist education for university staff responding to disclosures
+      of sexual violence: A critique of the dominant model of staff development. Gender and Education, 33(2),
+      121–137. https://​doi.​org/​10.​1080/​09540​253.​2019.​1649639
+Kandiko Howson, C. B., Coate, K., & de St Croix, T. (2018). Mid-­career academic women and the prestige economy.
+      Higher Education Research and Development, 37(3), 533–548. https://​doi.​org/​10.​1080/​07294​360.​2017.​1411337
+Khattab, N., & Fenton, S. (2016). Globalisation of researcher mobility within the UK Higher Education: Explaining
+      the presence of overseas academics in the UK academia. Globalisation, Societies and Education, 14(4),
+      528–542. https://​doi.​org/​10.​1080/​14767​724.​2015.​1067763
+Langa, P. V., Swanzy, P., & Law, D. (2019). Brexit: Some implications for African higher education. Perspectives:
+      Policy and Practice in Higher Education, 23(1), 28–32. https://​doi.​org/​10.​1080/​13603​108.​2018.​1480541
+Laux, R. (2019). 50 years of collecting ethnicity data—History of government. GOV.UK. https://​histo​r y.​blog.​gov.​
+      uk/​2019/​03/​07/​50-­​years​- ­​of-­​colle​cting​-­​ethni​city- ­​data/​.
+Lockhart, J. W., King, M. M., & Munsch, C. (2024). Who authors social science? Demographics and the production
+      of knowledge. Social Currents. https://​doi.​org/​10.​1177/​23294​9 6524​1246805
+Loke, G. (2015). Breaking the race inequality cycle in Higher Education: A change of focus is needed to break the
+      Statistical groundhog day. In C. Alexander & J. Arday (Eds.), Aiming higher: Race, inequality and diversity
+      in the academy (pp. 42–45). Runnymede Trust. https://​cdn.​prod.​websi​te-­​f iles.​com/​61488​f 992b​58e68​7f110​
+      8c7c/​617bc​f1cd1​24685​da56a​014c_ ​Aiming%​20Hig​her.​pdf.
+Longley, O. (2021). Olive and me in the archive: A black British woman in an archival space. Feminist Review,
+      129(1), 123–137. https://​doi.​org/​10.​1177/​01417​78921​1041898
+Lugo-­Lugo, C. R. (2008). ‘So you are a mestiza’: Exploring the consequences of ethnic and racial clumping in
+      the US academy. Ethnic and Racial Studies, 31(3), 611–628. https://​doi.​org/​10.​1080/​01419​87070​1568882
+Lugones, M. (2016). The Coloniality of gender. In W. Harcourt (Ed.), The Palgrave handbook of gender and devel-
+      opment (pp. 13–33). Palgrave Macmillan UK. https://​doi.​org/​10.​1007/​978-­​1-­​137-­​38273​-­​3 _​2
+Luxon, T., & Peelo, M. (2009). Academic sojourners, teaching and internationalisation: The experience of non-­UK
+      staff in a British University. Teaching in Higher Education, 14(6), 649–659. https://​doi.​org/​10.​1080/​13562​
+      51090​3315233
+Lynch, K., & O'Neill, C. (1994). The colonisation of social class in Education. British Journal of Sociology of
+      Education, 15(3), 307–324.
+Macfarlane, B., & Burg, D. (2019). Women professors and the academic housework trap. Journal of Higher
+      Education Policy and Management, 41(3), 262–274. https://​doi.​org/​10.​1080/​13600​80X.​2019.​1589682
+HMSO (1999). The Stephen Lawrence Inquiry, Report of an Inquiry by Sir William Macpherson of Cluny, cm
+      4262-I. (pp. 1–389). London: The Stationery Office. https://www.archive.official-documents.co.uk/docu-
+      ment/cm42/4262/4262.htm.
+Mahony, P., & Weiner, G. (2020). ‘Getting in, getting on, getting out’: Black, Asian and minority ethnic staff in UK higher
+      education. Race Ethnicity and Education, 23(6), 841–857. https://​doi.​org/​10.​1080/​13613​324.​2019.​1679761
+McCarry, M., & Jones, C. (2021). The equality paradox: Sexual harassment and gender inequality in a UK univer-
+      sity. Journal of Gender Studies, 3(18), 928–940. https://​doi.​org/​10.​1080/​09589​236.​2021.​2007471
+McKinley, E. (2005). Brown bodies, white coats: Postcolonialism, Maori women and science. Discourse: Studies
+      in the Cultural Politics of Education, 26(4), 481–496. https://​doi.​org/​10.​1080/​01596​30050​0319761
+26   |                                                                                                     BELLUIGI et al.
+
+
+McVeigh, R., & Duchan, A. (2005). The next Stephen Lawrence? Racist violence and criminal justice in Northern
+      Ireland.
+Miller, P. (2016). ‘White sanction’, institutional, group and individual interaction in the promotion and progression of
+      black and minority ethnic academics and teachers in England. Power and Education, 8(3), 205–221. https://​
+      doi.​org/​10.​1177/​17577​43816​672880
+Nichols, S., & Stahl, G. (2019). Intersectionality in higher education research: A systematic literature review.
+      Higher Education Research and Development, 38(6), 1255–1268. https://​doi.​org/​10.​1080/​07294​360.​2019.​
+      1638348
+Nicol, L. (2023). International HE regulation: Australia is showing the way. University World News. https://​w ww.​
+      unive​rsity ​world​news.​com/​post.​php?​story=​20231​01715​1259455.
+Patel, I. S. (2022). We're here because you were there: Immigration and the end of empire. Verso.
+Pilkington, A. (2018). The rise and fall of the salience of race equality in higher education. In J. Arday & H. S. Mirza
+      (Eds.), Dismantling race in higher education (pp. 27–45). Springer. https://​link.​sprin​ger.​com/​chapt​er/​10.​1007/​
+      978-­​3 -­​319- ­​60261​-­​5 _ ​2.
+Pilkington, A. (2020). Promoting race equality and supporting ethnic diversity in the academy: The UK experience
+      over two decades. In G. Crimmins (Ed.), Strategies for supporting inclusion and diversity in the academy:
+      Higher Education, aspiration and inequality (pp. 29–48). Springer. https://​doi.​org/​10.​1007/​978-­​3 -­​030-­​43593​
+      -­​6 _​2
+Prozesky, H., & Mouton, J. (2019). A gender perspective on career challenges experienced by African scientists.
+      South African Journal of Science, 115(3–4), 1–5. https://​doi.​org/​10.​17159/​​sajs.​2019/​5515
+Purdie-­Vaughns, V., & Eibach, R. P. (2008). Intersectional invisibility: The distinctive advantages and disadvan-
+      tages of multiple subordinate-­group identities. Sex Roles, 59(5–6), 377–391. https://​doi.​org/​10.​1007/​s1119​
+      9-­​0 08-­​9 424-­​4
+Pustelnikovaite, T., & Chillas, S. (2022). Modes of incorporation: The inclusion of migrant academics in the UK.
+      Work, Employment and Society, 37(6), 1627–1645. https://​doi.​org/​10.​1177/​09500​17022​1092337
+Queen's University Belfast. (2020). The Role of Women. Queen's University Belfast. https://​w ww.​qub.​ac.​uk/​
+      about/​​175-­​celeb​ration/​women/​​.
+Raffe, D. (2013). Was devolution the beginning of the end of the UK higher education system? Perspectives:
+      Policy and Practice in Higher Education, 17(1), 11–16. https://​doi.​org/​10.​1080/​13603​108.​2012.​707625
+Rankin-­Wright, A. J., Hylton, K., & Norman, L. (2020). Critical race theory and black feminist insights into “race”
+      and gender equality. Ethnic and Racial Studies, 43(7), 1111–1129. https://​doi.​org/​10.​1080/​01419​870.​2019.​
+      1640374
+Reay, D. (2018). Race and elite universities in the UK. In J. Arday & H. S. Mirza (Eds.), Dismantling race in higher
+      education (pp. 47–66). Springer. https://​link.​sprin​ger.​com/​chapt​er/​10.​1007/​978-­​3 -­​319- ­​60261​- ­​5 _ ​3.
+Reis, T. (2015). Leadership stories: Defining gender in university leadership. Journal of Women in Educational
+      Leadership, 70, 1–26. https://​digit​alcom​mons.​unl.​edu/​cgi/​viewc​ontent.​cgi?​artic​le=​1071&​conte​x t=​jwel.s
+Rollock, N. (2018). The heart of whiteness: Racial gesture politics, equity and Higher Education. In J. Arday & H.
+      S. Mirza (Eds.), Dismantling race in Higher Education: Racism, whiteness and Decolonising the academy
+      (pp. 313–330). Springer International Publishing. https://​doi.​org/​10.​1007/​978-­​3 -­​319- ­​60261​- ­​5 _​18
+Rollock, N. (2019). Staying power: The career experiences and strategies of UK black female professors. https://​
+      www.​ucu.​org.​uk/​media/​​10075/​​Stayi​ng-­​Power/​​pdf/​UCU_ ​Rollo​ck_ ​Febru​ary_ ​2019.​pdf.
+Rollock, N. (2021). “I would have become wallpaper had racism had its way”: Black female professors, racial
+      Battle fatigue, and strategies for surviving Higher Education. Peabody Journal of Education, 96(2), 206–217.
+      https://​doi.​org/​10.​1080/​01619​56X.​2021.​1905361
+Rosa, R., & Clavero, S. (2022). Gender equality in higher education and research. Journal of Gender Studies,
+      31(1), 1–7. https://​doi.​org/​10.​1080/​09589​236.​2022.​2007446
+Rosser, S. V., Barnard, S., Carnes, M., & Munir, F. (2019). Athena SWAN and ADVANCE: Effectiveness and les-
+      sons learned. The Lancet, 393(10171), 604–608. https://​doi.​org/​10.​1016/​S0140​- ­​6736(18)​33213​- ­​6
+Rostan, M., & Höhle, E. A. (2014). The international mobility of faculty. In F. Huang, M. Finkelstein, & M. Rostan
+      (Eds.), The Internationalization of the Academy: Changes, realities and prospects (pp. 79–104). Springer
+      Netherlands. https://​doi.​org/​10.​1007/​978-​9 4-​0 07-​7278-6_​5
+Rubin, D. B. (2018). Multiple imputation. Chapman and Hall/CRC.
+Sadiq, H., Barnes, K. I., Price, M., Gumedze, F., & Morrell, R. G. (2019). Academic promotions at a south African
+      university: Questions of bias, politics and transformation. Higher Education, 78(3), 423–442. https://​doi.​org/​
+      10.​1007/​s1073​4 -­​018-­​0350-­​2
+Sato, S., Gygax, P. M., Randall, J., & Schmid Mast, M. (2021). The leaky pipeline in research grant peer review
+      and funding decisions: Challenges and future directions. Higher Education, 82(1), 145–162. https://​doi.​org/​
+      10.​1007/​s1073​4 -­​020-­​0 0626​-­​y
+Scandone, B. (2023). British-­Bangladeshi women in Higher Education: Aspirations. Routledge.
+Sequiera, L. (2021). Passport privilege in academia. LSE Higher Education. https://​blogs.​lse.​ac.​uk/​highe​reduc​
+      ation/​​2021/​09/​23/​passp​ort-­​privi​lege-­​in-­​acade​mia/​.
+DATA SNAPSHOTS OF ‘WOMEN’ ACADEMICS IN UK ACADEMIA                                                                                      | 27
+Shattock, M., & Horvath, A. (2020). The decentralisation of the governance of UK higher education: The effects
+     of devolution to Scotland, Wales and Northern Ireland, and on England. Policy Reviews in Higher Education,
+     4(2), 164–178. https://​doi.​org/​10.​1080/​23322​9 69.​2020.​1751688
+Sherer, M. J., & Zakaria, I. (2018). Mind that gap! An investigation of gender imbalance on the governing bodies of
+     UK universities. Studies in Higher Education, 43(4), 719–736. https://​doi.​org/​10.​1080/​03075​079.​2016.​1196352
+Smidt, T. B., Pétursdóttir, G. M., & Einarsdóttir, Þ. (2021). When discourse is hijacked: An implicit and performa-
+     tive resistance strategy to gender equality in higher education. Journal of Women and Gender in Higher
+     Education, 14(2), 143–165. https://​doi.​org/​10.​1080/​26379​112.​2021.​1950739
+Smith, H. J. (2023). The doublespeak discourse of the race disparity audit: An example of the white racial frame
+     in institutional operation. Discourse: Studies in the Cultural Politics of Education, 44(1), 1–15. https://​doi.​org/​
+     10.​1080/​01596​306.​2021.​1931035
+Sobande, F. (2020). Brands' Optical “Allyship” and opportunistic responses to black social justice activism.
+     Discover Society. https://​disco​verso​ciety.​org/​2020/​07/​01/​brand​s- ­​optic​al-­​allys​hip-­​and- ­​oppor ​tunis​tic-­​respo​
+     nses-­​to-­​black​-­​socia​l-­​justi​ce-­​activ​ism/​.
+Spivak, G. C. (1988). Can the subaltern speak? In C. Nelson & L. Grossberg (Eds.), Marxism and the interpreta-
+     tion of culture (pp. 271–313). Macmillan.
+Spivak, G. C. (2008). Outside in the teaching machine. Routledge.
+Spoon, K., LaBerge, N., Wapman, K. H., Zhang, S., Morgan, A. C., Galesic, M., Fosdick, B. K., Larremore, D. B.,
+     & Clauset, A. (2023). Gender and retention patterns among U.S. faculty. Science Advances, 9(42), eadi2205.
+     https://​doi.​org/​10.​1126/​sciadv.​adi2205
+Stockfelt, S. (2018). We the minority-­of-­minorities: A narrative inquiry of black female academics in the United
+     Kingdom. British Journal of Sociology of Education, 39(7), 1012–1029. https://​doi.​org/​10.​1080/​01425​692.​
+     2018.​1454297
+Takhar, S. (2016). Bangladeshi female students in higher education: ‘Agentic autonomy’ at the race/gender trajec-
+     tory. Gender and Race Matter: Global Perspectives on Being a Woman, 21, 41–62. https://​doi.​org/​10.​1108/​
+     S1529​-­​21262​01600​0 0021004
+Tate, S. A., & Bagguley, P. (2017). Building the anti-­racist university: Next steps. Race Ethnicity and Education,
+     20(3), 289–299. https://​doi.​org/​10.​1080/​13613​324.​2016.​1260227
+Tate, S. A. (Forthcoming). No human involved/no theory involved: The (im)possibility of black studies in UK and
+     Canadian Prairie academia. In D. Z. Belluigi & A. Keet (Eds.), Advancing critical university studies for eman-
+     cipatory imaginations. Sun Media.
+Tate, S. A., & Page, D. (2018). Whiteliness and institutional racism: Hiding behind (un)conscious bias. Ethics and
+     Education, 13(1), 141–155. https://​doi.​org/​10.​1080/​17449​6 42.​2018.​1428718
+Tebbett, N., Jöns, H., & Hoyler, M. (2021). Openness towards diversity? Cultural homophily in student percep-
+     tions of teaching and learning provided by international and home academics. Globalisation, Societies and
+     Education, 19(5), 522–544. https://​doi.​org/​10.​1080/​14767​724.​2020.​1835464
+Thomson, R. A., Salazar, E. S., & Ecklund, E. H. (2021). The very ivory tower: Pathways reproducing racial-­ethnic
+     stratification in US academic science. Ethnic and Racial Studies, 44(7), 1250–1270. https://​doi.​org/​10.​1080/​
+     01419​870.​2020.​1786144
+Tzanakou, C., & Henderson, E. F. (2021). Stuck and sticky in mobile academia: Reconfiguring the im/mobility
+     binary. Higher Education, 82(4), 685–693. https://​doi.​org/​10.​1007/​s1073​4 -­​021-­​0 0710​-­​x
+Tzanakou, C., & Pearce, R. (2019). Moderate feminism within or against the neoliberal university? The example of
+     Athena SWAN. Gender, Work and Organization, 26(8), 1191–1211. https://​doi.​org/​10.​1111/​gwao.​12336​
+Ukpokodu, O. N. (2020). Diaspora migrations: Brain drain or symbioses. In J. M. Abidogun & T. Falola (Eds.), The
+     Palgrave handbook of African Education and indigenous knowledge (pp. 761–786). Springer. https://​doi.​org/​
+     10.​1007/​978-­​3 -­​030-­​38277​-­​3 _​37
+UKRI. (2024). UKRI equalities monitoring 2021 to 2022. https://​w ww.​ukri.​org/​publi​catio​ns/​ukri- ­​equal​ities​-­​monit​
+     oring/​​ukri- ­​equal​ities​-­​monit​oring​-­​2021-­​to-­​2022/​.
+University of London. (2023). University of London Unveils Portrait of First Female VC. https://​w ww.​london.​ac.​uk/​
+     news-­​events/​news/​unive​rsity​-­​londo​n-­​unvei​ls-­​portr​ait-­​f irst​-­​femal​e -­​vc.
+University of Reading Special Collections. (n.d.). Morley, Edith (professor)—Collections—Special Collections
+     [University of Reading]. https://​colle​ctions.​readi​ng.​ac.​uk/​speci​al-­​colle​ctions/​colle​ctions/​morle​y-­​edith​-­​profe​ssor/​.
+Webb, S., Dunwoodie, K., & Wilkinson, J. (2019). Unsettling equity frames in Australian universities to embrace
+     people seeking asylum. International Journal of Lifelong Education, 38(1), 103–120. https://​doi.​org/​10.​1080/​
+     02601​370.​2018.​1559891
+Westoby, C., Dyson, J., Cowdell, F., & Buescher, T. (2021). What are the barriers and facilitators to success for
+     female academics in UK HEIs? A narrative review. Gender and Education, 33(8), 1033–1056. https://​doi.​org/​
+     10.​1080/​09540​253.​2021.​1884198
+Wright, C., Maylor, U., & Watson, V. (2018). Black women academics and senior managers resisting gendered
+     racism in British Higher Education institutions. In O. N. Perlow, D. I. Wheeler, S. L. Bethea, & B. M. Scott
+28   |                                                                                                          BELLUIGI et al.
+
+
+     (Eds.), Black Women's Liberatory pedagogies: Resistance, transformation, and healing within and beyond
+     the academy (pp. 65–83). Springer. https://​doi.​org/​10.​1007/​978-­​3 -­​319-­​65789​- ­​9 _​4
+Wright, C., Thompson, S., & Channer, Y. (2007). Out of place: Black women academics in British universities.
+     Women's History Review, 16(2), 145–162. https://​doi.​org/​10.​1080/​09612​02060​1048704
+Wynne-­Jones, J. (2015). Baroness Amos: I was taken aback when I found out I was the first black female head
+     of a university. The Observer. https://​w ww.​thegu​ardian.​com/​educa​tion/​2015/​jul/​18/​valer​ie-­​amos-­​black​-­​unive​
+     rsity​-­​profe​ssors​.
+Yarrow, E., & Johnston, K. (2023). Athena SWAN: “Institutional peacocking” in the neoliberal university. Gender,
+     Work and Organization, 30(33), 757–772. https://​doi.​org/​10.​1111/​gwao.​12941​
+Zelzer, R. (2023). Paper whispers. Black Women Professors. https://​w ww.​paper ​whisp​ers.​com/​.
+Zembylas, M. (2024). Decolonisation as dis-­enclosure: Overcoming the dangers of positionality and identity in
+     comparative education. Comparative Education, 1–18. https://​doi.​org/​10.​1080/​03050​0 68.​2024.​2326751
+
+
+
+
+     How to cite this article: Belluigi, D. Z., Arday, J. & O’Keeffe, J. (2024). Data
+     snapshots of the access and participation of ‘women’ academics in UK universities:
+     Questioning continued gendered, racialised and geopolitical inequalities. British
+     Educational Research Journal, 00, 1–28. https://doi.org/10.1002/berj.4047
+

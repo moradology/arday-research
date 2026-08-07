@@ -1,0 +1,14 @@
+HTTP/2 403 
+server: nginx
+date: Thu, 06 Aug 2026 18:21:28 GMT
+content-type: text/html;charset=utf-8
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+cache-control: private
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+link: <https://public-api.wordpress.com/wp-json/?rest_route=/sites/transreadsdotorg.wordpress.com>; rel="https://api.w.org/"
+x-ac: 1.den _dfw MISS
+alt-svc: clear
+server-timing: a8c-cdn, dc;desc=den, cache;desc=MISS;dur=21.0
+

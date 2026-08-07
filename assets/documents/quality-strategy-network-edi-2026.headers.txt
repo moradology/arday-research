@@ -1,0 +1,17 @@
+HTTP/2 200 
+date: Thu, 06 Aug 2026 19:07:23 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+server: Apache
+x-powered-by: PHP/8.3.33
+link: <https://qualitystrategynetwork.org.uk/wp-json/>; rel="https://api.w.org/", <https://qualitystrategynetwork.org.uk/wp-json/wp/v2/posts/3233>; rel="alternate"; title="JSON"; type="application/json", <https://qualitystrategynetwork.org.uk/?p=3233>; rel=shortlink
+cache-control: public, s-maxage=3600
+x-stackcache-cacheable: yes
+x-cache-enabled: true
+server-timing: wp-before-template;dur=3867.77
+x-provided-by: StackCDN
+vary: Accept-Encoding
+x-origin-cache-status: EXPIRED
+x-cdn-cache-status: HIT
+x-via: ORD1
+
