@@ -1,5 +1,15 @@
 # Research log
 
+# 2026-08-07 — SRC-518/C-660–C-661: official ASA and Gazette search boundary
+
+Discovery: the adversarial credibility review reopened the MBE and advertising-regulator lead from SRC-517/C-659.
+
+Capture: the exact-name ASA rulings query returned “Rulings (0).” The official Gazette Awards and Accreditations query returned a JSON result with `f:total: "0"` and no entries. HTML, headers, and JSON are preserved under `assets/captures/2026-08-07-official-record-searches/`.
+
+Evidence handling: registered SRC-518 as an official search-state record. The result narrows the tested formal public databases but does not resolve private correspondence, informal offers, complaints, the cited CV, or the underlying podcast. It is not evidence that an MBE offer or advertising-related communication never existed.
+
+Reopen only for a recovered primary artifact, a changed official search result, a named regulator response, or the underlying CV/podcast/correspondence.
+
 # 2026-08-07 — SRC-512/C-637: Andrew Gelman statistical commentary
 
 Discovery: a search for independent analysis of the distinction between the public textual-overlap allegations and the separate participant-evidence question surfaced Andrew Gelman’s 28 July 2026 *Future of Statistical Modeling* post.

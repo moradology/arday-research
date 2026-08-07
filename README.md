@@ -17,6 +17,8 @@ This workspace is designed to live in Git. Markdown, source records, claims, ont
 - [Working biography](biography.md) — readable narrative with claim-level caveats and open verification questions.
 - [Childhood evidence map](childhood-evidence.md) — compact claim matrix for early life, schooling, literacy, and sports, with anti-loop reopening rules.
 - [Ontology](ontology.md) — concepts, relationships, and evidence rules.
+- [Adversarial hypotheses](adversarial-hypotheses.md) — the skeptical liar/fraud/villain frame translated into testable, non-conflated categories.
+- [Credibility controversy entity](entities/arday-credibility-controversy.md) — the public controversy as a first-class object with sub-threads, chronology, and amplification paths.
 - [Timeline](timeline.md) — dated career, media, publication, and controversy events.
 - [Claims ledger](claims-ledger.md) — claim-level status and supporting sources.
 - [Media index](media.md) — videos, audio, interviews, images, and transcripts.

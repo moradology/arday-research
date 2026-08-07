@@ -14,6 +14,10 @@
 | `Project` | research, policy, charity, or public-engagement activity | Black Student Wellbeing Study |
 | `Affiliation` | time-bounded employment, visiting, honorary, governance, consultancy, or programme relationship | Glasgow professorship, Ohio State visiting-role claim, Runnymede directorship |
 | `NegativeSpaceObservation` | a missing, inaccessible, changed, superseded, contradicted, or not-locally-captured public record | Cambridge statement URL, revised Guardian page, failed PDF acquisition |
+| `Hypothesis` | an explicitly testable interpretation of multiple claims; never a settled fact by label alone | possible overclaiming pattern, possible source-provenance failure, possible legal-fraud theory |
+| `Characterization` | attributed moral or rhetorical language used by a source or analyst | “liar,” “fraud,” “villain,” “cover-up” |
+| `EvidenceAssessment` | a bounded evaluation of what a source set supports and what remains missing | credibility concern, contradiction cluster, intent unresolved |
+| `Controversy` | a time-bounded public dispute that bundles related claims, actors, source versions, responses, and amplification pathways without resolving them by category label | Jason Arday credibility and public-biography controversy |
 
 ## Relationships
 
@@ -32,6 +36,13 @@ Use plain-language relationship names in Markdown links and optional structured 
 - `Claim --contested-by--> Source`
 - `Claim --about--> Person|Publication|Event|Organization`
 - `Source --updates--> Source`
+- `Hypothesis --tested-by--> Claim|Source`
+- `EvidenceAssessment --summarizes--> Claim|Source|Hypothesis`
+- `Characterization --attributed-to--> Source|Person`
+- `Person --subject-of--> Controversy`
+- `Controversy --contains--> Claim|Dispute|EvidenceAssessment`
+- `Controversy --amplified-by--> Media|Source|Organization`
+- `Controversy --has-subthread--> Controversy`
 
 ## Record metadata
 
@@ -63,7 +74,8 @@ urls:
 6. For contested claims, record both the allegation and the response, with dates and exact source links.
 7. Record absences and changed pages as `NegativeSpaceObservation` records or notes; never convert missing evidence into a positive claim.
 8. Preserve superseded versions and link them; the archive is append-oriented.
+9. Do not use a moral or legal characterization as a factual claim. Translate it into testable propositions, label the speaker, and record the evidence needed to sustain or reject it.
 
 ## Suggested controlled vocabulary
 
-`academic-integrity`, `race-and-higher-education`, `neurodiversity`, `mental-health`, `decolonising-curriculum`, `social-mobility`, `charity`, `fundraising`, `athletics`, `media-appearance`, `appointment`, `award`, `correction`, `investigation`, `resignation`.
+`academic-integrity`, `race-and-higher-education`, `neurodiversity`, `mental-health`, `decolonising-curriculum`, `social-mobility`, `charity`, `fundraising`, `athletics`, `media-appearance`, `appointment`, `award`, `correction`, `investigation`, `resignation`, `credibility`, `overclaiming`, `fraud-hypothesis`, `moral-characterization`, `source-provenance`.

@@ -1,0 +1,28 @@
+HTTP/2 200 
+content-type: application/json;charset=UTF-8
+content-length: 1273
+date: Fri, 07 Aug 2026 21:10:48 GMT
+content-security-policy: frame-ancestors 'self';
+server: Apache
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-robots-tag: noindex,follow
+gz-auth: false
+cache-control: public, max-age=0, s-maxage=300
+cache-control: no-store
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+last-modified: Fri, 10 Nov 2023 10:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: sameorigin
+content-language: en
+set-cookie: Authenticated=false; Path=/; Secure; HttpOnly
+set-cookie: JSESSIONID=""; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+set-cookie: JSESSIONID=ZjZjYjMwM2YtMDYwMS00NjI5LTljODEtNTIxY2I5N2IxZTk4; Path=/; Secure; HttpOnly
+vary: Accept
+x-cache: Miss from cloudfront
+via: 1.1 d52d6a81a5e16b0ec84682266c071d58.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: d2FAV3UehqdzI7qG7yPt-ReR0zJuXY2xdVe1_jZpzEUXprBnu46a4g==
+

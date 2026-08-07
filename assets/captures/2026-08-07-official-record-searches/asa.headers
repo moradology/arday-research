@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Fri, 07 Aug 2026 21:10:42 GMT
+content-type: text/html;charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+set-cookie: VID=0F17C095B1E2211C1C825BB3924B3C7C57557115B58B86B4132E7E8401C60F0BBF3FAFAACB4359565350F60ECB7ACB41;Path=/;Expires=Fri, 06-Aug-2027 21:10:41 GMT;HttpOnly;Secure;SameSite=None
+set-cookie: PRESIDEWORKFLOWSESSION=A874FF8ABA5892FC05043B88B7965EEDBE5BE2587D6641E9578AF37594BEADA9C994F7DF98D013A15ED63B426F1414D1;Path=/;HttpOnly;Secure;SameSite=None
+set-cookie: PSID=bd94641d-9f8e-4655-9ca9461c37a070be;Path=/;HttpOnly;Secure;SameSite=None
+x-frame-options: DENY
+referrer-policy: strict-origin-when-cross-origin
+x-cache: nginx: MISS, fpc:
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+strict-transport-security: max-age=15552000; preload
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PgKduvndRpN8TOXYNLeLxbyVX7P8KQRUTVLOp4olhtUp8utPaLQwKkuDShainKBgm5HIS4PhMjNBwYYGKoG1nil645m0J%2BEkGnbXhdL%2F%2Blm1F8aaT%2FKQYg4%2BcKo2QyFQ"}]}
+cf-ray: a27944fdfe1634ad-ORD
+alt-svc: h3=":443"; ma=86400
+

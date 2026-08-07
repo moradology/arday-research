@@ -1,0 +1,22 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Fri, 07 Aug 2026 21:10:05 GMT
+content-security-policy: frame-ancestors 'self';
+server: Apache
+cache-control: must-revalidate, no-cache, private
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-frame-options: sameorigin
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-xss-protection: 0
+x-drupal-cache: UNCACHEABLE (response policy)
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept
+x-cache: Hit from cloudfront
+via: 1.1 2a5d744fb71bb7fd493368b6a274fffa.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: RJeFRmlWz8Vk5LERAfXgkWCRQAWsDsprndyiKHU_k32fLINRGtzl6A==
+age: 37
+

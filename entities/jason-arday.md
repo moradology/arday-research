@@ -45,6 +45,7 @@ The 1 October 2024 Proposed Roll of the Regent House lists “Arday, Jason Atta 
 
 ## Related records
 
+- [Credibility and public-biography controversy](arday-credibility-controversy.md)
 - [Public-output index](../jason-arday-public-output-index.md)
 - [Affiliation ledger](../affiliations.md)
 - [Timeline](../timeline.md)
