@@ -42,3 +42,7 @@ The lead image is preserved for provenance. The page credits the Jason Arday pho
 - [RSS feed capture](../assets/captures/2026-08-07-guardian-today-in-focus-arday/podcast.xml) — SHA-256 `a2dbe8ca2eaf63d431aa88526a03df69af101ee8dead18ea9c8017e3ff919bc` 
 - [RSS response headers](../assets/captures/2026-08-07-guardian-today-in-focus-arday/feed.headers.txt) — SHA-256 `2955205416315aab3e2ebcbc1dfb7d2bea8015025855e032b1976e2a1bb9f4c3`
 - [Lead image](../assets/captures/2026-08-07-guardian-today-in-focus-arday/lead.jpg) — 1200×630 JPEG; SHA-256 `439a74ea7a18b9e2886ba9413143b8fe5cd63dbb28347d494092633aed8b2b32`; rights/reuse status unknown
+
+## 2026-08-07 machine-assisted listening pass
+
+The preserved MP3 was processed locally with MLX Whisper small. The output contained 500 English segments and was used only to make bounded listening notes with approximate time ranges. [Audio notes](../assets/captures/2026-08-07-guardian-today-in-focus-arday/audio-notes.md) summarize the episode’s treatment of the thesis allegations, alleged harassment and the Guardian’s checks, fundraising/endurance claims, the “7 Up” account, WaterAid/visiting-professor/book leads, the TES/Carter-Ruck episode, resignation statements, and wider racial context. No full machine transcript is published in the archive; exact quotations and speaker attribution require checking the original MP3.

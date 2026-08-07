@@ -1,6 +1,6 @@
 # Next actions
 
-Fresh media-binary checkpoint: SRC-514/C-644–C-645 — the Guardian’s official *Today in Focus* episode is locally preserved as a 37:44, 55,310,858-byte MP3 with page, RSS, headers, and lead image. The synopsis is captured, but no transcript/captions were exposed. Manually listen/transcribe for timecoded claims; do not repeat the same page/feed fetch unless the endpoint changes.
+Fresh media-transcription checkpoint: SRC-514/C-644–C-651 — the Guardian’s official *Today in Focus* episode is locally preserved as a 37:44, 55,310,858-byte MP3 with page, RSS, headers, lead image, and bounded machine-assisted listening notes. The notes map the thesis allegations, intimidation checks, fundraising/endurance claims, “7 Up”/WaterAid/visiting-professor/book leads, and TES/Carter-Ruck history. Exact quotations and speaker attribution still require human verification against the MP3; do not publish a full machine transcript or repeat the same page/feed fetch.
 
 Fresh Cambridge-process checkpoint: SRC-513/C-641–C-643 — the Guardian reports that Cambridge’s appointment/tenure investigation continues after resignation, with a senior-appointments review and misconduct-policy review; nearly 100 academics requested an independent transparent investigation; Jesus College ended its parallel process. The underlying academic letter, risk assessment, case file, and final findings remain unavailable. Reopen only for the full letter, direct Cambridge/Jesus documents, or a final institutional report.
 

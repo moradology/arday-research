@@ -1,6 +1,6 @@
 # Work state
 
-Latest media-binary checkpoint: on 2026-08-07 SRC-514/C-644–C-645 captured the Guardian’s official *Today in Focus* episode “Plagiarism and a pig’s head: the rise and fall of Jason Arday” as a 37:44, 55,310,858-byte MP3, with page/RSS metadata, headers, and lead image. The synopsis is preserved; detailed audio claims and timecodes remain pending manual listening/transcription.
+Latest media-transcription checkpoint: on 2026-08-07 SRC-514/C-644–C-651 captured the Guardian’s official *Today in Focus* episode as a 37:44, 55,310,858-byte MP3 and added bounded machine-assisted listening notes with approximate time ranges. The notes surface the “7 Up,” WaterAid/visiting-professor/book, fundraising-syndicate, TES/Carter-Ruck, thesis, and intimidation-check threads. The notes are paraphrased discovery material; exact quotations and speaker attribution still require human verification against the MP3.
 
 Latest Cambridge-process checkpoint: on 2026-08-07 SRC-513/C-641–C-643 captured the Guardian’s report that Cambridge’s appointment/tenure investigation continues after resignation, that its findings will feed a senior-appointments review and a misconduct-policy review, that nearly 100 academics requested an independent transparent investigation, and that Jesus College ended its parallel process. These are reported statements/requests, not institutional findings; the underlying letter, risk assessment, case file, and final reports remain unavailable.
 
