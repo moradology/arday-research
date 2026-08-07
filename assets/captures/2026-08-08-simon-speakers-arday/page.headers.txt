@@ -1,0 +1,18 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 20:57:07 GMT
+content-type: text/html; charset=UTF-8
+content-length: 74839
+vary: Accept-Encoding
+link: <https://www.simonspeakers.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.simonspeakers.com/wp-json/wp/v2/ss_author/3998>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.simonspeakers.com/?p=3998>; rel=shortlink
+x-powered-by: Image in a Box
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer, strict-origin-when-cross-origin
+x-download-options: noopen
+x-srcache-fetch-status: HIT
+x-srcache-store-status: BYPASS
+
