@@ -1,5 +1,7 @@
 # Work state
 
+Latest fundraising/memoir checkpoint: on 2026-08-08 SRC-517/C-656–C-659 preserved the *Washington Free Beacon* investigation and its two cited Simon Speakers Bureau Wayback snapshots. The snapshots show a direct 19 May–24 July 2025 change from specific £5.5m/80-charity and endurance claims, including WaterAid, to general fundraising-team wording. The article’s cited CV, MBE-offer evidence, ASA material, and U.S./U.K. book proofs remain unavailable; all are logged as future primary-artifact leads.
+
 Latest Ohio State affiliation checkpoint: on 2026-08-08 SRC-516/C-654–C-655 preserved *National Review*’s 4 August report quoting Ohio State spokesperson Benjamin Johnson that the university had no record of an employee named Jason Arday. The report also records the announced closure of the Office of Diversity and Inclusion effective 28 February 2025 and an unanswered request for comment. This is a significant institutional-response report, not a complete finding about every possible non-employee affiliation.
 
 Latest WaterAid/relief-work checkpoint: on 2026-08-08 SRC-515/C-652–C-653 preserved a Simon & Schuster Speakers Bureau biography that repeats the South America/West Africa clean-water-points claim surfaced in the Guardian podcast. Direct WaterAid-domain and exact-name searches exposed no WaterAid-hosted primary record. The claim remains an unresolved promotional/source-propagation lead, not verified WaterAid work.

@@ -334,6 +334,8 @@ A participant-authored LinkedIn post supplies a new, bounded academic-service le
 
 The complete Oxford Brookes RADAR thesis is now locally preserved. Its January 2025 title page names the PhD submission, Director of Studies, and supervisors; a text search returns no occurrence of “Jason Arday” or “Arday”. This strengthens the institutional doctoral record while leaving the examiner role dependent on Corrie-Lunn’s own public statement. [Oxford Brookes thesis](sources/2025-01-corrie-lunn-oxford-brookes-thesis.md)
 
+The fundraising biography is now versioned rather than summarized as a single stable fact. A 19 May 2025 Simon & Schuster Speakers Bureau snapshot used specific £5.5m/80-charity, endurance, and WaterAid water-point wording; a 24 July snapshot replaced this with general fundraising-team language and removed the specific feats. The change is a verified publication-history observation, not a final determination of which underlying claims are true. [Free Beacon source-version record](sources/2026-08-04-free-beacon-fundraising-memoir.md)
+
 
 - First observed: 2026-08-05
 - Last checked: 2026-08-05

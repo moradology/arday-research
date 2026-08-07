@@ -1,0 +1,40 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 07 Aug 2026 21:03:33 GMT
+content-type: text/html; charset=UTF-8
+x-archive-orig-server: nginx
+x-archive-orig-date: Mon, 19 May 2025 01:13:02 GMT
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-link: <https://www.simonspeakers.com/wp-json/>; rel="https://api.w.org/"
+x-archive-orig-link: <https://www.simonspeakers.com/wp-json/wp/v2/ss_author/3998>; rel="alternate"; title="JSON"; type="application/json"
+x-archive-orig-link: <https://www.simonspeakers.com/?p=3998>; rel=shortlink
+x-archive-orig-x-powered-by: Image in a Box
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-x-xss-protection: 1; mode=block
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-referrer-policy: no-referrer, strict-origin-when-cross-origin
+x-archive-orig-x-download-options: noopen
+x-archive-orig-x-crawler-content-encoding: gzip
+x-archive-orig-content-length: 70931
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+memento-datetime: Mon, 19 May 2025 01:13:02 GMT
+link: <https://www.simonspeakers.com/author/arday-jason/>; rel="original", <https://web.archive.org/web/timemap/link/https://www.simonspeakers.com/author/arday-jason/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.simonspeakers.com/author/arday-jason/>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: CC-MAIN-2025-21-1746990412655.60-0031/CC-MAIN-20250519005152-20250519035152-00625.warc.gz
+server-timing: captures_list;dur=0.625417, exclusion.robots;dur=0.065283, exclusion.robots.policy;dur=0.052720, esindex;dur=0.010513, cdx.remote;dur=18.901978, LoadShardBlock;dur=205.104207, PetaboxLoader3.datanode;dur=155.720082, PetaboxLoader3.resolve;dur=199.363328, load_resource;dur=203.357830
+x-app-server: wwwb-app249-dc8
+x-ts: 200
+x-tr: 528
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-p-SERVER=wwwb-app249; path=/
+x-location: All
+x-as: 35986
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: VYVE-BROADBAND
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

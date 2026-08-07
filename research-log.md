@@ -2243,6 +2243,14 @@ Discovery: Kahn et al. (2008) cites Edwards and Nicoll’s 2006 *British Educati
 Capture: requested JSTOR stable item `30032661` and `stable/pdf/30032661.pdf`. Both returned HTTP 403 and the same 5,815-byte JSTOR “Access Check” HTML; no article text, preview, or PDF binary was recovered. HTML, headers, and hashes are preserved under `assets/documents/research-integrity/edwards-nicoll-2006-jstor/`.
 
 Decision: update SRC-393 in place and add C-613 as a changed-route access boundary. The underlying primary-text comparison remains open; Kahn’s review and quotation remain separate evidence and are not upgraded into a substitute for Edwards/Nicoll’s version of record.
+# 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
+
+Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.
+
+Capture: preserved the article HTML, headers, lead WebP image, and both archived Simon & Schuster Speakers Bureau HTML pages. The 19 May 2025 snapshot states over £5.5m for 80 charities, lists the three endurance feats, and names WaterAid in the South America/West Africa water-point claim. The 24 July 2025 snapshot instead describes fundraising teams raising millions and omits the specific totals and feats. Added SRC-517 and C-656–C-659.
+
+Evidence handling: the page-version difference is directly observable. The article’s claims about a university-job CV, an MBE offer, advertising complaints, publisher proof comparisons, and publisher editing are retained as reported leads because the cited CV, underlying correspondence, podcast capture, and book proofs were not recovered here. Do not turn this source into a final fraud finding or conflate changing biography copy with proof of intent.
+
 # 2026-08-08 — SRC-516/C-654–C-655 National Review Ohio State affiliation report
 
 Discovery: the Guardian podcast’s visiting-professor thread and the existing host-domain audit pointed to the unresolved Ohio State claim. A direct search recovered Abigail Anthony’s 4 August 2026 *National Review* report, which quotes Ohio State spokesperson Benjamin Johnson saying the university had no record of an employee named Jason Arday. The article also reports the announced 28 February 2025 closure of the Office of Diversity and Inclusion and says Arday did not respond to a request for comment.
