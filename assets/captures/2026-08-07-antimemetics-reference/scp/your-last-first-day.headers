@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+date: Fri, 07 Aug 2026 21:36:01 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+x-wikidot-backend: 0bb12b191937c45b6
+expires: Mon, 26 Jul 1997 05:00:00 GMT
+pragma: no-cache
+set-cookie: wikidot_token7=c6c4f6ad8d41726e48a665558494dc11; expires=Sat, 08-Aug-2026 21:36:01 GMT; Max-Age=86400; path=/
+etag: "abfb7cab5c8fa6a61028eeccacd26b3f"
+cache-control: no-store
+x-wikidot-static-cache: MISS
+x-frame-options: SAMEORIGIN
+

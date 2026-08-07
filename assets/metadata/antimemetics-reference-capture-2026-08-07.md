@@ -10,4 +10,6 @@ SHA-256: `a6d0691075ac57d1a9b20cc245a930a7b07d1d96b92ce8c5450d23ee6ebf38f2`
 
 Headers SHA-256: `aa914782864b41978269210491b9cd9a43e3a0e53d34405d730041aff377b567`
 
-Evidence boundary: this is an authorized excerpt used to ground a short literary-reference section in `antimemetics-protocol.md`; it is not a source about Jason Arday and no full book text is claimed.
+Additional source family: the author’s SCP Wiki pages, captured locally under `assets/captures/2026-08-07-antimemetics-reference/scp/`, provide the protocol passages used in the epistemic-machinery section: negative-only description, provenance interrogation, asynchronous research, reconstructing from first principles, and emergency externalization of memory. The pages identify the SCP Wiki’s CC BY-SA licensing notice; the protocol uses short quotations and paraphrase, not a reproduction of the stories.
+
+Evidence boundary: these literary/source-text references are methodology prompts, not sources about Jason Arday and not evidence that any anomalous mechanism exists.

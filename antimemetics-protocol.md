@@ -4,39 +4,71 @@ This workspace uses “antimemetics” in the research-method sense: preserve th
 
 This is not a claim that Jason Arday or any source is anomalous. It is a protocol for epistemic hygiene.
 
-## Reference passages and flavor
+## Epistemic machinery in the source text
 
-The literary reference is qntm’s *There Is No Antimemetics Division*. The quotations below are deliberately short excerpts from the publisher’s authorized sample, retained as a mnemonic interface rather than as a substitute for the book. The sample’s printed pages are noted so the wording can be rechecked. [Publisher sample PDF](https://cdn.penguin.co.uk/dam-assets/books/9781529953176/9781529953176-sample.pdf) · [local capture](assets/captures/2026-08-07-antimemetics-reference/sample.pdf)
+The useful reference is not merely the atmosphere of qntm’s *There Is No Antimemetics Division*. The linked SCP text repeatedly turns epistemology into procedure: what can count as evidence when memory, observation, records, and even the existence of the research project may be unstable. The passages below are the parts worth importing into this archive.
 
-> “We don’t have an Antimemetics Division.” — qntm, *There Is No Antimemetics Division*, publisher sample, printed p. 13.
+### 1. Negative knowledge: describe the boundary, not the object
 
-> “There are ideas that cannot be spread.” — qntm, *There Is No Antimemetics Division*, publisher sample, printed p. 14.
+In **“We Need To Talk About Fifty-Five,”** SCP-055 is treated as something that can be characterized only by exclusions. The staff can preserve what it is not—its shape, color, competence, and classification—while the positive description defeats itself. The method is not “we know nothing”; it is a constrained, auditable negative description.
 
-> “In the Antimemetics Division, we have the opposite problem.” — qntm, *There Is No Antimemetics Division*, publisher sample, printed p. 16.
+> “we can only record what it isn’t.” — qntm, “We Need To Talk About Fifty-Five.”
 
-The flavor to borrow is procedural dread, not supernatural certainty: a missing record may be ordinary loss, deliberate revision, access friction, or a genuinely unresolved contradiction; the investigator’s first task is to make the gap visible. The archive should feel like a field manual assembled under pressure—case files, timestamps, hashes, redactions, cross-checks, and handoff notes—while every factual statement remains tied to an ordinary source and an explicit evidence status.
+For this archive, a negative description is a real research product. “No matching Gazette notice in the tested query,” “the current directory does not reproduce the indexed role,” and “the named comparator text was not recovered” are different from “the event did not happen.” Every negative-space observation must state the search boundary and the alternative explanations still open. [Source text](https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/we-need-to-talk-about-fifty-five.html)
 
-Use the book’s atmosphere in headings, prompts, and mnemonic labels only. Do not imitate its prose at length, present fiction as a factual model of Arday, or let theatrical language replace source criticism.
+### 2. Provenance before belief: interrogate the file
 
-### Literary motif → research operation
+The same conversation refuses to accept a file merely because it has the right institutional appearance. It asks who wrote it, how the interview was conducted, who the named participants were, and how the witness still retains knowledge of it. Date stamps, signatures, access credentials, and a coherent interface are evidence about the record—not automatic proof of the record’s contents.
 
-| Motif | Operational translation in this archive |
-|---|---|
-| An idea that cannot be spread | A claim that appears in one source but fails to survive ordinary copying, indexing, citation, or retrieval; preserve the exact source and label the boundary. |
-| The division that “doesn’t” exist | A role, committee, investigation, or publication pathway present in one biography but absent from the host’s current records; track both states without inferring why. |
-| The opposite problem | When the archive has too much repeated public copy but too little independent provenance; deduplicate circulation and seek the underlying record. |
-| Mnestic medication | Redundant checkpoints: `WORK-STATE.md`, `NEXT.md`, the research log, source hashes, local captures, and Drive/Git mirrors. |
-| Unknowns and case files | Separate `Source`, `Claim`, `NegativeSpaceObservation`, `Hypothesis`, and `Controversy` records rather than compressing them into one narrative. |
-| Redaction and damaged memory | Preserve inaccessible, superseded, partially captured, and corrected states; never silently fill the blank with inference. |
+Apply this directly to every contested Arday item:
 
-### Antimemetic writing rules
+- Who authored the biography, correction, CV, transcript, comparison, or institutional statement?
+- What was the source’s path from event to publication?
+- Is the quoted speaker identified, and is the quotation independently recoverable?
+- What does the artifact establish about its own existence, versus what it asserts about the world?
+- What would a hostile or mistaken source look like if it carried perfectly plausible metadata?
 
-- Write the recovery path into the record: URL, date, query, response state, local filename, and checksum.
-- Treat repetition as a propagation signal, not independent corroboration.
-- Prefer a small, exact quotation with a page or timecode over a large unverified transcript.
-- When a source changes, preserve both versions and describe the observable change before interpreting it.
-- Make the handoff legible: a future researcher should know what to reopen and what not to repeat.
-- Keep the dramatic label subordinate to the evidence. “Unknown,” “missing,” “contested,” and “unresolved” are statuses, not villains.
+### 3. Asynchronous research: design for rediscovery
+
+In **“CASE COLOURLESS GREEN,”** the Division’s research is explicitly asynchronous: the subject is forgotten between iterations and rediscovered repeatedly. The failure is not only memory loss; it is the loss of an obvious entry point. A room full of notes, diagrams, dates, and familiar handwriting can still be unusable if no one knows which document should be read first.
+
+That is the exact justification for the workspace’s handoff architecture: `WORK-STATE.md` is the re-entry point; `research-log.md` records the last completed pass; `NEXT.md` says what not to repeat; the registry and hashes make the recovered artifacts recognizable. A future researcher must be able to rediscover the project without rediscovering the same sources from scratch. [Source text](https://scp-wiki.wikidot.com/case-colourless-green) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/case-colourless-green.html)
+
+### 4. Pattern recognition is inference, not revelation
+
+The case describes raw manifestations as data points and the larger threat as a pattern that becomes visible when those points are arranged in conceptual space. That is a useful model for this dossier’s controversy entity: individual biography changes, corrections, affiliation conflicts, fundraising versions, and textual comparisons can be plotted together without pretending that the pattern itself proves motive.
+
+The anti-overfitting rule is equally important. A pattern may be a genuine common cause, ordinary institutional copying, a shared upstream source, a mixture of unrelated errors, or an artifact of selective collection. Every pattern claim therefore needs: the included records, the excluded records, the possible common sources, the counterexamples, and the inferential step that remains unresolved. [Source text](https://scp-wiki.wikidot.com/case-colourless-green)
+
+### 5. Reconstruct from first principles when memory is compromised
+
+In **“Your Last First Day,”** Wheeler responds to memory destruction by examining her own cognition, distinguishing what she remembers from how she knows it, and rebuilding a plan from first principles. The compact line is:
+
+> “If I were me, what would my plan have been?” — qntm, “Your Last First Day.”
+
+The research analogue is to rebuild a claim from the primary artifact outward: identify the exact proposition, locate the earliest public manifestation, compare later versions, classify the source, and only then assess the pattern. Do not let a remembered summary, a repeated biography, or an already-written conclusion substitute for the underlying record. [Source text](https://scp-wiki.wikidot.com/your-last-first-day) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/your-last-first-day.html)
+
+### 6. Externalize memory before interpretation
+
+In **“Introductory Antimemetics,”** a junior researcher realizes that direct communication has failed and writes an SCP entry as a message to a future reader. The document is not a polished conclusion; it is an emergency handoff containing the next action and the conditions under which the reader should proceed.
+
+> “I should write an SCP.” — qntm, “Introductory Antimemetics.”
+
+This is the right flavor for our records: write the source map while the uncertainty is still present. A handoff should preserve the failed route, the tempting but unsupported inference, the exact next verification, and the point at which the researcher may safely stop. [Source text](https://scp-wiki.wikidot.com/introductory-antimemetics) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/introductory-antimemetics.html)
+
+### 7. Protocols are containment, not decoration
+
+The Division’s procedures exist because ordinary observation is not reliable enough: notes can vanish, a researcher can forget the reason for a visit, and a record can be formally valid while its provenance is inaccessible. Translated into this project, containment means:
+
+- preserve the source before summarizing it;
+- keep primary text, secondary report, interpretation, and hypothesis in separate records;
+- use negative-space entries for failed acquisition and changed pages;
+- record the chain of custody for every quote, image, transcript, and comparison;
+- make repeated public wording count as propagation, not corroboration;
+- require a new artifact or changed state before reopening a closed search;
+- leave a compact re-entry note after every research session.
+
+The fiction’s epistemology is therefore a practical discipline: knowledge is not the feeling that a story is coherent. It is a recoverable chain from artifact to proposition to inference, with the missing links named.
 
 ## Operating principles
 
