@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: application/pdf
+content-length: 3180555
+date: Fri, 07 Aug 2026 21:17:24 GMT
+x-amz-replication-status: COMPLETED
+last-modified: Wed, 17 Jun 2026 18:01:44 GMT
+etag: "2e491f1300bf2ca55ef513dd21848a1c"
+x-amz-server-side-encryption: AES256
+x-amz-version-id: 7pse5GmgyhkJcW3HaEGwVPxtqLvSgLeX
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 652a36cca524228b11a07aa4660a0022.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P5
+x-amz-cf-id: PjqUvM15HC6OqwlIUYOAAHil7jBneSqP6ivAM-JHDq61hMKZQRdrXQ==
+
