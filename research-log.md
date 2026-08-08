@@ -1,5 +1,11 @@
 # Research log
 
+# 2026-08-08 — SRC-133/C-740: JustGiving legacy-route resolution
+
+The search lead `https://www.justgiving.com/fundraising/400in5days` was directly captured. Its current page title and embedded story identify the page as “The 300 (300 miles in 3 Days),” with the same 2011 campaign context already represented by SRC-133. The route is recorded as an alias/access-state manifestation, not a new fundraiser source.
+
+Evidence handling: no claim is made that a separate 400-mile-in-five-days challenge occurred. The capture resolves a likely search-result ambiguity and prevents the route from being counted twice.
+
 # 2026-08-08 — SRC-144/C-739: direct BBC profile capture upgrade
 
 The canonical BBC `.co.uk` and `.com` URLs for “Cambridge University's Jason Arday becomes youngest black professor” returned the article directly on 8 August 2026. Captured both HTML variants, response headers, the BBC-hosted portrait, and the graduation image. The existing SRC-144 record is upgraded in place; the Walthamstow School for Girls repost remains a separate witness manifestation rather than a duplicate source.
