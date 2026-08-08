@@ -1,0 +1,25 @@
+HTTP/2 200 
+content-type: application/json; charset=utf-8
+server: am/2
+status: 200 OK
+cache-control: max-age=0, private, must-revalidate
+access-control-allow-origin: *
+referrer-policy: strict-origin-when-cross-origin
+access-control-expose-headers: Date
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+x-request-id: 6A771F68FDD30EFC4DD
+access-control-allow-headers: Accept, Authorization, Content-Type, Origin
+access-control-allow-methods: GET, PUT, POST, DELETE
+x-download-options: noopen
+etag: W/"8cbf062826c125820c19315f1211b008"
+x-frame-options: SAMEORIGIN, SAMEORIGIN
+x-content-type-options: nosniff
+date: Sat, 08 Aug 2026 12:22:00 GMT
+set-cookie: arpa_context=%7B%7D; path=/; max-age=7.0; expires=Thu, 01 Jan 1970 00:00:07 GMT; HttpOnly
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+x-cache: Miss from cloudfront
+via: 1.1 a63f854fb49823d899d920c07df1bcae.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P1
+x-amz-cf-id: 8t6EHRZNRe-siZ_wXw_L9VlUsp94fI13JqY3LEEsFnUpW06GWK0ujw==
+

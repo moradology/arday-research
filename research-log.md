@@ -3253,6 +3253,14 @@ Audit: compared the existing BILT teaser extraction with the locally preserved `
 
 Decision: retained the extraction as automatic-caption evidence and kept manual listening verification pending. The update improves timecode provenance without upgrading caption text into a manually verified quotation or treating Bristol association as employment.
 
+## 2026-08-08 — SRC-618/C-839: Cumberland Lodge SoundCloud audio recovered
+
+Discovery: the SoundCloud channel page now exposes the exact “Beyond Tokenism” track slug and identifies its 3 November 2021 publication. The previously captured channel/API boundary was therefore rechecked against the direct track route and public oEmbed.
+
+Capture: preserved the track HTML, oEmbed metadata, media-resolution response, response headers, 1080×1080 artwork, and the public 128-kbps MP3. SoundCloud metadata reports a 3,550,380-ms stream and CC BY-NC-SA licence; local audio inspection reports 3,550.38 seconds.
+
+Decision: upgraded SRC-618 rather than creating a duplicate webinar source. The recovered file establishes the public audio manifestation, while Vimeo remains inaccessible and no transcript/captions or substantive timecoded claims are promoted. Manual listening is the next verification step.
+
 ## 2026-08-08 — SRC-223/C-838: New Humanist audio recovered through podcast feed
 
 Discovery: the existing New Humanist *With Reason* transcript record was rechecked against the show’s public Buzzsprout RSS feed. The feed’s episode item identifies the 15 December 2020 Jason Arday episode and exposes a public MP3 enclosure.

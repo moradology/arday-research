@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 634
+Connection: keep-alive
+x-robots-tag: noindex
+Cache-Control: private, max-age=0
+referrer-policy: no-referrer
+x-frame-options: DENY
+x-content-type-options: nosniff
+strict-transport-security: max-age=63072000
+Server: am/2
+Date: Sat, 08 Aug 2026 12:22:33 GMT
+Vary: Origin
+X-Cache: Miss from cloudfront
+Via: 1.1 aa3674a12327640af71c59263be8ffc6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DFW57-P1
+X-Amz-Cf-Id: _CiwsEslfwDgn2fMFLPwsgBTEhLKlzGMD1Mpkgs47liNkTg71XPnqA==
+
