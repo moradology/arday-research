@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-090/C-914: Twinkl video manifestation promoted
+
+Audit: SRC-090 already catalogued Twinkl’s public interview page and its distinct 20-second official YouTube video, but the small MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 360×640 promotional MP4. No caption or transcript was available, and no substantive claim was added.
+
+Decision: added C-914 as an archive-integrity observation and kept the video attached to SRC-090. It repeats the existing interview’s self-reported childhood/sports framing and is not independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-239/C-913: Cambridge neurodiversity film promoted
 
 Audit: the canonical Cambridge LinkedIn/YouTube record already preserved the 4:47 film, captions, thumbnail, page snapshots, and metadata, but the MP4 was not tracked in Git.

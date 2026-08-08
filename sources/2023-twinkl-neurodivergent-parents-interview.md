@@ -5,7 +5,7 @@ title: "Jason Arday: 'The biggest stars of the show are the parents of neurodive
 subject: ../entities/jason-arday.md
 published: 2023
 accessed: 2026-08-06
-status: public page and distinct official video; local MP4 and thumbnail preserved
+status: public page and distinct official video; local MP4 and thumbnail preserved; MP4 committed to GitHub on 2026-08-08
 evidence_class: interview / self-report
 ---
 
@@ -26,7 +26,7 @@ The sports and childhood details are attributed to Arday and remain self-reporte
 
 Twinkl’s official YouTube channel published a separate 20-second vertical video with the same title and interview framing. The video description says it was released during Neurodiversity Celebration Week in March 2023 and presents Arday’s story as a reason to celebrate. It is catalogued as a media manifestation of this interview, not as a new source or independent corroboration of the childhood and sports claims.
 
-- [Local 360×640 MP4](../assets/videos/twinkl-jason-arday-neurodivergent-parents-2023.mp4) — SHA-256 `99b6d3bdaf63a2551a0e826207572fa7783c8af06a657d0ac63d40f9ef8a9e65`
+- [Local 360×640 MP4](../assets/videos/twinkl-jason-arday-neurodivergent-parents-2023.mp4) — SHA-256 `99b6d3bdaf63a2551a0e826207572fa7783c8af06a657d0ac63d40f9ef8a9e65`; committed to GitHub.
 - [Local thumbnail](../assets/images/twinkl-jason-arday-neurodivergent-parents-2023.webp) — SHA-256 `9ce77b82199df9f8d3971841972471edd6bf63e3598223973d2b4d4d6f21c1e6`
 - [YouTube page snapshot](../assets/documents/twinkl-jason-arday-neurodivergent-parents-2023.html)
 - [yt-dlp metadata](../assets/documents/twinkl-jason-arday-neurodivergent-parents-2023-ytdlp.json)
