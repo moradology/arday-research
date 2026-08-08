@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-111/C-916: South Bank Colleges graduation video promoted
+
+Audit: the canonical South Bank Colleges event page already preserved the 19.64-second YouTube asset, thumbnail, event photograph, page snapshot, and capture metadata, but the MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 1920×1080 MP4. No captions were exposed; the short clip is not treated as a full ceremony or speech recording.
+
+Decision: added C-916 as an archive-integrity observation. This is a manifestation of the existing honorary-award event, not a second award or independent biography record. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-254/C-915: India Today NewsMo binary promoted
 
 Audit: the canonical India Today NewsMo record already preserved the first-party page, response headers, 1:26 MP4, and checksum, but the video binary was not tracked in Git.

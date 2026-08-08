@@ -4,7 +4,7 @@ type: Source
 title: "Honorary Doctorate awarded to Professor Jason Arday at SBC Graduation 2024"
 date: 2024
 accessed: 2026-08-06
-status: verified-as-page-and-video-lead
+status: verified-as-page-and-video-lead; MP4 committed to GitHub on 2026-08-08
 source_kind: institutional news / event video
 entities:
   - ../entities/jason-arday.md
@@ -21,7 +21,7 @@ South Bank Colleges’ event page reports that Jason Arday received an honorary 
 - The page is an institutional account of the event and describes the award as the first honorary fellowship of South Bank Colleges, conferred by London South Bank University.
 - Its biographical narrative repeats childhood and fundraising claims already recorded elsewhere; those claims are not promoted solely from this page.
 - The page embeds YouTube video `oLZjjg1j3Bc`, published 25 October 2024 by South Bank Colleges; the public video is 19.64 seconds and is locally preserved.
-- The page snapshot and two images are locally preserved: [page](../assets/documents/south-bank-colleges-graduation-2024-page-2026-08-06.html), [YouTube thumbnail](../assets/images/south-bank-colleges-graduation-2024-youtube.jpg), and [event photograph](../assets/images/south-bank-jason-arday-trevor-gordon.jpg).
+- The page snapshot and two images are locally preserved: [page](../assets/documents/south-bank-colleges-graduation-2024-page-2026-08-06.html), [YouTube thumbnail](../assets/images/south-bank-colleges-graduation-2024-youtube.jpg), and [event photograph](../assets/images/south-bank-jason-arday-trevor-gordon.jpg). The MP4 is committed to GitHub.
 
 ## Acquisition state
 
