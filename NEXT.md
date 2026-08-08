@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-topology checkpoint: SRC-265/C-920 — Lancaster’s 507-second commentary video now has its separate video-only MP4 and audio M4A, captions, metadata, and thumbnail committed to GitHub. Keep Chris Marlow’s biography retelling separate from Arday’s self-report and independent records; human-verify captions before quotation.
+
 Fresh media-topology checkpoint: SRC-264/C-919 — the BILT 89-second teaser’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail are now committed to GitHub. The streams were not remuxed; the related full keynote remains SharePoint-403 under SRC-259. Human-verify the caption windows before quotation; do not treat the teaser as the full keynote.
 
 Fresh media-integrity checkpoint: SRC-237/SRC-238/C-918 — the 67-second Diversity Seminar YouTube clip and separate 1:42 LinkedIn familiarity video are now committed to GitHub. Keep the manifestations separate; the LinkedIn SRT remains machine-generated navigation material and the YouTube clip has no captions. Reopen only for audiovisual verification or a changed media state.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-topology checkpoint: on 2026-08-08 `SRC-265/C-920` promoted Lancaster’s 507-second commentary video’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The recording is Chris Marlow’s host commentary, not Arday’s testimony; caption-derived biography wording remains pending human listening and underlying-record verification. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-264/C-919` promoted the BILT 89-second teaser’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The streams remain separate; the full keynote is still a distinct SharePoint-403 boundary under SRC-259, and caption-derived remarks remain pending human listening. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-237/SRC-238/C-918` promoted the two Diversity Seminar “familiarity” videos to GitHub: a 67-second YouTube clip and separate 1:42 LinkedIn commentary. The LinkedIn auto-caption SRT remains unverified navigation material; the two manifestations are not merged. Google Drive was not updated; GitHub remains the active publication target.

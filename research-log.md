@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-265/C-920: Lancaster commentary streams promoted
+
+Audit: the canonical Lancaster record already documented Chris Marlow’s 507-second commentary video, separate streams, captions, metadata, thumbnail, page snapshot, and checksum, but the streams were not tracked in Git.
+
+Archive action: checksum-validated and committed the video-only MP4, audio M4A, automatic British-English captions, metadata, and thumbnail. Both streams decode cleanly and remain separate; local muxing was not retried.
+
+Decision: added C-920 as an archive-integrity observation. The recording remains host commentary, not Arday testimony; its caption-derived biography wording remains pending human listening and underlying-record verification. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-264/C-919: BILT teaser streams promoted
 
 Audit: the canonical BILT teaser record already documented the 89-second public upload, separate video/audio streams, automatic captions, metadata, thumbnail, page snapshot, and the related full-keynote SharePoint-403 boundary; the streams were not tracked in Git.
