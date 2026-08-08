@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:19:41 GMT
+content-type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+content-length: 67699
+cf-ray: a27c11482ef218b6-OMA
+cf-cache-status: BYPASS
+accept-ranges: bytes
+etag: "6050be6d-10873"
+last-modified: Tue, 16 Mar 2021 14:19:25 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=pD36PhS7fFLzYMc9HX0TB6ik2T2yS8CJANae1lR3nvk-1786166380.8256223-1.0.1.1-K7AHG.lEFe9BQq3xndldYN3jvazhw_pucjbVDaa7_4yCumZbFV.iuw89Np3KqHGwUbzjfEX_4YQp43kLzJY6uH9rjusXNkHslNrbYPjRgxhU0DeV9Pfez7P8dHeAuvAh; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Sat, 08 Aug 2026 05:49:41 GMT
+

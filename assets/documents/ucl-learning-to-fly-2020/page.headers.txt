@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:20:37 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a27c12a7eac0c744-OMA
+cf-cache-status: HIT
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=86400
+set-cookie: __cf_bm=qJ9WLOaQKVi4GSAY4VvFX9O7ou5t.46D1BmPL3S3CSs-1786166437.105634-1.0.1.1-K2qeLX2fZffeGSdDSOj7xkGjW_enYD9Dz461YopatWvSoigwyIon_EhnLqiEQ2pvDD3bS51HlScI0kGkfqE99qBjSOQR4WrAzt8VORO1U4TfAXvyK72MzAzMe763vxWA; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Sat, 08 Aug 2026 05:50:37 GMT
+content-language: en
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Fri, 07 Aug 2026 23:15:58 GMT
+link: <https://www.ucl.ac.uk/teaching-learning/news/2021/mar/keynote-lecture-engaging-pedagogically-race-and-racism-higher-education>; rel="canonical"
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Cookie, Accept-Encoding
+x-content-type-options: nosniff
+x-content-type-options: nosniff
+etag: W/"1786144558-1"
+
