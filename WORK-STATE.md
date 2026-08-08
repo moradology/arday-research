@@ -1,5 +1,7 @@
 # Work state
 
+Latest professional-media source-version: on 2026-08-08 SRC-524/C-669 preserved Wonkhe’s 2 January 2026 staff profile and portrait. It is pre-resignation host copy, useful for public-biography topology but not current-status evidence.
+
 Latest international-media lead: on 2026-08-08 `SRC-523/C-668` captured THE RAKE Japan’s February 2025 Japanese-language lifestyle profile/interview and six editorial JPEGs. The article’s bespoke-style details are attributed profile/self-report material; its repeated childhood and career claims remain host copy, and image rights/English or print edition are unresolved.
 
 Latest changed-page audit: on 2026-08-08 `SRC-059/C-667` preserved three Wayback replays of the Cambridge Student interview. Each recovered replay already contains the 4 December 2023 revision notice, so the archive strengthens the revision-history record but does not recover the original pre-revision interview text.

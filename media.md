@@ -3,6 +3,7 @@
 ## Video
 
 | PASSHE National Conference 2026 — “We are where we are…” | 2026-06-10 | PASSHE | keynote/Q&A listing | [Record](sources/2026-06-10-passhe-national-conference-jason-arday.md) · [Current event-state record](sources/2026-08-08-passhe-events-index.md) · [PASSHE timetable](https://passhe.org.uk/conference-2026/passhe-national-conference-2026-full-day-timetable-and-workshops/) · [Local HTML](assets/captures/2026-06-10-passhe-jason-arday/page.html) | conference host says event was delivered in hybrid format; Arday’s keynote delivery, recording, transcript, and slides remain unresolved |
+| Wonkhe staff profile — Jason Arday | 2026-01-02 | Wonkhe | professional biography / staff profile | [Record](sources/2026-01-02-wonkhe-jason-arday-profile.md) · [Page](https://wonkhe.com/staff/jason-arday/) · [Portrait](assets/captures/2026-08-08-wonkhe-jason-arday/portrait.jpg) | dated pre-resignation profile; present-tense Cambridge/Jesus and other role wording preserved as source-version, not current fact |
 
 | Title | Date | Host | Format | Link | Status |
 |---|---:|---|---|---|---|

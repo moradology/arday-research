@@ -1,0 +1,13 @@
+HTTP/2 200 
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://wonkhe.com/wp-json/>; rel="https://api.w.org/", <https://wonkhe.com/wp-json/wp/v2/staff/176355>; rel="alternate"; title="JSON"; type="application/json", <https://wonkhe.com/?p=176355>; rel=shortlink
+x-frame-options: SAMEORIGIN
+cache-control: max-age=0
+expires: Sat, 08 Aug 2026 03:56:09 GMT
+x-hostname: w1
+content-type: text/html; charset=UTF-8
+date: Sat, 08 Aug 2026 03:56:09 GMT
+server: Apache
+vary: Accept-Encoding
+set-cookie: WOADC=SRV01|anao3|anao3; path=/; HttpOnly; Secure
+

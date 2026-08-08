@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-524/C-669: Wonkhe pre-resignation staff profile
+
+Discovery: an exact-name higher-education-media search surfaced Wonkhe’s dated staff profile for Jason Arday, credited to Jim Dickinson and structured as published 2 January 2026.
+
+Capture: preserved the profile HTML, response headers, and 500×500 portrait under `assets/captures/2026-08-08-wonkhe-jason-arday/`.
+
+Evidence handling: added SRC-524/C-669 as a dated professional-media source-version. It records present-tense Cambridge/Jesus and several patronage/advisory/trustee roles as Wonkhe’s pre-resignation wording, not current employment or legal findings. Reconcile it against later Cambridge, Companies House, charity, and host-page records.
+
 # 2026-08-08 — SRC-523/C-668: THE RAKE Japan lifestyle profile and photo essay
 
 Discovery: an exact-name international-media search surfaced THE RAKE Japan’s February 2025 “Pocket Guide: Jason Arday,” a Japanese-language profile/interview credited to Tom Chamberlin with photography by Kim Lang.
