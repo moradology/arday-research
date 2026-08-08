@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-531/C-676: Avenging Angels Companies House state
+
+Discovery: an official-registry search found a company-status record not represented by the existing personal-appointments snapshot.
+
+Capture: preserved the Companies House overview and filing-history HTML and response headers under `assets/captures/2026-08-08-companies-house-avenging-angels/`.
+
+Evidence handling: the overview states that Avenging Angels Ltd was dissolved on 22 July 2025; the filing history records Arday’s director and person-with-significant-control cessation on 18 March 2024. This resolves company-status topology only and does not support claims about company activity or finances.
+
 # 2026-08-08 — SRC-530/C-675: BABAO Race Equality Review
 
 Discovery: an exact-name professional-output search surfaced the British Association for Biological Anthropology and Osteoarchaeology’s May 2021 Race Equality Review.

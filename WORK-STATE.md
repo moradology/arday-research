@@ -1,5 +1,7 @@
 # Work state
 
+Latest legal-record update: on 2026-08-08 `SRC-531/C-676` preserved Companies House’s Avenging Angels Ltd overview and filing history. The company was dissolved by voluntary strike-off on 22 July 2025, after Arday’s director/PSC cessation on 18 March 2024; this is separate from his personal-appointments snapshot and does not establish company activity or finances.
+
 Latest professional-output record: on 2026-08-08 `SRC-530/C-675` recorded BABAO’s May 2021 Race Equality Review, authored by Arday and Lizzy Craig-Atkins, with Arday’s commissioned reviewer role and the report’s mixed-method scope. The text was browser-readable, but the repository’s direct PDF download returned a Cloudflare 403; only the access-boundary HTML/headers are local.
 
 Latest media-version boundary: on 2026-08-08 `SRC-529/C-674` preserved the official Acast RSS feed and a materially shorter main MP3 for the 26 May 2025 *How Do You Cope?* episode. It remains linked to SRC-129 rather than treated as a new interview; the alternate file is preserved alongside the longer Global Player binary, with completeness/edit relationship unresolved.
