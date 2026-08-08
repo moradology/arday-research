@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-876/C-877: Surviving Society profile inventory boundary
+
+Discovery: following the Spotlight playlist links, the current Surviving Society SoundCloud profile and `/tracks` route were audited for any additional Arday-named output.
+
+Capture: the public profile exposes ten visible tracks, including the canonical E188 Jason Arday/Chantelle Jessica Lewis episode. No other Arday-named title appears in the visible inventory; the page does not expose a complete historical export or usable pagination beyond the same visible list.
+
+Decision: created a profile-boundary record and deduplicated E188 rather than creating a second episode. The result closes the current-profile route only; older, private, deleted, or playlist-only tracks remain future leads. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-875/C-876: Spotlight Series playlist topology audited
 
 Audit: the compilation links three public SoundCloud playlists. Each current page exposes five titled tracks, for 15 tracks total. The titles identify other guests and topics but do not name Jason Arday.

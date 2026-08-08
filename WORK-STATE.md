@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-profile checkpoint: on 2026-08-08 `SRC-876/C-877` preserved the current Surviving Society SoundCloud profile and visible `/tracks` inventory. It includes canonical E188 and no other Arday-named title among ten visible tracks; older/private/deleted/playlist-only history remains unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest podcast-topology checkpoint: on 2026-08-08 `SRC-875/C-876` preserved all three public Spotlight Series playlist pages linked from the compilation. They enumerate 15 titled tracks without a standalone Arday title; this is a bounded negative-space observation, not proof that his compilation clip is absent. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest podcast-manifestation checkpoint: on 2026-08-08 `SRC-875/C-875` preserved Surviving Society’s 2022 “Spotlight Series Best Bits! (Part One)” page, oEmbed, artwork, and current HTTP-401 media boundary. The host description names Arday among featured contributors; no audio, transcript, or Arday-specific clip boundary was recovered. Google Drive was not updated; GitHub remains the active publication target.

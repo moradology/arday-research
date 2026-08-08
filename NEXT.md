@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-profile boundary: SRC-876/C-877 — the current Surviving Society SoundCloud profile and `/tracks` route expose ten visible tracks, including canonical E188 and no other Arday-named title. This closes the current-profile route but not older, private, deleted, or playlist-only inventory. Reopen only for a complete host export, changed pagination, direct historical track lead, or distinct Arday media.
+
 Spotlight playlist-boundary checkpoint: SRC-875/C-876 — the three linked SoundCloud Spotlight Series playlists were captured and enumerate 15 titled tracks, none naming Arday. This closes the obvious playlist-topology route without claiming the compilation lacks his clip. Reopen only for a lawful compilation audio file, transcript, captions, or an Arday-specific segment/time boundary.
 
 Fresh podcast-manifestation checkpoint: SRC-875/C-875 — Surviving Society’s 11 April 2022 “Spotlight Series Best Bits! (Part One)” SoundCloud compilation names Arday among its featured contributors. Page, oEmbed, artwork, and a current HTTP-401 media boundary are preserved; no audio or Arday-specific segment was recovered. Reopen only for a lawful audio binary, transcript/captions, or an individual clip/time boundary; do not duplicate the existing Surviving Society episodes.
