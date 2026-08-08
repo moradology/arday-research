@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: image/jpeg
+last-modified: Thu, 01 Oct 2020 11:03:04 GMT
+etag: "5f75b768-39341"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 526909
+date: Sat, 08 Aug 2026 07:21:28 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-egml8630033-LCY, cache-chi-kmdw8640056-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1786173688.050352,VS0,VE185
+content-length: 234305
+

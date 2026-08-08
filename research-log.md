@@ -2728,3 +2728,11 @@ Lead: the THE Campus/Times Higher Education authored-output sweep found two dist
 Capture: both current publisher pages, response headers, and 800×533 lead images were preserved. Their closing biographies retain the 2019 Durham, Ohio State, and Nelson Mandela University role wording as dated page versions.
 
 Decision: added SRC-565/C-734 and SRC-566/C-735. The essays are treated as authored policy positions and public outputs, not independent evidence of implementation, clinical history, or current affiliations. The overlapping subject matter is retained as two distinct articles rather than merged.
+
+## 2026-08-08 — SRC-567/C-736 THE 2020 authored essay
+
+Lead: the continuing THE authored-output sweep surfaced Arday’s 3 October 2020 essay, “We must come together to dismantle racism in higher education.”
+
+Capture: the current publisher HTML, response headers, and 724×483 lead image were preserved. The article’s closing biography records the 2020 Durham, Ohio State, Nelson Mandela University, and Runnymede roles as page-state evidence.
+
+Decision: added SRC-567/C-736 as a distinct authored public output. The policy claims remain Arday’s 2020 argument, not proof of implementation or institutional outcomes; the biography is not treated as current.

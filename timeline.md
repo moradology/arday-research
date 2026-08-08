@@ -386,6 +386,7 @@ The dates below distinguish reported life history from documentary education rec
 | 2021-06-09 | Participated in THE Campus Talks panel “Making teaching more inclusive and equitable” | Times Higher Education / THE Campus episode page | Publisher page verifies participant listing and topic; no audio or transcript recovered | [THE Campus Talks record](sources/2021-06-09-the-campus-talks-podcast.md) |
 | 2019-09-06 | Published THE essay “Racism in academia has major impact on BAME staff mental health” | Times Higher Education authored page | Direct authored policy argument; dated affiliation biography preserved separately | [THE mental-health essay](sources/2019-09-06-the-racism-academia-mental-health.md) |
 | 2019-12-08 | Published THE essay “There’s still work to be done to tackle racial harassment in universities” | Times Higher Education authored page | Direct authored policy argument; dated affiliation biography preserved separately | [THE racial-harassment essay](sources/2019-12-08-the-racial-harassment-article.md) |
+| 2020-10-03 | Published the THE essay “We must come together to dismantle racism in higher education” | Times Higher Education authored page | Direct authored policy argument on structural racism, allyship, and collective action; dated affiliation biography preserved separately | [THE dismantling-racism essay](sources/2020-10-03-the-campus-dismantle-racism.md) |
 
 
 ## Timeline policy

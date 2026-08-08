@@ -222,6 +222,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [THE Campus Talks panel](sources/2021-06-09-the-campus-talks-podcast.md) — 2021 publisher-hosted panel listing Arday on inclusive teaching, anti-racism, and neurodiversity; player captured but audio not recovered.
 - [THE mental-health essay](sources/2019-09-06-the-racism-academia-mental-health.md) — authored 2019 commentary on racial inequality, culturally appropriate mental-health support, and intersectional training.
 - [THE racial-harassment essay](sources/2019-12-08-the-racial-harassment-article.md) — authored 2019 commentary on reporting mechanisms, institutional responsibility, and racial harassment in universities.
+- [THE dismantling-racism essay](sources/2020-10-03-the-campus-dismantle-racism.md) — authored 2020 commentary on structural racism, white allyship, solidarity, and institutional change.
 
 ## 8. Current controversy — keep separate from the historical archive
 
