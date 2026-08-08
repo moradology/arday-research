@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-156/C-891: *Student Sessions* binary promoted to GitHub
+
+Audit: the canonical Student Sessions source record already contained the Buzzsprout page snapshot and capture metadata, but the 30,337,932-byte MP3 remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`69354937c70aa066afd46245780b6276f8d9c406daa32715203a2de393181a0b`) against the metadata and committed the audio. No transcript-level or substantive biographical claim was promoted; the 42:04.46 interview remains queued for timestamped review.
+
 ## 2026-08-08 — SRC-034/C-890: *Full Disclosure* binary promoted to GitHub
 
 Audit: the canonical Global Player record already contained the page, player API, artwork, and capture metadata, but the complete Captivate MP3 remained only in the working tree.
