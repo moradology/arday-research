@@ -2680,3 +2680,11 @@ Discovery: a focused 2019 interview/video search located Dina Zoe Belluigi’s B
 Capture: the original domain now redirects to a ParkLogic expired-domain page. The article body, image, player, and recording URL were not exposed; the current browser state is preserved as a local access-boundary note.
 
 Decision: added SRC-558/C-724–C-725 as a distinct historical media lead, separate from Belluigi’s 2019 Belfast seminar record. No substantive conversation claims or binary recovery are asserted. Reopen only with a lawful archive replay, author/institutional copy, or newly exposed media URL.
+
+## 2026-08-08 — SRC-559/C-726–C-727 HDR UK Black Internship keynote
+
+Discovery: HDR UK’s official 2023 internship retrospective linked a previously uncatalogued Jason Arday keynote video, YouTube ID `CwwpjBSVHKA`, and quoted one sentence from the talk.
+
+Capture: preserved the HDR UK page and headers, the linked YouTube HTML and headers, and the two page-linked photographs. YouTube currently returns `LOGIN_REQUIRED` / private-video state; no video binary, captions, or transcript was recovered.
+
+Decision: added SRC-559/C-726–C-727 as a first-party retrospective event record and access boundary. The quotation remains host-published and not timecoded. Reopen only for a public video state, transcript/captions, exact event-date record, or distinct keynote artifact.
