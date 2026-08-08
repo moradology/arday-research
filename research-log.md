@@ -1,5 +1,11 @@
 # Research log
 
+# 2026-08-08 — SRC-517 follow-up: targeted MBE-podcast non-match
+
+The *Washington Free Beacon* report says that a 2023 podcast included an account of an MBE offer that Arday declined, but does not name the programme. I checked the two locally preserved 2023 interview records most likely to be confused with that lead: Channel 4’s *Ways to Change the World* episode, including its audio/video captions, and WNYC’s *The Takeaway* episode, including its publisher-hosted transcript. Neither contains an MBE, Order of the British Empire, or equivalent award passage.
+
+Decision: this is a bounded non-match, not negative proof. The Free Beacon statement remains attributed secondary reporting; the underlying podcast, offer correspondence, and CV remain uncaptured. Do not repeat these two episode checks unless a new search lead identifies a different programme or a changed transcript/audio state.
+
 # 2026-08-08 — SRC-086/SRC-588/C-779–C-783: Nelson Mandela University CV recovery
 
 Discovery: the canonical January 2020 CV endpoint still returned a page-not-found state, but Internet Archive CDX exposed valid 2021 and 2023 PDF captures. The 30 July 2023 replay was recovered as a valid eight-page PDF.
