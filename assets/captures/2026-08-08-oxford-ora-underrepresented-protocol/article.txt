@@ -1,0 +1,633 @@
+ Open access                                                                                                                                   Protocol
+
+
+                                    Exploring experiences of mental health
+                                    challenges in under-­represented young
+                                    people (aged 16–24 years) in England: a
+                                    narrative inquiry protocol
+                                    Rebecca Syed Sheriff ‍ ‍,1,2 Jason Arday,3 Rohit Shankar ‍ ‍,4,5
+                                    Roisin Mooney ‍ ‍,2 Louise Chandler,2 Helen Adams,6 Lili Z Nagy ‍ ‍,2
+                                    Roger Farrell ‍ ‍,7 Daisy Fancourt ‍ ‍,8 Scott Weich ‍ ‍,9 Catherine Henderson,10
+                                    Shaima Hassan,11 Joe Langley ‍ ‍,12 Kamaldeep Bhui ‍ ‍2
+
+
+
+To cite: Syed Sheriff R, Arday J,   ABSTRACT
+Shankar R, et al. Exploring         Introduction Three-­quarters of mental health problems
+                                                                                                      STRENGTHS AND LIMITATIONS OF THIS STUDY
+experiences of mental health        start before the age of 25. However, young people are             ⇒ Narrative inquiry will enable under-­
+                                                                                                                                            represented
+challenges in under-­represented                                                                        young people to tell their stories in their own way
+                                    the least likely to receive mental healthcare. Some young
+young people (aged 16–24                                                                                leading to increased insights into their experience of
+                                    people (such as those from ethnic minorities) are even less
+years) in England: a narrative
+                                    likely to receive mental healthcare than others. Long-­term         mental health challenges.
+inquiry protocol. BMJ Open
+                                    impacts of mental health problems include poorer physical         ⇒ An intersectional lens will be used to understand the
+2025;15:e098223. doi:10.1136/
+bmjopen-2024-098223                 health, relationships, education and employment. We                 perceived needs of young people of diverse identi-
+                                    aim to elicit the views, experiences and needs of diverse           ties and diverse place contexts, allowing for a deep-
+► Prepublication history for                                                                            er and more nuanced understanding of those facing
+                                    young people (aged 16–24 years), to better understand (1)
+this paper is available online.                                                                         multiple disadvantages.
+To view these files, please visit
+                                    their experiences of under-­representation, mental health
+                                    and coping, (2) mechanisms that shape mental health               ⇒ The extent of lived experience involvement through-
+the journal online (https://doi.​
+org/10.1136/bmjopen-2024-​          trajectories and (3) how online arts and culture might be           out (as advisors, peer researchers, coordinators,
+098223).                            made engaging and useful for young people’s mental                  participants and investigators) will contribute to en-
+                                    health. We also aim to do this with autistic young people.          suring youth-­informed research.
+Received 19 December 2024           Methods and analysis Narrative inquiry will be employed           ⇒ Challenges will include engaging young people of di-
+Accepted 11 November 2025           as a tool for gathering young people’s perspectives for             verse identities, who are usually under-­represented
+                                    an iterative analysis. The narrative method proposes                in research, in sharing authentic narratives.
+                                    that critical insights and knowledge are distributed
+                                    across social systems and can be discovered in personal
+                                    stories and that knowledge can be relayed, stored and           receive help from mental health services.3 4
+                                    retrieved through these stories. Data will be transcribed       Common mental health problems in young
+                                    and explored using a combination of thematic and                people, such as depression and anxiety, have
+                                    intersectional analysis. Young people will be core members      long-­term sequelae: on mental and phys-
+                                    of the research team, shape the research and be involved        ical health, social support, relationships,
+                                    in the coding of data and interpretation of the findings.
+                                                                                                    employment, as well as health risk behaviours
+                                    Ethics and dissemination This study (IRAS project ID
+                                                                                                    including self-­harm.5 6 There are significant
+                                    340259) has received ethical approval from the HRA
+                                    and Health and Care Research Wales (REC reference 24/           direct and indirect costs over the life course.1
+                                    SC/0083). The outputs will identify touch points and refine     The COVID-­    19 pandemic and associated
+                                    the logic model of how online arts and culture might            restrictions disproportionately impacted
+                                    support the mental health of those from under-­represented      on the lives of young people.7 Following
+                                    backgrounds. We will share knowledge with young people,         the pandemic, demand for mental health-
+                                    policy makers, health professionals, carers, teachers,          care has increased and access diminished.8 9
+                                    social workers and people who work in arts and culture.         Some young people already face greater chal-
+© Author(s) (or their
+                                    We will produce research papers, blogs, newsletters,            lenges and are affected more than others, for
+employer(s)) 2025. Re-­use
+permitted under CC BY.
+                                    webinars, videos and podcasts.                                  example, those identifying as ethnic minority
+Published by BMJ Group.                                                                             and/or Lesbian, Gay, Bisexual, Transgender,
+For numbered affiliations see                                                                       Questioning and other sexual orientation or
+end of article.                     INTRODUCTION                                                    gender identities.4 10 11 Many autistic young
+Correspondence to
+                                    Three-­quarters of mental disorders emerge                      people lack suitable psychosocial support,
+Dr Rebecca Syed Sheriff;            before the age of 25,1 2 yet young people aged                  compounding mental health inequalities,
+​r.​j.​syedsheriff@​bham.​ac.​uk    16–24 years are the least likely age group to                   yet there is little research into their mental
+
+                                          Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223                                       1
+Open access
+
+health needs or how best to engage them in research             imagination.28 29 However, engagement with culture and
+as equal partners.12 13 Thus, there is a compelling need        the arts is poorest for those who might benefit the most.20
+for evidence-­ based, accessible and engaging resources         During consultations in our work, people with lived expe-
+to support the mental health of young people.14 This is         rience of mental illness said that this was not due to lack
+a priority for young people, health services, social care,      of interest.30 They thought that those with lived experi-
+education, employment and societal recovery.15–17               ence should be an active part of any strategy to optimise
+   We consulted people with lived experience of mental          such resources for mental health benefit. Building on
+health challenges regarding the potential benefits of           this, we have worked with stakeholders and young people
+online arts and culture. Online arts and culture was            to develop the study described in this protocol. A walk-
+defined as online content provided by museums, theatres,        through video is available for WoB.31
+art galleries, libraries, archives and natural heritage           The following research questions apply to young people
+organisations. Young people expressed that online arts          aged 16–24 in work package 1 (WP1) and to autistic young
+and culture could be effective in improving mental health       people in WP2, aged 16–24 years, living in England.
+and reducing symptoms of depression and anxiety, that it        ► What are young people’s experiences of mental
+could be accessed regularly, remotely and as needed to              health, resilience, recovery and formal and informal
+aid self-­management and provided a positive alternative            care?
+to social media.18                                              ► What are the mechanisms that involve identity, place
+   We undertook a literature review,19 conducted an                 and health beliefs that shape distinct trajectories of
+online survey into the use and potential benefits of                mental health?
+online culture and the arts20 and investigated the poten-       ► How might online mental health interventions based
+tial mechanisms of mental health benefits of online arts            on arts and culture be engaging and made useful for
+and culture through qualitative studies and codesign with           young people at the intersections of multiple disad-
+young people aged 16–24.18 In particular, human stories             vantages (through identity, place, deprivation, mental
+were identified as the single most important ingredient             health, etc)? What adjustments are needed for autistic
+for mental health benefit. Participants recommended                 young people?
+more content describing the experiences of a range
+of people from different backgrounds that they could            METHODS AND ANALYSIS
+connect with on a human level (reinforcing positive             This research informs part of the discovery phase of
+identities/bonding social capital),21 and more alternative      a larger programme of research funded by the NIHR
+viewpoints (shifting thoughts, promoting curiosity and          called ORIGIN (Optimising Cultural Experiences for
+learning; bridging social capital).22                           Mental Health in Marginalised Young People Online).
+   We then coproduced an online intervention for mental         This research addresses 5 of the top 10 mental health
+health in young people, based on the diverse human              research priorities identified by young people.32 In accor-
+stories of the people behind art and artefacts called           dance with the Medical Research Council principles of
+Ways of Being (WoB). In a randomised controlled trial23         developing complex interventions,33 we aim to continue
+comparing WoB with a typical museum website (the                to identify and understand mechanisms of online arts
+Ashmolean Website, Ash), we recruited 463 people aged           and culture on young people’s mental health and symp-
+16–24. Most of them were recruited within 2 weeks of the        toms of depression and anxiety in even more diverse
+study first being advertised; 74% of participants provided      populations.30
+outcome measures to 6-­     week follow-­up. At baseline,         To gather detailed information, we use a narrative
+89% of participants self-­reported levels of psychological      inquiry tradition and an intersectionality lens to address
+distress consistent with clinically significant depression      the needs of young people of diverse identities and
+and/or anxiety. Psychological distress and negative affect      from diverse place contexts, facing multiple disadvan-
+reduced over the intervention phase compared with base-         tages (see table 1). The narrative inquiry tradition will
+line in both groups. Negative affect was lower in those         be employed as a tool for gathering young people’s
+allocated to WoB than those allocated to Ash (n=448,            perspectives,34 and for iterative analysis in a carefully
+–0.158, p=0·010). However, WoB group participants said          designed study. The narrative method proposes that crit-
+that they ran out of content to look at and group differ-       ical insights and knowledge are distributed across social
+ences were not sustained at 6 weeks. Group differences          systems and can be discovered in personal stories. The
+were greater for participants of minority ethnicity. 90%        knowledge can be relayed, stored and retrieved through
+of participants said they would be keen to take part in         these stories.
+future research. A short video of our preparatory work is         Three      experience-­
+                                                                                        driven     research   approaches
+available online.24                                             underpin our use of narrative inquiry: (a) increased
+   The idea that culture and the arts are good for mental       emphasis on reflection, (b) increased attention to what
+and physical health and well-­     being is not new.25–28       individuals know, how they think and how they make deci-
+The mechanisms that improve mental health include               sions and (c) letting people tell their stories and share
+emotional activation, aesthetic engagement, interaction,        experiences. The experiences of young people will be
+social and cognitive stimulation, sensory activation and        presented through many forms of communication (and
+
+2                                                            Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223
+                                                                                                                                  Open access
+
+ Table 1 Research design of each study
+              Work package 1 (WP1)                                                    WP2
+ Design       We will use qualitative methodologies to gain detailed                  We will use qualitative methodologies to gain detailed
+              experience and mechanistic information to inform codesign               experience and mechanistic information to inform codesign.
+              in a later study of a large research programme. To gather               To gather this detailed information, we will use a narrative
+              this detailed information, we will use a narrative inquiry              inquiry tradition and an intersectionality lens to understand
+              tradition and an intersectionality lens to understand the               the perceived needs of autistic young people with enhanced
+              perceived needs of young people of diverse identities and               needs, facing multiple disadvantages. Particular focus of
+              diverse place contexts, facing multiple disadvantages.                  WP2 is on reasonable adjustments needed for the future
+                                                                                      studies to be inclusive of autistic young people.
+ Setting      Community, NHS waitlist and online: We will recruit from     We will recruit via the University of Plymouth’s Cornwall
+              communities (rich in under-­represented young people) and Intellectual Disability Equitable Research centre and eligible
+              NHS waitlists focussing on Sheffield, Oxfordshire, Cornwall/ young people recruited via WP1 who have consented to
+              Devon, Blackpool and Liverpool and online from any region further contact and meet the eligibility criteria but are unable
+              of England. We will select a minimum of 100 participants via to be selected for WP1 as they have enhanced autistic needs
+              purposeful sampling (see box below).                         (level 2 autism).
+ Sample       We will select (n=100) young people aged between 16 and                 We will select autistic young people aged between 16 and
+              24 years with current or previous mental health difficulties            24 years with current or previous mental health difficulties
+              via purposeful sampling based on under-­representation                  via purposeful sampling on the basis of under-­representation
+              (by ethnicity, sexual identity and orientation, neurodiversity,         (by ethnicity, sexual identity and orientation, occupation,
+              geography, occupation, education and deprivation), use of               education and deprivation), use of online arts and culture and
+              online arts and culture and previous help-­seeking                      previous help-­seeking
+ Inclusion    ► Participant is willing and able to give informed consent              ► Participant is willing and able to give informed consent for
+ criteria       for participation in the study.                                          participation in the study.
+              ► Male, female or non-­binary,                                          ► Male, female or non-­binary
+              ► Aged 16–24 years                                                      ► Aged 16–24 years.
+              ► Identifies as having current or previous mental health                ► Autistic
+                difficulties in the past year OR scores ≥20 on the K10                ► Identifies as having current or previous mental health
+              ► Identifies as feeling under-­represented in some way,                    difficulties OR scores ≥20 on the K10
+                for example, by ethnicity (eg, ethnic minority), sexual
+                identity or orientation (LGBTQIA+), neurodiversity (eg,
+                ADHD), occupation or education (eg, not in education,
+                employment or training) or deprivation
+ Exclusion Clear organic cause for mental health difficulties                         Clear organic cause for mental health difficulties
+ criteria  Alcohol or drug dependence                                                 Alcohol or drug dependence
+           Currently in mental health crisis                                          Currently in mental health crisis
+           People outside of England.                                                 People outside of England.
+ Data         The experiences of young people will be presented through               The experiences of young people will be presented through
+              many forms of communication (and modalities of data                     many forms of communication (and modalities of data
+              collection as above), using their preferred vocabularies to             collection as above), using their preferred vocabularies to
+              communicate their personal stories and experiences                      communicate their personal stories and experiences.
+
+ ADHD, Attention Deficit Hyperactivity Disorder; LGBTQIA+, lesbian, gay, bisexual,transgender, queer/questionning, intersex, asexual and
+ people of identities not explicitly named; NHS, National Health Service.
+
+
+
+modalities of data collection above), using their preferred                        facing diverse young people and the structural realities
+vocabularies.                                                                      that shape their mental health. The implementation of
+   Intersectionality theory: Our approach aligns with an                           intersectionality approaches (both as a lens and method)
+intersectional conceptual framework, which will provide                            pays close attention to existing barriers such as sociocul-
+a more comprehensive explanation for the convergence                               tural and socioeconomic disadvantage and the categorisa-
+of multiple types of disadvantage.35 We will illuminate                            tions of subordination and the persistence of hierarchies35
+experiences at intersections of disadvantage that are often                        that expose some vulnerable young people to persistent
+overlooked in typical analyses due to assumptions of what                          systemic inequality.36
+is known about young people. In this way, an intersec-                                By adopting an intersectional framework,37 we set aside
+tional approach attempts to be corrective, to inform the                           the use of one-­dimensional approaches to understanding
+design of the intervention and codesign approach so that                           inequities that are often adopted in studies exploring
+the content is tailored for those whose voices are tradi-                          diverse young people. Instead, we focus on more dynamic
+tionally not heard. These groups include young people                              complex analyses that draw attention to how relation-
+living in precarity and at the intersections of identity,                          ships, social hierarchies and structures impact the expe-
+experience and place. Second, intersectional methods                               riences of young people positioned within their locale or
+will attempt to illuminate societal systems of disadvantage                        intersect.38
+
+Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223                                                                      3
+Open access
+
+Table 2 Recruitment and sampling details per study
+                  Number of       Sampling
+Work package      participants    strategy      Approach                                                Region
+Work package 1    100             Purposeful    Communities (including NGOs rich in under-­             NHS and community- Sheffield,
+(WP1)                                           represented young people)                               Oxfordshire, Liverpool, Cornwall/
+                                                NHS waitlists                                           Devon
+                                                Online                                                  Community only—Blackpool
+                                                                                                        Online—nationally
+Work package 2    30              Purposeful    University of Plymouth’s Cornwall Intellectual          Regional to the CIDER centre
+                                                Disability Equitable Research (CIDER) centre            (Cornwall)
+                                                Those recruited in previous studies, who are            and as per WP1
+                                                eligible and consenting to further contact (but not
+                                                previously selected)
+
+NGO, Non-­governmental organisation; NHS, National Health Service.
+
+
+
+
+Study participants                                                   centre, a partnership between the University of Plymouth
+WP1: We will select via purposeful sampling up to 100                and Cornwall Partnership NHS Foundation Trust.
+young people aged 16–24 years who are currently expe-
+riencing, or over the last year have experienced a mental            Patient public involvement
+health problem from communities, NHS waitlists and                   There are different ways in which young people from
+online. We will focus recruitment on under-­represented              under-­represented backgrounds can be involved in
+young people by ethnicity, gender identity, sexual orien-            mental health research. It is therefore important to differ-
+tation, neurodiversity (including Attention Deficit Hyper-           entiate between different roles and how they contribute
+activity Disorder [ADHD]), geography, occupation,                    to the research. Particularly as this research has been
+education and deprivation. This sample size of 100 was               designed to be implemented in a collaborative manner,
+estimated alongside young people to ensure sufficient                doing the research with the participants rather than to
+sampling of these diverse groups of young people. This               them. These young people will be given the opportunity
+will be monitored alongside young people throughout                  and support to contribute to outputs including academic
+the study.                                                           papers. Young people have been part of the core research
+   Recruitment (see table 2) will focus on communities
+                                                                     team feeding into decisions on a weekly basis regarding
+rich in under-­represented young people and NHS wait-
+                                                                     methods, recruitment, sampling and analysis. PPI, peer
+lists in Sheffield, Oxfordshire, Cornwall/Devon, commu-
+                                                                     researchers and youth coordinators will receive training
+nities in Blackpool and Liverpool and online contact from
+                                                                     and support through the studies depending on their
+any region of England. Young people will be invited to
+                                                                     role, including independent external mentorship for
+complete a questionnaire and then be sampled purpose-
+                                                                     the public coinvestigator. In this project, we have the
+fully based on under-­representation, mental health diffi-
+                                                                     following roles that are filled by people with relevant lived
+culties, use of arts and culture and previous help-­seeking.
+                                                                     experience.
+   WP2: We will select via purposeful sampling up to 30
+                                                                     ► Patient and public involvement coapplicant—LC was
+autistic young people aged 16–24 years with current
+or previous mental health difficulties. For WP2, the                     involved in developing the research plans, is a coin-
+threshold for inclusion is level 2 autism defined in Diag-               vestigator and is an integral part of the PPI leadership
+nostic and Statistical Manual of Mental Disorders 539 as                 team.
+‘requiring substantial support’, indicating marked defi-             ► Youth co-­    ordinators will work with LC as a team to
+cits in verbal and non-­verbal social communication skills,              organise and co-­ordinate the engagement of young
+social impairments, limited initiation of social interac-                people throughout the project and contribute to PPI
+tion and inflexibility of behaviour or other restricted                  activities.
+repetitive behaviours and interests that interfere with              ► Youth peer researchers will be recruited flexibly
+functioning. Autistic young people with less significant                 through different work studies to contribute to the
+impairment who are otherwise eligible can be included                    implementation of the research—for example, inter-
+in WP1. Eligible and consenting autistic young people                    preting findings in the qualitative work.
+will be purposefully sampled on the basis of under-­                 ► ORIGIN Research Advisory Group (ORAG)—up
+representation, by ethnicity, sexual identity and orien-                 to 12 young people to consult on how the research
+tation, geography, occupation, education, deprivation,                   is conducted and delivered at key stages ensuring
+mental health difficulties and previous help-­      seeking.             youth-­informed approaches to understanding under-­
+We will recruit via the University of Plymouth’s Corn-                   representation, agency and ethical considerations,
+wall Intellectual Disability Equitable Research (CIDER)                  youth-­informed engagement and dissemination.
+
+4                                                                Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223
+                                                                                                                              Open access
+
+►   Youth codesigners—young people contributing to                                 online recruitment. As these people will be on waitlists,
+    finding and crafting stories for the intervention.                             they will not have engaged in an NHS service yet and not
+                                                                                   have an allocated care team. The PI in each location will
+Participant identification and recruitment                                         enlist relevant staff from the research department in the
+Recruitment will be through communities rich in under-­                            Trust to send out the advertising materials and links to
+represented young people (focussing on Sheffield,                                  potential participants alongside contact details for the
+Oxfordshire, Cornwall/Devon, Blackpool and Liver-                                  central research team in case potential participants have
+pool) and NHS waiting lists. This will include utilisation                         questions.
+of NHS and social care agencies, as well as NGOs, and
+youth services, and research networks, digital health                              Screening and eligibility assessment
+networks, CAMHS networks, public health agencies and                               Details of recruitment and sampling for both WP1 and 2
+local authorities, creative and cultural industries, as well                       are outlined in table 2. WP1 will have two steps to ensure
+as online. We will create attractive recruitment posters                           purposeful sampling.
+and materials which we will circulate widely. This may                                Step 1—Initial eligibility and consent—young people
+contain animation and/or talking heads from our ORAG                               who self-­identify as being aged between 16 and 24 years
+and research team, explaining the ethos, research aims                             old, living in England and who think that they currently
+and further materials covering more specific aims, objec-                          have or have had a mental health problem (such as anxiety
+tives, benefits and potential harms, linked to electronic                          or depression) over the past year and do not have any
+screening and consent procedures and links. This will                              of the exclusion criteria (clear organic cause for mental
+be done using open adverts, and we can offer guidance                              health difficulties, alcohol or drug dependence, currently
+and support through specific agencies, where language                              in mental health crisis) will be given the PIS and the
+skills/differences or disabilities may affect participation.                       opportunity to give online consent. Once online consent
+Each local venue (Sheffield, Oxfordshire, Cornwall/                                is given, they will have the opportunity to complete an
+Devon and Liverpool/Blackpool) will have a local prin-                             initial questionnaire which includes items on demo-
+cipal investigator (PI). There will also be a safeguarding                         graphics, mental health, help-­seeking, use of online arts
+lead who, with the PIs, will support national non-­regional                        and culture, a subjective rating scale of socioeconomic
+recruitment online through social media. We will liaise                            status and the Kessler Distress Scale (K10). Text will be
+with local health and social care and safeguarding systems                         carefully crafted alongside young people, making it clear
+where necessary.                                                                   to participants that completing the questionnaire will not
+   There are two ways in which young people may be                                 guarantee them an interview (but that as stated above,
+recruited to take part. The first is identification online.                        they may consent to being contacted for further studies
+We will advertise the study online. We will target online                          within and beyond ORIGIN).
+organisations and charities nationally as well as those                               The K10 will be used as it strongly discriminates between
+located in Sheffield, Oxfordshire, Cornwall and Devon,                             community cases and non-­        cases of mental disorders
+Blackpool and Liverpool with high levels of engagement                             identified by a structured clinical interview.40 The K10
+of under-­represented populations and work closely with                            comprises 10 questions inquiring about the frequency of
+them to raise awareness about the project and facilitate                           depressive and anxiety symptoms with reference to the
+people to take part who may not traditionally participate                          previous 4 weeks. Each item is rated on a 5-­point Likert
+in research. We will also use youth-­informed methods of                           scale (1=none of the time to 5=all of the time) and scores
+reaching under-­represented young people online, such                              added to a possible range of 10–50, with higher scores
+as adverts on social media. When potential participants                            reflecting higher levels of psychological distress. The K10
+access the study online, they will read the relevant partici-                      is one of the most widely used mental health screening
+pant information sheet (PIS), be given the opportunity to                          instruments41 and demonstrates good properties with
+self-­identify initial eligibility (ie, currently experiencing—                    regard to validity, reliability41 and sensitivity to change.42
+or over the past year have experienced—a mental health                             A K10 score of 20 or more is defined as clinically signifi-
+problem (eg, feeling very sad or anxious a lot of the time)                        cant distress.
+and to consent to participation. For WP1, full partic-                                Step 2—Individuals who are eligible and selected via
+ipation will be subject to purposeful sampling by the                              purposeful sampling will be contacted via their preferred
+research team. Participants will be given the opportunity                          contact method and invited to meet with a member of
+to be contacted for further studies within and beyond                              the research team. Consent will be reaffirmed at every
+ORIGIN if not selected for this particular part of the                             interaction. We will coproduce the invitation with our
+study. A member of the research team will then be in                               young people, bearing in mind that there is a wide range
+touch to confirm ongoing interest for those selected via                           of barriers to participation for this diverse sample to be
+purposeful sampling and arrange qualitative data collec-                           considered. This is subject to Research Ethics Committee
+tion. For WP2, only those eligible will be approached.                             (REC) approval prior to use.
+   The second is via NHS waitlists. We will work closely                              WP2 seeks to recruit a smaller sample size than WP1. The
+with Clinical Research Network teams to sample demo-                               sample size was chosen in discussion with young people
+graphics that are not sufficiently represented from our                            and considered potential challenges in recruiting level
+
+Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223                                                               5
+Open access
+
+2 autistic young people (ie, those requiring substantial          multiple sittings using a method that is comfortable for
+support) and recruitment being restricted by geograph-            them.
+ical region to ensure the possibility of in-­person inter-          Following an opening statement inviting the participant
+views. Only those who are eligible to participate will be         to tell their story in their own way, interviews will be audio
+approached. For WP2, we aim to recruit 30 young people            recorded (not video recorded) and transcribed by the
+with level 2 autism. Recruitment will be conducted via the        research team. Not consenting to being audio recorded
+CIDER centre (part of Cornwall NHS trust).                        will not affect eligibility to take part in the study and we
+                                                                  will explore alternatives to document the interviews on a
+Informed consent                                                  case-­by-­case basis. Audio recordings will be kept securely
+Consent will be received online in the first instance             until the study end date for data verification purposes.
+when completing the demographic questionnaire that                Transcripts will be stored in a deidentified form with all
+will inform the sampling. Participants will have received         personal identifiable data removed.
+the PIS, developed with patient and public involvement
+(PPI) in accordance with best practice and including              WP1: gathering experiences
+clear statements about confidentiality, data access, inclu-       After viewing the information sheet and providing
+sion criteria and online consent. Online consent proce-           informed consent, participants will be asked to complete
+dures will be undertaken by clicking through to the next          a questionnaire. From this information, the research
+page after reading the information sheet. An ID number            team will then sample up to 100 people to gain an
+will be allocated at the point of consent that will then be       information-­rich, diverse sample and aim for maximum
+used for all data collection. Participants aged 16–18 years       contrast. Those selected will be contacted by the research
+will be considered competent youths. All participants             team and invited to be interviewed at a time convenient
+may contact the research team if they need assistance             to them. The interview will be a narrative interview
+completing the form or would prefer to participate in             allowing participants to share their story at a pace and in
+person. Contact information for the researchers will be           a format that is comfortable to them. Working alongside
+provided in the information sheet in case of any further          youth peer researchers with lived experience, interviews
+queries. We will test the form and add validation fields          will be offered face to face, and we will facilitate online
+so that participants cannot progress if their consent form        interviews where requested.
+has not been properly completed.
+                                                                  WP2: gathering experiences (Autism)
+Data collection                                                   This study will be the same as WP1, however, adjustments
+Youth peer-­  researchers will be involved in collecting          will be made to enable people with level 2 autism to
+data, interpreting results and will inform the overall            participate authentically. This will entail providing mate-
+analytic strategy, scope and depth. This means tailoring          rials in alternative formats. All research materials will be
+the research process to optimally engage and support              ethically approved prior to use. We will ensure that we
+them to participate, as well as ensure their perspectives         have representation from people with autism in all levels
+(at multiple intersects of identity, experience and place)        of the research, including the ORAG (comprising young
+are fully heard and accommodated in the analytic, inter-          people aged 16–24 years), to ensure that this study is
+pretive and dissemination process. We will codesign data          conducted in a way that enables people to meaningfully
+collection processes with young people. This will be iter-        participate and share their experiences. We have three
+ative and responsive to the needs of the participants. The        coapplicants with lived experience of autism, as well as
+nature of narrative interviews incorporates flexibility that      peer researchers and the ORAG whom we will be working
+allows for the participant to conduct the interview in            alongside to deliver this study effectively.
+
+
+
+Table 3 Data management
+                       Data                              Monitoring          Storage                                      Archiving
+Work package 1 (WP1)   Recruitment log                   Weekly during       Digital, (eg, Qualtrics) for consent,        NHS trusts (for
+                       Demographics                      data collection     excel for demographics, stored in            recruitment logs)
+                       Selection via purposeful sampling                     a password-­protected folder on              University of
+                       Consent forms                                         Microsoft Teams, only accessible by          Oxford
+                       Audio recordings and Transcripts                      the immediate study team
+Work package 2 (WP2)   Recruitment log                   Weekly during       Digital, (eg, Qualtrics) for consent,        NHS trusts (for
+                       Demographics                      data collection     Excel for demographics, stored in            recruitment logs)
+                       Selection via purposeful sampling                     a password-­protected folder on              University of
+                       Consent forms                                         Microsoft Teams, only accessible by          Oxford
+                       Audio and transcripts                                 the immediate study team
+ORIGIN research       Meeting notes and reflections      Quarterly           Digital                                      University of
+advisory group (ORAG)                                                                                                     Oxford
+
+
+6                                                              Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223
+                                                                                                                                                 Open access
+
+Early discontinuation, study end, safety reporting and adverse                     people’s preferences as peer-­researchers working with the
+events                                                                             research team. The thematic content of their experiences
+Participants may withdraw from the study at any time.                              will feed into and shape the translational aims of the research
+They may choose to discontinue the study at any time-­                             to locate the delivery of the rest of the research programme
+point without explanation. Any reasons given for with-                             within young people’s preferences and experiences. As we
+drawal will be logged. If the participant is withdrawn                             anticipate data from a heterogenous population, thematic
+due to an adverse event, the investigator will arrange for                         analysis alone may not be sufficient to ensure that different
+signposting to local and national mental health support                            voices are fully represented. We will involve young people
+resources. In addition, the Investigator may discontinue a                         in the coding of data and interpretation of the findings. We
+participant from the study at any time if the Investigator                         will adopt a process of familiarisation, coding and thematic
+considers it necessary for any reason including, but not                           analysis by constant comparison,43 44 using the principles
+limited to:                                                                        of Framework Analysis to document, organise and manage
+► Ineligibility (either arising during the study or retro-                         the data in a matrix.45 We regard experience data as shining
+    spectively having been overlooked at screening).                               a light on real events and processes that are of value and are
+► Unable to be contacted for follow-­up interview.                                 not to be dismissed as subjective experiences. The insight of
+► Significant protocol deviation.                                                  young people will provide several points of reflection and
+► Clinical decision.                                                               refinement for the research team. The approach adopted
+   The type of withdrawal and reason for withdrawal will                           will remain flexible in response to the emerging themes
+be recorded in the case report form. If the participant is                         that will surface from the participants. The diverse sample
+withdrawn due to an adverse event, the Investigator will                           and intersectional approach will provide a rich data set of
+arrange for telephone calls as per participant preference                          intersectional mechanisms and processes through which
+until the adverse event has stabilised and will report these                       mental health and resilience unfold.
+to the steering committee. The steering committee will
+meet prior to recruitment, during active recruitment and                           Data management
+prior to the study ending. The end of study is the point                           Data storage, access, curating and archiving will follow
+at which all the study data has been entered and queries                           General Data Protection Regulation policies for the
+resolved.                                                                          protection of personal data. Details regarding data
+   Given the nature of the interview—an opportunity                                management considerations for both studies are outlined
+to share their experiences guided by the participant,                              in table 3.
+following the principles of narrative interviewing—we do
+not expect any serious adverse events. However, with the
+                                                                                   ETHICS AND DISSEMINATION
+ORAG, we will consider the most appropriate approaches
+                                                                                   This study (IRAS project ID 340259) has received ethical
+to monitoring, reliable reporting and management of
+                                                                                   approval from the HRA and Health and Care Research
+adverse events. Given previous experience, we are antici-
+                                                                                   Wales (REC reference 24/SC/0083). Using existing
+pating that any adverse events will be non-­serious and will
+                                                                                   ethical frameworks and emergent codesigned approaches,
+be addressed by ensuring appropriate support is available
+                                                                                   we will provide dynamic processes of engagement,
+to the individual. We have developed a distress protocol
+                                                                                   support, consent and information tailoring to needs and
+and will ensure that all interviewers undertake adequate
+                                                                                   contexts. Ethical issues will be reviewed by the ORAG and
+training prior to conducting any interviews.
+                                                                                   the Programme Steering Committee regularly.
+  A serious adverse event is any untoward medical occur-
+                                                                                     Dissemination activities are integrated through all
+rence that:
+                                                                                   phases of the research and aim to maximise how infor-
+► Results in death.
+                                                                                   mation is shared and measure the impact of the research
+► Is life-­threatening.
+                                                                                   more broadly. We expect to deliver meaningful impact
+► Requires inpatient hospitalisation or prolongation of
+                                                                                   for secondary beneficiaries, for example, for health, arts,
+    existing hospitalisation.
+                                                                                   education and policy professionals seeking innovative
+► Results in persistent or significant disability/
+                                                                                   approaches for tackling mental health issues in young
+    incapacity.
+                                                                                   people. We will share knowledge with young people,
+► Consists of a congenital anomaly or birth defect.
+                                                                                   policy-­
+                                                                                          makers, health professionals, carers, teachers,
+   From experience of conducting the pilot study, we do
+                                                                                   social workers and people who work in arts and culture.
+not anticipate serious adverse events as a result of taking
+                                                                                   We will produce research papers, blogs, newsletters, webi-
+part in this research. All serious adverse events will follow
+                                                                                   nars, videos and podcasts. The outputs will identify touch
+policies and procedures agreed with the study sponsor
+                                                                                   points and refine the logic model of how online arts and
+(University of Oxford).
+                                                                                   culture might support the mental health of those from
+                                                                                   under-­represented backgrounds.
+Qualitative analysis
+We anticipate that data will be transcribed and explored                           Author affiliations
+using a combination of thematic analysis and intersectional                        1
+                                                                                    University of Birmingham, Birmingham, UK
+analysis.35 The exact analysis process will be shaped by young                     2
+                                                                                    Department of Psychiatry, University of Oxford, Oxford, UK
+
+
+Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223                                                                           7
+    Open access
+3
+ Faculty of Education, Cambridge University, Cambridge, UK                                   2 Alonso J, Angermeyer MC, Bernert S, et al. Prevalence of mental
+4
+ Plymouth University Peninsula Medical School, Truro, UK                                       disorders in Europe: results from the European Study of the
+5
+ CIDER, Cornwall Partnership NHS Foundation Trust, Truro, UK                                   Epidemiology of Mental Disorders (ESEMeD) project. Acta Psychiatr
+6                                                                                              Scand 2004;109:21–7.
+ University of Oxford, Oxford, UK                                                            3 Merikangas KR, He J, Burstein M, et al. Service utilization for
+7
+ University of Plymouth, Plymouth, UK                                                          lifetime mental disorders in U.S. adolescents: results of the National
+8
+ Department of Behavioural Science and Health, Department of Epidemiology and                  Comorbidity Survey-­Adolescent Supplement (NCS-­A). J Am Acad
+Public Health, University College London Research, London, UK                                  Child Adolesc Psych 2011;50:32–45.
+9
+ School of Health and Related Research, University of Sheffield, Sheffield, UK               4 Rickwood DJ, Deane FP, Wilson CJ. When and how do young people
+10
+  London School of Economics, London, UK                                                       seek professional help for mental health problems? Med J Aust
+11                                                                                             2007;187:S35–9.
+  University of Liverpool, Liverpool, UK                                                     5 Lewinsohn PM, Rohde P, Seeley JR, et al. Natural course of
+12
+  Lab4Living, Sheffield Hallam University, Sheffield, UK                                       adolescent major depressive disorder in a community sample:
+                                                                                               predictors of recurrence in young adults. Am J Psychiatry
+Acknowledgements We would like to thank young people from McPin, Young                         2000;157:1584–91.
+People Cornwall and young people from the O-­ACE project for their valuable advice           6 Kieling C, Baker-­Henningham H, Belfer M, et al. Child and
+                                                                                               adolescent mental health worldwide: evidence for action. Lancet
+and feedback on the proposed research.
+                                                                                               2011;378:1515–25.
+Contributors RSS is the guarantor and chief investigator of ORIGIN, had the idea,            7 Montero-­Marin J, Hinze V, Mansfield K, et al. Young People’s
+led the pilot work and led the writing of the application and protocol on which this           Mental Health Changes, Risk, and Resilience During the COVID-­19
+paper is based. JA leads work package 1 with KB and substantially contributed                  Pandemic. JAMA Netw Open 2023;6:e2335016.
+                                                                                             8 Crosby L, McCloud T, Hudson L, et al. You-­COPE: Disruptions
+to the writing of the application. RSha leads work package 2 and substantially
+                                                                                               experienced by young people aged 16-­24 during first months of the
+contributed to the writing of the application. RM contributed to the drafting of the           COVID-­19 lockdown: UCL. 2020.
+protocol for the ethics committee and sponsorship. LZN contributed to the drafting           9 Shidhaye R. Global priorities for improving access to mental health
+of the protocol, co-­wrote recruitment materials for work package 1 (and supported             services for adolescents in the post-­pandemic world. Curr Opin
+these processes for work package 2). LC contributed to the design and writing                  Psychol 2023;53:101661.
+of this as a public contributor. JL contributed to writing the proposal and project         10 Proto E, Quintana-­Domeque C. COVID-­19 and mental health
+protocol documents. KB is co-­chief investigator with RSS, co-­wrote the application           deterioration by ethnicity and gender in the UK. PLoS One
+with RSS, bringing new methodologies and partners to the design and building on                2021;16:e0244419.
+existing programmes. All authors (RSS, JA, RSha, RM, LC, HA, LZN, RF, DF, SW, CH,           11 Rickwood DJ, Braithwaite VA. Social-­psychological factors affecting
+                                                                                               help-­seeking for emotional problems. Soc Sci Med 1994;39:563–72.
+SH, JL and KB) contributed substantially to the writing of this protocol and have           12 Bishop-­Fitzpatrick L, Mazefsky CA, Minshew NJ, et al. The
+read and approved the final version submitted for publication.                                 relationship between stress and social functioning in adults with
+Funding This study is funded by the National Institute for Health and Care                     autism spectrum disorder and without intellectual disability. Autism
+Research (NIHR) Programme Grants for Applied Research programme (NIHR204148)                   Res 2015;8:164–73.
+                                                                                            13 Benevides TW, Shore SM, Andresen M-­L, et al. Interventions to
+and is supported by the NIHR Oxford Health Biomedical Research Centre.
+                                                                                               address health outcomes among autistic adults: A systematic review.
+Disclaimer The views expressed are those of the authors and not necessarily                    Autism 2020;24:1345–59.
+those of the NIHR or the Department of Health and Social Care.                              14 Auerbach RP, Mortier P, Bruffaerts R, et al. WHO World Mental Health
+                                                                                               Surveys International College Student Project: Prevalence and
+Competing interests RSha has received institutional and research support from                  distribution of mental disorders. J Abnorm Psychol 2018;127:623–38.
+LivaNova, UCB, Eisai, Veriton Pharma, Neuraxpharm, Bial, Angelini, UnEEG and Jazz/          15 Lindert J, Jakubauskiene M, Bilsen J. The COVID-­19 disaster and
+GW pharma outside the submitted work. He holds grants from NIHR AI, SBRI and                   mental health-­assessing, responding and recovering. Eur J Public
+other funding bodies all outside this work. No competing interests declared for any            Health 2021;31:iv31–5.
+of the other authors.                                                                       16 Zrnić Novaković I, Ajduković D, Ajduković M, et al. Mental health
+                                                                                               during and after the COVID-­19 pandemic – a longitudinal study
+Patient and public involvement Patients and/or the public were involved in the                 over 42 months in five European countries. Eur J Psychotraumatol
+design, or conduct, or reporting, or dissemination plans of this research. Refer to            2025;16.
+the Methods section for further details.                                                    17 Ross K, Houston J, Barrett E, et al. The Coproduced Youth Priorities
+                                                                                               Project: Australian Youth Priorities for Mental Health and Substance
+Patient consent for publication Not applicable.                                                Use Prevention Research. Health Expect 2025;28:e70274.
+Provenance and peer review Not commissioned; externally peer reviewed.                      18 Syed Sheriff R, Bergin L, Bonsaver L, et al. Online arts and culture
+                                                                                               for mental health in young people: a qualitative interview study. BMJ
+Open access This is an open access article distributed in accordance with the                  Open 2023;13:e071387.
+Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits                19 Buechner H, Toparlak SM, Ostinelli EG, et al. Community
+others to copy, redistribute, remix, transform and build upon this work for any                interventions for anxiety and depression in adults and
+purpose, provided the original work is properly cited, a link to the licence is given,         young people: A systematic review. Aust N Z J Psychiatry
+and indication of whether changes were made. See: https://creativecommons.org/​                2023;57:1223–42.
+                                                                                            20 Sheriff RJS, Adams H, Riga E, et al. Use of Online Cultural Content
+licenses/by/4.0/.                                                                              for Mental Health and Wellbeing. BJPsych Bull 2021.
+                                                                                            21 Geraee N, Eslami AA, Soltani R. The relationship between family
+ORCID iDs                                                                                      social capital, social media use and life satisfaction in adolescents.
+Rebecca Syed Sheriff https://orcid.org/0000-0002-5934-6722                                     Health Promot Perspect 2019;9:307–13.
+Rohit Shankar https://orcid.org/0000-0002-1183-6933                                         22 Castillo de Mesa J, Gómez-­Jacinto L, López Peláez A, et al. Social
+Roisin Mooney https://orcid.org/0000-0001-5792-3314                                            Networking Sites and Youth Transition: The Use of Facebook and
+Lili Z Nagy https://orcid.org/0009-0000-1937-8335                                              Personal Well-­Being of Social Work Young Graduates. Front Psychol
+Roger Farrell https://orcid.org/0000-0002-8485-7559                                            2020;11:230.
+Daisy Fancourt https://orcid.org/0000-0002-6952-334X                                        23 Syed Sheriff RJ, Vuorre M, Riga E, et al. A co-­produced online
+                                                                                               cultural experience compared to a typical museum website for
+Scott Weich https://orcid.org/0000-0002-7552-7697
+                                                                                               mental health in people aged 16-­24: A proof-­of-­principle randomised
+Joe Langley https://orcid.org/0000-0002-9770-8720                                              controlled trial. Aust N Z J Psychiatry 2023;57:745–57.
+Kamaldeep Bhui https://orcid.org/0000-0002-9205-2144                                        24 Oxford University’s Gardens LaM. O-­ACE project - optimising online
+                                                                                               cultural content for mental health. Secondary O-­ACE project -
+                                                                                               optimising online cultural content for mental health 2021, Available:
+                                                                                               https://www.youtube.com/watch?v=4gT5YJdKGI0
+                                                                                            25 Camic PM, Chatterjee HJ. Museums and art galleries as partners for
+REFERENCES                                                                                     public health interventions. Perspect Public Health 2013;133:66–71.
+    1 Knapp M, Ardino V, Brimblecombe N. Report: Youth Mental Health:                       26 Fancourt D, Steptoe A. The art of life and death: 14 year follow-­up
+      New Economic Evidence [Personal Social Services Research Unit].                          analyses of associations between arts engagement and mortality in
+      Children Young People Now 2016;2016:35.                                                  the English Longitudinal Study of Ageing. BMJ 2019;367:l6377.
+
+
+8                                                                                        Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223
+                                                                                                                                      Open access
+
+27 Fancourt D, Finn S. What is the evidence on the role of the arts                36 Fairbrother H, Woodrow N, Crowder M, et al. ‘It All Kind of Links
+   in improving health and well-­being? a scoping review. In: Health                  Really’: Young People’s Perspectives on the Relationship between
+   Evidence Network (HEN) synthesis report 67. Copenhagen: WHO                        Socioeconomic Circumstances and Health. IJERPH 2002;19:3679.
+   Regional Office for Europe, 2019.                                               37 Robards F, Kang M, Luscombe G, et al. Intersectionality: Social
+28 Fancourt D, Aughterson H, Finn S, et al. How leisure activities affect             Marginalisation and Self-­Reported Health Status in Young People. Int
+   health: a narrative review and multi-­level theoretical framework of               J Environ Res Public Health 2020;17:8104.
+   mechanisms of action. Lancet Psychiatry 2021;8:329–39.                          38 Oexle N, Corrigan PW. Understanding Mental Illness Stigma Toward
+29 Callinan J, Coyne I. Arts-­based interventions to promote transition               Persons With Multiple Stigmatized Conditions: Implications of
+   outcomes for young people with long-­term conditions: A review.                    Intersectionality Theory. Psychiatr Serv 2018;69:587–9.
+   Chronic Illn 2020;16:23–40.                                                     39 American Psychiatric Association. Diagnostic and statistical manual
+30 Syed Sheriff RJ, Sinclair E, Young J, et al. Co-­design of “Ways of                of mental disorders: DSM-­5. Washington, DC: American Psychiatric
+   Being”, a web-­based experience to optimise online arts and culture                Publishing, 2013.
+   for mental health in young people. BJPsych Bull 2024;49:1–8.                    40 Kessler RC, Andrews G, Colpe LJ, et al. Short screening scales
+31 Oxford University’s Gardens LaM. O-­ACE Ways of Being -
+                                                                                      to monitor population prevalences and trends in non-­specific
+   walkthrough Secondary O-­ACE Ways of Being - walkthrough 2021,
+                                                                                      psychological distress. Psychol Med 2002;32:959–76.
+   Available: https://www.youtube.com/watch?v=mQLFL4Tm-v8
+                                                                                   41 Andrews G, Slade T. Interpreting scores on the Kessler
+32 Research Priorities for Children and Young People’s Mental Health:
+                                                                                      Psychological Distress Scale (K10). Aust N Z J Public Health
+   Interventions and Services, Available: https://www.jla.nihr.ac.uk/​
+   media/4716/download                                                                2001;25:494–7.
+33 Skivington K, Matthews L, Simpson SA, et al. A new framework                    42 Perini SJ, Slade T, Andrews G. Generic effectiveness measures:
+   for developing and evaluating complex interventions: update                        sensitivity to symptom change in anxiety disorders. J Affect Disord
+   of Medical Research Council guidance. Int J Nurs Stud                              2006;90:123–30.
+   2024;154:S0020-­7489(24)00017-­8.                                               43 Cabassa LJ, Nicasio A, Whitley R. Picturing recovery: a photovoice
+34 Lewis B, Schaefer L, Lessard S, et al. “Nothing Is Gonna Change If                 exploration of recovery dimensions among people with serious
+   We Don’t Care for Everyone”: A Narrative Inquiry Alongside Urban                   mental illness. Psychiatr Serv 2013;64:837–42.
+   Indigenous Youth in an Afterschool Physical Activity Wellness                   44 Hergenrather KC, Rhodes SD, Cowan CA, et al. Photovoice as
+   Program. Front Sports Act Living 2022;4:822547.                                    community-­based participatory research: a qualitative review. Am J
+35 Abrams JA, Tabaac A, Jung S, et al. Considerations for employing                   Health Behav 2009;33:686–98.
+   intersectionality in qualitative health research. Soc Sci Med                   45 Pope C, Ziebland S, Mays N. Qualitative research in health care.
+   2020;258:113138.                                                                   Analysing qualitative data. BMJ 2000;320:114–6.
+
+
+
+
+Syed Sheriff R, et al. BMJ Open 2025;15:e098223. doi:10.1136/bmjopen-2024-098223                                                                         9
+

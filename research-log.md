@@ -24,6 +24,14 @@ Capture: the public LJMU HTML, response headers, and 835×500 hero image are pre
 
 Decision: record the announced programme structure—paired university/city leaders, monthly meetings, and planned midpoint/closing sessions—as first-party project context. The launch page does not name Arday, so it is not used to infer either his inclusion or exclusion; the later 17 November 2022 report remains the direct source for his reported keynote.
 
+# 2026-08-08 — SRC-606/C-806–C-807: Oxford Research Archive protocol manifestation
+
+Discovery: an Oxford-domain search for a direct Oxford affiliation record surfaced the Oxford Research Archive item for the already-canonical 2025 BMJ Open narrative-inquiry protocol.
+
+Capture: the ORA HTML record, response headers, public 524.2 KB version-of-record PDF, PDF headers, extracted text, and rendered pages 1 and 8 are preserved under `assets/captures/2026-08-08-oxford-ora-underrepresented-protocol/`.
+
+Decision: add the ORA route as scholarly repository provenance, not a new article. The PDF’s affiliation topology places Arday at Cambridge’s Faculty of Education (superscript 3; printed p. 8), while Oxford affiliations belong to other authors and Oxford is the study sponsor. This materially narrows the interpretation of the LJMU report’s Oxford phrase but does not independently prove it was an error. Preserve the wording conflict and reopen only through a direct appointment record, changed ORA version, or project document specifying Arday’s role.
+
 # 2026-08-08 — SRC-596/C-793: LJMU bicentenary profile route recheck
 
 Discovery: the previously catalogued LJMU bicentenary profile URL was selected as a current institutional-status and source-version follow-up.

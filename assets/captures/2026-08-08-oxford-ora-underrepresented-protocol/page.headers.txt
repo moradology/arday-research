@@ -1,0 +1,25 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 10:58:41 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+vary: Accept
+strict-transport-security: max-age=15768000; includeSubDomains
+referrer-policy: strict-origin-when-cross-origin
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+x-request-id: eea57bef-4a7c-43c6-b01b-d77ea885c614
+link: </assets/application-4ac11faec6c499bef9dbe1b66c45e36067ec008e36d28a5763dcded4750c91bc.css>; rel=preload; as=style; nopush,<https://use.fontawesome.com/releases/v5.14.0/css/all.css>; rel=preload; as=style; nopush,</assets/application-4d0391328098f415349189269230e714918f09e301692ce9427873a249f8daca.js>; rel=preload; as=script; nopush
+x-download-options: noopen
+x-runtime: 0.669016
+x-frame-options: DENY
+x-content-type-options: nosniff
+content-security-policy: default-src 'self' metrics-api.dimensions.ai stats.addtoany.com badge.dimensions.ai *.google-analytics.com www.gstatic.com *.google.com maps.googleapis.com cdnjs.cloudflare.com; font-src 'self' data: fonts.gstatic.com use.fontawesome.com cdnjs.cloudflare.com cdn.jsdelivr.net; frame-ancestors 'self' www.google.com; frame-src 'self' www.google.com static.addtoany.com; img-src 'self' https: data:; script-src 'self' 'unsafe-eval' api.altmetric.com static.addtoany.com badge.dimensions.ai cdnjs.cloudflare.com static.cloudflareinsights.com *.cloudfront.net www.google.com www.gstatic.com maps.googleapis.com *.google-analytics.com *.googletagmanager.com cdn.jsdelivr.net 'nonce-o6lq4z0nR5yqFYJ/68fdK69Ukpd+M2fN+9n+modORgw=' 'unsafe-inline'; script-src-attr 'unsafe-hashes' 'sha256-47mKTaMaEn1L3m5DAz9muidMqw636xxw7EFAK/YnPdg='; style-src 'self' 'unsafe-inline' *.cloudfront.net fonts.googleapis.com use.fontawesome.com www.gstatic.com badge.dimensions.ai
+x-powered-by: Phusion Passenger(R) 6.1.2
+set-cookie: _orapublic_session_id=312e3f45d644f72df557bdbf95307b6d; path=/; expires=Sun, 09 Aug 2026 10:58:41 GMT; secure; httponly; SameSite=Lax;HttpOnly;Secure
+speculation-rules: "/cdn-cgi/speculation"
+status: 200 OK
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+cf-cache-status: DYNAMIC
+cf-ray: a27e01da6e6ab5fc-OMA
+
