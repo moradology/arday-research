@@ -2860,3 +2860,11 @@ Lead: current search indexing exposed a Faculty of Education profile on the migr
 Capture: the direct profile route redirected to the Faculty home page. The migrated “Our people” route returned HTTP 200 but contained no exact Jason Arday occurrence. Both response bodies and headers are preserved. The indexed profile was treated as a separate stale/index manifestation, not as a substitute for the direct response.
 
 Decision: added SRC-576/C-751 as a current route/version boundary linked to SRC-208 and SRC-574. It strengthens the indexed/live mismatch and preserves the profile’s role wording as a source-version, but it does not establish resignation consequences, current employment, or the reason for the route change.
+
+## 2026-08-08 — SRC-577/C-752 Memon–Arday methods-passage correspondence
+
+Lead: the earlier methods-lineage audit identified a broad shared qualitative-method sequence but left sentence-level comparison as future work.
+
+Capture: Memon (2016) PDF p. 2 and Arday (2018) PDF p. 10 were compared directly. Page renders were added to `assets/captures/2026-08-08-memon-arday-methods/pages/`.
+
+Decision: added SRC-577/C-752 for the ordered questionnaire / facilitator / recording / verbatim-transcription / notes / flipchart / participant-view correspondence. The record is stronger than a generic methods similarity observation, but keeps copying, authorship, intent, permission, plagiarism, fraud, and institutional findings unresolved.
