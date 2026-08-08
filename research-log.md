@@ -1,5 +1,21 @@
 # Research log
 
+# 2026-08-08 — SRC-093: Cambridge investigation-statement recheck
+
+Discovery: the official Cambridge notice was rechecked during the formal-outcome search. It remains publicly reachable and reports “Last updated: 07 Aug 2026.” The substantive wording remains unchanged: Cambridge’s investigation concerns new information about qualifications and honorary appointments; ongoing academic-misconduct complaints remain under its policy; and Jesus College is taking its own steps.
+
+Capture: preserved the current HTML and headers under `assets/captures/2026-08-08-cambridge-statement-recheck/`. No formal finding, timetable, report, or further primary outcome was exposed.
+
+Decision: keep the investigation and any alleged underlying conduct unresolved. Treat the official page as process evidence only; do not infer an outcome from the unchanged notice or from resignation.
+
+# 2026-08-08 — SRC-595/C-792: Simon & Schuster Canada memoir route
+
+Discovery: a fresh publisher search surfaced Simon & Schuster Canada’s locale-specific route for *Great and Unfortunate Things*, ISBN `9781668085578`. Search indexing exposed the title, 37 Ink imprint, 11 August 2026 timing, 288-page metadata, and publisher synopsis.
+
+Capture: the direct URL returned HTTP 403; the response HTML and headers are preserved under `assets/captures/2026-08-08-simon-schuster-canada-memoir/`. No page body, excerpt, image, audiobook, or full-text asset was recovered.
+
+Decision: preserve this as an access-state/source-version record linked to the canonical memoir family. Do not create a second edition node or treat publisher synopsis as independent biography evidence.
+
 # 2026-08-08 — SRC-429/C-489–C-490: Open University Awan thesis access-state recheck
 
 Discovery: a current search-index result exposed the exact Open Research Online PDF URL previously recorded as a Cloudflare-bound lead. A direct recheck still returned a 6,212-byte Cloudflare challenge HTML response rather than the thesis PDF.
