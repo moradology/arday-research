@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh report-recovery checkpoint: SRC-633/C-867–C-868 — BERA’s January 2023 78-page staff-equality report and its linked HESA data tables are now locally preserved. It is a distinct collaborative report, not a duplicate of the later Belluigi/Arday/O’Keeffe journal article. Reopen only for a materially different BERA version, correction, or project artifact; do not treat its sector-level findings as personal biography evidence.
+
 Archive-integrity checkpoint: the 8 August audit repaired two concrete defects: TEDx media links now resolve to the captured directory, and the MMU keynote registry alias was consolidated to its declared canonical ID SRC-058. Future audits should still distinguish intentional legacy multi-source index aliases from newer source records that lack front-matter IDs.
 
 Focused search-boundary checkpoint: the 8 August institutional/media search returned only already-catalogued Newcastle, Glasgow, Oxford, Ruling Passions, Channel 4, and White Rose records plus homonyms. Reopen only for a changed page or distinct media/publication artifact; do not repeat the same query set unchanged.

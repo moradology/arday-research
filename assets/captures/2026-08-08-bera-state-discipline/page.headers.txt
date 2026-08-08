@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:36:44 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+vary: Accept-Encoding
+vary: Accept-Encoding,User-Agent
+cache-provider: CLOUDWAYS-CACHE-DE
+last-modified: Sat, 08 Aug 2026 11:23:01 GMT
+cache-control: max-age=172800
+expires: Mon, 10 Aug 2026 14:36:43 GMT
+age: 0
+x-cache: MISS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SPoLGvMTKR1UKSFbtWHJQEf%2FlZKM1Bn8N469oj3nVayvsTZeqRAMAT5I%2FF0Qg1Yiz%2B33LeW%2Fjh4jgORl0uwr8NLF3vhNrlGBubcKK66C1G2haAuwP7qaXUDeDWGJaA15og%3D%3D"}]}
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a27f4144dd0f764a-OMA
+alt-svc: h3=":443"; ma=86400
+

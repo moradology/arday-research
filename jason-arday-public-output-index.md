@@ -161,6 +161,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [The Black PhD Experience foreword](sources/2025-01-08-black-phd-experience-foreword.md) — 2024 foreword by Jason Arday and Wayne A. Mitchell; alternate platform identifiers are deduplicated in one record.
 - [The Black Professoriate local article capture](sources/2022-black-professoriate.md) — six-page CC BY PDF and Glasgow/Pedocs records preserved locally.
 - [Mental-health staff encyclopedia edition audit](sources/2020-2022-mental-health-staff-encyclopedia-editions.md) — 2020 and 2022 Springer chapter manifestations with distinct DOI/pagination.
+- [BERA *Education: The State of the Discipline* report](sources/2023-01-11-bera-state-discipline-staff-equality.md) — January 2023, 78-page report by Dina Zoe Belluigi, Jason Arday, and Joanne O’Keeffe analyzing HESA staff-equality data; official PDF and underlying XLSX data tables preserved locally.
 
 ## 6. Scholarly publications and article-level records
 

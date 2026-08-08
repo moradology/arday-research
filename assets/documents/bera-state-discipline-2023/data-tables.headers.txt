@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:36:46 GMT
+content-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+server: cloudflare
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+cf-edge-cache: cache,platform=wordpress
+robots: none
+content-description: File Transfer
+content-disposition: inline; filename="BERA_State-of-the-Discipline-Staff-equality_data-tables.xlsx"
+content-transfer-encoding: binary
+set-cookie: PHPSESSID=lddplehgg2miet26ecpjorr33v; path=/
+vary: Accept-Encoding,User-Agent
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YCfHqnrSo3oHIjNuORe2d7TlJaKEJyI0YvwIhcbKbboa%2BthvzuciaxgHDp6u8DhJ5Wrj8%2B%2BpMZD3LNMjDt25ISWtMZsD4HBNs2PEL1BntY5DwN7xaMzscm38PwYYjhCU0Q%3D%3D"}]}
+cf-ray: a27f4154bfd1d8ce-OMA
+alt-svc: h3=":443"; ma=86400
+

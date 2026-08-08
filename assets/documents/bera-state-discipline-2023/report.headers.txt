@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:36:45 GMT
+content-type: application/pdf
+server: cloudflare
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+cf-edge-cache: cache,platform=wordpress
+robots: none
+content-description: File Transfer
+content-disposition: inline; filename="BERA_State-of-the-Discipline-Staff-equality_digital.pdf"
+content-transfer-encoding: binary
+set-cookie: PHPSESSID=hdh1n8lo8u25fn00ei14q72820; path=/
+vary: Accept-Encoding,User-Agent
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=79up9uKDvh9aoV%2B5UQFcw2G9TwVky93IO7PeV4vJsmr3rYZXl3m21M5%2Fu8F3wAtVKmYvviOEZ6UOrgn8TKsLQI%2B9G6KINpH3zGzf%2BTtN%2Btubu%2BdElODxExK1qLlLi2EWWQ%3D%3D"}]}
+cf-ray: a27f414a0ee5d843-OMA
+alt-svc: h3=":443"; ma=86400
+

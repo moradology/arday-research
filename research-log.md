@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-633/C-867–C-868: BERA staff-equality report recovered
+
+Discovery: a BERA report-page search surfaced a distinct public research output not present in the canonical output index: *Education: The State of the Discipline: An exploration of existing statistical data relating to staff equality in UK higher education*.
+
+Capture: the official BERA page, 78-page PDF, extracted text, response headers, and linked XLSX data tables are preserved under `assets/captures/2026-08-08-bera-state-discipline/` and `assets/documents/bera-state-discipline-2023/`. The report names Dina Zoe Belluigi as principal investigator and Jason Arday and Joanne O’Keeffe as authors, and gives a January 2023 publication date.
+
+Decision: added SRC-633 and C-867–C-868 as a distinct first-party report and underlying-data artifact. The report analyzes HESA staff data from 2015–16 through 2019–20 and is kept separate from the later journal article with overlapping themes. Its findings are attributed to the report and are not converted into personal claims about Arday.
+
 ## 2026-08-08 — SRC-106/C-866: BME-participation publisher and full-text manifestation recheck
 
 Discovery: a focused exact-title/DOI search surfaced Cambridge Core’s public article record and ResearchGate’s public full-text manifestation, while confirming that the Liverpool Repository record remains indexed as an accepted-manuscript lead.
