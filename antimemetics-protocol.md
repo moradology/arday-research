@@ -2,8 +2,6 @@
 
 This workspace uses “antimemetics” in the research-method sense: preserve the things most likely to be forgotten, omitted, overwritten, or rediscovered without context. The reference is to qntm’s *There Is No Antimemetics Division* and the SCP antimemetics tradition.
 
-This is not a claim that Jason Arday or any source is anomalous. It is a protocol for epistemic hygiene.
-
 ## Epistemic machinery in the source text
 
 An LLM does not retain the whole archive or the whole conversation. It works from a bounded, changing context assembled from retrieved fragments. These principles make that limitation explicit and turn it into a design constraint: preserve provenance, externalize state, separate observation from inference, and make every conclusion recoverable.
