@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 08:48:40 GMT
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.friendsofeurope.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.friendsofeurope.org/?p=4345>; rel=shortlink
+X-Rocket-Nginx-Serving-Static: No
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 43444
+

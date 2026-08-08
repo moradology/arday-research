@@ -2884,3 +2884,11 @@ Discovery: the Oxford GLAM ORIGIN page appeared in current search results with a
 Capture: the live page was preserved as a changed HTML/header version. The eight-page February 2026 newsletter PDF was downloaded from Oxford’s public site, with headers, extracted text, and a first-page render. It reports six work-package streams and planned papers, co-design, trial, and economic-review activity.
 
 Decision: upgraded the existing SRC-316 record and added C-754 rather than creating a duplicate ORIGIN entity. The current page continues to list Arday on the project team, but the newsletter contains no Arday-specific name or contribution. It is retained as project-output context, not individual authorship or employment evidence.
+
+## 2026-08-08 — SRC-579/C-755 Friends of Europe EYL40 profile
+
+Discovery: the Friends of Europe European Young Leaders page surfaced a dedicated Jason Arday profile not previously represented in the registry.
+
+Capture: the current EYL40 page and its 1062×1083 profile portrait were downloaded from the organization’s public site. The page identifies Arday as a 2024 European Young Leader and publishes a short biography with a “over £5 million” fundraising formulation.
+
+Decision: added SRC-579/C-755 as a recognition/profile source. The recognition is a distinct institutional edge; the role, Cambridge, Runnymede, and fundraising statements remain host-published source-version wording and are not upgraded into independent legal, employment, or accounting evidence.
