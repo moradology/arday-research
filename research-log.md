@@ -2648,3 +2648,11 @@ Discovery: a distinct Forbes article by Julie Kratz was found under the title �
 Capture: preserved the HTTP 200 HTML page, response headers, and its 960×640 generic industrial-pipeline lead image. Page metadata identifies the author, publication/update dates, section, and article ID; the embedded article data exposes the account’s discussion of Arday, Chantelle Lewis, their book, neuroinclusion, and two short quotations attributed to Arday.
 
 Decision: added SRC-554/C-716–C-717 as a secondary journalism/interview source. It is not counted as a new audio/video item or independent corroboration of the quotations. The lead image is retained as an article asset, not as a portrait. Reopen only for a changed page, correction, direct interview artifact, or independently recorded version.
+
+## 2026-08-08 — SRC-555/C-718–C-719 UKCGE project-deck capture
+
+Discovery: a UKCGE-hosted conference PDF surfaced in a search for distinct postgraduate-research and EDI outputs. The deck is titled “New perspectives to improve fairness and equity in PGR assessment criteria” and is dated for the 3 November 2023 UKCGE EDI-in-PGR conference.
+
+Capture: preserved the 51-page PDF, layout-preserving text extraction, response headers, and a render of PDF page 39. That page credits Professor Jason Arday with developing the “Close the Gap” bid and separately names the project sponsor and manager.
+
+Decision: added SRC-555/C-718–C-719 as a first-party, bounded project-role record. It is not counted as a new Arday-authored publication or as evidence that the proposed admissions reforms were funded, delivered, or evaluated. Reopen only for the underlying bid, funding/award record, project page, final report, or changed host artifact.
