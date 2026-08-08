@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-879/C-880: *Libero Quotidiano* international commentary
+
+Discovery: a date-qualified search for new international-language Arday coverage surfaced Giovanni Longoni’s 29 July 2026 Italian commentary in *Libero Quotidiano*.
+
+Capture: search indexing exposed the title, byline, date, and article text. The direct AMP route returned a 483-byte HTTP 403 permission response; its HTML and headers are preserved. No article image or full publisher body was recovered.
+
+Decision: added SRC-879/C-880 as a distinct international propagation witness. The article’s rhetoric, numerical claims, and references to the thesis-overlap and biography controversy remain attributed and derivative; no allegation was upgraded to a finding. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-878/C-879: Ruling Passions migrated host and Amazon Music manifestation
 
 Discovery: a fresh exact-title search surfaced the project’s migrated `ruling-passions.com` URL and an Amazon Music episode page for “Ruling Passions: 2. A discussion with Jason Arday.”
