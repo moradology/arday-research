@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh secondary interview checkpoint: SRC-554/C-716–C-717 — Forbes’s 5 October 2025 Julie Kratz article reports an interview with Jason Arday and Chantelle Lewis about *We See Things They’ll Never See*, neuroinclusion, compassion, and talent pipelines, and attributes two short remarks to Arday. HTML, headers, and the generic lead image are locally preserved. Treat this as secondary reporting, not a new audio/video item or independent quotation corroboration. Reopen only for a correction, direct interview artifact, or independently recorded version; do not count the generic image as a portrait.
+
 Fresh propagation-witness checkpoint: SRC-551/C-710 — *We Are Out of Office* episode 55 (14 March 2026) locally preserves Apple’s show-note mention of Arday and repeats the delayed-speech/literacy biography. He is not a guest; this adds no independent corroboration or appearance. Reopen only for the linked Instagram post if it exposes a distinct first-party Arday source or a materially changed episode page; do not count this repetition again.
 
 Fresh linked-source checkpoint: SRC-552/C-711 — the linked 14 August 2025 Instagram post by “The Archbishop of Banterbury” and its 640×640 displayed image derivative are locally preserved. It repeats the autism/global-developmental-delay, speech/literacy, and Cambridge-superlative narrative but is external, unsourced, and not an Arday appearance. Do not count it again without a distinct original interview, first-party record, correction, or changed post state.

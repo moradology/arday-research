@@ -1,0 +1,26 @@
+HTTP/2 200 
+cache-control: max-age=86400
+content-type: image/jpeg
+etag: "pAqKDbUVRJg4AWC7VM2qIGhgY9Se2iozoUHOY0E8+qw"
+fastly-io-info: ifsz=469663 idim=4226x2817 ifmt=jpeg ofsz=49956 odim=960x640 ofmt=jpeg
+fastly-io-served-by: vpop-kiad7010214
+fastly-io-transform-stats: ifsz=469663 ofsz=49956 ofmt=jpeg
+fastly-stats: io=1
+server: istio-envoy
+x-envoy-upstream-service-time: 459
+x-fastly-backend: 7bqxA0PyDbnNrZXaqWftme--F_DAM_API_at_GCP
+x-fastly-backend-url: /dam/imageserve/68d194f75e9b3194f8ace8f4/golden-sunset-in-crude-oil-refinery-with-pipeline-system/0x0.jpg
+x-orig-url: /specials-images/imageserve/68d194f75e9b3194f8ace8f4/golden-sunset-in-crude-oil-refinery-with-pipeline-system/0x0.jpg?width=960&dpr=1
+x-url: /dam/imageserve/68d194f75e9b3194f8ace8f4/golden-sunset-in-crude-oil-refinery-with-pipeline-system/0x0.jpg
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Sat, 08 Aug 2026 06:43:41 GMT
+x-served-by: cache-iad-kjyo7100103-IAD, cache-chi-kigq8000048-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786171421.019478,VS0,VE530
+vary: Accept
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 49956
+

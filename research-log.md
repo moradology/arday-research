@@ -2640,3 +2640,11 @@ Capture: preserved the Apple lookup response and extracted episode row, Amazon c
 Evidence handling: updated SRC-186 in place and added C-715 as a platform-manifestation mapping. No duplicate interview, independent biography claim, transcript, or timecoded audio claim was created.
 
 Next boundary: reopen only for a public transcript/caption asset, materially changed enclosure, or distinct interview manifestation.
+
+## 2026-08-08 — SRC-554/C-716–C-717 Forbes interview-account capture
+
+Discovery: a distinct Forbes article by Julie Kratz was found under the title “Don’t Let The Zeitgeist Slow Down Your Talent Pipeline.”
+
+Capture: preserved the HTTP 200 HTML page, response headers, and its 960×640 generic industrial-pipeline lead image. Page metadata identifies the author, publication/update dates, section, and article ID; the embedded article data exposes the account’s discussion of Arday, Chantelle Lewis, their book, neuroinclusion, and two short quotations attributed to Arday.
+
+Decision: added SRC-554/C-716–C-717 as a secondary journalism/interview source. It is not counted as a new audio/video item or independent corroboration of the quotations. The lead image is retained as an article asset, not as a portrait. Reopen only for a changed page, correction, direct interview artifact, or independently recorded version.

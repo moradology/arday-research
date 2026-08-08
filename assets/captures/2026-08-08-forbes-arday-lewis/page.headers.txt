@@ -1,0 +1,46 @@
+HTTP/2 200 
+cache-control: public, max-age=1800
+content-type: text/html; charset=utf-8
+server: istio-envoy
+x-envoy-upstream-service-time: 649
+x-malcolm: A
+x-user-eligible-for-hwhw: true
+backend: dnsresolver
+x-backend: simple-site-prod
+x-yourttl: 1800.000
+x-cicero-cache: MISS
+x-fastly-backend: 24YyrkkiTBhSwXWzJgvwW6--F_GCP_Cicero_Varnish
+x-fastly-x-is-us-dpa: false
+x-fastly-x-is-opt-in-jurisdiction: false
+x-fastly-x-is-strict-us-dpa: false
+x-fastly-x-is-us: true
+fastly-restarts: 1
+x-fastlyttl: 86400.000
+accept-ranges: bytes
+age: 0
+date: Sat, 08 Aug 2026 06:42:22 GMT
+via: 1.1 varnish
+x-served-by: cache-chi-kigq8000063-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1786171342.062073,VS0,VS0,VE770
+vary: X-Country-Code, Accept-Encoding, X-is-US-DPA, X-is-US, X-Device, canary, X-Is-Ad-Light, is-vwo-enabled, X-is-OPT-IN-JURISDICTION, X-is-STRICT-US-DPA, x-malcolm, x-malcolm, X-is-US-DPA, X-is-OPT-IN-JURISDICTION, X-is-STRICT-US-DPA, X-is-US, X-Device, x-backend, canary, X-Is-Ad-Light, is-vwo-enabled
+x-datadome: protected
+set-cookie: datadome=QmKc~rArXtTE4EaMPcGCrCHivJ9w5t3eRE3DEQCiFaGrGuZs11iz03QebZpB54is7~ZM2fsTe1xHUdDWX~xNI4i4d0QbyzJTwjPOnli2_t_DZ_ssSfr1YDPjjaNnprPI; Max-Age=31536000; Domain=.forbes.com; Path=/; Secure; SameSite=None
+x-country-code: US
+x-postal-code: 67672
+x-region: KS
+x-city-code: wakeeney
+permissions-policy: unload=()
+x-frame-options: SAMEORIGIN
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+access-control-allow-credentials: true
+x-device: doge
+set-cookie: VWO=75.200; Max-Age=34560000; Path=/;
+is-vwo-enabled: false
+state: MISS-CLUSTER
+referrer-policy: strict-origin-when-cross-origin
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 1297174
+

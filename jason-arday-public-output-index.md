@@ -64,6 +64,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 - [The Guardian: “Jason Arday: he learned to talk at 11 and read at 18…”](https://www.theguardian.com/society/2023/jul/11/jason-arday-cambridge-university-youngest-black-professor) — long-form 2023 profile and interview.
 - [Global Player: *Full Disclosure with James O’Brien*](https://www.globalplayer.com/podcasts/episodes/7DrfQkN/) — 20 April 2023, approximately 67 minutes; biography, perseverance, community, and education.
+- [Forbes: “Don’t Let The Zeitgeist Slow Down Your Talent Pipeline”](sources/2025-10-05-forbes-arday-lewis-talent-pipeline.md) — 5 October 2025 written interview account by Julie Kratz with Arday and Chantelle Lewis about *We See Things They’ll Never See*, neuroinclusion, compassion, and workplace talent pipelines; no audio or video recovered.
 - [Portrait of a Londoner podcast](https://www.listennotes.com/podcasts/portrait-of-a/jason-arday-on-racial-m_6kAtKTQZb/) — 18 September 2020; racial inequality in higher education, Runnymede Trust, childhood, and autism.
 - [ARU Podcast: “Race Equality Advocates — A Conversation with Professor Jason Arday”](https://podbay.fm/p/aru-podcast) — 2022 discussion of allyship and challenging racism.
 - [Lives Retold transcript](https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives%2Bretold%2Barday%2Bjason.pdf) — transcript/archival text of his 2021 BBC Radio 4 Lent Talk, “A Crucial Interview.”
