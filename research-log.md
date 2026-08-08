@@ -8,6 +8,8 @@ Capture: the public HTML, response headers, and Getty police-car image are local
 
 Classification: this is a quoted institutional response mediated through *THE*, not a standalone police document. It materially strengthens the process record about the police handling while leaving the complaint file, legal classification, complainant identity, and full chronology unresolved. Google Drive was not updated; GitHub remains the active publication target.
 
+Boundary check: an exact-name search restricted to the Metropolitan Police’s public domain returned no matching Arday/Grove statement or case record. Unrelated locality and generic misconduct results were excluded. The official-domain route is therefore logged as currently unresolved/inaccessible rather than interpreted as a substantive absence.
+
 ## 2026-08-08 — SRC-883/C-885–C-886 and SRC-884/C-887–C-888: *Times Higher Education* process artifacts
 
 Discovery: direct retrieval of the two *Times Higher Education* opinion URLs linked from the public controversy discussion returned HTTP 200 pages that were not yet represented in the registry: editor Chris Havergal’s 3 August note and reporter Jack Grove’s 5 August first-person account.

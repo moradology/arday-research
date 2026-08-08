@@ -26,6 +26,8 @@ Tom Williams’s 6 August 2026 *Times Higher Education* report says the Metropol
 
 The article connects this report to Grove’s account of being contacted by police while investigating allegations about Jason Arday’s thesis. The Met wording is a quoted institutional response mediated through *THE*; no standalone police statement, incident log, complaint file, or decision record was recovered here.
 
+A bounded exact-name search of the Metropolitan Police’s indexed public domain on 8 August 2026 returned no matching Arday/Grove statement or case record. The results were unrelated locality and generic misconduct pages. This closes that obvious public-index route for the current state; it does not establish that no internal, unindexed, withdrawn, or FOI-accessible record exists.
+
 ## Evidence boundary
 
 This source establishes that *THE* published the quoted Met response and records the force’s reported process position. It does not independently establish the complainant’s identity, the full complaint, the legal classification of the allegations, or the complete chronology. The absence of an offence finding in this report concerns the police inquiry described, not the academic-integrity allegations.
