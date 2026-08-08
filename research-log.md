@@ -3192,3 +3192,11 @@ Discovery: a distinct public *The Week* analysis published 7 August 2026 mapped 
 Capture: preserved the complete public HTML, extracted text, response headers, and the 2000×1125 lead image.
 
 Decision: catalogued it as a source-propagation witness. Its “officially cleared” wording is retained as an attributed lead only; the underlying decision/report was not present in the article and no adjudicative claim was promoted.
+
+## 2026-08-08 — SRC-614/C-828–C-829: LJMU neurodiversity media boundary
+
+Discovery: an indexed LJMU result named an Arday SoundCloud extract, “Harvest for the World: Neurodiversity and Inclusivity in Higher Education.”
+
+Capture: fetched the current LJMU neurodiversity resource page and headers. The direct HTML lists other SoundCloud extracts but omits Arday and the title; no direct audio endpoint was recoverable.
+
+Decision: recorded an indexed/live mismatch and a bounded media lead. The snippet is not treated as a recording, transcript, date, or delivery witness.
