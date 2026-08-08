@@ -3364,3 +3364,10 @@ Discovery: a fresh `ytsearch30:Jason Arday` boundary returned Channel 4 News vid
 Capture: preserved yt-dlp metadata, 360p video and audio streams merged into a 12:32.12 MP4, English original captions, and the 1280×720 thumbnail. The caption map records report segments at 00:47–01:18, 01:20–01:38, and 03:38–04:00.
 
 Decision: created a distinct broadcast-video source record, separate from Channel 4’s 2023 interview. Claims remain classified as attributed reporting; no institutional finding or truth claim was inferred. The broader YouTube search returned many additional controversy videos; their IDs are retained in the research context, and future work should deduplicate against existing news records before downloading more binaries.
+## 2026-08-08 — SRC-624/C-851–C-852: LBC Arday story video recovered
+
+Discovery: the fresh YouTube search boundary returned LBC video `D3xzh6uja_w`, which was not represented by an existing local video ID and is distinct from Channel 4’s report.
+
+Capture: preserved LBC metadata, English original captions, a 360p video/audio merge, and the 1280×720 thumbnail. The video runs 22:54.12 and was uploaded on 8 August 2026.
+
+Decision: catalogued the video as a broadcaster commentary/reporting manifestation. Its strong evaluative language and captioned claims remain attributed to LBC or named speakers; no underlying allegation or institutional outcome was promoted to fact.
