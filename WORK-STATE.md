@@ -1,5 +1,7 @@
 # Work state
 
+Latest complete-derivative checkpoint: on 2026-08-08 `SRC-031/C-949` created and promoted a 79,874,586-byte AAC derivative of the complete 42:07.72 UCL “Learning to Fly” keynote. The 248M parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no presentation-content claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-263/C-948` created and promoted three AAC segments covering the complete 2:13:48.25 Cambridge “Black Men On The Couch” recording. The 287,422,026-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived panel claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-271/C-947` created and promoted a 28,036,644-byte AAC derivative of the complete 56:40.01 UCU “Decolonising our institutions” webinar. The 187,205,146-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived speaker or role claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-031/C-949 — the complete 42:07.72 UCL “Learning to Fly” keynote is now available as a 79,874,586-byte AAC derivative on GitHub. The 248M parent MP4 remains local-only; the derivative is a review copy, not a transcript, and the slide deck remains the separate authored presentation artifact.
+
 Fresh complete-derivative checkpoint: SRC-263/C-948 — the complete 2:13:48.25 Cambridge “Black Men On The Couch” recording is now available as three AAC review segments on GitHub (00:00–60:00.07, 60:00–120:00.04, and 120:00–2:13:48.23). The 287,422,026-byte parent MP4 remains local-only; captions and panel remarks remain unverified.
 
 Fresh complete-derivative checkpoint: SRC-271/C-947 — the complete 56:40.01 UCU “Decolonising our institutions” webinar is now available as a 28,036,644-byte AAC derivative on GitHub. The 187,205,146-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and automatic-caption speaker/role attribution remains unverified.

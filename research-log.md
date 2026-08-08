@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-031/C-949: complete UCL keynote audio derivative created
+
+Archive action: converted the 248M parent MP4 to a complete 79,874,586-byte AAC `.m4a` derivative. The derivative runs 42:07.72, passed `afinfo` duration/format inspection and an FFmpeg decode validation, and has SHA-256 `b324d06a25ea7da36cbfd9aedd5be05cf1e8e71b6dd597eb2702e172811a4d03`.
+
+Decision: added C-949 as an archive-integrity observation. This closes the GitHub handoff gap for the complete keynote while retaining the parent MP4 as the visual integrity anchor. The derivative is not a transcript or independent validation of the slide deck’s propositions. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-263/C-948: complete Cambridge panel audio segmented for GitHub
 
 Archive action: converted the 287,422,026-byte parent MP4 into three complete AAC `.m4a` segments: 58,236,791 bytes for 00:00–60:00.07, 58,236,089 bytes for 60:00–120:00.04, and 13,398,480 bytes for 120:00–2:13:48.23. Their SHA-256 values are `c7f1bff2774454a7d45259769985740a502c39e74c2791450cab815e8c690eef`, `f00427eea9dcfc3c15b780e631da19c5d4ee13ee549374665db9a8e8b93d81b4`, and `a6dcedeeacf1a66144c0affae0b66852a07c58d887f065cae5eb8469a6d552f4`; each passed an FFmpeg decode validation.
