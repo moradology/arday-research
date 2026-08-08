@@ -9,7 +9,7 @@ id: SRC-161
 - **Event date:** 22 June 2021
 - **Type:** institutional event page with embedded recording
 - **Player URL:** `https://myplayer.aru.ac.uk/player?autostart=n&videoId=312Fb8E6&captions=y&chapterId=0`
-- **Local asset:** [official page snapshot](../assets/documents/aru-annual-conference-2021-page-2026-08-06.html)
+- **Local assets:** [official page snapshot](../assets/documents/aru-annual-conference-2021-page-2026-08-06.html) · [2026-08-08 player recheck](../assets/captures/2026-08-08-aru-annual-conference-recheck/recheck.md)
 
 ## What is established
 
@@ -17,4 +17,4 @@ ARU’s official Annual Conference 2021 page identifies Dr Jason Arday as the gu
 
 ## Access boundary
 
-The ARU page was retrievable on 2026-08-06, but repeated direct requests to `myplayer.aru.ac.uk` for the embedded player timed out before returning a player document or media manifest. No MP4, HLS stream, caption file, or transcript is claimed locally. This is a verified event/page record and an unresolved recording lead, distinct from the locally preserved 2025 ARU Unlearn video.
+The ARU page was retrievable on 2026-08-06. A dated 8 August recheck again sent a browser-user-agent request to the exact player URL, but the host timed out after 25 seconds before returning headers or a player document. No MP4, HLS stream, caption file, or transcript is claimed locally. This is a verified event/page record and an unresolved recording lead, distinct from the locally preserved 2025 ARU Unlearn video; the timeout does not establish deletion or nonexistence.

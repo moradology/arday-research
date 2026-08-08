@@ -3269,6 +3269,14 @@ Capture: current yt-dlp metadata reports the video as public, uploaded 8 Novembe
 
 Decision: upgraded SRC-572 without creating a second event record. The binary is catalogued as a short conference montage/summary, not silently promoted to a recording of Arday’s full keynote. A longer video, manual visual/timecode review, or captions remain open.
 
+## 2026-08-08 — SRC-161/C-841: ARU keynote player timeout recheck
+
+Discovery: ARU’s 2021 Annual Conference page remains the canonical institutional lead for Arday’s anti-racism keynote and embeds player ID `312Fb8E6`.
+
+Capture: reissued a browser-user-agent request to the exact player URL with a 25-second timeout. The host returned no headers or body before the connection timed out; the command result and a dated recheck note are preserved. No media manifest, MP4, HLS stream, captions, or transcript was recovered.
+
+Decision: retained SRC-161 and added C-841 as an access-state update, not a new event. The timeout is not interpreted as deletion, nonexistence, or a recording outcome. Reopen only after a changed endpoint or lawful alternate artifact.
+
 ## 2026-08-08 — SRC-223/C-838: New Humanist audio recovered through podcast feed
 
 Discovery: the existing New Humanist *With Reason* transcript record was rechecked against the show’s public Buzzsprout RSS feed. The feed’s episode item identifies the 15 December 2020 Jason Arday episode and exposes a public MP3 enclosure.
