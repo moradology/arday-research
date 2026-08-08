@@ -1755,6 +1755,12 @@ Discovery: exact-name searches for Jason Arday video interviews, podcasts, 2025 
 
 Decision: no new media node, video ID, audio binary, transcript, or claim was created. Reopen only for a distinct recording/transcript, changed media endpoint, or concrete uncatalogued event artifact; do not repeat this exact media query family unchanged.
 
+# 2026-08-08 — Legal/governance-register search boundary
+
+Discovery: current exact-name searches across Companies House and the Charity Commission returned the already-catalogued Runnymede termination, First Star resignation, Autism Centre of Excellence active directorship, Crosstown Traffic appointment, BSA governance, and Adult Literacy Trust patron records. No changed officer, trustee, appointment, resignation, confirmation statement, accounts filing, or direct governance explanation was exposed.
+
+Decision: no new legal source node or role claim was created. Reopen only for a changed filing-history state, new filed document, direct charity governance record, or explicit role-end explanation; do not repeat this exact register search family unchanged.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
