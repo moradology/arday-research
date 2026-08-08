@@ -3200,3 +3200,11 @@ Discovery: an indexed LJMU result named an Arday SoundCloud extract, “Harvest 
 Capture: fetched the current LJMU neurodiversity resource page and headers. The direct HTML lists other SoundCloud extracts but omits Arday and the title; no direct audio endpoint was recoverable.
 
 Decision: recorded an indexed/live mismatch and a bounded media lead. The snippet is not treated as a recording, transcript, date, or delivery witness.
+
+## 2026-08-08 — SRC-615/C-830–C-832: Telegraph student-supervision report
+
+Discovery: the Reddit link for “Arday’s students think Cambridge failed them” exposed the canonical Telegraph URL and an Archive.today replay.
+
+Capture: the browser-rendered replay exposed the article headline, standfirst, authors, date, and substantive reporting; a local screenshot preserves the visible article header/lead image. Direct Telegraph retrieval returned HTTP 403. Shell retrieval of the archive returned a CAPTCHA wrapper, so it is retained as an access boundary rather than article text.
+
+Decision: added the report as a distinct source. Student complaints, grade effects, appeals, legal routes, and fee-refund demands remain attributed and unresolved; no student identity or confidential case detail was inferred.

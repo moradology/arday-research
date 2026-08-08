@@ -1,0 +1,8 @@
+HTTP/2 429
+server: nginx
+date: Sat, 08 Aug 2026 11:52:48 GMT
+content-type: text/html
+content-length: 55491
+set-cookie: qki=531765585612221744; Max-Age=3600; Domain=.archive.ph; Path=/
+referrer-policy: no-referrer
+access-control-allow-origin: *

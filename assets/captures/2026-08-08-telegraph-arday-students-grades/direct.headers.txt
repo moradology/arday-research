@@ -1,0 +1,13 @@
+HTTP/2 403
+server: AkamaiGHost
+mime-version: 1.0
+content-type: text/html
+content-length: 494
+expires: Sat, 08 Aug 2026 11:53:03 GMT
+date: Sat, 08 Aug 2026 11:53:03 GMT
+akamai-x-true-cache-ttl: -1
+x-tmg-geo-action: US_ON_NON_HP
+x-akamai-userlocation: US
+x-tmg-pref-exists: false
+x-esi-exe: true
+x-app-overriden-by-path-including-homepage: true

@@ -1,0 +1,13 @@
+HTTP/2 200
+server: nginx
+date: Sat, 08 Aug 2026 11:53:04 GMT
+content-type: image/png
+content-length: 549922
+onion-location: http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/yzKtR/4fcf08264586f2a5c6a4e5b2db15a2d04eeee6aa/scr.png
+access-control-allow-origin: *
+etag: 4fcf082-6458-6f2a5c6a
+last-modified: Sat, 08 Aug 2026 03:48:04 GMT
+cache-control: maxage=3600
+expires: Sat, 08 Aug 2026 12:53:04 GMT
+set-cookie: qki=17553888732528352915; Max-Age=3600; Domain=.archive.ph; Path=/
+accept-ranges: bytes
