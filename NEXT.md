@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh page-state checkpoint: SRC-157 — ARU’s current “Unlearn” page was rechecked on 8 August 2026. It remains live, links YouTube `LOZW-J1hcd4`, and preserves the same 2 April 2025 event description; the HTML is byte-distinct from the 6 August capture. No new recording, captions, or substantive claim was found. Reopen only for a changed video state, caption/transcript asset, or distinct event artifact; do not create a duplicate event node.
+
 Fresh recovered-audio checkpoint: SRC-199/C-116 — the 2 January 2024 Surviving Society E188 episode now has a locally preserved 46:19.07 HLS AAC manifestation, current SoundCloud track HTML/headers, metadata, and artwork. Reopen for manual listening/transcription or a distinct transcript/caption/video manifestation; do not repeat the earlier 401 progressive-route test.
 
 Fresh recovered-audio checkpoint: SRC-197/C-114 — the 23 April 2019 Surviving Society episode “Growing up Black in the 90s” now has a locally preserved 1:11:45.64 HLS AAC manifestation, current SoundCloud track HTML/headers, metadata, and artwork. Reopen for manual listening/transcription or a distinct transcript/caption/video manifestation; do not repeat the same 401 progressive-route test.

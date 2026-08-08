@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-157: ARU Unlearn page rechecked
+
+Recheck: the current Anglia Ruskin “Unlearn” page still links the already-catalogued 2 April 2025 Jason Arday Lightbulb recording, YouTube ID `LOZW-J1hcd4`, and the same host description of neurodiversity, race, and education. The current page is byte-distinct from the 6 August capture; no new event, recording, caption track, or substantive claim was found.
+
+Decision: preserved the current page and response headers as a source-version recheck under SRC-157. No duplicate event node or new claim was created.
+
 ## 2026-08-08 — SRC-199/C-116: Surviving Society E188 audio recovered
 
 Discovery: a fresh recheck of the already catalogued 2 January 2024 “Jason Arday & Chantelle Jessica Lewis: Surviving Society (then and now)” SoundCloud page exposed current hydration metadata with public HLS AAC and MP3 transcodings, despite the earlier direct progressive route returning HTTP 401.
