@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official Guardian *Today in Focus* episode audio (`SRC-514/C-887`) was validated against the existing source note and added to the GitHub archive. The 37:44 MP3 is now remotely committed alongside the page, RSS, image, headers, and bounded machine-assisted listening notes; no new allegation or finding was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the official WNYC/GBH *The Takeaway* audio for the 20 March 2023 episode (`SRC-275/C-886`) was validated against the canonical source note and added to the GitHub archive. The 15:56.13 MP3 and response headers are now remotely committed alongside the page/transcript capture; no new substantive audio claims were added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest binary-preservation checkpoint: on 2026-08-08 the official BBC *A Good Read* audio for the 21 November 2023 episode (`SRC-061/C-885`) was validated against the existing metadata and added to the GitHub archive. The 28:05.39 MP3 is local and remotely committed; no transcript or substantive audio claims were added. Google Drive was not updated; GitHub remains the active publication target.

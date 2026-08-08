@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-514/C-887 — the Guardian’s official 37:44 *Today in Focus* MP3 is now committed to GitHub alongside its page, RSS, image, headers, and bounded machine-assisted listening notes. Reopen for a human-verified listening/transcription pass or a changed Guardian episode state; do not treat the machine notes as verbatim or as adjudication.
+
 Fresh binary-preservation checkpoint: SRC-275/C-886 — the official 15:56.13 WNYC/GBH *The Takeaway* MP3 is now committed to GitHub alongside the first-party page and transcript. The transcript remains a navigation aid because WNYC warns it may be revised; no transcript-level claim was added. Reopen only for a timecoded listening pass, a changed WNYC endpoint, or a new source record; do not repeat the existing transcript extraction.
 
 Fresh binary-preservation checkpoint: SRC-061/C-885 — the official 28:05.39 BBC *A Good Read* MP3 is now committed to GitHub alongside its programme-page snapshot. Reopen only for a transcript/caption artifact, a changed BBC endpoint, or a timecoded listening pass; do not infer remarks from the file’s existence or metadata.

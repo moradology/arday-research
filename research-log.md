@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-514/C-887: Guardian *Today in Focus* binary promoted to GitHub
+
+Audit: the canonical Guardian episode record already contained the page, RSS item, lead image, headers, and bounded machine-assisted listening notes, but the 37:44 episode MP3 remained only in the working tree.
+
+Capture decision: validated the 55,310,858-byte first-party enclosure against the source record and committed the MP3. No new detailed audio claim was promoted; machine-assisted notes remain navigation material pending human verification of quotations, speaker attribution, and timecodes.
+
 ## 2026-08-08 — SRC-275/C-886: WNYC *The Takeaway* binary promoted to GitHub
 
 Audit: the canonical WNYC source note already pointed to a first-party 15:56.13 MP3, but the audio binary and its response headers were present only in the working tree.
