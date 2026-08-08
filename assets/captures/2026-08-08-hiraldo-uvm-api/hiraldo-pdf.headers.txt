@@ -1,0 +1,22 @@
+HTTP/2 200 
+strict-transport-security: max-age=63072000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+content-language: en
+last-modified: Mon, 24 Nov 2025 13:04:45 GMT
+etag: "a24b378a7cc8a048fda552ccda5a655f"
+accept-ranges: bytes
+expires: Sat, 08 Aug 2026 09:14:27 GMT
+cache-control: private,no-cache
+access-control-expose-headers: Accept-Ranges
+content-disposition: inline;filename="Hiraldo.pdf_dl_1"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-frame-options: DENY
+content-type: application/octet-stream;charset=UTF-8
+date: Sat, 08 Aug 2026 08:14:27 GMT
+server: Apache
+

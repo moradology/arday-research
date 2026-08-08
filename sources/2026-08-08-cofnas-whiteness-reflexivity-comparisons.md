@@ -25,7 +25,7 @@ The image therefore shows substantial phrase-level and structural correspondence
 
 Cofnas’s second image labels Arday (2018), p. 142, beside Hiraldo (2010), pp. 53–54. The excerpt shares the broad sequence about critical race theory as an analytical framework for assessing inequity in education, its use to analyse and critique educational research and practice, CRT’s role in uncovering taken-for-granted assumptions, and its relevance to diversity/inclusion in higher education. The image’s own note says there is a reference to Hiraldo (2010) and does not characterize the excerpt as verbatim copying.
 
-This is materially weaker than the displayed Rollock comparison: the cited source is acknowledged, and the image alone does not establish whether the passage is ordinary attributed paraphrase, insufficiently marked adaptation, or something more serious. The UVM landing page and a public search-indexed copy identify Hiraldo’s 2010 article; no adjudication is inferred.
+This is materially weaker than the displayed Rollock comparison: the cited source is acknowledged, and the image alone does not establish whether the passage is ordinary attributed paraphrase, insufficiently marked adaptation, or something more serious. The UVM landing route initially captured only an application shell, but its DSpace API search later recovered Hiraldo’s exact 2010 item and public seven-page PDF. [SRC-575](2026-08-08-hiraldo-2010-primary-text.md) confirms that the displayed comparator text is printed on pp. 53–54; no adjudication is inferred.
 
 ## Preservation and boundaries
 
@@ -34,6 +34,7 @@ This is materially weaker than the displayed Rollock comparison: the cited sourc
 - [Rollock comparator publisher response](../assets/documents/research-integrity/arday-2018-whiteness/rollock-2012-comparator-landing.html) — SHA-256 `763bfc61210cbe02e8fc55af5113fe7d0b41ccc2c1190e7db0c1984e35ba0b71`
 - [Rollock title-level candidate response](../assets/documents/research-integrity/arday-2018-whiteness/rollock-2012-candidate-landing.html) — SHA-256 `f8a2a8379f346378690155d8cf8aaf1ce9f3c2633079bfea6201b881f613019c`
 - [Hiraldo UVM landing capture](../assets/documents/research-integrity/arday-2018-whiteness/hiraldo-2010-landing.html) — SHA-256 `62cb11389c2325f0ac2df2d33552d0195f09b947a3a93e3345af12011d1041f1`
+- [Hiraldo primary-text recovery](2026-08-08-hiraldo-2010-primary-text.md) — SRC-575; public UVM ScholarWorks PDF and API preservation
 - [Rollock volume/issue page capture](../assets/documents/research-integrity/arday-2018-whiteness/rollock-volume25-issue5-toc.html) — SHA-256 `2cb09358920c4431d7f9b8cf748b2c4bf567dd682295424745f921ee34894245`
 - [ResearchGate access-state capture](../assets/documents/research-integrity/arday-2018-whiteness/rollock-researchgate-access-state.html) — SHA-256 `3950390300566352fc2b9e2cf12474c52be28b979cbb0eae513987626e547b10`
 

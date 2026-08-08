@@ -1,0 +1,142 @@
+{
+  "id" : "7f2799c2-3016-4c94-bea1-a9e160ba06c4",
+  "uuid" : "7f2799c2-3016-4c94-bea1-a9e160ba06c4",
+  "name" : "The Role of Critical Race Theory in Higher Education",
+  "handle" : "20.500.14849/9482",
+  "metadata" : {
+    "dc.contributor.author" : [ {
+      "value" : "Hiraldo, Payne",
+      "language" : null,
+      "authority" : null,
+      "confidence" : 0,
+      "place" : 0
+    } ],
+    "dc.date" : [ {
+      "value" : "2025-11-24T09:50:57.468",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2025-11-24T13:04:44Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.issued" : [ {
+      "value" : "1/1/2010T07",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.publication" : [ {
+      "value" : "2010-01-01T00:00:00-08:00",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description.abstract" : [ {
+      "value" : "Despite the substantial impact race has in generating inequities in society and educational institutions, race continues to be untheorized (Ladson-Billings & Tate, 1995). Critical race theory (CRT) is an analytical framework that stems from the field of critical legal studies that addresses the racial inequities in society. This article provides an analysis of CRT in the context of diversity and inclusivity in higher education. In addition, this article also draws from the work and research done by critical race theorists who support the use of CRT in education reform and research.",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "https://hdl.handle.net/20.500.14849/9482",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "Higher Education Administration",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.title" : [ {
+      "value" : "The Role of Critical Race Theory in Higher Education",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "article",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "digcom.identifier" : [ {
+      "value" : "tvc/vol31/iss1/7",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "digcom.type" : [ {
+      "value" : "tvc",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2026-05-15T15:42:07.956+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/bundles"
+    },
+    "identifiers" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/relationships"
+    },
+    "version" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/thumbnail"
+    },
+    "citations" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/citations"
+    },
+    "accessConditionsOptions" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessConditionsOptions"
+    },
+    "accessConditions" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessConditions"
+    },
+    "self" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4"
+    },
+    "atmireAvsConfig" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/item/7f2799c2-3016-4c94-bea1-a9e160ba06c4/atmireavsconfig"
+    }
+  }
+}

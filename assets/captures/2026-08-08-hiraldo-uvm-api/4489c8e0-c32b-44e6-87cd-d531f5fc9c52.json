@@ -1,0 +1,80 @@
+{
+  "_embedded" : {
+    "bitstreams" : [ {
+      "id" : "f953c4d4-38a7-4b83-b059-9fa27d8a228a",
+      "uuid" : "f953c4d4-38a7-4b83-b059-9fa27d8a228a",
+      "name" : "Hiraldo.pdf_dl_1",
+      "handle" : null,
+      "metadata" : {
+        "atmire.filter-media.last-processed" : [ {
+          "value" : "2026/08/04 14:12:53",
+          "language" : "",
+          "authority" : null,
+          "confidence" : -1,
+          "place" : 0
+        } ],
+        "dc.title" : [ {
+          "value" : "Hiraldo.pdf_dl_1",
+          "language" : null,
+          "authority" : null,
+          "confidence" : -1,
+          "place" : 0
+        } ]
+      },
+      "bundleName" : "ORIGINAL",
+      "sizeBytes" : 447174,
+      "checkSum" : {
+        "checkSumAlgorithm" : "MD5",
+        "value" : "a24b378a7cc8a048fda552ccda5a655f"
+      },
+      "sequenceId" : 3,
+      "type" : "bitstream",
+      "_links" : {
+        "content" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/content"
+        },
+        "bundle" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/bundle"
+        },
+        "format" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/format"
+        },
+        "thumbnail" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/thumbnail"
+        },
+        "accessConditionsOptions" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/accessConditionsOptions"
+        },
+        "accessConditions" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/accessConditions"
+        },
+        "requestAccessOption" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/requestAccessOption"
+        },
+        "requestAccess" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/requestAccess"
+        },
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a"
+        },
+        "atmireAvsConfig" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstream/f953c4d4-38a7-4b83-b059-9fa27d8a228a/atmireavsconfig"
+        },
+        "atmireAvsConversion" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/core/bitstreams/f953c4d4-38a7-4b83-b059-9fa27d8a228a/atmireavsconversion"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/core/bundles/4489c8e0-c32b-44e6-87cd-d531f5fc9c52/bitstreams"
+    }
+  },
+  "page" : {
+    "number" : 0,
+    "size" : 20,
+    "totalPages" : 1,
+    "totalElements" : 1
+  }
+}

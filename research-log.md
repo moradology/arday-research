@@ -2832,3 +2832,11 @@ Lead: search indexing continued to expose an Arday-associated Faculty of Educati
 Capture: the alternate `educ.cam.ac.uk/people/members/` directory returned HTTP 200; its full HTML and headers were preserved. No exact Arday name, username, or sociology-of-education title occurred in the body.
 
 Decision: added SRC-574/C-749 as a bounded current directory observation. It strengthens the documented indexed/live mismatch but does not establish resignation consequences, current employment, or the reason for omission.
+
+## 2026-08-08 — SRC-575/C-750 Hiraldo primary-text recovery
+
+Lead: Cofnas’s preserved Arday/Hiraldo comparison image identified Hiraldo (2010), pp. 53–54, but the earlier UVM landing capture was only a repository application shell.
+
+Capture: a DSpace search API query recovered the exact UVM ScholarWorks item, its metadata and bundle records, and a public seven-page PDF. The PDF and extracted text are preserved locally with response headers and SHA-256. Printed pp. 53–54 confirm the CRT passage sequence displayed in the comparison image.
+
+Decision: added SRC-575/C-750 as a primary comparator recovery linked to SRC-424. This strengthens the source-side textual audit while leaving the Arday full-text context, ordinary paraphrase versus deficient attribution, intent, and any institutional finding unresolved. The earlier landing capture is not treated as the primary article body.

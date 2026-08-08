@@ -1,0 +1,1717 @@
+{
+  "id" : null,
+  "scope" : null,
+  "query" : "Hiraldo",
+  "appliedFilters" : null,
+  "sort" : null,
+  "configuration" : null,
+  "type" : "discover",
+  "_links" : {
+    "self" : {
+      "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM"
+    }
+  },
+  "_embedded" : {
+    "searchResult" : {
+      "_embedded" : {
+        "objects" : [ {
+          "hitHighlights" : {
+            "dc.contributor.author" : [ "<em>Hiraldo</em>, Payne" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "7f2799c2-3016-4c94-bea1-a9e160ba06c4",
+              "uuid" : "7f2799c2-3016-4c94-bea1-a9e160ba06c4",
+              "name" : "The Role of Critical Race Theory in Higher Education",
+              "handle" : "20.500.14849/9482",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Hiraldo, Payne",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:50:57.468",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T13:04:44Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1/1/2010T07",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.publication" : [ {
+                  "value" : "2010-01-01T00:00:00-08:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Despite the substantial impact race has in generating inequities in society and educational institutions, race continues to be untheorized (Ladson-Billings & Tate, 1995). Critical race theory (CRT) is an analytical framework that stems from the field of critical legal studies that addresses the racial inequities in society. This article provides an analysis of CRT in the context of diversity and inclusivity in higher education. In addition, this article also draws from the work and research done by critical race theorists who support the use of CRT in education reform and research.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/9482",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Higher Education Administration",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "The Role of Critical Race Theory in Higher Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "tvc/vol31/iss1/7",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "tvc",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-15T15:42:07.956+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/7f2799c2-3016-4c94-bea1-a9e160ba06c4"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/7f2799c2-3016-4c94-bea1-a9e160ba06c4/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.contributor.author" : [ "<em>Hiraldo</em>, Payne" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "5608a372-c434-406e-9ba1-5c7754a90d37",
+              "uuid" : "5608a372-c434-406e-9ba1-5c7754a90d37",
+              "name" : "Future Scenario: Praxis in Critical Race Theory in Higher Education and Student Affairs",
+              "handle" : "20.500.14849/9633",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Hiraldo, Payne",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:50:58.608",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T13:05:57Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2019-05-06T00:00:00-07:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1/1/2019T19",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.publication" : [ {
+                  "value" : "2019-01-01T00:00:00-08:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Critical Race Theory (CRT) evolved as a response to the lack of change in racial disparities within the United States jurisprudence. This article provides a historical understanding of CRT, beginning with a synopsis of the tenets that form part of CRT. The article will then give an understanding of what leadership style supports the implementation of CRT. Finally, it will provide the reader with strategies to apply CRT in the work environment through self-work, intercultural competence and restorative practices.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/9633",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Higher Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Future Scenario: Praxis in Critical Race Theory in Higher Education and Student Affairs",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "tvc/vol40/iss1/19",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "tvc",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-15T15:43:45.339+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/5608a372-c434-406e-9ba1-5c7754a90d37"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/5608a372-c434-406e-9ba1-5c7754a90d37/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4",
+              "uuid" : "46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4",
+              "name" : "Belonging while Black: Examining Belonging in the Digital Age",
+              "handle" : "20.500.14849/9983",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Smith, Carlton",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2026-04-20T16:11:22Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2026-04-20T16:11:22Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "4/24/2026T16",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/9983",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Belonging while Black: Examining Belonging in the Digital Age",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-08T15:16:23.894+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/46d7289e-ddf1-459e-a26d-bd0fa8e8d0f4/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "8728d6b3-07da-4ec2-a0e3-f49ebb57db04",
+              "uuid" : "8728d6b3-07da-4ec2-a0e3-f49ebb57db04",
+              "name" : "Reimagining and Renewing Professional Identity Development for Black Women",
+              "handle" : "20.500.14849/9986",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Dissassa, Di-Tu",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Clarke, Ashley",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2026-04-20T16:11:49Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2026-04-20T16:11:49Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "4/24/2026T09",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.orcid" : [ {
+                  "value" : "https://orcid.org/0000-0003-1258-7104",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "https://orcid.org/0000-0003-2346-6818",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/9986",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Reimagining and Renewing Professional Identity Development for Black Women",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-08T15:16:24.923+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/8728d6b3-07da-4ec2-a0e3-f49ebb57db04"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/8728d6b3-07da-4ec2-a0e3-f49ebb57db04/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "181c7fc3-e180-4edc-a45e-22e097922cf0",
+              "uuid" : "181c7fc3-e180-4edc-a45e-22e097922cf0",
+              "name" : "Power Within. I'm New to Putting Me First",
+              "handle" : "20.500.14849/9649",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Williams, Dr. Michael R",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:50:58.720",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T13:06:04Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2020-02-25T00:00:00-08:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1/1/2020T13",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "I’m kinda in this new space where my space is my space and I don’t care about nobody but me, only me (Samoht, 2019,0:56). In a field that exists at the exigency of civil policymakers, tranquil institutional borders, and the revolving demand for connected- ness, I’m new to putting me first. No one is below me, but I understand the need for integrated clarity—valuing the basic needs of my existence in the workplace. In this article, I outline how social media, Hip-Hop, and non-violence communication strategies enabled me to protect my space and reduce burnout as a scholar-practitioner.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/9649",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "BlackCrit",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Burnout",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Hip-Hop Pedagogy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Higher Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Power Within. I'm New to Putting Me First",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "tvc/vol41/iss1/13",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "tvc",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-15T15:43:46.690+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/181c7fc3-e180-4edc-a45e-22e097922cf0"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/181c7fc3-e180-4edc-a45e-22e097922cf0/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "a7ec29bf-3981-4974-8283-3a3da9c1198b",
+              "uuid" : "a7ec29bf-3981-4974-8283-3a3da9c1198b",
+              "name" : "Bird Dispersal as a Pre-Adaptation for Domestication in Legumes: Insights for Neo-Domestication",
+              "handle" : "20.500.14849/284",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Brǿnnvik, Hester",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                }, {
+                  "value" : "von Wettberg, Eric J.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 1
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:49:34.623",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T10:21:15Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2019-10-15",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.publication" : [ {
+                  "value" : "2019-10-15T00:00:00-07:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.citation" : [ {
+                  "value" : "Bronvik H, Von Wettberg EJ. Bird dispersal as a pre-adaptation for domestication in legumes: insights for neo-domestication. Frontiers in plant science. 2019;10:1293.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.doi" : [ {
+                  "value" : "10.3389/fpls.2019.01293",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/284",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "© 2019 by the authors.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "http://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.source" : [ {
+                  "value" : "Frontiers in Plant Science",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Sustainable Agriculture",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Resilient Communities",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "bird dispersal",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "domestication syndrome",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "legumes (fabaceae)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "natural history",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "neodomestication",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "preadaptation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "seed dispersal",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "Agriculture",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                }, {
+                  "value" : "Community Health",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 10
+                }, {
+                  "value" : "Human Ecology",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 11
+                }, {
+                  "value" : "Nature and Society Relations",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 12
+                }, {
+                  "value" : "Place and Environment",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 13
+                }, {
+                  "value" : "Sustainability",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 14
+                } ],
+                "dc.title" : [ {
+                  "value" : "Bird Dispersal as a Pre-Adaptation for Domestication in Legumes: Insights for Neo-Domestication",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "calsfac/90",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "calsfac",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-12-07T05:53:45.681+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/a7ec29bf-3981-4974-8283-3a3da9c1198b"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/a7ec29bf-3981-4974-8283-3a3da9c1198b/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "fc33cbd9-a0fe-4dd3-961b-edf00fff411f",
+              "uuid" : "fc33cbd9-a0fe-4dd3-961b-edf00fff411f",
+              "name" : "Restorative Supervision: Experiences of Mid and Senior-Level Professionals in Using Restorative Practices as Supervisors in Residential Life",
+              "handle" : "20.500.14849/3121",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Jason C. Garvey",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Lisa J. Schnell",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Howard, Brandin",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:49:57.051",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T11:27:35Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2022-03-20T00:00:00-07:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2020-01-01",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.publication" : [ {
+                  "value" : "2020-01-01T00:00:00-08:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Student affairs professionals often enter their first supervisory positions with little to no training on how to effectively supervise others (Calhoun & Nasser, 2012; Shupp & Arminio, 2012). As professionals advance to mid- and senior-level positions, they often inherit direct and indirect supervisory responsibilities over multiple levels of staff of which they must attend to the performance, development, and morale. How student affairs professionals supervise and build supervisory relationships is essential to the success of departments and can significantly impact the development, morale, and retention of student affairs professionals (Bolman & Deal, 2013; Davis & Cooper, 2017; Winston & Creamer, 1997). The goal of this three-article qualitative case-study dissertation was to understand how residential life staff experienced using restorative practices (RP) as part of their supervision style and the influence of RP on their supervision skill development. This study also explored the potential connections between restorative practices-based supervision and Winston and Creamer’s (1997) synergistic supervision framework. Study findings indicate the potential of RP to support supervision by providing a framework for proactively building supervisory relationships, fostering two-way communication, holding staff accountable and managing conflict, as well as balance their staff’s emotions and feedback with the accomplishment of organizational goals. Findings also highlight several connections between the use of RP in a supervisory context and the synergistic supervision framework. Finally, the findings of this study highlighted several influences on the development of supervision competencies. These competencies included their communication skills, ability to hold staff accountable, self-reflection of their supervisory approaches, and increased emotional self-awareness and intelligence. This dissertation also outlines several implications for practice for administrators and staff considering incorporating RP into its organizational framework as well as recommendations for future research.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.degree" : [ {
+                  "value" : "Doctor of Philosophy (PhD)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.department" : [ {
+                  "value" : "Educational Leadership and Policy Studies",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/3121",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Residential Life",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Restorative Practices",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Supervision",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Synergistic Supervision",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Higher Education Administration",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                } ],
+                "dc.title" : [ {
+                  "value" : "Restorative Supervision: Experiences of Mid and Senior-Level Professionals in Using Restorative Practices as Supervisors in Residential Life",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "dissertation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "graddis/1203",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "graddis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-12-10T06:24:23.859+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/fc33cbd9-a0fe-4dd3-961b-edf00fff411f"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/fc33cbd9-a0fe-4dd3-961b-edf00fff411f/atmireavsconfig"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "6305e545-a262-4713-ac2b-288e9a094ef1",
+              "uuid" : "6305e545-a262-4713-ac2b-288e9a094ef1",
+              "name" : "Examining Efficacy of K-12 School Principals: An Analysis of the 2020-2021 National Teacher and Principal Survey",
+              "handle" : "20.500.14849/4029",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Rebecca Callahan",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Desrochers, Monica",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date" : [ {
+                  "value" : "2025-11-24T09:50:04.410",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-11-24T11:50:58Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2026-05-09T00:00:00-07:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2025-01-01",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.publication" : [ {
+                  "value" : "2025-01-01T00:00:00-08:00",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "School principalship matters. With 10% of K-12 public school principals resigning in 2020-2021, we require a nuanced understanding of principalship's systemic and individual dynamics. Teachers' perceptions of their principal may inform how they evaluate efficacy. While many education reform policies emphasize principals' roles, my quantitative study examines factors shaping teachers’ perceptions of principal efficacy. Using QuantCrit and intersectionality frameworks, I apply multilevel linear models (MLM) with the 2020-2021 National Teacher and Principal Survey (NTPS) to investigate how principals' identity and the frequency with which they enact instructional leadership relate to teachers' perceptions of their efficacy. My findings reveal that principals’ frequency of instructional leadership did not significantly influence teachers' perceptions of their principal's efficacy. However, principal race significantly influenced teachers' perceptions of their efficacy even after controlling for school-level, principal-level and teacher-level characteristics. Ultimately, teachers serving under principals of Color, mainly Black, Asian, and American Indian principals, reported lower perceptions of their principals’ efficacy. Further, teachers in schools with higher shares of students in poverty, students with disabilities and students of the racial/ethnic minority, as well as teachers in middle and high schools, reported lower perceptions of principal efficacy. My study highlights evidence that a principal’s race and school context are associated with teachers' perceptions of their efficacy.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.degree" : [ {
+                  "value" : "Doctor of Education (EdD)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.department" : [ {
+                  "value" : "Educational Leadership and Policy Studies",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/20.500.14849/4029",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "educational leadership",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "instructional leadership",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "k-12 schools",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "multilevel modeling",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "National Teacher and Principal Survey",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "principal efficacy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Educational Administration and Supervision",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Educational Leadership",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Education Policy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                } ],
+                "dc.title" : [ {
+                  "value" : "Examining Efficacy of K-12 School Principals: An Analysis of the 2020-2021 National Teacher and Principal Survey",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "dissertation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "digcom.identifier" : [ {
+                  "value" : "graddis/2051",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "digcom.type" : [ {
+                  "value" : "graddis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-12-05T06:01:19.828+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/thumbnail"
+                },
+                "citations" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/citations"
+                },
+                "accessConditionsOptions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/accessConditionsOptions"
+                },
+                "accessConditions" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1/accessConditions"
+                },
+                "self" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/items/6305e545-a262-4713-ac2b-288e9a094ef1"
+                },
+                "atmireAvsConfig" : {
+                  "href" : "https://scholarworks.uvm.edu/server/api/core/item/6305e545-a262-4713-ac2b-288e9a094ef1/atmireavsconfig"
+                }
+              }
+            }
+          }
+        } ]
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM"
+        }
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 20,
+        "totalPages" : 1,
+        "totalElements" : 8
+      }
+    },
+    "facets" : [ {
+      "name" : "author",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "minValue" : ", Mirella",
+      "maxValue" : "Øvreås, Lise",
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/author?query=Hiraldo&dsoType=ITEM&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/author?query=Hiraldo&dsoType=ITEM&size=5"
+        }
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Hiraldo, Payne",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.author=Hiraldo,%20Payne,equals"
+            }
+          }
+        }, {
+          "label" : "Brǿnnvik, Hester",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.author=Br%C7%BFnnvik,%20Hester,equals"
+            }
+          }
+        }, {
+          "label" : "Clarke, Ashley",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.author=Clarke,%20Ashley,equals"
+            }
+          }
+        }, {
+          "label" : "Desrochers, Monica",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.author=Desrochers,%20Monica,equals"
+            }
+          }
+        }, {
+          "label" : "Dissassa, Di-Tu",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.author=Dissassa,%20Di-Tu,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "subject",
+      "facetType" : "hierarchical",
+      "facetLimit" : 5,
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/subject?query=Hiraldo&dsoType=ITEM&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/subject?query=Hiraldo&dsoType=ITEM&size=5"
+        }
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Higher Education",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.subject=Higher%20Education,equals"
+            }
+          }
+        }, {
+          "label" : "Higher Education Administration",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.subject=Higher%20Education%20Administration,equals"
+            }
+          }
+        }, {
+          "label" : "Agriculture",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.subject=Agriculture,equals"
+            }
+          }
+        }, {
+          "label" : "bird dispersal",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.subject=bird%20dispersal,equals"
+            }
+          }
+        }, {
+          "label" : "BlackCrit",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.subject=BlackCrit,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "dateIssued",
+      "facetType" : "date",
+      "facetLimit" : 5,
+      "minValue" : "0026-03-10",
+      "maxValue" : "9/11/2013",
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/dateIssued?query=Hiraldo&dsoType=ITEM&size=5"
+        }
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "1640 - 2027",
+          "count" : 3,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.dateIssued=%5B1640%20TO%202027%5D,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "has_content_in_original_bundle",
+      "facetType" : "standard",
+      "facetLimit" : 2,
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/has_content_in_original_bundle?query=Hiraldo&dsoType=ITEM&size=2"
+        }
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 2
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "true",
+          "count" : 8,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarworks.uvm.edu/server/api/discover/search/objects?query=Hiraldo&dsoType=ITEM&f.has_content_in_original_bundle=true,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "entityType",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarworks.uvm.edu/server/api/discover/facets/entityType?query=Hiraldo&dsoType=ITEM"
+        }
+      },
+      "_embedded" : {
+        "values" : [ ]
+      }
+    } ]
+  }
+}
