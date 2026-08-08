@@ -2868,11 +2868,3 @@ Lead: the earlier methods-lineage audit identified a broad shared qualitative-me
 Capture: Memon (2016) PDF p. 2 and Arday (2018) PDF p. 10 were compared directly. Page renders were added to `assets/captures/2026-08-08-memon-arday-methods/pages/`.
 
 Decision: added SRC-577/C-752 for the ordered questionnaire / facilitator / recording / verbatim-transcription / notes / flipchart / participant-view correspondence. The record is stronger than a generic methods similarity observation, but keeps copying, authorship, intent, permission, plagiarism, fraud, and institutional findings unresolved.
-
-## 2026-08-08 — SRC-578/C-753 AMOSSHE conference boundary
-
-Lead: current search surfaced indexed promotion saying Arday would close AMOSSHE’s 1–3 July 2026 National Conference as keynote speaker.
-
-Capture: AMOSSHE’s current programme, confirmed-speakers page, and photography page were fetched directly after the event date. None contains an Arday occurrence or labeled photograph; all HTML and headers are preserved.
-
-Decision: added SRC-578/C-753 as a planned-versus-current-organizer-state record. It does not infer cancellation, non-attendance, or delivery and does not add keynote-content claims.

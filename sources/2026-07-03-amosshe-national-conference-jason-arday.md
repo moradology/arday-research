@@ -25,6 +25,12 @@ assets:
   - ../assets/captures/2026-08-08-amosshe-recheck/programme.headers.txt
   - ../assets/captures/2026-08-08-amosshe-recheck/speakers.html
   - ../assets/captures/2026-08-08-amosshe-recheck/speakers.headers.txt
+  - ../assets/captures/2026-08-08-amosshe-2026/photography.html
+  - ../assets/captures/2026-08-08-amosshe-2026/photography.headers.txt
+  - ../assets/captures/2026-08-08-amosshe-2026/programme.html
+  - ../assets/captures/2026-08-08-amosshe-2026/programme.headers.txt
+  - ../assets/captures/2026-08-08-amosshe-2026/speakers.html
+  - ../assets/captures/2026-08-08-amosshe-2026/speakers.headers.txt
 ---
 
 # AMOSSHE National Conference 2026 — Jason Arday closing keynote
@@ -36,6 +42,10 @@ AMOSSHE’s own conference pages establish the event as a three-day in-person co
 ## Evidence handling
 
 This record verifies an organizer promotion and the conference context. It does not establish that Arday attended or delivered the keynote, and no recording, transcript, presentation deck, or post-event report was recovered in this pass. The discrepancy between the promotion and current programme/speakers pages is preserved rather than resolved by inference.
+
+## 2026-08-08 photography-page recheck
+
+The official photography page was also fetched after the conference date. It exposes galleries for other conference keynotes and presentations but no Arday occurrence or labeled image. This is additional current negative-space evidence attached to SRC-340, not a new event source or proof of non-attendance.
 
 ## Local preservation
 
