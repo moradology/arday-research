@@ -7,8 +7,8 @@ id: SRC-034
 - Source ID: SRC-034
 - Type: podcast interview
 - Date: 2023-04-20
-- Accessed: 2026-08-06
-- Status: verified / audio and page locally preserved / ad-duration discrepancy recorded
+- Accessed: 2026-08-08
+- Status: verified / audio and page locally preserved and committed to GitHub / ad-duration discrepancy recorded
 - Runtime: 1:07:00 (Global Player display)
 - Source: [Global Player episode](https://www.globalplayer.com/podcasts/episodes/7DrfQkN/)
 
@@ -31,7 +31,7 @@ An interview with James O’Brien for Global’s *Full Disclosure*. The episode 
 - [Page snapshot](../assets/documents/full-disclosure-jason-arday-page-2026-08-06.html)
 - [Player API response](../assets/documents/full-disclosure-jason-arday-playable-api-2026-08-06.json)
 - [Episode artwork](../assets/images/full-disclosure-jason-arday.jpg)
-- [Local MP3](../assets/audio/full-disclosure-jason-arday.mp3)
+- [Local MP3](../assets/audio/full-disclosure-jason-arday.mp3) — now included in the GitHub archive
 - [Capture metadata](../assets/metadata/full-disclosure-jason-arday-capture-2026-08-06.md)
 
 The audio remains an interview asset; the page description is host metadata and should not be treated as an independent record of childhood or education.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official Global Player/Captivate audio for the 20 April 2023 *Full Disclosure with James O’Brien* interview (`SRC-034/C-890`) was checksum-validated and added to the GitHub archive. The 67,013,485-byte MP3 and existing page/API/artwork captures are preserved; the ad-related duration discrepancy and no-transcript boundary remain explicit. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the BBC-distributed *Best of Today* episode “What should children learn?” (`SRC-346/C-889`) was checksum-validated and added to the GitHub archive. The 40,197,249-byte MP3, catalogue captures, and artwork are preserved; no segment-level or substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest binary-preservation checkpoint: on 2026-08-08 the official BBC Radio 4 *Moral Maze* “Racial Justice” MP3 (`SRC-060/C-888`) was validated against its capture metadata and added to the GitHub archive. The programme-page snapshot and checksum metadata were already present; no transcript or substantive audio claim was added. Google Drive was not updated; GitHub remains the active publication target.

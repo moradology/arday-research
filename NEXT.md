@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-034/C-890 — the official Global Player/Captivate MP3 for the 20 April 2023 *Full Disclosure with James O’Brien* interview is now committed to GitHub alongside its page, API, artwork, and duration-discrepancy metadata. No transcript was exposed and no substantive claim was added. Reopen only for a transcript, bounded listening pass, or changed player state.
+
 Fresh binary-preservation checkpoint: SRC-346/C-889 — the BBC-distributed 40:09-ish *Best of Today* MP3 for 11 October 2024 is now committed to GitHub alongside its catalogue captures and artwork. The episode names Arday as a contributor, but no segment timecode or transcript has been verified. Reopen only for a reliable transcript, bounded listening pass, or changed BBC/podcast state.
 
 Fresh binary-preservation checkpoint: SRC-060/C-888 — the official 41:00-ish BBC Radio 4 *Moral Maze* “Racial Justice” MP3 is now committed to GitHub alongside its page snapshot and capture metadata. No transcript was exposed and no substantive audio claim was added. Reopen only for a transcript/caption artifact, changed BBC endpoint, or bounded listening pass.

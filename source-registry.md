@@ -37,7 +37,7 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-031 | `sources/2021-03-16-ucl-keynote-media.md` | UCL keynote recording and slides | institutional media | 2026-08-05 | media, publications, timeline |
 | SRC-032 | `sources/2023-pbs-importance-early-intervention.md` | PBS episode | broadcast media | 2026-08-05 | media, biography |
 | SRC-033 | `sources/2023-03-21-abc-profile-video.md` | ABC News video profile | broadcast media | 2026-08-05 | media, biography |
-| SRC-034 | `sources/2023-04-20-global-player-full-disclosure.md` | Global Player podcast | podcast interview | 2026-08-05 | media, biography |
+| SRC-034 | `sources/2023-04-20-global-player-full-disclosure.md` | Global Player *Full Disclosure* podcast; page, player API, artwork, capture metadata, and local MP3 preserved, with the audio now committed to GitHub | podcast interview / local audio manifestation | 2026-08-08 | media, biography, local MP3, duration discrepancy, transcript unresolved |
 | SRC-035 | `sources/2020-09-18-portrait-of-a-londoner.md` | Portrait of a Londoner podcast | podcast interview | 2026-08-05 | media, biography, publications |
 | SRC-036 | `sources/2021-03-20-bbc-lent-talk-transcript.md` | BBC Radio 4 Lent Talk transcript archive; indexed 500-mile Edinburgh–London-in-six-days variant preserved | autobiographical transcript | 2026-08-05 | media, biography, claims, endurance contradiction |
 | SRC-037 | `sources/2018-dismantling-race-higher-education.md` | Springer/Palgrave edited book | edited scholarly book | 2026-08-05 | publications, education |

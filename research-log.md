@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-034/C-890: *Full Disclosure* binary promoted to GitHub
+
+Audit: the canonical Global Player record already contained the page, player API, artwork, and capture metadata, but the complete Captivate MP3 remained only in the working tree.
+
+Capture decision: validated the 67,013,485-byte MP3 checksum (`dd2ef380b6f5a0b528ba0c144bebb4720f1df9327a4438343fc57930619107d9`) against the source record and committed the audio. The page/API/file duration discrepancy remains documented; no transcript-level or substantive biographical claim was promoted.
+
 ## 2026-08-08 — SRC-346/C-889: BBC *Best of Today* binary promoted to GitHub
 
 Audit: the canonical BBC episode record already contained catalogue snapshots, artwork, and a verified checksum for the BBC-distributed MP3, but the 40,197,249-byte audio binary remained only in the working tree.
