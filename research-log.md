@@ -2664,3 +2664,11 @@ Discovery: the *Washington Free Beacon* fundraising investigation linked an arch
 Capture: preserved the 8 April 2021 Wayback HTML and headers, the linked-image 404 response, and the current YouTube page, headers, and thumbnail for video ID `xbSX50Wfz6c`. The YouTube page’s embedded state identifies the video as private and requires sign-in.
 
 Decision: added SRC-556/C-720–C-721. The TEDx page is a dated organizer-bio source version, not independent verification of its biography claims; the video is an access-boundary record, not a recovered recording. Reopen only for a lawful archived video/file, transcript, changed YouTube state, or a primary record for one of the repeated claims.
+
+## 2026-08-08 — SRC-557/C-722–C-723 Going Postal *Question Time* review
+
+Discovery: a search for a possible 2024 *Question Time* appearance located Going Postal’s 23 February review of the 22 February programme. The page lists Arday on a Maidenhead panel with Laura Farris, Stella Creasy, and Camilla Tominey.
+
+Capture: preserved the page and its linked 14:36.93 MP3. The file metadata identifies an iMovie-produced MP3 titled “My Movie 2”; it is treated as the site’s review/narration artifact, not as the BBC broadcast or an Arday recording.
+
+Decision: added SRC-557/C-722–C-723 as a low-provenance appearance lead. The page’s biography is source propagation, and its attributed political remarks remain unverified written reporting. Reopen only for an official BBC episode record, transcript/captions, broadcast audio/video, or independent event corroboration.

@@ -1,0 +1,9 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 06:57:14 GMT
+server: Apache
+vary: Accept-Encoding,Cookie,X-FORWARDED-PROTO
+x-pingback: https://going-postal.com/xmlrpc.php
+link: <https://going-postal.com/wp-json/>; rel="https://api.w.org/", <https://going-postal.com/wp-json/wp/v2/posts/96650>; rel="alternate"; title="JSON"; type="application/json", <https://going-postal.com/?p=96650>; rel=shortlink
+strict-transport-security: max-age=16000000
+content-type: text/html; charset=UTF-8
+
