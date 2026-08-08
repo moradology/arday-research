@@ -259,7 +259,7 @@
 
 | Title | Date | Host | Format | Link | Status |
 |---|---:|---|---|---|---|
-| We Dream the Same Dream: Collective Empowerment in Pedagogy | 2026-06-04 | University of Warwick | post-event keynote video | [Record](sources/2026-06-04-warwick-education-conference-jason-arday.md) · [Warwick highlights](https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/2026-hightlights/) · [Local MP4](assets/captures/2026-warwick-education-conference-jason-arday/arday-session.mp4) · [Local portrait](assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.jpg) | 138,726,243-byte MP4 locally preserved; no human-verified transcript or timecoded claims yet |
+| We Dream the Same Dream: Collective Empowerment in Pedagogy | 2026-06-04 | University of Warwick | post-event keynote video | [Record](sources/2026-06-04-warwick-education-conference-jason-arday.md) · [Warwick highlights](https://warwick.ac.uk/fac/cross_fac/academic-development/education-conference/2026-hightlights/) · [Local MP4](assets/captures/2026-warwick-education-conference-jason-arday/arday-session.mp4) · [Local portrait](assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.jpg) | 138,726,243-byte MP4 locally preserved; advertised caption endpoint returned HTTP 404 on 8 August; no human-verified transcript or timecoded claims yet |
 
 ## SRC-320 *Therapy Today* source-version
 

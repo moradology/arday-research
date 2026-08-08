@@ -2770,3 +2770,9 @@ Lead: the archive audit found that two major Guardian biography records were can
 Capture: both Guardian pages returned usable HTML and headers. The 11 July 2023 childhood profile now has a local page, portrait, and PhD-ceremony photograph; the 23 February 2023 Cambridge-appointment profile now has a local page, headers, and portrait. Image credits and source boundaries remain those of the Guardian pages.
 
 Decision: upgraded the existing SRC-088 and SRC-128 records in place; no duplicate source IDs or new substantive claim rows were created. The pages remain reported interview/profile evidence, not independent medical, school, degree, or employment records.
+
+## 2026-08-08 — SRC-334/C-742 Warwick keynote caption endpoint boundary
+
+The Warwick post-event highlights page advertises an English caption track for Jason Arday’s locally preserved keynote MP4. The relative `1` endpoint was fetched directly; it redirected to a trailing-slash route and returned a 16,637-byte HTTP 404 HTML page. The response body and headers are preserved under a media access-boundary capture.
+
+Decision: the keynote MP4 remains locally available, but no captions, transcript, or timecoded substantive claims are added. The 404 is not evidence that the video itself was removed or that the event did not occur.

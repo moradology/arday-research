@@ -3,8 +3,8 @@ id: SRC-334
 type: post-event conference media
 title: "We Dream the Same Dream: Collective Empowerment in Pedagogy"
 date: 2026-06-04
-accessed: 2026-08-07
-status: earlier official Warwick post-event page and MP4 locally preserved; later live recheck returned HTTP 429
+accessed: 2026-08-08
+status: earlier official Warwick post-event page and MP4 locally preserved; caption-track endpoint recheck returned HTTP 404; later live page recheck returned HTTP 429
 source_kind: university conference page / direct video
 entities:
   - ../entities/jason-arday.md
@@ -18,6 +18,8 @@ assets:
   - ../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/page.headers.txt
   - ../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/highlights.html
   - ../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/highlights.headers.txt
+  - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.html
+  - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.headers.txt
 ---
 
 # Warwick Education Conference 2026 — Jason Arday keynote
@@ -42,12 +44,16 @@ The highlights page exposes a direct MP4 for Arday’s session. The page’s vid
 
 The Warwick highlights page establishes that the university presented the event as post-event material and labels Arday’s session and keynote title. The local MP4 establishes a publicly retrievable video manifestation of that session. The record does not yet contain a human-verified transcript, captions, or extracted substantive claims; those should be added only after listening or a lawful caption file is independently checked.
 
+On 8 August 2026, the relative English caption-track endpoint advertised in the highlights page (`1`) redirected to a trailing-slash route and returned HTTP 404 HTML. No caption file or transcript was recovered; the MP4 remains the controlling media artifact.
+
 ## Changed live-page state
 
 On 7 August 2026, direct rechecks of both the main conference route and the post-event highlights route returned identical HTTP 429 `Too Many Requests` responses from Warwick’s BigIP front end. This is an access/rate-limit boundary, not evidence that the event was removed, cancelled, or did not occur. The earlier captured 200-page responses and locally preserved keynote MP4 remain the controlling artifacts for this record.
 
 - [Main-route recheck body](../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/page.html) and [headers](../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/page.headers.txt) — body SHA-256 `3850dfdbf4489250268b5f0740240a9f4445e7c5c29e1d03aa0c5446808d7507`; headers SHA-256 `fd0768b2b46725466c584acb0ead62f3dbdddf388622304cb79a82d35532c7c9`.
 - [Highlights-route recheck body](../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/highlights.html) and [headers](../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/highlights.headers.txt) — byte-identical body and headers to the main-route recheck.
+- [Caption-track endpoint recheck](../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.html) — 16,637-byte HTTP 404 HTML response; SHA-256 `e5fb383731b1837c8e5d29706fe631d2b7800b8cfb6caf98ff7bf54c87c80a93`.
+- [Caption-track response headers](../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.headers.txt) — SHA-256 `e7ccc146455f0f9f2ae992a21b9303c5369dcdc5227199fcd1208310b8250c42`.
 
 ### Reassembly
 
