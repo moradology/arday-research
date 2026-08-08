@@ -1,5 +1,7 @@
 # Work state
 
+Latest governance-document checkpoint: on 2026-08-08 `SRC-634/C-869` preserved South Bank Colleges’ 20 November 2024 Board minutes. Printed page 4 records the group’s first Honorary Fellowship for Jason Arday at the October 2024 Level 3 and 4 Royal Festival Hall graduation ceremony. This is a distinct institutional corroboration of the existing award record, not a second award; the repeated Cambridge superlative remains host wording. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-581/C-759` preserved the contemporary 19-page BBC Radio 4 listings PDF for *Beyond Lonely*. It confirms the five-episode April 2025 schedule and synopses, including the two episode IDs now returning 404. This is a source-version of `SRC-063`, not a new series or independent biography evidence. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly manifestation checkpoint: on 2026-08-08 `SRC-049/C-758` fetched the German National Library’s public PDF route for *No one can see me cry*. The 24-page file is byte-identical to the accepted manuscript already preserved locally, so the new evidence is an access-path/version-topology confirmation rather than a new publication or independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
