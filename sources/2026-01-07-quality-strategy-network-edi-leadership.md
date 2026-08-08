@@ -5,7 +5,7 @@ title: "The fragile future of EDI demands bold university leadership"
 subject: ../entities/jason-arday.md
 published: 2026-01-07
 accessed: 2026-08-06
-status: Official page captured; article body minimal in local HTML
+status: Official page captured; substantive body recovered from Wonkhe manifestation `SRC-582`
 evidence_class: first-party professional-network commentary and co-authored argument
 urls:
   - https://qualitystrategynetwork.org.uk/the-fragile-future-of-edi-demands-bold-university-leadership/
@@ -25,3 +25,7 @@ The local HTML preserves the page title, date, co-author attribution, subtitle, 
 
 - HTML: SHA-256 `a340b60e9371faf0fde442d0299cd391c2ebee93249bb208ea52b22d988164a4`.
 - Response headers: SHA-256 `b23bebd89998271b19159a95911700976c9ed509af7c4ed414ce3099f98a872d`.
+
+## Full-text manifestation
+
+Wonkhe republishes the same 7 January 2026 commentary with the full article body. It is preserved as [SRC-582](2026-01-07-wonkhe-edi-leadership.md), with separate HTML, extracted text, headers, and images. The original page remains the originating-page record; the Wonkhe copy is the local full-text witness.

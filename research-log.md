@@ -2932,3 +2932,11 @@ Discovery: an indexed Haitian Creole-language Juno7 result repeated the football
 Capture: the direct URL returned HTTP 404; response headers are preserved, but no article HTML, image, or source text was recoverable.
 
 Decision: added the result to the existing sports-record search boundary as a failed lead, not a new source node. It adds no corroboration and does not change the conclusion that no named club, ranking, tournament record, or professional contract has been located.
+
+## 2026-08-08 — SRC-280/SRC-582/C-761 Quality Strategy Network full-text recovery
+
+Discovery: Wonkhe’s page for the same 7 January 2026 Verma/Arday commentary exposed the substantive body that the originating Quality Strategy Network capture did not.
+
+Capture: preserved Wonkhe HTML, extracted text, response headers, the 1456×816 Shutterstock feature image, and the 500×500 Arday author image. The extracted-text derivative is 12,694 bytes.
+
+Decision: added `SRC-582` as a full-text manifestation linked to originating record `SRC-280`. The article’s EDI, academic-freedom, and university-autonomy arguments are now attributable and auditable; citations and normative claims remain the authors’ argument, not independently verified findings or implementation evidence.
