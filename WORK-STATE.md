@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-470/C-911` promoted the 3:42.40 Channel 4 News Brightcove MP4 to the GitHub archive. The page and playback metadata remain locally preserved; no captions or transcript were recovered, so presenter/report/Arday attribution remains unresolved pending audiovisual listening. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-246/C-910` promoted the 11:15 St Mary’s honorary-doctorate address MP4 to the GitHub archive. The related page, captions, metadata, and images remain locally preserved; the ceremonial first-person windows are still caption-assisted pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-267/C-909` promoted the 10:25 Teachers Talk Radio BETT 2024 interview MP4, captions, metadata, and thumbnail to the GitHub archive. The interview remains a distinct media manifestation from the written BETT reflection; captions are unverified navigation material and no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.

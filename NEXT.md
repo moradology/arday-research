@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-470/C-911 — the 3:42.40 Channel 4 News racial-justice Brightcove MP4 is now committed to GitHub. No captions or transcript were recovered; presenter, report-author, and Arday attribution must remain separate pending audiovisual listening. Reopen only for timecoded verification or a changed broadcast state; do not merge it with the separate Channel 4 podcast.
+
 Fresh media-integrity checkpoint: SRC-246/C-910 — the 11:15 St Mary’s honorary-doctorate address MP4 is now committed to GitHub. Its first-person ceremonial remarks and automatic-caption windows remain pending audiovisual verification; do not treat the binary as independent corroboration of the host biography. Reopen only for audiovisual verification or a changed source manifestation.
 
 Fresh media-integrity checkpoint: SRC-267/C-909 — the 10:25 Teachers Talk Radio BETT 2024 interview MP4 and sidecars are now committed to GitHub. Automatic captions remain unverified and no new substantive claim was promoted. Reopen only for audiovisual verification or a changed source manifestation; do not repeat the same YouTube ID.

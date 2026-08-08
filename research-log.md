@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-470/C-911: Channel 4 racial-justice video promoted
+
+Audit: the canonical Channel 4 News page and Brightcove metadata identified a distinct 3:42.40 public MP4 featuring Arday in coverage of a racial-justice report. The MP4 was locally preserved but not tracked in Git; no captions or transcript were available.
+
+Archive action: checksum-validated and committed the 1280×720 MP4. No substantive claim was added because the page’s report statistics and framing cannot be assigned to Arday without timecoded listening.
+
+Decision: added C-911 as an archive-integrity observation. The item remains distinct from Channel 4’s *Ways to Change the World* podcast and is not an adjudication of the report’s findings. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-246/C-910: St Mary’s honorary-doctorate address promoted
 
 Audit: the canonical *Made at St Mary’s* record already preserved the first-party alumni page, 11:15 YouTube address, automatic-caption files, metadata, page snapshot, and related images, but the MP4 was not tracked in Git.
