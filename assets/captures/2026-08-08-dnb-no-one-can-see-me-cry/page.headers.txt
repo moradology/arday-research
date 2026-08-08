@@ -1,0 +1,10 @@
+HTTP/2 200 
+strict-transport-security: max-age=15552000
+last-modified: Sat, 06 Feb 2021 08:22:24 GMT
+server: Apache
+content-length: 674164
+content-disposition: inline; filename="Arday2021_Article_NoOneCanSeeMeCryUnderstandingM.pdf"; filename*=UTF-8''Arday2021_Article_NoOneCanSeeMeCryUnderstandingM.pdf
+link: <http://d-nb.info/1226555624/about>; rel="describedby"
+date: Sat, 08 Aug 2026 09:08:07 GMT
+content-type: application/pdf;charset=base64
+

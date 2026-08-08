@@ -2908,3 +2908,11 @@ Capture: the current EYL40 page and its 1062×1083 profile portrait were downloa
 Decision: added SRC-579/C-755 as a recognition/profile source. The recognition is a distinct institutional edge; the role, Cambridge, Runnymede, and fundraising statements remain host-published source-version wording and are not upgraded into independent legal, employment, or accounting evidence.
 
 Follow-up: the organization’s 22 January 2024 press release was captured as a related manifestation, with its 19 March 2024 modification metadata and Class-of-2024 banner. Added C-756 to record the dated announcement without creating a duplicate EYL40 recognition node.
+
+## 2026-08-08 — SRC-049/C-758 German National Library manifestation
+
+Discovery: a direct German National Library PDF route for *No one can see me cry* was identified in the public catalogue result.
+
+Capture: fetched `https://d-nb.info/1226555624/34`, preserving the PDF and response headers. The PDF is 24 pages and has the same SHA-256 as the accepted manuscript already stored locally.
+
+Decision: recorded the route as a confirmed public manifestation of the existing accepted-manuscript version. No duplicate publication or independent evidence claim was created.

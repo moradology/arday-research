@@ -7,7 +7,7 @@ id: SRC-049
 - Source ID: SRC-049
 - Type: peer-reviewed journal article
 - Online publication: 2021-01-05; issue: 2022
-- Accessed: 2026-08-06
+- Accessed: 2026-08-08
 - Status: verified; publisher open-access version and accepted manuscript locally preserved as distinct versions
 - DOI: [10.1007/s10734-020-00636-w](https://doi.org/10.1007/s10734-020-00636-w)
 - Journal: *Higher Education*, 83(1), 79–102
@@ -28,3 +28,10 @@ DOI is the canonical identifier. Durham exposes a published PDF under a CC BY 4.
 - [Springer publisher page](../assets/documents/no-one-can-see-me-cry-springer-page-2026-08-06.html) — SHA-256 `39b590333823f6295b3d37a23e48ef059092e4dd313d5c384a5ddb05508b76af`.
 - [Springer open-access PDF](../assets/documents/no-one-can-see-me-cry-springer-version-2021.pdf) — 19-page local publisher file; SHA-256 `8c848d39d1e223a55f77b6befcf91bb24a35620ba92621c96717ed526e50e4ce`.
 - [Capture metadata](../assets/metadata/no-one-can-see-me-cry-springer-capture-2026-08-06.md).
+
+## German National Library manifestation recheck — 2026-08-08
+
+The German National Library endpoint was fetched directly on 8 August 2026. It returned a 24-page PDF whose SHA-256 `77811f58f9522466a6fc18883092507780500c0e31a8be257cd500c5038257d1` is byte-identical to the locally preserved accepted manuscript. This is a confirmed public manifestation and access-path record, not a new version or publication.
+
+- [Captured DNB PDF](../assets/captures/2026-08-08-dnb-no-one-can-see-me-cry/no-one-can-see-me-cry-dnb.pdf)
+- [Response headers](../assets/captures/2026-08-08-dnb-no-one-can-see-me-cry/page.headers.txt)
