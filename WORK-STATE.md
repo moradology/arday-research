@@ -1,5 +1,7 @@
 # Work state
 
+Latest publisher-media checkpoint: on 2026-08-08 `SRC-236/C-922` promoted the 48-second Simon & Schuster memoir trailer MP4 to the GitHub archive. The publisher page, thumbnail, metadata, and response captures remain preserved; the trailer is promotional framing, not independent biography evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-266/C-921` promoted Beacon College’s 361-second profile’s separate video-only MP4 and audio M4A, metadata, and thumbnail to GitHub. The 87 MB video triggered GitHub’s large-file advisory but pushed successfully; no public subtitle track exists, so no substantive biography claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-topology checkpoint: on 2026-08-08 `SRC-265/C-920` promoted Lancaster’s 507-second commentary video’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The recording is Chris Marlow’s host commentary, not Arday’s testimony; caption-derived biography wording remains pending human listening and underlying-record verification. Google Drive was not updated; GitHub remains the active publication target.

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-236/C-922: Simon & Schuster memoir trailer promoted
+
+Audit: the canonical publisher-trailer record already documented the 48-second official YouTube asset, thumbnail, page, metadata, response headers, checksum, and no-caption boundary, but the MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 360×640 MP4. No transcript or new substantive claim was added; the video remains publisher promotional framing.
+
+Decision: added C-922 as an archive-integrity observation. The trailer is distinct from Great Big Story and is not independent corroboration of the memoir’s childhood or career narrative. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-266/C-921: Beacon College profile streams promoted
 
 Audit: the canonical Beacon College record already documented the 361-second profile, separate streams, metadata, thumbnail, page snapshot, and checksum, but the media files were not tracked in Git.

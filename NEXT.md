@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh publisher-media checkpoint: SRC-236/C-922 — the 48-second Simon & Schuster memoir trailer MP4 is now committed to GitHub. It remains promotional publisher framing, distinct from Great Big Story, with no captions or transcript; do not treat it as independent corroboration of the memoir narrative.
+
 Fresh media-topology checkpoint: SRC-266/C-921 — Beacon College’s 361-second profile now has separate video-only MP4 and audio M4A streams, metadata, and thumbnail committed to GitHub. No public subtitle track was exposed; human listening is required before substantive extraction. The host’s childhood/neurodiversity framing remains source-versioned, not independently corroborated.
 
 Fresh media-topology checkpoint: SRC-265/C-920 — Lancaster’s 507-second commentary video now has its separate video-only MP4 and audio M4A, captions, metadata, and thumbnail committed to GitHub. Keep Chris Marlow’s biography retelling separate from Arday’s self-report and independent records; human-verify captions before quotation.
