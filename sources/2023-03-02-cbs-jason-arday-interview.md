@@ -4,7 +4,7 @@ type: television interview / written profile
 title: "Meet Jason Arday, Cambridge University's youngest ever Black professor, who didn't speak until he was 11"
 date: 2023-03-02
 accessed: 2026-08-06
-status: CBS page and video verified; article, video, and images locally preserved
+status: CBS page and video verified; original article/video/images locally preserved; complete cellular derivative committed to GitHub
 source_kind: broadcast interview / news profile
 entities:
   - ../entities/jason-arday.md
@@ -24,9 +24,12 @@ The linked CBS video is 6:39.49 and was captured from the page’s public HLS st
 
 - [CBS written profile](../assets/documents/cbs-jason-arday-interview-page-2026-08-06.html) — SHA-256 `5b8794c738ab56a62b150306850a88ebca019c3321b0c41136837d2c61850c1d`.
 - [CBS interview video](../assets/videos/cbs-jason-arday-interview-2023.mp4) — 142 MB, 6:39.49, SHA-256 `18e233668c3f98c164785a6dbb5d87504a365933b1d790336e4486bc3d16ccba`.
+- [Complete cellular derivative](../assets/videos/derivatives/cbs-jason-arday-interview-2023-cellular.m4v) — 13,054,998 bytes; SHA-256 `8a3e5ba3c189c46a8114aca8bf9c745f687d525ce09c50a5d6dabe7838022878`. This is a lower-quality transcode of the complete interview, not the source master.
 - [CBS video thumbnail](../assets/images/cbs-jason-arday-interview-thumbnail.jpg) — SHA-256 `fbe12e2f05935dbb0d2e35678c53608de4a24ed3e9beedb27b8cdcfc7f85f352`.
 - [CBS portrait](../assets/images/cbs-jason-arday-interview-portrait.jpg) — SHA-256 `831f43a055a26bd86f6ebddbdbbc8bb0afd6bcfd246ffb9135963f74e2abfbc3`.
 
 ## Evidence boundary
 
 The childhood and family material is interview testimony reported by CBS, not an independent clinical, school, or civil record. The article’s descriptions of Arday’s later education and employment are retained as interview/profile material and should remain distinct from the CV and institutional records.
+
+The 149,146,322-byte local MP4 remains the controlling source binary; the cellular derivative provides a complete GitHub-review copy under the repository’s binary-size limit.

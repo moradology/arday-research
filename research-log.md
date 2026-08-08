@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-183/C-939: complete CBS derivative created
+
+Audit: SRC-183 documented a complete 6:39.49 CBS News interview captured as a 149,146,322-byte 1920×1080 MP4, above GitHub’s 100 MiB hard limit.
+
+Archive action: created and checksum-verified a complete 13,054,998-byte cellular-quality `.m4v` derivative. The original MP4 hash remains the integrity anchor and the master remains local-only.
+
+Decision: added C-939 as an archive-integrity observation. The derivative makes the complete interview reviewable from GitHub but is not the source master, a transcript, or independent corroboration of its attributed childhood/family account. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-240/C-938: Oxford Physics opening clip created
 
 Audit: SRC-240 documented the 56:08 Oxford Physics recording and automatic-caption opening, including the host’s dated Durham/race-and-education introduction, but the 123,139,640-byte parent MP4 is above GitHub’s 100 MiB hard limit.
