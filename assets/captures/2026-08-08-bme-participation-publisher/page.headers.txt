@@ -1,0 +1,26 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:32:28 GMT
+content-type: text/html; charset=utf-8
+cf-cache-status: DYNAMIC
+cache-control: no-cache, no-store, must-revalidate
+set-cookie: aca-session=Fe26.2**9d7757319f511ee8037ada347cf5336f99b1de804767c9fe15a26b35d138595e*kZCAKNKDbAXmMdeRxlz8pA*-dvTt-EU1-wmVy4xpmmXWmRZ-VFtAc6SS-Hqkv992fiWgEi3DyY78gOhkttbHw6HRCiMIPD-jtNwvm71v1WFHZugUM8O0iQjjTXhFDDcKzk**d4313d6bd511d8fbaa674bea6bccb843fda94cde0e2eb6ecc77599eae26eb8ec*iz2N5d4SSZCc-j44lr8M0KxKnYYrJMlwyN4HyrqOtxU; Secure; HttpOnly; SameSite=Lax; Path=/
+set-cookie: session=s%3AAxnjwetiFkSa9MPrxwiltBe-tWXGn7zc.l6fx9Ug2RMflvB%2F9EU%2BG6IoAN5GIuib%2BFsopKmsEJ%2B8; Path=/; HttpOnly; Secure
+set-cookie: __cf_bm=cVfXaYAxlp8HpEWXtee90a9yuvjbJxSpmadPyJTr6R4-1786199547.9602866-1.0.1.1-mAnTBAiJ8dnia38zcXCqM5YlR85VTlYZMf.Tgx_x8TpEPZbvuAT7MPh30pEtDUnD.hTq7yhr3ECPei_HIUnqctJpH0W2FgFES3R7AfVWH.rHXE0v.MpiOERSuNK1ILij; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:28 GMT
+expires: 0
+pragma: no-cache
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=15552000; includeSubDomains
+tdm-policy: https://www.cambridge.org/core/tdm/tdm-policy.json
+tdm-reservation: 1
+vary: Accept-Encoding
+via: 1.1 varnish (Varnish/6.0)
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-served-by: 
+x-varnish: 1022301746
+x-xss-protection: 1; mode=block
+server: cloudflare
+cf-ray: a27f3b06b8c118b6-OMA
+

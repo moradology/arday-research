@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-106/C-866: BME-participation publisher and full-text manifestation recheck
+
+Discovery: a focused exact-title/DOI search surfaced Cambridge Core’s public article record and ResearchGate’s public full-text manifestation, while confirming that the Liverpool Repository record remains indexed as an accepted-manuscript lead.
+
+Capture: Cambridge’s article HTML and headers, its PDF-request redirect/HTML response, and ResearchGate’s HTTP 429 PDF response are preserved under `assets/captures/2026-08-08-bme-participation-publisher/` and `assets/captures/2026-08-08-bme-participation-researchgate/`. The ResearchGate page renders the article text and identifies Vikki Boliver as the uploader on 8 October 2021, but no local PDF was recovered.
+
+Decision: upgraded SRC-106 and added C-866 without creating a duplicate work. The publisher and ResearchGate records are provenance/version witnesses; the article’s empirical and interpretive claims remain claims made within the scholarly work and are not independently re-adjudicated here. Do not repeat these retrieval URLs without a changed access state or authorized access.
+
 ## 2026-08-08 — SRC-631/C-864: PrimeTimes controversy source-version
 
 Discovery: a current exact-name search surfaced PrimeTimes’ 24 July 2026 article by Sunnex Egbu, a secondary summary of the thesis-plagiarism allegations and the reported Cambridge/Liverpool John Moores response.
