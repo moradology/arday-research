@@ -2437,6 +2437,14 @@ Discovery: an exact-name public-output sweep surfaced the UK Black Stars 2026 ho
 Capture: preserved the homepage HTML and response headers, plus the linked 524×556 JPEG and image headers. The page is retained as a recognition/listing source-version and image record, with no claims promoted beyond what the page directly displays.
 
 Decision: register SRC-545 and C-692, add the portrait to `media.md`, and mark the lead resumable only for a changed page, individual profile, methodology/award explanation, or rights-cleared image source.
+
+## 2026-08-08 — SRC-546/C-693: Runnymede current team-page boundary
+
+Discovery: the role-reconciliation pass followed the Runnymede trusteeship trail to the organization’s current **Our Team** page. The page has separate Team and Trustees lists and a 14 May 2026 publication marker, but the captured HTML contains no exact “Jason Arday” occurrence.
+
+Capture: preserved the current page and response headers. No image or separate trustee record was needed because the material observation is the page topology and exact-name absence.
+
+Decision: register SRC-546/C-693 as a bounded current-page source-version. It supports current public-list absence only; it does not replace the Companies House TM01 or the Charity Commission 2024 accounts as the stronger evidence for the November 2024 trusteeship end.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.
