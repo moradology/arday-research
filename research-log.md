@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-610/C-813–C-816: BBC report of QUB investigation
+
+Discovery: a BBC News NI article, identified from its public article URL, reports that Queen’s University Belfast is looking into the 2021 Arday-co-authored *Attempting to break the chain* paper. The article quotes a QUB spokesperson saying that the university is liaising with other UK universities.
+
+Capture: preserved the public BBC HTML, response headers, plain-text extraction, and 1200×675 article image. The report also records the paper’s interview/recommendation context and Arday’s reported denial of plagiarism and explanation that autism and inadequate early supervision contributed to errors.
+
+Decision: added SRC-610 and C-813–C-816 as a current institutional-response/reporting edge linked to the existing article and methodology/correction records. No misconduct, fabrication, or outcome claim was created. The next action is direct QUB documentation or a changed publication/investigation state.
+
 # 2026-08-08 — SRC-609/C-811–C-812: full 2013 peer-mentoring article recovered
 
 Discovery: the Durham output record for Arday’s 2013 article linked to LJMU Open Journals volume 8, issue 1.

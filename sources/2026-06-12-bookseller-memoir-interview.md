@@ -16,6 +16,8 @@ assets:
   - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/headers.txt
   - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg
   - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/alternate.html
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/alternate.headers.txt
 ---
 
 # Record
@@ -34,6 +36,8 @@ The article was readable through the web research surface on 6 August 2026, whil
 
 The 8 August capture makes the visible source wording auditable: it attributes the familiar birth/diagnosis/speech/literacy account to the memoir, describes the goal written on a bedroom wall at age 27, reports the two-GCSE/BTEC/Sandro passage, and includes Arday’s statement that his work is scrutinised more than that of white colleagues. It also records the article’s account of his mother’s naming story, Debs, his two brothers, the midwife anecdote, and the memoir’s Icarus framing. These are preserved as source-version claims; the capture does not independently verify the underlying childhood, family, educational, or medical details.
 
+The alternate `/author-interviews/` route was also fetched on 8 August. Its surrounding page shell differs, but the visible article section and “Continues…” boundary are the same; it is preserved as an alias manifestation, not a duplicate interview.
+
 ## Link
 
 - Canonical page: https://www.thebookseller.com/books/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
@@ -45,3 +49,5 @@ The 8 August capture makes the visible source wording auditable: it attributes t
 - [8 August public-excerpt headers](../assets/captures/2026-08-08-bookseller-memoir-interview-current/headers.txt) — SHA-256 `e47420cff1d91d06ed0e7b16bc35c0e2b2e8eb5210bc5d2348924a02eda0ac36`.
 - [Credited Kim Lang portrait](../assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg) — 1920×1080 JPEG; SHA-256 `21231ff183b061e2d6248f9b9fd0a1cb9f48dd70a9786a59bed3abf8fac1d4bf`.
 - [Portrait response headers](../assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt) — SHA-256 `cbe73fa94de02d30d5c3c7e6ae673cef3fdda442cd0f473bdbdc491c72b75a37`.
+- [Alternate-route HTML](../assets/captures/2026-08-08-bookseller-memoir-interview-current/alternate.html) — SHA-256 `681d0f481134032fad0fff6303a249a7114f3b3bf136abe84c80cc2df5059547`.
+- [Alternate-route headers](../assets/captures/2026-08-08-bookseller-memoir-interview-current/alternate.headers.txt) — SHA-256 `a0ac62aea783b3e5dadaeb418f1f892a3a4ca37e03fde587bfe167c16c6a3e2c`.

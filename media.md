@@ -69,6 +69,8 @@
 
 ## Images
 
+- **BBC News NI article image — QUB investigation report** | 2026-08-08 | BBC News NI / Robbie Meredith | editorial article image | [Source record](sources/2026-08-08-bbc-qub-arday-investigation.md) · [Local JPEG](assets/captures/2026-08-08-bbc-qub-arday-investigation/portrait.jpg) · [Image headers](assets/captures/2026-08-08-bbc-qub-arday-investigation/image.headers.txt) | 1200×675 public article image; reuse rights not assessed
+
 - **Jason Arday — *The Bookseller* memoir-interview portrait** | 2026-06-12 / captured 2026-08-08 | *The Bookseller* / Kim Lang | credited editorial portrait | [Source record](sources/2026-06-12-bookseller-memoir-interview.md) · [Local JPEG](assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg) · [Image headers](assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt) | 1920×1080 public page-linked image; EXIF credits Kim Lang; reuse rights not assessed
 
 - **Jason Arday — Autism Research Centre profile portrait** | 2026-08-08 capture | [Source record](sources/2026-08-08-autism-research-centre-profile.md) · [Local JPG](assets/captures/2026-08-08-autism-research-centre-profile/jason-arday.jpg) | institution-hosted profile portrait; provenance and source-version preserved
