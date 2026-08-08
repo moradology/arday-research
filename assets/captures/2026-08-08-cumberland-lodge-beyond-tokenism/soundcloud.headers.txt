@@ -1,0 +1,21 @@
+HTTP/1.1 401 Unauthorized
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Sat, 08 Aug 2026 12:08:44 GMT
+x-robots-tag: noindex
+x-tyk-trace-id: 36a61949707725774399dadc7ef00fff
+Cache-Control: private, max-age=0
+referrer-policy: no-referrer
+Server: envoy
+x-content-type-options: nosniff
+x-envoy-upstream-service-time: 11
+x-frame-options: DENY
+x-ratelimit-limit: -1
+x-ratelimit-remaining: 0
+x-ratelimit-reset: 0
+Vary: Origin,Origin
+X-Cache: Error from cloudfront
+Via: 1.1 0f33c9659b1a6dc218ec542af622293c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DFW59-P7
+X-Amz-Cf-Id: oiCpcyqMYl96n3t1Qj6FNBRKJxGyQw-kTLJ9T7tKq8x3paz_uSxUdg==

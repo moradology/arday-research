@@ -1,0 +1,28 @@
+HTTP/2 403
+date: Sat, 08 Aug 2026 12:08:38 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27e6856efae5877-OMA
+cf-cache-status: DYNAMIC
+accept-ranges: bytes
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Fri, 15 Dec 1985 19:30:00 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Origin, Referer
+via: 1.1 varnish, 1.1 varnish
+content-security-policy: default-src 'self'; style-src 'unsafe-inline'; script-src 'unsafe-inline'
+x-backend-server: srv001
+x-banned-ip: 198.210.89.78
+x-bapp-server: player-backend-666c8f9d57-kpb2c
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-content-type-options: nosniff
+x-host: player-backend-666c8f9d57-kpb2c
+x-link-match: 105
+x-player-backend: g
+x-served-by: cache-iad-kcgs7200086-IAD, cache-den-kden1300028-DEN
+x-timer: S1786190918.235657,VS0,VE162
+x-vimeo-error: player-backend
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=EYnLsu2ryDoWpAD4uq54PcFLvCmSVD2mF6G4ZXpq6_o-1786190918.2243178-1.0.1.1-ZzyYy6oaVKuaNU_stq63hrr_qUerFRstc9huCiz_NbRI_CwWF17X5KAPZP72Rgyt31CU51u2_NHrDFei3C51EoVToUVDDHRfcywcJoaBfLvWl.92CoZdyMUysWqhA007; HttpOnly; SameSite=None; Secure; Path=/; Domain=vimeo.com; Expires=Sat, 08 Aug 2026 12:38:38 GMT
+alt-svc: h3=":443"; ma=86400

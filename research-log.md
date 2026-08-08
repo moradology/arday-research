@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-618/C-835: Cumberland Lodge “Beyond Tokenism” media boundary
+
+Discovery: a search for uncatalogued interviews and event recordings surfaced Cumberland Lodge’s first-party resource page for its 3 November 2021 Dialogue & Debate webinar.
+
+Capture: preserved the page, Vimeo player/configuration responses, Vimeo oEmbed metadata, and SoundCloud page/API responses. The page identifies Vimeo video `622494311` and an audio-only SoundCloud manifestation.
+
+Decision: added SRC-618 and C-835. Vimeo currently returns a 403/Cloudflare boundary and SoundCloud’s API returns 401 without authorization, so no binary, transcript, captions, or substantive Arday remarks are claimed. The event is retained as verified media topology and panel participation, not as a recovered recording.
+
 ## 2026-08-08 — SRC-617/C-834: *Hindustan Times* sports/biography source-version
 
 Discovery: an exact sports/biography search surfaced Nisha Anand’s 28 February 2023 *Hindustan Times* profile, a distinct public manifestation from the already catalogued BBC, News24, Open Culture, and institutional pages.
