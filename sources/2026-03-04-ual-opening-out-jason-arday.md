@@ -4,8 +4,8 @@ type: institutional online event listing / event-registration record
 title: "Opening Out: Shân Wareing, Jason Arday & Silke Lange"
 subject: ../entities/jason-arday.md
 event_date: 2026-03-04
-accessed: 2026-08-06
-status: event listing and registration record preserved; delivery, attendance, recording, and transcript unresolved
+accessed: 2026-08-08
+status: event listing and registration record preserved; UAL page recheck now returns Cloudflare 403; delivery, attendance, recording, and transcript unresolved
 evidence_class: first-party institutional listing plus event-registration manifestation
 urls:
   - https://www.arts.ac.uk/whats-on/opening-out-shan-wareing%2C-jason-arday-and-silke-lange
@@ -17,6 +17,8 @@ assets:
   - ../assets/captures/2026-03-04-ual-opening-out-jason-arday/ual-headers.txt
   - ../assets/captures/2026-03-04-ual-opening-out-jason-arday/event-image.jpg
   - ../assets/captures/2026-03-04-ual-opening-out-jason-arday/event-image-headers.txt
+  - ../assets/captures/2026-08-08-ual-opening-out-recheck/ual.html
+  - ../assets/captures/2026-08-08-ual-opening-out-recheck/ual.headers.txt
 ---
 
 # UAL *Opening Out* — 4 March 2026
@@ -35,3 +37,5 @@ The Eventbrite promotional image is preserved as a visual event artifact. It sho
 - [UAL response headers](../assets/captures/2026-03-04-ual-opening-out-jason-arday/ual-headers.txt) — SHA-256 `9132638cfb7b81273528dd24c9ec67e99df9f904bc60387b0b1748f60597be3f`
 - [Event image](../assets/captures/2026-03-04-ual-opening-out-jason-arday/event-image.jpg), 940×470 — SHA-256 `b5e0e7896187ccef19d37c39a01b64856426e3d164cf3ec5c9439832d10fd5e1`
 - [Event-image headers](../assets/captures/2026-03-04-ual-opening-out-jason-arday/event-image-headers.txt) — SHA-256 `2b26f1cc7299771d04c80f10b138ec3934ea1e5ad1371e06630e375b638c2ee0`
+- [UAL recheck HTML](../assets/captures/2026-08-08-ual-opening-out-recheck/ual.html) — 5,639-byte Cloudflare challenge response; SHA-256 `0e69d59ff8c6700a4143d416b42b1f6237a39a42a2c78261b7ee9881df8c1665`
+- [UAL recheck headers](../assets/captures/2026-08-08-ual-opening-out-recheck/ual.headers.txt) — SHA-256 `a67131402947eff3f4a833c3c739be93caf74b1fd4cc13d27bbb64994877a68f`

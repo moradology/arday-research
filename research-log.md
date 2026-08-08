@@ -6,6 +6,12 @@ The search lead `https://www.justgiving.com/fundraising/400in5days` was directly
 
 Evidence handling: no claim is made that a separate 400-mile-in-five-days challenge occurred. The capture resolves a likely search-result ambiguity and prevents the route from being counted twice.
 
+# 2026-08-08 — SRC-305/C-741: UAL *Opening Out* changed access state
+
+The canonical University of the Arts London page for the 4 March 2026 *Opening Out* event was fetched again. It now returns HTTP 403 with a Cloudflare browser-verification challenge; the 5,639-byte response and headers are preserved as a changed state under the existing SRC-305 record. The matching Eventbrite listing remains the usable event/registration manifestation.
+
+Evidence handling: no new claim about attendance, delivery, recording, transcript, or cancellation is made. The changed 403 is an access observation only.
+
 # 2026-08-08 — SRC-144/C-739: direct BBC profile capture upgrade
 
 The canonical BBC `.co.uk` and `.com` URLs for “Cambridge University's Jason Arday becomes youngest black professor” returned the article directly on 8 August 2026. Captured both HTML variants, response headers, the BBC-hosted portrait, and the graduation image. The existing SRC-144 record is upgraded in place; the Walthamstow School for Girls repost remains a separate witness manifestation rather than a duplicate source.
