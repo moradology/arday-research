@@ -37,6 +37,7 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 ## 2. Recorded talks and video
 
 - [UCL keynote: “Engaging pedagogically with race and racism in higher education”](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/keynote-lecture-engaging-pedagogically-race-and-racism-higher-education) — includes the locally preserved recording and first-party 16-slide “Learning to fly” deck; topics include decolonising curricula, intersectionality, inclusive pedagogy, unconscious bias, and centring race and racism.
+- [American Sociological Association 2024 year-in-review](sources/2025-02-01-asa-year-in-review-2024.md) — official *Footnotes* Winter 2025 PDF listing Arday and Chantelle Lewis as speakers for a 2024 webinar on neurodivergent-inclusive academic policies; no recording or transcript located.
 - [Local UCL “Learning to fly” keynote deck](assets/documents/ucl-learning-to-fly-2020/learning-to-fly-keynote.pptx) — 67,699-byte PPTX captured from UCL’s download endpoint; [source record](sources/2021-03-16-ucl-keynote-media.md).
 - [YouTube recording of the UCL keynote](https://youtu.be/2S8JUO3M_04).
 - [UCL BAME Awarding Gap Project Evaluation Report](sources/2023-05-31-ucl-bame-awarding-gap-evaluation.md) — May/July 2023 retrospective report; printed page 42 records the March 2020 Arday session and lists its pedagogical scope; local PDF and extracted text preserved.

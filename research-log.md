@@ -2560,3 +2560,11 @@ Update: a local MLX Whisper small-model pass over the MP3 produced 500 English s
 Rechecked the exact Nelson Mandela University URL for the January 2020 CV after a search-index result resurfaced the PDF text. The endpoint returned HTTP 404 with an HTML body, not a PDF; the 30,633-byte response and headers are preserved under `assets/documents/nelson-mandela-cv-2020-08-08/` and documented in `assets/metadata/nelson-mandela-cv-capture-2026-08-08.md`.
 
 Decision: this is a changed access-state observation, not a new CV source or a recovery of the indexed document. The dated indexed extract remains bounded as self/host-published source-level evidence; no current appointment, qualification, or role claim is upgraded from it.
+
+## 2026-08-08 — SRC-549 ASA year-in-review event listing
+
+Discovery: an official American Sociological Association PDF surfaced in search results as a distinct professional-output record. The *Footnotes* Winter 2025 “2024 ASA Year in Review” lists “A Neurodivergent Inclusive Approach to Academic Policies and Practices” among its webinars and names Jason Arday and Chantelle Lewis as speakers.
+
+Capture: preserved the 36-page PDF, response headers, layout-preserving text extraction, and a rendered page showing the listing (PDF p. 12 / printed p. 22).
+
+Decision: added SRC-549 and C-708 as a dated first-party event-listing witness. The record does not establish the exact date, delivery, attendance, recording, transcript, or substantive content; no current-employment inference is made. Future work should seek the session artifact itself rather than repeat the annual-review search.

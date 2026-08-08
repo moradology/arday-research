@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 06:04:56 GMT
+content-type: application/pdf
+content-length: 6628210
+server: cloudflare
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-content-type-options: nosniff
+last-modified: Mon, 03 Mar 2025 18:47:44 GMT
+cache-control: max-age=2592000, public
+expires: Mon, 07 Sep 2026 06:04:56 GMT
+strict-transport-security: max-age=31536000
+x-xss-protection: 1; mode=block
+x-nginx-upstream-cache-status: BYPASS
+x-server-powered-by: Engintron
+accept-ranges: bytes
+cf-cache-status: MISS
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+vary: accept-encoding
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2%2FVW6Z%2BlIEdjSrrV%2BDX%2BgQpe5XSAjkL14lBsnCg41EBcAuLDxX5fBYGPkCADtgg3m1n5eSvBZ5S%2FniW%2BVvpseMXnCwEDgYPP08vnf1UymH2yKTqCtYgFP9SzH5Fad7mS"}]}
+cf-ray: a27c53971d63a635-OMA
+alt-svc: h3=":443"; ma=86400
+
