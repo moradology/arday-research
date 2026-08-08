@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 event_date: 2023-11-02 to 2023-11-03
 published: 2023-11-08
 accessed: 2026-08-08
-status: official post-event article, embedded conference video page, and images locally preserved
+status: official post-event article, embedded conference video page, images, and 56-second MP4 locally preserved
 evidence_class: first-party institutional post-event report / attributed keynote summary
 urls:
   - https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research
@@ -23,6 +23,8 @@ The UK Council for Graduate Education’s 8 November 2023 post-event article rep
 
 The report also attributes a later audience recollection to Mandy Gill: she remembered Arday’s contrast between white academics who could say they “stumbled into it” and the different experience of people of colour. This is a second-hand recollection of a keynote remark, not a transcript or verbatim recording. The embedded YouTube video (`fCOP40WUUSk`) is preserved as a linked media manifestation; the archive does not claim a downloaded conference binary or a timecoded Arday segment.
 
+A current YouTube media audit recovered the public 56.24-second 360p MP4. The file is a short conference montage/summary rather than an Arday-only keynote recording; no subtitles were exposed and no Arday segment is promoted without manual review.
+
 This is a distinct narrative post-event source-version for the conference already represented by the programme/deck and UKCGE annual report. It strengthens delivery evidence and provides an attributed summary, but it does not independently verify the speech’s full content, audience reaction, or every autobiographical or analytical proposition.
 
 ## Local preservation
@@ -33,7 +35,9 @@ This is a distinct narrative post-event source-version for the conference alread
 - [YouTube response headers](../assets/captures/2026-08-08-ukcge-2023-post-event/youtube.headers.txt) — SHA-256 `53e72adaf4f95258d7d705b8d9467e447b2eedb5529627fccfa570c4146f8dce`
 - [YouTube thumbnail](../assets/captures/2026-08-08-ukcge-2023-post-event/thumbnail.jpg) — SHA-256 `6672b2179839edab3c6f57ee01b08efac382c8a7c76872980149f2dae88f4d60`
 - [UKCGE article hero image](../assets/captures/2026-08-08-ukcge-2023-post-event/hero.jpg) — SHA-256 `110d331e9fc579f37b8fc880dc6354703119dd82e0f4af87330c3825d78b0509`
+- [Recovered YouTube MP4](../assets/videos/ukcge-2023/ukcge-edi-pgr-2023.mp4) — SHA-256 `8309059df654d0eca1ea686aa88a06174ee51b52fd43c633f513e8b3d3c4e8b3`; 56.24 seconds, 640×360
+- [YouTube metadata](../assets/videos/ukcge-2023/ukcge-edi-pgr-2023.info.json) — SHA-256 `cfe7fca573e20420312ae461c316f2040bba568c83c05383a4e13dc083c369fa`
 
 ## Evidence boundary
 
-The article is first-party evidence that UKCGE reported Arday’s keynote as delivered and published the attributed summary. It is not a full transcript, independent audience measurement, or institutional assessment of the claims made in the keynote. The linked video’s availability and contents remain separate from the article’s text.
+The article is first-party evidence that UKCGE reported Arday’s keynote as delivered and published the attributed summary. It is not a full transcript, independent audience measurement, or institutional assessment of the claims made in the keynote. The recovered 56-second video is a distinct short-form conference manifestation; its availability does not establish that it contains the keynote or any particular Arday remark.

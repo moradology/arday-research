@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh recovered-video checkpoint: SRC-572/C-840 — UKCGE’s linked YouTube video `fCOP40WUUSk` is now locally preserved as a 56.24-second 640×360 conference montage with metadata. It is not a complete keynote recording and has no captions; reopen only for a longer public video, manual review confirming an Arday segment, or a distinct slide/transcript artifact.
+
 Fresh recovered-audio checkpoint: SRC-618/C-839 — Cumberland Lodge’s “Beyond Tokenism” webinar now has a locally preserved 59:10.38 SoundCloud MP3, exact track metadata, and artwork. Vimeo remains inaccessible; no transcript/captions or manual listening audit exists. Reopen for manual timecoding/transcription or a lawful Vimeo/video manifestation; do not treat the audio as independently adjudicating the event’s claims.
 
 Fresh recovered-audio checkpoint: SRC-223/C-838 — the existing New Humanist *With Reason* transcript now has a locally preserved public Buzzsprout MP3, RSS episode metadata, and current page/transcript capture. Reopen for a manual audio/transcript audit or a distinct video/archived feed manifestation; do not create a duplicate interview record or promote unverified transcript wording as manually checked.

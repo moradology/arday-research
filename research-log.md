@@ -3261,6 +3261,14 @@ Capture: preserved the track HTML, oEmbed metadata, media-resolution response, r
 
 Decision: upgraded SRC-618 rather than creating a duplicate webinar source. The recovered file establishes the public audio manifestation, while Vimeo remains inaccessible and no transcript/captions or substantive timecoded claims are promoted. Manual listening is the next verification step.
 
+## 2026-08-08 — SRC-572/C-840: UKCGE conference video binary recovered
+
+Discovery: the existing UKCGE 8 November 2023 post-event record linked YouTube video `fCOP40WUUSk` but previously preserved only the player page and thumbnail.
+
+Capture: current yt-dlp metadata reports the video as public, uploaded 8 November 2023, and 56 seconds long. The combined 640×360 MP4 and metadata JSON were downloaded; YouTube exposed no English subtitle track.
+
+Decision: upgraded SRC-572 without creating a second event record. The binary is catalogued as a short conference montage/summary, not silently promoted to a recording of Arday’s full keynote. A longer video, manual visual/timecode review, or captions remain open.
+
 ## 2026-08-08 — SRC-223/C-838: New Humanist audio recovered through podcast feed
 
 Discovery: the existing New Humanist *With Reason* transcript record was rechecked against the show’s public Buzzsprout RSS feed. The feed’s episode item identifies the 15 December 2020 Jason Arday episode and exposes a public MP3 enclosure.
