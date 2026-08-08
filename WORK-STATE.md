@@ -1,5 +1,7 @@
 # Work state
 
+Latest advisory-role checkpoint: on 2026-08-08 `SRC-637/C-872–C-873` preserved the Nuffield Foundation’s 27 March 2025 announcement and linked programme page. Arday is named as an external advisor to “Grown up? Journeys to adulthood”; the archive records the foundation’s stated advisory functions but not attendance, remuneration, individual contribution, or continuation. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest institutional service-role checkpoint: on 2026-08-08 `SRC-636/C-871` preserved Wellcome Sanger’s live Sanger Excellence Fellowship page listing Arday in the Advisory Group with Glasgow title wording. This is a first-party service-role/source-version record; dates, terms, contribution, remuneration, and continuation are unresolved. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest first-party project-role checkpoint: on 2026-08-08 `SRC-635/C-870` preserved QUB CITE’s indexed attribution of Arday as a collaborator on the ACUS project, while the live projects route returned CloudFront 403. No project artifact, funding record, output, or completion evidence was recovered. The record is distinct from both the BERA report and the QUB investigation into *Attempting to break the chain*. Google Drive was not updated; GitHub remains the active publication target.

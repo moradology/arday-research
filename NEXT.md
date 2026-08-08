@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh advisory-role checkpoint: SRC-637/C-872–C-873 — the Nuffield Foundation’s 27 March 2025 announcement names Arday as an external advisor to “Grown up? Journeys to adulthood,” with stated functions around project direction, outputs, engagement/outreach, and impact. Announcement and linked programme page are locally preserved. Reopen only for advisor terms, meeting/attendance records, a project report, Arday-specific contribution, or a changed foundation state; do not infer continuation or authorship.
+
 Fresh service-role checkpoint: SRC-636/C-871 — Wellcome Sanger’s live Sanger Excellence Fellowship page lists Arday in the Advisory Group with the title “Professor of Sociology, University of Glasgow.” The page and headers are locally preserved; appointment dates, formal status, contribution, remuneration, and continuation remain unresolved. Reopen only for an appointment/terms record, archived page version, programme report, or changed institutional state; do not treat this as current Glasgow employment evidence.
 
 Fresh project-role checkpoint: SRC-635/C-870 — QUB CITE’s indexed projects page names Arday as a collaborator on “Advancing Critical University Studies for Inclusive and Equitable Quality Education.” The current route returns CloudFront 403; no project brief, funder record, output, or final report was recovered. Reopen only for a lawful QUB page, project/funder artifact, publication, final report, or changed host state; do not treat the indexed Cambridge wording as current employment evidence.

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-637/C-872–C-873: Nuffield “Grown up?” advisory role
+
+Discovery: the institutional/advisory search surfaced the Nuffield Foundation’s 27 March 2025 announcement naming Professor Jason Arday as an external advisor to “Grown up? Journeys to adulthood.”
+
+Capture: the announcement and its linked programme page were retrieved as first-party HTML with response headers. The announcement describes advice on project direction, output feedback, engagement/outreach, and impact amplification; the programme page describes research on ages 14–24 across education-to-work, digital lives, and mental health and well-being.
+
+Decision: added SRC-637/C-872–C-873 as a distinct advisory-role record. It is kept separate from the Sanger and QUB advisory/project records; no claim is made about appointment duration, remuneration, attendance, individual contribution, or post-announcement continuation.
+
 ## 2026-08-08 — SRC-636/C-871: Wellcome Sanger advisory-group role
 
 Discovery: an exact-name institutional search surfaced the Wellcome Sanger Institute’s Sanger Excellence Fellowship page, whose Advisory Group list includes “Prof Jason Arday, Professor of Sociology, University of Glasgow.”

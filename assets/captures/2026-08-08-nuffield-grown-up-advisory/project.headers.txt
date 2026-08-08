@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 15:05:53 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27f6bf0af20d8ce-OMA
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+link: <https://www.nuffieldfoundation.org/wp-json/>; rel="https://api.w.org/", <https://www.nuffieldfoundation.org/wp-json/wp/v2/pages/44861>; rel="alternate"; title="JSON"; type="application/json", <https://www.nuffieldfoundation.org/?p=44861>; rel=shortlink
+server: cloudflare
+strict-transport-security: max-age=15768000
+vary: Accept-Encoding
+x-edge-location-klb: 1
+ki-cache-type: None
+ki-edge: v=28.4.5;mv=99.9.9
+ki-origin: o1i
+referrer-policy: same-origin
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+x-kinsta-cache: EXPIRED
+x-robots-tag: nofollow
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=FSVRNKb8fhoQhCs9ZoXwvIwAteJFfFpDzTtcUdj2UIg-1786201551.4612184-1.0.1.1-pGvBmDplsLsq.nKCKoU_8A_2DbaykhINQYcUPIaLE0TTKSygLDmQo1Ye422y1sH5EOI1cXkQR1g9XH1iIv3iVNl1ANjU.A9xaPs4Mutl54XRrQhNCCRqvdR.Kuv6GniK; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.nuffieldfoundation.org; Expires=Sat, 08 Aug 2026 15:35:53 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bYn2M%2BT5hfRbyqQsuGdA7ByIaYPLT4J3jcc2uXw7PegMW2dDVxlW%2BXshNiqVIEbY5bq%2BiS2unpDtjcw%2FGyYScwbbmbBufT6u6zIJsgHRuatzdb9cT3nSL0PjKp64WnCcUN3HMcOtFTOj0Tvs"}]}
+alt-svc: h3=":443"; ma=86400
+
