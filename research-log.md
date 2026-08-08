@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-432/C-926: Corrie-Lunn thesis PDF promoted
+
+Audit: the canonical Oxford Brookes RADAR thesis record already preserved the extracted text, title-page render, headers, and negative-space search result, but the 20 MB full PDF was not tracked in Git.
+
+Archive action: checksum-validated and committed the full thesis PDF. The document remains the primary record of the doctoral setting; its extracted text contains no occurrence of “Jason Arday” or “Arday.”
+
+Decision: added C-926 as an archive-integrity observation. The thesis does not independently confirm the LinkedIn participant’s examiner statement, and the absence of a name is not disproof. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-307/C-925: BME ECR promotional video promoted
 
 Audit: the canonical 10th BME ECR Conference record already preserved the event listing, organizer LinkedIn post, poster, banner, unchanged 7 August pre-event recheck, and a 3.2 MB promotional MP4, but the binary was not tracked in Git.
