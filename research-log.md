@@ -16,6 +16,14 @@ Capture: the in-app public page was readable and its observed content was record
 
 Decision: classify the thread as public reception and allegation propagation, not peer consensus, scholarly review, or adjudication. Use its concrete comments only as leads for named primary texts, methods materials, and institutional records already tracked or still missing.
 
+# 2026-08-08 — SRC-598/C-795–C-796: 2018 *Social Sciences* methods/ethics audit
+
+Discovery: the r/sociology thread supplied a concrete lead about the 2018 mental-health article’s sample and ethics language. The locally preserved publisher PDF was audited directly rather than relying on the thread’s characterization.
+
+Capture: PDF p. 10 reports recruitment across 14 UK-based universities, 32 participants, two roughly three-hour focus groups, 32 individual interviews, informed consent, and audio recording/transcription. A text search of the captured 25-page PDF found no explicit ethics-approval/committee/identifier wording in the audited methods/results text.
+
+Decision: promote the reported methods and consent statement as primary-text facts about what the article says. Record the ethics-language absence as a bounded negative-space observation only; it is not evidence that no approval existed, that the participants were fabricated, or that misconduct occurred. Reopen only for an approval record, correction, author/editor response, or underlying study materials.
+
 # 2026-08-08 — SRC-093: Cambridge investigation-statement recheck
 
 Discovery: the official Cambridge notice was rechecked during the formal-outcome search. It remains publicly reachable and reports “Last updated: 07 Aug 2026.” The substantive wording remains unchanged: Cambridge’s investigation concerns new information about qualifications and honorary appointments; ongoing academic-misconduct complaints remain under its policy; and Jesus College is taking its own steps.

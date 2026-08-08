@@ -40,6 +40,7 @@ The controversy is the mechanism through which otherwise separate records became
 | 2026-08-08 | The migrated Faculty host was captured with the indexed Arday profile route redirecting to home and the “Our people” response omitting Arday. | Direct route/version evidence; reinforces the indexed/live mismatch without resolving employment or legal status |
 | 2026-08-08 | The previously catalogued LJMU bicentenary profile route returned HTTP 404, while a separate current LJMU profile manifestation remained distinct. | Direct access-state evidence; no deletion, disavowal, or institutional finding inferred |
 | 2026-08-08 | A public r/sociology thread gathered conflicting anonymous reactions to Arday’s scholarship and repeated unverified methodological/fabrication allegations. | Public-reception/source-propagation evidence only; no consensus or adjudication |
+| 2026-08-08 | The locally preserved 2018 *Social Sciences* article was audited against the thread’s concrete methods lead: it reports 14 universities, 32 participants, two approximately three-hour focus groups, 32 interviews, and informed consent; no explicit ethics-approval wording was found in the audited text. | Primary-text/version evidence; bounded absence only, not proof of non-approval or fabrication |
 
 ## Amplification channels
 
