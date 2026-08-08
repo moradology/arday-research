@@ -1837,6 +1837,12 @@ The existing local binaries for SRC-264 (BILT keynote teaser) and SRC-265 (Lanca
 
 Evidence handling: added C-401/C-402 and expanded both source records. These are timestamped caption-derived source versions, not manually verified quotations. BILT is first-person self-presentation; Lancaster is host commentary. No employment, clinical, school, degree, or role claim was upgraded to independent fact, and the “write until 18” wording remains separate from the “read until 18” family of claims.
 
+# 2026-08-08 — Preserved-media integrity check for SRC-264–SRC-266
+
+Verification: the locally preserved BILT teaser, Lancaster commentary, and Beacon College profile were each passed through the local media decoder. The video-only MP4 and audio M4A for all three sources decoded without errors; preserved metadata gives runtimes of 89 seconds, 507 seconds, and 361 seconds respectively.
+
+Evidence handling: this closes the file-integrity check, not the human-transcription check. BILT and Lancaster remain caption-derived source versions pending listening against the audio; Beacon has no exposed public subtitle track and remains without substantive extraction. No claim was promoted, no stream was remuxed, and the same YouTube IDs should not be searched again unless their access state changes.
+
 # 2026-08-07 — C-403 OpenAlex exact-query closure
 
 The filtered OpenAlex works request for author `A5048886069` was rerun with `per-page=200`. It returned 56 records. A normalized comparison of record IDs, DOI strings, and titles against the 6 August response was byte-identical, so no new work key or DOI/title candidate was added.

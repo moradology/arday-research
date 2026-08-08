@@ -25,6 +25,10 @@ Lancaster University’s Educational Research channel published a 507-second vid
 - Automatic English (British) captions: `assets/videos/760eNGJDs7o.en-GB.vtt` — SHA-256 `c49e5bdcacca048ba86d381f13eedc53b473386eaa61e20400bab7e32c85a587`; not human-verified.
 - Page snapshot: `assets/documents/760eNGJDs7o-youtube.html`
 
+## Media verification boundary
+
+The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. The English captions are still automatic and have not been checked against the audio by a human listener.
+
 ## Caption-derived extraction
 
 Chris Marlow's automatic English captions, at approximately 00:09–02:05, describe Arday as an emerging Black British scholar and then present a biographical introduction: born in 1985, raised on a council estate in Clapham, diagnosed as autistic at three, affected by what the speaker calls global developmental delay, not speaking until 11, and not writing until 18. The captions continue with a Surrey education/PE-teaching route and an MEd and PhD at Liverpool John Moores University. At approximately 02:05–02:19, the captions describe a visiting-professor role at Nelson Mandela University.

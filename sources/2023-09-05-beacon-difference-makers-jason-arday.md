@@ -24,4 +24,8 @@ Beacon College published a 361-second *Difference Makers* episode titled “A Wo
 - Thumbnail: `assets/videos/7JIVefToQG0.webp`
 - Page snapshot: `assets/documents/7JIVefToQG0-youtube.html`
 
+## Media verification boundary
+
+The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. No public subtitle track was exposed, so no substantive claim is promoted from the video without human listening.
+
 The streams remain separate because local muxing was resource-killed; neither is presented as a complete muxed file.

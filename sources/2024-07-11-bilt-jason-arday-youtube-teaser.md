@@ -25,6 +25,10 @@ The BILT YouTube channel published an 89-second video titled “Jason Arday.” 
 - Automatic English (British) captions: `assets/videos/JWNqOrsUU7A.en-GB.vtt` — SHA-256 `513bc3f2a6618120b2ba85456cdad6eac64dcaeec922cd86ea76adb3aa30a7f6`; not human-verified.
 - Page snapshot: `assets/documents/JWNqOrsUU7A-youtube.html`
 
+## Media verification boundary
+
+The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. The English captions are still automatic and have not been checked against the audio by a human listener.
+
 The streams remain separate because local muxing was resource-killed; both public assets are retained.
 
 ## Caption-derived extraction
