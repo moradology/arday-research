@@ -213,6 +213,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [*We Are Out of Office*, episode 55](sources/2026-03-14-we-are-out-of-office-arday-propagation.md) — 14 March 2026 Apple Podcasts show-note mention repeating Arday’s public biography; Arday is not a guest and the item is retained only as a low-provenance propagation witness.
 - [Instagram: Jason Arday story](sources/2025-08-14-instagram-arday-story.md) — 14 August 2025 third-party post and displayed image repeating the childhood/diagnosis/literacy/Cambridge narrative; preserved as a propagation witness, not independent corroboration or an Arday-authored output.
 - [Going Postal: *Question Time* review](sources/2024-02-23-going-postal-question-time-review.md) — 23 February 2024 partisan review reporting Arday on the 22 February Maidenhead panel; preserved with linked MP3, but neither the review’s attributed remarks nor the audio are treated as verified broadcast material.
+- [Broken Vessel: conversation about race in UK higher education](sources/2019-09-11-broken-vessel-jason-arday-conversation.md) — 11 September 2019 Belluigi page advertising a roughly 40-minute Port Elizabeth conversation; the host is now expired and the recording remains unrecovered.
 
 ## 8. Current controversy — keep separate from the historical archive
 

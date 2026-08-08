@@ -2672,3 +2672,11 @@ Discovery: a search for a possible 2024 *Question Time* appearance located Going
 Capture: preserved the page and its linked 14:36.93 MP3. The file metadata identifies an iMovie-produced MP3 titled “My Movie 2”; it is treated as the site’s review/narration artifact, not as the BBC broadcast or an Arday recording.
 
 Decision: added SRC-557/C-722–C-723 as a low-provenance appearance lead. The page’s biography is source propagation, and its attributed political remarks remain unverified written reporting. Reopen only for an official BBC episode record, transcript/captions, broadcast audio/video, or independent event corroboration.
+
+## 2026-08-08 — SRC-558/C-724–C-725 Broken Vessel Port Elizabeth conversation
+
+Discovery: a focused 2019 interview/video search located Dina Zoe Belluigi’s Broken Vessel page, dated 11 September 2019, describing a roughly 40-minute conversation with Arday during an intellectual gathering in Port Elizabeth, South Africa.
+
+Capture: the original domain now redirects to a ParkLogic expired-domain page. The article body, image, player, and recording URL were not exposed; the current browser state is preserved as a local access-boundary note.
+
+Decision: added SRC-558/C-724–C-725 as a distinct historical media lead, separate from Belluigi’s 2019 Belfast seminar record. No substantive conversation claims or binary recovery are asserted. Reopen only with a lawful archive replay, author/institutional copy, or newly exposed media URL.
