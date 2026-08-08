@@ -1749,6 +1749,12 @@ Discovery: exact-title searches for “The Fire Now,” “Diversifying the Ivor
 
 Decision: no new publication node, claim, or binary was created. Existing records remain canonical and their previews/access boundaries remain versioned. Reopen only for a materially different file, concrete new identifier, publisher correction, or distinct recording/transcript; do not repeat this exact residual-output query family unchanged.
 
+# 2026-08-08 — Media-index search boundary
+
+Discovery: exact-name searches for Jason Arday video interviews, podcasts, 2025 lectures, and transcripts returned Newcastle University’s 2025 lecture, the Crick 2024 event, Research Cast UK, Bett 2024, Our Voice Enfield, and the Society for Experimental Biology listing as already-catalogued records. Remaining results were repeated platform manifestations, source-propagation profiles, or homonyms.
+
+Decision: no new media node, video ID, audio binary, transcript, or claim was created. Reopen only for a distinct recording/transcript, changed media endpoint, or concrete uncatalogued event artifact; do not repeat this exact media query family unchanged.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
