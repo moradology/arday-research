@@ -13,6 +13,8 @@ urls:
 assets:
   - ../assets/documents/news/telegraph-2026-08-07-hiring-review/article.html
   - ../assets/documents/news/telegraph-2026-08-07-hiring-review/response-headers.txt
+  - ../assets/captures/2026-08-07-cambridge-hiring-process-review/telegraph.html
+  - ../assets/captures/2026-08-07-cambridge-hiring-process-review/telegraph.headers.txt
 ---
 
 # *The Telegraph*: Cambridge hiring-process review
@@ -34,3 +36,9 @@ These are recorded as claims attributed to *The Telegraph*’s reporting. The ar
 - [Returned access HTML](../assets/documents/news/telegraph-2026-08-07-hiring-review/article.html) — SHA-256 `6f8d2fabac6a0598f9e6bb28949a8f5b80853456cb9c4a3c23e24c18e7456a46`.
 - [Response headers](../assets/documents/news/telegraph-2026-08-07-hiring-review/response-headers.txt) — SHA-256 `a6e18c6dd76ac283ffa1fc64f9070fd63ac30379986dbffc76514107c0300198`.
 
+## 2026-08-07 direct recapture
+
+A second direct fetch on 7 August 2026 again returned HTTP 402/TollBit with no article body. This is a changed capture of the same access state, not a new source or claim.
+
+- [Recapture body](../assets/captures/2026-08-07-cambridge-hiring-process-review/telegraph.html) — SHA-256 `619762532f381172f400690f5b9b989611a02c5303bddbc3da453d40b2856ff0`.
+- [Recapture headers](../assets/captures/2026-08-07-cambridge-hiring-process-review/telegraph.headers.txt) — SHA-256 `637e9381b962f35a2070c81454484fe165befe7352fc2e04a14a7014254f3f0c`.

@@ -1,5 +1,9 @@
 # Research log
 
+# 2026-08-07 — SRC-434 recheck and deduplication
+
+A current institutional-process search rediscovered the already-canonical *Telegraph* lead. A second direct fetch returned the same HTTP 402/TollBit access boundary; the recapture is attached to SRC-434, not promoted to a duplicate source or claim.
+
 # 2026-08-07 — SRC-518/C-660–C-661: official ASA and Gazette search boundary
 
 Discovery: the adversarial credibility review reopened the MBE and advertising-regulator lead from SRC-517/C-659.
