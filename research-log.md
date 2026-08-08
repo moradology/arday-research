@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-602–SRC-604/C-802–C-804: LJMU Reciprocal Mentoring event topology
+
+Discovery: the LJMU annual-report passage led to three first-party programme pages: the 17 November 2022 midpoint report, the 15 September 2023 closing-event report, and the 16 January 2024 project reflection.
+
+Capture: all three LJMU HTML pages, response headers, and hero images are preserved. The 2023 page embeds the official YouTube closing-session video (`0Tr2jP2FNa0`), downloaded locally as an 81 MB MP4 with metadata and thumbnail. The 2024 page embeds the official Mark Power/Kim Johnson reflection (`h9WI5U23QdE`), downloaded locally as a 39 MB MP4 with metadata and thumbnail. The 2022 page reports Arday’s keynote with Chris Lubbe but exposes no recording or transcript.
+
+Decision: promote the 2022 Arday keynote as a dated first-party event-report fact. Keep the 2023 and 2024 videos as project-topology and related media; do not infer that Arday appears in either video from the page embed alone. Reopen only for the midpoint programme/recording/transcript, captions, or content-level review of the closing video.
+
 # 2026-08-08 — SRC-601/C-800–C-801: LJMU Diversity and Inclusion annual report
 
 Discovery: a formal institutional-status search surfaced LJMU’s public Diversity and Inclusion Annual Report, dated September 2023 and covering academic year 2022/23.
@@ -7,6 +15,14 @@ Discovery: a formal institutional-status search surfaced LJMU’s public Diversi
 Capture: the 29-page PDF, response headers, extracted text, and a rendered copy of printed page 12 are preserved under `assets/captures/2026-08-08-ljmu-edi-annual-report/`. The report says LJMU featured Jason Arday as a speaker during the mid-point session of its Leaders Reciprocal Mentoring project. It calls him “the youngest Black Professor in the UK and a current staff member at Oxford University.”
 
 Decision: promote the event appearance and exact report wording as first-party institutional source facts. Keep the Oxford phrase as a dated source-version requiring reconciliation with the archive’s Cambridge appointment/resignation records; do not treat it as an Oxford HR record, silently correct it, or infer fraud from the discrepancy. Reopen for the event programme/recording, an Oxford appointment record, or a corrected report.
+
+# 2026-08-08 — SRC-605/C-805: LJMU Reciprocal Mentoring launch record
+
+Discovery: the midpoint/closing chain exposed LJMU’s 15 June 2022 launch announcement for the external Leaders Reciprocal Mentoring programme.
+
+Capture: the public LJMU HTML, response headers, and 835×500 hero image are preserved under `assets/captures/2026-08-08-ljmu-2022-launch/`.
+
+Decision: record the announced programme structure—paired university/city leaders, monthly meetings, and planned midpoint/closing sessions—as first-party project context. The launch page does not name Arday, so it is not used to infer either his inclusion or exclusion; the later 17 November 2022 report remains the direct source for his reported keynote.
 
 # 2026-08-08 — SRC-596/C-793: LJMU bicentenary profile route recheck
 
