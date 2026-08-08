@@ -3,8 +3,8 @@ id: SRC-220
 type: podcast episode
 title: "Jason Arday: The Gratitude List"
 published: 2025-05-29
-accessed: 2026-08-06
-status: official audio locally preserved; Apple page locally preserved; Tapesearch transcript page browser-visible but shell-403
+accessed: 2026-08-08
+status: official audio locally preserved and committed to GitHub; Apple page locally preserved; Tapesearch transcript page browser-visible but shell-403
 source_kind: bonus podcast episode / first-person testimony / local MP3 and HTML
 entities:
   - ../entities/jason-arday.md
@@ -20,7 +20,7 @@ This 29 May 2025 bonus episode of *How Do You Cope?* has Jason Arday discussing 
 
 ## Local preservation
 
-- [MP3](../assets/audio/how-do-you-cope-jason-arday-gratitude-list-2025.mp3) — 20,372,875 bytes; 21:13.29; 128 kb/s, 44.1 kHz stereo; SHA-256 `4f10e82d6a305642afc56008aed85d3a2b748a207a0882933bad38d62e06537d`.
+- [MP3](../assets/audio/how-do-you-cope-jason-arday-gratitude-list-2025.mp3) — 20,372,875 bytes; 21:13.29; 128 kb/s, 44.1 kHz stereo; SHA-256 `4f10e82d6a305642afc56008aed85d3a2b748a207a0882933bad38d62e06537d`; now included in the GitHub archive.
 - [Apple episode page](../assets/documents/how-do-you-cope-gratitude-list-apple-page-2026-08-06.html) — 151,248 bytes; HTTP 200; SHA-256 `a6bf42ad0cb11cf8d418ce2b4f0012d5ea0713f1bda1e123fc7656f539c0d90c`.
 - [Tapesearch shell-403 body](../assets/documents/how-do-you-cope-gratitude-list-tapesearch-403-2026-08-06.html) and [headers](../assets/documents/how-do-you-cope-gratitude-list-tapesearch-headers-2026-08-06.txt) — the transcript page was browser-visible on 2026-08-06 but returned HTTP 403 to shell retrieval.
 

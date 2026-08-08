@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-220/C-900: *How Do You Cope? — The Gratitude List* binary promoted to GitHub
+
+Audit: the canonical bonus-episode record already contained the Apple page, Tapesearch shell/headers, and a 21:13.29 MP3, but the audio remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`4f10e82d6a305642afc56008aed85d3a2b748a207a0882933bad38d62e06537d`) against the source record and committed the audio. The partial generated transcript remains a navigation/access-boundary artifact; no new substantive claim was promoted.
+
 ## 2026-08-08 — SRC-035/C-899: *Portrait of a Londoner* binary promoted to GitHub
 
 Audit: the canonical *Portrait of a Londoner* record already contained the Listen Notes page, episode image, linked-YouTube state, and capture metadata, but the 37,787,301-byte Simplecast MP3 remained only in the working tree.

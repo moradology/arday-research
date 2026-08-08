@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-220/C-900 — the official 21:13.29 *How Do You Cope? — The Gratitude List* MP3 is now committed to GitHub alongside its Apple page and Tapesearch access-boundary captures. Reopen for a manually verified listening pass or complete transcript; keep the poverty/family passage as first-person testimony, not independent evidence.
+
 Fresh binary-preservation checkpoint: SRC-035/C-899 — the 39:19.30 *Portrait of a Londoner* Simplecast MP3 is now committed to GitHub alongside its page snapshot and episode image. The listing/file duration discrepancy and private YouTube state remain explicit; reopen only for a transcript, changed YouTube state, or first-party page.
 
 Fresh binary-preservation checkpoint: SRC-153/C-898 — the official 1:04:58.04 *Now and Men* MP3 is now committed to GitHub alongside its page and artwork. Reopen for a timestamped listening/transcription pass or changed episode state; retain the episode’s “upcoming” book wording as historical 2022 project metadata.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official *How Do You Cope? — The Gratitude List* audio (`SRC-220/C-900`) was checksum-validated and added to the GitHub archive. The 20,372,875-byte 21:13.29 MP3 and Apple/Tapesearch boundary captures are preserved; the partial generated transcript and first-person poverty/family passage remain explicitly unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the *Portrait of a Londoner* Simplecast audio (`SRC-035/C-899`) was checksum-validated and added to the GitHub archive. The 37,787,301-byte 39:19.30 MP3, page, and image are preserved; listing-level timestamps remain unverified and the linked YouTube item remains private. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest binary-preservation checkpoint: on 2026-08-08 the official *Now and Men* audio (`SRC-153/C-898`) was checksum-validated and added to the GitHub archive. The 93,553,902-byte 1:04:58.04 MP3, page, and artwork are preserved; the episode remains an untranscribed first-person interview and its 2022 planned-book wording remains source-versioned. Google Drive was not updated; GitHub remains the active publication target.
