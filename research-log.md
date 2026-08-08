@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-060/C-888: BBC *Moral Maze* binary promoted to GitHub
+
+Audit: the canonical BBC *Moral Maze* record already contained the programme page and capture metadata, but its official non-DRM MP3 remained only in the working tree.
+
+Capture decision: validated the 41,210,368-byte MP3 checksum (`20ac41b054dec61f9468e4f93a20df67d1d4b7e4d1dde3b86df0dd7b660bfa12`) against the metadata and committed the audio. No transcript was exposed and no content claim was promoted from the broadcast.
+
 ## 2026-08-08 — SRC-514/C-887: Guardian *Today in Focus* binary promoted to GitHub
 
 Audit: the canonical Guardian episode record already contained the page, RSS item, lead image, headers, and bounded machine-assisted listening notes, but the 37:44 episode MP3 remained only in the working tree.

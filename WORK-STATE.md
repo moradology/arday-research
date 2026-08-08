@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official BBC Radio 4 *Moral Maze* “Racial Justice” MP3 (`SRC-060/C-888`) was validated against its capture metadata and added to the GitHub archive. The programme-page snapshot and checksum metadata were already present; no transcript or substantive audio claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the official Guardian *Today in Focus* episode audio (`SRC-514/C-887`) was validated against the existing source note and added to the GitHub archive. The 37:44 MP3 is now remotely committed alongside the page, RSS, image, headers, and bounded machine-assisted listening notes; no new allegation or finding was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest binary-preservation checkpoint: on 2026-08-08 the official WNYC/GBH *The Takeaway* audio for the 20 March 2023 episode (`SRC-275/C-886`) was validated against the canonical source note and added to the GitHub archive. The 15:56.13 MP3 and response headers are now remotely committed alongside the page/transcript capture; no new substantive audio claims were added. Google Drive was not updated; GitHub remains the active publication target.

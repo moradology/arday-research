@@ -3,8 +3,8 @@ id: SRC-060
 type: Source
 title: "Moral Maze: Racial Justice"
 date: 2020-06-18
-accessed: 2026-08-06
-status: verified / audio and page locally preserved
+accessed: 2026-08-08
+status: verified / audio and page locally preserved and committed to GitHub
 source_kind: broadcast radio
 entities:
   - ../entities/jason-arday.md
@@ -27,7 +27,7 @@ The BBC Programme Index and independent episode listings identify Jason Arday as
 ## Preservation
 
 - [BBC programme-page snapshot](../assets/documents/bbc-moral-maze-racial-justice-page-2026-08-06.html)
-- [Local MP3](../assets/audio/bbc-moral-maze-racial-justice.mp3)
+- [Local MP3](../assets/audio/bbc-moral-maze-racial-justice.mp3) — now included in the GitHub archive
 - [Capture metadata and checksums](../assets/metadata/bbc-moral-maze-capture-2026-08-06.md)
 
 The MP3 is a broadcast asset, not a transcript or independent corroboration of biographical claims.
