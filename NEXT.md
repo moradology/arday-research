@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh regulator-document checkpoint: SRC-620/C-842 — the Charity Commission-hosted Get Further 2023/24 trustees’ report is locally preserved as a 38-page PDF and records the charity’s appointment of Professor Jason Arday as its first Patron in 2024. This is a distinct documentary manifestation of the existing patron record, not a second appointment; the report’s financials concern Get Further, not Arday. Reopen for a later filing, role-end record, correction, or direct governance document; do not repeat the same 2023/24 download.
+
 Fresh access-boundary checkpoint: SRC-161/C-841 — ARU’s 2021 keynote page remains live, but the exact embedded player `312Fb8E6` timed out after 25 seconds on the 8 August recheck before returning headers or a media manifest. Reopen only after a changed player state, lawful alternate host, transcript, or captions; do not treat the timeout as deletion or repeat the same request without changed evidence.
 
 Fresh recovered-video checkpoint: SRC-572/C-840 — UKCGE’s linked YouTube video `fCOP40WUUSk` is now locally preserved as a 56.24-second 640×360 conference montage with metadata. It is not a complete keynote recording and has no captions; reopen only for a longer public video, manual review confirming an Arday segment, or a distinct slide/transcript artifact.

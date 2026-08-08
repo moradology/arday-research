@@ -179,6 +179,8 @@
 
 ## Image and document leads
 
+- Get Further trustees’ report and financial statements 2023/24 | 2024-08-31 / captured 2026-08-08 | Charity Commission / Get Further | regulator-hosted annual report PDF | [Record](sources/2024-08-31-get-further-annual-report.md) · [PDF](assets/captures/2026-08-08-get-further-annual-report/get-further-2023-24.pdf) · [Official accounts page](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5155298/accounts-and-annual-returns) | 38-page filing; records Get Further’s appointment of Arday as first Patron; charity financials are not personal financial evidence |
+
 - [Oxford ORIGIN project portrait](sources/2023-2028-origin-project-jason-arday.md) — 2023–2028 project page captured 2026-08-06; [local JPEG](assets/captures/2025-origin-project/jason-arday.jpeg) and headers preserved; photographer/date/licence not exposed.
 - [Holding the Space 2026 event imagery](sources/2026-04-30-westminster-holding-space.md) — University of Westminster post-event page; [Arday image](assets/captures/2026-04-30-westminster-holding-space/Jason-Arday-at-Holding-the-Space.gif), group images, posters, and headers locally preserved; image rights/photographer not exposed.
 - [NoWAL Conference 2019 delegate handbook](sources/2019-nowal-conference-handbook-access-boundary.md) — [24-page PDF](assets/captures/2019-nowal-conference-handbook/handbook.pdf), derived text, headers, and rendered keynote/biography pages locally preserved; original URL’s 404 remains a superseded access state.

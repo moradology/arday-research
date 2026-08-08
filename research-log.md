@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-620/C-842: Get Further annual report recovered from Charity Commission
+
+Discovery: official Charity Commission search results identified a distinct 2023/24 Get Further trustees’ report and financial statements, separate from the charity’s January 2025 patron announcement.
+
+Capture: the official accounts page, response headers, and 38-page PDF were recovered. The report’s 2024 achievements section states that Get Further appointed its first Patron, Professor Jason Arday, and repeats the late-literacy/professorial biography wording. PDF SHA-256: `c35bb2ee935421b526575a1d6c87c2c5449c9387706a58a65ce4435f4c4672e7`.
+
+Decision: added SRC-620 and C-842 as a distinct regulator-hosted manifestation, linked to SRC-165 rather than creating a duplicate appointment. Charity accounts are not treated as Arday’s personal financial evidence. No role end date or independent verification of the promotional biography was found.
+
 ## 2026-08-08 — SRC-619/C-836–C-837: Wonkhe recording recovered through IASPM repository article
 
 Discovery: the Leeds Arts University Repository record for Jason Huxtable’s *IASPM Journal* article “Pragmatic White Allyship for Higher Education Popular Music Academics” exposed a direct alternate PDF route and named the underlying Wonkhe YouTube recording.
