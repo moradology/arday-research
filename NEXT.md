@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh publisher abstract/access boundary: SRC-175/C-704 — Springer’s current chapter page now preserves the auto-ethnographic/counter-narrative description and subscription gate for “Being Black, Male and Academic.” Keep this chapter’s autobiographical claims separate from independent biography; reopen only for lawful full text, an author manuscript, or a changed publisher access state.
+
 Fresh co-authored report capture: SRC-072/C-702–C-703 — Leading Routes’ September 2019 *The Broken Pipeline* PDF is now locally preserved and extracted. It records a closed stakeholder roundtable, cited HESA/UKRI context, barriers and recommendations, and planned follow-up activities. Keep it distinct from Arday’s 2017 UCU qualitative report and the 2022 ThinkHigher study; do not treat the roundtable as a population survey or its commitments as delivered outcomes.
 
 Fresh primary report capture: SRC-040/C-700–C-701 — ThinkHigher’s first-party January 2022 *Black Experience Project* PDF is now locally preserved and page-extracted. It records an 11-person convenience-sampled narrative inquiry, explicit non-generalisability, five themes, and recommendations. Keep this commissioned qualitative report distinct from the 2017 UCU doctoral-student study and from population-level claims; reopen only for a changed report version, underlying interview materials, or implementation evidence.

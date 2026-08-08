@@ -1,5 +1,9 @@
 # Research log
 
+# 2026-08-08 — SRC-175/C-704: Springer chapter abstract/access boundary
+
+The current Springer chapter page for “Being Black, Male and Academic: Navigating the White Academy” was captured as a distinct source-version. Its official abstract explicitly calls the chapter auto-ethnographic and a counter-narrative about personal experiences of racism, employment opportunities, staff/student perceptions, Whiteness, and racial microaggressions. The page confirms first-online 1 September 2018 and pp. 161–174, but keeps the chapter body subscription-gated. Recorded this as an author/publisher scope description, not independent corroboration.
+
 # 2026-08-08 — SRC-532/C-677: University of Westminster honorary doctorate
 
 Discovery: a focused institutional-report search surfaced Westminster’s award announcement as a distinct first-party manifestation not yet in the registry. The page records the Honorary Doctor of Letters, graduation remarks, and a credited ceremony photograph. Its childhood and Cambridge-superlative wording is retained as repeated institutional biography, not upgraded to independent proof.
