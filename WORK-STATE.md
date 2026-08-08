@@ -1,5 +1,7 @@
 # Work state
 
+Latest primary-statement retrieval checkpoint: on 2026-08-08 `SRC-094/C-958` preserved a new Good Law Project response. The raw HTML differs from the 6–7 August captures, but extracted visible text is unchanged; this is a retrieval/caching state, not a new statement or institutional finding. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest podcast-topology checkpoint: on 2026-08-08 `SRC-184/C-957` promoted a SHA-256-anchored Spotify-page text derivative for *Talking Matters*. The full MP3 remains the primary interview artifact; the page text and ASR remain non-verbatim navigation layers. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly-source checkpoint: on 2026-08-08 `SRC-609/C-956` promoted the raw LJMU issue-PDF response and the separate article-route HTTP 404 body/headers for the 2013 *Innovations in Practice* article. The issue PDF remains the canonical recovered manifestation; no duplicate publication or misconduct finding was added. Google Drive was not updated; GitHub remains the active publication target.

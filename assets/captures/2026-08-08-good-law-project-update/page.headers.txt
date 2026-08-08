@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 12:55:56 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27ead9d1f55c6b3-OMA
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+link: <https://goodlawproject.org/wp-json/>; rel="https://api.w.org/", <https://goodlawproject.org/wp-json/wp/v2/posts/27503>; rel="alternate"; title="JSON"; type="application/json", <https://goodlawproject.org/?p=27503>; rel=shortlink
+server: cloudflare
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+ki-cf-cache-status: BYPASS
+x-content-type-options: nosniff
+x-edge-location-klb: 1
+ki-cache-type: None
+ki-edge: v=28.4.5;mv=99.9.9
+ki-origin: o1i
+x-kinsta-cache: HIT
+set-cookie: __cf_bm=se0lwb4qy9gErEnOWpJOKfd7TpzwE16ixdja9Z5y2KU-1786193755.6952827-1.0.1.1-vo3jNZisW9F1DzqhBWzRu552ACMnGuQaZ22n.9HmoDXr_l6wp4maCk9R6RByi42VRNYqrTEHqU_ifsdMvd3R7AwlZAohM8nPqXLY58KWxe9jXh56OI8cSnpiL5ESdw6U; HttpOnly; SameSite=None; Secure; Path=/; Domain=goodlawproject.org; Expires=Sat, 08 Aug 2026 13:25:56 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rUxJR%2FXDoKfyZAUafK3vZig5qdBqXtGVwowsWIYaftJZQPfOVo0Un7tA0UbpUB45zCCBgxa3PR0148oR7%2BSdFQOkBx5NrLsy%2BmO0Ky%2BXr1Wm9iBILfGY0ElQTGuuzG4gKcEY7g%3D%3D"}]}
+alt-svc: h3=":443"; ma=86400
+

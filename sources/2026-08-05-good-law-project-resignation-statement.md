@@ -4,8 +4,8 @@ type: personal statement
 title: "An update from Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2026-08-05
-accessed: 2026-08-07
-status: public-page; original and recheck HTML/header captures plus credited portrait preserved
+accessed: 2026-08-08
+status: public-page; original and changed-state HTML/header captures plus credited portrait preserved
 evidence_class: statement published by advocacy organization
 ---
 
@@ -34,3 +34,10 @@ The canonical page returned HTTP 200. Its HTML body is byte-identical to the 6 A
 
 - [Recheck HTML](../assets/captures/2026-08-07-status-recheck/good-law.html) — SHA-256 `bb9e2f3fe6ac69b9edfb579ccbdebdaf238b2e5f4af72be88969272ed07b318e`.
 - [Recheck headers](../assets/captures/2026-08-07-status-recheck/good-law.headers.txt) — SHA-256 `7d99d5e7423c2ad407ad743380dd8748bc5873fadf9150060d8fc3eed4977a89`.
+
+## 2026-08-08 recheck
+
+The canonical page again returned HTTP 200. The raw HTML is byte-distinct from the 6–7 August captures, but the extracted visible page text is unchanged: the three captures produce the same 4,837-character text after script, style, and noscript content is removed. This is a changed retrieval/caching state, not a new statement or a new institutional finding.
+
+- [8 August HTML](../assets/captures/2026-08-08-good-law-project-update/page.html) — SHA-256 `11e463f12261b97946e406c221fa67adfc714940b5f766f1c9122e89ee3d106f`.
+- [8 August headers](../assets/captures/2026-08-08-good-law-project-update/page.headers.txt) — SHA-256 `c138aac6571b91109d964cdf4aaf34dccc4384e2796333fce20ae12dadbf0ebe`.

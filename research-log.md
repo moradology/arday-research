@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-094/C-958: Good Law Project changed retrieval state
+
+Recheck: the canonical “An update from Jason Arday” page returned HTTP 200. The raw HTML and response headers are preserved under `assets/captures/2026-08-08-good-law-project-update/`. The HTML is byte-distinct from the 6–7 August captures, but extraction after removing script, style, and noscript content produced the same 4,837-character visible text.
+
+Decision: added C-958 as a source-version/retrieval-state observation and retained the earlier capture. No new statement, exoneration, misconduct finding, or institutional outcome was inferred. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-184/C-957: Talking Matters page-text derivative promoted
 
 Archive action: preserved `assets/captures/2026-08-08-talking-matters-jason-arday/page.txt`, a 206,871-byte text extraction of the captured Spotify episode page, with SHA-256 `b71ed2e87a14e5e8746f83ab7558a9ce36ddc4bd9180c57d07b0a256bb403983`.
