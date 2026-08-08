@@ -43,7 +43,7 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-037 | `sources/2018-dismantling-race-higher-education.md` | Springer/Palgrave edited book | edited scholarly book | 2026-08-05 | publications, education |
 | SRC-038 | `sources/2021-doing-equity-diversity-higher-education.md` | Edited book; Springer page and cover locally preserved | edited scholarly book / publisher record | 2026-08-06 | publications, education, local assets |
 | SRC-039 | `sources/2025-we-see-things-theyll-never-see.md` | Princeton University Press / De Gruyter book record | authored book | 2026-08-05 | publications, neurodiversity |
-| SRC-040 | `sources/2022-thinkhigher-black-student-experience-report.md` | ThinkHigher report | public report | 2026-08-05 | publications, education, claims |
+| SRC-040 | `sources/2022-thinkhigher-black-student-experience-report.md` | ThinkHigher *Black Experience Project* report; local 18-page PDF and extracted text | public report / commissioned qualitative study / local PDF | 2026-08-08 | publications, education, methodology, young people, local PDF |
 | SRC-041 | `sources/2022-black-professoriate.md` | On Education / Glasgow repository article | scholarly article | 2026-08-05 | publications, higher education |
 | SRC-042 | `sources/2018-understanding-mental-health-students.md` | MDPI journal article | scholarly article | 2026-08-05 | publications, mental health |
 | SRC-043 | `sources/2019-dismantling-power-privilege-reflexivity.md` | *Whiteness and Education* article; current Taylor & Francis article/PDF endpoints preserved as HTTP 403 boundaries | scholarly article / publisher access boundary | 2026-08-06 | publications, education, DOI, access boundary |

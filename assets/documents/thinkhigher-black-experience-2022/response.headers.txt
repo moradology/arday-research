@@ -1,0 +1,17 @@
+HTTP/1.1 200 
+Cache-Control: public, max-age=0
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Permissions-Policy: interest-cohort=()
+Access-Control-Allow-Origin: https://warwick.ac.uk
+Access-Control-Max-Age: 600
+Access-Control-Allow-Credentials: true
+ETag: "f6582964821d1e97f14c13b4f2ce37df557ed019"
+Accept-Ranges: bytes
+Last-Modified: Tue, 11 Apr 2023 11:52:19 GMT
+Server-Timing: db;desc="Database queries (1)";dur=5, objectStorageFetch;desc="Object storage fetches (1)";dur=34, objectStorageRead;desc="Object storage reads (1)";dur=20, total;desc="Total (server)";dur=81
+Content-Type: application/pdf;charset=UTF-8
+Content-Length: 323008
+Date: Sat, 08 Aug 2026 05:37:37 GMT
+

@@ -1,0 +1,722 @@
+C
+
+
+
+
+    ThinkHigher Report
+    _________________________
+    : The Black Experience Project
+
+    Author: Professor Jason Arday
+    Key contributors: Claire Muttock & Jamie Ormes
+    January 2022
+
+
+
+
+    1
+Contents
+1 Background ..................................................................................................................................... 4
+    1.1       About ThinkHigher............................................................................................................. 4
+    1.2       About Coventry & Warwickshire Partnership .............................................................. 4
+    1.3       Commissioning of Work.................................................................................................... 4
+    1.4       The Report Team ................................................................................................................ 4
+2       Introduction ................................................................................................................................ 5
+    2.1 Black in Education .................................................................................................................. 5
+        2.1.1 Outcomes ......................................................................................................................... 5
+        2.1.2 Experience........................................................................................................................ 6
+        2.1.3 A note on intersectionality ........................................................................................... 6
+    2.2 What works .............................................................................................................................. 6
+    2.3 What now ................................................................................................................................. 7
+3 Methodology ................................................................................................................................... 8
+4 Findings and discussion ............................................................................................................... 8
+    Theme 1 (T1): Eurocentric curriculum ....................................................................................... 8
+        T1 Subtheme 1: Negative discourse ..................................................................................... 9
+    Theme 2 (T2): Experiences of racism......................................................................................... 9
+        T2 Subtheme 1: Unfair treatment from teachers .............................................................10
+        T2 Subtheme 2: Microaggressions .....................................................................................10
+        T2 Subtheme 3: Negative stereotyping .............................................................................11
+    Theme 3 (T3): Impacts of racism ..............................................................................................11
+        T3 Subtheme 1: Feelings of exclusion ...............................................................................11
+        T3 Subtheme 2: Mental wellbeing struggles ....................................................................12
+        T3 Subtheme 3: Racial gaslighting and confusion ..........................................................12
+        T3 Subtheme 4: Internalisation ............................................................................................13
+    Theme 4 (T4): Hair .......................................................................................................................14
+        T4 Subtheme 1: Negative ascriptions ................................................................................14
+        T4 Subtheme 2: Fetishization ..............................................................................................14
+    Theme 5 (T5): Opportunities for change ................................................................................15
+        T5 Subtheme 1: Improving staff competence ..................................................................15
+        T5 Subtheme 2: Taking more responsibility .....................................................................15
+        T5 Subtheme 3: Increasing representation .......................................................................16
+
+
+2
+       T5 Subtheme 4: Engaging in dialogue around race .......................................................16
+       T5 Subtheme 5: Creating spaces of belonging ................................................................16
+5 Conclusions ...................................................................................................................................17
+
+
+
+
+3
+1 Background
+1.1 About ThinkHigher
+ThinkHigher is a local network for Coventry & Warwickshire that aims to reduce the gap
+in higher education participation between the most and least represented groups. As one
+of 29 partnerships within Uni Connect, it aims to support effective and impactful local
+collaboration by higher education providers working together with schools, colleges,
+employers and other partners. One of its key objectives is to explore new ways of meeting
+local need and priority in order to meet its overall aims.
+
+1.2 About Coventry & Warwickshire Partnership
+ThinkHigher represents collaboration between partners including the University of
+Warwick, Coventry University, Warwickshire College Group and North Warwickshire and
+Hinckley College, as well as the Local Enterprise Partnership and both Coventry and
+Warwickshire Councils.
+
+1.3 Commissioning of Work
+The murder of George Floyd in May 2020, which fuelled a global burgeoning of the
+existing Black Lives Matter (BLM) movement, initiated for many schools, colleges and
+universities in the United Kingdom (UK) a period of action and reflection. Perhaps for the
+first time, the Education sector recognised the need and value in centring Black lives,
+who both historically and currently represent one of the most disadvantaged groups in
+Britain.
+As part of its aim to reduce the gap in higher education participation between the most
+and least represented groups, ThinkHigher has commissioned a specific project exploring
+the needs and experiences of Black children and young people. By centring the voices of
+Black children across the Coventry & Warwickshire landscape, the project aims to support
+local understanding of needs, priorities and, most importantly, the actions required to
+effect meaningful change.
+
+1.4 The Report Team
+Professor Jason Arday was commissioned by ThinkHigher to produce a report based on
+the experiences of young Black people in Coventry & Warwickshire. Claire Muttock, Data
+& Operations Manager at ThinkHigher, oversaw the project, supported by Jamie Ormes,
+including the collection of data that informed analysis and report recommendations.
+Jason Arday is a Professor of Sociology of Education at the University of Glasgow in the
+School of Education, College of Social Sciences. He is a Visiting Research Fellow at The
+Ohio State University in the Office of Diversity and Inclusion. Jason holds Visiting
+Professorships at Coventry University, London Metropolitan University and Nelson
+Mandela University. He is a Trustee of the Runnymede Trust, the UK’s leading Race
+Equality Thinktank and the British Sociological Association (BSA). Jason sits on the Centre
+for Labour and Social Studies (CLASS) National Advisory Panel and the NHS Race and
+Health Observatory Academic Reference Group. Jason is a Fellow of the Royal Society of
+Arts (RSA).
+
+4
+    2 Introduction
+    This report contributes to the growing body of policy discourse and literature regarding
+    the educational experiences and trajectories of young Black people within the UK
+    Education system. While schools in England continue to show a steady commitment
+    towards addressing educational disparities, particularly among Black, Asian and Minority
+    Ethnic1 pupils, there are still a paucity of measures to tackle the overt discrimination that
+    pupils from this diaspora continue to face alongside a dominant Eurocentric curriculum.
+
+    2.1 Black in Education
+    Over the last ten years, and particularly in the wake of the Black Lives Matter movement
+    since 2020, steps have been taken to illuminate the experiences of Black learners and
+    the racial and structural inequalities that they face within the British Education system.
+    2.1.1 Outcomes
+    In 2018/19, across the Black major ethnic group 59% of pupils attained a standard pass
+    in English and maths GCSE (grades 9 to 4, broadly equivalent to the old A* to C grading).
+    This means Black pupils have the lowest pass rate for GCSE English and maths combined,
+    representing the lowest rate for any major ethnic group (Roberts & Bolton, 2020). This
+    of course impacts on students progressing (or not progressing) into higher, and then
+    further, education.
+                                                    Further exploration of data indicates
+                                                    that Black Caribbean pupils have
+                                                    significantly lower pass rates compared
+                                                    with Black African pupils, highlighting
+                                                    the importance of disaggregating
+                                                    ethnicity data (e.g. Stephenson, 2019).
+                                                               Meanwhile, statistics from the Timpson
+                                                               Report on School Exclusions (2019)
+                                                               point to lower attendance, and higher
+                                                               rates of absenteeism and exclusion
+                                                               among Black young people.
+                                                  However, while focusing on the
+                                                  attainment gap and highlighting
+                                                  negative educational outcomes for Black
+                                                  young people is important, it is essential
+                                                  also to look at education as a wider
+    enterprise, as well as the experiences of young Black people in schools and colleges
+    (Runnymede Trust, 2020).
+
+
+1
+    It is important to acknowledge that the term “BAME”, despite its widespread use, is problematic for a
+    number of reasons (see Aspinall, 2021). The term can both reproduce unequal power relations and assume
+    that experiences of Black, Asian and Minority Ethnic people are equivalent. As is the case in this report, in
+    order to understand the unique experiences of Black children it is important these are disaggregated.
+
+    5
+2.1.2 Experience
+Poor education outcomes among young Black people are a product of the systemic and
+discriminatory terrain which continues to disadvantage the attainment outcomes of Black
+learners. For example, 95% of young Black people have experienced racism in school,
+49% see racism as the greatest barrier to attainment in school and 50% feel teacher
+perceptions of them inhibit educational success (YMCA, 2020). This of course has the
+power to impact their trajectories onto employment, training end further education.
+Racism is associated with poor mental health in young Black people (e.g. Priest et al.,
+2013; Trent et al., 2019), and poor mental health is related to lower attainment and
+attendance in school (Lereya et al., 2019). With this in mind, it becomes easier to see
+how the current and historic systems that Black children are required to navigate
+disadvantage them in subtle and persistent ways. It is these recurrent experiences that
+take a physical and psychological toll on many Black learners, forming the basis of what
+Fasching-Varner terms “racial battle fatigue” (2014).
+2.1.3 A note on intersectionality
+The UK education system privileges and disadvantages minoritised racial and ethnic
+minority groups (Arday 2021), which themselves often intersect with other types of
+inequality (Ogbonna, 2020). UK and international evidence suggest that minoritised
+pupils face at school several problems as part of their social location, including
+intergenerational poverty, lack of parental engagement, and negative attitudes around
+education. These other intersecting and situational components, such as poverty, also
+impair the academic achievement of students and thus further contribute towards the
+existing achievement gap. The consideration of these factors is integral unpacking many
+of the contexts that facilitate this continuous cycle of disadvantage for Black pupils.
+In terms of attainment, for example, 42% of Black Caribbean boys attained 9–4 GCSEs
+in both English and maths, whilst the figure for Black Caribbean girls was 55% (Robert
+& Bolton, 2020). Meanwhile, in terms of experience, for example, Black girls are subject
+to high pressures and expectations, which can themselves lead to mental health
+difficulties (e.g. Epstein et al., 2017), whilst Black boys are impacted by the “failure”
+narrative which teachers can reproduce within their classrooms (e.g. Arday & Morton, in
+press).
+
+ Recommendation
+ •   It is essential that an intersectional lens be adopted when considering the needs
+     of Black young people.
+
+2.2 What works
+At school level, there still remains no targeted funding to address racial and ethnic
+disparities in educational outcomes and separate grants, such as the Ethnic Minority
+Achievement Grant (EMAG), have been incorporated into mainstream grant funding. The
+locus of responsibility continues to remain with schools and local authorities to mobilise
+this agenda against a backdrop of ever-decreasing funding and ever-increasing pressure.
+
+6
+Nevertheless there has been an large body of research conducted within the higher
+education sector that outlines and evaluates the available programmes, initiatives and
+interventions. Unfortunately, much of research in this area that considers race and
+ethnicity regards Black, Asian and Minority Ethnic people as a whole. This makes
+understanding the specific needs of young Black people a challenge.
+There is evidence for the benefits of support programmes and interventions that focus
+on improving educational experiences and outcomes for minority ethnic pupils,
+particularly among Black males who are disproportionately affected by exclusion from
+school and the school-to-prison ‘pipeline’ (Graham, 2016). Within the evidence base
+mentoring programmes are frequently cited (Timpson, 2019) and there is well-
+documented support for their effectiveness in school settings (e.g. Mentoring &
+Befriending Foundation, 2011). The outcomes associated with mentoring appear to be
+impacted by certain variables, including parental participation, mentor training, cultural
+responsivity of programmes, and mentor characteristics such as gender and race
+(Sanchez, Hurd & Neblett, 2017). This highlights the importance of consideration of
+intersectionality, as well as adopting a whole-systems approach that considers the team
+around the child or young person (i.e. the mentor, the parents, etc.). Involving families in
+interventions with young Black people is thus key (Sanchez et al., 2017).
+Non-formal education (e.g. Youth Work) can also improve educational outcomes (National
+Youth Agency, 2014) and can provide an extra step before school exclusions, thus
+disrupting the school to prison pipeline which disproportionately impacts Black students
+and in particular boys (e.g. Timpson, 2019). Additionally, restorative justice approaches
+are associated with positive outcomes among Black and Mixed Heritage students (e.g.
+Brentnall, 2017), and are low intensity and thus accessible to a wide range of Black
+pupils. Such restorative and pastoral approaches, particularly when accompanied by
+interventions at school and systems levels (i.e. involving teachers, parents, and
+educational staff and leaders) can provide a conduit for disrupting conscious biases, and
+racial stereotypes and ascriptions often associated with Black learners.
+
+2.3 What now
+Building on current understanding of “what works” in support young Black people in
+higher education and beyond, this report explores the education experiences of Black
+pupils within the Coventry & Warwickshire area of the Midlands. Together with the
+evidence base, these lived experiences inform a range of recommendations around
+improving educational outcomes and experiences for local Black children and young
+people. The report, produced in conjunction with ThinkHigher and funded by the Office
+for Students (OfS) Uni Connect Programme, intends to provide a framework by which to
+promote action and effect change on behalf of the young Black community.
+
+
+
+
+7
+3 Methodology
+To explore the lived experiences of young Black people in the Coventry & Warwickshire
+area, eleven (N=11) local secondary school students participated in semi-structured
+interviews. Aged between 15 and 18 years old, participants identified as male (n=5,
+45%) and female (n=6, 55%) and were interviewed via virtual platforms (e.g. Zoom,
+Microsoft Teams). The interview schedule comprised prompts based on pre-existing data
+and research in race and education, facilitating an in-depth understanding of the lived
+experience of participants. Of note, the researchers conducting interviews were White,
+both of whom had engaged in dialogue about this when speaking with participants.
+The report is based on qualitative narrative data which were transcribed and themed. The
+adoption of a narrative inquiry was selected due to its flexibility as an analytical and
+accessible research instrumental. Convenience sampling was used to recruit participants,
+which means the findings may not be generalisable (Cohen, 2012). Nevertheless they
+provide a valuable insight and contextualisation of the issues and experiences of young
+Black people navigating higher education.
+
+4 Findings and discussion
+Five themes were identified through analysis. From the first theme, Education Curriculum,
+a sub-theme emerged around negative discourse. From the second theme, Experiences
+of racism, sub-themes emerged around unfair treatment, microaggressions, negative
+stereotypes. From the third theme, Impacts of racism, sub-themes emerged around
+feelings of exclusion, mental wellbeing struggles, racial gaslighting and confusing, and
+internalisation. A fourth theme, Hair, a sub-theme emerged around negative ascriptions
+and fetishization. The final theme, Opportunity for change, sub-themes emerged around
+improving staff competence, taking more responsibility, increasing representation,
+engaging in dialogue around race and creating spaces of belonging.
+Theme 1 (T1): Eurocentric curriculum
+The curriculum was a strong theme across several participants, who spoke of the paucity
+of Black history in current teaching:
+
+        You only really get to hear about these things if you do history, but you
+        only get a small amount. Black History Month they did a little assembly,
+        but there wasn’t really anything in depth. (1, Black female).
+        I wish they could know our history, because we know ours. It would be
+        nice if everyone in the UK knows…because sometimes we just feel left
+        out and confused as to why they don’t know this (3, Black female).
+For some, there was a sense that Black history was not sufficiently taught, and there were
+missed opportunities for dialogue around race and racism. There is a sense that this
+knowledge was being neutralised:
+
+        It’s like we watch a film about it [slavery] and then that’s it but really we
+        should talk about it in depth and the thing that happened during it. (1,
+        Black female).
+8
+This speaks to an erasure of history that has often been synonymous with discussing
+Britain’s troubled past, perhaps pointing to a lack of knowledge that teachers can exhibit
+when engaging in a curriculum that sits outside their lived experience, collective or taught
+history.
+T1 Subtheme 1: Negative discourse
+Within the Eurocentric Curriculum, a sub-theme emerged regarding how participants felt
+that Black History was only discussed in the context of slavery. As well as positioning
+slavery as Black history, rather than White, it means young Black people learning about
+themselves at school do so only through a lens of oppression and trauma:
+
+        You don’t learn about Black history apart from slavery. Teach more Black
+        history, that is definitely a must (6, Black male).
+        We did take like two lessons on the transatlantic slave trade. But no
+        stuff about culture, no stuff about heritage. I feel like if you’re going to
+        talk about African may be acknowledge that there is more to it than just
+        the slave trade (10, Black female).
+As well as speaking to the normative centring of Eurocentric history, the absence of an
+alternative presentation was linked to negative depictions of Black people that in turn
+limit learning:
+
+        You got maybe a few lessons on how people were chained up or put in
+        a ship but they don’t really go in depth in culture and how different
+        ethnic backgrounds celebrate stuff…it leads them to have these
+        stereotypes and allows them to have these views which could lead to
+        the negative comments (2, Black male).
+        You only get portrayed as poor people who are suffering, which is true
+        but there is also a good side to us (2, Black male).
+
+ T1: Recommendations
+
+ •   The teaching of Black history should go beyond slavery and racism, and should
+     include positive racialisation and stories of Black excellence;
+ •   The teaching of Britain’s colonial past should be recognised as White history as
+     well as Black history;
+ •   The curriculum should be taught using a range of methods that promote
+     discussion and sharing of experiences rather than exclusively pedagogy
+ •   Decolonising the curriculum should be seen not just in the context of history, but
+     across all subjects.
+
+
+Theme 2 (T2): Experiences of racism
+A theme emerged around experiences of racism, with all participants relaying incidents
+or anecdotes where they and others had been discriminated against on account of race.
+
+
+9
+These largely fell into three key areas: unfair treatment from teachers, micro-aggressions
+and negative stereotypes.
+T2 Subtheme 1: Unfair treatment from teachers
+Within experiences of racism, many participants were treated differently by teachers.
+There was a clear sense that compared to their white friends or peers, they were treated
+less favourably:
+
+        It’s so obvious they favour the white students to the people of colour
+        (3, Black female).
+For some, this centred on severity of consequence, suggesting bias in the way that
+teachers approached punishment. This was a finding consistent with wider research into
+the experiences of young Black people (YMCA, 2020):
+
+        One of my friends, she’s white, we were playing and the teacher saw
+        and didn’t say anything, and I did the same back to her and all of a
+        sudden she was like “you are too loud why are you shouting, get off
+        her, don’t touch her”. It just felt like my skin was the reason that she did
+        that (1, Black female).
+        Sometimes I feel like the handle situations differently so they might let
+        other people go with something but I would get further punishment for
+        it...your punishment may be more severe (2, Black male).
+        There were so many times where my other Black friends used to get
+        kicked out of lessons, put in all these detentions (11, Black male).
+It was also linked to inhibiting progression, with the sense that Black people are “held
+back” despite putting in the same amount of work:
+
+        You’ve put in all the work and all the effort, you completed the same
+        modules as with everyone else but you have been held back and the
+        only difference is your race (2, Black male).
+T2 Subtheme 2: Microaggressions
+A second sub-theme emerged around the presence of micro-aggressions. Participants
+felt that as well as overt racism, an evolved, nuanced form of racism existed that impacted
+them in more subtle but pernicious ways:
+
+        Nowadays it [racism] is more tactical, it’s micro racism and it’s really
+        hard to see (6, Black male).
+        Some people think racism is the n-word but small micro-aggressions are
+        effective, like I remember one time this girl was saying she was surprised
+        my parents spoke good English (1, Black female).
+        With microaggressions, it’s almost normalised so it feels worse because
+        they don’t realise they are being racist to you…it’s not as easy to call
+        someone out (5, Black female).
+
+
+
+10
+    T2 Subtheme 3: Negative stereotyping
+    The final sub-theme within experiences of racism was around racial stereotyping and how
+    young Black people are perceived as being troublesome:
+
+             There was 6 or 7 Black students in my year and the teachers came up
+             to us and said we needed to separate because we looked like a gang
+             and we looked like we were up to something. But there were groups of
+             white students huddled together and the same wasn’t said to them (5,
+             Black female).
+    This was experienced as difficult to challenge in others, despite the person possessing
+    characteristics that would clearly counter that negative discourse:
+
+             I would consider myself really polite. But if someone has this mental
+             image of you, it is hard to shake it (6, Black male).
+    There was also evidence of colourism2 at play for one participant, who relayed how the
+    shade of his skin amplified the stereotype. This is consistent with research that colourism
+    can affect educational outcomes, including less preferential treatment by both teachers
+    and peers among Black children with darker skin (Adams et al.; Hunter, 2002, 2016):
+
+             I am in a new school and people have been hesitant to come and talk
+             to me, because I wear a lot of tracksuits and they think I already come
+             with a personality that they have that stereotype of a Black person. I’m
+             very dark, so like the stereotype for me especially being Black is not
+             good (6, Black male).
+
+     T2: Recommendations
+
+     •   Teachers should be provided with more training and development opportunities
+         to support identification and challenge of internal biases;
+     •   Data should be collected around consequences (e.g. detention rates, exclusions)
+         and disaggregated ethnicity to monitor and highlight bias in decision-making;
+     •   Colourism should be taught and discussed in school settings, and teachers and
+         educational staff and leaders should challenge these narratives.
+
+
+    Theme 3 (T3): Impacts of racism
+    There was also a dominant theme around the impact that these experiences of racism
+    had on participants, which led to feelings of exclusion, mental health struggles, racial
+    gaslighting and confusion, and internalisation.
+    T3 Subtheme 1: Feelings of exclusion
+    A sub-theme emerged around feelings of exclusion, which for participants left them with
+    unpleasant emotions such as embarrassment and awkwardness:
+
+
+2
+    Colourism typically privileges those with lighter skin tones (Hunter, 2016), who are seen as closer in
+    proximity to whiteness.
+
+    11
+        It was just awkward because like people are always looking at you when
+        they talk about it [Black history]…it kind of feels embarrassing (1, Black
+        female).
+This appeared to be the case in particular when topics around race were brought up,
+suggesting that the teacher or professional facilitating these conversations was not
+sufficiently competent or equipped to do so:
+
+        They knew there was an Asian and a Black person in the class but they
+        still went on talking about it [Asian hate and Black Lives Matter]…they
+        didn’t realise how much it was affecting us in class (3, Black female).
+        They added the word ethnicity in it, and then everyone started laughing,
+        and they looked at me (9, Black male).
+T3 Subtheme 2: Mental wellbeing struggles
+The second sub-theme stemming from impact of racism was around the impact it had on
+the mental wellbeing of participants and other Black people they knew.
+
+        It just kind of brings you down a little bit…I kind of push it aside (1,
+        Black female).
+Some linked distress in particular to the murder of George Floyd and subsequent Black
+Lives Matter movement. This is consistent with wider research into the experiences of
+Black students (e.g. Pennant, 2021), who spoke of the re-traumatisation of Black
+communities:
+
+        Watching the George Floyd situation] was very upsetting (2, Black male).
+        I’m actually feeling the effects of everything that is happening and it’s
+        really traumatising and it was really bad for my mental health (3, Black
+        female).
+This suggests that, while conversation and dialogue around racism and current events is
+of key significance it is equally important that it is facilitated by adults (e.g. teachers,
+learning assistants) in a sensitive manner.
+T3 Subtheme 3: Racial gaslighting and confusion
+A third sub-theme emerged around the impact of navigating racism in a world where it
+is not always recognised, in some cases by the perpetrator and in some cases by the
+recipient. The net effect was a sense of doubt and confusion:
+
+        I didn’t know how to react because I was thinking, is this racist, is it not?
+        (1, Black male).
+        Even my brother has been through stuff where he was so confused…you
+        don’t even notice that someone is being racist until you realise later (3,
+        Black female).
+        It’s like people would look at me, but then again it could be me
+        overthinking stuff (7, Black male).
+
+
+12
+Navigational and resistant capital are forms of capital held by young Black people that
+equip them to traverse systemically racist institutions such as school, college and
+university. With greater understanding of how to support their pupils to increase these,
+teachers could help Black children to be better equipped and more confident in
+navigating and challenging individual and institutional forms of racism and discrimination.
+T3 Subtheme 4: Internalisation
+The final sub-theme that emerged within impacts of racism was around the ways in which
+participants internalised their experiences. Some felt that they had no choice but to
+ignore it, because taking an alternative path would further deepen the problem and they
+would be perceived negatively. This had a psychological cost to doing so, which
+reinforces the literature around the impact of racism on mental health (e.g. Priest et al.,
+2013):
+
+        You have to turn a blind eye to it. We are told when someone says a
+        racist remark just don’t retaliate ‘cuz it’s going to be worse for you (9,
+        Black male).
+        Just being quiet and trying not to make them classify you as a stereotype
+        because that could be really damaging. You try not to let anyone see
+        how angry you are, you just keep your head down…I’m scared I’m going
+        to be seen in a certain way. It stresses you out, you feel tired all the time
+        (3, Black female).
+There was a sense that the responsibility for dealing with the problem sat with them, with
+a lack of trust that the adults (e.g. teachers) around them would challenge racism and/or
+support those experiencing it:
+
+        When those acts of racism were going on, it was often up to the students
+        to deal with it themselves, because the teachers wouldn’t do anything
+        about it (10, Black female).
+        I think the support system just isn’t there, there was no one you could
+        go to, nowhere you could go and talk. Your support system had to be
+        the people around you. If you didn’t have good friends you didn’t have
+        anyone to talk to (10, Black female).
+This is key, as it highlights the additional burdens that racism can place on young Black
+shoulders. This is evident not just at an individual level (not saying anything, holding
+emotions in, trying not to react) but at a collective level (leaning on peers, dealing with
+issues as a student group), which as well as placing a shared burden on Black pupils also
+increases the risk of unsanctioned and thus repeated behaviour.
+
+ T3: Recommendations
+ •   Staff should be provided more training and development to be able to sensitively
+     facilitate classroom discussions around race and racism;
+ •   Educational staff should develop understanding of how to support their pupils to
+     build navigational and resistance capital (Yosso, 2005);
+
+
+13
+ •   Clear mechanisms should be in place for addressing and challenging racism;
+ •   Support systems should be put in place for young Black children experiencing
+     racism, which is clearly communicated and implemented by all staff.
+
+Theme 4 (T4): Hair
+There was a strong theme around the interplay between racism and hair. This was
+experienced both through negative ascriptions and fetishizing. This suggests that the
+choice to wear their hair natural, styled and/or grow it out would be accompanied by
+unwanted attention, treatment or comments from others.
+T4 Subtheme 1: Negative ascriptions
+Participants felt their hair was used as a means of insulting them, dehumanising them,
+ostracising them and/or stereotyping them:
+
+        This one time this girl was saying my hair was straw (1, Black female).
+        I’ve had experiences like “your hair looks funny” when that is my natural
+        hair. I can’t change that I’m a normal human being like you (6, Black
+        male).
+        I wanted to grow my hair out and my Dad did tell me that I was going
+        to get looks from people because it is a stereotypical look (7, Black
+        male).
+        They give me dirty looks all the time whenever I have my afro (11, Black
+        male).
+T4 Subtheme 2: Fetishization
+Young Black people found that their non-Black peers would react in fascination at their
+“different” hair. This appeared to underpin the experience of Black girls in particular, who
+also felt that this was an invasion of personal space:
+
+        When I get a new hair style, like braids for instance, it’s like “oh my god
+        your hair looks so nice, how long did it take, can I touch it? It feels weird
+        (1, Black female).
+It could be experienced as a pattern of dominance, itself a reinforcement of whiteness,
+when others touch their hair without consent:
+
+        As a Black woman, they like to touch my hair a lot, like without my
+        consent…like not actually having control over my body (4, Black female).
+        The girl ran up to me and started squishing my hair and was like “oh
+        gosh your hair is so fluffy” and it left a weird taste in my mouth, I was
+        like, am I an exhibition, am I just like there to be looked at? (5, Black
+        female).
+Indirectly, these may reinforce decisions of young Black people to subject themselves to
+Eurocentric beauty standards (i.e. chemical treatments, weaves or wigs) or other methods
+of erasure (i.e. shaving).
+
+14
+ T4: Recommendations
+ •   Touching a pupil’s hair without their permission should be considered unacceptable
+     behaviour, and should be managed as such and reflected in relevant policies;
+ •   When consent is taught within PSHE and other relevant forums, hair should be
+     included as a topic of discussion.
+
+Theme 5 (T5): Opportunities for change
+The final theme that emerged was around opportunities for change. In some cases,
+participants highlighted a lack of what was needed in order to improve their experiences,
+and in others, participants made explicit recommendations for what action could be
+taken.
+T5 Subtheme 1: Improving staff competence
+A strong sub-theme centred on the need to upskill teachers to manage racism, but also
+developing their cultural competence when teaching or facilitating learning around areas
+they are less familiar with.
+
+        I feel like teachers could be trained so that if they spot a situation that
+        is similar to like a micro-aggression or something racist then they can
+        like tell the people what they have done wrong and put it right (1, Black
+        female).
+        I don’t think they have a very good understanding of micro-aggressions
+        Leadership positions in schools should get more education on how to
+        deal with racial discrimination (5, Black female).
+        It was strange, they had an interfaith week where they did food from
+        around the world, but the food was so bad and not at all reflective of
+        the cultures. It was al really culturally insensitive (10, Black female).
+T5 Subtheme 2: Taking more responsibility
+This sub-theme spoke to the need for teachers to take responsibility for addressing racist
+behaviour:
+
+        I have heard stories of people saying the n-word, it’s like why is this not
+        being picked up on, why aren’t teachers doing anything about this? (7,
+        Black male).
+The ability to tune out experiences of racism can be seen as exercising racial privilege,
+leaving young Black people who are unable to turn away from their experiences left
+frustrated. This can explain why some participants engage in the internalising behaviours
+outlined within the impact of racism.
+
+        Instead of closing their eyes, plugging their ears, or turning away from
+        it, just not considering it their responsibility…like my job is to teach, it’s
+        not my job to have these uncomfortable conversations with students
+        (10, Black female).
+
+
+15
+T5 Subtheme 3: Increasing representation
+A key sub-theme was around the importance of representation, with a number of
+participants highlighting the impact of when there was, and when there wasn’t:
+
+        The majority of my school life there have been predominantly white
+        teachers. If you don’t see people of power around you, you’ll think why
+        is there not someone who looks like me, so you have someone to
+        emulate (2, Black male).
+        I only have white teachers, my sixth form is really not diverse. There are
+        no people of colour on the board (3, Black female).
+        I feel like I’ve been supported by teachers…I had some Black male
+        teachers and some female ones (9, Black female).
+One participant highlighted the positive impact that having a more diverse workforce had
+not just on them, but the white pupils in their classroom:
+
+        My physics teacher was Asian and we would talk a lot about these kinds
+        of issues. For them [the white boys] they finally got to understand…it
+        was kind of a moment of realisation for them, like oh these issues exist
+        and effect real people (5, Black female).
+T5 Subtheme 4: Engaging in dialogue around race
+One of the other ways in which participants spoke about opportunities for change was
+in the need to better engage in dialogue around race and racism. There was a sense that
+this included feelings and emotions as well as learning and culture, which are of course
+often inextricably linked:
+
+        They don’t really give us the opportunity to talk about how we feel and
+        how we could make a change. They just need to provide us with a
+        platform to talk about our struggles, to talk about our experiences in
+        school (2, Black male).
+        I feel like it [BLM] was the perfect opportunity to have these sorts of
+        conversations…I feel like it was a bit of a missed opportunity (5, Black
+        female).
+One participant highlighted the benefits of sharing their experiences, both on other Black
+people and fellow students who can learn from these:
+
+        There definitely needs to be more lessons on Black issues. Yeah, like
+        social issues and racial experiences, but Black people are allowed to talk
+        about their experiences and share them with fellow students (5, Black
+        female).
+T5 Subtheme 5: Creating spaces of belonging
+The final sub-theme centred on the need for spaces of belonging to exist for Black people.
+For many this was to access spaces in which to experience trust, inclusion and friendship.
+It appeared that most saw the most obvious way of doing this as having spaces in which
+young Black people could be in community with each other:
+
+16
+        Make us feel together, like a community of people who rely on each
+        other, depending on each other and trust each other (2, Black male).
+        A programme for Black students so they can meet fellow Black students,
+        so they can feel like they got somewhere to go cuz personally I didn’t
+        have many Black friends and I felt somewhat alone (5, Black female).
+        Have a place for Black students to gather and be themselves, just
+        express themselves, like maybe art of music, embracing their culture and
+        being unapologetic (5, Black female).
+        I see mixing as good, it’s very ostracizing to be the only Black person in
+        a group of white. I was in a group of white girls and I just couldn’t
+        assimilate, and no one ever made an effort to explain and I wasn’t part
+        of the culture. It would have been nice to know another Black girl (10,
+        Black female).
+However, belonging was not just defined by sharing spaces with other Black people.
+Having a non-judgmental, open space in which to feel heard and understood was
+recognised as being valuable and comforting:
+
+        I want a place where I feel comfortable and so I will be able to voice my
+        opinions without nothing being taken away from me (3, Black female).
+
+ T5: Recommendations
+ •   See T2 recommendations, plus;
+ •   The need to develop cultural competence, awareness and an ability to challenge
+     racism and engage in dialogue around race should be reflected in relevant policies,
+     strategies and role descriptions;
+ •   Senior leaders should model having courageous conversations with staff and pupils,
+     and encourage and facilitate dedicated spaces for staff to do the same;
+ •   Schools and colleges should ensure they are taking steps to increase the
+     representation of their staff, including senior leadership teams;
+ •   Schools and colleges should conduct reviews, in conjunction with Black pupils,
+     parents and staff, to identify ways in which to foster belonging;
+ •   Schools and colleges should consider making use of partnerships with each other
+     to facilitate shared spaces of belonging, particular where they have lower numbers
+     of Black pupils and staff.
+
+5 Conclusions
+The key themes that emerged were around having a Eurocentric curriculum, experiences
+and impact of racism, hair (itself revealing a further form of racism), and opportunities for
+change. The normality of the omission of Black history when discussing aspects of
+curriculum, particularly in terms of understanding its importance, remains problematic
+and can create a disinterest in the curriculum among Black pupils unable to recognise
+themselves in their curriculum. This becomes an important part of how make sense of the
+engagement and learning experiences particularly when attempting to discern the impact
+
+17
+upon attainment. As reflected in the recommendations here and in much other literature
+(e.g. The Black Curriculum Report, 2019), there is an urgent need for review and reform.
+The pervasive nature of racism and how it is experienced in the classroom and beyond
+remains a cause for concern. Black pupils continue to experience racism in a range of
+insidious ways, which impacts on the way they are treated and perceived by others, the
+support and opportunities they access, and their mental health. For the latter, this also
+interplayed with the murder of George Floyd. The BLM movement was seminal moment
+in the lives of young Black people globally; for the participants in the study, this
+represented a period of empowerment but was also distressing. It also spoke to the
+resistance of the movement and at times the performative solidarity by schools and
+individuals that undermined the serious message behind the BLM endeavour. Young
+Black people require more support from the systems around them, both to reduce the
+racism they experience and to support them when (not if) they do.
+Finally, the opportunities for change should sit squarely with educational leaders and not
+on young Black shoulders. The context considered is hugely important with regards to
+how Black pupils make sense of their place within the classroom space and how these
+interactions with peers and teachers impact aspects of learning, attainment and
+belonging. Steps should be taken to demonstrate to young Black people that they are
+being listened to and understood, and that actions are being taken to improve their
+educational experiences. It is thanks to the generosity of the participants who shared
+their experiences that this report is able to make such recommendations.
+
+
+
+
+18
+

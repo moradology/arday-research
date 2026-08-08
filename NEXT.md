@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh primary report capture: SRC-040/C-700–C-701 — ThinkHigher’s first-party January 2022 *Black Experience Project* PDF is now locally preserved and page-extracted. It records an 11-person convenience-sampled narrative inquiry, explicit non-generalisability, five themes, and recommendations. Keep this commissioned qualitative report distinct from the 2017 UCU doctoral-student study and from population-level claims; reopen only for a changed report version, underlying interview materials, or implementation evidence.
+
 Fresh full-text classification: SRC-044/C-699 — the preserved nine-page *Fighting the tide* PDF is explicitly labelled “Editorial” and contains cited statistics, literature-based argument, and recommendations but no new participant sample or results section. Keep its title, citation, and contributor biography separate from the 2017 UCU empirical report; reopen only for a materially different version or underlying cited dataset.
 
 Fresh primary-output extraction: SRC-029/C-697–C-698 — page-level extraction from the preserved January 2021 *Black Curriculum* PDF records the report’s content-analysis corpus, explicit data limitations, recommendations, and year-round “quick wins.” Keep these as authored policy analysis and stated methodology, not as an independent curriculum audit or implementation evidence. Reopen only for cited underlying datasets, a transparent school-level study, implementation evidence, or a changed first-party report version.

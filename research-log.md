@@ -2483,6 +2483,12 @@ Capture: preserved the article HTML, headers, lead WebP image, and both archived
 
 Evidence handling: the page-version difference is directly observable. The article’s claims about a university-job CV, an MBE offer, advertising complaints, publisher proof comparisons, and publisher editing are retained as reported leads because the cited CV, underlying correspondence, podcast capture, and book proofs were not recovered here. Do not turn this source into a final fraud finding or conflate changing biography copy with proof of intent.
 
+# 2026-08-08 — SRC-040/C-700–C-701 ThinkHigher report capture and extraction
+
+The first-party ThinkHigher PDF for *The Black Experience Project* was not previously locally preserved. It was downloaded from the project’s public URL, verified as an 18-page PDF, hashed, and extracted with `pdftotext -layout`. The report identifies Arday as author, says ThinkHigher commissioned the work, and records 11 secondary students aged 15–18 interviewed remotely.
+
+The methodology states that the data were qualitative narrative interviews, convenience-sampled, transcribed, and themed; it explicitly warns that findings may not be generalisable and notes that interviewers were White. The findings are organized into five themes—curriculum, racism, impacts, hair, and opportunities for change—with participant-attributed excerpts and recommendations. Recorded this as a commissioned qualitative report, not a population survey or independent causal study.
+
 # 2026-08-08 — SRC-044/C-699 Fighting the tide full-text classification
 
 The preserved PESA Agora PDF was extracted at page level and compared with the DOI record. The article is explicitly labelled “EDITORIAL,” uses cited HESA/Leading Routes/AdvanceHE figures and literature, and contains recommendations on recruitment, studentships, mentoring, communities of practice, and institutional accountability. No new participant sample, interview protocol, statistical analysis, or original results section appears in the recovered text.
