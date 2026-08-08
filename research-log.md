@@ -1727,6 +1727,14 @@ Capture: the alternate route returned HTTP 403 challenge HTML rather than a PDF.
 
 Decision: updated SRC-225 with the alternate route and access state. No new source node or claim was created. Reopen only for a lawful agenda binary, post-event report, recording, transcript, or changed endpoint.
 
+# 2026-08-08 — Institutional-outcome search boundary
+
+Discovery: exact-name searches across Cambridge, Liverpool John Moores, Queen’s University Belfast, and general university-investigation results returned the already-catalogued Cambridge statement/AP report, QUB/BBC response, Telegraph process report, and existing commentary/source-propagation records. No new official investigation outcome, terms of reference, inquiry report, appointment-review document, or direct LJMU/QUB/Cambridge case statement was exposed.
+
+Evidence handling: repeated Reddit and commentary results were not treated as institutional evidence. The AP report and Cambridge/QUB statements remain separate canonical records; public claims about clearance, scope, fabrication, or resignation rationale remain attributed to their respective sources.
+
+Decision: no source node or claim was created. Reopen only for a changed official endpoint, named terms of reference, primary inquiry/report document, direct university statement, or adjudicative outcome; do not repeat this exact domain/query family unchanged.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
