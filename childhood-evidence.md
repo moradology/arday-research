@@ -24,4 +24,6 @@ Arday’s public life story places his childhood in Clapham, in a Ghanaian famil
 
 Do not repeat exact-name searches for the same childhood phrases. Reopen a row only when one of these changes: a direct memoir or recording becomes accessible; a named school/club/tour appears; a host publishes a primary record; or a source gives a materially different date or formulation. Record the changed state in `research-log.md` and update the existing claim rather than creating a duplicate.
 
-Last reviewed: 2026-08-06.
+Additional source-version: EC Science’s 1 February 2024 “Celebrating Black Scientists” profile repeats the Clapham/autism/speech/literacy/Merton/Sandro narrative but supplies no citations or underlying school or clinical records. Keep it in the propagation layer rather than treating it as corroboration. [EC Science profile](sources/2024-02-01-ecscience-celebrating-black-scientists.md)
+
+Last reviewed: 2026-08-08.

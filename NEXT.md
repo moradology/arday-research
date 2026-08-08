@@ -4,6 +4,8 @@ Fresh institutional-award record: SRC-532/C-677 — Westminster’s 26 July 2024
 
 Fresh controversy-media record: SRC-533/C-678 — *The Daily Sceptic*’s 25 July 2026 opinion article and image are preserved as a low-provenance propagation witness. It adds no primary audit or institutional finding. Reopen only for a correction, underlying document, or materially different source version.
 
+Fresh childhood source-version: SRC-534/C-679 — EC Science’s 1 February 2024 Black History Month profile and image are preserved as an uncited organizational retelling. It adds no independent school, clinical, or career record. Reopen only for a cited source, original interview, or materially different EC Science version.
+
 Fresh company-status record: SRC-531/C-676 — Companies House records Avenging Angels Ltd as dissolved by voluntary strike-off on 22 July 2025 and records Arday’s director/PSC cessation on 18 March 2024. Reopen only for a filed document that materially changes this legal timeline; do not infer company activity, finances, or reason for dissolution.
 
 Fresh professional-output record: SRC-530/C-675 — BABAO’s May 2021 Race Equality Review names Arday and Lizzy Craig-Atkins as authors and records Arday’s commissioned reviewer role. Browser-readable PDF text is available, but direct shell retrieval is Cloudflare-blocked and the PDF binary is not local. Reopen only for a lawful PDF mirror, BABAO-hosted copy, or changed repository state; do not infer additional role or content beyond the cited report text.

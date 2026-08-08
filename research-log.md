@@ -12,6 +12,12 @@ Discovery: a focused controversy-media search surfaced Will Jones’s 25 July 20
 
 Capture: article HTML, response headers, and the 940×614 article image were downloaded from the canonical URL. The source is retained as a low-provenance propagation witness, with its rhetorical labels kept attributed.
 
+# 2026-08-08 — SRC-534/C-679: EC Science childhood-profile source-version
+
+Discovery: the childhood/education search surfaced EC Science’s 1 February 2024 Black History Month profile by Jacie Chandler. It is a distinct organizational profile not yet in the registry, but its biographical material is uncited and repeats existing public narratives.
+
+Capture: page HTML, response headers, and the 940×726 article image were downloaded. The record is linked into the childhood evidence map as propagation topology, not independent corroboration.
+
 # 2026-08-08 — SRC-531/C-676: Avenging Angels Companies House state
 
 Discovery: an official-registry search found a company-status record not represented by the existing personal-appointments snapshot.
