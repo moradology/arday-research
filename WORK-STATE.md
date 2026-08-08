@@ -1,5 +1,7 @@
 # Work state
 
+Latest integrity-process checkpoint: on 2026-08-08 `SRC-883/C-885–C-886` and `SRC-884/C-887–C-888` captured two first-party *Times Higher Education* artifacts: Chris Havergal’s editor’s note and Jack Grove’s reporter account. They preserve *THE*’s editorial rationale, the reported police-contact chronology, and stated 63/97-page evidence submissions, while leaving the underlying dossier, police record, LJMU report, and adjudication unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest integrity-source checkpoint: on 2026-08-08 `SRC-882/C-884` preserved a byte-distinct recheck of the already-canonical Cofnas Substack article. The article’s visible substantive text and publication date remained unchanged, while engagement counters rose to 1,404 likes, 286 comments, and 169 restacks; these are volatile reception metadata, not corroboration. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-proposal boundary: on 2026-08-08, a targeted search for the *Great and Unfortunate Things* proposal found only the already-preserved Simon & Schuster Spring 2025 and Spring 2026 rights-catalogue versions (`SRC-504` and `SRC-321`). No new proposal, manuscript, review, or interview artifact was recovered; the distinction between proposal/version metadata and independent biographical evidence remains explicit. Google Drive was not updated; GitHub remains the active publication target.

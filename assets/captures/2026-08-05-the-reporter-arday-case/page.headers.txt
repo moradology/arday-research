@@ -1,0 +1,26 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-drupal-cache: HIT
+etag: "1786048123-0"
+last-modified: Thu, 06 Aug 2026 20:28:43 GMT
+cache-control: public,max-age=0,stale-while-revalidate=60,stale-if-error=300
+content-language: en
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+link: <https://www.timeshighereducation.com/node/744335>; rel="shortlink"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+referrer-policy: strict-origin-when-cross-origin
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 183414
+date: Sat, 08 Aug 2026 23:32:01 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-eglc8600066-LCY, cache-dfw-kdfw8210143-DFW
+x-cache: HIT, HIT
+x-cache-hits: 107, 0
+x-timer: S1786231921.190168,VS0,VE5
+vary: Cookie, Accept-Encoding
+

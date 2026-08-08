@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-883/C-885–C-886 and SRC-884/C-887–C-888: *Times Higher Education* process artifacts
+
+Discovery: direct retrieval of the two *Times Higher Education* opinion URLs linked from the public controversy discussion returned HTTP 200 pages that were not yet represented in the registry: editor Chris Havergal’s 3 August note and reporter Jack Grove’s 5 August first-person account.
+
+Capture: both full HTML pages, response headers, and their lead images are preserved. The editor’s note was updated on 6 August to add the Metropolitan Police reference; the reporter’s account was likewise updated on 6 August. The pages expose the publication dates, bylines, body text, and image credits.
+
+Classification: these are valuable first-party accounts of *THE*’s editorial and reporting process. The editor records the public-interest rationale for the unpublished inquiry and attributes LJMU/police process claims; Grove records his own contact chronology, stated 63-page report and 97-page submission, and three direct emails. Neither page supplies the underlying LJMU report, police record, unpublished dossier, or final institutional finding. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-882/C-884: Cofnas Substack changed-state recheck
 
 Discovery: the academic-integrity search re-opened Nathan Cofnas’s public 21 July 2026 article, which is already canonically represented by `SRC-379` and the fuller `SRC-476` manifestation.
