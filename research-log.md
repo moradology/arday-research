@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-875/C-876: Spotlight Series playlist topology audited
+
+Audit: the compilation links three public SoundCloud playlists. Each current page exposes five titled tracks, for 15 tracks total. The titles identify other guests and topics but do not name Jason Arday.
+
+Decision: preserved all six playlist HTML/header files and added a negative-space claim. The playlist structure does not identify a standalone Arday episode or locate his clip, but it also cannot show that the clip is absent from the compilation. Reopen only for a lawful compilation audio file, transcript/captions, or an Arday-specific segment boundary. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-875/C-875: Surviving Society Spotlight compilation recovered as access-boundary record
 
 Discovery: a SoundCloud search for uncatalogued Arday media surfaced Surviving Society’s “The Spotlight Series Best Bits! (Part One),” published 11 April 2022. The host description names Arday among seven featured contributors and links the three Spotlight Series playlists.

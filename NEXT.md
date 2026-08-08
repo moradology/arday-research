@@ -1,5 +1,7 @@
 # Next actions
 
+Spotlight playlist-boundary checkpoint: SRC-875/C-876 — the three linked SoundCloud Spotlight Series playlists were captured and enumerate 15 titled tracks, none naming Arday. This closes the obvious playlist-topology route without claiming the compilation lacks his clip. Reopen only for a lawful compilation audio file, transcript, captions, or an Arday-specific segment/time boundary.
+
 Fresh podcast-manifestation checkpoint: SRC-875/C-875 — Surviving Society’s 11 April 2022 “Spotlight Series Best Bits! (Part One)” SoundCloud compilation names Arday among its featured contributors. Page, oEmbed, artwork, and a current HTTP-401 media boundary are preserved; no audio or Arday-specific segment was recovered. Reopen only for a lawful audio binary, transcript/captions, or an individual clip/time boundary; do not duplicate the existing Surviving Society episodes.
 
 Fresh memoir-source checkpoint: SRC-874/C-874 — The Hawaii Project retailer listing was captured as a source-propagation witness. Its indexed copy repeats the memoir’s “second youngest of three boys” formulation, while the live page returned HTTP 403; no new edition or excerpt was recovered. Reopen only for a distinct public product state, lawful preview, image, or full text; do not count it as independent corroboration.
