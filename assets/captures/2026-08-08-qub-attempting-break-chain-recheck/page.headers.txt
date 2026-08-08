@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 22:30:12 GMT
+content-type: text/html;charset=UTF-8
+content-language: en-GB
+content-security-policy: default-src 'self' *.adobedtm.com *.altmetric.com *.cloudfront.net *.demdex.net *.elsevier.com *.google-analytics.com *.analytics.google.com *.googleapis.com *.googletagmanager.com *.gstatic.com *.cloudflare.com *.hotjar.com *.onetrust.com *.vimeo.com *.youtube.com *.g.doubleclick.net api.plu.mx bam-cell.nr-data.net bam.nr-data.net cdn.cookielaw.org *.elseviercdn.cn elsevier.data.adobedc.cn cdn.plu.mx cm.everesttech.net js-agent.newrelic.com www.google.com 'unsafe-inline' 'unsafe-eval' data: *.pendo.io analytics.google.com google-analytics.com googletagmanager.com; img-src 'self' * data:; frame-src 'self' *.cloudflare.com *.vimeo.com *.youtube.com elsevier.demdex.net *.pendo.io pureadmin.qub.ac.uk
+last-modified: Fri, 07 Aug 2026 00:00:00 GMT
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+tdm-reservation: 0
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-product: Pure Portal
+set-cookie: __cf_bm=mHvgyI0rvA38kYa7pYoEb6yN8V8scq0sCtK5o_JSW_M-1786228211.7964706-1.0.1.1-_3C4wfulgU79kFxAAr8gksJSb_QlwAEcDu3tJem_Nfh_gJMzI08PJTnxsQjsT7EXFM1cwPGrKKji8XcCQwFUgEoP1ajC_lsWmidALCG_7PK_B9SwkDgS__.vvDH0WT02; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.qub.ac.uk; Expires=Sat, 08 Aug 2026 23:00:12 GMT
+cf-cache-status: BYPASS
+content-encoding: br
+cf-ray: a281f6d3b8590043-ORD
+alt-svc: h3=":443"; ma=86400
+

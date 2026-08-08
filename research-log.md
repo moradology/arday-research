@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-612/C-870: QUB article-record page-state recheck
+
+Recheck: the canonical Queen’s University Belfast Research Portal record for *Attempting to break the chain* returned a byte-distinct HTML body. The captured page displayed 184 Scopus citations and 1,555 downloads; its title, authors, DOI, dates, pagination, and accepted-manuscript/peer-reviewed-version labels remained unchanged.
+
+Decision: preserved the recheck HTML and headers within SRC-612 and added C-870 as a volatile page-state observation. The metrics are not treated as evidence about article quality, validity, or the separate QUB investigation. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-094/C-958: Good Law Project changed retrieval state
 
 Recheck: the canonical “An update from Jason Arday” page returned HTTP 200. The raw HTML and response headers are preserved under `assets/captures/2026-08-08-good-law-project-update/`. The HTML is byte-distinct from the 6–7 August captures, but extraction after removing script, style, and noscript content produced the same 4,837-character visible text.

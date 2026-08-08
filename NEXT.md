@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly page-state checkpoint: SRC-612/C-870 — QUB’s canonical Research Portal record for *Attempting to break the chain* was re-fetched on 8 August 2026. The article metadata and version labels remain unchanged, while the page now exposes 184 Scopus citations and 1,555 downloads; the changed HTML and headers are preserved. Reopen only for a substantive correction, direct QUB investigation document, or materially changed article/version state; do not treat portal metrics as quality evidence.
+
 Fresh primary-statement retrieval checkpoint: SRC-094/C-958 — the Good Law Project resignation page returned HTTP 200 on 8 August 2026. Its raw HTML changed from the 6–7 August captures, but extracted visible text remained identical; both states are preserved. Reopen only for a substantive wording change, a replacement first-party statement, or an institutional investigation outcome; do not count dynamic markup changes as new evidence.
 
 Fresh podcast-topology checkpoint: SRC-184/C-957 — preserved and hash-anchored the Spotify-page text derivative for *Talking Matters*. The full MP3 remains the primary interview artifact; page copy and ASR remain non-verbatim navigation layers.
