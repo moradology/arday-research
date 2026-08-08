@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh governance-document checkpoint: SRC-634/C-869 — South Bank Colleges’ 20 November 2024 board minutes corroborate the group’s first Honorary Fellowship for Arday at the October 2024 Royal Festival Hall graduation ceremony. The PDF and printed-page render are locally preserved; the repeated Cambridge superlative remains host copy. Reopen only for an award certificate, ceremony programme, or changed institutional record; do not count this as a second award.
+
 Fresh report-recovery checkpoint: SRC-633/C-867–C-868 — BERA’s January 2023 78-page staff-equality report and its linked HESA data tables are now locally preserved. It is a distinct collaborative report, not a duplicate of the later Belluigi/Arday/O’Keeffe journal article. Reopen only for a materially different BERA version, correction, or project artifact; do not treat its sector-level findings as personal biography evidence.
 
 Archive-integrity checkpoint: the 8 August audit repaired two concrete defects: TEDx media links now resolve to the captured directory, and the MMU keynote registry alias was consolidated to its declared canonical ID SRC-058. Future audits should still distinguish intentional legacy multi-source index aliases from newer source records that lack front-matter IDs.

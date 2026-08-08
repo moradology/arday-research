@@ -1,0 +1,31 @@
+HTTP/2 303 
+date: Sat, 08 Aug 2026 14:47:21 GMT
+content-type: text/html; charset=utf-8
+expires: Wed, 17 Aug 2005 00:00:00 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=87363cb79186709ec8a8e1a006827388; path=/; secure; HttpOnly
+strict-transport-security: max-age=63072000; includeSubDomains
+access-control-allow-origin: https://southbankcolleges.ac.uk
+x-content-type-options: nosniff
+location: https://www.southbankcolleges.ac.uk/documents/governance/board-minutes/september-2024-july-2025/296-sbc-board-minutes-20-november-2024/file
+last-modified: Sat, 08 Aug 2026 14:47:21 GMT
+content-security-policy: default-src https://cdn.veritonic.com https://*.veritonicmetrics.com https://ai.fe.expert https://*.southbankcolleges.ac.uk https://sbc.fe.expert/ https://sbc.fe.expert:5000 https://*.virtualartgallery.com https://kuula.co http://*.kuula.co https://*.clarity.ms https://googleads.g.doubleclick.net https://kuula.co https://*.joomlatools.com https://*.pcapredict.com https://*.vimeo.com https://*.postcodeanywhere.co.uk https://*.reciteme.com https://*.google-analytics.com https://*.googletagmanager.com https://connect.facebook.net https://*.google.com https://*.gstatic.com https://*.fontawesome.com https://*.facebook.com https://*.googleapis.com https://*.bing.com https://*.ads-twitter.com https://*.youtube.com https://*.googleadservices.com https://*.flxpxl.com https://*.stackadapt.com https://*.doubleclick.net https://*.hotjar.com https://*.hotjar.io https://sc-static.net https://*.tiktok.com https://*.snapchat.com 'unsafe-inline' 'unsafe-eval' 'self'; frame-ancestors 'self'; font-src https: data: 'self'; img-src https: data: 'self';
+cache-control: public, public
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:47:22 GMT
+content-type: application/pdf;charset=utf-8
+cache-control: no-store
+content-disposition: inline;filename*=UTF-8''SBC%20Board%20Minutes%20-%2020%20November%202024%20%28APPROVED%20%26%20PUBLISHED%29.pdf
+server-timing: tot;desc="Total";dur=437
+set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=2721d315336687de176b4aa248487b5f; path=/; secure; HttpOnly
+set-cookie: referrer_site_locked=deleted; max-age=0; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/
+strict-transport-security: max-age=63072000; includeSubDomains
+access-control-allow-origin: https://southbankcolleges.ac.uk
+x-content-type-options: nosniff
+last-modified: Fri, 21 Mar 2025 14:35:43 GMT
+cache-control: max-age=31536000, public, public
+expires: Sun, 08 Aug 2027 14:47:21 GMT
+content-security-policy: default-src https://cdn.veritonic.com https://*.veritonicmetrics.com https://ai.fe.expert https://*.southbankcolleges.ac.uk https://sbc.fe.expert/ https://sbc.fe.expert:5000 https://*.virtualartgallery.com https://kuula.co http://*.kuula.co https://*.clarity.ms https://googleads.g.doubleclick.net https://kuula.co https://*.joomlatools.com https://*.pcapredict.com https://*.vimeo.com https://*.postcodeanywhere.co.uk https://*.reciteme.com https://*.google-analytics.com https://*.googletagmanager.com https://connect.facebook.net https://*.google.com https://*.gstatic.com https://*.fontawesome.com https://*.facebook.com https://*.googleapis.com https://*.bing.com https://*.ads-twitter.com https://*.youtube.com https://*.googleadservices.com https://*.flxpxl.com https://*.stackadapt.com https://*.doubleclick.net https://*.hotjar.com https://*.hotjar.io https://sc-static.net https://*.tiktok.com https://*.snapchat.com 'unsafe-inline' 'unsafe-eval' 'self'; frame-ancestors 'self'; font-src https: data: 'self'; img-src https: data: 'self';
+

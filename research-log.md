@@ -8,6 +8,14 @@ Capture: the official BERA page, 78-page PDF, extracted text, response headers, 
 
 Decision: added SRC-633 and C-867–C-868 as a distinct first-party report and underlying-data artifact. The report analyzes HESA staff data from 2015–16 through 2019–20 and is kept separate from the later journal article with overlapping themes. Its findings are attributed to the report and are not converted into personal claims about Arday.
 
+## 2026-08-08 — SRC-634/C-869: South Bank Colleges board-minutes award corroboration
+
+Discovery: a public South Bank Colleges Board-minutes PDF surfaced in a search for institutional records of Arday’s honorary fellowship.
+
+Capture: the eight-page PDF, extracted text, response headers, and rendered printed page 4 are preserved under `assets/captures/2026-08-08-sbc-board-minutes-honorary-fellowship/`. Page 4 records that the October 2024 Royal Festival Hall Level 3 and 4 graduation ceremony included the group’s first Honorary Fellowship, awarded to Professor Jason Arday.
+
+Decision: added SRC-634/C-869 as a distinct governance-document manifestation linked to the existing South Bank Colleges graduation record. The award is corroborated by the board’s own minutes; the repeated Cambridge superlative remains host wording and is not upgraded to a current-status claim.
+
 ## 2026-08-08 — SRC-106/C-866: BME-participation publisher and full-text manifestation recheck
 
 Discovery: a focused exact-title/DOI search surfaced Cambridge Core’s public article record and ResearchGate’s public full-text manifestation, while confirming that the Liverpool Repository record remains indexed as an accepted-manuscript lead.
