@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly-source checkpoint: SRC-609/C-956 — preserved the byte-identical raw LJMU issue-PDF response and the separate article-route HTTP 404 state for Arday’s 2013 *Innovations in Practice* article. The issue manifestation remains canonical; no duplicate publication or integrity finding was created.
+
 Fresh integrity checkpoint: C-955 — repaired the Guardian *Today in Focus* listening-notes link so it resolves to the canonical source record. The notes remain machine-assisted and approximate; no audio claim was upgraded.
 
 Fresh reproducibility checkpoint: SRC-087/SRC-209/C-954 — bounded extracted-text derivatives for the Arday and Zwozdiak-Myers theses are now explicitly linked and hash-anchored on GitHub. The PDFs remain the primary page-integrity sources; no new overlap measurement or misconduct finding was added.

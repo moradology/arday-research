@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-609/C-956: LJMU 2013 article raw-response topology completed
+
+Audit: the canonical source-version already preserved the 147-page LJMU Open Journals issue PDF and article extraction, but the raw issue-download body and the separate article-route response files were still untracked.
+
+Capture: promoted the 2,961,239-byte raw issue-PDF response, byte-identical to `issue.pdf`, plus the article-route HTTP 404 body and headers. The 404 is retained as an access-state observation; it does not negate the recovered article inside the public issue PDF.
+
+Decision: added C-956 and updated SRC-609’s provenance list without creating a duplicate publication. The article remains a 2013 source-version and the raw captures do not establish any new research-integrity conclusion. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — C-955: Guardian listening-notes provenance link repaired
 
 Audit: a tracked-Markdown relative-link check found the Guardian *Today in Focus* listening-notes file pointed four directory levels upward, so its canonical source link was broken from the archive.

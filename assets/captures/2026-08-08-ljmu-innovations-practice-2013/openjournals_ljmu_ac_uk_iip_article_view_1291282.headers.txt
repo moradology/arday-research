@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Date: Sat, 08 Aug 2026 11:12:07 GMT
+Server: Apache
+Set-Cookie: OJSSID=hpaittaedfl5b2tk3g09t58gti; path=/; domain=openjournals.ljmu.ac.uk; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15768000
+Cache-Control: no-store, no-cache;
+Content-Security-Policy: frame-ancestors 'self';
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
