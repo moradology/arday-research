@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-integrity checkpoint: SRC-186/C-924 — the 31:09.84 *Allyship in Action* episode MP3 is now committed to GitHub with its Libsyn/Apple/Amazon topology and artwork captures. No transcript or captions were exposed; listening/transcription remains open before making timecoded claims.
+
 Fresh audio-access checkpoint: SRC-245/C-923 — the public 60-second Spotify preview for Sheffield Hallam’s *SoTL Spotlight* episode is now committed to GitHub. The full 20:17 episode remains a player-only/access-boundary item; no transcript or preview quotation is claimed without listening. Reopen only for a full audio route, transcript, or changed player state.
 
 Fresh publisher-media checkpoint: SRC-236/C-922 — the 48-second Simon & Schuster memoir trailer MP4 is now committed to GitHub. It remains promotional publisher framing, distinct from Great Big Story, with no captions or transcript; do not treat it as independent corroboration of the memoir narrative.

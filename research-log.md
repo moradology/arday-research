@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-186/C-924: *Allyship in Action* episode audio promoted
+
+Audit: the canonical Libsyn/Apple/Amazon record already documented the first-party 31:09.84 MP3, catalogue topology, artwork, page captures, and checksum, but the audio binary was not tracked in Git.
+
+Archive action: checksum-validated and committed the MP3. No transcript or caption file was exposed, so no timecoded or untranscribed substantive claim was added.
+
+Decision: added C-924 as an archive-integrity observation. The episode description remains editorial metadata, and the MP3 is the preserved primary interview artifact pending listening/transcription. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-245/C-923: SoTL Spotlight preview promoted
 
 Audit: the canonical Sheffield Hallam/Spotify record already documented the 20:17 episode listing, page captures, image, public 60-second preview, and full-episode access boundary, but the preview MP3 was not tracked in Git.
