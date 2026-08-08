@@ -2744,3 +2744,11 @@ Lead: a source-version audit of the already archived ABC News video found its di
 Capture: the article HTML and headers were preserved, along with the 1600×901 lead image and the 1200×1600 supplied photograph captioned as Arday at his 2016 LJMU PhD ceremony. The article’s embedded stream metadata was checked against SRC-033 and kept as an alias rather than a new video record.
 
 Decision: added SRC-568/C-737–C-738. The interview quotation, reported biography, and image caption remain journalism/attribution evidence; they do not replace primary school, degree, employment, or clinical records.
+
+## 2026-08-08 — SRC-088 and SRC-128 Guardian local-capture upgrade
+
+Lead: the archive audit found that two major Guardian biography records were canonicalized in the registry but still had only URL links in their source notes.
+
+Capture: both Guardian pages returned usable HTML and headers. The 11 July 2023 childhood profile now has a local page, portrait, and PhD-ceremony photograph; the 23 February 2023 Cambridge-appointment profile now has a local page, headers, and portrait. Image credits and source boundaries remain those of the Guardian pages.
+
+Decision: upgraded the existing SRC-088 and SRC-128 records in place; no duplicate source IDs or new substantive claim rows were created. The pages remain reported interview/profile evidence, not independent medical, school, degree, or employment records.

@@ -21,3 +21,4 @@ This is a reported interview/profile, not an independent developmental or medica
 
 - Canonical page: https://www.theguardian.com/society/2023/jul/11/jason-arday-cambridge-university-youngest-black-professor
 - Related records: [BBC Lent Talk transcript](2021-03-20-bbc-lent-talk-transcript.md), [PBS interview](2023-pbs-importance-early-intervention.md), [ARU honorary-doctorate citation](2024-07-19-aru-honorary-doctorate.md)
+- Local capture upgrade: [`page.html`](../assets/captures/2023-07-11-guardian-childhood-profile/page.html), headers, [portrait](../assets/captures/2023-07-11-guardian-childhood-profile/portrait.jpg), and [PhD-ceremony photograph](../assets/captures/2023-07-11-guardian-childhood-profile/phd-ceremony.jpg). The current page metadata records a 6 August 2026 modification; this is a page-state observation, not a substantive article revision claim.

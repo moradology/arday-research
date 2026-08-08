@@ -20,3 +20,4 @@ This is stronger corroboration for the two-GCSE detail than the later secondary 
 ## Link
 
 - Canonical page: https://www.theguardian.com/education/2023/feb/23/jason-arday-to-become-youngest-ever-black-professor-at-cambridge
+- Local capture upgrade: [`page.html`](../assets/captures/2023-02-23-guardian-cambridge-appointment/page.html), headers, and [portrait](../assets/captures/2023-02-23-guardian-cambridge-appointment/portrait.jpg). The page was directly retrievable on 8 August 2026; this does not change its February 2023 publication date or reported evidence class.

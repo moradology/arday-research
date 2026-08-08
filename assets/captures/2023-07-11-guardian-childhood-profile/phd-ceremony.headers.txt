@@ -1,0 +1,27 @@
+HTTP/2 200 
+cache-control: max-age=31536000
+content-type: image/jpeg
+etag: "cQFJQIYFr7Pa+audZHGo24ssGZkTnlPQ+UH8x3TYWKM"
+fastly-io-info: ifsz=556329 idim=1000x1333 ifmt=jpeg ofsz=518539 odim=1920x2559 ofmt=jpeg
+fastly-io-served-by: vpop-etou8240199
+fastly-io-transform-stats: ifsz=556329 ofsz=518539 ofmt=jpeg
+fastly-stats: io=1
+server: AmazonS3
+x-amz-meta-bounds-height: 1333
+x-amz-meta-bounds-width: 1000
+x-amz-meta-bounds-x: 0
+x-amz-meta-bounds-y: 0
+x-amz-server-side-encryption: AES256
+via: 1.1 varnish, 1.1 varnish
+timing-allow-origin: https://www.theguardian.com
+accept-ranges: bytes
+age: 341974
+date: Sat, 08 Aug 2026 07:27:17 GMT
+x-served-by: cache-lcy-eglc8600057-LCY, cache-chi-kmdw8640032-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786174037.734163,VS0,VE979
+access-control-allow-origin: *
+vary: Accept, Accept-Encoding
+content-length: 518539
+
