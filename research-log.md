@@ -2776,3 +2776,11 @@ Decision: upgraded the existing SRC-088 and SRC-128 records in place; no duplica
 The Warwick post-event highlights page advertises an English caption track for Jason Arday’s locally preserved keynote MP4. The relative `1` endpoint was fetched directly; it redirected to a trailing-slash route and returned a 16,637-byte HTTP 404 HTML page. The response body and headers are preserved under a media access-boundary capture.
 
 Decision: the keynote MP4 remains locally available, but no captions, transcript, or timecoded substantive claims are added. The 404 is not evidence that the video itself was removed or that the event did not occur.
+
+## 2026-08-08 — SRC-569/C-743 LJMU thesis repository record
+
+Lead: the live LJMU Research Online record for the doctoral thesis was identified as a distinct primary provenance layer, separate from the already-preserved thesis PDF.
+
+Capture: the repository HTML and response headers were preserved. The record supplies the title, author form, doctoral-thesis classification, “Published Version” file label, direct PDF link, and a detailed abstract describing the four-phase qualitative study of four student teachers.
+
+Decision: added SRC-569/C-743 as a source-version record and deduplicated it to SRC-087. The abstract is retained as repository metadata; it does not validate the thesis’s findings or resolve any later allegation.

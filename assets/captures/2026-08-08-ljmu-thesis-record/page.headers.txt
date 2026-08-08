@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 07:47:48 GMT
+Server: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.5 mod_perl/2.0.12 Perl/v5.32.1
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: frame-ancestors 'self'
+Link: <https://researchonline.ljmu.ac.uk/id/eprint/4552>; rel="cite-as", <https://researchonline.ljmu.ac.uk/cgi/export/eprint/4552/JSON/ljmu-eprint-4552.js>; rel="describedby"; type="application/json; charset=utf-8", <https://researchonline.ljmu.ac.uk/cgi/export/eprint/4552/XML/ljmu-eprint-4552.xml>; rel="describedby"; type="application/vnd.eprints.data+xml; charset=utf-8", <https://researchonline.ljmu.ac.uk/cgi/export/eprint/4552/BibTeX/ljmu-eprint-4552.bib>; rel="describedby"; type="text/plain; charset=utf-8", <https://researchonline.ljmu.ac.uk/cgi/export/eprint/4552/DC/ljmu-eprint-4552.txt>; rel="describedby"; type="text/plain; charset=utf-8"
+Cache-Control: no-store, no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

@@ -180,6 +180,8 @@ The chapter/artefact continuation adds [The Fire Now](sources/2018-fire-now-raci
 
 The remaining older/newer output slice adds the 2015 [School Report](sources/2015-school-report-race-education-inequality.md), the 2021 [BME participation synthesis](sources/2021-bme-participation-uk-higher-education.md), the 2021 [response on equality of educational outcomes](sources/2021-response-equality-educational-outcomes.md), and the 2024 [elite schools and slavery article](sources/2024-05-05-elite-schools-slavery-uk.md). DOI and repository records are kept distinct from reports and manuscripts.
 
+- [LJMU thesis repository record](sources/2026-08-08-ljmu-thesis-repository-record.md) — current first-party metadata and abstract for the 2015 doctoral thesis; a source-version record deduplicated to the canonical thesis PDF (SRC-087).
+
 The page-level audit also recovered an early, non-DOI journal record: [Developing Professional Learning in Higher Education](sources/2013-professional-learning-peer-mentoring.md), published in *Innovations in practice* in 2013. It is retained as a verified bibliographic record, with the publisher issue link preserved separately from the Durham deposit record.
 
 The 2022 precarious-employment article has a locally preserved PDF that the University of Glasgow’s first-party item record labels “Published Version”; its distinct repository manifestation is recorded in [SRC-457](sources/2026-08-08-glasgow-published-version-more-to-prove.md). Its possible relationship to the 2020 *Living Hand to Mouth* submitted manuscript remains provisional because the submitted text is unavailable for direct comparison.
