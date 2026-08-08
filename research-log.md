@@ -3176,3 +3176,11 @@ Decision: added `SRC-582` as a full-text manifestation linked to originating rec
 # 2026-08-08 — SRC-131/C-127/C-171: *Bookseller* memoir interview changed public state
 
 The canonical *Bookseller* memoir-interview URL was rechecked after its earlier HTTP-429 and redirect/login states. The request returned HTTP 200 and a locally preserved public HTML excerpt, plus the credited 1920×1080 Kim Lang portrait. The visible section attributes the diagnosis/speech/literacy and goal-list narrative to the memoir, reports the two-GCSE/BTEC/Sandro passage, includes family/naming and midwife material, and quotes Arday’s scrutiny framing. The page ends with “Continues…”, so this is a public excerpt rather than a complete interview. The record, claims ledger, and source registry were updated without creating a duplicate source or upgrading memoir/interview claims into independent facts.
+
+## 2026-08-08 — SRC-612/C-824–C-825: QUB primary article manifestation
+
+Discovery: QUB’s Research Portal exposed the canonical record for *Attempting to break the chain* and a directly downloadable PDF while the university’s separate 2026 investigation remains open.
+
+Capture: preserved the repository HTML, response headers, PDF, and extracted text. The record gives DOI, journal, pagination, authorship, and early-online metadata. The repository labels the file “Accepted author manuscript”; the PDF front matter calls it the “Peer reviewed version.”
+
+Decision: added a source-version record linked to canonical `SRC-045`, not a duplicate publication. The file strengthens the primary-text/version topology but does not validate the article’s methods or imply an outcome for QUB’s investigation.
