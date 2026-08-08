@@ -1,0 +1,18 @@
+HTTP/2 200 
+server: AmazonS3
+last-modified: Thu, 23 Feb 2023 06:11:32 GMT
+etag: "a0ad75f1ca4ab9c1971328213c9fd649"
+x-amz-server-side-encryption: AES256
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 144934
+expires: Sat, 07 Aug 2027 12:43:28 GMT
+cache-control: max-age=31536000
+date: Sat, 08 Aug 2026 07:29:00 GMT
+timing-allow-origin: https://www.bbc.co.uk, https://www.bbc.com
+access-control-allow-headers: *
+access-control-allow-methods: HEAD,GET
+access-control-allow-credentials: false
+access-control-max-age: 300
+access-control-allow-origin: *
+

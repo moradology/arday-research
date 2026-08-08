@@ -1,5 +1,11 @@
 # Research log
 
+# 2026-08-08 — SRC-144/C-739: direct BBC profile capture upgrade
+
+The canonical BBC `.co.uk` and `.com` URLs for “Cambridge University's Jason Arday becomes youngest black professor” returned the article directly on 8 August 2026. Captured both HTML variants, response headers, the BBC-hosted portrait, and the graduation image. The existing SRC-144 record is upgraded in place; the Walthamstow School for Girls repost remains a separate witness manifestation rather than a duplicate source.
+
+Evidence handling: the direct capture establishes first-party publisher provenance and the page’s current retrievability. The childhood, sports, literacy, education, and career details remain reported interview material and are not thereby converted into independent school, clinical, employment, or sports records.
+
 # 2026-08-08 — SRC-548/C-705–C-706: APPG STEM workforce report
 
 Discovery: a report search surfaced the British Science Association’s current APPG page and official download for the July 2021 *Inquiry into Equity in the STEM Workforce*. The final PDF was captured from the BSA download endpoint, with page HTML, headers, extracted text, and a rendered cover preserved.
