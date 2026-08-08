@@ -1859,6 +1859,14 @@ Capture: the current HTML, response headers, and the linked 180×284 Routledge F
 
 Evidence handling: updated SRC-030 in place and added C-695. The page is a new source-version and image manifestation, not a second monograph or independent employment corroboration. The earlier PagePlace preview and chapter DOI family remain canonical for their respective evidence classes.
 
+# 2026-08-08 — Simon & Schuster UK author-page access boundary
+
+Discovery: the publisher’s indexed web presence exposed a distinct Jason Arday author route separate from the memoir’s product pages, audiobook record, and Speakers Bureau biography.
+
+Verification: a direct request returned Cloudflare HTTP 403 with no author-page body, title list, biography, image URLs, or structured metadata. Preserved the response body and headers under `assets/captures/2026-08-08-simon-schuster-author-page/`.
+
+Evidence handling: added SRC-547/C-696 as an access-state record only. No indexed snippet was promoted to content, no duplicate memoir node was created, and the route should not be repeated without a changed endpoint or lawful archive/asset.
+
 # 2026-08-07 — C-403 OpenAlex exact-query closure
 
 The filtered OpenAlex works request for author `A5048886069` was rerun with `per-page=200`. It returned 56 records. A normalized comparison of record IDs, DOI strings, and titles against the 6 August response was byte-identical, so no new work key or DOI/title candidate was added.

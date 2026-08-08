@@ -12,6 +12,8 @@ Fresh recognition-listing record: SRC-545/C-692 — UK Black Stars’ 2026 homep
 
 Fresh Runnymede role-state boundary: SRC-546/C-693 — the current Runnymede Trust Our Team page (published 14 May 2026) exposes Team and Trustees lists but contains no exact Jason Arday occurrence. This is a bounded current-page absence observation that is consistent with, but weaker than, the November 2024 Companies House/Charity Commission end records. Reopen only for a changed team/trustee page, legal filing, or direct Runnymede explanation; do not treat the absence as a new legal end date.
 
+Fresh publisher-route boundary: SRC-547/C-696 — Simon & Schuster UK’s publicly discoverable Jason Arday author route returned a direct Cloudflare HTTP 403 and exposed no page body or assets. Keep it distinct from the memoir and audiobook product pages; reopen only for a changed endpoint, lawful archive, or publisher-linked asset.
+
 Fresh institutional-award record: SRC-532/C-677 — Westminster’s 26 July 2024 announcement records the Honorary Doctor of Letters, graduation remarks, and a local ceremony photograph. Its childhood and Cambridge-superlative language is a repeated source-version, not independent corroboration. Reopen only for a speech recording/transcript or a materially different Westminster source state.
 
 Fresh controversy-media record: SRC-533/C-678 — *The Daily Sceptic*’s 25 July 2026 opinion article and image are preserved as a low-provenance propagation witness. It adds no primary audit or institutional finding. Reopen only for a correction, underlying document, or materially different source version.
