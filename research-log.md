@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-059/C-667: Cambridge Student Wayback revision audit
+
+Discovery: the canonical Cambridge Student interview page says it was revised after discussion with Arday. A Wayback CDX query for the exact URL returned three successful digest-collapsed snapshots: 14 December 2023, 16 January 2024, and 27 December 2024.
+
+Capture: the CDX JSON, response headers, three replayed HTML bodies, and three replay response-header files are preserved under `assets/captures/2026-08-08-cambridge-student-wayback/`.
+
+Evidence handling: all three recovered replays contain the explicit revision notice and `dateModified` metadata of 4 December 2023. The earliest recovered snapshot is therefore already post-revision; no original pre-revision text was recovered. Upgraded SRC-059 and added C-667 without creating a duplicate interview entity.
+
 # 2026-08-08 — SRC-522/C-666: *Booktime Magazine* memoir-interview lead
 
 Discovery: a current-publication search surfaced The Harbour Bookshop’s product page for the free July–August 2026 issue of *Booktime Magazine*. Its description says the issue includes an interview with Jason Arday about his memoir on printed page 29.

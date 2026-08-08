@@ -1,5 +1,7 @@
 # Work state
 
+Latest changed-page audit: on 2026-08-08 `SRC-059/C-667` preserved three Wayback replays of the Cambridge Student interview. Each recovered replay already contains the 4 December 2023 revision notice, so the archive strengthens the revision-history record but does not recover the original pre-revision interview text.
+
 Latest memoir-publication lead: on 2026-08-08 `SRC-522/C-666` captured The Harbour Bookshop’s July–August 2026 *Booktime Magazine* listing, which advertises a Jason Arday memoir interview on p. 29. The product page/JSON and cover are preserved, but no magazine PDF, page image, or interview text was exposed. This is a source-version/access-boundary record, not new biographical evidence.
 
 Latest UKRI access checkpoint: on 2026-08-08 `SRC-521/C-665` rechecked the canonical Gateway to Research person URL after indexed results continued to show Jason Arday/EDICa. The direct response remains byte-identical “Kevin Wilson” HTML with no Arday/EDICa content. This preserves an unchanged official access/identity mismatch; C-120 remains bounded to the indexed manifestation and no new substantive funder claim was added.

@@ -4,7 +4,7 @@ type: Source
 title: "Cambridge’s Youngest Black Professor Speaks on Institutional Racism and Legacies of Slavery"
 date: 2024-12-01
 accessed: 2026-08-05
-status: revised page locally preserved; current source version captured 2026-08-06
+status: revised page locally preserved; current source version and three pre-2025 Wayback replays captured 2026-08-08
 source_kind: student journalism
 entities:
   - ../entities/jason-arday.md
@@ -27,6 +27,17 @@ The Cambridge Student published an interview with Jason Arday about institutiona
 The current page states that the article was revised after discussion with Arday, specifically to amend language and tone around complex issues that could be misinterpreted. The page also reports Arday’s account that Simon Woolley mentored him in 2017 through a selective parliamentary scheme for the next generation of Black politicians; Arday describes Woolley as an important source of confidence. Taylor & Francis author biographies independently reproduce the named Operation Black Vote MP Parliamentary Scheme as part of Arday’s publication-time biography, but no OBV roster or parliamentary administrative record has been located. This remains corroborated publication-biography evidence rather than a fully independent programme or mentorship record.
 
 The current page further repeats Arday’s account of a homeless-shelter visit at 18 and links it to his charitable identity, poverty/struggle, and social-mobility framing. It is retained as a source-version manifestation alongside the RHHJ, BOLD, ARU, and memoir records rather than treated as independent corroboration.
+
+## Archived version boundary
+
+The Internet Archive CDX query for the canonical URL returned three successful, digest-collapsed snapshots: 14 December 2023, 16 January 2024, and 27 December 2024. Each replayed body contains the same explicit revision notice and `dateModified` metadata of 4 December 2023. The captures therefore establish that the revised wording was already present in the earliest recovered archive snapshot; they do not recover the pre-revision text. No earlier successful snapshot was returned by this query.
+
+- [CDX response](../assets/captures/2026-08-08-cambridge-student-wayback/cdx.json) — SHA-256 `68b8d7c6eee3122fd593bbf980035997672435881978d0aff0af856c2e41907d`.
+- [14 December 2023 replay](../assets/captures/2026-08-08-cambridge-student-wayback/20231214114932.html) · [Wayback URL](https://web.archive.org/web/20231214114932/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery) — SHA-256 `7b873c38691a2ccf4648015452058239046c64d6e7c78b5939f894c40471d887`.
+- [16 January 2024 replay](../assets/captures/2026-08-08-cambridge-student-wayback/20240116213227.html) · [Wayback URL](https://web.archive.org/web/20240116213227/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery) — SHA-256 `5b7ec113ce38c293a5bfb269d86c185dfe6a9ee861b930e59376fe6c2111f989`.
+- [27 December 2024 replay](../assets/captures/2026-08-08-cambridge-student-wayback/20241227122949.html) · [Wayback URL](https://web.archive.org/web/20241227122949/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery) — SHA-256 `4f0c92a337c66fa80f5b9652e7c66507d16dc067429407156715fa42f0628f75`.
+
+The three replay response-header files and the CDX response headers are preserved beside the bodies. This is a source-version/access-boundary upgrade to SRC-059, not a new interview record.
 
 ## Acquisition state
 

@@ -1,0 +1,39 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 03:45:29 GMT
+content-type: text/html;charset=utf-8
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-age: 0
+x-archive-orig-date: Fri, 27 Dec 2024 12:29:49 GMT
+x-archive-orig-etag: W/"21f7e3f27a5d57956251d933779355b5--gzip"
+x-archive-orig-expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-archive-orig-server: Squarespace
+x-archive-orig-set-cookie: crumb=BeNPnf2Pd4I9MzIxMjhjYmIxOTVhN2RjNDhlM2FkMmFkOGU0NmIz;Secure;Path=/
+x-archive-orig-strict-transport-security: max-age=15552000
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-x-contextid: YH0E7Rdb/RnnUW7hy
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-transfer-encoding: chunked
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+memento-datetime: Fri, 27 Dec 2024 12:29:49 GMT
+link: <https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="original", <https://web.archive.org/web/timemap/link/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20241227123706_ceaf8555/urls_20241227123706_ceaf8555.1726247528.megawarc.warc.zst
+server-timing: captures_list;dur=0.370364, exclusion.robots;dur=0.065381, exclusion.robots.policy;dur=0.058470, esindex;dur=0.006388, cdx.remote;dur=9.519278, LoadShardBlock;dur=234.832008, PetaboxLoader3.datanode;dur=126.605953, PetaboxLoader3.resolve;dur=361.142398, load_resource;dur=411.497308, loaddict;dur=38.513275
+x-app-server: wwwb-app218-dc8
+x-ts: 200
+x-tr: 715
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app218; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

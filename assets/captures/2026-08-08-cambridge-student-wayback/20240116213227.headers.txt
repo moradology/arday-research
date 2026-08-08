@@ -1,0 +1,41 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 03:45:27 GMT
+content-type: text/html;charset=utf-8
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-age: 0
+x-archive-orig-date: Tue, 16 Jan 2024 21:32:27 GMT
+x-archive-orig-etag: W/"da5c89d2a89e0c7617963f896b179d9c--gzip"
+x-archive-orig-expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-archive-orig-server: Squarespace
+x-archive-orig-set-cookie: crumb=BXOI/1Pw2dHlZmIwZWY5YzM3MDg1NmM3YjNhNTUwZGUxZDYxOTUy;Secure;Path=/
+x-archive-orig-strict-transport-security: max-age=15552000
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-x-contextid: ij9jpZw4/bTSbeVj5
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-connection: close
+x-archive-orig-transfer-encoding: chunked
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+x-archive-orig-content-encoding: gzip
+memento-datetime: Tue, 16 Jan 2024 21:32:27 GMT
+link: <https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="original", <https://web.archive.org/web/timemap/link/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.thecambridgestudent.co.uk/interviews/cambridges-youngest-black-professor-speaks-on-institutional-racism-and-legacies-of-slavery>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: SPNOUTLINKS-20240116212343-crawl901/SPNOUTLINKS-20240116212853-01459.warc.gz
+server-timing: captures_list;dur=1.076904, exclusion.robots;dur=0.195190, exclusion.robots.policy;dur=0.182794, esindex;dur=0.009759, cdx.remote;dur=20.530950, LoadShardBlock;dur=66.081636, PetaboxLoader3.datanode;dur=63.201383, PetaboxLoader3.resolve;dur=52.732067, load_resource;dur=81.393894
+x-app-server: wwwb-app245-dc8
+x-ts: 200
+x-tr: 328
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=3
+set-cookie: wb-p-SERVER=wwwb-app245; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+
