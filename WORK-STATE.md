@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-manifestation checkpoint: on 2026-08-08 `SRC-875/C-875` preserved Surviving Society’s 2022 “Spotlight Series Best Bits! (Part One)” page, oEmbed, artwork, and current HTTP-401 media boundary. The host description names Arday among featured contributors; no audio, transcript, or Arday-specific clip boundary was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-retailer checkpoint: on 2026-08-08 `SRC-874/C-874` preserved The Hawaii Project’s indexed *Great and Unfortunate Things* product copy and the current HTTP-403 response. The listing repeats the already-known “second youngest of three boys” formulation and childhood marketing language; it adds no independent corroboration or new edition. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest podcast-provenance checkpoint: on 2026-08-08 `SRC-873/C-873` preserved Sheffield Hallam’s 2023 *Ruling Passions* handbook and its p. 56 Episode 2 guide naming Jason Arday. It corroborates the episode’s identity/topics but does not replace the unresolved full audio or verify autobiographical claims. Google Drive was not updated; GitHub remains the active publication target.

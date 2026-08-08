@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-manifestation checkpoint: SRC-875/C-875 — Surviving Society’s 11 April 2022 “Spotlight Series Best Bits! (Part One)” SoundCloud compilation names Arday among its featured contributors. Page, oEmbed, artwork, and a current HTTP-401 media boundary are preserved; no audio or Arday-specific segment was recovered. Reopen only for a lawful audio binary, transcript/captions, or an individual clip/time boundary; do not duplicate the existing Surviving Society episodes.
+
 Fresh memoir-source checkpoint: SRC-874/C-874 — The Hawaii Project retailer listing was captured as a source-propagation witness. Its indexed copy repeats the memoir’s “second youngest of three boys” formulation, while the live page returned HTTP 403; no new edition or excerpt was recovered. Reopen only for a distinct public product state, lawful preview, image, or full text; do not count it as independent corroboration.
 
 Fresh project-document checkpoint: SRC-873/C-873 — Sheffield Hallam’s published 2023 *Ruling Passions* handbook is now locally preserved. Printed p. 56 identifies the Jason Arday Episode 2 and its topic framing, strengthening episode provenance without adding transcript-level claims. Reopen only for the full lawful audio, a caption/transcript artifact, or a distinct project document; do not count the handbook as a second interview.

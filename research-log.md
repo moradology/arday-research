@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-875/C-875: Surviving Society Spotlight compilation recovered as access-boundary record
+
+Discovery: a SoundCloud search for uncatalogued Arday media surfaced Surviving Society’s “The Spotlight Series Best Bits! (Part One),” published 11 April 2022. The host description names Arday among seven featured contributors and links the three Spotlight Series playlists.
+
+Capture: the 34:46.945 track page, oEmbed JSON, artwork, and page headers were preserved. SoundCloud hydration exposed HLS/progressive routes, but the current direct media request returned HTTP 401; no audio binary, transcript, captions, or Arday-specific segment boundary was recovered.
+
+Decision: created a distinct compilation manifestation and kept it separate from Arday’s individual Surviving Society episodes. The description verifies host representation and series topology, not the content or truth of any Arday remark. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-874/C-874: Hawaii Project memoir listing boundary
 
 Discovery: a fresh retailer search surfaced The Hawaii Project’s product listing for *Great and Unfortunate Things*. Its indexed copy repeats the memoir-side “second youngest of three boys” wording and familiar childhood marketing language.

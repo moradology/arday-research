@@ -1,0 +1,17 @@
+HTTP/1.1 401 Unauthorized
+Content-Length: 0
+Connection: keep-alive
+x-robots-tag: noindex
+Cache-Control: private, max-age=0
+referrer-policy: no-referrer
+x-frame-options: DENY
+x-content-type-options: nosniff
+strict-transport-security: max-age=63072000
+Server: am/2
+Date: Sat, 08 Aug 2026 22:46:44 GMT
+Vary: Origin
+X-Cache: Error from cloudfront
+Via: 1.1 917f52e466585bc699c3b9819efba43a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DEN52-P3
+X-Amz-Cf-Id: LjIUexcDRzB_g8MtZJJo4ZzcJkztWeBQ_MITV1w-LR2NUPYrcZD2pg==
+
