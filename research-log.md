@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-608/C-809–C-810: Durham repository manifestation of UKCGE media lead
+
+Discovery: Durham’s indexed Sociology output page surfaced the existing 2019 UKCGE “Research in Focus with Jason Arday” lead as a credited Digital Artefact.
+
+Capture: the direct repository request returned a 403 Cloudflare challenge. The response HTML and headers are preserved; no recording, transcript, duration, or media binary was available.
+
+Decision: add the Durham repository edge as a source-version of SRC-069, strengthening provenance without promoting the index record into substantive media evidence. Reopen only through a lawful page, UKCGE mirror, transcript, or media endpoint.
+
 # 2026-08-08 — SRC-607/C-808: current OpenAlex author/work reconciliation
 
 Discovery: the current scholarly-output audit reached the existing OpenAlex author identifier `A5048886069`.
