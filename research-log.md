@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-061/C-885: BBC *A Good Read* binary promoted to GitHub
+
+Audit: the canonical source record and media index already pointed to an official 28:05.39 BBC MP3, but the binary was present only in the working tree and was absent from the GitHub commit history.
+
+Capture decision: validated the existing hash (`06355285bdb143f5785f063834cbe5c9a70c3ee4b5fc4476075fa4e63131f99b`) against the capture metadata and staged the MP3 without creating a duplicate source. The broadcast remains untranscribed; no remarks were promoted from the audio.
+
 ## 2026-08-08 — SRC-642/C-884: Wonkhe event page and slide deck recovered
 
 Discovery: the existing SRC-619 recording trail led to Wonkhe’s first-party event page for the 8 July 2020 “Black Lives Matter” online event.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-061/C-885 — the official 28:05.39 BBC *A Good Read* MP3 is now committed to GitHub alongside its programme-page snapshot. Reopen only for a transcript/caption artifact, a changed BBC endpoint, or a timecoded listening pass; do not infer remarks from the file’s existence or metadata.
+
 Fresh first-party event-source checkpoint: SRC-642/C-884 — Wonkhe’s 8 July 2020 “Black Lives Matter” event page names Arday in the running order, links the already-canonical recording `-dG9SfhMYe8`, and exposes a 15-page slide deck plus event portrait/banner. Reopen only for a changed event page, a distinct recording/caption state, or a page-specific audit; do not duplicate SRC-619 or treat the deck as Arday-authored.
 
 Fresh changed-access checkpoint: SRC-319/C-883 — SnapJournal’s canonical 24 April 2026 biography URL returned HTTP 403 on 8 August 2026; the earlier HTML/API/image capture remains locally preserved. No duplicate source was created. Reopen only for a changed lawful endpoint, archived replay, correction, or primary source behind its claims; do not repeat the unchanged article search.
