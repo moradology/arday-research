@@ -31,6 +31,14 @@ The SRA’s 23 July 2026 post-event report says that in the final session Arday 
 - [Post-event report](../assets/documents/sra-annual-conference-2026-report-page-2026-08-06.html) — 76,197 bytes; SHA-256 `d05849a54b7ec6771bf6c2394fff36ad68ea3cd02f730e478adf91ba6db3ddf7`.
 - [Official portrait](../assets/images/sra-conference-2026-jason-arday.jpg) — 684×675 JPEG; SHA-256 `8ad7c1f5378c67dc040012747ebf0f5c75cbd419383c3ebee4da61223f132810`.
 
+## Recheck — 8 August 2026
+
+The post-event report was fetched again on 8 August 2026. The substantive article body remains the same as the 6 August capture; the new HTML differs in dynamic request tokens, correlation identifiers, and other page-generation metadata. The fresh response and the linked 1601×1201 conference banner are preserved as a changed retrieval state, not a second SRA report.
+
+- [Rechecked report HTML](../assets/captures/2026-07-23-sra-conference-report/page.html), SHA-256 `47dd22693fe2a12732240c2c61d843da63a7beacf64472a0cb473d0d1f0be28d`.
+- [Rechecked response headers](../assets/captures/2026-07-23-sra-conference-report/page.headers.txt), SHA-256 `76faf23c75cd55256f34c98c5077bb4726d07b54b2f3fd1e558ea972f81235df`.
+- [Conference banner](../assets/captures/2026-07-23-sra-conference-report/conference26.png), SHA-256 `4dbcdeb54abc7de6ffcd497a47817219f5ccf7481119881d550046f2884aefa2`.
+
 ## Evidence boundary
 
 The programme verifies the session and schedule; the report supports only the attributed post-event summary. The event, programme, speakers, and report pages expose no public audio/video or transcript endpoint, and exact-title/public-video searches found none in this pass. No recording is claimed.

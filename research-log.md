@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-188 recheck: SRA report deduplicated
+
+Discovery: the current-event search rediscovered the SRA’s 23 July 2026 post-event report for the “Message in a Bottle” conference session, already canonicalized as SRC-188.
+
+Capture: the report was fetched again and the linked 1601×1201 conference banner was retrieved. The fresh HTML, headers, and image are preserved under `assets/captures/2026-07-23-sra-conference-report/`.
+
+Decision: no new source ID was created. The substantive report body is unchanged; the differences are dynamic page-generation tokens and response state. The new files are attached to SRC-188 as a recheck. The report’s short account of Arday’s remarks remains an attributed post-event summary, not a transcript.
+
 ## 2026-08-08 — SRC-639/C-875–C-876: BSA 2026 plenary programme recovered
 
 Discovery: a fresh 2026 event search surfaced the British Sociological Association’s official abstract book for its annual conference at the University of Manchester. The 110-page PDF schedules Jason Arday’s plenary “Wanted Dead or Alive: The Playbook” for 14:00–15:00 on 8 April 2026 and names Angharad Beckett as chair.

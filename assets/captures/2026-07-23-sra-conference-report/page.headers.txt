@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 15:13:46 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+access-control-expose-headers: Request-Context
+cache-control: private
+set-cookie: ASP.NET_SessionId=tnpqbh1uamiubtfkvq1lm1nn; path=/; secure; samesite=lax; httponly
+set-cookie: __RequestVerificationToken=6K8bi5ruUm4EO0OJABJxvj6xSTVyNDbIpCs11PZblEWmqhh39m4RvKPpiSbFlXgjTrhgXYovYyteIgR1lWzWEfAP5Q2uHnZdx0gtn_F_XS01; path=/; secure; samesite=lax; httponly
+set-cookie: AnonymousCartId=00000000-0000-0000-0000-000000000000; expires=Sat, 22 Aug 2026 15:13:46 GMT; path=/; secure; httponly
+set-cookie: ARRAffinity=7aa5339c83eeddefb03c68bb16ffe52cc5c7ea0a4d037a0d3d1c4a78d6c3bdee; domain=the-sra.org.uk; path=/; secure; httponly
+set-cookie: ARRAffinitySameSite=7aa5339c83eeddefb03c68bb16ffe52cc5c7ea0a4d037a0d3d1c4a78d6c3bdee; domain=the-sra.org.uk; path=/; secure; samesite=none; httponly
+set-cookie: __cf_bm=xpMz7_8n_xmGui6DU1XaeUYg3Z06EKXWvIDG9uH2vVU-1786202025.5969663-1.0.1.1-5mgPCb2Xb8UxfCYgaGlzdeXiZtySQD18B3hXPFwJiASqZVNnZxoS.PJZF4Y790dBLPQLEg6EmEon1MllBfxUBeFEkI9NnC5vbuqpxvJ5g3QSFN6oPhZKRpf3NkxvWcS4; HttpOnly; SameSite=None; Secure; Path=/; Domain=the-sra.org.uk; Expires=Sat, 08 Aug 2026 15:43:46 GMT
+vary: Accept-Encoding
+request-context: appId=cid-v1:63c70dfa-480b-4536-bbc8-1117821c146e
+request-context: appId=cid-v1:63c70dfa-480b-4536-bbc8-1117821c146e
+x-content-rendered-on: Sat, 08 Aug 2026 15:13:46 GMT
+x-aspnet-version: 4.0.30319
+content-security-policy: frame-ancestors 'self'
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+strict-transport-security: max-age=2592000; includeSubDomains
+cf-cache-status: DYNAMIC
+cf-ray: a27f7783fdbf8df3-OMA
+
