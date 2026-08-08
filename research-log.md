@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-590/C-787: *The Free Press* editorial analysis
+
+Discovery: targeted post-resignation searches surfaced Yuan Yi Zhu’s 5 August 2026 *The Free Press* essay, “Who Had to Lose for Jason Arday to Win?” This is a distinct editorial source, not a duplicate of the Cofnas newsletter, AP report, Guardian coverage, or Vainker commentary.
+
+Capture: the public Substack HTML and response headers were preserved, along with the 1800×1200 hero image. Structured metadata identifies the author, title, date, description, and 8 August modification timestamp. The embedded post state marks the article hidden/paywalled.
+
+Evidence handling: only the public metadata, framing, access state, and image are promoted. No full article text, allegation, institutional finding, or exoneration is inferred from the unavailable body.
+
 # 2026-08-08 — SRC-589/C-786: Stephen Vainker defensive commentary
 
 Discovery: a search for post-event summit evidence also surfaced Stephen Vainker’s 27 July 2026 *The Wreckage* essay, “Leave Jason Arday alone - this is a scandal of academic educational leadership.”

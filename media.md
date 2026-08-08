@@ -65,6 +65,8 @@
 
 ## Images
 
+| *The Free Press* hero image for “Who Had to Lose for Jason Arday to Win?” | 2026-08-05 | *The Free Press* / Yuan Yi Zhu | editorial-analysis image | [Source record](sources/2026-08-05-free-press-arday-analysis.md) · [Local PNG](assets/captures/2026-08-08-free-press-arday/hero.png) | 1800×1200 public hero image; image provenance/depiction is recorded separately from the article’s claims |
+
 | Valid Science Arday commentary exhibits | 2026-08-04 / captured 2026-08-08 | Valid Science / José Duarte | Substack article images | [Record](sources/2026-08-04-validscience-arday-commentary.md) · [Local capture directory](assets/captures/2026-08-08-validscience-arday/) | Seven public/embedded image binaries preserved with the article; image rights and original provenance remain source/platform-dependent |
 
 | Jason Arday profile image | 2024-06 asset / captured 2026-08-07 | EDICa | profile portrait | [Record](sources/2026-08-07-edica-jason-arday.md) · [Local JPEG](assets/captures/2026-08-07-edica-jason-arday/jason-round.jpg) · [EDICa image](https://edicaucus.ac.uk/wp-content/uploads/2024/06/Jason-round.jpg) | 167×167 public host asset preserved; photographer, licence, and reuse rights not exposed |

@@ -1,0 +1,29 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 10:06:14 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a27db50d0f9524af-OMA
+cf-cache-status: DYNAMIC
+cache-control: no-cache
+set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=www.thefp.com; Path=/; Expires=Sun, 08 Aug 2027 10:06:14 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=%228e95d557-c525-4f3c-b16c-3be8b73a7cd0%22; Max-Age=31536000; Domain=www.thefp.com; Path=/; Expires=Sun, 08 Aug 2027 10:06:14 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: AWSALBTG=AIRdPXNFbPtj3OcKOawoqmh6pi0BkelNMjkN0dBjdzi40vM7YQVoeNfP2bT0CPzLjTcS2sWSsPd1Lf6d4xaAkosLyzlA82VaklRsqTlFby+U8E2j7ibSSPHu4enVjA9k5/Yd7Nwt4n2TyXojiMx7AJR9X+b1sA4RPlvOjWT4igmq; Expires=Sat, 15 Aug 2026 10:06:14 GMT; Path=/
+set-cookie: AWSALBTGCORS=AIRdPXNFbPtj3OcKOawoqmh6pi0BkelNMjkN0dBjdzi40vM7YQVoeNfP2bT0CPzLjTcS2sWSsPd1Lf6d4xaAkosLyzlA82VaklRsqTlFby+U8E2j7ibSSPHu4enVjA9k5/Yd7Nwt4n2TyXojiMx7AJR9X+b1sA4RPlvOjWT4igmq; Expires=Sat, 15 Aug 2026 10:06:14 GMT; Path=/; SameSite=None; Secure
+set-cookie: cookie_storage_key=1f49d339-9a8a-40a4-9126-eb05a9152229; Max-Age=7776000; Domain=www.thefp.com; Path=/; Expires=Fri, 06 Nov 2026 10:06:14 GMT; Secure; SameSite=None
+set-cookie: ajs_anonymous_id=%223794aa2b-8b08-4494-92f3-169e3dfb7b3c%22; Max-Age=31536000; Domain=www.thefp.com; Path=/; Expires=Sun, 08 Aug 2027 10:06:14 GMT; SameSite=Strict
+set-cookie: visit_id=%7B%22id%22%3A%222dd8fa45-6d88-47ca-befd-822c5b61d8b5%22%2C%22timestamp%22%3A%222026-08-08T10%3A06%3A14.605Z%22%7D; Max-Age=1800; Domain=www.thefp.com; Path=/; Expires=Sat, 08 Aug 2026 10:36:14 GMT; HttpOnly; SameSite=Strict
+set-cookie: experiment_onboarding_email_first_v2=treatment; Max-Age=10368000; Domain=www.thefp.com; Path=/; Expires=Sun, 06 Dec 2026 10:06:14 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: experiment_ios_onboarding_carousel=treatment; Max-Age=10368000; Domain=www.thefp.com; Path=/; Expires=Sun, 06 Dec 2026 10:06:14 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: __cf_bm=ZvqSUSd6v2HAfcUm9KeUpHZNGPl8rcQYJvV01Cl2xto-1786183574.5691073-1.0.1.1-YAQ4iW9SPS_iZqpl3EUsbIao7Nxs3P6wHJmf6OTETjzd6bcvRl3TrCN3nBpA_tV1sNTaqomHIi7tc1vJim.TmkTdxiP4nm1lx1BPFEh1Tm61TobWl0Zzap5AufOqYlcg; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.thefp.com; Expires=Sat, 08 Aug 2026 10:36:14 GMT
+etag: W/"b3204-qg8IUHSAzeGw+LS+iLghzbM9g+E"
+server: cloudflare
+x-sub: bariweiss
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' https://*.substack.com https://substack.com
+x-cluster: substack
+x-deploy: 77ed348050
+x-powered-by: Express
+x-served-by: Substack
+x-service: web
+alt-svc: h3=":443"; ma=86400
+

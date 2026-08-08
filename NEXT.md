@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh editorial-source checkpoint: SRC-590/C-787 — Yuan Yi Zhu’s 5 August 2026 *The Free Press* essay “Who Had to Lose for Jason Arday to Win?” is preserved as public metadata, headers, and hero image. The page is marked hidden/paywalled, so the article body is not treated as captured evidence. Reopen only for a lawful full-text state, correction, or distinct primary/institutional source; do not count its framing as independent adjudication.
+
 Fresh controversy-commentary checkpoint: SRC-589/C-786 — Stephen Vainker’s full 27 July 2026 *The Wreckage* article is locally preserved as a defensive source-propagation witness. It adds a managerialism/institutional-leadership framing but no primary finding; the reproduced Cremin correspondence remains unauthenticated. Reopen only for the underlying correspondence, Cambridge case materials, or a correction/changed article state; do not count this commentary as exoneration or repeat its linked-source fetches.
 
 Fresh media recovery checkpoint: SRC-306/C-784–C-785 — a signed LinkedIn URL embedded in the preserved African Allied Health summit post yielded a 720p promotional MP4 and WebVTT captions after the earlier 403 access state. The binary is now local; it is not the summit keynote and does not establish delivery. Reopen only for a post-event report, final agenda, full keynote recording, or changed organizer route; do not repeat the same signed-URL retry without a changed state.
