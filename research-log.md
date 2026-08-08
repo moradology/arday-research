@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-888/C-895: Autism Centre of Excellence annual report and trustee appointment
+
+Discovery: a Charity Commission search for public filings surfaced the Autism Centre of Excellence report for the year ended 30 June 2023, a distinct governance artifact not previously represented in the registry.
+
+Capture: the regulator endpoint returned a 28-page PDF on 8 August 2026. The PDF, extracted text, response headers, and a 150-dpi render of printed page 3/PDF page 5 are preserved. The chairman’s report says the board unanimously agreed at its 26 March 2024 meeting to appoint Jason Arday as a trustee, with duties to start after paperwork was finalised during March 2024.
+
+Classification: this strengthens the appointment-decision trail behind the later Charity Commission and Companies House records, while keeping the report’s childhood and Cambridge descriptions in the promotional-biography lane. It does not establish a precise legal effective date, continued service after the 2026 Cambridge resignation, operational work, remuneration, or personal fundraising. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-887/C-894: Jesus College Annual Report and Accounts 2024
 
 Discovery: an exact-name search restricted to the Jesus College domain surfaced the college’s 47-page *Annual Report and Accounts 2024*, a distinct first-party governance/accounting publication not previously represented in the registry.
