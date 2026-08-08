@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-269/C-912 — the 40:38 Royal Greenwich Black History Month panel MP4 and sidecars are now committed to GitHub. Arday’s first-presenter role is host-described, while any substantive panel commentary remains caption-assisted pending audiovisual verification. Reopen only for verification or a changed source manifestation; do not repeat the same YouTube ID.
+
 Fresh media-integrity checkpoint: SRC-470/C-911 — the 3:42.40 Channel 4 News racial-justice Brightcove MP4 is now committed to GitHub. No captions or transcript were recovered; presenter, report-author, and Arday attribution must remain separate pending audiovisual listening. Reopen only for timecoded verification or a changed broadcast state; do not merge it with the separate Channel 4 podcast.
 
 Fresh media-integrity checkpoint: SRC-246/C-910 — the 11:15 St Mary’s honorary-doctorate address MP4 is now committed to GitHub. Its first-person ceremonial remarks and automatic-caption windows remain pending audiovisual verification; do not treat the binary as independent corroboration of the host biography. Reopen only for audiovisual verification or a changed source manifestation.

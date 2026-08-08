@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-269/C-912: Royal Greenwich panel binary promoted
+
+Audit: the canonical Royal Greenwich record already documented the 40:38 institutional panel, its first-presenter description, automatic captions, metadata, thumbnail, page snapshot, headers, and checksum, but the MP4 and sidecars were not tracked in Git.
+
+Archive action: checksum-validated and committed the MP4, automatic English captions, metadata, and thumbnail. No new substantive panel claim was promoted; captions remain navigation material pending audiovisual verification.
+
+Decision: added C-912 as an archive-integrity observation. The panel is a dated public institutional record, not a childhood biography source. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-470/C-911: Channel 4 racial-justice video promoted
 
 Audit: the canonical Channel 4 News page and Brightcove metadata identified a distinct 3:42.40 public MP4 featuring Arday in coverage of a racial-justice report. The MP4 was locally preserved but not tracked in Git; no captions or transcript were available.
