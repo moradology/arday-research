@@ -1,5 +1,7 @@
 # Work state
 
+Latest review-clip checkpoint: on 2026-08-08 `SRC-263/C-934` created and promoted a 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30 of the Cambridge “Black Men On The Couch” recording, beginning shortly before Arday’s captioned introduction. The 287,422,026-byte parent remains local-only; no transcript-level claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest clip-preservation checkpoint: on 2026-08-08 `SRC-268/C-933` promoted the diagnosis and first-word review clips to GitHub. The 175,067,296-byte parent *Neurodivergent Show* MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; automatic-caption wording remains unverified and no clinical or childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest audio-boundary checkpoint: on 2026-08-08 `SRC-198/C-932` promoted three timestamp-focused Research Cast UK listening clips to GitHub. The 107,519,809-byte parent MP3 remains local-only because it exceeds GitHub’s 100 MiB hard limit; C-117–C-119 remain ASR-derived/audio leads requiring manual listening, not verified quotations. Google Drive was not updated; GitHub remains the active publication target.

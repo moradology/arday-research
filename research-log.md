@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-263/C-934: Cambridge panel review clip created
+
+Audit: SRC-263 documented the 2:13:48 Cambridge “Black Men On The Couch” recording and automatic-caption timing showing Arday’s introduction at approximately 01:11:13, but the 287,422,026-byte parent MP4 is above GitHub’s 100 MiB hard limit.
+
+Archive action: created a 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30 and verified its checksum. The parent MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-934 as an archive-integrity observation. The clip improves audiovisual handoff for this first-party event recording; it is not a new event or transcript, and no substantive panel claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-268/C-933: Neurodivergent Show review clips promoted
 
 Audit: SRC-268 already documented a 175,067,296-byte parent MP4, automatic captions, and two short caption-window derivatives, but the derivatives were not tracked in Git. The parent exceeds GitHub’s 100 MiB hard limit.

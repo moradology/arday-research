@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 event_date: 2023-10-25
 published: 2023-10-26
 accessed: 2026-08-06
-status: Cambridge YouTube video, automatic captions, metadata, page, and thumbnail locally preserved
+status: Cambridge YouTube video, automatic captions, metadata, page, and thumbnail locally preserved; bounded Arday-segment review clip committed to GitHub
 evidence_class: first-party institutional video / panel discussion
 ---
 
@@ -36,3 +36,8 @@ This source verifies the event, participants, institutional host, public recordi
 - [YouTube page HTML](../assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06.html) — SHA-256 `a2785cecda2fbdefbe06dd25d3de1f2145530062aea90d02b0e6f375fd7c4564`
 - [YouTube response headers](../assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06-headers.txt) — SHA-256 `19aa40a3fb3d12aa0b7b895c13176df3f10ffc4108899be5403aa8483a52d23c`
 
+## Reproducibility clip — 2026-08-08
+
+- [Arday segment review clip, source interval 01:11:00–01:31:30](../assets/videos/clips/cambridge-black-men-on-the-couch-2023/jason-arday-segment-01h11m00-01h31m30.mp4) — 48,473,641 bytes; SHA-256 `c210776addcd6f62f9903c00ecfa8cdf537e4fe0502d61818ba0ecb106332e9a`.
+
+The clip begins shortly before the captioned introduction of Arday at approximately 01:11:13 and is cut from the parent MP4 using stream copy. It is a review aid, not a separately published event or a verified transcript. The parent MP4 hash remains `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500` and the 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.
