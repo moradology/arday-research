@@ -4,6 +4,7 @@ title: "Um professor negro em Cambridge: Entrevista com Jason Arday"
 type: interview / journal article
 date: 2024-12-11
 subject: entities/jason-arday.md
+accessed: 2026-08-08
 ---
 
 # *Revista História Hoje*: interview with Jason Arday
@@ -13,6 +14,7 @@ Amilcar Araujo Pereira interviewed Jason Arday at the University of Cambridge on
 - Journal article page: https://rhhj.emnuvens.com.br/RHHJ/article/view/1268
 - DOI: https://doi.org/10.20949/rhhj.v13i29.1268
 - Public PDF: https://rhhj.anpuh.org/RHHJ/article/download/1268/589/4685
+- Alternate public PDF route rechecked: https://rhhj.emnuvens.com.br/RHHJ/article/download/1268/589/4685
 - Interviewer: Amilcar Araujo Pereira (UFRJ; British Academy Visiting Professor at Cambridge at the time of the interview)
 - Interview date: 28 November 2023 (article note 1, printed p. 265)
 - Publication date: 11 December 2024
@@ -51,5 +53,7 @@ The interview returns to Sandro’s “will versus ability” formulation, prese
 ## Provenance limits
 
 The article’s introductory biography repeats familiar claims about diagnosis, delayed speech and literacy, education, Cambridge, and charity. Those repetitions are not counted as independent corroboration. The value of this source is the dated interview context and the additional first-person material about family practices, poverty, the shelter encounter, deafness in one ear, charity goals, and intellectual influences.
+
+The alternate `rhhj.emnuvens.com.br` PDF route was rechecked on 8 August 2026. Its 17-page PDF is byte-identical to the already preserved journal manifestation (SHA-256 `d1c5b7803c052893630d53563edc697014c3b383918c9ce76559e0d3c8675d7b`); it is therefore an access-route update, not a new publication or independent witness. The fresh response headers and duplicate capture are retained in the working tree as an audit artifact but need not be counted as a separate source.
 
 Because the published text is translated and edited, English-language wording should not be reconstructed as a verbatim quotation without consulting the original recording or an English transcript. The PDF is a lawful public CC BY manifestation and is locally preserved; no interview audio was exposed by the journal page.

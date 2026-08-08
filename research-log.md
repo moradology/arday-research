@@ -3424,3 +3424,11 @@ Decision: updated SRC-282 and added C-859 as a page-state/public-reception obser
 Discovery: exact-title and author/comparator searches for the Memon-linked 2018 mental-health paper, the 2022 precarious-employment paper, and *Attempting to break the chain* returned the already-catalogued Cambridge correction, Roehampton/Cambridge and Glasgow/Kent repository manifestations, and existing primary-text comparison records. The results did not expose a distinct uncatalogued full text, version, DOI, or institutional finding.
 
 Decision: no new source node or claim was created. Existing records remain canonical: SRC-382/SRC-577 for the Memon comparator and page-level correspondence, SRC-474/SRC-612 for the *Attempting* primary manifestations and comparison, and SRC-457 for the Glasgow published-version manifestation. Reopen only for a materially different primary file, a new lawful repository/publisher manifestation, or a named institutional response/outcome; do not repeat these exact queries unchanged.
+
+## 2026-08-08 — SRC-480: RHHJ alternate PDF route deduplicated
+
+Discovery: a fresh search surfaced the public PDF route at `rhhj.emnuvens.com.br` for Amilcar Araujo Pereira’s *Revista História Hoje* interview with Jason Arday.
+
+Capture: the 17-page PDF was downloaded, rendered, and visually checked. Its SHA-256 is `d1c5b7803c052893630d53563edc697014c3b383918c9ce76559e0d3c8675d7b`, byte-identical to the existing SRC-480/SRC-216 journal PDF. The endpoint therefore adds a current access route and response headers, not a distinct publication or independent corroboration.
+
+Decision: updated SRC-480’s access date and alternate URL; no new claim or source node was created. Reopen only for a materially different file, English transcript/recording, correction, or changed DOI record.
