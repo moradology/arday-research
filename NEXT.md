@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh interpretive-source checkpoint: SRC-592/C-789 — Penny Rabiger’s 25 July 2026 *tenpencemore* essay is preserved with full HTML, headers, and attached image. It supplies a racialized-scrutiny/Black-excellence framing while explicitly distinguishing anti-racist critique from exemption from academic standards. Reopen only for a correction or new primary/institutional evidence; do not count the analysis as adjudication.
+
 Fresh commentary checkpoint: SRC-591/C-788 — 21percent.org’s 28 July 2026 “Who paid for Carter-Ruck …” is preserved with HTML, headers, and article image. It raises an unresolved legal-cost/institutional-transparency question but supplies no payer evidence. Reopen only for a public engagement letter, client-identification line, invoice/FOI response, or institutional statement; do not repeat the commentary fetch.
 
 Fresh editorial-source checkpoint: SRC-590/C-787 — Yuan Yi Zhu’s 5 August 2026 *The Free Press* essay “Who Had to Lose for Jason Arday to Win?” is preserved as public metadata, headers, and hero image. The page is marked hidden/paywalled, so the article body is not treated as captured evidence. Reopen only for a lawful full-text state, correction, or distinct primary/institutional source; do not count its framing as independent adjudication.

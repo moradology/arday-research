@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-592/C-789: *tenpencemore* “Black Excellence” analysis
+
+Discovery: the unresolved-biography and post-resignation search surfaced Penny Rabiger’s 25 July 2026 essay, “‘Black Excellence’ as a Fragile Construct: Jason Arday, Racialised Scrutiny, and the Unequal Politics of Mistakes.”
+
+Capture: preserved the full public WordPress HTML, response headers, and 1852×712 article image. The essay treats the controversy as both an academic-integrity dispute and a case study in racialized, gendered, classed, and disability-related scrutiny.
+
+Decision: add a distinct interpretive/commentary node. The article’s defense of applying standards while examining unequal scrutiny is the author’s analysis; it does not establish or disprove plagiarism, fabrication, or any biographical claim.
+
 # 2026-08-08 — SRC-591/C-788: 21percent Carter-Ruck-cost commentary
 
 Discovery: a targeted search for the reported legal-response and police-investigation trail surfaced 21percent.org’s 28 July 2026 post “Who paid for Carter-Ruck …”. It is distinct from the earlier 21percent plagiarism post and from Retraction Watch’s reporting.

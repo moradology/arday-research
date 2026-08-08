@@ -1,0 +1,16 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 10:13:34 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+link: <https://public-api.wordpress.com/wp-json/?rest_route=/sites/tenpencemore.wordpress.com>; rel="https://api.w.org/"
+vary: accept, content-type, cookie
+x-pingback: https://tenpencemore.wordpress.com/xmlrpc.php
+link: <https://wp.me/p4nEgF-oT>; rel=shortlink
+x-ac: 1.den _dfw MISS
+alt-svc: clear
+strict-transport-security: max-age=31536000
+server-timing: a8c-cdn, dc;desc=den, cache;desc=MISS;dur=231.0
+
