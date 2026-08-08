@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-530/C-675: BABAO Race Equality Review
+
+Discovery: an exact-name professional-output search surfaced the British Association for Biological Anthropology and Osteoarchaeology’s May 2021 Race Equality Review.
+
+Evidence: the browser-readable 25-page PDF names Jason Arday and Lizzy Craig-Atkins as authors and says Arday was commissioned to undertake the review, with Craig-Atkins and Rebecca Redfern supporting him. The report records its mixed-method consultation and organisational findings/recommendations.
+
+Capture boundary: the repository’s direct download redirected to its home and returned a Cloudflare 403 challenge to the shell. The challenge HTML and headers are preserved; the PDF binary is not claimed as locally captured.
+
 # 2026-08-08 — SRC-529/C-674: Acast RSS/audio version boundary
 
 Discovery: the official Acast RSS feed for *How Do You Cope?* exposed the already-canonical 26 May 2025 Arday episode and its direct enclosure.

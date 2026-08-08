@@ -125,6 +125,8 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 ## 5. Reports and public-facing research
 
+- [BABAO Equality, Diversity and Inclusion Race Equality Review](sources/2021-babao-edi-race-equality-review.md) — May 2021 commissioned review authored by Jason Arday and Lizzy Craig-Atkins; browser-readable 25-page PDF text and a local repository access boundary preserved.
+
 - [*The Black Curriculum: Black British History in the National Curriculum Report*](https://niromp.org/wp-content/uploads/2020/11/19588-tbc2021report.pdf) — authored by Jason Arday; argues that Black British history is systematically underrepresented in England’s curriculum.
 - [The Black Curriculum policy and research page](https://theblackcurriculum.com/research) — organization-level research archive.
 - [*Aiming Higher* report](https://www.runnymedetrust.org/uploads/Aiming%20Higher.pdf) — report associated with Jason Arday and Claire Alexander on Black participation and progression in higher education.

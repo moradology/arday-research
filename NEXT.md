@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh professional-output record: SRC-530/C-675 — BABAO’s May 2021 Race Equality Review names Arday and Lizzy Craig-Atkins as authors and records Arday’s commissioned reviewer role. Browser-readable PDF text is available, but direct shell retrieval is Cloudflare-blocked and the PDF binary is not local. Reopen only for a lawful PDF mirror, BABAO-hosted copy, or changed repository state; do not infer additional role or content beyond the cited report text.
+
 Fresh media-version boundary: SRC-529/C-674 — the official Acast RSS feed and enclosure for the 26 May 2025 *How Do You Cope?* episode are preserved. The Acast main MP3 probes at about 1:02:05, materially shorter than the existing Global Player file at 1:11:49.51; the feed reports 1:01:22. Reopen only for an official transcript, a changed feed/enclosure, or evidence explaining the version difference; preserve both binaries.
 
 Fresh charity source-version: SRC-528/C-673 — the Adult Literacy Trust’s separate “Our Supporters” page publishes an attributed first-person statement about being unable to read or write until age 18 and a 225×225 portrait. Reopen only for a changed page, direct appointment/status update, or independent corroboration; do not treat the charity’s publication of the statement as independent verification.
