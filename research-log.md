@@ -3418,3 +3418,9 @@ The indexed Reddit discussion linked from the sports audit was also fetched dire
 Capture: the current Retraction Watch page was fetched after its 5 August modification. The article body remains the earlier modified version, while the visible comment count increased from 78 to 93. Newly loaded anonymous comments repeat or expand allegations about biography, sports, fundraising, endurance, affiliations, and the thesis review.
 
 Decision: updated SRC-282 and added C-859 as a page-state/public-reception observation. The comments remain volatile, unnamed, and unverified; no allegation was promoted to fact or institutional finding. Reopen only for named-source evidence, primary-text comparison, direct institutional records, or a materially changed article body.
+
+## 2026-08-08 — Comparator/repository search boundary: Memon, correction, and methodology leads
+
+Discovery: exact-title and author/comparator searches for the Memon-linked 2018 mental-health paper, the 2022 precarious-employment paper, and *Attempting to break the chain* returned the already-catalogued Cambridge correction, Roehampton/Cambridge and Glasgow/Kent repository manifestations, and existing primary-text comparison records. The results did not expose a distinct uncatalogued full text, version, DOI, or institutional finding.
+
+Decision: no new source node or claim was created. Existing records remain canonical: SRC-382/SRC-577 for the Memon comparator and page-level correspondence, SRC-474/SRC-612 for the *Attempting* primary manifestations and comparison, and SRC-457 for the Glasgow published-version manifestation. Reopen only for a materially different primary file, a new lawful repository/publisher manifestation, or a named institutional response/outcome; do not repeat these exact queries unchanged.
