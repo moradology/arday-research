@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly access-state recheck: SRC-079/C-136 — the indexed TransReads copy of the Bloomsbury chapter still exposes a contents preview, but the exact mirror returned a WordPress authorization HTTP 403 on 8 August 2026; Bloomsbury’s US publisher route returned Cloudflare HTTP 403. Both bodies and headers are preserved, and no chapter PDF was recovered. Reopen only for a changed official publisher/repository state or an authorized preview/full-text route; do not repeat the unofficial mirror request without a changed endpoint.
+
 Fresh institutional research-output capture: SRC-550/C-709 — the January 2021 London Metropolitan University/Centre for Equity and Inclusion report *Institutionalised* is locally preserved as a 60-page PDF, text extraction, headers, and rendered foreword page. Arday contributed the foreword and is given dated Visiting Professor/Durham/Runnymede role labels; he is not treated as the report’s empirical author. Reopen only for a changed report version, cited underlying data, implementation evidence, or a distinct original event/role record.
 
 Fresh professional-association output record: SRC-549/C-708 — the ASA’s official Winter 2025 year-in-review PDF lists Arday and Chantelle Lewis as speakers for a 2024 webinar on neurodivergent-inclusive academic policies. The 36-page PDF and rendered page are locally preserved; no exact date, recording, transcript, or attendance evidence was exposed. Reopen only for a session page, recording, transcript, slides, or changed ASA artifact.

@@ -2576,3 +2576,9 @@ Discovery: an exact-name PDF search surfaced the official copy of *Institutional
 Capture: preserved the 60-page PDF, headers, layout-preserving text extraction, and a rendered copy of printed page 7. The page contains Arday’s foreword, “A New Dawn: Addressing Islamophobia in British Higher Education,” and labels him Visiting Professor at the Centre for Equity & Inclusion, Durham Associate Professor/Deputy Executive Dean, and Runnymede Trust trustee.
 
 Decision: added SRC-550 and C-709. The report is catalogued as an institutional report with an Arday-authored foreword, not as an Arday-authored empirical study. Its role labels are preserved as January 2021 source-version evidence and are not treated as current status.
+
+## 2026-08-08 — SRC-079 access-state recheck
+
+Rechecked the exact indexed TransReads URL for the Bloomsbury chapter after the search index resurfaced a contents preview. The mirror returned HTTP 403 with a WordPress authorization page; the official Bloomsbury US route also returned a Cloudflare HTTP 403. Preserved both response bodies and headers under `assets/documents/transreads-decolonizing-university-teaching-2026-08-08/`.
+
+Decision: updated SRC-079/C-136 in place. No new publication node or chapter-text claim was created; the indexed snippet remains a discovery witness only, and the official publisher metadata remains canonical.
