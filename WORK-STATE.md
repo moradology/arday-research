@@ -1,5 +1,7 @@
 # Work state
 
+Latest institutional-award record: on 2026-08-08 `SRC-532/C-677` preserved Westminster’s 26 July 2024 Honorary Doctor of Letters announcement, graduation remarks, and ceremony photograph. The page repeats childhood and Cambridge-superlative biography; those remain source-versioned rather than independently verified.
+
 Latest legal-record update: on 2026-08-08 `SRC-531/C-676` preserved Companies House’s Avenging Angels Ltd overview and filing history. The company was dissolved by voluntary strike-off on 22 July 2025, after Arday’s director/PSC cessation on 18 March 2024; this is separate from his personal-appointments snapshot and does not establish company activity or finances.
 
 Latest professional-output record: on 2026-08-08 `SRC-530/C-675` recorded BABAO’s May 2021 Race Equality Review, authored by Arday and Lizzy Craig-Atkins, with Arday’s commissioned reviewer role and the report’s mixed-method scope. The text was browser-readable, but the repository’s direct PDF download returned a Cloudflare 403; only the access-boundary HTML/headers are local.

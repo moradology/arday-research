@@ -1,5 +1,11 @@
 # Research log
 
+# 2026-08-08 — SRC-532/C-677: University of Westminster honorary doctorate
+
+Discovery: a focused institutional-report search surfaced Westminster’s award announcement as a distinct first-party manifestation not yet in the registry. The page records the Honorary Doctor of Letters, graduation remarks, and a credited ceremony photograph. Its childhood and Cambridge-superlative wording is retained as repeated institutional biography, not upgraded to independent proof.
+
+Capture: page HTML, response headers, and the 800×450 JPEG were downloaded from Westminster’s canonical URL. No speech recording or transcript was exposed.
+
 # 2026-08-08 — SRC-531/C-676: Avenging Angels Companies House state
 
 Discovery: an official-registry search found a company-status record not represented by the existing personal-appointments snapshot.

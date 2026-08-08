@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh institutional-award record: SRC-532/C-677 — Westminster’s 26 July 2024 announcement records the Honorary Doctor of Letters, graduation remarks, and a local ceremony photograph. Its childhood and Cambridge-superlative language is a repeated source-version, not independent corroboration. Reopen only for a speech recording/transcript or a materially different Westminster source state.
+
 Fresh company-status record: SRC-531/C-676 — Companies House records Avenging Angels Ltd as dissolved by voluntary strike-off on 22 July 2025 and records Arday’s director/PSC cessation on 18 March 2024. Reopen only for a filed document that materially changes this legal timeline; do not infer company activity, finances, or reason for dissolution.
 
 Fresh professional-output record: SRC-530/C-675 — BABAO’s May 2021 Race Equality Review names Arday and Lizzy Craig-Atkins as authors and records Arday’s commissioned reviewer role. Browser-readable PDF text is available, but direct shell retrieval is Cloudflare-blocked and the PDF binary is not local. Reopen only for a lawful PDF mirror, BABAO-hosted copy, or changed repository state; do not infer additional role or content beyond the cited report text.
