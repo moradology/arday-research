@@ -2792,3 +2792,11 @@ Lead: a search for dated institutional service records surfaced ATU’s validati
 Capture: the official seven-page PDF, response headers, extracted text, and a rendered first page were preserved. Printed p. 1 records the 5 December 2022 review date, the panel membership, and Arday’s then-described Glasgow professorship.
 
 Decision: added SRC-570/C-744 as a distinct service-record source. It is not merged with Glasgow affiliation records or treated as proof of any visiting role, employment beyond the dated description, or programme outcome.
+
+## 2026-08-08 — SRC-571/C-745 NEON Summit 2019 programme
+
+Lead: the conference-programme sweep found an official two-page NEON Summit programme distinct from the already archived 2022 NEON event.
+
+Capture: the PDF, response headers, extracted text, and rendered first page were preserved. Printed p. 1 schedules Arday as a 10:40 keynote speaker on 30 January 2019 and describes him as Senior Lecturer in Education at Roehampton.
+
+Decision: added SRC-571/C-745 as a planned-event/source-version record. No delivery, keynote content, or additional employment conclusion is inferred.
