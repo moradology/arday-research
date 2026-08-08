@@ -3336,3 +3336,10 @@ Discovery: the existing New Humanist *With Reason* transcript record was recheck
 Capture: preserved a current New Humanist HTML page and extracted transcript, the Buzzsprout RSS item, Apple’s public podcast lookup response, response headers, and the 27,834,412-byte MP3. The audio is 2,316.54 seconds by local inspection.
 
 Decision: upgraded SRC-223’s access state rather than creating a duplicate source. The transcript remains the auditable text layer; the MP3 is the recoverable primary audio manifestation. Manual listening and transcript comparison remain open, so no new verbatim quotations were promoted.
+## 2026-08-08 — SRC-621/C-845: Good Law Project solidarity-letter exhibit
+
+Discovery: while auditing the distinct exhibits embedded in SRC-580, the article's image set included a Good Law Project-branded “Stand in solidarity with Jason Arday” letter.
+
+Capture: the 1,077×1,746 JPEG is preserved with the SRC-580 page capture. Its visible text was transcribed at claim level: it describes the allegations as false and asserts that investigations and journals found no wrongdoing or basis for the claims.
+
+Decision: catalogued the exhibit separately because it points to a distinct claimed public document, while keeping it out of the independent-corroboration count. The original Good Law Project campaign page, signatory list, date, authorship, and underlying reports or journal decisions remain open targets. No exoneration finding was added.
