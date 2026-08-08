@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-239/C-913 — the 4:47 Cambridge Neurodiversity Celebration Week film MP4 is now committed to GitHub alongside its caption and page-state captures. The ~02:59–03:55 first-person autistic-identity/education passage remains pending audiovisual verification; do not merge it with PBS or Channel 4 records.
+
 Fresh media-integrity checkpoint: SRC-269/C-912 — the 40:38 Royal Greenwich Black History Month panel MP4 and sidecars are now committed to GitHub. Arday’s first-presenter role is host-described, while any substantive panel commentary remains caption-assisted pending audiovisual verification. Reopen only for verification or a changed source manifestation; do not repeat the same YouTube ID.
 
 Fresh media-integrity checkpoint: SRC-470/C-911 — the 3:42.40 Channel 4 News racial-justice Brightcove MP4 is now committed to GitHub. No captions or transcript were recovered; presenter, report-author, and Arday attribution must remain separate pending audiovisual listening. Reopen only for timecoded verification or a changed broadcast state; do not merge it with the separate Channel 4 podcast.

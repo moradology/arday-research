@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-239/C-913: Cambridge neurodiversity film promoted
+
+Audit: the canonical Cambridge LinkedIn/YouTube record already preserved the 4:47 film, captions, thumbnail, page snapshots, and metadata, but the MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 640×360 H.264/AAC MP4. No new substantive claim was added; the ~02:59–03:55 first-person autistic-identity/education passage remains caption-assisted and requires audiovisual verification before quotation.
+
+Decision: added C-913 as an archive-integrity observation. The film is distinct from PBS, Channel 4, and Cambridge Student records. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-269/C-912: Royal Greenwich panel binary promoted
 
 Audit: the canonical Royal Greenwich record already documented the 40:38 institutional panel, its first-presenter description, automatic captions, metadata, thumbnail, page snapshot, headers, and checksum, but the MP4 and sidecars were not tracked in Git.

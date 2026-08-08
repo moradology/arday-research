@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-239/C-913` promoted the 4:47 Cambridge Neurodiversity Celebration Week film MP4 to the GitHub archive. The film is preserved as first-party institutional media and public self-description; its automatic captions remain navigation material pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-269/C-912` promoted the 40:38 Royal Greenwich Black History Month panel MP4, captions, metadata, and thumbnail to the GitHub archive. The recording preserves a dated institutional panel with Arday as first presenter in the host description; captions remain navigation material pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-470/C-911` promoted the 3:42.40 Channel 4 News Brightcove MP4 to the GitHub archive. The page and playback metadata remain locally preserved; no captions or transcript were recovered, so presenter/report/Arday attribution remains unresolved pending audiovisual listening. Google Drive was not updated; GitHub remains the active publication target.
