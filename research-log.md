@@ -2630,3 +2630,13 @@ Discovery: exact-title and English/French host-volume searches were repeated acr
 Evidence handling: updated SRC-211 in place and added C-714. No publisher page, DOI, ISBN, pagination, library record, repository copy, lawful full text, duplicate publication record, or chapter-content claim was created. The Springer/Information Age/La Découverte conflict remains explicitly unresolved.
 
 Next boundary: reopen only after a concrete chapter-level identifier, changed Durham/publisher/catalogue state, or archival record; do not repeat the same exact-title pass.
+
+## 2026-08-08 — SRC-186/C-715 *Allyship in Action* catalogue-topology recheck
+
+Discovery: the episode surfaced again through Amazon Music and Apple’s public catalogue lookup. The canonical Libsyn enclosure was rechecked and matched the existing 24,206,688-byte MP3; Apple supplied track ID `1000731447975`, episode GUID `9abe4023-fd0e-468d-a32d-d35e9efcf675`, exact release timestamp, and 31:10 duration.
+
+Capture: preserved the Apple lookup response and extracted episode row, Amazon client-rendered page shell and headers, Libsyn response headers, and a 600×600 artwork derivative.
+
+Evidence handling: updated SRC-186 in place and added C-715 as a platform-manifestation mapping. No duplicate interview, independent biography claim, transcript, or timecoded audio claim was created.
+
+Next boundary: reopen only for a public transcript/caption asset, materially changed enclosure, or distinct interview manifestation.

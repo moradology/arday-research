@@ -1,0 +1,35 @@
+HTTP/2 200 
+server: daiquiri/5
+content-type: image/jpeg
+access-control-allow-origin: *
+x-correlation-key: REKTKCMWSWNNSPI37Z7QXICT5Y
+etag: "MSwxLjEwMS4zLDI2LjQuMSwxNzg2MTcxMTI0MTgxLHByb2R1Y3Rpb24zMjgsLixub0VmZmVjdCwu"
+cache-control: max-age=14753511, no-transform
+last-modified: Sat, 08 Aug 2026 06:38:44 GMT
+timing-allow-origin: *
+apple-timing-app: 495 ms
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+x-b3-traceid: 27779f9a72bcc2e0
+strict-transport-security: max-age=31536000; includeSubDomains
+access-control-expose-headers: Content-Length,Content-Type,ETag,Cache-Control,Expires,Last-Modified
+x-apple-jingle-correlation-key: REKTKCMWSWNNSPI37Z7QXICT5Y
+x-daiquiri-instance: daiquiri:13624002:mr85p00it-hyhk03094901:7987:26HOTFIX26:daiquiri-amp-processing-shared-int-001-mr
+x-daiquiri-debug-worker-pid: 42121
+x-robots-tag: noindex
+via: https/1.1 usspk2-dccdn-lx-0202.ts.apple.com (acdn/327.16648), https/1.1 usspk2-dccdn-bx-0205.ts.apple.com (acdn/327.16648), https/1.1 uschi7-3p-pst-019.ts.apple.com (acdn/327.16648), https/1.1 uschi7-3p-pac-021.ts.apple.com (acdn/327.16648), https/1.1 uschi7-3p-pfe-009.ts.apple.com (acdn/327.16648), https/1.1 uschi6-xdc-mx-021.ts.apple.com (acdn/327.16648), https/1.1 uschi5-edge-fx-054.ts.apple.com (acdn/327.16648), 1.1 varnish
+cdnuuid: 214a4613-2509-4073-bcd2-679762d0f2f0-345263110
+x-daiquiri-instance: daiquiri:11338002:mr47p00it-qujn02122102:7987:26HOTFIX26:daiquiri-amp-all-l7shared-int-001-mr
+x-daiquiri-debug-worker-pid: 53132
+accept-ranges: bytes
+age: 7
+date: Sat, 08 Aug 2026 06:38:44 GMT
+x-cdn: fsly
+x-served-by: cache-chi-kigq8000091-CHI
+x-cache: miss, miss, miss, miss, miss, miss, miss, MISS
+x-cache-hits: 0
+x-timer: S1786171124.652083,VS0,VE563
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 96653
+
