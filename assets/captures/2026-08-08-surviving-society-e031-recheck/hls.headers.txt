@@ -1,0 +1,23 @@
+HTTP/1.1 401 Unauthorized
+Content-Length: 0
+Connection: keep-alive
+x-robots-tag: noindex
+Cache-Control: private, max-age=0
+referrer-policy: no-referrer
+x-frame-options: DENY
+access-control-max-age: 1728000
+x-content-type-options: nosniff
+access-control-allow-origin: https://soundcloud.com
+access-control-allow-headers: Authorization, Content-Type, Device-Locale, X-CSRF-Token, X-Checkout-Token, X-Client-Id, X-Datadome-ClientId, X-Payments-Id, X-Payments-Token, X-Request-Id, X-Session-Override
+access-control-allow-methods: DELETE, GET, PATCH, POST, PUT
+access-control-expose-headers: Date, X-DD-B, X-Set-Cookie
+access-control-allow-credentials: true
+strict-transport-security: max-age=63072000
+Server: am/2
+Date: Sat, 08 Aug 2026 12:40:52 GMT
+Vary: Origin
+X-Cache: Error from cloudfront
+Via: 1.1 690eca7da4061112c211395022690390.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P5
+X-Amz-Cf-Id: EyHt_SDTYT_6RB0Wzv3T8TUKZjJ0yBDiFpclgP5sfDKBAJ9_3t-GtA==
+

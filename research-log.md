@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-197/C-114: Surviving Society E031 audio recovered
+
+Discovery: a fresh SoundCloud page recheck for the already catalogued 23 April 2019 “Growing up Black in the 90s” episode exposed current hydration metadata with public HLS transcodings, despite the earlier direct progressive request’s HTTP 401.
+
+Capture: preserved the current track HTML/headers, yt-dlp metadata, current artwork, and an 83-MiB HLS AAC manifestation. The metadata reports a displayed duration of 4,305.636 seconds and full duration of 4,306.061 seconds; local audio is 1:11:45.64 by the host duration convention. Audio SHA-256: `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
+
+Decision: upgraded SRC-197/C-114 rather than creating a duplicate episode node. No transcript, manual listening audit, or timecoded biographical claim is added yet.
+
 ## 2026-08-08 — SRC-620/C-842: Get Further annual report recovered from Charity Commission
 
 Discovery: official Charity Commission search results identified a distinct 2023/24 Get Further trustees’ report and financial statements, separate from the charity’s January 2025 patron announcement.
