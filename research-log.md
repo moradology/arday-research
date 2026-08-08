@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-244/C-906: Speakers Corner interview video promoted to GitHub
+
+Audit: the canonical Speakers Corner record already contained the YouTube page, thumbnail, automatic captions, metadata, headers, and a 9:14 progressive MP4, but the video binary remained only in the working tree.
+
+Capture decision: validated the MP4 checksum (`d5fd9a04bfcb7625917aac1cd5957f7c2c05f71f69b416f49f6ad5736a6128b0`) against the source record and committed the video. The timecoded social/education commentary remains caption-assisted first-person speech; no new substantive claim was promoted.
+
 ## 2026-08-08 — SRC-242/C-905: *Flip Your Script* video promoted to GitHub
 
 Audit: the canonical *Flip Your Script* record already contained the YouTube page, thumbnail, automatic captions, metadata, and a 13:51 progressive MP4, but the video binary remained only in the working tree.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest video-preservation checkpoint: on 2026-08-08 the Speakers Corner interview (`SRC-244/C-906`) was checksum-validated and added to the GitHub archive. The 24,691,832-byte 9:14 MP4 and existing captions/page/thumbnail/metadata captures are preserved; no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest video-preservation checkpoint: on 2026-08-08 the *Flip Your Script* interview (`SRC-242/C-905`) was checksum-validated and added to the GitHub archive. The 27,602,591-byte 13:51 MP4 and existing captions/page/thumbnail/metadata are preserved; the goal-list and mentorship passages remain first-person/caption-navigation evidence, not independent records. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest video-preservation checkpoint: on 2026-08-08 the ABC News childhood-profile MP4 (`SRC-033/C-904`) was checksum-validated and added to the GitHub archive. The 51M 2:47.36 video, official thumbnail, and capture metadata are preserved; no subtitle stream was exposed and no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
