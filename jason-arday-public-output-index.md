@@ -207,6 +207,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [The Herald: Glasgow visiting-professor affiliation report](sources/2026-08-03-affiliation-denial-reports.md) — 3 August 2026 report preserving Glasgow’s attributed denial and the distinction between the disputed visiting role and the documented Glasgow professorship.
 - [AMOSSHE National Conference 2026](sources/2026-07-03-amosshe-national-conference-jason-arday.md) — organizer promotion for a 3 July closing keynote, with current official programme/speakers pages preserved as a changed omission state; delivery unresolved.
 - [*We Are Out of Office*, episode 55](sources/2026-03-14-we-are-out-of-office-arday-propagation.md) — 14 March 2026 Apple Podcasts show-note mention repeating Arday’s public biography; Arday is not a guest and the item is retained only as a low-provenance propagation witness.
+- [Instagram: Jason Arday story](sources/2025-08-14-instagram-arday-story.md) — 14 August 2025 third-party post and displayed image repeating the childhood/diagnosis/literacy/Cambridge narrative; preserved as a propagation witness, not independent corroboration or an Arday-authored output.
 
 ## 8. Current controversy — keep separate from the historical archive
 

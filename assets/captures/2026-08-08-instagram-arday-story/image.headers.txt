@@ -1,0 +1,20 @@
+HTTP/2 200 
+last-modified: Thu, 14 Aug 2025 20:34:42 GMT
+x-additional-error-detail: 
+content-type: image/jpeg
+content-length: 56294
+content-digest: adler32=2475534048
+x-crypto-project: 0
+cross-origin-resource-policy: cross-origin
+timing-allow-origin: *
+access-control-allow-origin: *
+cache-control: max-age=1209600, no-transform
+accept-ranges: bytes
+date: Sat, 08 Aug 2026 06:23:05 GMT
+x-fb-edge-debug: xCluZJ1eNhr78m4Vi5rNVGANte_hxGxZLrlha4rk0ojv7wJ1IUHL9RdBRRpcRWgty2AcFcGdRHeKnYbt0gRrDPjZZSuaLxMLl8_D7Uw9ISM
+x-fb-connection-quality: EXCELLENT; q=0.9, rtt=46, rtx=0, c=16, mss=1380, tbw=3805, tp=-1, tpl=-1, uplat=74, ullat=0
+alt-svc: h3=":443"; ma=86400
+no-vary-search: key-order, params=("_nc_gid" "oh" "oe" "_nc_oc" "_nc_ohc" "_nc_cat" "_nc_ht" "_nc_cb")
+x-fb-ptm-uuid: FD449155EDDDC0150928851053805092
+x-robots-tag: noarchive, noindex
+

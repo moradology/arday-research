@@ -18,7 +18,7 @@ assets:
 
 Apple Podcasts identifies episode 55 of *We Are Out of Office*, “The Radical Joy of Building a Life You Don't Have to Beg For,” as published 14 March 2026, with a nominal duration of 47:41. The episode’s show notes include a short “What’s Good” mention of Professor Jason Arday and link to an Instagram post. The episode is not an Arday interview or appearance record.
 
-The show notes repeat the public biography that Arday is the youngest Black professor in the history of the University of Cambridge and that he did not speak until age 11 or learn to read and write until age 18. Those are attributed to the podcast’s show notes and add no independent corroboration. The linked Instagram post was not treated as a recovered Arday source or as evidence of the underlying claims.
+The show notes repeat the public biography that Arday is the youngest Black professor in the history of the University of Cambridge and that he did not speak until age 11 or learn to read and write until age 18. Those are attributed to the podcast’s show notes and add no independent corroboration. The linked Instagram post is now preserved separately as [SRC-552](2025-08-14-instagram-arday-story.md); it is another external propagation witness, not an Arday source.
 
 ## Local preservation
 

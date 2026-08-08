@@ -2598,3 +2598,11 @@ Discovery: a podcast search surfaced Apple Podcasts episode 55 of *We Are Out of
 Capture: preserved the Apple Podcasts HTML and response headers locally. The page exposes the episode’s metadata and the relevant show-note text.
 
 Decision: added SRC-551/C-710 as a low-provenance source-propagation witness. The episode does not feature Arday as a guest, so no media-appearance node, audio binary, or independent biography claim was created.
+
+## 2026-08-08 — SRC-552 linked Instagram source check
+
+Discovery: the Apple episode’s show notes linked an Instagram post dated 14 August 2025 by “The Archbishop of Banterbury.” The post’s caption and displayed image repeat the diagnosis, delayed-speech/literacy, and Cambridge-superlative narrative.
+
+Capture: preserved the public Instagram HTML, response headers, the 640×640 image derivative, and image headers. The page identifies an external account; it does not identify an Arday-authored source or an institutional relationship.
+
+Decision: added SRC-552/C-711 as a separate propagation manifestation and linked it from SRC-551. No new biography fact, media appearance, or independent corroboration was created.
