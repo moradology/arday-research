@@ -41,7 +41,7 @@ This is a national-broadcaster report containing named institutional statements,
 ## Local hashes
 
 - [BBC HTML](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/page.html) — SHA-256 `dfbac7d67ac807c03215d879c91ff90cca9e064da151700e79a885bdf29c2f57`.
-- [Extracted text](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/page.txt) — SHA-256 `b4c1c80f4e6fe48338b9ac149ee41185bf2e1ad0d31fd2adef10dd9aa26227d3`.
+- [Extracted text](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/page.txt) — SHA-256 `7ed51e9eb6f175c73a78e327a8a83f82e7529cbf8606976b96bc99f350ae61fc`.
 - [Response headers](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/page.headers.txt) — SHA-256 `681cf0745339611f690930297b88fcae47c83e585746bfbd07d94b7518a566ab`.
 - [BBC article image](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/portrait.jpg) — 1200×675 JPEG; SHA-256 `93984ddf27b9f5d71ffeb87e3292875140e47411cdd5dc68e5ab0cb3bd5e27b7`.
-- [Image response headers](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/image.headers.txt) — SHA-256 `5e70280093c5923b9636048933c7a2b9a381f5b56b9752c490830a84da6d8f55`.
+- [Image response headers](../assets/captures/2026-08-08-bbc-cambridge-hiring-review/image.headers.txt) — SHA-256 `dfa8a753526a4ee1e5eda4d91e4e7f348297618d4e9ad77f01c536bd89380b86`.
