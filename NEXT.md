@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-240/C-900 — the complete 56:08 Oxford Physics “Challenges & Changes” recording is now available as a 40,957,856-byte AAC derivative on GitHub. The 123,139,640-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and captions remain unverified.
+
 Fresh complete-audiovisual checkpoint: SRC-241/C-891 — the complete 59:44 Diversity Seminar interview is now available as a 69,706,601-byte 320×180 H.264/AAC cellular-video derivative on GitHub, alongside the complete AAC derivative. The 123,444,887-byte parent MP4 remains local-only; captions and childhood/literacy claims remain unverified.
 
 Fresh complete-derivative checkpoint: SRC-241/C-890 — the complete 59:44 Diversity Seminar interview is now available as a 43,502,939-byte AAC derivative on GitHub. The 123,444,887-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and the 05:10–08:30 childhood/literacy captions still require audiovisual verification.

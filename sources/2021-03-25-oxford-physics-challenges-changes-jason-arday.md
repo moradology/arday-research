@@ -5,7 +5,7 @@ title: "Challenges & Changes: Dr Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2021-03-25
 accessed: 2026-08-06
-status: official Oxford YouTube recording and captions locally preserved; bounded opening review clip committed to GitHub
+status: official Oxford YouTube recording and captions locally preserved; complete AAC derivative and bounded opening review clip committed to GitHub
 evidence_class: first-party institutional event recording; programme introduction and interview/lecture
 urls:
   - https://www.youtube.com/watch?v=F6mrqJxWsa4
@@ -25,6 +25,7 @@ This is a distinct Oxford-hosted recording, not the separately captured Oxford/K
 - [English automatic captions](../assets/documents/oxford-challenges-changes-jason-arday-2021.en.srt) and [English-original track](../assets/documents/oxford-challenges-changes-jason-arday-2021.en-orig.srt) — 110,933 bytes each; identical SHA-256 `866d5d68e4a89105048359c4ab3c329e45f2aacebfb3ee9cb492bf28cdd223b6`
 - [yt-dlp metadata](../assets/documents/oxford-challenges-changes-jason-arday-2021-ytdlp.json) — SHA-256 `52f8757640932f37e0ed02423b7e3ade6019fa103108dd78848c58d3c4161e29`
 - [Headers](../assets/documents/oxford-challenges-changes-jason-arday-2021-headers.txt) — SHA-256 `ea7b26a235088f381fdf34adeb363ac18c2fa1dc061bf86443143efc8265cd83`
+- [Complete AAC derivative](../assets/audio/derivatives/oxford-challenges-changes-jason-arday-2021.m4a) — 40,957,856 bytes; 56:08.21; SHA-256 `199771217e6bb9b8a9f20d8b02026687d93cdb1aab1baade9fdd275da6742691`; 96 kb/s AAC review copy derived from the parent MP4.
 
 The captions are automatic and may contain errors; they are retained for navigation, not as a human-verified transcript.
 
@@ -32,4 +33,4 @@ The captions are automatic and may contain errors; they are retained for navigat
 
 - [Opening review clip, source interval 00:00–10:00](../assets/videos/clips/oxford-physics-challenges-changes-2021/opening-00m00-10m00.mp4) — 23,867,909 bytes; SHA-256 `de36e8305cc68083dab51920ac720f3ed33c7a8605d202761fee60416f0bb890`.
 
-The clip preserves the host introduction and beginning of the talk. The host’s Durham role and research description remain attributed event-introduction wording, not independent appointment evidence. The 123,139,640-byte parent hash remains `aa0aa220809ec8a74e050755461a59151f9a4d4f52dd73ae41cb44b978156dc5` and the parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.
+The clip preserves the host introduction and beginning of the talk. The host’s Durham role and research description remain attributed event-introduction wording, not independent appointment evidence. The complete AAC derivative and opening clip are bounded derivatives of the parent MP4, not an independent event or verified transcript. The captions remain navigation aids. The 123,139,640-byte parent hash remains `aa0aa220809ec8a74e050755461a59151f9a4d4f52dd73ae41cb44b978156dc5` and the parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.

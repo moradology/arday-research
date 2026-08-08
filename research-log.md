@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-240/C-900: complete Oxford Physics audio derivative created
+
+Archive action: transcoded the 123,139,640-byte parent MP4 to a complete 40,957,856-byte AAC `.m4a` derivative at 96 kb/s. The derivative runs 56:08.21 and passed an FFmpeg decode validation; its SHA-256 is `199771217e6bb9b8a9f20d8b02026687d93cdb1aab1baade9fdd275da6742691`.
+
+Decision: added C-900 as an archive-integrity observation. This closes the GitHub handoff gap for the complete recording while retaining the parent MP4 hash as the integrity anchor. The derivative is not a transcript and the automatic captions remain unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-241/C-891: complete Diversity Seminar video derivative created
 
 Archive action: transcoded the complete 123,444,887-byte parent MP4 to a 69,706,601-byte 320×180 H.264/AAC cellular-video derivative. The derivative runs 59:44.34 and passed an FFmpeg decode validation; its SHA-256 is `ef648721c8d1a48609210f89625cc32e80f16b5273b3ca51d1eadefbf2874589`.
