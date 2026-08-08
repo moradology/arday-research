@@ -1,5 +1,7 @@
 # Work state
 
+Latest integrity-source checkpoint: on 2026-08-08 `SRC-882/C-884` preserved a byte-distinct recheck of the already-canonical Cofnas Substack article. The article’s visible substantive text and publication date remained unchanged, while engagement counters rose to 1,404 likes, 286 comments, and 169 restacks; these are volatile reception metadata, not corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-proposal boundary: on 2026-08-08, a targeted search for the *Great and Unfortunate Things* proposal found only the already-preserved Simon & Schuster Spring 2025 and Spring 2026 rights-catalogue versions (`SRC-504` and `SRC-321`). No new proposal, manuscript, review, or interview artifact was recovered; the distinction between proposal/version metadata and independent biographical evidence remains explicit. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest source-reliability checkpoint: on 2026-08-08 `SRC-881/C-883` captured SnapJournal’s 24 April 2026 SEO-style biography. It is retained as low-provenance propagation evidence only; no repeated claim was upgraded, and stale/unsupported role and fundraising language remains attributed. Google Drive was not updated; GitHub remains the active publication target.

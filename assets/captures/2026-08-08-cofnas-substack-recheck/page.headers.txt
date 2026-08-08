@@ -1,0 +1,27 @@
+HTTP/2 103 
+link: <https://substackcdn.com>; rel=preconnect
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 23:29:27 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a2824da498afc543-ORD
+cf-cache-status: HIT
+age: 2299
+cache-control: no-cache
+set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sun, 08 Aug 2027 23:29:27 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=%2279fc8243-ec5c-490d-82e8-8d44b64cb5f7%22; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sun, 08 Aug 2027 23:29:27 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: __cf_bm=c85EoeUKwK97ckroQ5FC4C33ZC2ZNupzpg34gZjRjjk-1786231767.7722828-1.0.1.1-kfwnMM.sf4TMHwW9EZraB5.2HCBg3aK1PNgRxyZ8dhSyxNJpbNtmG6mKralWRdV9yitXfXF4OI1SEkIiwiahSI1AG7_igNAw5_8X0KSKJXf_zwQhrm9C_sBGtlqlyrzn; HttpOnly; SameSite=None; Secure; Path=/; Domain=ncofnas.com; Expires=Sat, 08 Aug 2026 23:59:27 GMT
+etag: W/"a2c33-tnXCsc72ZUWoWDYcWr2unE8gTsA"
+link: <https://substackcdn.com>; rel=preconnect
+server: cloudflare
+x-sub: nathancofnas
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' https://*.substack.com https://substack.com
+x-cluster: substack
+x-deploy: 77ed348050
+x-powered-by: Express
+x-served-by: Substack
+x-service: web
+alt-svc: h3=":443"; ma=86400
+

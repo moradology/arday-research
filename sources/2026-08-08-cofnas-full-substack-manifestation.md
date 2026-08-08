@@ -4,7 +4,7 @@ type: Source
 title: "DEI Fraud and Cover-Up at Cambridge — full Substack manifestation"
 date: 2026-07-21
 accessed: 2026-08-08
-status: verified
+status: verified; changed-state recheck preserved
 source_kind: self-published research-integrity analysis / source-version
 entities:
   - ../entities/jason-arday.md
@@ -24,6 +24,13 @@ This is a fuller, later local capture of the public Substack article already cat
 - [Embedded image URL manifest](../assets/documents/cofnas-dei-fraud-2026/image-urls-clean.txt).
 - [Embedded-image SHA-256 manifest](../assets/documents/cofnas-dei-fraud-2026/image-sha256.txt).
 - The article’s 48 embedded PNG/JPEG binaries are stored in [the capture directory](../assets/documents/cofnas-dei-fraud-2026/); these include side-by-side comparison exhibits, charts, and illustrative images. They are preserved as article media, not silently reclassified as independent primary documents.
+
+## 8 August 2026 changed-state recheck
+
+A fresh direct request returned a byte-distinct HTML body and response headers. The article’s publication date and substantive text remain the same in the visible comparison, while the live Substack counters had changed from the earlier capture’s 1,341 likes, 274 comments, and 169 restacks to 1,404 likes, 286 comments, and 169 restacks. The current HTML and headers are preserved as a source-version sidecar; volatile engagement remains reception metadata, not evidence for or against the allegations.
+
+- [Changed-state HTML](../assets/captures/2026-08-08-cofnas-substack-recheck/page.html) — SHA-256 `572cf5a119a59bb11c0795ef38effbb417b00fff39c97d22087f4c17ebb00535`.
+- [Changed-state response headers](../assets/captures/2026-08-08-cofnas-substack-recheck/page.headers.txt) — SHA-256 `8d2ef59b28ab220ee2a762c79c48c6616c6b9b5cd7590f9954e14ee84071c88b`.
 
 ## What this manifestation adds
 

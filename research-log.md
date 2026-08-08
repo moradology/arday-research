@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-882/C-884: Cofnas Substack changed-state recheck
+
+Discovery: the academic-integrity search re-opened Nathan Cofnas’s public 21 July 2026 article, which is already canonically represented by `SRC-379` and the fuller `SRC-476` manifestation.
+
+Capture: a fresh direct request returned byte-distinct HTML and headers. The visible article date and substantive text were unchanged in comparison, while engagement counters moved from the earlier capture’s 1,341 likes / 274 comments / 169 restacks to 1,404 likes / 286 comments / 169 restacks. The new HTML and headers are preserved under `assets/captures/2026-08-08-cofnas-substack-recheck/`.
+
+Decision: added `SRC-882/C-884` as a changed source-version/reception node, not a duplicate article. The article’s allegations, political framing, and quoted correspondence remain attributed; the dynamic counters are reception metadata only. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — Memoir proposal/reception pass: public proposal PDFs reconciled
 
 Discovery: a targeted search for a publicly available proposal for *Great and Unfortunate Things* surfaced the Simon & Schuster Spring 2025 and Spring 2026 rights-catalogue PDFs. Both proposal-level artifacts are already preserved as `SRC-504` and `SRC-321`, respectively; the search produced no new proposal file, manuscript, or review/interview artifact.
