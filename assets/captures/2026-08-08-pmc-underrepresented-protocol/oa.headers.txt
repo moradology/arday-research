@@ -1,0 +1,12 @@
+HTTP/2 200 
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+referrer-policy: origin-when-cross-origin
+content-security-policy: upgrade-insecure-requests
+date: Sat, 08 Aug 2026 10:41:35 GMT
+server: Apache
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-type: text/xml; charset=utf-8
+vary: Accept-Encoding
+x-ua-compatible: IE=Edge
+x-xss-protection: 1; mode=block
+

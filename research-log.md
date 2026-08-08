@@ -24,6 +24,22 @@ Capture: PDF p. 10 reports recruitment across 14 UK-based universities, 32 parti
 
 Decision: promote the reported methods and consent statement as primary-text facts about what the article says. Record the ethics-language absence as a bounded negative-space observation only; it is not evidence that no approval existed, that the participants were fabricated, or that misconduct occurred. Reopen only for an approval record, correction, author/editor response, or underlying study materials.
 
+# 2026-08-08 — SRC-599/C-797–C-798: PubMed Central protocol manifestation
+
+Discovery: a scholarly-index search surfaced the PubMed Central record for the already-canonical 2025 BMJ Open narrative-inquiry protocol.
+
+Capture: PMC full-text HTML and the NCBI OA API response were preserved. The repository identifies the CC BY article, Jason Arday’s Cambridge affiliation, and a non-retracted record. Linked PDF and reviewer-comment routes returned HTML “Preparing to download” wrappers; the OA package URL returned 404 rather than a tarball.
+
+Decision: add the PMC route as a strong repository provenance manifestation, not a new article. Preserve the HTML as available full text and the binary failures as access boundaries. Do not infer removal, retraction, or completion of the planned study.
+
+# 2026-08-08 — SRC-600/C-799: Sciety preprint manifestation
+
+Discovery: Sciety’s activity page surfaced a distinct public manifestation of the OSF narrative-inquiry preprint family.
+
+Capture: the page lists the 14 contributors, Arday’s position in the contributor list, v1/v2 activity, and abstract recruitment counts. The HTML and headers are local.
+
+Decision: deduplicate to OSF v1/v2. Treat Sciety as discovery/version metadata and abstract text, not independent validation or peer review.
+
 # 2026-08-08 — SRC-093: Cambridge investigation-statement recheck
 
 Discovery: the official Cambridge notice was rechecked during the formal-outcome search. It remains publicly reachable and reports “Last updated: 07 Aug 2026.” The substantive wording remains unchanged: Cambridge’s investigation concerns new information about qualifications and honorary appointments; ongoing academic-misconduct complaints remain under its policy; and Jesus College is taking its own steps.

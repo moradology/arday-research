@@ -1,0 +1,11 @@
+HTTP/2 302 
+content-type: text/html; charset=utf-8
+date: Sat, 08 Aug 2026 10:41:05 GMT
+location: /articles/activity/10.31234/osf.io/h8ezv_v2
+content-length: 117
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Sat, 08 Aug 2026 10:41:05 GMT
+content-length: 20562
+

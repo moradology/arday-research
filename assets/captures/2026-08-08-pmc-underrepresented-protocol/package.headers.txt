@@ -1,0 +1,15 @@
+HTTP/1.1 404 Not Found
+Date: Sat, 08 Aug 2026 10:41:42 GMT
+Server: Apache
+Vary: accept-language,accept-charset
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS
+Access-Control-Allow-Headers: RANGE, Cache-control, If-None-Match, Content-Type
+Access-Control-Expose-Headers: Content-Length, Content-Range, Content-Type
+Cache-Control: public, max-age=86400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+
