@@ -1,0 +1,19 @@
+HTTP/1.1 200 
+Cache-Control: no-cache, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Permissions-Policy: interest-cohort=()
+Access-Control-Allow-Origin: https://warwick.ac.uk
+Access-Control-Max-Age: 600
+Access-Control-Allow-Credentials: true
+ETag: "/1786058811959/false/false/1785495777627/false/false/none"
+Server-Timing: db;desc="Database queries (18)";dur=15, objectStorageRead;desc="Object storage reads (1)";dur=0, total;desc="Total (server)";dur=147
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-GB
+Date: Thu, 06 Aug 2026 23:26:52 GMT
+Server: SiteBuilder
+Strict-Transport-Security: max-age=31536000; preload
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+

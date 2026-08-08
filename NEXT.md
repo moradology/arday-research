@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh archive-boundary checkpoint: SRC-334/C-929 — Warwick’s captured conference pages, headers, portraits, rate-limit rechecks, and caption-endpoint 404 are now committed to GitHub. The 138,726,243-byte keynote MP4 and three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit; reopen only for a suitable lawful media host, transcript/captions, or an additional distinct artifact.
+
 Fresh sports-history checkpoint: SRC-343/C-928 — the 48-page Autumn 2015 *Concordia* PDF containing the COXA 1st XI match report naming Jason Arday as goalkeeper is now committed to GitHub. The record narrows the sports uncertainty but does not establish professional status, academy membership, or Southfields Academy attendance; seek only distinct rosters/registration records or changed archive versions.
 
 Fresh media-topology checkpoint: SRC-347/C-927 — the 47 MB adaptive WebM audio stream for St Mary’s 2020 Values Talk is now committed to GitHub. The playable MP4 was already committed; the 336 MB adaptive video remains local, and the caption endpoint remains zero-byte. Reopen for a valid caption track or audiovisual verification; do not treat the host biography as an audited record.

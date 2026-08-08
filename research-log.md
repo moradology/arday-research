@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-334/C-929: Warwick conference capture promoted
+
+Audit: SRC-334 already documented Warwick’s first-party conference pages, direct keynote MP4, portraits, changed access state, and failed caption endpoint, but the manageable page and image artifacts were not tracked in Git.
+
+Archive action: checksum-validated and committed the captured HTML, response headers, portraits, 7 August HTTP 429 rechecks, and 8 August caption-endpoint HTTP 404 response. The 138,726,243-byte MP4 and its three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit.
+
+Decision: added C-929 as an archive-integrity observation. No transcript or substantive keynote claim was added; the media-size boundary is explicit and reversible if a suitable lawful publication route becomes available. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-343/C-928: COXA *Concordia* match-report PDF promoted
 
 Audit: the canonical Clapham Old Xaverians record already documented the 48-page Autumn 2015 *Concordia* PDF, its p. 7 match report, rendered page, headers, and checksum, but the primary PDF was not tracked in Git.
