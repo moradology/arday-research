@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-245/C-923: SoTL Spotlight preview promoted
+
+Audit: the canonical Sheffield Hallam/Spotify record already documented the 20:17 episode listing, page captures, image, public 60-second preview, and full-episode access boundary, but the preview MP3 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 60-second MP3. No transcript or substantive preview claim was added; the full episode remains unavailable as a local audio file.
+
+Decision: added C-923 as an archive-integrity observation. The preview is an episode manifestation, not a substitute for the full podcast. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-236/C-922: Simon & Schuster memoir trailer promoted
 
 Audit: the canonical publisher-trailer record already documented the 48-second official YouTube asset, thumbnail, page, metadata, response headers, checksum, and no-caption boundary, but the MP4 was not tracked in Git.

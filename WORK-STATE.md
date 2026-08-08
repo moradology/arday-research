@@ -1,5 +1,7 @@
 # Work state
 
+Latest audio-access checkpoint: on 2026-08-08 `SRC-245/C-923` promoted Sheffield Hallam’s 60-second Spotify preview MP3 to GitHub. The institutional/Spotify pages and image remain preserved; the full 20:17 episode is still not locally downloadable and no substantive preview claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest publisher-media checkpoint: on 2026-08-08 `SRC-236/C-922` promoted the 48-second Simon & Schuster memoir trailer MP4 to the GitHub archive. The publisher page, thumbnail, metadata, and response captures remain preserved; the trailer is promotional framing, not independent biography evidence. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-topology checkpoint: on 2026-08-08 `SRC-266/C-921` promoted Beacon College’s 361-second profile’s separate video-only MP4 and audio M4A, metadata, and thumbnail to GitHub. The 87 MB video triggered GitHub’s large-file advisory but pushed successfully; no public subtitle track exists, so no substantive biography claim was added. Google Drive was not updated; GitHub remains the active publication target.

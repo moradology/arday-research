@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-access checkpoint: SRC-245/C-923 — the public 60-second Spotify preview for Sheffield Hallam’s *SoTL Spotlight* episode is now committed to GitHub. The full 20:17 episode remains a player-only/access-boundary item; no transcript or preview quotation is claimed without listening. Reopen only for a full audio route, transcript, or changed player state.
+
 Fresh publisher-media checkpoint: SRC-236/C-922 — the 48-second Simon & Schuster memoir trailer MP4 is now committed to GitHub. It remains promotional publisher framing, distinct from Great Big Story, with no captions or transcript; do not treat it as independent corroboration of the memoir narrative.
 
 Fresh media-topology checkpoint: SRC-266/C-921 — Beacon College’s 361-second profile now has separate video-only MP4 and audio M4A streams, metadata, and thumbnail committed to GitHub. No public subtitle track was exposed; human listening is required before substantive extraction. The host’s childhood/neurodiversity framing remains source-versioned, not independently corroborated.
