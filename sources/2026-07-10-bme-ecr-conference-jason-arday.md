@@ -5,7 +5,7 @@ title: "10th BME ECR Conference — Jason Arday keynote"
 subject: ../entities/jason-arday.md
 event_date: 2026-07-10
 accessed: 2026-08-07
-status: event listing and organizer social promotion preserved; promotional MP4 committed to GitHub on 2026-08-08; post-event page remains unchanged and delivery/attendance unresolved
+status: event listing and organizer social promotion preserved; post-event page remains unchanged and delivery/attendance unresolved
 evidence_class: public event listing plus organizer-network LinkedIn post and video
 urls:
   - https://happeningnext.com/event/the-10th-bme-ecr-conference-eid1ef0ksghmfcr
@@ -33,7 +33,7 @@ No post-event report, programme, attendee account, keynote transcript, or record
 
 - [Event listing HTML](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/event.html) — SHA-256 `43958927423e40e46748787855266d9d14e0007320d3d1d38abc6468e38b7c40`
 - [Organizer LinkedIn snapshot](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/linkedin.html) — SHA-256 `eac7b1f030f9878927d765b88e2c1d6f7e3f60a9b2786df541f59477684e2a1e`
-- [LinkedIn promotional MP4](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/bmeecr10-linkedin.mp4) — SHA-256 `225ad0d59be4fe87f3500a93663c9c2fbc99bc593506071aefa3833425e80a28`; committed to GitHub.
+- [LinkedIn promotional MP4](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/bmeecr10-linkedin.mp4) — SHA-256 `225ad0d59be4fe87f3500a93663c9c2fbc99bc593506071aefa3833425e80a28`
 - [LinkedIn poster](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/bmeecr10-poster.jpg) — SHA-256 `f71d7699d854a085b6bca157387b0865c500a49ff3bbe97f898b12ff30ddec7a`
 - [Event banner](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/event-banner.jpg) — SHA-256 `43b2c21edbfb8853e61be76b849d454e39398a363580ce504cf3fc8dafe6a981`
 - [Capture checksums](../assets/captures/2026-07-10-bme-ecr-conference-jason-arday/SHA256SUMS)

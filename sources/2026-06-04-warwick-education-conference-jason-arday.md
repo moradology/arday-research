@@ -44,8 +44,6 @@ The highlights page exposes a direct MP4 for Arday’s session. The page’s vid
 
 The Warwick highlights page establishes that the university presented the event as post-event material and labels Arday’s session and keynote title. The local MP4 establishes a publicly retrievable video manifestation of that session. The record does not yet contain a human-verified transcript, captions, or extracted substantive claims; those should be added only after listening or a lawful caption file is independently checked.
 
-The GitHub snapshot carries the captured HTML, response headers, portraits, rate-limit rechecks, and caption-endpoint recheck. The 138,726,243-byte MP4 and its three Drive-safe reassembly parts remain local-only because the repository workflow does not publish files above GitHub’s 100 MiB hard limit; the source record retains their hashes and reassembly instructions.
-
 On 8 August 2026, the relative English caption-track endpoint advertised in the highlights page (`1`) redirected to a trailing-slash route and returned HTTP 404 HTML. No caption file or transcript was recovered; the MP4 remains the controlling media artifact.
 
 ## Changed live-page state

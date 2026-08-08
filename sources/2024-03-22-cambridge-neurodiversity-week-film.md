@@ -5,7 +5,7 @@ title: "Professor Jason Arday celebrates Neurodiversity Week"
 subject: ../entities/jason-arday.md
 published: 2024-03-22
 accessed: 2026-08-06
-status: official Cambridge YouTube video and LinkedIn post locally preserved; MP4 committed to GitHub on 2026-08-08
+status: official Cambridge YouTube video and LinkedIn post locally preserved
 evidence_class: first-party institutional video; first-person commentary
 urls:
   - https://www.youtube.com/watch?v=74okc6ENMuY
@@ -30,7 +30,7 @@ The English captions are automatic, overlapping, and occasionally imperfect. The
 
 ## Local preservation
 
-- [MP4](../assets/videos/cambridge-neurodiversity-week-jason-arday-2024.mp4) — 13,063,189 bytes; 4:47; progressive MP4 format 18, H.264/AAC, 640×360, 25 fps; SHA-256 `e7759a00ad3386ee68492a54def68493d424bb2821f61a4a184fe978f49dc999`; committed to GitHub.
+- [MP4](../assets/videos/cambridge-neurodiversity-week-jason-arday-2024.mp4) — 13,063,189 bytes; 4:47; progressive MP4 format 18, H.264/AAC, 640×360, 25 fps; SHA-256 `e7759a00ad3386ee68492a54def68493d424bb2821f61a4a184fe978f49dc999`
 - [Thumbnail](../assets/images/cambridge-neurodiversity-week-jason-arday-2024.jpg) — SHA-256 `9ec0bd26589bf1eeba36afab14a253a27829402de61d1286d7556bac7b1755f8`
 - [YouTube page snapshot](../assets/documents/cambridge-neurodiversity-week-jason-arday-2024.html) — SHA-256 `65d70ad7768cb5a3313cc807cc698b1e251c61ffaf075ca293abf40e8e8cf504`
 - [LinkedIn post snapshot](../assets/documents/cambridge-neurodiversity-week-jason-arday-linkedin.html) — SHA-256 `6274f0868a5a7c6831c77f43befeef2ce309494ce2c80b05330d90841b8169e1`

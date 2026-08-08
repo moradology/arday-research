@@ -8,10 +8,10 @@ id: SRC-270
 - Canonical URL: https://www.youtube.com/watch?v=JPOpTsHMH_Y
 - Host/channel: OpenLearn from The Open University
 - Upload date: 9 June 2023 (YouTube metadata)
-- Captured: 2026-08-06; MP4 promoted to GitHub 2026-08-08
+- Captured: 2026-08-06
 - Type: first-party educational video / OpenLearn collection manifestation
 - Duration: 6:14
-- Status: complete progressive MP4, captions, thumbnail, metadata, YouTube snapshot, and OpenLearn access-boundary responses locally preserved; MP4 committed to GitHub
+- Status: complete progressive MP4, captions, thumbnail, metadata, YouTube snapshot, and OpenLearn access-boundary responses locally preserved
 
 ## What the source establishes
 
@@ -19,7 +19,7 @@ OpenLearn published a short educational video titled “Degree Awarding Gap.” 
 
 ## Local preservation
 
-- MP4: `assets/videos/JPOpTsHMH_Y.mp4` — SHA-256 `ac2f9880d7d6260b102050b0492a9e0581b5760f71f9e8eb5a9aa499bae05ccc`; now included in the GitHub archive
+- MP4: `assets/videos/JPOpTsHMH_Y.mp4` — SHA-256 `ac2f9880d7d6260b102050b0492a9e0581b5760f71f9e8eb5a9aa499bae05ccc`
 - English captions: `assets/videos/JPOpTsHMH_Y.en.vtt` — SHA-256 `21e8cee8992681afb4ba6d202b02950bd33e49823ff82ac1c75c3edb595ac724`
 - English (British) captions: `assets/videos/JPOpTsHMH_Y.en-GB.vtt` — SHA-256 `560a619fb7522de80496fdb87e07afeb0528ecccc7a95ade192f95264bd1f55a`
 - Metadata: `assets/videos/JPOpTsHMH_Y.info.json` — SHA-256 `8a78f9cb131feb55965e86cf8290de11ae7f1d11f6051e13fb130b6023393ef9`

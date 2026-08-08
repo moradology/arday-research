@@ -4,7 +4,7 @@ type: podcast interview
 title: "S1 EP 2: Jason Arday: Unable to read or write til he was 18"
 date: 2024-08-02
 accessed: 2026-08-06
-status: podcast listing, RSS, MP3, and ASR derivatives verified; full audio committed to GitHub; ASR not human-verified
+status: podcast listing, RSS, MP3, and ASR derivatives verified; audio locally preserved; ASR not human-verified
 source_kind: podcast interview / local audio capture
 entities:
   - ../entities/jason-arday.md
@@ -21,12 +21,11 @@ The podcast listing dates this episode 2 August 2024 and says the conversation w
 
 ## Local preservation
 
-- [MP3](../assets/audio/talking-matters-jason-arday-2024.mp3) — 75,598,049 bytes, 1:18:44.82, 128 kbps mono; SHA-256 `6cf4940cf121d118dda9661ed20de37943436723be2c6fffdfcec32c787faaad`; committed to GitHub.
+- [MP3](../assets/audio/talking-matters-jason-arday-2024.mp3) — 72 MB, 1:18:44.82, 128 kbps mono; SHA-256 `6cf4940cf121d118dda9661ed20de37943436723be2c6fffdfcec32c787faaad`.
 - [Captivate RSS feed](../assets/documents/talking-matters-with-nick-halkes-feed-2026-08-06.xml) — source mapping and enclosure metadata.
 - [Apple Podcasts page](../assets/documents/talking-matters-jason-arday-apple-page-2026-08-06.html) — listing capture.
 - [Show artwork](../assets/images/talking-matters-with-nick-halkes.jpg) — generic programme artwork, not represented as a Jason portrait; SHA-256 `45ad362581aef42febe25f9fc5b7924b3b825d330bd9683b7ad493a282e2ed0f`.
 - [Whisper-small ASR derivatives](../assets/metadata/talking-matters-jason-arday-2024-whisper-small-capture-2026-08-06.md) — JSON, SRT, TSV, TXT, and VTT with checksums and generation details.
-- [Spotify-page text derivative](../assets/captures/2026-08-08-talking-matters-jason-arday/page.txt) — SHA-256 `b71ed2e87a14e5e8746f83ab7558a9ce36ddc4bd9180c57d07b0a256bb403983`; navigation copy of the captured platform HTML, not an interview transcript.
 - [Sports excerpt capture metadata](../assets/metadata/talking-matters-sports-excerpts-capture-2026-08-06.md) — locally preserved football and snooker windows with parent hash, extraction interval, technical details, and child hashes.
 
 ## Evidence boundary

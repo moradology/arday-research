@@ -8,7 +8,7 @@ id: SRC-032
 - Type: broadcast video interview/profile
 - Date: 2023-09-02
 - Accessed: 2026-08-06
-- Status: verified; page, captions, image, player metadata, video, and complete AAC derivative locally preserved; derivative committed to GitHub
+- Status: verified; page, captions, image, player metadata, and video locally preserved
 - Runtime: 26:46
 - Captions: PBS page marks the episode “CC”
 - Source: [PBS](https://www.pbs.org/video/the-importance-of-early-intervention-4mokof/)
@@ -37,10 +37,7 @@ Episode 1 of PBS’s *A World of Difference: Embracing Neurodiversity*. The epis
 - Image SHA-256: `78e4b5adb1134301b3f034ed6fae3e110b4ab8808151278b9d01f42bc75bc2f1`
 - MP4 SHA-256: `640f3d705bf445fd5f8a688cb449dc35cea4145fa4a6e1bf35bca66a4da497a1`
 - Player metadata SHA-256: `bffbb26e80af5a09064cfbb82068550e595e86d20a4de0c678310563c399a92b`
-- Complete AAC derivative: `assets/audio/derivatives/pbs-early-intervention-2023.m4a` — 26,004,790 bytes; 26:45.98; 128 kb/s AAC; SHA-256 `53a74861875566fb70a5009e6ee29506a9c8af7f7bc1b9c8e084c428f556783c`; complete review copy derived from the parent MP4.
 - [Capture metadata and endpoints](../assets/metadata/pbs-early-intervention-capture-2026-08-06.md)
-
-The AAC derivative preserves the complete programme for GitHub review access; it is not a transcript or independent corroboration of the programme’s narration or Arday’s statements.
 
 ## Timecoded caption evidence
 

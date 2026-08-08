@@ -5,7 +5,7 @@ title: "Plagiarism and a pig’s head: the rise and fall of Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2026-08-07
 accessed: 2026-08-07
-status: public Guardian episode; MP3, page, RSS item, headers, and artwork preserved and committed to GitHub
+status: public Guardian episode; MP3, page, RSS item, headers, and artwork preserved
 evidence_class: first-party publisher audio and episode metadata; substantive audio not yet transcribed
 urls:
   - https://www.theguardian.com/news/audio/2026/aug/07/plagiarism-and-a-pigs-head-the-rise-and-fall-of-jason-arday-podcast

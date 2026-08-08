@@ -43,7 +43,6 @@ The controversy is the mechanism through which otherwise separate records became
 | 2026-08-08 | QUB’s research-misconduct policy page and linked Version 8.0 regulations were rechecked in the context of the reported review of *Attempting to break the chain*; both direct routes returned 403 while indexed procedural excerpts remained discoverable. | General procedure and access-state evidence only; no case stage or outcome inferred |
 | 2026-08-08 | A public r/sociology thread gathered conflicting anonymous reactions to Arday’s scholarship and repeated unverified methodological/fabrication allegations. | Public-reception/source-propagation evidence only; no consensus or adjudication |
 | 2026-08-08 | The locally preserved 2018 *Social Sciences* article was audited against the thread’s concrete methods lead: it reports 14 universities, 32 participants, two approximately three-hour focus groups, 32 interviews, and informed consent; no explicit ethics-approval wording was found in the audited text. | Primary-text/version evidence; bounded absence only, not proof of non-approval or fabrication |
-| 2026-08-08 | Retraction Watch’s current page recheck preserved the same 5 August article update but showed 93 comments, including newly loaded anonymous comments repeating or expanding biography, sports, fundraising, endurance, affiliation, and thesis-review allegations. | Volatile public-reception/source-propagation evidence only; comments are not named-source evidence or adjudication |
 
 ## Amplification channels
 

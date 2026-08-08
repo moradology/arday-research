@@ -5,7 +5,7 @@ title: "[Abstract 2] The concept of 'familiarity' could be a major hurdle to div
 subject: ../entities/jason-arday.md
 published: 2025-02-07
 accessed: 2026-08-06
-status: public LinkedIn post with locally preserved 1:42 MP4 and auto-caption SRT; MP4 committed to GitHub on 2026-08-08
+status: public LinkedIn post with locally preserved 1:42 MP4 and auto-caption SRT
 evidence_class: interviewer-authored LinkedIn post / embedded video / auto-caption track
 urls:
   - https://www.linkedin.com/posts/maxtchapeyou_abstract-2-the-concept-of-familiarity-activity-7293545056928452608-iX4E
@@ -35,7 +35,7 @@ This is first-person commentary on organisational diversity, not a biographical 
 ## Local preservation
 
 - [LinkedIn page](../assets/documents/diversity-seminar-familiarity-linkedin-2025.html) — SHA-256 `fc94b3d909e6b07c5be3272b404bfe71d205fa1f398b343d456f16a4bcb12ab0`
-- [1:42 MP4](../assets/videos/diversity-seminar-jason-arday-familiarity-linkedin-2025.mp4) — SHA-256 `7a6efa25fa2e64860e5d2b30f9f436681be4626d35de5d48a1b28a77073f33d9`; committed to GitHub.
+- [1:42 MP4](../assets/videos/diversity-seminar-jason-arday-familiarity-linkedin-2025.mp4) — SHA-256 `7a6efa25fa2e64860e5d2b30f9f436681be4626d35de5d48a1b28a77073f33d9`
 - [Auto-caption SRT](../assets/documents/diversity-seminar-jason-arday-familiarity-2025.en.srt) — SHA-256 `e2b37ca63b342722e74ef533b481a777b484c8d79bcd4504105f005f9838585b`
 - [Video response headers](../assets/documents/diversity-seminar-familiarity-linkedin-video-headers.txt)
 - [Caption response headers](../assets/documents/diversity-seminar-familiarity-captions-headers.txt)

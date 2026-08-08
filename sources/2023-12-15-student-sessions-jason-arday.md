@@ -8,7 +8,7 @@ id: SRC-156
 - **Canonical URL:** https://www.buzzsprout.com/997477/episodes/14074459-overcoming-barriers-and-self-celebration-jason-arday
 - **Published:** 15 December 2023
 - **Type:** podcast interview
-- **Local assets:** [page snapshot](../assets/documents/student-sessions-jason-arday-page-2023-12-15.html), [MP3](../assets/audio/student-sessions-jason-arday-2023-12-15.mp3) — now included in the GitHub archive
+- **Local assets:** [page snapshot](../assets/documents/student-sessions-jason-arday-page-2023-12-15.html), [MP3](../assets/audio/student-sessions-jason-arday-2023-12-15.mp3)
 
 ## What is established
 

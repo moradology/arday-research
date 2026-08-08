@@ -4,7 +4,7 @@ type: Source
 title: "ITV Black Voices: Get Educated resource page"
 date: 2020
 accessed: 2026-08-06
-status: verified-as-resource-index; both public clip MP4s committed to GitHub on 2026-08-08
+status: verified-as-resource-index
 source_kind: media resource page
 entities:
   - ../entities/jason-arday.md
@@ -28,6 +28,6 @@ ITV’s *Black Voices* “Get Educated” page links three short YouTube appeara
 
 ## Acquisition state
 
-Two public YouTube videos, two official thumbnails, and one caption track are locally preserved; both public clip MP4s are committed to GitHub. The third linked video is private; the ITV resource-page HTML remains uncaptured after a timeout.
+Two public YouTube videos, two official thumbnails, and one caption track are locally preserved. The third linked video is private; the ITV resource-page HTML remains uncaptured after a timeout.
 
 Capture details and checksums: [ITV capture metadata](../assets/metadata/itv-black-voices-capture-2026-08-06.md).

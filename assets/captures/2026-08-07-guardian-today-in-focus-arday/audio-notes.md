@@ -1,6 +1,6 @@
 # Machine-assisted listening notes
 
-Source: [Guardian *Today in Focus* episode](../../../sources/2026-08-07-guardian-today-in-focus-arday.md), local MP3 `episode.mp3`.
+Source: [Guardian *Today in Focus* episode](../../../../sources/2026-08-07-guardian-today-in-focus-arday.md), local MP3 `episode.mp3`.
 
 These notes were derived from a 7 August 2026 MLX Whisper small-model pass over the preserved audio. The output contained 500 English segments. Names and some words are occasionally misrecognized; the time ranges are approximate segment boundaries. Notes paraphrase the audio and are not a verbatim transcript. Human listening remains advisable before quoting or treating any disputed detail as exact.
 

@@ -7,8 +7,8 @@ id: SRC-035
 - Source ID: SRC-035
 - Type: podcast interview
 - Date: 2020-09-18
-- Accessed: 2026-08-08
-- Status: verified / audio and page locally preserved and committed to GitHub / linked YouTube private
+- Accessed: 2026-08-06
+- Status: verified / audio and page locally preserved / linked YouTube private
 - Runtime: 39:17
 - Episode page: [Listen Notes](https://www.listennotes.com/podcasts/portrait-of-a/jason-arday-on-racial-m_6kAtKTQZb/)
 - Linked recording: [YouTube](https://www.youtube.com/watch?v=YjNQbRKDXbg)
@@ -36,6 +36,6 @@ These are listing-level timestamps, not independently checked transcript quotati
 ## Local preservation
 
 - [Listen Notes page snapshot](../assets/documents/portrait-of-a-londoner-jason-arday-page-2026-08-06.html)
-- [Direct Simplecast MP3](../assets/audio/portrait-of-a-londoner-jason-arday.mp3) — now included in the GitHub archive
+- [Direct Simplecast MP3](../assets/audio/portrait-of-a-londoner-jason-arday.mp3)
 - [Episode image](../assets/images/portrait-of-a-londoner-jason-arday.jpg)
 - [Capture metadata](../assets/metadata/portrait-of-a-londoner-jason-arday-capture-2026-08-06.md)

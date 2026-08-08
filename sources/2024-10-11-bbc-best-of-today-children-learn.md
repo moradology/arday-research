@@ -4,8 +4,8 @@ type: BBC podcast episode
 title: "Best of Today: What should children learn?"
 subject: ../entities/jason-arday.md
 published: 2024-10-11
-accessed: 2026-08-08
-status: official BBC podcast manifestation recovered as non-DRM MP3 through Podfollow; local audio, artwork, and catalogue snapshots preserved and committed to GitHub
+accessed: 2026-08-07
+status: official BBC podcast manifestation recovered as non-DRM MP3 through Podfollow; local audio, artwork, and catalogue snapshots preserved
 evidence_class: first-party BBC episode metadata distributed through podcast feeds; audio binary
 urls:
   - https://podfollow.com/best-of-today/episode/5daf35e300a06e4fe3ff32de29dc231cb30c7caf/view
@@ -31,7 +31,7 @@ The episode listing identifies a 39–40 minute *Best of Today* programme publis
 
 ## Local preservation
 
-- [BBC-distributed MP3](../assets/captures/2026-08-07-best-of-today-children-learn/audio.mp3) — 40,197,249 bytes; 128 kbps stereo; 2,509.008980 seconds reported by macOS `afinfo`; SHA-256 `4088be05b5cdf0ed120a3b4f872422415fdb47ffd76d59ff8356a4d9153fe720`; now included in the GitHub archive.
+- [BBC-distributed MP3](../assets/captures/2026-08-07-best-of-today-children-learn/audio.mp3) — 40,197,249 bytes; 128 kbps stereo; 2,509.008980 seconds reported by macOS `afinfo`; SHA-256 `4088be05b5cdf0ed120a3b4f872422415fdb47ffd76d59ff8356a4d9153fe720`.
 - [Artwork](../assets/captures/2026-08-07-best-of-today-children-learn/artwork.jpg) — 600×600 JPEG; SHA-256 `4e3316b43ec1ec3d10fc935b0a5460c4c5e11bafeb98b77551fd1b98490a4a00`.
 - [Podfollow page](../assets/captures/2026-08-07-best-of-today-children-learn/podfollow.html) — SHA-256 `9ba78a973c2252ae5772eadde080c6383bb4d583f089c3078a76e133d03c399e`.
 - [Apple Podcasts page](../assets/captures/2026-08-07-best-of-today-children-learn/apple.html) — SHA-256 `a16bc144fa9ea8abffc6a7124a17b189387b9a59831d220d2b5ce413d915b68a`.

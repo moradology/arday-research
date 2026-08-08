@@ -4,13 +4,9 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 
 ## 1. Current institutional profiles and records
 
-- [UEL/OIE Ethnicity Pay Gap Conference](sources/2025-04-28-uel-ethnicity-pay-gap-conference.md) — 28 April 2025 conference page schedules Arday on an intersectionality/pay-gap panel; public media metadata and the report/video access boundaries are preserved.
-
 - [Autistic VOICES study](sources/2026-03-11-autistic-voices-study-arday.md) — Autism Research Centre project page (published March 2026, modified June 2026) listing Arday on the Steering Committee; project plan, participant information, and consent form locally preserved; results anticipated in 2027.
 
 - [Autism Centre of Excellence Companies House officers record](sources/2026-08-06-companies-house-autism-centre-officers.md) — current public legal-register manifestation listing Arday as an active director appointed 30 March 2024; no end date shown.
-- [BSA Annual Conference 2026 abstract book](sources/2026-04-08-bsa-annual-conference-abstract-book.md) — official 110-page programme scheduling Arday’s “Wanted Dead or Alive: The Playbook” plenary on 8 April 2026; printed biography and no-recording boundary preserved.
-- [Autism Centre of Excellence chairman’s report](sources/2023-06-30-autism-centre-board-appointment-report.md) — Charity Commission filing for the year ended 30 June 2023 records the board’s 26 March 2024 agreement to appoint Arday as trustee; the original PDF is locally preserved and the filing chronology is kept separate from the current trustee listing.
 - [Cambridge College Fellows 2025–26 roster](sources/2025-10-09-cambridge-college-fellows.md) — official *University Reporter* PDF listing Arday among Jesus College Fellows on printed page 32; dated roster evidence, not current post-resignation status.
 - [Cambridge Education Faculty Committee notice](sources/2024-12-11-cambridge-education-faculty-committee.md) — official *University Reporter* notice listing Arday for the 1 October 2025 Academic Career Pathways exercise on printed page 188.
 - [Cambridge Regent House rolls](sources/2025-11-06-cambridge-promulgated-regent-house-roll.md) — final November 2025 roll plus the [superseded October proposed roll](sources/2025-10-01-cambridge-proposed-regent-house-roll.md), both listing Arday with Jesus College (`JE`).
@@ -61,9 +57,6 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 - [St Mary’s Olympic torch record](sources/2012-st-marys-olympic-torch.md) — the 2012 alumni magazine records Arday carrying the Olympic torch in Merton on 23 July 2012 and preserves the contemporary photograph.
 - [Bristol “One to Another” seminar](sources/2024-06-04-bristol-one-to-another.md) — 4 June 2024 CHET event page and graphic preserved; no recording or transcript exposed.
 - [Queen’s University Belfast 2019 seminar visit](sources/2019-11-08-qub-jason-arday-seminar.md) — institutional activity page preserved with listed audiovisual and text attachments; both attachment URLs are currently Cloudflare-blocked.
-- [QUB CITE ACUS project record](sources/2026-08-08-qub-cite-projects.md) — indexed first-party projects page names Arday as a collaborator on “Advancing Critical University Studies for Inclusive and Equitable Quality Education”; current page is CloudFront-blocked and no project artifact was recovered.
-- [Wellcome Sanger Excellence Fellowship](sources/2026-08-08-sanger-excellence-fellowship.md) — live institutional page lists Arday in the Fellowship Advisory Group with Glasgow title wording; appointment dates and continuation are unresolved.
-- [Nuffield Foundation “Grown up?” Advisory Group](sources/2025-03-27-nuffield-grown-up-advisory.md) — 27 March 2025 announcement names Arday as an external advisor and states the group’s functions; linked programme page and local HTML captures preserved.
 - [ITV Black Voices resource page](https://www.itv.com/blackvoices/get-educated/) — lists short-form appearances including “Aspects that I can control,” “Harassment at Work,” and “Realities for Lecturers.”
 - [Cambridge “Black Men On The Couch”](sources/2023-10-25-cambridge-black-men-on-the-couch.md) — 25 October 2023 mental-health panel with Simon Woolley, George the Poet, and Rotimi Akinsete; official 2:13:48 recording and automatic captions locally preserved.
 - [Cambridge EDI Information Report 2023–24](sources/2025-03-06-cambridge-edi-report-2023-24.md) — official retrospective reporting the panel’s attendance and YouTube-view snapshot on PDF page 8; distinct from the recording record.

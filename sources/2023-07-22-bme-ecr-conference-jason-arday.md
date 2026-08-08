@@ -4,8 +4,8 @@ type: conference keynote video
 title: "7th BME ECR Conference — keynote speaker: Prof. Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2023-07-22
-accessed: 2026-08-08
-status: public BME ECR Network YouTube recording and captions locally preserved and committed to GitHub
+accessed: 2026-08-06
+status: public BME ECR Network YouTube recording and captions locally preserved
 evidence_class: conference-hosted video; host introduction; first-party/participant commentary
 urls:
   - https://www.youtube.com/watch?v=QVYKt7csL_E
@@ -25,7 +25,7 @@ The recording is a distinct conference appearance, not the Oxford Physics, Oxfor
 
 ## Local preservation
 
-- [MP4](../assets/videos/bme-ecr-conference-jason-arday-2023.mp4) — 86,386,515 bytes; 50:15; progressive MP4 format 18, H.264/AAC, 640×360, 25 fps; SHA-256 `e70b5b8d82f693f1a8c2a01e6d0fb05108f30502854d8f1ed0891595482edd9b`; now included in the GitHub archive
+- [MP4](../assets/videos/bme-ecr-conference-jason-arday-2023.mp4) — 86,386,515 bytes; 50:15; progressive MP4 format 18, H.264/AAC, 640×360, 25 fps; SHA-256 `e70b5b8d82f693f1a8c2a01e6d0fb05108f30502854d8f1ed0891595482edd9b`
 - [Thumbnail](../assets/images/bme-ecr-conference-jason-arday-2023.jpg) — SHA-256 `ec1de87a2dacad4aadd445208420705e994968375eaa7a1dcaf27da94f9d9405`
 - [YouTube page](../assets/documents/bme-ecr-conference-jason-arday-2023.html) — SHA-256 `6c5f9fffe11b98b456b79ad2fbdbe20039ad6da5bb373e508ef217a303879fac`
 - [English automatic captions](../assets/documents/bme-ecr-conference-jason-arday-2023.en.srt) and [English-original track](../assets/documents/bme-ecr-conference-jason-arday-2023.en-orig.srt) — 90,880 bytes each; identical SHA-256 `c345577c1f0da48ea05fb09983f8a8dac32cd2234501ae3ff704d50360fde0a4`

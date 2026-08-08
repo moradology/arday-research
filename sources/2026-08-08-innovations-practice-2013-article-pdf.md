@@ -38,9 +38,6 @@ The article’s abstract describes successful peer mentoring as sustained by col
 - Issue-page HTML: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.body` — SHA-256 `27251261582c5f281674fbe059cd92d56b859d7eefb738102b45a3d59ba211ae`.
 - Issue-page headers: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.headers.txt` — SHA-256 `2c2811e5076702de74573ead8b4cf0a45996bc0688fd0d8f463a5c326d447612`.
 - Issue-PDF response headers: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_download_22_23.headers.txt` — SHA-256 `082cab50e7a1e125473bc3f5573fd7f133cc76359a93a08549d44b7f24501603`.
-- Issue-PDF raw response body: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_download_22_23.body` — SHA-256 `98959cf52ac537f42a0b37c8fc2f4be3b764547c48d839f03cd44e0a00a32b55`; byte-identical to `issue.pdf`.
-- Article-route 404 body: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_article_view_1291282.body` — SHA-256 `5d01af32bdafd5059afff6695848c32c8bf33aaf2ef94928957d73b4de8e7d07`.
-- Article-route 404 headers: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_article_view_1291282.headers.txt` — SHA-256 `74eb9d726ff2966d4435d0b7dd5ec2b43eff5ae2f790d853d00d07065760be92`.
 - Article extraction, PDF pages 37–48: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/arday-article.txt` — SHA-256 `1fea7c3e16479af672522422ead9410a977c290ce0db52f150ea9e67a3f5dfaf`.
 - Rendered article opening page: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/rendered/page-037.png`.
 - Rendered article closing/references page: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/rendered/page-048.png`.

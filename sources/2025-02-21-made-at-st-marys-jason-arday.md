@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 published: 2025-02-21
 modified: 2026-04-14
 accessed: 2026-08-06
-status: first-party alumni profile and linked YouTube address locally preserved; MP4 committed to GitHub on 2026-08-08
+status: first-party alumni profile and linked YouTube address locally preserved
 evidence_class: institutional alumni profile; first-person honorary-doctorate address; automatic caption derivative
 urls:
   - https://madeat.stmarys.ac.uk/stories/jason-arday/
@@ -24,7 +24,7 @@ The profile’s education, sports, fundraising, and relationship statements are 
 ## Local preservation
 
 - [Made at St Mary’s page](../assets/documents/st-marys-made-at-jason-arday-page-2026-08-06.html) — SHA-256 `277b0353ca4afc64e8c8464cc0ac5d30e7f7511ad16af78c65300321e641e23c`.
-- [Honorary-doctorate address MP4](../assets/videos/st-marys-jason-arday-honorary-doctorate-address-2024.mp4) — 11:15, 640×360 H.264/AAC; SHA-256 `6f54fad5c484e716e82dff51a3d54b6691ce4b0341bf0e325514ddfa786d9e0f`; committed to GitHub.
+- [Honorary-doctorate address MP4](../assets/videos/st-marys-jason-arday-honorary-doctorate-address-2024.mp4) — 11:15, 640×360 H.264/AAC; SHA-256 `6f54fad5c484e716e82dff51a3d54b6691ce4b0341bf0e325514ddfa786d9e0f`.
 - [English automatic captions](../assets/documents/st-marys-jason-arday-honorary-doctorate-address-2024.en.srt) and [original English track](../assets/documents/st-marys-jason-arday-honorary-doctorate-address-2024.en-orig.srt) — each 20,931 bytes; SHA-256 `ac8a22854a1589185ed7334200d3a23cebd34a9ccb507ef68dacb55a1d26396f`.
 - [YouTube page snapshot](../assets/documents/st-marys-jason-arday-honorary-doctorate-address-2024.html) — SHA-256 `3803c8d2b6945ebc4414a1e5e60eaa8911e5376a9a390b444eaba388e72268cd`.
 - [YouTube metadata](../assets/documents/st-marys-jason-arday-honorary-doctorate-2024-ytdlp.json) — SHA-256 `66f5044383c3b9611d5943ca021d76d92486f2def7a765ca8c5ffb9f2bca1cbb`.

@@ -4,8 +4,8 @@ type: BBC podcast episode
 title: "Joe Biden, VE Day and the politics of nostalgia"
 subject: ../entities/jason-arday.md
 published: 2025-05-08
-accessed: 2026-08-08
-status: official BBC programme page, RSS, MP3, and artwork locally preserved and committed to GitHub
+accessed: 2026-08-06
+status: official BBC programme page, RSS, MP3, and artwork locally preserved
 evidence_class: first-party broadcast/podcast media; guest appearance
 urls:
   - https://www.bbc.co.uk/programmes/m002bt9b
@@ -24,7 +24,7 @@ The BBC programme page and RSS identify a 8 May 2025 episode of *Radical with Am
 
 ## Local preservation
 
-- [Official MP3](../assets/audio/bbc-radical-joe-biden-ve-day-jason-arday-2025.mp3) — 51,279,057 bytes; 128 kbps stereo; ffmpeg duration 00:53:17.28; SHA-256 `ef73df218f11e46af9cf3d742059d812bb11652d276cff09d3b621034a9c9956`; now included in the GitHub archive.
+- [Official MP3](../assets/audio/bbc-radical-joe-biden-ve-day-jason-arday-2025.mp3) — 51,279,057 bytes; 128 kbps stereo; ffmpeg duration 00:53:17.28; SHA-256 `ef73df218f11e46af9cf3d742059d812bb11652d276cff09d3b621034a9c9956`.
 - [BBC programme HTML](../assets/documents/bbc-radical-programme-m002bt9b-2026-08-06.html) — SHA-256 `4648334589916c1cd66834a02ef7c71a2127d8955c3bb607c3dbcfcba245310a`.
 - [BBC RSS snapshot](../assets/documents/bbc-radical-rss-2026-08-06.xml) — SHA-256 `100ee0daec4f17b1a1a7294c449f42beb0b1f23d09f6710746a5c820c2a94fda`.
 - [Programme artwork](../assets/images/bbc-radical-podcast-artwork.jpg) — SHA-256 `2f6e00f7ee623610eeda73928bc054e4812179eb34ea82b293bc1ada6296ebe0`.

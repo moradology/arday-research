@@ -5,7 +5,7 @@ title: "Why did Cambridge professor Jason Arday resign?"
 subject: ../entities/jason-arday.md
 published: 2026-08-06
 accessed: 2026-08-08
-status: public Channel 4 News YouTube video; MP4, captions, metadata, and thumbnail locally preserved and already committed to GitHub
+status: public Channel 4 News YouTube video; MP4, captions, metadata, and thumbnail locally preserved
 evidence_class: broadcaster report with attributed allegations, institutional statements, and commentary; not an adjudicative finding
 urls:
   - https://www.youtube.com/watch?v=WgmVRo-1PA0
@@ -29,7 +29,7 @@ This record establishes a dated broadcast-video manifestation and what the repor
 
 ## Local preservation
 
-- MP4: `../assets/videos/channel4-wgm-resignation/video.mp4` — 12:32.12, 360p, SHA-256 `77ef423db3d8b6ee9cd5b548bc6b9ee6d9c1172e516552f911c0d08abb5a306a`; already included in the GitHub archive.
+- MP4: `../assets/videos/channel4-wgm-resignation/video.mp4` — 12:32.12, 360p, SHA-256 `77ef423db3d8b6ee9cd5b548bc6b9ee6d9c1172e516552f911c0d08abb5a306a`.
 - yt-dlp metadata: `video.info.json` — SHA-256 `58c568f7acae0969ede553fc0b51c66587cb163b904a6104ee24540c10c676a2`.
 - English original captions: `video.en-orig.vtt` — SHA-256 `7637ba537c06e670c0224ab3795bd3cca9920f46ce23547b676da31eb0189a56`.
 - Thumbnail: `thumbnail.jpg` — 1280×720 JPEG, SHA-256 `aa75b1f827b23f10cda4f45e8e8a5c6d3eb346b9c14a723077e8789578ae7277`.

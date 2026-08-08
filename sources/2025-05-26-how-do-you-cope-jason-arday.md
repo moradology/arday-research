@@ -4,8 +4,8 @@ type: podcast interview
 title: "Professor Jason Arday: 'I learned to mask within an inch of my life'"
 subject: ../entities/jason-arday.md
 published: 2025-05-26
-accessed: 2026-08-08
-status: public episode page / Global Player audio locally preserved and committed to GitHub / duration discrepancy recorded
+accessed: 2026-08-07
+status: public episode page / audio locally preserved / duration discrepancy recorded
 evidence_class: hosted podcast episode; first-person interview
 ---
 
@@ -15,7 +15,7 @@ The *How Do You Cope?* episode is an interview with John Robins. The current Glo
 
 ## Evidence boundary
 
-The childhood details are interview framing and first-person testimony, not independent records. On 2026-08-06 the Global Player page’s own player API exposed a public Acast MP3. The API and page report 3,682 seconds (1:01:22), while the downloaded file probes at 1:11:49.51; the complete file is retained without trimming and is now committed to GitHub. The transcript index is retained as a discovery and timecode lead rather than reproduced in the repository. The official page, API response, artwork, and audio are locally preserved: [page snapshot](../assets/documents/how-do-you-cope-jason-arday-page-2026-08-06.html), [player API response](../assets/documents/how-do-you-cope-jason-arday-playable-api-2026-08-06.json), [artwork](../assets/images/how-do-you-cope-jason-arday.jpg), and [audio](../assets/audio/how-do-you-cope-jason-arday.mp3).
+The childhood details are interview framing and first-person testimony, not independent records. On 2026-08-06 the Global Player page’s own player API exposed a public Acast MP3. The API and page report 3,682 seconds (1:01:22), while the downloaded file probes at 1:11:49.51; the complete file is retained without trimming. The transcript index is retained as a discovery and timecode lead rather than reproduced in the repository. The official page, API response, artwork, and audio are locally preserved: [page snapshot](../assets/documents/how-do-you-cope-jason-arday-page-2026-08-06.html), [player API response](../assets/documents/how-do-you-cope-jason-arday-playable-api-2026-08-06.json), [artwork](../assets/images/how-do-you-cope-jason-arday.jpg), and [audio](../assets/audio/how-do-you-cope-jason-arday.mp3).
 
 ## Links
 

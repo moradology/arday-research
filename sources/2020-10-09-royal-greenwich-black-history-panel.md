@@ -8,10 +8,10 @@ id: SRC-269
 - Canonical URL: https://www.youtube.com/watch?v=c1qCBb9eDL0
 - Host/channel: Royal Greenwich
 - Event date: 9 October 2020 (YouTube metadata)
-- Captured: 2026-08-06; binary promoted to GitHub archive: 2026-08-08
+- Captured: 2026-08-06
 - Type: institutional panel recording
 - Duration: 40:38
-- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved; MP4 and sidecars committed to GitHub
+- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved
 
 ## What the source establishes
 

@@ -30,5 +30,3 @@ The BBC listing identifies Jason Arday and Janet Ellis as guests with presenter 
 - Local page snapshot: `../assets/documents/bbc-good-read-jason-arday-page-2026-08-06.html`
 - Local audio: `../assets/audio/bbc-good-read-janet-ellis-jason-arday.mp3`
 - Capture metadata: `../assets/metadata/bbc-good-read-capture-2026-08-06.md`
-
-The official MP3 is now committed in the GitHub archive at the path above. It remains a broadcast asset rather than a transcript; substantive remarks should not be quoted without listening/transcription review.

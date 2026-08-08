@@ -10,7 +10,7 @@ id: SRC-265
 - Upload date: 16 January 2024 (YouTube metadata)
 - Captured: 2026-08-06
 - Type: university-hosted commentary/talk video
-- Status: locally preserved as separate video and audio streams; both streams and sidecars committed to GitHub on 2026-08-08
+- Status: locally preserved as separate video and audio streams
 
 ## What the source establishes
 
@@ -27,7 +27,7 @@ Lancaster University’s Educational Research channel published a 507-second vid
 
 ## Media verification boundary
 
-The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. The English captions are still automatic and have not been checked against the audio by a human listener. Both streams and sidecars are committed to GitHub.
+The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. The English captions are still automatic and have not been checked against the audio by a human listener.
 
 ## Caption-derived extraction
 
