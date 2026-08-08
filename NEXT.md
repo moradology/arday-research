@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh propagation-witness checkpoint: SRC-551/C-710 — *We Are Out of Office* episode 55 (14 March 2026) locally preserves Apple’s show-note mention of Arday and repeats the delayed-speech/literacy biography. He is not a guest; this adds no independent corroboration or appearance. Reopen only for the linked Instagram post if it exposes a distinct first-party Arday source or a materially changed episode page; do not count this repetition again.
+
 Fresh event source-version/deduplication checkpoint: SRC-229/C-188 — the University of Glasgow’s separate 9 October 2025 Student News announcement for the already-canonical 10 October Black History Month keynote is locally preserved. The BookItBee registration page and poster found alongside it were byte-identical existing manifestations, so no duplicate event node was created. Reopen only for a post-event report, recording, transcript, slides, or changed host artifact.
 
 Fresh scholarly access-state recheck: SRC-079/C-136 — the indexed TransReads copy of the Bloomsbury chapter still exposes a contents preview, but the exact mirror returned a WordPress authorization HTTP 403 on 8 August 2026; Bloomsbury’s US publisher route returned Cloudflare HTTP 403. Both bodies and headers are preserved, and no chapter PDF was recovered. Reopen only for a changed official publisher/repository state or an authorized preview/full-text route; do not repeat the unofficial mirror request without a changed endpoint.

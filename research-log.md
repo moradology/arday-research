@@ -2590,3 +2590,11 @@ Discovery: a search for a new Glasgow Black History Month record surfaced the Un
 Capture: preserved the student-news HTML and response headers as a new source-version under the canonical event record.
 
 Decision: updated SRC-229/C-188 and `media.md` in place. No duplicate event node or standalone portrait was created; delivery, attendance, recording, transcript, and slides remain unresolved.
+
+## 2026-08-08 — SRC-551 *We Are Out of Office* propagation witness
+
+Discovery: a podcast search surfaced Apple Podcasts episode 55 of *We Are Out of Office*, published 14 March 2026. Its show notes mention Professor Jason Arday and link to an Instagram post, while repeating the familiar delayed-speech/literacy and Cambridge biography.
+
+Capture: preserved the Apple Podcasts HTML and response headers locally. The page exposes the episode’s metadata and the relevant show-note text.
+
+Decision: added SRC-551/C-710 as a low-provenance source-propagation witness. The episode does not feature Arday as a guest, so no media-appearance node, audio binary, or independent biography claim was created.

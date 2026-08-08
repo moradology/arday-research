@@ -206,6 +206,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [Quality Strategy Network: “The fragile future of EDI demands bold university leadership”](sources/2026-01-07-quality-strategy-network-edi-leadership.md) — co-authored public commentary with Arun Verma, 7 January 2026; local capture preserves metadata and subtitle but not the substantive body.
 - [The Herald: Glasgow visiting-professor affiliation report](sources/2026-08-03-affiliation-denial-reports.md) — 3 August 2026 report preserving Glasgow’s attributed denial and the distinction between the disputed visiting role and the documented Glasgow professorship.
 - [AMOSSHE National Conference 2026](sources/2026-07-03-amosshe-national-conference-jason-arday.md) — organizer promotion for a 3 July closing keynote, with current official programme/speakers pages preserved as a changed omission state; delivery unresolved.
+- [*We Are Out of Office*, episode 55](sources/2026-03-14-we-are-out-of-office-arday-propagation.md) — 14 March 2026 Apple Podcasts show-note mention repeating Arday’s public biography; Arday is not a guest and the item is retained only as a low-provenance propagation witness.
 
 ## 8. Current controversy — keep separate from the historical archive
 
