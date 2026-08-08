@@ -613,6 +613,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-581 | `sources/2025-04-12-bbc-radio4-beyond-lonely-listings.md` | Contemporary 19-page BBC Radio 4 listings PDF for the 12–18 April 2025 *Beyond Lonely* series; lists all five Jason Arday episodes, IDs, synopses, and the two episode IDs now returning 404; source-version of SRC-063 | broadcast schedule / public PDF, extracted text, headers, and rendered pages / deduplicated to SRC-063 | 2026-08-08 | BBC Radio 4, Beyond Lonely, schedule, BBC Sounds, loneliness, snooker, childhood, source version, episode IDs, access boundary |
 | SRC-586 | `sources/2020-01-30-british-council-ria-dialogue.md` | Royal Irish Academy/British Council dialogue materials for 30 January 2020: official discussion report, archived programme, current-page access boundary, and recovered 1:13.61 Kaltura Arday clip; related to SRC-584’s contradictory 2019-dated deck | first-party institutional event record / programme / official short video / local PDFs, text, headers, MP4, manifest, and renders | 2026-08-08 | RIA, British Council, Ireland, higher education, race, ethnicity, inclusion, keynote, programme, discussion report, Kaltura, video, 2020, date discrepancy, source-version |
 
+| SRC-601 | `sources/2026-08-08-ljmu-diversity-inclusion-annual-report.md` | LJMU Diversity and Inclusion Annual Report, September 2023; local PDF and rendered page | first-party institutional annual report / dated speaker biography / local PDF | 2026-08-08 | biography, timeline, LJMU, Oxford wording, source-version, local PDF |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

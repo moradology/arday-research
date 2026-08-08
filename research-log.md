@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-601/C-800–C-801: LJMU Diversity and Inclusion annual report
+
+Discovery: a formal institutional-status search surfaced LJMU’s public Diversity and Inclusion Annual Report, dated September 2023 and covering academic year 2022/23.
+
+Capture: the 29-page PDF, response headers, extracted text, and a rendered copy of printed page 12 are preserved under `assets/captures/2026-08-08-ljmu-edi-annual-report/`. The report says LJMU featured Jason Arday as a speaker during the mid-point session of its Leaders Reciprocal Mentoring project. It calls him “the youngest Black Professor in the UK and a current staff member at Oxford University.”
+
+Decision: promote the event appearance and exact report wording as first-party institutional source facts. Keep the Oxford phrase as a dated source-version requiring reconciliation with the archive’s Cambridge appointment/resignation records; do not treat it as an Oxford HR record, silently correct it, or infer fraud from the discrepancy. Reopen for the event programme/recording, an Oxford appointment record, or a corrected report.
+
 # 2026-08-08 — SRC-596/C-793: LJMU bicentenary profile route recheck
 
 Discovery: the previously catalogued LJMU bicentenary profile URL was selected as a current institutional-status and source-version follow-up.
