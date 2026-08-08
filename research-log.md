@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-267/C-909: BETT 2024 interview binary promoted
+
+Audit: the canonical Teachers Talk Radio record already documented the 10:25 YouTube interview, automatic captions, metadata, thumbnail, page snapshot, headers, and checksum, but its MP4 and sidecars were not tracked in Git.
+
+Archive action: checksum-validated and committed the MP4, automatic English captions, metadata, and thumbnail. The captions remain unverified navigation material; no substantive interview claim was promoted.
+
+Decision: added C-909 as an archive-integrity observation. The recording remains distinct from the written BETT family-member reflection, and Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-019/C-908: Great Big Story documentary binary promoted
 
 Audit: the canonical Great Big Story record already documented the verified host/YouTube relationship, 4:14.86 duration, AV1/Opus streams, unavailable captions, and checksum, but the MP4 was not tracked in Git.

@@ -9,10 +9,10 @@ id: SRC-267
 - Host/channel: Teachers Talk Radio
 - Event context: BETT 2024
 - Upload date: 28 January 2024 (YouTube metadata)
-- Captured: 2026-08-06
+- Captured: 2026-08-06; binary promoted to GitHub archive: 2026-08-08
 - Type: interviewer-hosted video interview
 - Duration: 10:25
-- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved
+- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved; MP4 and sidecars committed to GitHub
 
 ## What the source establishes
 
