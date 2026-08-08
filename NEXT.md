@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh BBC media-state checkpoint: SRC-235/C-194 — the 8 August 2026 recheck confirms that the canonical *Today* version `m002xp5h` and podcast version `p0nsry2l` still return HTTP 404, while the BBC programme JSON remains live. No audio, transcript, captions, or exact segment timecode was recovered. Reopen only after a changed BBC media state or a lawful transcript/recording appears; do not repeat the same route checks without a changed endpoint.
+
 Fresh interpretive-source checkpoint: SRC-592/C-789 — Penny Rabiger’s 25 July 2026 *tenpencemore* essay is preserved with full HTML, headers, and attached image. It supplies a racialized-scrutiny/Black-excellence framing while explicitly distinguishing anti-racist critique from exemption from academic standards. Reopen only for a correction or new primary/institutional evidence; do not count the analysis as adjudication.
 
 Fresh commentary checkpoint: SRC-591/C-788 — 21percent.org’s 28 July 2026 “Who paid for Carter-Ruck …” is preserved with HTML, headers, and article image. It raises an unresolved legal-cost/institutional-transparency question but supplies no payer evidence. Reopen only for a public engagement letter, client-identification line, invoice/FOI response, or institutional statement; do not repeat the commentary fetch.

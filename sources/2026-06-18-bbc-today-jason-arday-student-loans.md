@@ -57,3 +57,14 @@ The BBC programme JSON for `m002xp5j` remains HTTP 200 and its episode/version m
 - [Programme headers](../assets/captures/2026-08-07-bbc-today-2026-recheck/programme.json.headers.txt) — SHA-256 `78604fdc062783b634221f11b11a3eb501ef6e57ed4f10a53e81335da4b152f0`.
 - [Sounds HTML](../assets/captures/2026-08-07-bbc-today-2026-recheck/sounds.html) — 135,104 bytes; SHA-256 `5364868aa82ad57ae01dfb3002af526f4763d10d593b3ab9062eb9fd5d8a2971`.
 - [Sounds headers](../assets/captures/2026-08-07-bbc-today-2026-recheck/sounds.headers.txt) — SHA-256 `6b1a2772e23560be05478d0abf8d676bb80883cde5a08452ab1817b9b6b73df8`.
+
+## Current-state recheck — 2026-08-08
+
+The canonical BBC Sounds route `m002xp5h` and the podcast route `p0nsry2l` still return HTTP 404. The live programme JSON for `m002xp5h` remains HTTP 200 and continues to expose episode metadata only. No audio binary, transcript, caption track, or segment-level evidence was recovered.
+
+- [Canonical Sounds HTML](../assets/captures/2026-08-08-bbc-today-2026-recheck/canonical-sounds.html) — SHA-256 `051b389f5cbd1b60427468cab027349671d4c065ed25a9a27f1a55d9b64c34dc`.
+- [Canonical Sounds headers](../assets/captures/2026-08-08-bbc-today-2026-recheck/canonical-sounds.headers.txt) — SHA-256 `cbddbc2a3e8c468a233983a933ea1b9ffca2fb4717acfd8b8933df99e9d32212`.
+- [Podcast route HTML](../assets/captures/2026-08-08-bbc-today-2026-recheck/podcast-sounds.html) — SHA-256 `b5ad64e5605dc855f8b26b8414a87d692c99e33058047f8b43664992c2feac6`.
+- [Podcast route headers](../assets/captures/2026-08-08-bbc-today-2026-recheck/podcast-sounds.headers.txt) — SHA-256 `ce3a24b55d1bea147011db3605587d1769f5b0e082f075d178fb6369d828c20c`.
+- [Programme JSON](../assets/captures/2026-08-08-bbc-today-2026-recheck/programme.json) — SHA-256 `e4d06e1ad5349819c1e3aabdc2f9dd2b052cc0afa80f5d3ba7d6d60f159c1f96`.
+- [Programme JSON headers](../assets/captures/2026-08-08-bbc-today-2026-recheck/programme.json.headers.txt) — SHA-256 `ccec17180ed38bea719b783e689546d537cbeb161e4dfb31a2d106907b6b1e06`.

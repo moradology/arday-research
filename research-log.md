@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-235/C-194: BBC *Today* media-state recheck
+
+Discovery: a current-state check of the canonical BBC programme version `m002xp5h` and podcast version `p0nsry2l` was run after the previous 7 August boundary. Both BBC Sounds routes still returned HTTP 404, while the programme JSON remained available at HTTP 200. The canonical episode and date metadata are unchanged; no audio, transcript, captions, or segment-level evidence was exposed.
+
+Capture: preserved both 404 HTML/header pairs and the live programme JSON/header pair under `assets/captures/2026-08-08-bbc-today-2026-recheck/`. This is an access-state update to SRC-235, not a new broadcast source or appearance node.
+
+Decision: retain the SRA/LinkedIn post as the attributed witness to Arday’s reported appearance and topic. Do not promote the approximate 1:52 position or any wording to transcript-level evidence. Reopen only after a changed BBC media state or a lawful public transcript/recording.
+
 # 2026-08-08 — SRC-592/C-789: *tenpencemore* “Black Excellence” analysis
 
 Discovery: the unresolved-biography and post-resignation search surfaced Penny Rabiger’s 25 July 2026 essay, “‘Black Excellence’ as a Fragile Construct: Jason Arday, Racialised Scrutiny, and the Unequal Politics of Mistakes.”
