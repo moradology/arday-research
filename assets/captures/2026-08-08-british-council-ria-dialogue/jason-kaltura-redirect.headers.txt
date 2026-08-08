@@ -1,0 +1,44 @@
+HTTP/2 302
+content-type: text/html; charset=UTF-8
+content-length: 1
+x-me: nvp1-fapi-gjsnf
+x-kaltura: cached-dispatcher,playManifest-a9a2cdb39946a5b92ff7fa587330c0d3,0.0018861293792725
+location: https://cfvod.kaltura.com/pd/p/5394802/sp/539480200/serveFlavor/entryId/1_1tjojusj/v/1/ev/2/flavorId/1_un800b91/name/a.mp4
+access-control-allow-origin: *
+access-control-expose-headers: Server,range,Content-Length,Content-Range
+timing-allow-origin: *
+x-proxy-me: nvp1-front-proxy-blue-ng-79cc8fcfb6-957dr
+x-proxy-session: a5e7fbe3af6164db78b4b01448e223bf
+server: Kaltura
+expires: Sat, 08 Aug 2026 09:33:27 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sat, 08 Aug 2026 09:33:27 GMT
+
+HTTP/1.1 200 OK
+Content-Type: video/mp4
+Content-Length: 3156349
+Connection: keep-alive
+Date: Sat, 08 Aug 2026 09:33:28 GMT
+Server: Kaltura
+Last-Modified: Sun, 19 Nov 2000 08:52:00 GMT
+ETag: "e97c4f2c8c9530dcfefb71b8c22bae61"
+x-amz-storage-class: INTELLIGENT_TIERING
+x-amz-server-side-encryption-bucket-key-enabled: true
+x-amz-version-id: mSYitCjn3KVIMICk9bhokzQRbMeBf7CN
+X-Vod-Me: nvp1-vod-packager-blue-ng-6b44c9dfb-sgb8p
+X-Vod-Session: 62961982
+Access-Control-Allow-Headers: Origin,Range,Accept-Encoding,Referer,Cache-Control,X-Kaltura-Ks
+Access-Control-Expose-Headers: Server,Content-Length,Content-Range,Date
+Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Expires: Mon, 16 Nov 2026 09:33:28 GMT
+Cache-Control: max-age=8640000
+Accept-Ranges: bytes
+X-Proxy-Me: nvp1-vod-proxy-blue-ng-7c8755b996-mgqfz
+X-Proxy-Session: 9381a4284f2d223dcd32c3702944ac3b
+X-Cache: Miss from cloudfront
+Via: 1.1 f4723705a8a5793ddd0be49dbf6874a4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DFW59-P8
+X-Amz-Cf-Id: aJqrubzi5oxu1-AbvbVjyW8qproXSFXY_cPRp6meo3-nGwwN39M-HA==

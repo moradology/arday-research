@@ -1,0 +1,533 @@
+  Race, Ethnicity
+   and Change in
+Higher Education
+Race, ethnicity and higher education in the UK and Ireland: Report from
+a Royal Irish Academy-British Council in Ireland dialogue event
+
+
+PREFACE
+In January 2020 the Royal Irish Academy and the British Council in Ireland brought together
+leading thinkers and practitioners for a discussion on ethnicity and race, diversity and inclusion
+in higher education (HE) in Ireland and the UK.1 This paper is the product of the voices,
+perspectives and data presented at the event.
+
+It provides an overview of the key themes and issues raised including ideas for achieving greater
+equality of outcome for those from Irish Traveller, Black, Asian and other ethnic minority
+backgrounds in academic leadership posts within the Irish and UK higher education system.
+
+The dialogue recognises the urgency of supporting the inclusion of researchers and academics
+from all racial and ethnic backgrounds within higher education. National conversations on how to
+achieve greater equality, diversity and inclusion in higher education are gaining momentum but
+there are still many gaps in knowledge and understanding of the individual, systemic and
+institutional barriers that must be overcome. In the absence of systematic data collection by
+higher education institutions of racial and ethnicity markers for staff from Black, Asian, Irish
+Traveller and other minority ethnic and migrant backgrounds, the discussion necessarily relied
+heavily upon UK data for insights. Contributions from the keynote speakers, panellists and from
+the invited audience of higher education stakeholders – management, staff, students, and
+funders – provided insights into the lived experiences of staff and students from the above
+groups. Irish HE institutions’ gender equality initiatives provided a useful context for discussions
+and indeed, the need to be alert to intersectional discrimination2 emerged as a key theme.
+
+Although Ireland and UK higher education systems are different, there are enough commonalities
+and shared challenges evident in addressing race and equality to have merited bringing
+speakers and guests from Ireland and the UK together in this forum. The sustained level of
+mobility (student and staff) and the extensive collaboration within research and through
+institutional partnerships between the UK and Ireland3 are important. Equally, shared learning
+across jurisdictions is a useful tool to advance understanding.
+
+
+
+
+1
+  Details of the event including agenda, speaker biographies and presentations are available online at www.ria.ie and
+https://www.britishcouncil.ie/
+2
+  This refers to discrimination that takes place on the basis of several personal grounds or characteristics/identities, which
+operate and interact with each other at the same time in such a way as to be inseparable. For example, where an
+individual may face disadvantages on foot of a combination of some or all of the following: gender, race, ethnicity or class.
+European Institute of Gender Equality, accessed at: https://eige.europa.eu/thesaurus/terms/1262
+3
+  See the 2017 Royal Irish Academy report ‘Research and Higher Education on the island of Ireland post-Brexit’, and the
+2016 British Council in Ireland report ‘Assessing the implication of the UK’s exit from the European Union on education
+and cultural sectors in Northern Ireland and Ireland’.
+
+                                                                                                                            11
+A note on terminology: The phrase BAME (Black, Asian, Minority Ethnic) is commonly used in
+the UK to refer to persons from black, Asian and minority ethnic backgrounds, and guides data
+collection and reporting across the UK higher education system. In Ireland, while these
+categories are relevant, the phrase itself is not so widely used in policy discussions and does not,
+for example, adequately reflect and include the experiences of Irish Travellers as a specifically
+Irish minority ethnic group, or those from migrant groups. For the purposes of this discussion,
+the paper will use the terminology ‘Irish Traveller, Black, Asian, minority ethnic (BAME) and
+migrant groups’ in an imperfect attempt to reflect the diversity of lived experiences to whom this
+paper is relevant. The May 2020 statement from the National Athena SWAN Ireland
+Intersectionality Working Group on the Use of Ethnicity Categories in Irish Higher Education
+offers a succinct summary of the limitations and ethics of using ethnicity categories.4
+
+
+
+Policy dialogue structure
+The event was chaired by Professor Anita Maguire, MRIA, Chair, RIA Diversity Committee,
+University College Cork, with keynotes by: Dr Jason Arday, Durham University; Professor
+Kathleen James Chakraborthy, MRIA, University College Dublin; Dr Gemma Irvine, Maynooth
+University; and Dr Gary Loke, Advance HE UK. Panellists included Dr Ebun Joseph, RCSI and
+Equality consultant; Dr Ross Woods, HEA Centre for Gender Equality; Dr Michael Isichei, Queen’s
+University Belfast; Professor Anastasia Crickley, Pavee Point, and Megan Reilly, Union of Students
+in Ireland.
+
+The agreed starting point was the urgent necessity of improving the experiences and outcomes
+for staff from Irish Traveller, Black, Asian, minority ethnic and migrant backgrounds in the higher
+education sector in the UK and Ireland. To inform this discussion, invited keynote speakers
+discussed:
+
+   •   the existing evidence base pointing to the exclusion of Irish Traveller, Black, Asian,
+       migrant ethnic and migrant groups in academia
+
+   •   insight into the lived experiences of staff and students from Irish Traveller, BAME
+       and migrant backgrounds
+
+   •   the policy background and the evolution of equality, diversity and inclusion (EDI)
+       legislation and initiatives specific to higher education in Ireland and the UK
+
+   •   actions which can be undertaken at both a personal and institutional level within
+       higher education to address racism and exclusion.
+
+Readers are encouraged to view the keynote recordings and presentations available online as
+these provide the backdrop for much of the discussion presented in this paper.
+
+
+
+
+                                                                                                  22
+Four major themes emerged over the course of the discussion:
+
+
+1. Addressing under-representation across all groups and learning from
+gender equality initiatives
+Discussion of EDI issues at the workshop frequently referred to the progress made, and activities
+initiated by Irish and UK higher education institutions (HEIs) through their membership of the
+Athena Swan Charter. Established in the UK in 2005, the Athena Swan Charter recognises the
+efforts and achievements of member HEIs to advance gender equality.
+
+There was general agreement that the focus on gender equality arising from national and
+individual discussion5 and the subsequent widespread engagement by Irish HEIs with the Athena
+Swan Charter for Gender Equality has led to dedicated actions to address gender under-
+representation. It was equally acknowledged that much remains to be done on the issue of
+gender equality including building in more nuanced responses to support those at the
+intersection of multiple forms of inequality e.g. disability, exclusion by race or ethnicity, including
+that experienced by Irish Travellers as well as those from black, Asian, minority ethnic or migrant
+backgrounds.
+
+While Athena Swan has achieved a significant level of name recognition and a significant degree
+of institutional buy-in in addressing gender equality issues by HEIs in Ireland, issues of race and
+ethnicity have yet to figure as prominently in either the Athena Swan Charter or broader EDI
+initiatives in the HE sector. Similarly, in the UK, despite much greater documenting of the
+inequalities experienced by staff from BAME backgrounds in academia, HEIs have been slow to
+engage with initiatives such as the Advance HE Race and Equality Charter.
+
+The Advance HE Race and Equality Charter provides a framework through which institutions
+work to self-reflect on institutional and cultural barriers standing in the way of minority ethnic
+staff and students.
+
+    •    There are 152 Athena Swan Charter HEI members in Ireland and the UK.
+         Institutional access to the Charter is funded through the Higher Education
+         Authority.
+
+    •    There are 62 Race and Equality Charter HEI members in the UK.6
+
+
+
+
+5
+  At a national level, the work of the HEA national expert group proved particularly important in raising awareness of the
+extent of the challenges, see for example the June 2016 HEA National Review of Gender Equality in Irish Higher
+Education Institutions, accessed at: https://hea.ie/assets/uploads/2017/06/HEA-National-Review-of-Gender-Equality-in-
+Irish-Higher-Education-Institutions.pdf. At an individual level, the determination of academics such as Dr Micheline
+Sheehy Skeffington in pursuing discrimination cases against their academic employer did much to initiate a national
+conversation on these issues. Dr Sheehy Skeffington successfully pursued a claim through the Equality Tribunal which
+found that her employer had discriminated against the academic for promotion because of her gender. See:
+https://www.irishtimes.com/life-and-style/people/micheline-sheehy-skeffington-i-m-from-a-family-of-feminists-i-took-
+this-case-to-honour-them-1.2027451
+6
+  Data from Advance HE, accessed at: https://www.ecu.ac.uk/equality-charters/athena-swan/, 20 July 2020.
+
+                                                                                                                        33
+Dialogue participants were clear on the importance of data – quantitative and qualitative – in
+informing the implementation of Athena Swan relevant actions and strategies in Irish HEIs. A
+strong focus on narrative data and the lived experiences of women in academia was seen as
+particularly useful in helping to identify and understand what happens when institutional-level
+structural barriers collide with individual life circumstances. The collection of appropriate
+narrative and qualitative data would equally assist Irish HEIs seeking to better understand the
+actions needed to address the complex obstacles to entry and progression often faced by
+students and staff from Irish Traveller, black, Asian, minority ethnic or migrant backgrounds. This
+approach presents challenges; narrative data often shows how the type of institutional response
+needed defies easy categorisation – is this a gender issue or one arising from racial or ethnic
+identity? – and requires the integration of multiple strategies to achieve a meaningful response.
+
+Dialogue participants frequently referenced the importance of integrated EDI conversations and
+actions to build understanding of shared challenges and those unique to particular groups, and
+to work towards integrated solutions that also promote good relations across under-represented
+groups.
+
+
+2. Building capacity to enable institutional change
+Measures to address gender inequalities, particularly those arising from the Athena Swan
+initiative, were pointed to as a useful reference point to inform institutional approaches to
+addressing race and ethnicity inequalities. The importance of data to identify the extent of
+gender under-representation, public commitment, and leadership by higher education senior
+management to on-the-ground measures and protocols to address unconscious bias were all
+cited as useful measures. However, the discussion suggested that an over-confidence may
+hinder the efficiency of human resource systems and processes to address race and ethnicity
+inequalities. For example, while unconscious bias training is now nearly a given for all those
+involved in recruitment, promotion and award giving processes within HEIs, such initiatives by
+themselves do not, and cannot, ensure a wider culture of equality and inclusion. Such processes
+should be further complemented through the engagement of established academic staff with
+wider efforts to address inequalities and exclusion at faculty level for example, training on anti-
+racist measures, or checking the inclusivity of academic conferences and activities in terms of
+issues covered and diverse representation amongst contributors.
+
+It was frequently observed in the discussion that students and staff in Irish higher education may
+have little opportunity to discuss or learn about the similarities and differences of their lived
+experiences to those of their peers from Irish Traveller, black, Asian, minority ethnic or migrant
+backgrounds. Cultural norms in both Ireland and the UK within higher education are largely
+based upon traditional white Irish or white UK mainstream values, and there was a perception
+that very limited accommodation was being made at present to understand and accommodate a
+wider range of values. While many humanities and social science undergraduate programmes
+offer modules on equality, identity and discrimination, there is a near total absence of such
+discussion within the typical science undergraduate curriculum. It is notable that only one Irish
+university offers Black Studies as a full study module at the time of writing.7
+
+
+
+
+7
+    See module at: https://www.ucd.ie/newsandopinion/news/2018/august/01/blackstudiesfocusedmoduleatucd/
+
+                                                                                                           44
+A frequent theme was the over-reliance on often junior academics from under-represented
+groups to lead and drive the institutional EDI initiatives. This further accentuates inequality by,
+for example, diminishing the time available to these academics to undertake the impactful
+research that will score highly in their next bid for academic promotion. A strong argument was
+made for revisiting HEI work allocations and academic progression metrics to ensure these
+recognise advocacy work around EDI issues in general as a meaningful metric for academic
+progression.
+
+Finally, a number of participants spoke of feeling uncomfortable or unsure about what to say or
+how to discuss race and ethnicity issues. Avoidance of such conversations however had the
+unintentional effect in many instances of increasing the burden on the already small numbers of
+Irish Traveller, black, Asian, minority ethnic or migrant backgrounds who frequently find
+themselves the sole voices identifying and speaking to these issues. There was strong
+encouragement given to the notion that a wider body of HE staff should take a more active role
+in speaking up and approaching conversations on EDI issues, recognising that at times these
+conversations may indeed be uncomfortable. HEIs could, for example, support their staff as a
+whole by providing ongoing career development/training modules to reflect on and build
+awareness of EDI issues as they relate to teaching, promotion, and HE culture more generally.
+
+
+3. The role of leadership
+The burden of pushing for positive change was considered by those at the forum to fall largely
+upon staff from Irish Traveller, Black, Asian, minority ethnic and migrant backgrounds with most
+of these noting instances in which they found themselves the sole voice in committee meetings
+drawing attention to the need for measures to include and support academic staff and students
+from diverse racial and ethnic backgrounds.
+Dialogue participants from Irish Traveller, Black, Asian, minority ethnic or migrant backgrounds
+spoke of feeing an immense personal sense of responsibility to push for greater equality and
+diversity in their host HEI but also of the additional professional burden placed upon them as
+they strove to balance this advocacy role with the urgent work needed to progress their
+academic and scholarly careers. Campaigning for change was seen to detract from the time and
+energy they have available for their core academic and scholarly work and subsequent career
+development. Similar experiences were noted by those active in pushing for greater gender
+equality within higher education.
+Some event participants expressed disquiet at a perceived lack of awareness or responsiveness
+on the part of academic leaders to the issues and complexities faced by students and staff from
+under-represented groups. It was considered extremely important that higher education leaders
+be prepared to visibly engage with and lead positive change and to publicly espouse the benefits
+and necessity of a diverse and inclusive university. Suggested measures included senior leaders
+becoming familiar with the key lessons and evidence on privilege, the effects of bias and racism
+and the issues facing staff from under-represented groups, and to use this knowledge to place
+such issues at the heart of institutional conversations and solutions to promote greater equality,
+diversity and inclusion.8 Event participants strongly supported this type of active leadership and
+participation.
+
+
+
+8
+ This measure was strongly recommended in the 2019 LERU report, Equality, Diversity and Inclusion in Universities: the
+power of a systemic approach.
+
+                                                                                                                     55
+4. Data matters
+Data is vital to better understand and scope the experience of inequality. An emphasis on
+statistics and data collection such as that followed by the Athena Swan charter was judged as
+both appropriate and effective in focusing attention on the issues of gender under-
+representation. Data provides an impartial snapshot of the situation and can precisely identify
+where change is necessary, e.g., the under-representation of female professors. While there are
+well-documented limitations and ethical challenges associated with the collection of ethnicity
+data, such data can nevertheless play an important role in understanding the experiences of
+under-represented groups.9
+
+The UK has developed an extensive data and monitoring system to better understand the
+representation of staff from BAME backgrounds staff in academia, as Table 1 shows. It shows
+significant under-representation of BAME staff within UK academia generally, with very limited
+representation in senior leadership roles. In 2019, just 16% of UK academic staff identified as
+black. There are fewer black academic staff than white academic staff at every level,10 and just
+27 female black professors.
+
+Currently, the higher education staff data collection instruments used by Irish higher education
+institutions (HEIs) do not collect information on race or ethnicity as standard. 11
+At the time of writing, it was possible to identify just one full-time black female academic
+professorial post-holder in Irish academia, and several post-holders from Asian or other minority
+ethnic backgrounds but no nationally verified data is available to confirm this. Similarly, data on
+the representation of Irish Travellers or other minority ethnic groups within academic staff is not
+available at a national level but such data would be likely to mirror the extremely low
+participation rate from students identifying as Irish Travellers within higher education.12
+
+The paucity of data hinders efforts by higher education institutions and bodies such as the Royal
+Irish Academy to build better solutions to increase the involvement of under-represented groups
+and support their participation in academic life. A vital first step then for Ireland is the collection
+of HEI staff data that allows for a disaggregation by ethnicity. In May 2020, the Athena SWAN
+Ireland National Intersectionality Working Group produced a statement to provide staff in HEIs
+with information on the rationale for collecting ethnicity data and the complexities of
+categorisation, and Ireland’s Higher Education Authority has expressed its commitment to
+addressing the current data deficiencies.
+
+
+
+
+9
+  See the May 2020 Statement by the National Athena SWAN Ireland Intersectionality Working Group on the Use of
+Ethnicity Categories in Irish Higher Education, accessed at: https://hea.ie/assets/uploads/2020/07/Intersectionality-WG-
+Statement-on-Ethnicity-Categories-in-Irish-HE.pdf
+10
+   UCL, 2016, ‘The Experiences of Black and Minority Ethnic Staff in Further and Higher Education’, accessed at:
+https://www.ucu.org.uk/media/7861/The-experiences-of-black-and-minority-ethnic-staff-in-further-and-higher-
+education-Feb-16/pdf/BME_survey_report_Feb161.pdf, p. 2, 20 July 2020.
+11
+   This issue is relevant to many sectors, not merely the higher education sector. A 2019 report by the Irish Human Rights
+and Equality Commission found that Ireland does not have sufficient disaggregated data to allow an adequate and regular
+assessment of the extent to which it is meeting its obligations under international law across a range of sectors, with
+significant gaps in the national survey and administrative data available on minority ethnic groups, and concerns about its
+availability, quality, and use.
+12
+   The Department of Education and Skills’ 2019 Action Plan to Promote Traveller Participation in Higher Education sets a
+target to double the participation of Irish Travellers in higher education from 35 in 2015 to 80 in 2019.
+
+                                                                                                                         66
+Table 1: Academic staff from Irish Traveller, Black, Asian
+and other Ethnic Minority Groups in the UK and Ireland
+
+ UK UK                                                                     IRELAND
+                                                                         Ireland
+
+ •    16% of the total UK academic staff identified as                   In the absence of specific data for Irish higher
+      black in 2019.13                                                   education, a 2018 study15 by the Irish Human Rights
+                                                                         and Equality Commission and the ESRI is instructive.
+ •    A 2015 Equality Challenge Unit report found
+      there were just 20 UK-born black and minority                      It found:
+      ethnic (BME) deputy or pro vice-chancellors,                       •     People from the black non-Irish group are less
+      compared with 530 white ones.14                                          than half (0.4 times) as likely to be employed as
+                                                                               the White Irish group and five times as likely to
+ •    In 2018-19, none of the 535 staff employed as                            experience discrimination when seeking work.
+      ‘managers, directors or senior officials’ across
+      British universities identified as black. Twenty-                  •     People from the black Irish group are twice as
+      five identified as Asian, mixed or other ethnicity.                      likely to experience discrimination seeking work,
+      475 identified as white. The ethnicity of the                            and just under three and a half times (3.4 times)
+      remaining 35 was not known (HESA, 2019)                                  as likely to experience discrimination in the
+                                                                               workplace, as white Irish.
+ •    In 2018-19, 185 of 11,860 non-academic
+      managerial roles within higher education were                      •     Both the black non-Irish and black Irish groups
+      held by black staff, compared with 10,510 who                            are much less likely to hold a managerial or
+      identified as White, 410 as Asian and 165 from a                         professional job.
+      mixed background (HESA, 2019).
+                                                                         •     The Asian Irish group of people do not differ in
+ •    There are 27 black female professors in the UK                           terms of employment rates and are more likely
+      university system.                                                       to be working in professional/managerial
+                                                                               occupations but are almost twice (1.9 times) as
+ •    24% of ethnic minority students had                                      likely to experience workplace discrimination.
+      experienced racial harassment (Equality and
+      Human Rights Commission, 2019)
+
+           o    Of these, 20% had faced physical
+                assaults, while the majority had
+                experienced name-calling and various
+                forms of micro-aggression.
+
+           o    More than a quarter of staff said they
+                experienced racist name-calling, insults
+                and jokes. Much of this harassment took
+                place in office environments, frequently
+                in plain sight of their colleagues.
+
+           o    International students recorded feeling
+                unwelcome, isolated and vulnerable.
+
+
+13
+   Presentation by J. Arday to the RIA-BCI workshop, January 30, 2020.
+14
+   Report accessed at: http://www.ecu.ac.uk/publications/equality-higher-education-statistical-report-2015/
+15
+   Ethnicity and Nationality in the Irish Labour Market looks at Central Statistics Office data from the Quarterly National Household
+Survey Equality Modules from 2004, 2010 and 2014 to capture how labour market outcomes and the experience of discrimination
+have changed through the economic boom, recession and early recovery.
+
+                                                                                                                                   77
+As previously stated, quantitative data needs to be supplemented with narrative data. There is,
+for example, no history of racial climate assessments in either Ireland or the UK compared to the
+US (albeit these are relatively new there also). Such assessments offer an opportunity to engage
+directly with BAME staff and students to gather their views on the racial climate within their
+higher education campus, and provide a useful qualitative element which could be drawn upon
+to inform campus specific measures to combat racism and drive equality measures.
+
+
+
+Discussion
+The low numbers of academic staff from Irish Traveller, BAME or migrant backgrounds,
+particularly in senior positions, represents both a deficit and a challenge to be addressed in both
+Ireland and the UK. Ireland and the UK’s higher education and further education students come
+from a greater diversity of backgrounds and ethnicities than ever before. The importance of
+visible role models in positions of authority and leadership is newly appreciated and popularised
+by the phrase ‘you can’t be what you can’t see’. Students pursuing higher education studies in
+Ireland and the UK quite reasonably expect to see people like them achieving, teaching, doing
+research and leading academia. What do the strikingly low numbers of such role models tell
+today’s students about how academia welcomes them now as students and as future academic
+leaders?
+
+The issue of under-representation extends beyond the staff teaching students to the curriculum
+they are taught. To what extent has the higher education sector in Ireland and the UK really
+engaged with the debate on the decolonisation of the undergraduate and post-graduate
+curriculum? For many at the RIA-British Council in Ireland dialogue, this process should be
+accelerated as a matter of urgency with a particular focus in the first instance on the resources
+and reading lists provided to students.
+
+As the lessons from tackling gender equality have shown, the higher education sector needs to
+consult with under-represented groups to deliver effective initiatives. This includes their
+involvement in the organisation, design, implementation, and oversight of equality and diversity
+initiatives. The present-day senior leadership should be seen to visibly lead the delivery of EDI
+work. Additionally, HEIs should consider their institutional processes and procedures and
+commit to actions to address process-driven inequalities and promote genuine diversity in, for
+example, recruitment campaigns and procedures as well as promotional metrics.
+
+Finally, even as higher education institutions begin to address the under-representation of
+particular groups, there is a danger of increasing the burden on those experiencing the
+inequality by implicitly or explicitly expecting them to take a leadership role on-the-ground and
+across the sector in speaking out or actioning new measures. The question arises as to who
+drives the change? Is it the few or the many? On this point, student unions represent a powerful
+force for change with the emergence of specific Ethnic Minority Officer appointments within
+student unions and student union-led initiatives aimed to empower ethnic leaders within student
+populations. Through their representation in HEI senior management forums within HEIs, student
+unions can make a significant contribution both in identifying the issues affecting students and
+staff and by holding senior leaders accountable for their responses to these issues.
+
+
+
+
+                                                                                                    88
+Suggested measures
+Through the discussion, a range of measures were proposed for consideration with the objective
+of further embedding an inclusive and welcoming environment for staff from Irish Traveller,
+BAME, and migrant backgrounds. A common theme throughout was the need for both institutions
+and the individuals within them to take responsibility for action to combat racism and exclusion.
+Suggested measures at sectoral and institutional level included:
+
+   •   Engaging directly with BAME, Irish Traveller and migrant staff and students to gather their
+       views on the racial climate within their higher education campus. Support academic staff
+       to initiate and engage in discussion on their individual school/college engagement with
+       EDI issues.
+
+   •   Greater attention to ensuring that there is an inclusive curriculum reflective of the lived
+       experiences and histories of all within the higher education environment.
+
+   •   Ensure that Irish Traveller, BAME, and migrant staff are represented within the
+       organisation, design, implementation and oversight, of institutional EDI initiatives.
+
+   •   Data on the representation of Irish Travellers, BAME and migrant staff and students within
+       HEIs to be collected, collated and publicly reported using agreed national categories.
+
+   •   HEIs should carefully consider the composition of Athena Swan and similar such
+       committees to ensure a balanced contribution and representation of higher education
+       staff from all career stages and groups.
+
+   •   Greater education and higher levels of participation for higher education staff and
+       students on diverse cultural norms and experiences, including the embedding of at least
+       one EDI module in all undergraduate teaching.
+
+   •   More developed EDI learning and EDI initiatives which empower staff and students to
+       counter racism.
+
+   •   Access to specific training for academic staff to enhance their skills to teach and
+       supervise learners from a range of ethnic and cultural backgrounds.
+
+
+
+
+                                                                                                     99
+Summary
+Ireland’s higher education institutions can tackle racism and embed a truly inclusive culture,
+learning from successful international initiatives to build inclusivity into the higher education
+system.
+
+Excellence is, and will remain, the key metric of quality in academia. But individual excellence
+and achieving equality of outcome in the higher education sector is not a simple linear
+progression.
+
+Academic staff from Black, Asian and other ethnic minority backgrounds are significantly under-
+represented in UK academic and leadership roles: this is widely understood to hold true for
+Ireland also, although to date the higher education staff data collection instruments used by Irish
+HEIs do not collect information on race or ethnicity as standard. This virtual absence of data,
+either quantitative or qualitative, to identify staff from BAME, Irish Traveller and migrant
+backgrounds increases the difficulty of ensuring they are adequately consulted with or included
+in higher education decision-making and equality, diversity and inclusion initiatives.
+
+Lessons from initiatives to achieve greater gender equality point to the need for more active
+initiatives to recognise challenges and barriers that may arise for particular groups. Collective
+action at the HEI level, supported and required as a condition of public funding, has proven vital
+to securing the attention and commitment of HEI management in support of gender equality
+initiatives and could be further extended to achieve greater race and ethnicity inclusion and
+diversity within higher education.
+
+Learnings from the implementation of the Athena Swan Charter to achieve greater gender
+equality in academia point to the need for actions to consider institutional systems and
+structures such as HR recruitment and diversity training, metrics for academic career
+progression but also measures to build awareness of the challenges faced by academic staff and
+students Irish Traveller, Black, Asian and other ethnic minority backgrounds. The active
+involvement of senior leaders in higher education is crucial: leaders will need to become ever
+more directly involved in learning about the issues and challenges faced by their academic staff
+and researchers from Irish Traveller, Black, Asian and other ethnic minority backgrounds, and
+take an active and visible role in the initiatives to support such academic staff.
+
+Celebrating the success of the exceptional individual who achieves against the odds is joyful and
+hopeful but as a national strategy leaves much to be desired. The focus must be on a collective
+moving forward rather than individual exceptionalism.
+
+
+
+
+                                                                                                    10
+                                                                                                    10
+About the Organisers
+
+
+
+
+The Royal Irish Academy/Acadamh Ríoga na hÉireann is Ireland’s leading body of experts
+in the sciences, humanities, and social sciences. The Academy champions research and
+identifies and recognises Ireland’s world class researchers. It supports scholarship and
+promotes awareness of how science and the humanities enrich our lives and benefit society.
+Membership of the Academy is by election and is considered the highest academic honour
+in Ireland.
+
+www.ria.ie | policy@ria.ie
+
+
+
+
+The British Council is the UK’s international organisation for cultural relations and
+educational opportunities. We have been working in Ireland since 1990, partnering with Irish
+organisations to encourage cultural, scientific, and other educational co-operation between
+Britain and Ireland. We enable Irish and UK organisations and individuals to share their
+insight, expertise and knowledge in culture, higher education and science which results in
+bespoke programmes and partnerships to mutually benefit Ireland and the UK.
+
+www.britishcouncil.ie | info@ie.britishcouncil.org
+

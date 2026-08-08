@@ -1,0 +1,45 @@
+HTTP/2 200
+server: nginx
+date: Sat, 08 Aug 2026 09:31:47 GMT
+content-type: application/pdf
+x-archive-orig-etag: W/"5e25866f-17148c"
+x-archive-orig-last-modified: Mon, 20 Jan 2020 10:52:31 GMT
+x-archive-orig-traceresponse: 00-17d79100400fe923547462b4348e74c4-5d63760835f94dcc-01
+x-archive-orig-x-debug-info: eyJyZXRyaWVzIjowfQ==
+x-archive-orig-x-platform-cluster: ewdkqfbgofc5c-master
+x-archive-orig-x-platform-processor: zijh3cotndnxa3jscsgxpk3lfy
+x-archive-orig-x-platform-router: xqeabht2fcgtqv6hjgmqhvf5ni
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-cache-control: max-age=10368000
+x-archive-orig-expires: Sun, 13 Oct 2024 22:04:43 GMT
+x-archive-orig-date: Sat, 15 Jun 2024 22:04:43 GMT
+x-archive-orig-transfer-encoding: chunked
+x-archive-orig-connection: keep-alive
+x-archive-orig-connection: Transfer-Encoding
+x-archive-orig-set-cookie: akamai-geo=FI; path=/
+x-archive-orig-server-timing: cdn-cache; desc=HIT
+x-archive-orig-server-timing: edge; dur=36
+x-archive-orig-server-timing: origin; dur=0
+x-archive-orig-strict-transport-security: max-age=15768000
+x-archive-orig-server-timing: ak_p; desc="1718489082873_386095662_456760063_3621_117113_11_173_-";dur=1
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Sat, 15 Jun 2024 22:04:43 GMT
+link: <https://www.britishcouncil.ie/sites/default/files/british_council_a5_2020_v6.pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://www.britishcouncil.ie/sites/default/files/british_council_a5_2020_v6.pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.britishcouncil.ie/sites/default/files/british_council_a5_2020_v6.pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20240615220556_c101c520/urls_20240615220556_c101c520.1715702844.megawarc.warc.zst
+server-timing: captures_list;dur=0.639082, exclusion.robots;dur=0.069797, exclusion.robots.policy;dur=0.058764, esindex;dur=0.009690, cdx.remote;dur=16.294181, LoadShardBlock;dur=138.565667, PetaboxLoader3.datanode;dur=155.137463, PetaboxLoader3.resolve;dur=100.530066, load_resource;dur=238.793156, loaddict;dur=72.607314
+x-app-server: wwwb-app244-dc8
+x-ts: 200
+x-tr: 417
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=3
+set-cookie: wb-p-SERVER=wwwb-app244; path=/
+cache-control: private
+x-rl: 0
+x-na: 0
+x-page-cache: BYPASS
+server-timing: BYPASS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-location: _pdf

@@ -1,0 +1,17 @@
+HTTP/2 200
+content-type: application/x-mpegurl
+x-me: nvp1-fapi-v49cr
+x-kaltura-session: 716342387, 1786181809
+x-kaltura-acp: 6848832
+x-kaltura: cache-key,playManifest-e459a511f729947856d50fd0943713cc
+access-control-allow-origin: *
+access-control-expose-headers: Server,range,Content-Length,Content-Range
+timing-allow-origin: *
+x-proxy-me: nvp1-front-proxy-blue-ng-79cc8fcfb6-lvbr8
+x-proxy-session: 07de3211ae1b5c0f79a19194bb131707
+server: Kaltura
+expires: Sat, 08 Aug 2026 09:36:50 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sat, 08 Aug 2026 09:36:50 GMT
+content-length: 228

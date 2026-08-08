@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-586/C-769–C-772: RIA–British Council dialogue materials
+
+Discovery: the official British Council event page exposed the 30 January 2020 Royal Irish Academy/British Council dialogue context, programme PDF, discussion-paper PDF, Facebook live lead, and a Kaltura embed for Jason Arday. Direct shell retrieval of the current page returned an Akamai access-denied body, so the browser-readable page state and its access boundary were both retained.
+
+Capture: recovered the valid 8-page programme PDF, valid 12-page discussion report, extracted text, rendered pages, the Kaltura HLS manifest, delivery headers, and the 1:13.61 Arday MP4. The programme schedules his 12:45 keynote and 15:45 plenary participation; the discussion report names him as a keynote speaker and footnotes an Arday presentation at the 30 January 2020 workshop.
+
+Decision: added SRC-586 as the first-party event/media family and linked it to SRC-584 without duplicating the keynote. The official 2020 event materials conflict with SRC-584’s visible 30 January 2019 title-slide date; the discrepancy is preserved as a claim rather than silently resolved. The recovered MP4 is catalogued as a short clip, not the full talk.
+
 # 2026-08-08 — SRC-292/C-274: Aevitas profile changed-state recheck
 
 The canonical Aevitas Creative Management client page was fetched again after the resignation-related source updates. It returned HTTP 200, but the HTML body was byte-identical to the 6 August capture and retained current-tense Cambridge Professorial Chair and “youngest-ever” marketing language. The response headers were newly captured and report a 6 August `Last-Modified` value.
