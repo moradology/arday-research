@@ -4,8 +4,8 @@ type: book chapter edition audit
 title: "Mental Health Issues of Black and Minority Ethnic Staff in Higher Education"
 subject: ../entities/jason-arday.md
 date: 2020; 2022 edition
-accessed: 2026-08-06
-status: Springer/Crossref-verified edition pair; local publisher pages preserved
+accessed: 2026-08-08
+status: Springer/Crossref-verified edition pair; current redirect/access topology rechecked; no full text
 evidence_class: Springer publisher metadata, Crossref metadata, and Durham repository chapter lead
 related: sources/2019-springer-mental-health-teacher-chapter.md
 updates: jason-arday-public-output-index.md, claims-ledger.md, timeline.md
@@ -25,3 +25,9 @@ Springer and Crossref identify two edition-level manifestations of Arday’s cha
 - [2020 Springer page](../assets/documents/springer-mental-health-staff-2020.html) — SHA-256 `4c67634b341633253b65dead3d65b088d25dce2def43972fc3a3ee259191aa00`
 - [2022 Springer page](../assets/documents/springer-mental-health-staff-2022.html) — SHA-256 `e5f4751c080276395022784b845c3e868ace063f11e72dfe3008fda214b7f6a5`
 - PDF requests redirected to Springer institutional authentication; no full text is claimed.
+
+## 8 August 2026 access-topology recheck
+
+Both legacy Springer chapter URLs now redirect through the `/rwe/` route and an identity-provider/cookie flow before returning the chapter metadata page. The resulting pages still expose the exact chapter title, Jason Arday as author, edition-specific page ranges, and Springer bibliographic fields. No PDF or chapter text was exposed after the redirect sequence.
+
+Fresh [Springer/Crossref/API captures](../assets/captures/2026-08-08-springer-mental-health-staff-recheck/) preserve the redirect headers, resulting HTML, and current DOI metadata.

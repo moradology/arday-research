@@ -16,6 +16,14 @@ Capture: the live bookstore route returned Cloudflare HTTP 403; HTML and headers
 
 Decision: added SRC-630/C-862 as a publisher source-version deduplicated to SRC-074. It strengthens edition/contents provenance without upgrading the unresolved DOI or chapter text.
 
+## 2026-08-08 — SRC-180/C-863: Springer encyclopedia chapter access-topology recheck
+
+Recheck: both official DOI/chapter URLs for the 2020 and 2022 *Encyclopedia of Teacher Education* manifestations now redirect through Springer’s `/rwe/` route and an identity-provider/cookie flow. The resulting pages still expose title, author, edition, and pagination metadata; no PDF or chapter text was exposed.
+
+Capture: preserved current Springer HTML/redirect headers and fresh Crossref JSON/headers under `assets/captures/2026-08-08-springer-mental-health-staff-recheck/`.
+
+Decision: updated SRC-180/SRC-073 in place and added C-863 as an access-topology observation. No new edition or duplicate chapter was created. Reopen only for a lawful full text, author manuscript, changed publisher access state, or correction.
+
 ## 2026-08-08 — SRC-629/C-861: Bloomsbury UK manifestation of *The Fire Now*
 
 Discovery: an exact DOI/title search surfaced Bloomsbury’s UK product page as a distinct official publisher manifestation. Its indexed rendering names Arday’s chapter and exposes the host book’s 15 November 2018 date, 304-page extent, ISBN `9781786993793`, Zed Books imprint, and chapter placement.

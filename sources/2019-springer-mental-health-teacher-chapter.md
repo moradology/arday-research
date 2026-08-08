@@ -3,8 +3,8 @@ id: SRC-073
 type: Source
 title: "Understanding mental health: What are the issues for Black, Asian and minority ethnic staff at University"
 date: 2019
-accessed: 2026-08-05
-status: Durham pre-publication title reconciled to publisher edition records; legacy Springer URL disproven
+accessed: 2026-08-08
+status: Durham pre-publication title reconciled to publisher edition records; current Springer redirect/access state preserved; legacy identifier disproven
 source_kind: book chapter
 entities:
   - ../entities/jason-arday.md
@@ -31,3 +31,5 @@ The previously linked Springer identifier `10.1007/978-981-287-532-7_478-1` reso
 - [2020 Springer response headers](../assets/documents/springer-mental-health-staff-2020-headers.txt) — SHA-256 `2de37faa95d07505e0769372702c3181e71341334fdee54f3c05219cff1ca736`
 - [2022 Springer page](../assets/documents/springer-mental-health-staff-2022.html) — SHA-256 `e5f4751c080276395022784b845c3e868ace063f11e72dfe3008fda214b7f6a5`
 - [2022 Springer response headers](../assets/documents/springer-mental-health-staff-2022-headers.txt) — SHA-256 `767d8b27145c3c46dcd3db7a4dadf8408874342bc35eceb6b4f44d8af341097c`
+
+The 8 August 2026 recheck found both official chapter URLs redirecting through Springer’s `/rwe/` and identity-provider flow. The resulting metadata pages remain accessible, but the chapter PDF remains institutionally gated. Fresh responses are preserved under [SRC-180’s recheck capture](../assets/captures/2026-08-08-springer-mental-health-staff-recheck/).
