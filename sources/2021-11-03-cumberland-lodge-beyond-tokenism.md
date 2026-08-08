@@ -36,7 +36,7 @@ The page embeds Vimeo video `622494311` and identifies an audio-only SoundCloud 
 
 ## Local preservation
 
-- [Cumberland Lodge page](../assets/captures/2026-08-08-cumberland-lodge-beyond-tokenism/page.html) — SHA-256 `c1d926ef6248984c19679f9d1378bc2423cf427b2f74f04e8cf089dbb8463c53`
+- [Cumberland Lodge page](../assets/captures/2026-08-08-cumberland-lodge-beyond-tokenism/page.html) — SHA-256 `568cf05c8bf954fab1bb2180f882e8ea5ad15a9104e12368f9d4798269aaa47a`
 - [Vimeo player response](../assets/captures/2026-08-08-cumberland-lodge-beyond-tokenism/vimeo.html) — SHA-256 `097d8402237629711546d60433de83eb76798dfb61c463a950d56af66376163df`
 - [Vimeo oEmbed metadata](../assets/captures/2026-08-08-cumberland-lodge-beyond-tokenism/vimeo-oembed.json) — SHA-256 `19cc2372e6e391f0142dfaf4c64166d96ad8a0c066c36185191a3a016b80995f`
 - [SoundCloud API response](../assets/captures/2026-08-08-cumberland-lodge-beyond-tokenism/soundcloud.html) — SHA-256 `24985c387f94eca7b48f0c94d562c5e12be7e711b3b4f362ca7b612fe6b57eaa`
