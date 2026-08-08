@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-topology checkpoint: SRC-184/C-957 — preserved and hash-anchored the Spotify-page text derivative for *Talking Matters*. The full MP3 remains the primary interview artifact; page copy and ASR remain non-verbatim navigation layers.
+
 Fresh scholarly-source checkpoint: SRC-609/C-956 — preserved the byte-identical raw LJMU issue-PDF response and the separate article-route HTTP 404 state for Arday’s 2013 *Innovations in Practice* article. The issue manifestation remains canonical; no duplicate publication or integrity finding was created.
 
 Fresh integrity checkpoint: C-955 — repaired the Guardian *Today in Focus* listening-notes link so it resolves to the canonical source record. The notes remain machine-assisted and approximate; no audio claim was upgraded.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-184/C-957: Talking Matters page-text derivative promoted
+
+Archive action: preserved `assets/captures/2026-08-08-talking-matters-jason-arday/page.txt`, a 206,871-byte text extraction of the captured Spotify episode page, with SHA-256 `b71ed2e87a14e5e8746f83ab7558a9ce36ddc4bd9180c57d07b0a256bb403983`.
+
+Decision: linked the derivative from SRC-184 and added C-957 as a platform-page navigation observation. It improves searchability of the episode metadata but is not an interview transcript; the full MP3 remains the primary artifact, and the episode description/ASR boundaries are unchanged. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-609/C-956: LJMU 2013 article raw-response topology completed
 
 Audit: the canonical source-version already preserved the 147-page LJMU Open Journals issue PDF and article extraction, but the raw issue-download body and the separate article-route response files were still untracked.

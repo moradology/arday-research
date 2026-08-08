@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-topology checkpoint: on 2026-08-08 `SRC-184/C-957` promoted a SHA-256-anchored Spotify-page text derivative for *Talking Matters*. The full MP3 remains the primary interview artifact; the page text and ASR remain non-verbatim navigation layers. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly-source checkpoint: on 2026-08-08 `SRC-609/C-956` promoted the raw LJMU issue-PDF response and the separate article-route HTTP 404 body/headers for the 2013 *Innovations in Practice* article. The issue PDF remains the canonical recovered manifestation; no duplicate publication or misconduct finding was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest archive-integrity checkpoint: on 2026-08-08 `C-955` repaired the tracked Guardian *Today in Focus* listening-notes link to the canonical episode record. The machine-assisted notes remain approximate and unverified; no substantive claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.

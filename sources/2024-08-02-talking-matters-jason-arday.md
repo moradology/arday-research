@@ -26,6 +26,7 @@ The podcast listing dates this episode 2 August 2024 and says the conversation w
 - [Apple Podcasts page](../assets/documents/talking-matters-jason-arday-apple-page-2026-08-06.html) — listing capture.
 - [Show artwork](../assets/images/talking-matters-with-nick-halkes.jpg) — generic programme artwork, not represented as a Jason portrait; SHA-256 `45ad362581aef42febe25f9fc5b7924b3b825d330bd9683b7ad493a282e2ed0f`.
 - [Whisper-small ASR derivatives](../assets/metadata/talking-matters-jason-arday-2024-whisper-small-capture-2026-08-06.md) — JSON, SRT, TSV, TXT, and VTT with checksums and generation details.
+- [Spotify-page text derivative](../assets/captures/2026-08-08-talking-matters-jason-arday/page.txt) — SHA-256 `b71ed2e87a14e5e8746f83ab7558a9ce36ddc4bd9180c57d07b0a256bb403983`; navigation copy of the captured platform HTML, not an interview transcript.
 - [Sports excerpt capture metadata](../assets/metadata/talking-matters-sports-excerpts-capture-2026-08-06.md) — locally preserved football and snooker windows with parent hash, extraction interval, technical details, and child hashes.
 
 ## Evidence boundary
