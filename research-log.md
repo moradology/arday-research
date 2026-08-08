@@ -18,6 +18,16 @@ Discovery: the childhood/education search surfaced EC Science’s 1 February 202
 
 Capture: page HTML, response headers, and the 940×726 article image were downloaded. The record is linked into the childhood evidence map as propagation topology, not independent corroboration.
 
+# 2026-08-08 — SRC-535/C-680: Luke Ford commentary and access boundary
+
+Discovery: the controversy search surfaced Luke Ford’s 21 July 2026 long-form article, a distinct synthesis not yet in the registry. The browser-readable article separates corrections, allegations, and unknowns and identifies the primary records needed to resolve them; it adds no adjudication.
+
+Capture: the direct shell endpoint returned a 403/Cloudflare response, which is preserved with headers. The article body remains represented by the browser-readable source and its cited lines, not by a falsely claimed local full-text capture.
+
+# 2026-08-08 — SRC-268 media checkpoint: second reproducibility clip
+
+The outstanding *Neurodivergent Show* caption-window work was advanced without changing claim status: a 37-second local derivative for approximately 05:20–05:57 was extracted and hashed. It remains a listening aid, not a verified transcript. A second attempt to extract the 06:08–07:12 window was killed by the local encoder process; the full MP4 and VTT remain canonical.
+
 # 2026-08-08 — SRC-531/C-676: Avenging Angels Companies House state
 
 Discovery: an official-registry search found a company-status record not represented by the existing personal-appointments snapshot.

@@ -31,4 +31,5 @@ The automatic captions contain navigable first-person passages. At approximately
 ## Reproducibility clip — 2026-08-07
 
 - [Diagnosis passage clip, approximately 02:33–03:01](../assets/videos/clips/neurodivergent-show/01-diagnosis-age-three-02m33-03m01.mp4) — 28 seconds; SHA-256 `7b6c44ff05dbeab2a41f053211f7423e99401c4d55637bb30e174349b0bc6d80`.
-- The 05:20–05:57 and 06:08–07:12 windows remain represented by the full MP4 and VTT only; local clip extraction was attempted but did not complete under the current resource limit.
+- [First-word passage clip, approximately 05:20–05:57](../assets/videos/clips/neurodivergent-show/02-first-word-05m20-05m57.mp4) — 37 seconds; SHA-256 `7ab25054e8ec8d544ef524dce0ae3292e6c7f45b8fa8a2c92c6379079a16ee19`. This remains a reproducibility aid, not a verified transcript.
+- The 06:08–07:12 literacy/Sandro window remains represented by the full MP4 and VTT only; extraction was attempted again on 8 August but the local encoder process was killed before a clip was produced.

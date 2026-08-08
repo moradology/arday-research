@@ -6,6 +6,10 @@ Latest controversy-media record: on 2026-08-08 `SRC-533/C-678` preserved a 25 Ju
 
 Latest childhood source-version: on 2026-08-08 `SRC-534/C-679` preserved EC Science’s 1 February 2024 Black History Month profile and image. It repeats the childhood/education narrative without citations or underlying records, so it remains propagation evidence only.
 
+Latest controversy-synthesis record: on 2026-08-08 `SRC-535/C-680` preserved Luke Ford’s 21 July 2026 commentary as a browser-readable/indexed source with a direct shell 403 boundary. It adds analysis of the literacy/GCSE tension and explicitly does not resolve plagiarism, fabrication, or biography questions.
+
+Latest media checkpoint: the *Neurodivergent Show* record now includes a second reproducibility clip for the 05:20–05:57 first-word window. The 06:08–07:12 clip remains unavailable after a local encoder failure; no caption-derived claims were upgraded.
+
 Latest legal-record update: on 2026-08-08 `SRC-531/C-676` preserved Companies House’s Avenging Angels Ltd overview and filing history. The company was dissolved by voluntary strike-off on 22 July 2025, after Arday’s director/PSC cessation on 18 March 2024; this is separate from his personal-appointments snapshot and does not establish company activity or finances.
 
 Latest professional-output record: on 2026-08-08 `SRC-530/C-675` recorded BABAO’s May 2021 Race Equality Review, authored by Arday and Lizzy Craig-Atkins, with Arday’s commissioned reviewer role and the report’s mixed-method scope. The text was browser-readable, but the repository’s direct PDF download returned a Cloudflare 403; only the access-boundary HTML/headers are local.
