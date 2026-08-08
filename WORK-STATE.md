@@ -1,5 +1,7 @@
 # Work state
 
+Latest research-role source: on 2026-08-08 SRC-526/C-671 preserved the Autism Research Centre’s Autistic VOICES page and public study documents, which list Arday on the Steering Committee. Role scope, authorship/funding, and results remain bounded.
+
 Latest professional-media source-version: on 2026-08-08 SRC-524/C-669 preserved Wonkhe’s 2 January 2026 staff profile and portrait. It is pre-resignation host copy, useful for public-biography topology but not current-status evidence.
 
 Latest event corroboration: on 2026-08-08 SRC-525/C-670 preserved PGIM Real Estate’s 2025 report (PDF p. 67), which retrospectively records a 2024 London Black History Month fireside chat with Arday. It strengthens event occurrence and theme-level evidence without resolving the exact date, delivery details, or recording.

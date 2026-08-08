@@ -1,5 +1,7 @@
 # Preserved assets
 
+- [Autistic VOICES study page](captures/2026-08-08-autistic-voices/page.html), [project plan](documents/autistic-voices-study/project-plan.pdf), [student advisory information](documents/autistic-voices-study/student-advisory-info.pdf), and [consent form](documents/autistic-voices-study/consent-form.pdf) — Autism Research Centre project artifacts listing Arday on the Steering Committee; SRC-526.
+
 This directory contains locally captured public assets, not merely outbound links.
 
 ## Acquisition rules

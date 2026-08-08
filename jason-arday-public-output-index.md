@@ -4,6 +4,8 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 
 ## 1. Current institutional profiles and records
 
+- [Autistic VOICES study](sources/2026-03-11-autistic-voices-study-arday.md) — Autism Research Centre project page (published March 2026, modified June 2026) listing Arday on the Steering Committee; project plan, participant information, and consent form locally preserved; results anticipated in 2027.
+
 - [Autism Centre of Excellence Companies House officers record](sources/2026-08-06-companies-house-autism-centre-officers.md) — current public legal-register manifestation listing Arday as an active director appointed 30 March 2024; no end date shown.
 - [Cambridge College Fellows 2025–26 roster](sources/2025-10-09-cambridge-college-fellows.md) — official *University Reporter* PDF listing Arday among Jesus College Fellows on printed page 32; dated roster evidence, not current post-resignation status.
 - [Cambridge Education Faculty Committee notice](sources/2024-12-11-cambridge-education-faculty-committee.md) — official *University Reporter* notice listing Arday for the 1 October 2025 Academic Career Pathways exercise on printed page 188.

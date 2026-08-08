@@ -1,0 +1,16 @@
+HTTP/2 200 
+last-modified: Wed, 11 Mar 2026 10:28:38 GMT
+etag: "3f686-64cbd195b5988-gzip"
+accept-ranges: bytes
+vary: Accept-Encoding,User-Agent
+content-encoding: gzip
+strict-transport-security: max-age=31536000; preload
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+x-host-platform: s24-mb
+content-type: application/pdf
+date: Sat, 08 Aug 2026 04:07:35 GMT
+server: Apache
+

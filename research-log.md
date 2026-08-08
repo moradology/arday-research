@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-526/C-671: Autism Research Centre Autistic VOICES study
+
+Discovery: an exact-name institutional research-role search surfaced the Autism Research Centre’s Autistic VOICES project page.
+
+Capture: preserved the page, response headers, project-plan PDF/text, student-advisory information PDF/text, consent form PDF/text, and visual renders under `assets/captures/2026-08-08-autistic-voices/` and `assets/documents/autistic-voices-study/`.
+
+Evidence handling: the page’s March 2026 publication and June 2026 modification metadata list Professor Jason Arday on the Steering Committee. The project-level documents describe the co-design method, Cambridge ethics approval PRE.2026.047, £27.50/hour advisory compensation, planned 500–3,000-student survey, and expected 2027 results. These establish the project topology and public role listing, not Arday’s authorship, funding, PI status, or results.
+
 # 2026-08-08 — SRC-524/C-669: Wonkhe pre-resignation staff profile
 
 Discovery: an exact-name higher-education-media search surfaced Wonkhe’s dated staff profile for Jason Arday, credited to Jim Dickinson and structured as published 2 January 2026.

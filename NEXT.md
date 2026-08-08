@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh research-role source: SRC-526/C-671 — the Autism Research Centre’s Autistic VOICES project page lists Arday on its Steering Committee. Page, project plan, participant information, and consent form are preserved; study results are anticipated in 2027. Reopen only for a revised team page, direct role description, results/output, or changed project documents; do not infer PI/authorship from the listing.
+
 Fresh professional-media version: SRC-524/C-669 — Wonkhe’s 2 January 2026 staff profile and 500×500 portrait are preserved. It captures the pre-resignation present-tense Cambridge/Jesus and role wording; do not present it as current. Reopen only for a later Wonkhe version, correction, or distinct Wonkhe article/event.
 
 Fresh corporate-event corroboration: SRC-525/C-670 — PGIM Real Estate’s 2025 stewardship report retrospectively confirms a 2024 London Black History Month fireside chat with Arday on racial equality and “reclaiming the narrative.” PDF p. 67, extracted text, and a rendered page are preserved. Reopen only for the exact date, event announcement/photo, recording/transcript, or participant account; do not create a second appearance node.

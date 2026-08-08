@@ -14,6 +14,8 @@ British sociologist of education and public commentator. Public records associat
 
 ## Known affiliations and roles
 
+- The Autism Research Centre’s Autistic VOICES project page lists Arday as a Steering Committee member for a study of autistic university students’ support needs; the page and public study documents are preserved as a dated research-role source-version. [Autistic VOICES record](../sources/2026-03-11-autistic-voices-study-arday.md)
+
 - [University of Cambridge Faculty of Education profile](https://faculty.educ.cam.ac.uk/people/staff/arday/)
 - [ORCID: 0000-0002-9822-1068](https://orcid.org/0000-0002-9822-1068)
 - [Durham University research repository](https://durham-repository.worktribe.com/person/303473/jason-arday/outputs)
