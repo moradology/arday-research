@@ -1,5 +1,7 @@
 # Work state
 
+Latest resignation-process checkpoint: on 2026-08-08 `SRC-886/C-892–C-893` captured *THE*’s contemporaneous report of Arday’s immediate resignation and the attributed Cambridge/Jesus College investigation language. It is deduplicated to the underlying Cambridge and Good Law records and does not establish an outcome. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest police-process checkpoint: on 2026-08-08 `SRC-885/C-889–C-890` captured *THE*’s report of the Metropolitan Police follow-up. The quoted force statement says the four-month inquiry was dropped in February 2026, no offence was concluded without interviewing Grove, and the no-contact instruction was not the right action because it could frustrate legitimate journalism. The standalone Met record and complaint file remain unresolved. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest police-domain boundary: on 2026-08-08, an exact-name search of the Metropolitan Police’s indexed public domain found no matching Arday/Grove case page or statement; unrelated locality and generic misconduct pages were excluded. This is a search/access boundary, not evidence of nonexistence. Google Drive was not updated; GitHub remains the active publication target.

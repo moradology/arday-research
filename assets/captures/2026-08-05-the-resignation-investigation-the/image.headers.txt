@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: image/jpeg
+last-modified: Wed, 05 Aug 2026 19:07:18 GMT
+etag: "6a7389e6-fc74"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 275249
+date: Sat, 08 Aug 2026 23:40:17 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-egml8630099-LCY, cache-dfw-kdfw8210026-DFW
+x-cache: HIT, HIT
+x-cache-hits: 26, 0
+x-timer: S1786232417.300656,VS0,VE1
+content-length: 64628
+

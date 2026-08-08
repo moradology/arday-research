@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-886/C-892–C-893: *THE* resignation/investigation report
+
+Discovery: the Metropolitan Police follow-up linked *THE*’s 5 August report “Jason Arday resigns after University of Cambridge opens investigation.” No matching source record existed in the registry.
+
+Capture: the public HTML, response headers, and Getty Senate House image are preserved. The report gives a contemporaneous account of Arday’s immediate resignation and attributes Cambridge’s “new information,” academic-misconduct-policy, support, non-comment, and separate Jesus College process wording.
+
+Decision: added `SRC-886/C-892–C-893` as a distinct news manifestation, while deduplicating the underlying Cambridge investigation statement and Good Law Project resignation letter. The report is not an adjudication. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-885/C-889–C-890: Metropolitan Police follow-up via *THE*
 
 Discovery: the editor’s note and reporter account linked a 6 August *Times Higher Education* follow-up reporting the Metropolitan Police response to the Grove contact episode.
