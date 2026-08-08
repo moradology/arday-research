@@ -4,8 +4,8 @@ type: trade-publication interview
 title: "Jason Arday on his remarkable journey from non-verbal child to Cambridge professor"
 subject: ../entities/jason-arday.md
 published: 2026-06-12
-accessed: 2026-08-06
-status: browser-readable article observed 2026-08-06; direct shell capture HTTP 429; no full local copy claimed
+accessed: 2026-08-08
+status: browser-readable article observed 2026-08-06; 8 August direct route redirects to login; no full local copy claimed
 evidence_class: publisher/trade interview; browser-observed article and indexed excerpt
 urls:
   - https://www.thebookseller.com/books/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
@@ -26,10 +26,12 @@ The article says that after leaving secondary school with two GCSEs, Arday was a
 
 ## Evidence boundary
 
-The article was readable through the web research surface on 6 August 2026, but direct shell retrieval continued to return HTTP 429. The 110-byte HTTP-429 response and headers are preserved locally; no full article HTML or transcript is claimed. The browser observation upgrades the source from index-only to a dated, browser-observed version, but it should not be treated as a locally preserved document or used for verbatim reproduction beyond short research notes.
+The article was readable through the web research surface on 6 August 2026, while the direct shell retrieval then returned HTTP 429. On 8 August, the canonical route returned a 302 to the site login page and the final 200 response was a login document, not article text. The earlier 429 boundary and the newer redirect/login chain are both preserved. No full article HTML or transcript is claimed, and the browser observation should not be treated as a locally preserved document or used for verbatim reproduction beyond short research notes.
 
 ## Link
 
 - Canonical page: https://www.thebookseller.com/books/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
 - Alternate article path: https://www.thebookseller.com/author-interviews/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
 - [Local HTTP-429 boundary](../assets/documents/bookseller-arday-memoir-interview-429-2026-08-06.html) — SHA-256 `dd05b5d3934ecd003b205008ab2e3abd554ee87f55665ab016d44fa7fffe67fe`
+- [8 August canonical-route/login capture](../assets/captures/2026-08-08-bookseller-memoir-interview-recheck/correct.html)
+- [8 August redirect/login headers](../assets/captures/2026-08-08-bookseller-memoir-interview-recheck/correct.headers.txt)

@@ -958,6 +958,12 @@ Do not rerun a completed scope unless the reason is explicit: new date range, ne
 | 2026-08-06 | House of Lords Youth Unemployment Committee transcript capture | Official Parliament oral-evidence HTML/PDF and committee-report routes; web transcript text accessible, shell retrieval challenged by Cloudflare | Added SRC-281/C-259–C-262. Preserved PDF/HTML/report challenge bodies and headers, while recording the official transcript’s witness block, Durham self-introduction, targeted-partnership/mentoring proposal, national role-model databank proposal, ex-PE-teacher statement, and hidden-curriculum remarks with printed-page/Q references. | Keep the transcript as dated public testimony and a historical role witness. Reopen only if the official endpoints expose a locally capturable transcript or webcast; do not represent the challenge pages as the transcript binary. |
 | 2026-08-06 | Cambridge Global Justice Collective changed-host follow-up | Indexed `risk.aws.educ.cam.ac.uk/research/groups/gjc/` membership page; ordinary TLS validation failed due to an expired certificate, and diagnostic insecure retrieval returned a Cambridge-branded 404 | Upgraded SRC-195/C-111 without creating a duplicate. The AWS risk-host manifestation is now preserved as a third removed/currently unavailable page state alongside the Faculty and OER 404s; no current membership is claimed. | Do not repeat the expired-certificate/404 request loop. Reopen only if Cambridge publishes a replacement research-group page or a new authoritative membership record. |
 
+## 2026-08-08 — SRC-131 Bookseller memoir-interview access recheck
+
+Capture: the canonical Bookseller article route changed from the previously preserved HTTP-429 boundary to a 302 redirect into the site’s login flow; the final 200 response is a login page and contains no article body. The redirect chain, final HTML, and headers are preserved.
+
+Decision: upgraded SRC-131 in place. This is a changed access-state manifestation, not a new interview or new biography claim; retain the browser-observed article text as source-version evidence and do not claim a locally recovered article.
+
 ## 2026-08-08 — SRC-195/C-111 GJC migrated-host recheck
 
 Capture: the migrated Faculty route, OER AWS route, and risk AWS route were checked again. All returned HTTP 404; the AWS responses were inspected with certificate validation disabled after ordinary TLS failed on the expired certificate. No replacement group page or current membership record appeared.
