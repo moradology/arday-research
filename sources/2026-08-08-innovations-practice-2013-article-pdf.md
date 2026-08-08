@@ -14,6 +14,7 @@ urls:
   - https://openjournals.ljmu.ac.uk/iip/issue/download/22/23
 assets:
   - ../assets/captures/2026-08-08-ljmu-innovations-practice-2013/issue.pdf
+  - ../assets/captures/2026-08-08-ljmu-innovations-practice-2013/issue.txt
   - ../assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_download_22_23.headers.txt
   - ../assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.body
   - ../assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.headers.txt
@@ -33,6 +34,7 @@ The article’s abstract describes successful peer mentoring as sustained by col
 ## Local preservation and verification
 
 - Complete issue PDF: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/issue.pdf` — 147 pages; SHA-256 `98959cf52ac537f42a0b37c8fc2f4be3b764547c48d839f03cd44e0a00a32b55`.
+- Complete issue text extraction: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/issue.txt` — text navigation companion for the 147-page PDF; SHA-256 `c9e9f2b353ce10a21ed319d2245a402b489be1c5ee5786e3b276352f77bb55c4`.
 - Issue-page HTML: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.body` — SHA-256 `27251261582c5f281674fbe059cd92d56b859d7eefb738102b45a3d59ba211ae`.
 - Issue-page headers: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_view_22.headers.txt` — SHA-256 `2c2811e5076702de74573ead8b4cf0a45996bc0688fd0d8f463a5c326d447612`.
 - Issue-PDF response headers: `assets/captures/2026-08-08-ljmu-innovations-practice-2013/openjournals_ljmu_ac_uk_iip_issue_download_22_23.headers.txt` — SHA-256 `082cab50e7a1e125473bc3f5573fd7f133cc76359a93a08549d44b7f24501603`.
