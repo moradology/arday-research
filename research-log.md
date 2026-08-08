@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-184/C-930: *Talking Matters* full audio promoted
+
+Audit: SRC-184 already had the full *Talking Matters with Nick Halkes* MP3, ASR derivatives, and football/snooker excerpt files checksum-documented in the workspace, but the 75,598,049-byte parent audio was not tracked in Git.
+
+Archive action: checksum-validated and committed the complete 1:18:44.82 MP3. The existing ASR and excerpt records remain unchanged and explicitly non-verbatim/non-human-verified.
+
+Decision: added C-930 as an archive-integrity observation. Preserving the parent audio makes the childhood, literacy, football, and snooker leads reproducible, but it does not resolve the source’s internal professional-status tension or convert ASR wording into verified quotation. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-334/C-929: Warwick conference capture promoted
 
 Audit: SRC-334 already documented Warwick’s first-party conference pages, direct keynote MP4, portraits, changed access state, and failed caption endpoint, but the manageable page and image artifacts were not tracked in Git.

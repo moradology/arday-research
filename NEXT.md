@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-preservation checkpoint: SRC-184/C-930 — the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 is now committed to GitHub alongside its source record, ASR navigation, and sports excerpts. The audio remains a first-person interview requiring manual listening before transcript-level quotation; preserve the internal football/professional-status tension and do not upgrade it to professional status without independent records.
+
 Fresh archive-boundary checkpoint: SRC-334/C-929 — Warwick’s captured conference pages, headers, portraits, rate-limit rechecks, and caption-endpoint 404 are now committed to GitHub. The 138,726,243-byte keynote MP4 and three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit; reopen only for a suitable lawful media host, transcript/captions, or an additional distinct artifact.
 
 Fresh sports-history checkpoint: SRC-343/C-928 — the 48-page Autumn 2015 *Concordia* PDF containing the COXA 1st XI match report naming Jason Arday as goalkeeper is now committed to GitHub. The record narrows the sports uncertainty but does not establish professional status, academy membership, or Southfields Academy attendance; seek only distinct rosters/registration records or changed archive versions.

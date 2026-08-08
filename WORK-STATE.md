@@ -1,5 +1,7 @@
 # Work state
 
+Latest audio-preservation checkpoint: on 2026-08-08 `SRC-184/C-930` promoted the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 to GitHub. The ASR derivatives and football/snooker excerpts remain explicitly navigation aids; manual listening is still required, and the internal “professional club”/“not good enough to become a professional” tension remains unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest archive-boundary checkpoint: on 2026-08-08 `SRC-334/C-929` promoted Warwick’s captured conference HTML, headers, portraits, rate-limit rechecks, and caption-endpoint 404 to GitHub. The 138,726,243-byte keynote MP4 and three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit; no transcript or substantive keynote claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest sports-history checkpoint: on 2026-08-08 `SRC-343/C-928` promoted the 48-page Autumn 2015 *Concordia* PDF to GitHub. Its PDF p. 7 match report remains the primary dated club account naming Arday as a COXA 1st XI goalkeeper; it does not establish professional status, academy membership, or school attendance. Google Drive was not updated; GitHub remains the active publication target.
