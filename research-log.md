@@ -2704,3 +2704,19 @@ Lead: a targeted search for the already catalogued Advance HE 2025 keynote found
 Capture: the one-page A3 programme records the 3 April 2025 EDI Conference schedule, placing Arday’s keynote at 09:40–10:20 in the Stephenson Suite and naming David Bass as chair. The PDF, extracted text, response headers, and rendered QA page are preserved locally.
 
 Decision: added SRC-562/C-730 as a source-version record rather than a duplicate event. It refines the planned schedule only; no attendance, delivery, transcript, recording, or substantive keynote claim is added.
+
+## 2026-08-08 — SRC-563/C-731–C-732 THE Campus first-person essay
+
+Lead: a publisher search for older authored public output surfaced Jason Arday’s 28 February 2022 THE Campus essay, “Fool’s gold: career advice for young, Black academics.”
+
+Capture: the full current HTML, response headers, and 593×444 lead image were preserved. The essay contains a direct first-person account of Arday’s self-described academic capabilities and compensatory work habits, plus a dated page biography with Glasgow, Runnymede, and British Sociological Association role labels.
+
+Decision: added SRC-563/C-731–C-732. The first-person passage is retained as self-report, not independent psychological or performance evidence; role labels are preserved as a 2022 source-version and not harmonized with current records.
+
+## 2026-08-08 — SRC-564/C-733 THE Campus Talks podcast page
+
+Lead: the same publisher family exposed a distinct 9 June 2021 panel-podcast page listing Arday as a participant in a discussion of inclusive teaching, anti-racism education, and neurodiversity.
+
+Capture: page HTML, embedded Podbean player HTML, headers, and 2695×2021 lead image were preserved. The player response did not expose a direct audio payload or downloadable media URL.
+
+Decision: added SRC-564/C-733 as a media lead and access boundary. No audio-derived claim is added; reopen only for a direct audio file, transcript, or captions.

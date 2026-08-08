@@ -1,0 +1,25 @@
+HTTP/2 301 
+server: awselb/2.0
+date: Sat, 08 Aug 2026 07:17:18 GMT
+content-type: text/html
+content-length: 134
+location: https://www.timeshighereducation.com:443/campus/sites/default/files/2021-02/002%20Resiliency%20podcast4_3.png
+
+HTTP/2 200 
+content-type: image/png
+last-modified: Wed, 17 Feb 2021 15:09:47 GMT
+etag: "602d31bb-1c263"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 914055
+date: Sat, 08 Aug 2026 07:17:18 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-eglc8600039-LCY, cache-chi-kigq8000142-CHI
+x-cache: HIT, HIT
+x-cache-hits: 0, 0
+x-timer: S1786173438.310699,VS0,VE2
+content-length: 115299
+

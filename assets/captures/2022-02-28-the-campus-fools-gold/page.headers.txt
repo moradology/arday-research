@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: public, s-maxage=600, stale-while-revalidate=59
+etag: "l2ml0lk5nd56l1"
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Sat, 08 Aug 2026 07:16:21 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-egml8630084-LCY, cache-chi-kigq8000162-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1786173381.043953,VS0,VE509
+vary: Accept-Encoding
+content-length: 241986
+

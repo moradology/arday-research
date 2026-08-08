@@ -1,0 +1,31 @@
+HTTP/2 308 
+cache-control: public, s-maxage=600, stale-while-revalidate=59
+location: /campus/campus-talks-making-teaching-more-inclusive-and-equitable
+refresh: 0;url=/campus/campus-talks-making-teaching-more-inclusive-and-equitable
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+date: Sat, 08 Aug 2026 07:16:21 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-eglc8600032-LCY, cache-chi-kigq8000144-CHI
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786173382.823784,VS0,VE121
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: public, s-maxage=600, stale-while-revalidate=59
+etag: "14jy54q3tx25il1"
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Sat, 08 Aug 2026 07:16:23 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-eglc8600061-LCY, cache-chi-kigq8000144-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1786173382.974060,VS0,VE1271
+vary: Accept-Encoding
+content-length: 257412
+

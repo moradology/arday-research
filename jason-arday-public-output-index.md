@@ -218,6 +218,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [HDR UK opening-ceremony event listing](sources/2023-06-08-hdr-uk-black-internship-opening-event.md) — first-party 8 June 2023 listing for the 21 June Birmingham City University ceremony, including Arday’s 13:45 keynote title and local event graphic.
 - [HDR UK opening-ceremony report](sources/2023-06-21-hdr-uk-black-internship-opening-report.md) — same-day first-party post-event account identifying Arday as keynote speaker; local full-resolution portrait preserved, but no speech transcript or binary recovered.
 - [Advance HE EDI Conference 2025 full programme](sources/2025-04-03-advance-he-edi-programme.md) — distinct organizer programme manifestation placing Arday’s 3 April keynote at 09:40–10:20 and naming its chair; delivery and recording remain unresolved.
+- [THE Campus “Fool’s gold” essay](sources/2022-02-28-the-campus-fools-gold.md) — first-person 2022 essay with a self-description of academic capability and work habits; dated role biography kept separate from current status.
+- [THE Campus Talks panel](sources/2021-06-09-the-campus-talks-podcast.md) — 2021 publisher-hosted panel listing Arday on inclusive teaching, anti-racism, and neurodiversity; player captured but audio not recovered.
 
 ## 8. Current controversy — keep separate from the historical archive
 

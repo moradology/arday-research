@@ -1,0 +1,25 @@
+HTTP/2 301 
+server: awselb/2.0
+date: Sat, 08 Aug 2026 07:17:17 GMT
+content-type: text/html
+content-length: 134
+location: https://www.timeshighereducation.com:443/campus/sites/default/files/2022-02/Black%20hands.jpg
+
+HTTP/2 200 
+content-type: image/jpeg
+last-modified: Thu, 24 Feb 2022 16:35:47 GMT
+etag: "6217b3e3-ea21"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 1176950
+date: Sat, 08 Aug 2026 07:17:17 GMT
+set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+x-served-by: cache-lcy-egml8630077-LCY, cache-chi-kigq8000141-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1786173437.293053,VS0,VE387
+content-length: 59937
+
