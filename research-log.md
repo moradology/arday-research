@@ -2614,3 +2614,11 @@ Discovery: a search for distinct 2022 event records surfaced the University of L
 Capture: preserved the two-page PDF, layout-preserving text extraction, response headers, and rendered pages. The agenda lists Arday for an 11:45 keynote and as a participant in the 14:35–15:20 panel on taking forward the NEON strategy blueprint.
 
 Decision: added SRC-553/C-712, `media.md`, the public-output index, and the timeline. The record remains a planned-programme witness; no delivery, attendance, remarks, recording, transcript, or slides are inferred.
+
+## 2026-08-08 — SRC-091/C-713 memoir publisher access-state recheck
+
+Discovery: a current search result resurfaced the official Simon & Schuster US memoir page and exposed publisher metadata in the web-search surface.
+
+Capture: the direct canonical URL was rechecked from the shell. It returned HTTP 403 Cloudflare challenge HTML; the 5,493-byte body and headers were byte-distinct from the 6 August challenge and were preserved under `assets/captures/2026-08-08-simon-schuster-memoir-recheck/`.
+
+Decision: updated SRC-091/C-713 and `negative-space.md` in place. No new memoir edition, publisher record, excerpt, full text, audio file, or independent biography claim was created.

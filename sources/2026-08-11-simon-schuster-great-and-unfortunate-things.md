@@ -41,3 +41,10 @@ This is a publisher page for a forthcoming memoir. It documents the book’s exi
 - [UK page / Cloudflare body](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/uk-page.html) and [headers](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/uk-headers.txt)
 - [UK ebook page / Cloudflare body](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/uk-ebook-page.html) and [headers](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/uk-ebook-headers.txt)
 - [US cover](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/us-cover.jpg), [UK cover](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/uk-cover.jpg), and [credited author portrait](../assets/captures/2026-08-06-simon-schuster-great-and-unfortunate-things/author-photo.jpg)
+
+## Direct shell recheck — 2026-08-08
+
+The canonical US publisher URL was rechecked after a new public search result resurfaced the page. The endpoint still returned HTTP 403 from Cloudflare, but the challenge body and response headers were byte-distinct from the 6 August capture. No new publisher HTML, excerpt, image URL, downloadable book file, or audio file was recovered.
+
+- [Current US challenge body](../assets/captures/2026-08-08-simon-schuster-memoir-recheck/us-page.html) — 5,493 bytes; SHA-256 `7229b8877664e15cb166943572251ef6e57ed4f10a53e81335da4b152f0`.
+- [Current response headers](../assets/captures/2026-08-08-simon-schuster-memoir-recheck/us-headers.txt) — SHA-256 `9debe2a60ddd1341736c8376d81afd264e62a819b11eaa28b5d213caa049aa33`.
