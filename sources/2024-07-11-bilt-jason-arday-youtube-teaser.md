@@ -33,6 +33,8 @@ The streams remain separate because local muxing was resource-killed; both publi
 
 ## Caption-derived extraction
 
-The preserved automatic English captions provide a short first-person account. At approximately 00:02–00:18, Arday says his relationship with Bristol began in 2018 and that he had visited several times over the following six years. At approximately 00:58–01:29, he says working with Bristol's EDI team and similar academics had been influential, describes Bristol as a “home away from home,” and jokes that he might eventually have worked there. At approximately 00:58–01:14, he praises Bristol's work on decolonising the curriculum, employment and progression interventions, and diversification of staff and students.
+The preserved automatic English captions provide a short first-person account. The caption file places the statements at these ranges: 00:02.017–00:18.600 for the 2018 connection and visits; 00:18.600–00:58.517 for praise of Bristol’s intersectionality, race, decolonising-curriculum, employment/progression, and student/staff-diversification work; 00:58.517–01:05.517 for working with the EDI team and academics; and 01:10.017–01:29.517 for the “home away from home” and “probably should have worked here” remarks.
+
+The caption text says “15th or 16th time” at 01:05.517–01:10.017. These time ranges are caption-derived rather than independently listened-to.
 
 These are automatic-caption source-version extracts from a public first-person video, not manually verified quotations. They establish the recording's attributed self-presentation and relationship to Bristol, not an employment appointment or independent evaluation of Bristol's interventions.

@@ -3208,3 +3208,9 @@ Discovery: the Reddit link for “Arday’s students think Cambridge failed them
 Capture: the browser-rendered replay exposed the article headline, standfirst, authors, date, and substantive reporting; a local screenshot preserves the visible article header/lead image. Direct Telegraph retrieval returned HTTP 403. Shell retrieval of the archive returned a CAPTCHA wrapper, so it is retained as an access boundary rather than article text.
 
 Decision: added the report as a distinct source. Student complaints, grade effects, appeals, legal routes, and fee-refund demands remain attributed and unresolved; no student identity or confidential case detail was inferred.
+
+## 2026-08-08 — SRC-264/C-401: BILT teaser caption-range audit
+
+Audit: compared the existing BILT teaser extraction with the locally preserved `JWNqOrsUU7A.en-GB.vtt` file and replaced broad approximate windows with the caption cue ranges.
+
+Decision: retained the extraction as automatic-caption evidence and kept manual listening verification pending. The update improves timecode provenance without upgrading caption text into a manually verified quotation or treating Bristol association as employment.
