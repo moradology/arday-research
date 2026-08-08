@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh video-preservation checkpoint: SRC-347/C-893 — the playable 640×360 St Mary’s Values Talk MP4 is now committed to GitHub. The adaptive video/audio streams remain documented locally, and the caption endpoint is zero-byte. Reopen for a valid caption track or audiovisual verification; do not treat the host biography as an audited record.
+
 Fresh binary-preservation checkpoint: SRC-243/C-892 — the 50:15 BME ECR Network keynote MP4 is now committed to GitHub alongside its captions and source captures. The host biography remains dated conference copy and the captions contain errors. Reopen for audiovisual verification, a corrected caption track, or changed recording state; do not treat the recording as current-role proof.
 
 Fresh binary-preservation checkpoint: SRC-156/C-891 — the official 42:04.46 *Student Sessions* MP3 is now committed to GitHub alongside its Buzzsprout page snapshot and checksum metadata. Reopen for a timestamped listening/transcription pass or changed episode state; do not promote interview claims without source-version labeling.

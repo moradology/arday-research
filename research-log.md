@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-347/C-893: St Mary’s Values Talk playable video promoted to GitHub
+
+Audit: the canonical St Mary’s source record already contained the Students’ Union page, YouTube metadata, thumbnail, caption-state capture, adaptive video/audio streams, and a playable progressive MP4, but the playable MP4 remained only in the working tree.
+
+Capture decision: validated the 94,681,579-byte MP4 checksum (`653afa99df4679eb493aac0cb391ecf8e8acf3bec2c4f6da010fab73239f193a`) against the source record and committed the playable file. The adaptive streams remain a documented local topology; the zero-byte captions response means no substantive or timecoded claim was promoted.
+
 ## 2026-08-08 — SRC-243/C-892: BME ECR keynote video promoted to GitHub
 
 Audit: the canonical BME ECR source record already contained the YouTube page, thumbnail, automatic captions, metadata, and headers, but the 86,386,515-byte progressive MP4 remained only in the working tree.
