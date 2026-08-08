@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official BBC *Radical with Amol Rajan* audio (`SRC-249/C-894`) was checksum-validated and added to the GitHub archive. The 51,279,057-byte MP3 and existing programme/RSS/artwork captures are preserved; the RSS/file duration discrepancy and no-transcript boundary remain explicit. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest video-preservation checkpoint: on 2026-08-08 the playable 640×360 MP4 for St Mary’s Students’ Union’s 19 November 2020 Values Talk (`SRC-347/C-893`) was checksum-validated and added to the GitHub archive. The separate adaptive video/audio streams remain local and documented; the caption endpoint is zero-byte, so no timecoded content claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest video-preservation checkpoint: on 2026-08-08 the BME ECR Network’s 22 July 2023 keynote recording (`SRC-243/C-892`) was checksum-validated and added to the GitHub archive. The 86,386,515-byte 50:15 MP4 and existing captions/page/thumbnail/metadata captures are preserved; the host biography and automatic captions remain source-versioned. Google Drive was not updated; GitHub remains the active publication target.

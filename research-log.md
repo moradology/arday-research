@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-249/C-894: BBC *Radical* binary promoted to GitHub
+
+Audit: the canonical BBC *Radical* record already contained the programme page, RSS, artwork, duration metadata, and an official MP3, but the 51,279,057-byte audio remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`ef73df218f11e46af9cf3d742059d812bb11652d276cff09d3b621034a9c9956`) against the source record and committed the audio. The RSS/file duration discrepancy remains documented; Audioscrape’s transcript boundary is unchanged and no substantive audio claim was promoted.
+
 ## 2026-08-08 — SRC-347/C-893: St Mary’s Values Talk playable video promoted to GitHub
 
 Audit: the canonical St Mary’s source record already contained the Students’ Union page, YouTube metadata, thumbnail, caption-state capture, adaptive video/audio streams, and a playable progressive MP4, but the playable MP4 remained only in the working tree.

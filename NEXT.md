@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-249/C-894 — the official 8 May 2025 BBC *Radical with Amol Rajan* MP3 is now committed to GitHub alongside its page, RSS, artwork, and duration metadata. Audioscrape still exposes no transcript. Reopen for lawful transcript access or a bounded listening pass; do not infer remarks from the binary’s existence.
+
 Fresh video-preservation checkpoint: SRC-347/C-893 — the playable 640×360 St Mary’s Values Talk MP4 is now committed to GitHub. The adaptive video/audio streams remain documented locally, and the caption endpoint is zero-byte. Reopen for a valid caption track or audiovisual verification; do not treat the host biography as an audited record.
 
 Fresh binary-preservation checkpoint: SRC-243/C-892 — the 50:15 BME ECR Network keynote MP4 is now committed to GitHub alongside its captions and source captures. The host biography remains dated conference copy and the captions contain errors. Reopen for audiovisual verification, a corrected caption track, or changed recording state; do not treat the recording as current-role proof.
