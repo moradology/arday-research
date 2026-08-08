@@ -1,5 +1,7 @@
 # Work state
 
+Latest complete-derivative checkpoint: on 2026-08-08 `SRC-057/C-952` created and promoted a 67,795,210-byte AAC derivative of the complete 1:09:50.97 Bristol/British Academy “Story of Graceland” lecture. The 183,882,527-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no lecture-content claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-032/C-951` created and promoted a 26,004,790-byte AAC derivative of the complete 26:45.98 PBS *The Importance of Early Intervention* programme. The 629,632,856-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no narration or self-report was upgraded beyond its broadcast attribution. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-157/C-950` created and promoted three AAC segments covering the complete 1:35:35.02 ARU Unlearn recording. The 563,815,460-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no substantive video claim was added. Google Drive was not updated; GitHub remains the active publication target.

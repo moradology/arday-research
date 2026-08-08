@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-057/C-952: complete Graceland lecture audio derivative created
+
+Archive action: converted the 183,882,527-byte parent MP4 to a complete 67,795,210-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 1:09:50.92, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `de76b13f2a8443237f530053c3f00ecfb48393f694bde7b31759b58c10b18ac0`.
+
+Decision: added C-952 as an archive-integrity observation. This closes the GitHub handoff gap for the complete lecture while retaining the parent MP4 as the visual integrity anchor. The derivative is not a transcript or independent corroboration of lecture content. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-032/C-951: complete PBS audio derivative created
 
 Archive action: converted the 629,632,856-byte parent MP4 to a complete 26,004,790-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 26:45.98, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `53a74861875566fb70a5009e6ee29506a9c8af7f7bc1b9c8e084c428f556783c`.

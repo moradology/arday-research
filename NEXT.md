@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-057/C-952 — the complete 1:09:50.97 Bristol/British Academy “Story of Graceland” lecture is now available as a 67,795,210-byte AAC derivative on GitHub. The 183,882,527-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and lecture claims remain unverified.
+
 Fresh complete-derivative checkpoint: SRC-032/C-951 — the complete 26:46 PBS *The Importance of Early Intervention* programme is now available as a 26,004,790-byte AAC derivative on GitHub. The 629,632,856-byte parent MP4 remains local-only; broadcast narration and Arday’s statements remain attributed rather than independently corroborated.
 
 Fresh complete-derivative checkpoint: SRC-157/C-950 — the complete 1:35:35.02 ARU Unlearn recording is now available as three AAC review segments on GitHub (00:00–30:00, 30:00–60:00, and 60:00–1:35:35.02). The 563,815,460-byte parent MP4 remains local-only; no substantive video claim was added.
