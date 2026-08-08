@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Sat, 08 Aug 2026 07:24:11 GMT
+set-cookie: region=ccpa; path=/; Expires=Sat, 15 Aug 2026 07:24:11 GMT;
+set-cookie: _dcf=1; path=/; Expires=Sat, 15 Aug 2026 07:24:11 GMT;
+set-cookie: SWID=46074465-3133-4460-C4A8-36C0CF952348; path=/; Expires=Wed, 08 Aug 2046 07:24:11 GMT; domain=abcnews.com;
+set-cookie: userab_1=ee5f9126534eb6b091f8b61e4f26a48e~abc_shop_x_gma_shop-530%2Ashop_gma-2208%2Cabcn_popular_reads_exp-542%2Avariant_b_7days_filter-2288%2Ckabc_content_recs-577%2Avariant_a_control-2480%2Ckfsn_content_recs-582%2Avariant_a_control_kfsn-2512%2Ckgo_content_recs-583%2Avariant_a_control_kgo-2514%2Cktrk_content_recs-587%2Avariant_a_control_ktrk-2522%2Cnews_index_vod_pages_design_unification-624%2Avariant_a_vod_control-3362%2Cnews_live_index_pages_design_unification-623%2Avariant_b_live_dark-3361%2Cotv_search_page_design_unification-546%2Avariant_b_search_redesign-2300%2Cotv_web_content_rec-539%2Avariant_c_trending-2268%2Cotv_web_topic-580%2Avariant_a_topic-2508%2Cotvlink_abcnnav-576%2Avariant_a_control-2478%2Ctest_experiment-420%2Avariant_a-1764%2Cwls_content_recs-584%2Avariant_a_control_wls-2516%2Cwpvi_content_recs-586%2Avariant_b_trending_wpvi-2521%2Cwtvd_content_recs-585%2Avariant_b_trending_wtvd-2519; Expires=Sat, 08 Aug 2026 11:24:11 GMT; Domain=abcnews.com; Path=/
+server: nginx/1.28.3
+expires: Sat, 08 Aug 2026 07:24:14 GMT
+last-modified: Sat, 08 Aug 2026 07:24:14 GMT
+cache-control: max-age=3
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 76f89193cc4d64efc6af9454a18729b0.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P14
+x-amz-cf-id: _ubu3rQW9_9p0nccb1qsoMF0xSSNlp2-BPxc5HeP62_SZsURsZjDSw==
+

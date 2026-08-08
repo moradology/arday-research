@@ -2736,3 +2736,11 @@ Lead: the continuing THE authored-output sweep surfaced Arday’s 3 October 2020
 Capture: the current publisher HTML, response headers, and 724×483 lead image were preserved. The article’s closing biography records the 2020 Durham, Ohio State, Nelson Mandela University, and Runnymede roles as page-state evidence.
 
 Decision: added SRC-567/C-736 as a distinct authored public output. The policy claims remain Arday’s 2020 argument, not proof of implementation or institutional outcomes; the biography is not treated as current.
+
+## 2026-08-08 — SRC-568/C-737–C-738 ABC News profile article
+
+Lead: a source-version audit of the already archived ABC News video found its distinct linked 21 March 2023 article, which had not yet been captured as a text record.
+
+Capture: the article HTML and headers were preserved, along with the 1600×901 lead image and the 1200×1600 supplied photograph captioned as Arday at his 2016 LJMU PhD ceremony. The article’s embedded stream metadata was checked against SRC-033 and kept as an alias rather than a new video record.
+
+Decision: added SRC-568/C-737–C-738. The interview quotation, reported biography, and image caption remain journalism/attribution evidence; they do not replace primary school, degree, employment, or clinical records.

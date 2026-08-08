@@ -223,6 +223,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [THE mental-health essay](sources/2019-09-06-the-racism-academia-mental-health.md) — authored 2019 commentary on racial inequality, culturally appropriate mental-health support, and intersectional training.
 - [THE racial-harassment essay](sources/2019-12-08-the-racial-harassment-article.md) — authored 2019 commentary on reporting mechanisms, institutional responsibility, and racial harassment in universities.
 - [THE dismantling-racism essay](sources/2020-10-03-the-campus-dismantle-racism.md) — authored 2020 commentary on structural racism, white allyship, solidarity, and institutional change.
+- [ABC News profile article](sources/2023-03-21-abc-profile-article.md) — interview-based text profile with an attributed quotation, linked-video alias, and locally preserved lead and PhD-ceremony images.
 
 ## 8. Current controversy — keep separate from the historical archive
 

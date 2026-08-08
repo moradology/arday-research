@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 954889
+date: Sat, 08 Aug 2026 07:24:28 GMT
+last-modified: Fri, 17 Mar 2023 16:32:45 GMT
+etag: "fee5dfd42f8e630012065a051a7a27f4"
+x-amz-server-side-encryption: AES256
+x-amz-version-id: mku7ieGY8zg4BNOx95RFch4kugZ9KnSY
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 f4a9c912221b840a5f27fb82db198fd0.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P4
+x-amz-cf-id: PhI7e_65qDkWduzoCNKkNx3-l3Sv-REQIfbwgSg2acxDAVV4mQ1toQ==
+vary: Origin
+
