@@ -15,6 +15,7 @@ assets:
   - ../assets/captures/2026-08-08-validscience-arday/page.headers.txt
   - ../assets/captures/2026-08-08-validscience-arday/post-tts.mp3
 related:
+  - SRC-262
   - SRC-621
 ---
 
@@ -32,4 +33,4 @@ The page also exposes a platform-generated text-to-speech MP3. It is preserved a
 - Headers: `../assets/captures/2026-08-08-validscience-arday/page.headers.txt` — SHA-256 `07c0b99ff6ada6678a1126b23b8f22615400b4d98ba03ac832ad4e44bf9dbeef`.
 - TTS MP3: `../assets/captures/2026-08-08-validscience-arday/post-tts.mp3` — SHA-256 `ce7e9aa81f258451b0330d5ba133871a689ac6b979e7957a66c3a53b439db71f`.
 - Seven embedded/public image binaries are preserved in the same capture directory; image rights and original provenance remain source/platform-dependent.
-- One embedded exhibit is separately catalogued as [SRC-621](2026-08-08-validscience-good-law-solidarity-exhibit.md), because it points to a distinct claimed public document rather than merely repeating Duarte's prose. It remains an exhibit-level source, not independent corroboration.
+- One embedded exhibit is separately catalogued as [SRC-621](2026-08-08-validscience-good-law-solidarity-exhibit.md) and deduplicated to the canonical Good Law Project campaign page [SRC-262](2026-07-28-good-law-project-arday-solidarity-letter.md). It remains a visual/source-propagation manifestation, not independent corroboration.

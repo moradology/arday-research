@@ -1,0 +1,30 @@
+HTTP/2 301 
+date: Sat, 08 Aug 2026 13:07:03 GMT
+cache-control: no-cache, no-store
+expires: -1
+location: https://goodlawproject.org/petition/stand-in-solidarity-with-jason-arday/?utm_source=bluesky&utm_campaign=glp_petition_jasonarday&utm_medium=social_media&utm_content=28-07-2026
+content-length: 0
+engine: Rebrandly.redirect, version 2.1
+strict-transport-security: max-age=15552000
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 13:07:04 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27ebdf0282fb5fc-OMA
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+link: <https://goodlawproject.org/wp-json/>; rel="https://api.w.org/", <https://goodlawproject.org/?p=27363>; rel=shortlink
+server: cloudflare
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+ki-cf-cache-status: BYPASS
+x-content-type-options: nosniff
+x-edge-location-klb: 1
+ki-cache-type: None
+ki-edge: v=28.4.5;mv=99.9.9
+ki-origin: o1i
+x-kinsta-cache: HIT
+set-cookie: __cf_bm=Sl._fNUgfGd977LqhtmqEKInP4xvwp3Li5FFgFw5i.o-1786194424.3477361-1.0.1.1-qCC3KP8iD9bQPTLSV7_tTafaoCkLyFzKGVbu8FaDjMnU3342jFIq745KWczJciV05x3Yz1nogq6LgzgNiiO0pka3FkJ42dXe1bV2goRv62HhWO1t7YYlXMGZzFWrcsSw; HttpOnly; SameSite=None; Secure; Path=/; Domain=goodlawproject.org; Expires=Sat, 08 Aug 2026 13:37:04 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XdFnroVoYxJWYLxNs%2BKmNQYY4Yqf6bstsuyz5kfzO8JubxNr4YIAzeJUXhXJt%2BzL1QDQfO9UdA0VfCRjquFJFSeJlfZSrRpInXvSJe8cHCknyzDP05372lt%2B4ewoRxbFUiN8gw%3D%3D"}]}
+alt-svc: h3=":443"; ma=86400
+

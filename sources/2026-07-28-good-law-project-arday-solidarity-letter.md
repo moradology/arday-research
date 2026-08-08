@@ -4,8 +4,8 @@ type: solidarity letter / petition
 title: "Stand in solidarity with Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2026-07-28
-accessed: 2026-08-06
-status: public-page; local HTML/image capture
+accessed: 2026-08-08
+status: public-page; multiple local HTML/image captures preserving changed live counter
 evidence_class: advocacy organization campaign page
 ---
 
@@ -14,6 +14,8 @@ evidence_class: advocacy organization campaign page
 Good Law Project’s page, published 28 July 2026 and marked modified 6 August 2026, hosts a solidarity letter concerning the public allegations about Jason Arday. The page presents the letter as a signature campaign and displays named signatories. At the 6 August capture it reported 16,755 signatures toward a 25,000 target; this is a live, time-sensitive counter rather than a stable historical total.
 
 The page’s wording says that allegations were false, that investigations found no wrongdoing, and that media coverage constituted a smear campaign. Those are the campaign’s advocacy assertions. They are not independently adjudicated by this source and must remain separate from Cambridge’s statements about its investigation and from the Guardian/AP reports about the allegations and resignation.
+
+An 8 August 2026 recheck followed the campaign’s short link `https://goodlaw.social/jg0w` and returned the same canonical page. The page metadata identifies publication on 28 July 2026 and modification on 6 August 2026. At this recheck it displayed 17,310 signatures toward a 25,000 target, compared with 16,755 at the 6 August capture. The counter is volatile and the four most-recently displayed signer names are a page-state sample, not a complete or stable signatory list.
 
 The page names, among others, Lord Simon Woolley, Professor Kehinde Andrews, Misan Harriman, Daniel Kebede, Lord Paul Boateng, John McDonnell, Zack Polanski, Bell Ribeiro-Addy, Clive Lewis, Professor Robert Beckford, Nadia Whittome, Colin Salmon, and Jolyon Maugham. The local HTML preserves the full displayed signatory block as it appeared at capture.
 
@@ -31,4 +33,6 @@ This is primary evidence that Good Law Project published and hosted the letter, 
 - [HTML snapshot](../assets/documents/good-law-project-arday-solidarity-letter-2026-08-06.html) — SHA-256 `f4463e92a5cb7fdf68412d43836dfb9dcdf876632c8921d78c949dcab8f91b34`
 - [Response headers](../assets/documents/good-law-project-arday-solidarity-letter-2026-08-06-headers.txt) — SHA-256 `fcbc6835354a7f9bb7f493ebc98e36aff9cb0f6144305aa1c855f6f667f7eb87`
 - [Page image](../assets/images/good-law-project-jason-arday-solidarity-2026.jpg) — 618×393 JPEG, SHA-256 `e04049b1697c4e025b4aa39af14c7c953d82f3dc2b58006150ecc89928e3e5a4`
-
+- [8 August HTML snapshot](../assets/captures/2026-08-08-good-law-solidarity/page.html) — SHA-256 `ee31d35576e299897f3d880546322c3cef3026bac70535b2d2837172975602d6`
+- [8 August response headers](../assets/captures/2026-08-08-good-law-solidarity/page.headers.txt) — SHA-256 `0f2a3deaf6b869a5982c01efdaa595550f6c39178c90b9398f8e5bc903da3202`
+- [8 August page image](../assets/captures/2026-08-08-good-law-solidarity/GR_cambridge_14.JPG-1-scaled.jpeg) — 2560×1708 JPEG, SHA-256 `282b5e78220524784cbc63c2e0f545337915b14b862b8fe7a68efbecb92c52d8`
