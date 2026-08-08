@@ -215,6 +215,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [Going Postal: *Question Time* review](sources/2024-02-23-going-postal-question-time-review.md) — 23 February 2024 partisan review reporting Arday on the 22 February Maidenhead panel; preserved with linked MP3, but neither the review’s attributed remarks nor the audio are treated as verified broadcast material.
 - [Broken Vessel: conversation about race in UK higher education](sources/2019-09-11-broken-vessel-jason-arday-conversation.md) — 11 September 2019 Belluigi page advertising a roughly 40-minute Port Elizabeth conversation; the host is now expired and the recording remains unrecovered.
 - [HDR UK Black Internship Programme keynote](sources/2023-09-20-hdr-uk-black-internship-keynote.md) — first-party retrospective of the 2023 Birmingham City University opening ceremony; linked keynote video is now private, with page-linked images preserved locally.
+- [HDR UK opening-ceremony event listing](sources/2023-06-08-hdr-uk-black-internship-opening-event.md) — first-party 8 June 2023 listing for the 21 June Birmingham City University ceremony, including Arday’s 13:45 keynote title and local event graphic.
+- [HDR UK opening-ceremony report](sources/2023-06-21-hdr-uk-black-internship-opening-report.md) — same-day first-party post-event account identifying Arday as keynote speaker; local full-resolution portrait preserved, but no speech transcript or binary recovered.
 
 ## 8. Current controversy — keep separate from the historical archive
 

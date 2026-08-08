@@ -2688,3 +2688,11 @@ Discovery: HDR UK’s official 2023 internship retrospective linked a previously
 Capture: preserved the HDR UK page and headers, the linked YouTube HTML and headers, and the two page-linked photographs. YouTube currently returns `LOGIN_REQUIRED` / private-video state; no video binary, captions, or transcript was recovered.
 
 Decision: added SRC-559/C-726–C-727 as a first-party retrospective event record and access boundary. The quotation remains host-published and not timecoded. Reopen only for a public video state, transcript/captions, exact event-date record, or distinct keynote artifact.
+
+## 2026-08-08 — SRC-560/C-728 and SRC-561/C-729 HDR UK opening ceremony date and delivery
+
+Lead: a changed-state search for the HDR UK 2023 Black Internship Programme opening ceremony surfaced the original event listing and a distinct same-day post-event report, rather than another copy of the September retrospective.
+
+Capture: the 8 June event listing schedules the ceremony for 21 June 2023 at Birmingham City University and lists Arday’s 13:45 keynote title. The 21 June report says the programme launched at the ceremony and identifies Arday as keynote speaker who gave a speech about overcoming personal challenges. Full-resolution event graphic and portrait were downloaded with response headers and hashes.
+
+Decision: added SRC-560/C-728 and SRC-561/C-729 as distinct first-party source versions. The exact date and delivery are now independently represented within the HDR UK source family; no speech transcript, captions, or keynote binary was recovered. Keep the private YouTube manifestation under SRC-559 and do not treat promotional biography wording as independently verified.

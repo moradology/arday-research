@@ -1,0 +1,15 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 07:11:08 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+cache-provider: CLOUDWAYS-CACHE-DE
+last-modified: Fri, 07 Aug 2026 15:09:53 GMT
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+expires: Thu, 1 Jan 1970 00:00:00 GMT
+vary: Accept-Encoding,User-Agent
+pragma: no-cache
+age: 0
+x-cache: MISS
+accept-ranges: bytes
+
