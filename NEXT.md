@@ -2,6 +2,8 @@
 
 Fresh professional-media version: SRC-524/C-669 — Wonkhe’s 2 January 2026 staff profile and 500×500 portrait are preserved. It captures the pre-resignation present-tense Cambridge/Jesus and role wording; do not present it as current. Reopen only for a later Wonkhe version, correction, or distinct Wonkhe article/event.
 
+Fresh corporate-event corroboration: SRC-525/C-670 — PGIM Real Estate’s 2025 stewardship report retrospectively confirms a 2024 London Black History Month fireside chat with Arday on racial equality and “reclaiming the narrative.” PDF p. 67, extracted text, and a rendered page are preserved. Reopen only for the exact date, event announcement/photo, recording/transcript, or participant account; do not create a second appearance node.
+
 Fresh international-media lead: SRC-523/C-668 — THE RAKE Japan’s February 2025 Japanese-language “Pocket Guide: Jason Arday” profile/interview and six-image editorial photo essay are preserved locally. It adds attributed bespoke-tailoring and personal-style details, not independent confirmation of the repeated biography. Reopen only for an English/international or print edition, photographer captions/rights, or a changed page.
 
 Fresh changed-page audit: SRC-059/C-667 — Wayback’s exact-URL CDX response returned three successful snapshots of the Cambridge Student interview (December 2023, January 2024, December 2024). All recovered replays already contain the 4 December 2023 revision notice; the pre-revision body remains unfound. Reopen only for an earlier archive snapshot, publisher-held original, or a separately preserved contemporaneous copy.

@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 04:03:31 GMT
+content-type: application/pdf
+content-length: 16882439
+x-amz-id-2: ER6mqhb8nDcqivCP0n+jF3rNwh+GTV9GykOEOF22NXCyBEdosV1mWyxbmDB3Zu/xgaPA/vHlCX5Uw27htr/9jzGhGATw+zB1
+x-amz-request-id: DSR3APMQWDSQTE9Y
+last-modified: Tue, 27 Jan 2026 13:14:46 GMT
+etag: "9cc106635a432f828dd47d618fb5428d-3"
+x-amz-server-side-encryption: AES256
+x-amz-version-id: uI6UTEyu2IrhUIJv1agemIt.cqUAbFIX
+accept-ranges: bytes
+server: cloudflare
+cache-control: max-age=14400
+cf-cache-status: MISS
+content-security-policy: default-src 'none'
+vary: accept-encoding
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=v6%2BHRpVSarZFsnXlkyFIvGBcta1qsBC8cYIoeUZgKhcgMGD4QGoZ%2FC04xzZPmTD4%2FYuVFR48ThPi8fGMgSK9PGZQJ2KzAG6oY6GuLUVajHiq9OrDBPuQAg3qG%2BGkP9BTrac%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-robots-tag: noindex
+cf-ray: a27ba1b3ea85d8ce-OMA
+

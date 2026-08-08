@@ -8,6 +8,14 @@ Capture: preserved the profile HTML, response headers, and 500×500 portrait und
 
 Evidence handling: added SRC-524/C-669 as a dated professional-media source-version. It records present-tense Cambridge/Jesus and several patronage/advisory/trustee roles as Wonkhe’s pre-resignation wording, not current employment or legal findings. Reconcile it against later Cambridge, Companies House, charity, and host-page records.
 
+# 2026-08-08 — SRC-525/C-670: PGIM Real Estate retrospective event corroboration
+
+Discovery: a focused search for corporate and investor-sector diversity reports surfaced PGIM Real Estate’s *Real Estate Sustainability Annual Report 2025*.
+
+Capture: preserved the 85-page PDF, response headers, layout text, and a rendered visual witness of PDF page 67 under `assets/documents/pgim-real-estate-stewardship-report-2025/` and `assets/captures/2026-08-08-pgim-report/`.
+
+Evidence handling: the report’s “2024 Highlights of the European Inclusion & Leadership Network” section says PGIM hosted a London Black History Month fireside chat with Cambridge Professor Jason Arday on inclusion, stereotypes, and “reclaiming the narrative.” Added SRC-525/C-670 as retrospective event corroboration, not a new appearance node; exact date, recording, transcript, and detailed remarks remain open.
+
 # 2026-08-08 — SRC-523/C-668: THE RAKE Japan lifestyle profile and photo essay
 
 Discovery: an exact-name international-media search surfaced THE RAKE Japan’s February 2025 “Pocket Guide: Jason Arday,” a Japanese-language profile/interview credited to Tom Chamberlin with photography by Kim Lang.
