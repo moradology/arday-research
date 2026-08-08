@@ -1,5 +1,7 @@
 # Work state
 
+Latest review-clip checkpoint: on 2026-08-08 `SRC-240/C-938` promoted a 23,867,909-byte opening clip from Oxford Physics’ “Challenges & Changes” recording. It preserves the host’s dated Durham/race-and-education introduction; the 123,139,640-byte parent remains local-only and no role or substantive research claim was independently upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest review-clip checkpoint: on 2026-08-08 `SRC-058/C-937` promoted two MMU LEED keynote review clips covering the 00:06:30–00:07:10 and 00:42:25–00:43:00 PE-teacher windows. The 847 MB parent remains local-only; the SRT’s 81% accuracy warning and self-report boundary remain explicit. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest review-clip checkpoint: on 2026-08-08 `SRC-241/C-936` created and promoted an 8,618,819-byte review clip covering source interval 05:00–09:00 of the Diversity Seminar interview. The 123,444,887-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the diagnosis/speech/literacy/Sandro windows remain automatic-caption navigation material, not verified quotations. Google Drive was not updated; GitHub remains the active publication target.

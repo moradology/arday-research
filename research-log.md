@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-240/C-938: Oxford Physics opening clip created
+
+Audit: SRC-240 documented the 56:08 Oxford Physics recording and automatic-caption opening, including the host’s dated Durham/race-and-education introduction, but the 123,139,640-byte parent MP4 is above GitHub’s 100 MiB hard limit.
+
+Archive action: created a 23,867,909-byte bounded review clip covering source interval 00:00–10:00 and verified its checksum. The parent MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-938 as an archive-integrity observation. The clip strengthens reproducible preservation of a distinct 2021 academic-output event; it is not a new event or independent appointment record, and no substantive talk claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-058/C-937: MMU PE-teacher review clips created
 
 Audit: SRC-058 documented the MMU LEED keynote, its official English (British) SRT, and two PE-teacher self-description windows, but the 847 MB parent MP4 is above GitHub’s 100 MiB hard limit. FFmpeg extraction was killed on the large parent; macOS `avconvert` successfully produced bounded derivatives.

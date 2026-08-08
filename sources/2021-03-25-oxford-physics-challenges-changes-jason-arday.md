@@ -5,7 +5,7 @@ title: "Challenges & Changes: Dr Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2021-03-25
 accessed: 2026-08-06
-status: official Oxford YouTube recording and captions locally preserved
+status: official Oxford YouTube recording and captions locally preserved; bounded opening review clip committed to GitHub
 evidence_class: first-party institutional event recording; programme introduction and interview/lecture
 urls:
   - https://www.youtube.com/watch?v=F6mrqJxWsa4
@@ -27,3 +27,9 @@ This is a distinct Oxford-hosted recording, not the separately captured Oxford/K
 - [Headers](../assets/documents/oxford-challenges-changes-jason-arday-2021-headers.txt) — SHA-256 `ea7b26a235088f381fdf34adeb363ac18c2fa1dc061bf86443143efc8265cd83`
 
 The captions are automatic and may contain errors; they are retained for navigation, not as a human-verified transcript.
+
+## Reproducibility clip — 2026-08-08
+
+- [Opening review clip, source interval 00:00–10:00](../assets/videos/clips/oxford-physics-challenges-changes-2021/opening-00m00-10m00.mp4) — 23,867,909 bytes; SHA-256 `de36e8305cc68083dab51920ac720f3ed33c7a8605d202761fee60416f0bb890`.
+
+The clip preserves the host introduction and beginning of the talk. The host’s Durham role and research description remain attributed event-introduction wording, not independent appointment evidence. The 123,139,640-byte parent hash remains `aa0aa220809ec8a74e050755461a59151f9a4d4f52dd73ae41cb44b978156dc5` and the parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.

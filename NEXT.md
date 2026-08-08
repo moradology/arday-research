@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh review-clip checkpoint: SRC-240/C-938 — a 23,867,909-byte opening clip from Oxford Physics’ “Challenges & Changes” recording is now committed to GitHub. It preserves the host’s introduction of Arday’s then-Durham role and race/education research; the 123,139,640-byte parent remains local-only and the captions remain unverified.
+
 Fresh review-clip checkpoint: SRC-058/C-937 — two MMU LEED keynote clips are now committed to GitHub: 00:06:30–00:07:10 (PE-teacher route) and 00:42:25–00:43:00 (PE-teacher/pedagogy framing). The 847 MB parent remains local-only; the official SRT reports 81% accuracy and the clips remain self-report review aids, not independent employment evidence.
 
 Fresh review-clip checkpoint: SRC-241/C-936 — an 8,618,819-byte review clip covering source interval 05:00–09:00 of the Diversity Seminar interview is now committed to GitHub. It contains the documented diagnosis, speech, literacy, and Sandro/tutor caption windows; the 123,444,887-byte parent remains local-only and automatic captions require human verification.
