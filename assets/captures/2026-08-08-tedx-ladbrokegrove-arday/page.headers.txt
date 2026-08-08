@@ -1,0 +1,37 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 06:51:40 GMT
+content-type: text/html; charset=UTF-8
+x-archive-orig-transfer-encoding: chunked
+x-archive-orig-connection: keep-alive
+x-archive-orig-keep-alive: timeout=15
+x-archive-orig-date: Thu, 08 Apr 2021 13:57:06 GMT
+x-archive-orig-server: Apache
+x-archive-orig-x-powered-by: PHP/7.3.27
+x-archive-orig-link: <https://tedxladbrokegrove.com/wp-json/>; rel="https://api.w.org/", <https://tedxladbrokegrove.com/wp-json/wp/v2/posts/87726>; rel="alternate"; type="application/json", <https://tedxladbrokegrove.com/?p=87726>; rel=shortlink
+x-archive-orig-x-tec-api-version: v1
+x-archive-orig-x-tec-api-root: https://tedxladbrokegrove.com/wp-json/tribe/events/v1/
+x-archive-orig-x-tec-api-origin: https://tedxladbrokegrove.com
+x-archive-orig-set-cookie: uncode_privacy[consent_types]=%5B%5D; expires=Fri, 08-Apr-2022 13:57:06 GMT; Max-Age=31536000; path=/
+x-archive-guessed-content-type: text/html
+x-archive-guessed-charset: utf-8
+memento-datetime: Thu, 08 Apr 2021 13:57:05 GMT
+link: <https://tedxladbrokegrove.com/jason-arday>; rel="original", <https://web.archive.org/web/timemap/link/https://tedxladbrokegrove.com/jason-arday>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://tedxladbrokegrove.com/jason-arday>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20210408140621_60aa6ba0/urls_20210408140621_60aa6ba0.1606352862.megawarc.warc.zst
+server-timing: captures_list;dur=0.483106, exclusion.robots;dur=0.041350, exclusion.robots.policy;dur=0.032477, esindex;dur=0.006867, cdx.remote;dur=6.583043, LoadShardBlock;dur=57.279351, PetaboxLoader3.datanode;dur=77.880898, load_resource;dur=194.205863, PetaboxLoader3.resolve;dur=71.236603, loaddict;dur=94.093938
+x-app-server: wwwb-app222-dc8
+x-ts: 200
+x-tr: 303
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app222; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

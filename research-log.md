@@ -2656,3 +2656,11 @@ Discovery: a UKCGE-hosted conference PDF surfaced in a search for distinct postg
 Capture: preserved the 51-page PDF, layout-preserving text extraction, response headers, and a render of PDF page 39. That page credits Professor Jason Arday with developing the “Close the Gap” bid and separately names the project sponsor and manager.
 
 Decision: added SRC-555/C-718–C-719 as a first-party, bounded project-role record. It is not counted as a new Arday-authored publication or as evidence that the proposed admissions reforms were funded, delivered, or evaluated. Reopen only for the underlying bid, funding/award record, project page, final report, or changed host artifact.
+
+## 2026-08-08 — SRC-556/C-720–C-721 TEDx profile and linked-video boundary
+
+Discovery: the *Washington Free Beacon* fundraising investigation linked an archived TEDxLadbrokeGrove biography and a TEDx Durham YouTube video. The archive snapshot was distinct from the already-catalogued contemporary campaign pages and current institutional profiles.
+
+Capture: preserved the 8 April 2021 Wayback HTML and headers, the linked-image 404 response, and the current YouTube page, headers, and thumbnail for video ID `xbSX50Wfz6c`. The YouTube page’s embedded state identifies the video as private and requires sign-in.
+
+Decision: added SRC-556/C-720–C-721. The TEDx page is a dated organizer-bio source version, not independent verification of its biography claims; the video is an access-boundary record, not a recovered recording. Reopen only for a lawful archived video/file, transcript, changed YouTube state, or a primary record for one of the repeated claims.
