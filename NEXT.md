@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-346/C-889 — the BBC-distributed 40:09-ish *Best of Today* MP3 for 11 October 2024 is now committed to GitHub alongside its catalogue captures and artwork. The episode names Arday as a contributor, but no segment timecode or transcript has been verified. Reopen only for a reliable transcript, bounded listening pass, or changed BBC/podcast state.
+
 Fresh binary-preservation checkpoint: SRC-060/C-888 — the official 41:00-ish BBC Radio 4 *Moral Maze* “Racial Justice” MP3 is now committed to GitHub alongside its page snapshot and capture metadata. No transcript was exposed and no substantive audio claim was added. Reopen only for a transcript/caption artifact, changed BBC endpoint, or bounded listening pass.
 
 Fresh binary-preservation checkpoint: SRC-514/C-887 — the Guardian’s official 37:44 *Today in Focus* MP3 is now committed to GitHub alongside its page, RSS, image, headers, and bounded machine-assisted listening notes. Reopen for a human-verified listening/transcription pass or a changed Guardian episode state; do not treat the machine notes as verbatim or as adjudication.

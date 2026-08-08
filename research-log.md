@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-346/C-889: BBC *Best of Today* binary promoted to GitHub
+
+Audit: the canonical BBC episode record already contained catalogue snapshots, artwork, and a verified checksum for the BBC-distributed MP3, but the 40,197,249-byte audio binary remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`4088be05b5cdf0ed120a3b4f872422415fdb47ffd76d59ff8356a4d9153fe720`) against the source record and committed the audio. The episode remains a metadata-level participation record until Arday’s segment is timecoded or transcribed; no substantive claim was promoted.
+
 ## 2026-08-08 — SRC-060/C-888: BBC *Moral Maze* binary promoted to GitHub
 
 Audit: the canonical BBC *Moral Maze* record already contained the programme page and capture metadata, but its official non-DRM MP3 remained only in the working tree.
