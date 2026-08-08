@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-246/C-910` promoted the 11:15 St Mary’s honorary-doctorate address MP4 to the GitHub archive. The related page, captions, metadata, and images remain locally preserved; the ceremonial first-person windows are still caption-assisted pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-267/C-909` promoted the 10:25 Teachers Talk Radio BETT 2024 interview MP4, captions, metadata, and thumbnail to the GitHub archive. The interview remains a distinct media manifestation from the written BETT reflection; captions are unverified navigation material and no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-019/C-908` promoted the 4:14.86 Great Big Story documentary MP4 to the GitHub archive. The file’s checksum matches the canonical source record; captions were unavailable, so no transcript-level claims were added. Google Drive was not updated; GitHub remains the active publication target.

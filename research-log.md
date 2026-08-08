@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-246/C-910: St Mary’s honorary-doctorate address promoted
+
+Audit: the canonical *Made at St Mary’s* record already preserved the first-party alumni page, 11:15 YouTube address, automatic-caption files, metadata, page snapshot, and related images, but the MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 640×360 H.264/AAC MP4. The captioned windows concerning St Mary’s, support at 18, and thanks to his parents remain first-person ceremonial testimony and require audiovisual verification before quotation.
+
+Decision: added C-910 as an archive-integrity observation. This is a manifestation of the existing honorary-doctorate source family, not a second event or independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-267/C-909: BETT 2024 interview binary promoted
 
 Audit: the canonical Teachers Talk Radio record already documented the 10:25 YouTube interview, automatic captions, metadata, thumbnail, page snapshot, headers, and checksum, but its MP4 and sidecars were not tracked in Git.

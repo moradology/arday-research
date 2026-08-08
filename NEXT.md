@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-246/C-910 — the 11:15 St Mary’s honorary-doctorate address MP4 is now committed to GitHub. Its first-person ceremonial remarks and automatic-caption windows remain pending audiovisual verification; do not treat the binary as independent corroboration of the host biography. Reopen only for audiovisual verification or a changed source manifestation.
+
 Fresh media-integrity checkpoint: SRC-267/C-909 — the 10:25 Teachers Talk Radio BETT 2024 interview MP4 and sidecars are now committed to GitHub. Automatic captions remain unverified and no new substantive claim was promoted. Reopen only for audiovisual verification or a changed source manifestation; do not repeat the same YouTube ID.
 
 Fresh media-integrity checkpoint: SRC-019/C-908 — the 4:14.86 Great Big Story documentary MP4 is now committed to GitHub. Captions were unavailable, so the video remains a preserved primary media manifestation without transcript-level extraction. Reopen only for audiovisual verification, a caption/transcript recovery, or a distinct source version; do not repeat the same YouTube ID.
