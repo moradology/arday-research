@@ -2800,3 +2800,11 @@ Lead: the conference-programme sweep found an official two-page NEON Summit prog
 Capture: the PDF, response headers, extracted text, and rendered first page were preserved. Printed p. 1 schedules Arday as a 10:40 keynote speaker on 30 January 2019 and describes him as Senior Lecturer in Education at Roehampton.
 
 Decision: added SRC-571/C-745 as a planned-event/source-version record. No delivery, keynote content, or additional employment conclusion is inferred.
+
+## 2026-08-08 — SRC-206/C-746 QUB attachment recheck
+
+Lead: the older-programme search resurfaced the already catalogued Queen’s University Belfast 2019 academic-visit record, so its two advertised attachments were tested for changed access rather than duplicated.
+
+Capture: both the PDF and DOCX routes returned HTTP 403 Cloudflare challenge HTML. The bodies and response headers were preserved under a dated recheck directory.
+
+Decision: upgraded SRC-206 in place and added C-746. No attachment binary, recording, transcript, or seminar-content claim was added.

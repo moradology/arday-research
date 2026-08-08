@@ -441,6 +441,7 @@ Work from top to bottom. Check an item only after its records and indexes are up
 - [ ] Revisit SRC-569 only if the LJMU repository exposes a changed record, a distinct thesis version, or a direct institutional statement about the later review; the current record is a provenance/abstract manifestation deduplicated to SRC-087 and does not resolve research-integrity allegations.
 - [ ] Revisit SRC-570 only if ATU publishes a changed validation report, implementation record, or direct clarification of Arday’s panel role; the current PDF is a dated 2022 service record and does not establish later affiliation or programme outcomes.
 - [ ] Revisit SRC-571 only if NEON or another organizer publishes a post-event account, recording, transcript, or slides for the 30 January 2019 summit; the current programme establishes only a planned keynote and dated Roehampton role wording.
+- [ ] Keep SRC-206 closed at the current boundary unless QUB exposes a non-challenge attachment endpoint, transcript, or post-event account; the 8 August 2026 recheck returned HTTP 403 for both advertised files.
 
 ## Latest checkpoint — 2026-08-07
 

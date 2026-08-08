@@ -30,3 +30,14 @@ The QUB page establishes a dated institutional visit, seminar/network activity, 
 - [QUB activity page](../assets/documents/qub-jason-arday-activity-page-2026-08-06.html) — SHA-256 `47befd1e4441c9ed207962a5f40613de4e0195b1776b927343fe0f7b4acc90f5`
 - [PDF attachment Cloudflare boundary](../assets/documents/qub-negotiating-injustice-pdf-403-2026-08-06.html) — SHA-256 `15cdfe37c70a439be521369c5ffcc63c771e723c22e5fdef956ffeae1ed74e91`
 - [DOCX attachment Cloudflare boundary](../assets/documents/qub-negotiating-social-injustice-docx-403-2026-08-06.html) — SHA-256 `95e519a62e753b5754c2bb17327523d6a88314a25dbaa83bbd938d4e2ea03fb4`
+
+## 2026-08-08 attachment recheck
+
+Both attachment URLs were tested again on 8 August 2026. The PDF and DOCX routes returned HTTP 403 Cloudflare challenge HTML rather than their advertised file types. No seminar recording, document, transcript, or presentation binary was recovered.
+
+- [PDF-route 403 body](../assets/captures/2026-08-08-qub-attachments-recheck/event-access-boundary.html) — SHA-256 `6ec8bfc9bcc1777e1ba99fa2331cf91bae6050d284e564ed847c7d83e8d62bed`
+- [PDF-route headers](../assets/captures/2026-08-08-qub-attachments-recheck/event.headers.txt) — SHA-256 `4bca04b9dddc5cde0d98e1d117d3ec4084020cd9fd59fb55082d1c9e9e80ce1a`
+- [DOCX-route 403 body](../assets/captures/2026-08-08-qub-attachments-recheck/notes-access-boundary.html) — SHA-256 `9776e744da325457644497c00dce3438db65d3e9be6bc0aa20dfad281de7b25f`
+- [DOCX-route headers](../assets/captures/2026-08-08-qub-attachments-recheck/notes.headers.txt) — SHA-256 `660c6936b67d52c03a6bd9a2ed6464433f711b4003a013f4a38a294d2fb929d`
+
+The 403 responses are an access-state observation only. They do not establish that the attachments were removed, that the seminar was not delivered, or that its content had any particular substance.
