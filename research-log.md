@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-631/C-864: PrimeTimes controversy source-version
+
+Discovery: a current exact-name search surfaced PrimeTimes’ 24 July 2026 article by Sunnex Egbu, a secondary summary of the thesis-plagiarism allegations and the reported Cambridge/Liverpool John Moores response.
+
+Capture: the article returned HTTP 200; full HTML and response headers are preserved under `assets/captures/2026-08-08-primetimes-arday-allegations/`. The body contains an unrelated advertising injection, which is excluded from the source record.
+
+Decision: added SRC-631/C-864 as a low-confidence controversy-propagation witness. Its reported “cleared”/valid-PhD wording is deduplicated to direct institutional and broadcaster records and is not treated as an independent finding. Reopen only for a materially changed article, a primary quotation, or the underlying university document.
+
 ## 2026-08-08 — SRC-182: Liberated Library DOI-pair recheck
 
 Recheck: current DataCite API responses for `10.17613/dc03s-05j04` and `10.17613/635kx-wb026` retain the same presentation title, six creators including Jason Arday, 2018 issued year, Knowledge Commons publisher, and reciprocal version relationship. Normalized bibliographic fields are unchanged. Both Humanities Commons routes still return the same short HTTP 403 shell.

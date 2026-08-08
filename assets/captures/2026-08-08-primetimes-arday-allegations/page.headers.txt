@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 14:22:00 GMT
+content-type: text/html; charset=UTF-8
+x-dns-prefetch-control: on
+x-litespeed-cache-control: public,max-age=604800
+x-litespeed-tag: 356_post,356_URL.54645b490c026dc332cf6d26b8188245,356_Po.3247612,356_
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-litespeed-cache: miss
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J0Qm8uVfSANulSRy8WFC8ft4WZ0ELoxZdHhxiMtdTBAwSJEbE%2FElu0PCBq2xqgWK9CetrQKxkcYTsoaDgueBmby4icyAdaUdjGNiSTMmsMLeAYa6XyHSDkITwLEn9ODEU5aoDQ%3D%3D"}]}
+vary: Accept-Encoding,User-Agent
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+cf-ray: a27f2ba08b636d28-OMA
+
