@@ -1,0 +1,29 @@
+HTTP/2 200 
+accept-ranges: bytes
+age: 150701
+cache-control: public, max-age=31536000
+content-type: image/jpeg
+date: Thu, 06 Aug 2026 20:33:37 GMT
+etag: "Cobalt-1917393944"
+isf-country: US
+isf-hfa: V6767_/resources/02a8-2149153fafed-512bc2089920-1000/ardai_fi.jpeg_desktop
+isf-kc-date: 2026-08-06T20:33:37.407Z (150701 of 172800)
+isf-kc-ext-date: 2026-08-06T20:33:37.407Z (150701 of 194400)
+isf-kc-status: HIT
+isf-manipulation: W:AUTO;H:AUTO;Q:70 Max:1920 Prog:false Fit:false Dpr:false
+isf-origin-cache-control: -
+isf-quicksilver: quicksilver-7-mx3-7 | Cache: 4ms | Total: 63ms
+isf-req: r:GOOA6UKpf99HmQsugCbZ pd:37 pc:3 ec:true[HIT][Lvl:0] bi:mx3 cwv:0 loop:NOT-AVAILABLE be:/resources/02a8-2149153fafed-512bc2089920-1000/ardai_fi.jpeg
+isf-rum-pixel: false
+isf-transaction: GOOA6UKpf99HmQsugCbZ
+last-modified: Thu, 06 Aug 2026 20:28:48 GMT
+link: <https://www.adnkronos.com/assets/themes/desktop/styles/Fonts/Nunito_Sans/pe0qMImSLYBIv1o4X1M8cce9I95AcVwo.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin,  <https://www.adnkronos.com//assets/themes/mobile/styles/Fonts/Nunito_Sans/pe0qMImSLYBIv1o4X1M8cce9I95AcVwo.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin
+server: iSmartFrame
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-content-type-options: nosniff
+x-edge-location: mx3
+x-expired-content-served: false
+x-frame-options: SAMEORIGIN
+x-powered-by: iSmartFrame V1.8.1 Tokyo
+x-xss-protection: 1; mode=block
+

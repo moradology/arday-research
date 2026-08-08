@@ -1,0 +1,27 @@
+HTTP/2 200 
+age: 992
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-type: text/html;charset=UTF-8
+date: Sat, 08 Aug 2026 14:08:39 GMT
+etag: W/"Cobalt-1974391855"
+isf-country: US
+isf-hfa: V6767_/internazionale/esteri/arday-cambridge-professore-record_7CqR5DFJCBQepcgLzabwpa_desktop_bot
+isf-kc-date: 2026-08-08T14:08:39.238Z (992 of 172800)
+isf-kc-ext-date: 2026-08-08T14:08:39.238Z (992 of 194400)
+isf-kc-status: HIT
+isf-origin-cache-control: max-age=180, stale-if-error=86400, stale-while-revalidate=3600
+isf-quicksilver: quicksilver-2-mx3-8 | Cache: 6ms | Total: 70ms
+isf-req: r:pGgtL2JO78IUD1uisykJ pd:284 pc:4 ec:true[HIT][Lvl:0] bi:mx3 cwv:761 loop:NOT-AVAILABLE be:/internazionale/esteri/arday-cambridge-professore-record_7CqR5DFJCBQepcgLzabwpa
+isf-rum-pixel: false
+isf-transaction: pGgtL2JO78IUD1uisykJ
+last-modified: Thu, 06 Aug 2026 21:24:11 GMT
+link: <https://www.adnkronos.com/assets/themes/desktop/styles/Fonts/Nunito_Sans/pe0qMImSLYBIv1o4X1M8cce9I95AcVwo.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin,  <https://www.adnkronos.com//assets/themes/mobile/styles/Fonts/Nunito_Sans/pe0qMImSLYBIv1o4X1M8cce9I95AcVwo.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin
+server: iSmartFrame
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-content-type-options: nosniff
+x-edge-location: mx3
+x-expired-content-served: false
+x-frame-options: SAMEORIGIN
+x-powered-by: iSmartFrame V1.8.1 Tokyo
+x-xss-protection: 1; mode=block
+

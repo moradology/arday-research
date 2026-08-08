@@ -8,6 +8,14 @@ Capture: the article returned HTTP 200; full HTML and response headers are prese
 
 Decision: added SRC-631/C-864 as a low-confidence controversy-propagation witness. Its reported “cleared”/valid-PhD wording is deduplicated to direct institutional and broadcaster records and is not treated as an independent finding. Reopen only for a materially changed article, a primary quotation, or the underlying university document.
 
+## 2026-08-08 — SRC-632/C-865: Adnkronos international source-version and image
+
+Discovery: image search surfaced an Adnkronos report published 6 August 2026 about Arday’s resignation and the Cambridge investigation.
+
+Capture: the Italian page returned HTTP 200. Its HTML, headers, and the article-associated 590×442 JPEG still are preserved under `assets/captures/2026-08-08-adnkronos-arday-resignation/`.
+
+Decision: added SRC-632/C-865 as a secondary international journalism/source-version record. The article’s translated/editorial framing and repeated biography, fundraising, and allegations are not independent corroboration; the still is preserved as an image provenance artifact with unknown underlying video and reuse rights.
+
 ## 2026-08-08 — SRC-182: Liberated Library DOI-pair recheck
 
 Recheck: current DataCite API responses for `10.17613/dc03s-05j04` and `10.17613/635kx-wb026` retain the same presentation title, six creators including Jason Arday, 2018 issued year, Knowledge Commons publisher, and reciprocal version relationship. Normalized bibliographic fields are unchanged. Both Humanities Commons routes still return the same short HTTP 403 shell.
