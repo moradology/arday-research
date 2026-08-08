@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh review-clip sidecar checkpoint: SRC-263/C-944 — the Cambridge “Black Men On The Couch” record now has its automatic-caption copies, metadata JSON, thumbnail, and bounded 01:11:00–01:31:30 Arday-segment review clip committed to GitHub. The 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; captions remain navigation-only until human verification.
+
 Fresh sidecar-preservation checkpoint: SRC-271/C-943 — the UCU webinar’s automatic English captions, yt-dlp metadata, and thumbnail are now committed to GitHub alongside the opening review clip. The 187,205,146-byte parent remains local-only; captions remain machine-generated navigation material and require audiovisual verification.
 
 Fresh sidecar-preservation checkpoint: SRC-268/C-942 — the *Neurodivergent Show* automatic English captions, yt-dlp metadata, and thumbnail are now committed to GitHub alongside the two review clips. The 175,067,296-byte parent remains local-only; captions remain machine-generated navigation material and require audiovisual verification.

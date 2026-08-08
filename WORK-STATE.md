@@ -1,5 +1,7 @@
 # Work state
 
+Latest review-clip checkpoint: on 2026-08-08 `SRC-263/C-944` promoted the Cambridge “Black Men On The Couch” parent’s automatic-caption copies, metadata JSON, thumbnail, and a 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30. The 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; no transcript-level claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest sidecar-preservation checkpoint: on 2026-08-08 `SRC-271/C-943` promoted the UCU webinar’s automatic English captions, yt-dlp metadata, and thumbnail to GitHub alongside its opening review clip. The 187,205,146-byte parent remains local-only; captions remain machine-generated navigation material and no substantive claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest sidecar-preservation checkpoint: on 2026-08-08 `SRC-268/C-942` promoted the *Neurodivergent Show* automatic English captions, yt-dlp metadata, and thumbnail to GitHub alongside its two review clips. The 175,067,296-byte parent remains local-only; captions remain machine-generated navigation material and no clinical or childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-263/C-944: Cambridge panel sidecars and review clip promoted
+
+Archive action: promoted SRC-263’s automatic-caption copies, metadata JSON, thumbnail, and the existing 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30. The 287,422,026-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit.
+
+Decision: added C-944 as an archive-integrity observation. The sidecars make parent provenance inspectable and the bounded clip improves audiovisual handoff; neither is a human-verified transcript or a new substantive claim. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-271/C-943: UCU webinar sidecars promoted
 
 Audit: SRC-271 already had a GitHub opening review clip, but the source-linked automatic VTT, yt-dlp metadata, and thumbnail remained untracked while the 187,205,146-byte parent MP4 exceeded GitHub’s 100 MiB hard limit.

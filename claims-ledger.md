@@ -4,6 +4,7 @@ This ledger tracks propositions separately from sources. “Verified” means ve
 
 | ID | Claim | Status | Supporting / contesting sources | Notes |
 |---|---|---|---|---|
+| C-944 | The Cambridge “Black Men On The Couch” archive now includes the parent recording’s automatic-caption sidecars, metadata JSON, thumbnail, and a 48,473,641-byte Arday-segment review clip covering source interval 01:11:00–01:31:30; the 287,422,026-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB file limit. | verified archive-integrity observation; derivative institutional-video clip | [Black Men On The Couch record](sources/2023-10-25-cambridge-black-men-on-the-couch.md) | Sidecars and clip are preservation artifacts, not a human-verified transcript or new substantive claim. The parent SHA-256 remains the source-record integrity anchor. |
 | C-001 | Arday was appointed Professor of Sociology of Education at Cambridge in 2023. | verified | [Cambridge announcement](https://faculty.educ.cam.ac.uk/230223-jason-arday) | Institutional appointment record. |
 | C-002 | His stated research themes include race and higher education, intersectionality, mental health, neurodiversity, and cultural studies. | verified | [Cambridge profile](https://faculty.educ.cam.ac.uk/people/staff/arday/) | Describes the institution’s published profile. |
 | C-003 | He co-authored the 2023 article on race, neurodiversity, and higher education. | verified | [SAGE article](https://doi.org/10.1177/00380261231184357) | Publication metadata and article page. |
