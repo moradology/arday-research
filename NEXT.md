@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh integrity checkpoint: C-955 — repaired the Guardian *Today in Focus* listening-notes link so it resolves to the canonical source record. The notes remain machine-assisted and approximate; no audio claim was upgraded.
+
 Fresh reproducibility checkpoint: SRC-087/SRC-209/C-954 — bounded extracted-text derivatives for the Arday and Zwozdiak-Myers theses are now explicitly linked and hash-anchored on GitHub. The PDFs remain the primary page-integrity sources; no new overlap measurement or misconduct finding was added.
 
 Fresh complete-derivative checkpoint: SRC-058/C-953 — the complete 1:00:02.48 MMU LEED keynote is now available as a 57,636,236-byte AAC derivative on GitHub. The 847 MB parent MP4 remains local-only; the official SRT’s 81% accuracy warning and the PE-teacher self-description boundary remain explicit.

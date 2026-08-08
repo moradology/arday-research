@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — C-955: Guardian listening-notes provenance link repaired
+
+Audit: a tracked-Markdown relative-link check found the Guardian *Today in Focus* listening-notes file pointed four directory levels upward, so its canonical source link was broken from the archive.
+
+Repair: corrected the link to the repository-relative `sources/2026-08-07-guardian-today-in-focus-arday.md` path and rechecked the tracked Markdown link set. The link now resolves locally; the notes remain approximate machine-assisted paraphrase and are not upgraded to a transcript or adjudication. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-087/SRC-209/C-954: thesis text-navigation derivatives promoted
 
 Archive action: preserved and hash-anchored the bounded extracted-text derivatives already generated from the 401-page Arday thesis (`assets/documents/ljmu-thesis.txt`, 2,722 bytes, SHA-256 `7662ecc8573acac3a2ae09e06265006e4641fe03d71e84b0b9c9d2846ea12d27`) and the 370-page Zwozdiak-Myers comparator thesis (`assets/documents/research-integrity/zwozdiak-myers-2009-thesis.txt`, 2,711 bytes, SHA-256 `01fe6f410f9e0cbeed15a68078aaf091d5a552275826925d45c2e8e9ff18d3ab`).

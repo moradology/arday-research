@@ -1,5 +1,7 @@
 # Work state
 
+Latest archive-integrity checkpoint: on 2026-08-08 `C-955` repaired the tracked Guardian *Today in Focus* listening-notes link to the canonical episode record. The machine-assisted notes remain approximate and unverified; no substantive claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest reproducibility checkpoint: on 2026-08-08 `SRC-087/SRC-209/C-954` promoted bounded extracted-text derivatives for the Arday and Zwozdiak-Myers thesis PDFs. Their SHA-256 values and PDF-primary/text-navigation boundary are documented; no new overlap measurement or misconduct finding was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-058/C-953` created and promoted a 57,636,236-byte AAC derivative of the complete 1:00:02.48 MMU LEED keynote. The 847 MB parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived PE-teacher claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
