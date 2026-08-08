@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly index-state checkpoint: SRC-438/C-872 — Glasgow Enlighten’s author index was rechecked on 8 August 2026. It still lists the same four 2022 DOI-linked outputs; the changed HTML and generated timestamp are preserved, with no new publication node created. Reopen only for a changed DOI/title set, a distinct full-text manifestation, correction, or institutional response; do not repeat this unchanged index query.
+
 Fresh institutional changed-state checkpoint: SRC-289/C-871 — LJMU’s “Black researchers and professionals” URL returned HTTP 200 on 8 August 2026, but the captured HTML no longer contains “Jason” or “Arday”; the earlier listing and portrait remain preserved. Reopen only for a stable replacement page, a direct LJMU statement, or a concrete qualification/role record; do not interpret this absence as disavowal or an investigation result.
 
 Fresh scholarly page-state checkpoint: SRC-612/C-870 — QUB’s canonical Research Portal record for *Attempting to break the chain* was re-fetched on 8 August 2026. The article metadata and version labels remain unchanged, while the page now exposes 184 Scopus citations and 1,555 downloads; the changed HTML and headers are preserved. Reopen only for a substantive correction, direct QUB investigation document, or materially changed article/version state; do not treat portal metrics as quality evidence.

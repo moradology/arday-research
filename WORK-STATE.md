@@ -1,5 +1,7 @@
 # Work state
 
+Latest scholarly-index checkpoint: on 2026-08-08 `SRC-438/C-872` preserved a changed Glasgow Enlighten author-index response. The four listed 2022 outputs and DOI keys remain unchanged; only markup serialization and generated-page timestamp changed. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest institutional changed-state checkpoint: on 2026-08-08 `SRC-289/C-871` preserved an HTTP-200 LJMU “Black researchers and professionals” response whose HTML no longer contains Jason Arday, alongside the earlier page that did. This is a changed-page/negative-space observation only; no institutional meaning is inferred. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly page-state checkpoint: on 2026-08-08 `SRC-612/C-870` preserved a changed QUB Research Portal page for *Attempting to break the chain*. The current page displays 184 Scopus citations and 1,555 downloads, while article identity and version labels remain unchanged. This is a volatile repository-metrics state, not an adjudication. Google Drive was not updated; GitHub remains the active publication target.

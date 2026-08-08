@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-438/C-872: Glasgow author-index recheck
+
+Recheck: the University of Glasgow Enlighten author page returned HTTP 200 with a byte-distinct HTML body and a generated-page timestamp of 8 August 2026 at 22:32:14 BST. The same four 2022 DOI-linked works remain listed. A diff shows markup-serialization changes and the generated timestamp, not a new output or changed DOI/title set.
+
+Decision: preserved the recheck HTML and headers under SRC-438 and added C-872 as a bounded index-state observation. Existing DOI-level records remain canonical; no publication or authorship claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-289/C-871: LJMU profile changed-state recheck
 
 Recheck: the LJMU “Black researchers and professionals” URL returned HTTP 200, but the 212,560-byte captured HTML body was byte-distinct from the earlier 213,445-byte page and contained no “Jason” or “Arday” occurrence. The prior page listed Arday as a former lecturer, described LJMU qualifications, and linked a portrait.
