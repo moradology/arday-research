@@ -11,7 +11,7 @@ id: SRC-268
 - Captured: 2026-08-06
 - Type: interviewer-hosted video interview
 - Duration: 57:40
-- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved
+- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved; two reproducibility clips committed to GitHub
 
 ## What the source establishes
 
@@ -21,7 +21,7 @@ The automatic captions contain navigable first-person passages. At approximately
 
 ## Local preservation
 
-- MP4: `assets/videos/TaxZ_1-GJqI.mp4` — SHA-256 `ae9f50b22c0daa16267321c3fb8c595d9342d9755796f2ae1cc66a345419da8e`
+- MP4: `assets/videos/TaxZ_1-GJqI.mp4` — SHA-256 `ae9f50b22c0daa16267321c3fb8c595d9342d9755796f2ae1cc66a345419da8e`; 175,067,296 bytes and remains local-only because it exceeds GitHub’s 100 MiB hard limit.
 - Automatic English captions: `assets/videos/TaxZ_1-GJqI.en.vtt` — SHA-256 `60520390f068ce550fd0c503ca13f593e17670ff30393ed54ea19fe4989d6040`; not human-verified.
 - Metadata: `assets/videos/TaxZ_1-GJqI.info.json` — SHA-256 `5c9effc5c9c44358577f0cd3df4ead2fb22ae380fb29355e0a26635ebb737732`
 - Thumbnail: `assets/videos/TaxZ_1-GJqI.webp`
@@ -32,4 +32,5 @@ The automatic captions contain navigable first-person passages. At approximately
 
 - [Diagnosis passage clip, approximately 02:33–03:01](../assets/videos/clips/neurodivergent-show/01-diagnosis-age-three-02m33-03m01.mp4) — 28 seconds; SHA-256 `7b6c44ff05dbeab2a41f053211f7423e99401c4d55637bb30e174349b0bc6d80`.
 - [First-word passage clip, approximately 05:20–05:57](../assets/videos/clips/neurodivergent-show/02-first-word-05m20-05m57.mp4) — 37 seconds; SHA-256 `7ab25054e8ec8d544ef524dce0ae3292e6c7f45b8fa8a2c92c6379079a16ee19`. This remains a reproducibility aid, not a verified transcript.
+- The two clips above are now committed to GitHub. They are derivatives of the parent MP4, not independent source manifestations; the parent hash remains the integrity anchor.
 - The 06:08–07:12 literacy/Sandro window remains represented by the full MP4 and VTT only; extraction was attempted again on 8 August but the local encoder process was killed before a clip was produced.

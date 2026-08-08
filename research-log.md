@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-268/C-933: Neurodivergent Show review clips promoted
+
+Audit: SRC-268 already documented a 175,067,296-byte parent MP4, automatic captions, and two short caption-window derivatives, but the derivatives were not tracked in Git. The parent exceeds GitHub’s 100 MiB hard limit.
+
+Archive action: checksum-validated and committed the diagnosis-window and first-word-window MP4 clips. The parent hash remains the integrity anchor, and the full MP4 remains local-only.
+
+Decision: added C-933 as an archive-integrity observation. The clips make the existing source-version leads easier to review, but they are not independent sources and do not turn machine captions into verified transcription or clinical evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-198/C-932: Research Cast UK listening clips promoted
 
 Audit: SRC-198 already documented a 107,519,809-byte parent MP3, Whisper segment JSON, and three timestamp-focused clips, but the clips were not tracked in Git. The parent is above GitHub’s 100 MiB hard limit.

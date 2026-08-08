@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh clip-preservation checkpoint: SRC-268/C-933 — the two caption-window review clips covering the diagnosis and first-word passages are now committed to GitHub. The 175,067,296-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; both clips remain derivative navigation aids and require audiovisual verification before quotation.
+
 Fresh audio-boundary checkpoint: SRC-198/C-932 — three timestamp-focused Research Cast UK listening clips are now committed to GitHub with the 107,519,809-byte parent MP3 hash retained as the integrity anchor. The parent exceeds GitHub’s 100 MiB hard limit; the clips remain derivative navigation aids and C-117–C-119 still require manual listening before transcript-level biography claims.
 
 Fresh video-preservation checkpoint: SRC-210/C-931 — the 64,075,107-byte Sage *Social Science Space* interview MP4 is now committed to GitHub alongside its automatic captions, metadata, thumbnail, transcript-bearing publisher page, and oEmbed capture. The recording documents Arday as interviewer and series-editor subject-version; human listening remains required before treating caption windows as verbatim quotations.
