@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-873/C-873: Ruling Passions handbook recovered
+
+Discovery: Sheffield Hallam University Research Archive’s published 2023 *Ruling Passions: A Research Informed Handbook* was found as a distinct project document. The handbook was made for the ESRC Festival of Social Sciences and its printed p. 56 podcast guide names Jason Arday as Episode 2 guest, summarizing race, autistic masking, vulnerability, motivation, academic expectations, and music.
+
+Decision: preserved the 1,929,207-byte PDF, extracted text, and response headers as SRC-873, linked them to the existing interview record, and added C-873. The guide strengthens episode provenance and topic topology but is not a transcript or independent corroboration of the interview’s autobiographical material. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-438/C-872: Glasgow author-index recheck
 
 Recheck: the University of Glasgow Enlighten author page returned HTTP 200 with a byte-distinct HTML body and a generated-page timestamp of 8 August 2026 at 22:32:14 BST. The same four 2022 DOI-linked works remain listed. A diff shows markup-serialization changes and the generated timestamp, not a new output or changed DOI/title set.

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 22:38:29 GMT
+Server: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.5 mod_perl/2.0.12 Perl/v5.32.1
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: frame-ancestors 'self'
+Vary: User-Agent
+ETag: 3a5c702884c8395e51d11c86730931d0
+Content-MD5: OlxwKITIOV5R0RyGcwkx0A==
+Last-Modified: Mon, 28 Apr 2025 11:30:04 GMT
+Expires: Sun, 08 Aug 2027 22:38:29 GMT
+Content-Disposition: inline; filename=Ruling%20Passions%20Handbook%20PRINT.pdf
+Accept-Ranges: bytes
+Content-Length: 1929207
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Type: application/pdf
+

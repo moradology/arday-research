@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh project-document checkpoint: SRC-873/C-873 — Sheffield Hallam’s published 2023 *Ruling Passions* handbook is now locally preserved. Printed p. 56 identifies the Jason Arday Episode 2 and its topic framing, strengthening episode provenance without adding transcript-level claims. Reopen only for the full lawful audio, a caption/transcript artifact, or a distinct project document; do not count the handbook as a second interview.
+
 Fresh scholarly index-state checkpoint: SRC-438/C-872 — Glasgow Enlighten’s author index was rechecked on 8 August 2026. It still lists the same four 2022 DOI-linked outputs; the changed HTML and generated timestamp are preserved, with no new publication node created. Reopen only for a changed DOI/title set, a distinct full-text manifestation, correction, or institutional response; do not repeat this unchanged index query.
 
 Fresh institutional changed-state checkpoint: SRC-289/C-871 — LJMU’s “Black researchers and professionals” URL returned HTTP 200 on 8 August 2026, but the captured HTML no longer contains “Jason” or “Arday”; the earlier listing and portrait remain preserved. Reopen only for a stable replacement page, a direct LJMU statement, or a concrete qualification/role record; do not interpret this absence as disavowal or an investigation result.
