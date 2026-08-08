@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-276/C-941 — the complete 13:24 RSC Inclusion and Diversity Forum recording is now available as a 26,236,081-byte cellular `.m4v` derivative on GitHub. The 111,253,519-byte master remains local-only; the caption endpoint is still zero-byte and Arday’s segment remains untimecoded.
+
 Fresh review-clip checkpoint: SRC-057/C-940 — a 25,980,033-byte opening clip from the Bristol/British Academy “Story of Graceland” lecture is now committed to GitHub. The 183,882,527-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the clip is a bounded event-review derivative, not a separate source.
 
 Fresh complete-derivative checkpoint: SRC-183/C-939 — the complete 6:39 CBS News interview is now available in a 13,054,998-byte cellular-quality `.m4v` derivative on GitHub. The 149,146,322-byte 1920×1080 master remains local-only; the derivative is a review copy, not a substitute for the master or a transcript.

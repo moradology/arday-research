@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 published: 2025-04
 event_date: 2025-03-25
 accessed: 2026-08-07
-status: Official RSC event report and official YouTube recording locally preserved; current caption endpoint empty
+status: Official RSC event report and official YouTube recording locally preserved; complete cellular derivative committed to GitHub; current caption endpoint empty
 evidence_class: first-party professional-body event report and host-published video
 urls:
   - https://www.rsc.org/events/detail/80493/inclusion-and-diversity-forum-2025
@@ -43,3 +43,6 @@ The direct report-PDF URL surfaced by the RSC publication search was also rechec
 - [YouTube recheck page](../assets/captures/2026-08-07-rsc-youtube-recheck/page.html) — 1,287,393 bytes; SHA-256 `95b29a0de59ac68b39e6042a8424a31bf7b0b5bd27905b391f7e1257b0ffeb48`.
 - [Empty caption response](../assets/captures/2026-08-07-rsc-youtube-recheck/caption.empty) — 0 bytes; SHA-256 `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`; [response headers](../assets/captures/2026-08-07-rsc-youtube-recheck/caption.headers.txt) record HTTP 200 and zero content length.
 - [Report-PDF recheck response](../assets/documents/rsc-inclusion-diversity-forum-2025-report-429.html) — 185-byte HTTP 429 HTML response; SHA-256 `9d00b41a7b98a9eb4f7a3d3fb7610790bbbcbf24487ef6cf6efb10bd84c47392`; [headers](../assets/documents/rsc-inclusion-diversity-forum-2025-report-429.headers.txt).
+- [Complete cellular derivative](../assets/videos/derivatives/rsc-inclusion-diversity-forum-2025-cellular.m4v) — 26,236,081 bytes; SHA-256 `4d8d06ffc4cecd7df6f24676bb41a5818b795166b4fda9fc5663709a6e3ae4f7`.
+
+The derivative preserves the complete 13:24 event video in lower-quality form; it is not the source master or a transcript. The 111,253,519-byte master hash remains `9428506234ca3255221ec08fa3a2da652c9c97dda45b1bc0c32d1548c6652aa3` and the original remains local-only because it exceeds GitHub’s 100 MiB hard limit. The zero-byte caption endpoint and untimecoded Arday segment boundary remain unchanged.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest complete-derivative checkpoint: on 2026-08-08 `SRC-276/C-941` created and promoted a 26,236,081-byte cellular-quality derivative of the complete RSC Inclusion and Diversity Forum recording. The 111,253,519-byte master remains local-only; the zero-byte caption endpoint, report-PDF HTTP 429, and untimecoded Arday segment remain explicit. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest review-clip checkpoint: on 2026-08-08 `SRC-057/C-940` created and promoted a 25,980,033-byte opening clip from the Bristol/British Academy “Story of Graceland” lecture. The 183,882,527-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the derivative is an event-review aid, not a separate source. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-183/C-939` created and promoted a 13,054,998-byte cellular-quality derivative of the complete CBS News interview. The 149,146,322-byte 1920×1080 master remains local-only; the derivative is a review copy and the interview’s childhood/family content remains attributed testimony. Google Drive was not updated; GitHub remains the active publication target.

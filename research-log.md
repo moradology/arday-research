@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-276/C-941: complete RSC forum derivative created
+
+Audit: SRC-276 documented a complete 13:24 RSC YouTube recording at 111,253,519 bytes, just above GitHub’s 100 MiB hard limit, with an empty caption endpoint and an untimecoded Arday segment.
+
+Archive action: created and checksum-verified a complete 26,236,081-byte cellular-quality `.m4v` derivative. The original MP4 hash remains the integrity anchor and the master remains local-only.
+
+Decision: added C-941 as an archive-integrity observation. The derivative makes the complete professional-body event reviewable from GitHub but does not supply a transcript or timecode Arday’s presentation. The missing-caption and report-PDF access boundaries remain unchanged. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-057/C-940: Bristol Graceland opening clip created
 
 Audit: SRC-057 documented the Bristol/British Academy “Story of Graceland” event and a 183,882,527-byte official YouTube recording, above GitHub’s 100 MiB hard limit. Complete cellular and low-quality transcode attempts did not produce a publishable under-limit complete file.
