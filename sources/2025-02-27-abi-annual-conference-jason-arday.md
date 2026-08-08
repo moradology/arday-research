@@ -4,11 +4,12 @@ type: institutional event and speaker-profile record
 title: "Association of British Insurers Annual Conference 2025 — Jason Arday"
 subject: ../entities/jason-arday.md
 date: 2025-02-27
-accessed: 2026-08-06
-status: verified event programme; indexed speaker biography; direct profile and PDF endpoints 403
+accessed: 2026-08-08
+status: verified event programme; indexed speaker biography; direct profile and PDF endpoints 403; alternate agenda filename rechecked
 evidence_class: first-party event programme / indexed institutional biography / access-boundary capture
 urls:
   - https://www.abi.org.uk/globalassets/images/events/2025/annual-conference-2025/annual-conference-2025-agenda-190225.pdf
+  - https://www.abi.org.uk/globalassets/images/events/2025/annual-conference-2025/annual-conference-2025-agenda-210225.pdf
   - https://www.abi.org.uk/events/abi-conference-hub-2025-live/jason-arday/
   - https://www.abi.org.uk/events/abi-conference-hub-2025/jason-arday2/
 ---
@@ -40,3 +41,7 @@ The ABI speaker-profile endpoints were rechecked after a current indexed result 
 - [Alternate-profile 2026-08-07 headers](../assets/documents/abi-2025-jason-arday2-profile-2026-08-07.headers) — SHA-256 `ee1394a214d42130533d37b764f8a92996801ec9c8e7dc6474bebb4c0cf87564`
 - [Live-profile 2026-08-07 body](../assets/documents/abi-2025-jason-arday-live-profile-2026-08-07.html) — SHA-256 `a0ea745794fadbe200abd44bdc543cc99f5e4ee58326c0e0d44e03d7503a936d`
 - [Live-profile 2026-08-07 headers](../assets/documents/abi-2025-jason-arday-live-profile-2026-08-07.headers) — SHA-256 `c65554869e8ea85554cad714e0bbf5c709f523857b73ba887c14972a98812162`
+
+## Current agenda-route recheck — 2026-08-08
+
+The alternate indexed agenda filename ending `210225.pdf` was fetched directly and returned the same ABI challenge HTML rather than a PDF (HTTP 403). The body and headers are preserved under the working-tree capture [agenda recheck](../assets/captures/2026-08-08-abi-agenda-recheck/). No new programme page, recording, transcript, or delivery evidence was recovered.

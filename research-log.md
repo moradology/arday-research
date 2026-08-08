@@ -1719,6 +1719,14 @@ Capture: the alternate profile produced a web/browser 404 state, while direct sh
 
 Evidence handling: this is a changed access-state/source-version update, not new confirmation of any appointment or event delivery. No claim was created; the indexed biography remains dated ABI copy and is reconciled against direct host/legal records.
 
+# 2026-08-08 — SRC-225: ABI agenda route recheck
+
+Discovery: a current indexed result exposed a second ABI agenda filename, `annual-conference-2025-agenda-210225.pdf`, alongside the previously catalogued `190225.pdf` route.
+
+Capture: the alternate route returned HTTP 403 challenge HTML rather than a PDF. The response body and headers are preserved under `assets/captures/2026-08-08-abi-agenda-recheck/`; no new agenda, recording, transcript, or delivery evidence was recovered.
+
+Decision: updated SRC-225 with the alternate route and access state. No new source node or claim was created. Reopen only for a lawful agenda binary, post-event report, recording, transcript, or changed endpoint.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
