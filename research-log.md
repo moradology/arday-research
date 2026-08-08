@@ -8,6 +8,14 @@ Capture: preserved fresh DataCite JSON/headers and Humanities Commons HTML/heade
 
 Decision: updated SRC-182 in place; no new claim or duplicate work was created. Reopen only for a changed DOI record, lawful Humanities Commons file, transcript, slide deck, recording, or distinct event artifact.
 
+## 2026-08-08 — SRC-630/C-862: Emerald teacher-education volume manifestation
+
+Discovery: an exact-title search surfaced Emerald’s current bookstore route for *Teaching About Social Justice Issues in Physical Education*. Its indexed publisher rendering identifies Arday’s chapter 15, “Equality and Diversity in Teacher Education: Developing an Understanding of Race and Ethnicity in the Classroom,” and reports the 19 August 2019 hardback ISBN `9781641137201`.
+
+Capture: the live bookstore route returned Cloudflare HTTP 403; HTML and headers are preserved under `assets/captures/2026-08-08-teacher-education-emerald-bookstore/`. No chapter binary was recovered.
+
+Decision: added SRC-630/C-862 as a publisher source-version deduplicated to SRC-074. It strengthens edition/contents provenance without upgrading the unresolved DOI or chapter text.
+
 ## 2026-08-08 — SRC-629/C-861: Bloomsbury UK manifestation of *The Fire Now*
 
 Discovery: an exact DOI/title search surfaced Bloomsbury’s UK product page as a distinct official publisher manifestation. Its indexed rendering names Arday’s chapter and exposes the host book’s 15 November 2018 date, 304-page extent, ISBN `9781786993793`, Zed Books imprint, and chapter placement.
