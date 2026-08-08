@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-157/C-950: complete ARU Unlearn audio segmented for GitHub
+
+Archive action: converted the 563,815,460-byte parent MP4 into three complete AAC `.m4a` segments: 56,484,181 bytes for 00:00–30:00, 56,456,673 bytes for 30:00–60:00, and 65,782,921 bytes for 60:00–1:35:35.02. Their SHA-256 values are `fdfd8552b99fd3fc50af61175fd375d5f20f992e623e65356f36b0cf92b622c1`, `d9f0dc52e937aa6be6b0031fec7eba84b9694db0edd26bd3d875c8f0f3e9a8bb`, and `dd5c040cd517d49dba662245682123f1338d25aa4d20e23dfd3590922650d2b6`; each passed `afinfo` duration/format inspection and FFmpeg decode validation.
+
+Decision: added C-950 as an archive-integrity observation. The segmented set closes the GitHub handoff gap for the complete recording without dropping the parent or treating the derivatives as a transcript. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-031/C-949: complete UCL keynote audio derivative created
 
 Archive action: converted the 248M parent MP4 to a complete 79,874,586-byte AAC `.m4a` derivative. The derivative runs 42:07.72, passed `afinfo` duration/format inspection and an FFmpeg decode validation, and has SHA-256 `b324d06a25ea7da36cbfd9aedd5be05cf1e8e71b6dd597eb2702e172811a4d03`.
