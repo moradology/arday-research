@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-publication lead: on 2026-08-08 `SRC-522/C-666` captured The Harbour Bookshop’s July–August 2026 *Booktime Magazine* listing, which advertises a Jason Arday memoir interview on p. 29. The product page/JSON and cover are preserved, but no magazine PDF, page image, or interview text was exposed. This is a source-version/access-boundary record, not new biographical evidence.
+
 Latest UKRI access checkpoint: on 2026-08-08 `SRC-521/C-665` rechecked the canonical Gateway to Research person URL after indexed results continued to show Jason Arday/EDICa. The direct response remains byte-identical “Kevin Wilson” HTML with no Arday/EDICa content. This preserves an unchanged official access/identity mismatch; C-120 remains bounded to the indexed manifestation and no new substantive funder claim was added.
 
 Latest podcast-topology checkpoint: on 2026-08-08 `SRC-520/C-664` captured Apple Podcasts’ UK manifestation of the existing *Full Disclosure with James O’Brien* episode (20 April 2023, season 2 episode 133, structured duration 1:07:18). The page exposes a Captivate stream but no new audio item; it is deduplicated to SRC-034, whose MP3 remains canonical. Reopen only for a transcript, changed metadata, or a distinct recording.

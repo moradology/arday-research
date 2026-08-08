@@ -1,0 +1,38 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 03:35:15 GMT
+content-type: text/html; charset=utf-8
+content-length: 62586
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=GB; path=/; expires=Sun, 08 Aug 2027 03:35:15 GMT; SameSite=Lax
+set-cookie: cart_currency=GBP; path=/; expires=Sat, 22 Aug 2026 03:35:15 GMT; SameSite=Lax
+set-cookie: _shopify_y=1f24cbd4-e2e8-4673-bf5a-883b72db4ecd; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 09:35:15 GMT; SameSite=Lax
+set-cookie: _shopify_s=34889c1f-8fa3-45bd-ac9b-8ca92c6774ac; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 04:05:15 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AZ_fcG5lAAEAZv50f65SPx6dQ68u6ZukVIG9Ag8eXt2W6nKhF7GB01qb92JZFNg-w_-lqQPbAAIA73RTtYrpVLdudY1R0BBBsoE1EWjLDEQkeNgE5OnCQmgTOfQLbuOmZ36w2V6hZ3SZhrCSj3YF-tciLzuehBiWH3VBY-RctqoQqeM9y5z_HepfvD6bobxXPUVwyvlJeaRPVCNpZ1eSgqy7legG1D7zYICuTaM4GiTlv8M9WGh9osIvs9VkSipmUMJfrfWnsYBpAJPtH-CElhizBbBHAXQi51CgfXa7NVjtTNhsmPzALOcRCtxumfO0ilMnjmntBEtukCZQqve2x0lGVqymo9NJs1QgG7f9Ri5KsKPdQ5rea1HabE6RzlEYeZm_kLQdNUR5f60RAr2wMBlf8EVrBBqe2m22nu01GjHyUIu4fETaxOdfRkaO-pfxJ6puRMNQ2kX1SWr9Q72h9Vgmq9amJN-aTs776dyUlfeG7rSyiemXaEtIg3eU5aAlqoJXq36OMW0-CeJ4ltXUIB9YHdbDujaEwr1Nb1l6VYtcrYpFbQmZm9f7eLQk7IdUPw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AZ_fcG77AAEAD7tfhIEe1mpjIoIOzYZfEcNzRoREkZKTXTdW9GBzCfssyrYWygQDCLXvyDUsb6V5LS-hSDZA0XPFs4Tw13SG5SXMDzPs85-yiG6DbBOlrZnACTGp8pkDP4o294Pnma4V6itYm083QqpE8cUN0X1lLXbM-T1pklzRFN2axjfAJGx013aT-CQN-erq9CAdjxlWZPPijlB_DQB7cNn3Iw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AZ_fcG77AAEAp_3iWgKFiH7mGoko6FEMubxPUskGHqhhiN5sIP8Kd_qLxrWsyXWeKwIB6thSoF4qjx2P0VKBx6zDSci3JdCpj9yYx7NExxAxNn6eZq5RNGRjtNZ7XHsnAw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://storefront-agent-server.shopify.ai>; rel="preconnect", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/fancybox.css?v=30466120580444283401714067187>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/styles.css?v=5821402451730318981759333439>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/base.css?v=21866005406391207421715105650>; as="style"; rel="preload", <https://cdn.shopify.com/extensions/019ef306-2759-7ade-a464-16a3c1688076/giftsy-9/assets/load-tex-wrapin.css>; as="style"; rel="preload", <https://www.harbourbookshop.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as="style"; rel="preload"; crossorigin
+etag: "page_cache:17016275:ProductDetailsController:7938cd3145b8ccb93e0584fe5c1aec5c"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 0
+shopify-complexity-score-v2: 161
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+alt-svc: h3=":443"; ma=86400
+content-language: en-GB
+powered-by: Shopify
+server-timing: processing;dur=166, db;dur=42, render;dur=81, asn;desc="14155", edge;desc="OMA", country;desc="US", theme;desc="140075139299", pageType;desc="product", servedBy;desc="9qcd", requestID;desc="22d145b3-ca5e-4cd0-964b-b6ec6b4baf85-1786160115", _y;desc="1f24cbd4-e2e8-4673-bf5a-883b72db4ecd", _s;desc="34889c1f-8fa3-45bd-ac9b-8ca92c6774ac", _cmp;desc="3.AMPS_USKS_f_f_jZmYJTyzRYq4C1Nc62-RUA", compressionLevel;desc="5", compressionTime;dur=9.616
+x-permitted-cross-domain-policies: none
+server: cloudflare
+x-xss-protection: 1; mode=block
+x-request-id: 22d145b3-ca5e-4cd0-964b-b6ec6b4baf85-1786160115
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gatFjO2k73%2FektOErFUayE7WHivOPVXTchr3T5IxEBi7zpoM0uFrMkrlTAsl0VbU5Ydf3p%2BDDGXwCB0m7BPrSPHHGE0BuWqkWXEze6BhTXSiRee1MNV5Jg44la5db75meWbPYmT09wE6ytY%3D"}]}
+x-content-type-options: nosniff
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+cf-ray: a27b78505a45d3d3-OMA
+

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-publication lead: SRC-522/C-666 — The Harbour Bookshop’s July–August 2026 *Booktime Magazine* listing says a Jason Arday memoir interview appears on p. 29. Product HTML/JSON, headers, and cover are preserved, but the advertised “FREE TO DOWNLOAD” endpoint exposed no magazine PDF or interview text. Reopen only for a lawful magazine file, page-29 image, mirror, or interview body; do not infer contents from the listing.
+
 Fresh UKRI access checkpoint: SRC-521/C-665 — the canonical Gateway to Research person URL was rechecked on 8 August 2026 and remains byte-identical to the prior “Kevin Wilson” page, with no Arday/EDICa content. Keep C-120’s indexed Arday/EDICa result separate from the direct response; reopen only for a changed official endpoint, stable API/result route, or another first-party UKRI artifact.
 
 Fresh podcast-topology checkpoint: SRC-520/C-664 — Apple Podcasts’ UK page confirms the existing *Full Disclosure with James O’Brien* episode as season 2, episode 133, published 20 April 2023, with structured duration 1:07:18 and a Captivate stream. It is deduplicated to SRC-034; do not create a second audio record. Reopen only for a transcript, materially changed episode metadata, or a distinct recording.
