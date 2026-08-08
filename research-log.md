@@ -2421,6 +2421,14 @@ Discovery: followed SRC-536’s explicit implementation lead. LSTM’s own recor
 Capture: preserved the 2022 response HTML, headers, and article image; downloaded the 52-page action-plan PDF with extracted text, headers, and representative rendered pages; preserved the 2026 award page, headers, and article image; and captured the EDI-route redirects/final HTML. The response records full acceptance of the review’s findings, an implementation lead, a planned action plan, and six-month reporting. The plan covers 2022–2025, establishes REAG governance, names six themes, and identifies initial priorities with Arday. The 2026 announcement records the Bronze Award and a five-year action-plan framing.
 
 Decision: register SRC-537, SRC-538, and SRC-539 as distinct institutional-response/action/outcome records, not duplicate manifestations of SRC-536. Register SRC-540 as a negative-space/access-state record; do not treat indexed EDI snippets as a current page capture. Add C-683–C-686 and keep implementation commitments, planned actions, accreditation outcome, and individual Arday involvement carefully separated.
+
+## 2026-08-08 — SRC-541–SRC-544/C-687–C-691: LSTM progress and external-register follow-up
+
+Discovery: followed the response sequence into LSTM’s later annual reporting and Advance HE’s own register. The 2023–24 ED&I report documents progress under the Race Equity Action Plan and a planned November 2025 Bronze submission. The 2024–25 annual report documents a new ED&I Strategy and preparation of the submission. Advance HE’s current signatory table lists LSTM at Bronze level. LSTM’s current EDI page provides a live overview of the governance/reporting structure.
+
+Capture: downloaded the 13-page 2023–24 ED&I report and 21-page 2024–25 annual report with extracted text, headers, and representative renders; preserved Advance HE’s register HTML/headers; and preserved the current LSTM EDI page/headers.
+
+Decision: register SRC-541–SRC-544 as distinct progress, annual-report, external-register, and current-page records. Add C-687–C-691. The sequence supports an institutional implementation/accreditation timeline, but does not establish that Arday remained involved after the stated 18-month support period or that every recommendation was completed. The original indexed EDI route remains separately preserved as SRC-540 because it redirected during direct capture.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.

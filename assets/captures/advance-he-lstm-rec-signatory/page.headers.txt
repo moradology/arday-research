@@ -1,0 +1,47 @@
+HTTP/2 301 
+date: Sat, 08 Aug 2026 05:03:22 GMT
+content-type: text/html; charset=UTF-8
+location: /membership/equality-charters/race-equality-charter/signatories/
+cf-ray: a27bf9613abf06b5-OMA
+cf-cache-status: DYNAMIC
+age: 0
+cache-control: max-age=3600, s-maxage=2592000
+expires: Sat, 08 Aug 2026 06:03:22 GMT
+server: cloudflare
+x-cache: MISS
+x-redirect-by: redirection
+vary: accept-encoding
+set-cookie: __cf_bm=QuR94Q01xbR8X3pf29nCJxJ_BKzkuNjPe6ob06Eud9s-1786165401.7911515-1.0.1.1-iAuv9Hj0EJlNnLv9kk30wMeC3aWy3ajb9X8DGuZCQ4rh6mImP3xrmptMJlg83p3ffJG0qxh6fCcbmxr1RJMFmn_PceAtz9ODun2wemdpgSHb_U_S7R55HtshHW8Pz8lW; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 301 
+date: Sat, 08 Aug 2026 05:03:22 GMT
+content-type: text/html; charset=UTF-8
+location: https://advance-he.ac.uk/membership/equality-charters/race-equality-charter/signatories/
+cf-ray: a27bf964effb06b5-OMA
+cf-cache-status: DYNAMIC
+age: 0
+cache-control: max-age=3600, s-maxage=2592000
+expires: Sat, 08 Aug 2026 06:03:22 GMT
+server: cloudflare
+x-cache: MISS
+x-redirect-by: WordPress
+vary: accept-encoding
+set-cookie: __cf_bm=Q71qF9kijynBkZormS5BRf70NE22E8H.7AlkyUNrAYE-1786165402.3893535-1.0.1.1-BL9Hk7VB0UNRVOCKJKwPU8MzxOtJnKffM_vY13UaOW_RyIfPVOeZkmo.Zln_mk_co4HGB06z.svX4BADxb77zGa81Oou1Z.HZ9Q0BYZFSQEm019Cyj.mGejuKkcASkc8; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:03:23 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27bf968f8e9d8ce-OMA
+cf-cache-status: DYNAMIC
+age: 4058
+cache-control: max-age=0, s-maxage=2592000
+expires: Sat, 08 Aug 2026 03:55:44 GMT
+link: <https://advance-he.ac.uk/wp-json/>; rel="https://api.w.org/", <https://advance-he.ac.uk/wp-json/wp/v2/pages/10967>; rel="alternate"; title="JSON"; type="application/json", <https://advance-he.ac.uk/?p=10967>; rel=shortlink
+server: cloudflare
+vary: Accept-Encoding, Accept-Encoding
+x-cache: HIT
+set-cookie: __cf_bm=9YtqEny6RhnMBnvGqUQR.ILDf7hXfKGzqPzXf08sSTk-1786165403.0383513-1.0.1.1-GEA4i8qBjHBaa6SK_e_PWzuwsJ29PX_Bfy9prv6i0Yq1y_pNhkxt71uGJT6IJxsO_iZraVgnNJLUDj.WQKcxf.3Lvfur0_IznkbJK4f.t.HgFdCDlEPu16YRjtNgLY6e; HttpOnly; SameSite=None; Secure; Path=/; Domain=advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:23 GMT
+alt-svc: h3=":443"; ma=86400
+

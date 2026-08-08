@@ -132,6 +132,10 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [LSTM report response](sources/2022-02-14-lstm-report-response.md) — 14 February 2022; LSTM’s acceptance of the review, implementation commitments, and six-month reporting promise, with local page and image.
 - [LSTM Race Equity Action Plan](sources/2022-10-lstm-race-equity-action-plan.md) — October 2022, 52-page follow-up plan establishing REAG governance and six implementation themes; PDF, text, headers, and rendered QA pages preserved.
 - [LSTM Race Equality Charter Bronze Award](sources/2026-03-04-lstm-race-equality-charter-bronze.md) — March 2026; institutional announcement of the Bronze Award and five-year anti-racism action-plan framing, with local page and image.
+- [LSTM ED&I Report 2023–2024](sources/2023-2024-lstm-edi-annual-report.md) — 13-page progress report documenting Race Equity Action Plan implementation, REAC governance, and the planned Bronze submission; PDF, text, headers, and renders preserved.
+- [LSTM Annual Report 2024–2025 — EDI section](sources/2024-2025-lstm-annual-report-edi.md) — later institutional report documenting the new ED&I Strategy and Race Equality Charter submission preparation.
+- [Advance HE Race Equality Charter register](sources/2026-08-08-advance-he-lstm-rec-signatory.md) — external register listing LSTM at Bronze level, with local HTML and headers.
+- [LSTM current EDI overview](sources/2026-08-08-lstm-edi-current-page.md) — current governance/strategy/report navigation page, preserved as a dated source-version.
 
 - [*The Black Curriculum: Black British History in the National Curriculum Report*](https://niromp.org/wp-content/uploads/2020/11/19588-tbc2021report.pdf) — authored by Jason Arday; argues that Black British history is systematically underrepresented in England’s curriculum.
 - [The Black Curriculum policy and research page](https://theblackcurriculum.com/research) — organization-level research archive.

@@ -1,0 +1,15 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 05:03:23 GMT
+content-type: text/html; charset=utf-8
+content-length: 139137
+last-modified: Fri, 07 Aug 2026 22:04:14 GMT
+vary: Accept-Encoding
+etag: "6a76565e-21f81"
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+accept-ranges: bytes
+

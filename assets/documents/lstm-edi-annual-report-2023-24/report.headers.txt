@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:03:20 GMT
+content-type: application/pdf
+content-length: 1116438
+server: cloudflare
+last-modified: Thu, 10 Apr 2025 09:10:47 GMT
+x-robots-tag: noindex, nofollow
+etag: "67f78b17-110916"
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-xss-protection: 0
+cross-origin-opener-policy: same-origin
+accept-ranges: bytes
+cache-control: max-age=14400
+cf-cache-status: REVALIDATED
+cf-ray: a27bf95a694e054e-OMA
+
