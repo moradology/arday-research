@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-529/C-674: Acast RSS/audio version boundary
+
+Discovery: the official Acast RSS feed for *How Do You Cope?* exposed the already-canonical 26 May 2025 Arday episode and its direct enclosure.
+
+Capture: preserved the feed, headers, and Acast main MP3 under `assets/captures/2026-08-08-how-do-you-cope-jason-arday/`. The related bonus MP3 was byte-identical to SRC-220 and was not retained a second time.
+
+Evidence handling: the Acast enclosure is materially shorter than the existing Global Player file (about 1:02:05 versus 1:11:49.51), while the feed reports 1:01:22. Both binaries remain source manifestations; the archive does not infer which is complete or edited.
+
 # 2026-08-08 — SRC-528/C-673: Adult Literacy Trust supporters page
 
 Discovery: the current charity site exposes a separate “Our Supporters” page not represented by the existing patron-announcement/governance record.

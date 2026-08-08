@@ -1,0 +1,13 @@
+HTTP/2 404 
+content-type: text/html; charset=utf-8
+content-length: 4034
+date: Sat, 08 Aug 2026 04:25:46 GMT
+cache-control: public, max-age=300
+x-powered-by: Next.js
+etag: "loz6nqgib4342"
+vary: Accept-Encoding
+x-cache: Error from cloudfront
+via: 1.1 12dcec9e9455cb3092110c9f79ca8696.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P6
+x-amz-cf-id: OwE9fAgaYx3PS-N78cb4rMxc6d_TG82Gngo3yf6vbhmhQJcFkp2JJQ==
+

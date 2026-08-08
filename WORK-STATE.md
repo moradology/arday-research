@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-version boundary: on 2026-08-08 `SRC-529/C-674` preserved the official Acast RSS feed and a materially shorter main MP3 for the 26 May 2025 *How Do You Cope?* episode. It remains linked to SRC-129 rather than treated as a new interview; the alternate file is preserved alongside the longer Global Player binary, with completeness/edit relationship unresolved.
+
 Latest literacy source-version: on 2026-08-08 `SRC-528/C-673` preserved the Adult Literacy Trust’s separate “Our Supporters” page, attributed first-person literacy statement, and portrait. It is self-report published by the charity, not independent corroboration; the earlier patron appointment record remains canonical.
 
 Latest research-integrity boundary: on 2026-08-08 SRC-527/C-672 preserved Cambridge’s current Research Integrity Reports index and 2024–25 report. The report’s p. 12 table is anonymized aggregate process context for 2023–24; it contains no Arday-specific case or finding and cannot resolve the separate 2026 investigation.

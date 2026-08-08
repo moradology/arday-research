@@ -1,0 +1,13 @@
+HTTP/2 200 
+content-type: application/xml; charset=utf-8
+content-length: 448259
+date: Sat, 08 Aug 2026 04:25:33 GMT
+etag: "djEuMi4wOjE3ODQ3ODI4Mzk3NTE="
+cache-control: public, max-age=360, stale-if-error=1200
+x-acast-version: 1.2.0
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 aef197034a978e986954f2826c90b090.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P1
+x-amz-cf-id: SE_4Oo-amnBYVmq5RVQom1O7piU62pdW7dhEM3nIGbE1vDb4bsaIIw==
+

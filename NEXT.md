@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-version boundary: SRC-529/C-674 — the official Acast RSS feed and enclosure for the 26 May 2025 *How Do You Cope?* episode are preserved. The Acast main MP3 probes at about 1:02:05, materially shorter than the existing Global Player file at 1:11:49.51; the feed reports 1:01:22. Reopen only for an official transcript, a changed feed/enclosure, or evidence explaining the version difference; preserve both binaries.
+
 Fresh charity source-version: SRC-528/C-673 — the Adult Literacy Trust’s separate “Our Supporters” page publishes an attributed first-person statement about being unable to read or write until age 18 and a 225×225 portrait. Reopen only for a changed page, direct appointment/status update, or independent corroboration; do not treat the charity’s publication of the statement as independent verification.
 
 Fresh institutional-process boundary: SRC-527/C-672 — Cambridge’s official 2024–25 Research Integrity Report, PDF p. 12, gives anonymized aggregate investigation categories/results for 2023–24 and names no individuals. It cannot be mapped to Arday’s 2026 investigation. Reopen only for a named case document, terms of reference, direct institutional update, final finding, or changed official report.

@@ -1,0 +1,33 @@
+HTTP/2 302 
+content-type: text/html; charset=utf-8
+content-length: 646
+location: https://stitcher2.acast.com/livestitches/5aea2321d5dbe2214c0332e65cc95d8d.mp3?ci=tv9Jg-OEs54qFOoQnw-CG0oQJTGyBYmboPJy0pBY4CbSzyzIS08Gpg%3D%3D&pf=rss&sv=sphinx%401.280.1&uid=9521f4b14381e5e36bfda2a2d0cf91e4&Expires=1786174861&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ZxD5~5qeJb-hMsL~b02O1NLRPgjaxt048H2wm7P99KXutUDFVBV5RTdtjOdD9IdK5~~B7qdmcM3Ta~yskFGdxDEurKlOrWegHHXMqbFwcp1bfpZNeWjUHQBvXtHi1iJcOvTD5Gvue2~LEGXpxtOkrpPpe-gFyDOwzUZ7aA6b7zT-XQsSkc3HWUobPL-5N-yAAaVlHBgaICwqi~et7zFILgK4O58B9kCD347QA9Vce2Mcx4-MTrQh4GMf9j~wV1UI0COnHpDRVe9g4mdKI6t00kmuglcn0vjIrsN5XiaKEwTxopvn3WeAoGVoOVy~M~GhWmQD5Z8Kk1yEUZcM~w~3nA__
+date: Sat, 08 Aug 2026 04:26:01 GMT
+vary: Origin
+access-control-allow-origin: *
+set-cookie: acast-listenerid=df0dc0b44d69bc68451448f94df9fb53; path=/; httponly
+x-cache: Miss from cloudfront
+via: 1.1 a7d1e0c928cf48e0d4f62edd164c6b76.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-P4
+x-amz-cf-id: tv9Jg-OEs54qFOoQnw-CG0oQJTGyBYmboPJy0pBY4CbSzyzIS08Gpg==
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 59597584
+Connection: keep-alive
+Server: nginx/1.27.5
+Date: Fri, 07 Aug 2026 21:02:23 GMT
+Content-Disposition: inline
+ETag: "5aea2321d5dbe2214c0332e65cc95d8d"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken
+Access-Control-Allow-Methods: POST,GET,OPTIONS
+Access-Control-Max-Age: 1728000
+X-Cache-Status: MISS
+Via: 1.1 18587883c3ee82f364e0781cb7ae6546.cloudfront.net (CloudFront)
+Age: 26618
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL59-P15
+X-Amz-Cf-Id: vZakTKzcfXtXCCiRvAOq7edtNDgFm8O2kxlw7VPSYq773titKwQ6tw==
+
