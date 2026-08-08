@@ -7,7 +7,7 @@ id: SRC-050
 - Source ID: SRC-050
 - Type: peer-reviewed journal article
 - Publication: 2022-10-25
-- Accessed: 2026-08-05
+- Accessed: 2026-08-08
 - Status: verified
 - Authors: Jason Arday and Christopher Jones
 - DOI: [10.1007/s10734-022-00939-0](https://doi.org/10.1007/s10734-022-00939-0)
@@ -20,3 +20,5 @@ A co-authored *Higher Education* article on the effects of COVID-19 on Black stu
 ## Provenance
 
 Publisher metadata identifies the version-of-record date as 25 October 2022. DOI is the canonical identifier.
+
+The 8 August 2026 ORCID API recheck reports the same DOI with a July 2026 publication date. Crossref separates the dates into 25 October 2022 for online publication/version-of-record metadata and July 2026 for `published-print`; the ORCID value is therefore preserved as a later print/metadata manifestation rather than substituted for the canonical online publication date. See [SRC-628](2026-08-08-orcid-works-recheck.md).

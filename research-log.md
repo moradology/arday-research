@@ -1735,6 +1735,14 @@ Evidence handling: repeated Reddit and commentary results were not treated as in
 
 Decision: no source node or claim was created. Reopen only for a changed official endpoint, named terms of reference, primary inquiry/report document, direct university statement, or adjudicative outcome; do not repeat this exact domain/query family unchanged.
 
+# 2026-08-08 — SRC-628/C-860: ORCID publication-date recheck
+
+Discovery: the current ORCID works API returned the same 11 DOI-linked work groups as the 6 August snapshot, with no new DOI/title key. One existing work, “Same storm, different boats,” changed its ORCID publication-date field from October 2022 to July 2026 while retaining the same put-code and title/DOI.
+
+Reconciliation: Crossref’s current DOI metadata preserves 25 October 2022 as `published-online`/`published` and reports July 2026 as `published-print`. The changed ORCID value is therefore recorded as a later print/metadata manifestation, not as a new publication or correction.
+
+Decision: created SRC-628/C-860, linked the recheck from the public-output index, and retained the canonical article date. Reopen only for a new ORCID DOI/title key, a materially different publisher/repository file, or a changed Crossref/ORCID date topology.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
