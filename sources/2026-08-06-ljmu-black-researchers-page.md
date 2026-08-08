@@ -22,6 +22,13 @@ LJMU’s current “Black researchers and professionals” page lists Professor 
 
 This is a distinct current host-page manifestation and a useful institutional source-version. It repeats or compresses claims present in older LJMU and qualification records; it does not independently establish the superlative, a current LJMU appointment, the timing of either qualification, Cambridge’s current role state, or any investigation outcome.
 
+## 2026-08-08 changed-state recheck
+
+The same URL returned HTTP 200 on 8 August 2026, but the captured page body is byte-distinct and contains no occurrence of “Jason” or “Arday” in its rendered HTML. The generic “Black researchers and professionals” page remains live, while the earlier Arday profile and portrait are retained as a prior source state. This is a current-page absence observation, not evidence of deletion, disavowal, correction, or an institutional finding; the difference could reflect page editing or delivery variation.
+
+- [Recheck HTML](../assets/captures/2026-08-08-ljmu-black-researchers-recheck/page.html) — SHA-256 `ef28ac17aec9310fe3168975c184cbe7a74b364ea50e2b613a8e66db043bd4b0`.
+- [Recheck headers](../assets/captures/2026-08-08-ljmu-black-researchers-recheck/page.headers.txt) — SHA-256 `855fb33bf9130dc13b213ca4c7151109df4ba3a29210089fa9a037ea48c163c6`.
+
 ## Local preservation
 
 - HTML: `assets/documents/ljmu-black-researchers-arday-2026.html` — 213,445 bytes, SHA-256 `76ff5a38d49dc9f5c72d0fe3f25a19fa6875de7be56fee242634d3ce2855f7c7`.

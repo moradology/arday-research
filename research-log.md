@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-289/C-871: LJMU profile changed-state recheck
+
+Recheck: the LJMU “Black researchers and professionals” URL returned HTTP 200, but the 212,560-byte captured HTML body was byte-distinct from the earlier 213,445-byte page and contained no “Jason” or “Arday” occurrence. The prior page listed Arday as a former lecturer, described LJMU qualifications, and linked a portrait.
+
+Decision: preserved the current response as a changed-page/negative-space state under SRC-289. The archive does not infer removal, disavowal, correction, or an investigation outcome; the earlier page remains the source-version for the published biography wording. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-612/C-870: QUB article-record page-state recheck
 
 Recheck: the canonical Queen’s University Belfast Research Portal record for *Attempting to break the chain* returned a byte-distinct HTML body. The captured page displayed 184 Scopus citations and 1,555 downloads; its title, authors, DOI, dates, pagination, and accepted-manuscript/peer-reviewed-version labels remained unchanged.

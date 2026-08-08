@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh institutional changed-state checkpoint: SRC-289/C-871 — LJMU’s “Black researchers and professionals” URL returned HTTP 200 on 8 August 2026, but the captured HTML no longer contains “Jason” or “Arday”; the earlier listing and portrait remain preserved. Reopen only for a stable replacement page, a direct LJMU statement, or a concrete qualification/role record; do not interpret this absence as disavowal or an investigation result.
+
 Fresh scholarly page-state checkpoint: SRC-612/C-870 — QUB’s canonical Research Portal record for *Attempting to break the chain* was re-fetched on 8 August 2026. The article metadata and version labels remain unchanged, while the page now exposes 184 Scopus citations and 1,555 downloads; the changed HTML and headers are preserved. Reopen only for a substantive correction, direct QUB investigation document, or materially changed article/version state; do not treat portal metrics as quality evidence.
 
 Fresh primary-statement retrieval checkpoint: SRC-094/C-958 — the Good Law Project resignation page returned HTTP 200 on 8 August 2026. Its raw HTML changed from the 6–7 August captures, but extracted visible text remained identical; both states are preserved. Reopen only for a substantive wording change, a replacement first-party statement, or an institutional investigation outcome; do not count dynamic markup changes as new evidence.
