@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Sat, 08 Aug 2026 08:40:24 GMT
+Server: Microsoft-IIS/10.0
+Cache-Control: private, max-age=5983
+Content-Encoding: gzip
+Expires: Sat, 08 Aug 2026 10:20:08 GMT
+Last-Modified: Sat, 08 Aug 2026 08:40:08 GMT
+Transfer-Encoding: chunked
+Vary: *
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+

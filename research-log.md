@@ -2868,3 +2868,11 @@ Lead: the earlier methods-lineage audit identified a broad shared qualitative-me
 Capture: Memon (2016) PDF p. 2 and Arday (2018) PDF p. 10 were compared directly. Page renders were added to `assets/captures/2026-08-08-memon-arday-methods/pages/`.
 
 Decision: added SRC-577/C-752 for the ordered questionnaire / facilitator / recording / verbatim-transcription / notes / flipchart / participant-view correspondence. The record is stronger than a generic methods similarity observation, but keeps copying, authorship, intent, permission, plagiarism, fraud, and institutional findings unresolved.
+
+## 2026-08-08 — SRC-578/C-753 National Autistic Society conference announcement
+
+Discovery: a focused first-party event search surfaced the National Autistic Society’s 15 February 2024 announcement of Jason Arday as first plenary speaker for its 14 March Annual Professionals’ Conference.
+
+Capture: the announcement HTML and headers were preserved. The linked conference route now resolves to the current NAS conference page, and the 2026 insights page was captured as a current route/version witness; neither supplies a 2024 recording, transcript, deck, or attendee artifact.
+
+Decision: added SRC-578/C-753. The announcement is strong evidence of a scheduled NAS appearance and preserves a host biography version saying that Arday funded his PhD through part-time Sainsbury’s/Boots work and full-time lecturing. Those employment/funding details remain biography-level claims, not independent records; no delivery inference is made from the missing current artifact.
