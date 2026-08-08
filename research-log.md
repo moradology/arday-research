@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-347/C-927: St Mary’s Values Talk adaptive audio promoted
+
+Audit: SRC-347 already had a playable 640×360 MP4 committed to GitHub and documented separate adaptive video/audio streams, but the 47 MB WebM audio stream remained untracked. The corresponding 336 MB adaptive video is too large for the current repository workflow and remains local.
+
+Archive action: checksum-validated and committed the adaptive audio stream. No transcript or substantive claim was added; the current caption response remains zero-byte.
+
+Decision: added C-927 as an archive-integrity observation. The adaptive audio is a second preserved manifestation of the same talk, not a new event or biography record. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-432/C-926: Corrie-Lunn thesis PDF promoted
 
 Audit: the canonical Oxford Brookes RADAR thesis record already preserved the extracted text, title-page render, headers, and negative-space search result, but the 20 MB full PDF was not tracked in Git.

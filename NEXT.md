@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-topology checkpoint: SRC-347/C-927 — the 47 MB adaptive WebM audio stream for St Mary’s 2020 Values Talk is now committed to GitHub. The playable MP4 was already committed; the 336 MB adaptive video remains local, and the caption endpoint remains zero-byte. Reopen for a valid caption track or audiovisual verification; do not treat the host biography as an audited record.
+
 Fresh documentary-integrity checkpoint: SRC-432/C-926 — the 20 MB Oxford Brookes RADAR thesis PDF behind the Corrie-Lunn examiner lead is now committed to GitHub. The thesis contains no “Jason Arday”/“Arday” occurrence; retain that as a bounded negative-space observation, not a disproof. Reopen only for an institutional examiner/viva record or changed repository version.
 
 Fresh event-media checkpoint: SRC-307/C-925 — the 3.2 MB BME ECR Network promotional MP4 for the scheduled 10 July 2026 keynote is now committed to GitHub. It is not a keynote recording and does not establish delivery or attendance; reopen only for a post-event report, final programme, attendee account, transcript, recording, or changed organizer page.
