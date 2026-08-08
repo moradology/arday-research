@@ -2720,3 +2720,11 @@ Lead: the same publisher family exposed a distinct 9 June 2021 panel-podcast pag
 Capture: page HTML, embedded Podbean player HTML, headers, and 2695×2021 lead image were preserved. The player response did not expose a direct audio payload or downloadable media URL.
 
 Decision: added SRC-564/C-733 as a media lead and access boundary. No audio-derived claim is added; reopen only for a direct audio file, transcript, or captions.
+
+## 2026-08-08 — SRC-565/C-734 and SRC-566/C-735 THE 2019 authored essays
+
+Lead: the THE Campus/Times Higher Education authored-output sweep found two distinct 2019 essays by Arday that were not represented in the archive: one on Black staff mental health and one on racial-harassment reporting in universities.
+
+Capture: both current publisher pages, response headers, and 800×533 lead images were preserved. Their closing biographies retain the 2019 Durham, Ohio State, and Nelson Mandela University role wording as dated page versions.
+
+Decision: added SRC-565/C-734 and SRC-566/C-735. The essays are treated as authored policy positions and public outputs, not independent evidence of implementation, clinical history, or current affiliations. The overlapping subject matter is retained as two distinct articles rather than merged.

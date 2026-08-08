@@ -220,6 +220,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [Advance HE EDI Conference 2025 full programme](sources/2025-04-03-advance-he-edi-programme.md) — distinct organizer programme manifestation placing Arday’s 3 April keynote at 09:40–10:20 and naming its chair; delivery and recording remain unresolved.
 - [THE Campus “Fool’s gold” essay](sources/2022-02-28-the-campus-fools-gold.md) — first-person 2022 essay with a self-description of academic capability and work habits; dated role biography kept separate from current status.
 - [THE Campus Talks panel](sources/2021-06-09-the-campus-talks-podcast.md) — 2021 publisher-hosted panel listing Arday on inclusive teaching, anti-racism, and neurodiversity; player captured but audio not recovered.
+- [THE mental-health essay](sources/2019-09-06-the-racism-academia-mental-health.md) — authored 2019 commentary on racial inequality, culturally appropriate mental-health support, and intersectional training.
+- [THE racial-harassment essay](sources/2019-12-08-the-racial-harassment-article.md) — authored 2019 commentary on reporting mechanisms, institutional responsibility, and racial harassment in universities.
 
 ## 8. Current controversy — keep separate from the historical archive
 
