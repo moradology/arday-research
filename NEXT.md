@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-243/C-892 — the 50:15 BME ECR Network keynote MP4 is now committed to GitHub alongside its captions and source captures. The host biography remains dated conference copy and the captions contain errors. Reopen for audiovisual verification, a corrected caption track, or changed recording state; do not treat the recording as current-role proof.
+
 Fresh binary-preservation checkpoint: SRC-156/C-891 — the official 42:04.46 *Student Sessions* MP3 is now committed to GitHub alongside its Buzzsprout page snapshot and checksum metadata. Reopen for a timestamped listening/transcription pass or changed episode state; do not promote interview claims without source-version labeling.
 
 Fresh binary-preservation checkpoint: SRC-034/C-890 — the official Global Player/Captivate MP3 for the 20 April 2023 *Full Disclosure with James O’Brien* interview is now committed to GitHub alongside its page, API, artwork, and duration-discrepancy metadata. No transcript was exposed and no substantive claim was added. Reopen only for a transcript, bounded listening pass, or changed player state.

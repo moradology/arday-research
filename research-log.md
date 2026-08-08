@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-243/C-892: BME ECR keynote video promoted to GitHub
+
+Audit: the canonical BME ECR source record already contained the YouTube page, thumbnail, automatic captions, metadata, and headers, but the 86,386,515-byte progressive MP4 remained only in the working tree.
+
+Capture decision: validated the video checksum (`e70b5b8d82f693f1a8c2a01e6d0fb05108f30502854d8f1ed0891595482edd9b`) against the source record and committed the MP4. The opening affiliation biography remains dated host copy and the captions remain navigation material with known errors; no new substantive claim was promoted.
+
 ## 2026-08-08 — SRC-156/C-891: *Student Sessions* binary promoted to GitHub
 
 Audit: the canonical Student Sessions source record already contained the Buzzsprout page snapshot and capture metadata, but the 30,337,932-byte MP3 remained only in the working tree.
