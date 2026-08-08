@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh review-clip checkpoint: SRC-271/C-935 — a 38,308,300-byte opening clip covering source interval 00:00–10:00 of UCU’s “Decolonising our institutions” webinar is now committed to GitHub. The captions identify Jason and the Black Members Standing Committee near 00:11–00:19 and begin his contribution around 00:31; the 187,205,146-byte parent remains local-only and substantive captions remain unverified.
+
 Fresh review-clip checkpoint: SRC-263/C-934 — a 48,473,641-byte review clip covering source interval 01:11:00–01:31:30 of Cambridge’s “Black Men On The Couch” recording is now committed to GitHub. The 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the clip is a derivative review aid and its caption-derived content remains unverified.
 
 Fresh clip-preservation checkpoint: SRC-268/C-933 — the two caption-window review clips covering the diagnosis and first-word passages are now committed to GitHub. The 175,067,296-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; both clips remain derivative navigation aids and require audiovisual verification before quotation.

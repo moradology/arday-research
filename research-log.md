@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-271/C-935: UCU webinar opening clip created
+
+Audit: SRC-271 documented the 56:40 UCU webinar and automatic-caption opening in which the host names Jason as one of three Black Members Standing Committee members at approximately 00:11–00:19 and begins his contribution near 00:31. The 187,205,146-byte parent MP4 is above GitHub’s 100 MiB hard limit.
+
+Archive action: created a 38,308,300-byte stream-copy review clip covering source interval 00:00–10:00 and verified its checksum. The parent MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-935 as an archive-integrity observation. The clip improves audiovisual handoff for the dated public-output record; it is not a new event or verified transcript, and no substantive discussion claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-263/C-934: Cambridge panel review clip created
 
 Audit: SRC-263 documented the 2:13:48 Cambridge “Black Men On The Couch” recording and automatic-caption timing showing Arday’s introduction at approximately 01:11:13, but the 287,422,026-byte parent MP4 is above GitHub’s 100 MiB hard limit.
