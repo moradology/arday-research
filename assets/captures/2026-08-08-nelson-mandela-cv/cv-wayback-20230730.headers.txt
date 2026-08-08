@@ -1,0 +1,35 @@
+HTTP/2 200
+server: nginx
+date: Sat, 08 Aug 2026 09:47:08 GMT
+content-type: application/pdf
+content-length: 187889
+x-archive-orig-last-modified: Thu, 23 Jan 2020 07:54:58 GMT
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-etag: "e555c268c2d1d51:0"
+x-archive-orig-server: Microsoft-IIS/10.0
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-x-powered-by: ASP.NET
+x-archive-orig-date: Sun, 30 Jul 2023 12:20:01 GMT
+x-archive-orig-connection: close
+x-archive-orig-content-length: 187889
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Sun, 30 Jul 2023 12:20:00 GMT
+link: <https://crishet.mandela.ac.za/crishet/media/Store/documents/CVs/JA-CV-for-Nelson-Mandela-University-Jan-2020.pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://crishet.mandela.ac.za/crishet/media/Store/documents/CVs/JA-CV-for-Nelson-Mandela-University-Jan-2020.pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://crishet.mandela.ac.za/crishet/media/Store/documents/CVs/JA-CV-for-Nelson-Mandela-University-Jan-2020.pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: WPO-20230729192103-crawl836/WPO-20230730100038-00134.warc.gz
+server-timing: captures_list;dur=0.373601, exclusion.robots;dur=0.054691, exclusion.robots.policy;dur=0.046954, esindex;dur=0.006460, cdx.remote;dur=4.855244, LoadShardBlock;dur=100.485639, PetaboxLoader3.datanode;dur=57.602315, PetaboxLoader3.resolve;dur=67.691876, load_resource;dur=74.521986
+x-app-server: wwwb-app253-dc8
+x-ts: 200
+x-tr: 194
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app253; path=/
+cache-control: private
+x-rl: 0
+x-na: 0
+x-page-cache: BYPASS
+server-timing: BYPASS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-location: _pdf

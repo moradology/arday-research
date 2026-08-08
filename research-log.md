@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-086/SRC-588/C-779–C-783: Nelson Mandela University CV recovery
+
+Discovery: the canonical January 2020 CV endpoint still returned a page-not-found state, but Internet Archive CDX exposed valid 2021 and 2023 PDF captures. The 30 July 2023 replay was recovered as a valid eight-page PDF.
+
+Capture: preserved the archived PDF, response headers, extracted text, and eight rendered pages. PDF metadata gives a 22 January 2020 creation date. The document lists qualifications, previous and external appointments, professional-service roles, trusteeships, publications, supervision, and the Purley & Woodcote Labour-candidate wording.
+
+Decision: added SRC-588 as a recovered manifestation linked to SRC-086 rather than replacing the current-host access boundary. Updated the existing CV claims and biography to distinguish the now-auditable dated document from independent host verification and current-status evidence. The Free Beacon’s separately reported unpublished CV claiming just over £1.5m remains unresolved; this recovered 2020 CV contains no such fundraising total.
+
 # 2026-08-08 — SRC-530/SRC-587/C-773–C-778: BABAO review recovery and follow-up
 
 Discovery: the earlier BABAO record had only browser-readable PDF text and a direct-retrieval 403 boundary. A University of Derby repository result exposed the same report, and the Internet Archive CDX listed valid 2023 and 2024 captures. BABAO’s own review page and annual reviews supplied commissioning and implementation context.
