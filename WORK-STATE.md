@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-proposal boundary: on 2026-08-08, a targeted search for the *Great and Unfortunate Things* proposal found only the already-preserved Simon & Schuster Spring 2025 and Spring 2026 rights-catalogue versions (`SRC-504` and `SRC-321`). No new proposal, manuscript, review, or interview artifact was recovered; the distinction between proposal/version metadata and independent biographical evidence remains explicit. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest source-reliability checkpoint: on 2026-08-08 `SRC-881/C-883` captured SnapJournal’s 24 April 2026 SEO-style biography. It is retained as low-provenance propagation evidence only; no repeated claim was upgraded, and stale/unsupported role and fundraising language remains attributed. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-edition checkpoint: on 2026-08-08 `SRC-880/C-882` captured Target’s US hardcover manifestation for *Great and Unfortunate Things* (A-1007422036/TCIN 1007422036; 288 pages; 11 August 2026 street date) and its cover image. It is deduplicated to SRC-091; Target copy is promotional and not independent biography. Google Drive was not updated; GitHub remains the active publication target.

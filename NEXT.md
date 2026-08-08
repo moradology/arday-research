@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-proposal boundary: the 8 August 2026 targeted search recovered no new proposal or manuscript file. The public Simon & Schuster rights-catalogue proposal trail is already covered by `SRC-504` (Spring 2025, 320-page projection) and `SRC-321` (Spring 2026, 288-page catalogue entry), with PDFs, text, headers, and page renders preserved. Keep their promotional biography language separate from independent evidence. Reopen only for a new proposal version, lawful manuscript/preview text, or a distinct review/interview; do not repeat the same catalogue search without a changed result.
+
 Fresh source-reliability checkpoint: SRC-881/C-883 — SnapJournal’s 24 April 2026 biography-style article is preserved as low-provenance propagation evidence. It supplies no named author, citations, or primary documents and repeats unsupported/stale claims about roles, fundraising, WaterAid, and childhood. Reopen only for a correction, cited source list, or linked primary artifact; do not count it as corroboration.
 
 Fresh memoir-edition checkpoint: SRC-880/C-882 — Target’s US hardcover listing for *Great and Unfortunate Things* is locally preserved with product ID A-1007422036/TCIN 1007422036, 11 August 2026 street date, 288 pages, and a 1200×1200 cover. It is deduplicated to SRC-091 and adds an edition/source-version node, not independent corroboration. Reopen only for a changed Target state, distinct edition/SKU, lawful preview/full text, or rights-cleared image need.

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — Memoir proposal/reception pass: public proposal PDFs reconciled
+
+Discovery: a targeted search for a publicly available proposal for *Great and Unfortunate Things* surfaced the Simon & Schuster Spring 2025 and Spring 2026 rights-catalogue PDFs. Both proposal-level artifacts are already preserved as `SRC-504` and `SRC-321`, respectively; the search produced no new proposal file, manuscript, or review/interview artifact.
+
+Reconciliation: the Spring 2025 catalogue entry is the earlier version labelled “May 2026 | DD,” with a projected 320 pages and “Proposal available”; the Spring 2026 catalogue gives an August 2026 publication month, 288 pages, and “Manuscript Available.” The differences are preserved as publishing-history/source-version metadata. Their childhood, literacy, diagnosis, Cambridge, and audience language remains publisher/trade copy, not independent corroboration.
+
+Boundary: the public proposal trail is covered by the existing local PDF, extracted text, headers, and page render assets. The finished memoir, the 2024 proposal described by *The Atlantic*, and any underlying manuscript remain separate source targets. Reopen only for a new proposal version, lawful manuscript/preview text, or a distinct contemporaneous review/interview. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-881/C-883: SnapJournal low-provenance biography
 
 Discovery: a current exact-name search surfaced SnapJournal’s 24 April 2026 “Career Milestones and Educational Impact 2025–2026” page.
