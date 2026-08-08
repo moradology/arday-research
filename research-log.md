@@ -1,5 +1,21 @@
 # Research log
 
+# 2026-08-08 — SRC-596/C-793: LJMU bicentenary profile route recheck
+
+Discovery: the previously catalogued LJMU bicentenary profile URL was selected as a current institutional-status and source-version follow-up.
+
+Capture: the direct route returned HTTP 404 with a 197,298-byte HTML body. The body and response headers are preserved under `assets/captures/2026-08-08-ljmu-profile-recheck/`.
+
+Decision: record the changed route state without inferring deletion, correction, disavowal, or an institutional finding. Keep it distinct from LJMU’s current Black Researchers page and the older alumni profile. Reopen only after a replacement route or concrete primary record appears.
+
+# 2026-08-08 — SRC-597/C-794: r/sociology peer-reaction discussion
+
+Discovery: a current search surfaced a public r/sociology thread asking whether sociologists have a consensus about the quality of Arday’s work. The thread contains conflicting anonymous reactions, including unverified comments about methodological thinness, ethics language, focus-group feasibility, and possible fabricated data.
+
+Capture: the in-app public page was readable and its observed content was recorded in the source note. A direct shell request returned HTTP 403 with a 1,522-byte challenge body; that body and headers are preserved under `assets/captures/2026-08-08-reddit-sociology-quality-thread/`. No access-control bypass was attempted.
+
+Decision: classify the thread as public reception and allegation propagation, not peer consensus, scholarly review, or adjudication. Use its concrete comments only as leads for named primary texts, methods materials, and institutional records already tracked or still missing.
+
 # 2026-08-08 — SRC-093: Cambridge investigation-statement recheck
 
 Discovery: the official Cambridge notice was rechecked during the formal-outcome search. It remains publicly reachable and reports “Last updated: 07 Aug 2026.” The substantive wording remains unchanged: Cambridge’s investigation concerns new information about qualifications and honorary appointments; ongoing academic-misconduct complaints remain under its policy; and Jesus College is taking its own steps.

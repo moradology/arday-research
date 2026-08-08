@@ -1,0 +1,17 @@
+HTTP/2 403 
+retry-after: 0
+content-type: text/html
+cache-control: private, no-store
+accept-ranges: bytes
+date: Sat, 08 Aug 2026 10:35:07 GMT
+via: 1.1 varnish
+server-timing: reddit-ct;desc="dn=FT,p=MCI,cs=MISS"
+strict-transport-security: max-age=31536000; includeSubdomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+server: snooserv
+report-to: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+nel: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+content-length: 1522
+
