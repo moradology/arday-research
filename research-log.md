@@ -2892,3 +2892,5 @@ Discovery: the Friends of Europe European Young Leaders page surfaced a dedicate
 Capture: the current EYL40 page and its 1062×1083 profile portrait were downloaded from the organization’s public site. The page identifies Arday as a 2024 European Young Leader and publishes a short biography with a “over £5 million” fundraising formulation.
 
 Decision: added SRC-579/C-755 as a recognition/profile source. The recognition is a distinct institutional edge; the role, Cambridge, Runnymede, and fundraising statements remain host-published source-version wording and are not upgraded into independent legal, employment, or accounting evidence.
+
+Follow-up: the organization’s 22 January 2024 press release was captured as a related manifestation, with its 19 March 2024 modification metadata and Class-of-2024 banner. Added C-756 to record the dated announcement without creating a duplicate EYL40 recognition node.

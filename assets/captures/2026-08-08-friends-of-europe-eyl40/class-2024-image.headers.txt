@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 08:52:01 GMT
+Server: nginx
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Content-Length: 705292
+Content-Type: image/png
+Etag: "65ad5aa0-ac30c"
+Expires: Mon, 07 Sep 2026 08:52:01 GMT
+Last-Modified: Sun, 21 Jan 2024 17:55:44 GMT
+X-Rocket-Nginx-Serving-Static: No
+
