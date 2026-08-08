@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-198/C-882: complete Research Cast derivative created
+
+Archive action: transcoded the 107,519,809-byte parent MP3 to a complete 32,420,279-byte AAC `.m4a` derivative at 96 kb/s. The derivative runs 44:47.53 and passed an FFmpeg decode validation; its SHA-256 is `b2ffe32d9f4c0fc3008de509b5955a521e9263713724348fbf7399419fc84b70`.
+
+Decision: added C-882 as an archive-integrity observation. This closes the GitHub handoff gap for the complete interview while retaining the parent MP3 hash as the integrity anchor. The derivative is not a transcript and C-117–C-119 remain unverified audio/ASR leads. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-263/C-944: Cambridge panel sidecars and review clip promoted
 
 Archive action: promoted SRC-263’s automatic-caption copies, metadata JSON, thumbnail, and the existing 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30. The 287,422,026-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit.
