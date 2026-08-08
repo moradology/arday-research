@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-publication checkpoint: SRC-519/C-662–C-663 — *The Bookseller*’s indexed preview supplies a distinct trade-publication manifestation of the UK edition (ISBN `9781398542747`, £20, 27 August 2026) but the direct page redirects to login. Keep its synopsis as marketing/source-version copy, not independent biography; reopen only for lawful preview access or a changed public endpoint.
+
 Fresh institutional-process checkpoint: SRC-434/C-497 — a second direct fetch of the already-canonical *Telegraph* process-review lead again returned HTTP 402/TollBit and is preserved as an access-state recapture. Reopen only for Cambridge terms of reference, a direct institutional statement, a review document, or a final report; do not create another source for the same report.
 
 Fresh adversarial-frame checkpoint: `adversarial-hypotheses.md` now captures the strongest skeptical “liar/fraud/villain” reading as separate, testable categories. The current record supports serious credibility and possible overclaiming concerns, but does not establish legal fraud, intentional lying across the biography, or a moral verdict. SRC-518/C-660–C-661 preserves exact-name zero-result searches on the official ASA rulings and Gazette awards databases. Reopen the frame only for a new primary artifact, correction, institutional/adjudicative finding, or materially changed source version; do not repeat the same labels or searches.

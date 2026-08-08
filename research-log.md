@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-519/C-662–C-663: *The Bookseller* memoir preview
+
+Discovery: a memoir-edition search surfaced *The Bookseller*’s public preview URL for *Great and Unfortunate Things*. Its indexed synopsis exposed Simon & Schuster Ltd, £20 price, 27 August 2026 date, ISBN `9781398542747`, and the familiar biographical framing.
+
+Capture: the direct URL redirected to The Bookseller’s login page rather than exposing the preview body. The returned HTML and response headers are preserved under `assets/captures/2026-08-07-bookseller-memoir-preview/`; the indexed synopsis is retained only as a bounded public witness.
+
+Evidence handling: registered SRC-519 and C-662–C-663 as a distinct trade-publication manifestation, deduplicated to the official Simon & Schuster edition records. Repeated childhood and Cambridge language is marketing copy about a self-authored memoir, not independent corroboration. Reopen only for a lawful preview body, changed public endpoint, or distinct edition/source version.
+
 # 2026-08-07 — SRC-434 recheck and deduplication
 
 A current institutional-process search rediscovered the already-canonical *Telegraph* lead. A second direct fetch returned the same HTTP 402/TollBit access boundary; the recapture is attached to SRC-434, not promoted to a duplicate source or claim.
