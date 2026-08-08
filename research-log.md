@@ -2483,6 +2483,12 @@ Capture: preserved the article HTML, headers, lead WebP image, and both archived
 
 Evidence handling: the page-version difference is directly observable. The article’s claims about a university-job CV, an MBE offer, advertising complaints, publisher proof comparisons, and publisher editing are retained as reported leads because the cited CV, underlying correspondence, podcast capture, and book proofs were not recovered here. Do not turn this source into a final fraud finding or conflate changing biography copy with proof of intent.
 
+# 2026-08-08 — SRC-072/C-702–C-703 Broken Pipeline report capture and extraction
+
+The official Leading Routes PDF for *The Broken Pipeline* was recovered after the registry’s prior record showed no local file. The eight-page September 2019 report names Paulette Williams, Sukhi Bath, Jason Arday, and Chantelle Lewis. It documents a closed February 2019 stakeholder roundtable rather than a survey or peer-reviewed empirical study.
+
+Page-level extraction records the cited HESA/UKRI context, the roundtable’s discussion points, barriers around attainment filters, institutional preferences, data gaps, scholarship criteria, guidance, academic excellence, and supervisory bias, plus recommendations and Leading Routes’ planned 2019–20 follow-up. The report’s statistics remain attributed to their cited sources; its planned activities are not treated as implementation evidence.
+
 # 2026-08-08 — SRC-040/C-700–C-701 ThinkHigher report capture and extraction
 
 The first-party ThinkHigher PDF for *The Black Experience Project* was not previously locally preserved. It was downloaded from the project’s public URL, verified as an 18-page PDF, hashed, and extracted with `pdftotext -layout`. The report identifies Arday as author, says ThinkHigher commissioned the work, and records 11 secondary students aged 15–18 interviewed remotely.

@@ -1,0 +1,14 @@
+HTTP/2 200 
+content-type: application/pdf
+content-length: 725223
+x-ws-origin: available
+x-ws-ratelimit-limit: 1000
+x-ws-ratelimit-remaining: 999
+date: Sat, 08 Aug 2026 05:41:10 GMT
+server: Apache
+last-modified: Tue, 15 Oct 2024 16:58:13 GMT
+accept-ranges: bytes
+cache-control: max-age=2592000, public
+expires: Mon, 07 Sep 2026 05:41:10 GMT
+vary: Accept-Encoding
+
