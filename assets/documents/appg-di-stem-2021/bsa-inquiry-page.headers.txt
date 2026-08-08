@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:52:00 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a27c40a03cdb0c9d-OMA
+cf-cache-status: DYNAMIC
+expires: -1
+server: cloudflare
+strict-transport-security: max-age=15552000; preload
+pragma: no-cache
+x-html-edge-cache-status: MISS
+access-control-expose-headers: Request-Context
+content-security-policy: frame-ancestors 'self' https://go.accessacloud.com;
+request-context: appId=cid-v1:41a1386f-21c5-4910-962f-f343eaf534f2
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+vary: accept-encoding
+set-cookie: __cf_bm=UrqIosCSL6F9BITy3T.IqHHhKK.70JlOYDpJGnpSROU-1786168320.0309002-1.0.1.1-_L7DjaPQYJv0saXx74KG7iGL6XZX1xjWOypOSip817jDHHIapF5TndkW8CHvykaqxlL2yMWRyvSfkbh2fs1uKV.bnbPAhjIUqbnfze.BmQDjnL2VsxQ1pgyjlJOlLsvm; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.britishscienceassociation.org; Expires=Sat, 08 Aug 2026 06:22:00 GMT
+

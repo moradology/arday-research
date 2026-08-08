@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:51:22 GMT
+content-type: application/pdf
+content-length: 2607289
+cf-ray: a27c3fb7284999e6-OMA
+cf-cache-status: HIT
+accept-ranges: bytes
+age: 0
+content-disposition: inline; filename=equityinstemworkforcereportv2-appgondiversityandinclusioninstem-webversion.pdf
+expires: Mon, 07 Sep 2026 05:51:22 GMT
+last-modified: Sat, 08 Aug 2026 05:51:22 GMT
+server: cloudflare
+strict-transport-security: max-age=15552000; preload
+x-html-edge-cache-status: HIT
+access-control-expose-headers: Request-Context
+content-security-policy: frame-ancestors 'self' https://go.accessacloud.com;
+request-context: appId=cid-v1:41a1386f-21c5-4910-962f-f343eaf534f2
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+vary: accept-encoding
+set-cookie: __cf_bm=CRFWX2YeC9nlq8A_BawITkshS66k_LYUnTmMmwIIv5o-1786168282.746498-1.0.1.1-IR8rf7mDwOtbI2zQOQsRH5Ppz_piy03hdjFbk3fNgE7uSIEDk7IpKpk8yeRaq.juZivSiYnEpJkfU7lVeNdc0sWQVodBFyiJngjyHavM6uGS03lO7r00wyxvqa6mMtGx; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.britishscienceassociation.org; Expires=Sat, 08 Aug 2026 06:21:22 GMT
+

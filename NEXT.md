@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh policy-output capture: SRC-548/C-705–C-706 — the official British Science Association/APPG *Inquiry into Equity in the STEM Workforce* PDF and page are now locally preserved. Arday is listed in the policy group and among critical reviewers; keep this as a dated participation record and APPG policy artifact, not as proof of authorship or independent empirical validation. Reopen only for a distinct evidence submission, roundtable record, later implementation report, or materially changed BSA source.
+
 Fresh publisher abstract/access boundary: SRC-175/C-704 — Springer’s current chapter page now preserves the auto-ethnographic/counter-narrative description and subscription gate for “Being Black, Male and Academic.” Keep this chapter’s autobiographical claims separate from independent biography; reopen only for lawful full text, an author manuscript, or a changed publisher access state.
 
 Fresh co-authored report capture: SRC-072/C-702–C-703 — Leading Routes’ September 2019 *The Broken Pipeline* PDF is now locally preserved and extracted. It records a closed stakeholder roundtable, cited HESA/UKRI context, barriers and recommendations, and planned follow-up activities. Keep it distinct from Arday’s 2017 UCU qualitative report and the 2022 ThinkHigher study; do not treat the roundtable as a population survey or its commitments as delivered outcomes.
