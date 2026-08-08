@@ -3343,3 +3343,10 @@ Discovery: while auditing the distinct exhibits embedded in SRC-580, a search re
 Capture: preserved a fresh HTML/headers snapshot and the page’s 2560×1708 JPEG. The page metadata records 28 July publication and 6 August modification; the live counter displayed 17,310 signatures toward 25,000 on this recheck, versus 16,755 in the earlier SRC-262 capture. The embedded 1,077×1,746 image remains preserved as SRC-621.
 
 Decision: corrected the provenance graph rather than creating a duplicate campaign record. SRC-621 now points back to SRC-262 as a visual/source-propagation manifestation. The campaign’s exculpatory and motivational claims remain advocacy assertions; no exoneration finding was added.
+## 2026-08-08 — SRC-158/C-847: Ruling Passions preview audio recovered
+
+Discovery: the existing Ruling Passions episode record linked only to Spotify and a Padlet embed; the Padlet route remains Sheffield Hallam tenant-login-bound.
+
+Capture: Spotify’s public episode page exposed a platform-hosted 60.03-second, 96-kbps MP3 clip. The page snapshot and clip are locally preserved. Spotify metadata dates the episode 19 March 2022; the project page dates it 22 March 2022.
+
+Decision: upgraded SRC-158 from transcript/link-only to transcript plus preview-audio manifestation. The clip is not treated as the full interview, and no new biographical claim was promoted from it. Full audio and the transcript’s self-reported claims remain open for future listening/verification.

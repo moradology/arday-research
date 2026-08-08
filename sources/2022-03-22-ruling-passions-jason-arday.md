@@ -9,7 +9,7 @@ id: SRC-158
 - **Published:** 22 March 2022
 - **Type:** podcast interview with full web transcript
 - **Embedded audio:** Spotify episode `1O33ppNFEct0Xv8HIyg8VY`
-- **Local assets:** [page and transcript snapshot](../assets/documents/ruling-passions-episode-2-jason-arday-page-2022-03-22.html), [episode image](../assets/images/ruling-passions-jason-arday-episode-2.png)
+- **Local assets:** [page and transcript snapshot](../assets/documents/ruling-passions-episode-2-jason-arday-page-2022-03-22.html), [episode image](../assets/images/ruling-passions-jason-arday-episode-2.png), [Spotify page snapshot](../assets/captures/2026-08-08-ruling-passions-spotify.html), [60-second Spotify clip](../assets/audio/ruling-passions/ruling-passions-jason-arday-spotify-clip.mp3)
 
 ## What is established
 
@@ -17,9 +17,11 @@ The Ruling Passions project identifies Arday as the guest for episode 2 and desc
 
 ## Capture note
 
-The page and image were downloaded on 2026-08-06. The embedded Spotify player was retained as a link; no direct public audio file was exposed in the page or Padlet embed during this capture. Checksums are in [capture metadata](../assets/metadata/ruling-passions-jason-arday-capture-2026-08-06.md).
+The page and image were downloaded on 2026-08-06. A Spotify page recheck on 2026-08-08 exposed a public 60.03-second MP3 clip through Spotify’s page metadata. This is a preview manifestation, not the full episode; no full public audio file was recovered. The Spotify structured metadata dates the episode 19 March 2022, while the project page dates its publication 22 March 2022. Checksums for the original capture remain in [capture metadata](../assets/metadata/ruling-passions-jason-arday-capture-2026-08-06.md).
 
 On the same date, a direct fetch of the embedded Padlet URL (`https://shu.padlet.org/embed/9vuzwdgrah4npk4r`) followed a tenant redirect to a Sheffield Hallam login page. The returned HTML exposes no audio attachment or media URL. This is preserved as a changed/access state, not as evidence that the underlying recording has been removed.
 
 - [Padlet tenant-login capture](../assets/documents/ruling-passions-padlet-login-2026-08-06.html) — SHA-256 `bd4f2858e27716ae4ae887698acfe2929fb9b4baf040e91e6bb7948ae2b12a31`
 - [Padlet response headers](../assets/documents/ruling-passions-padlet-login-2026-08-06-headers.txt) — SHA-256 `896f375f016c75526ff61c628bd8ce414bff8175c80cac0ad25761a2c11e6919`
+- [Spotify page snapshot](../assets/captures/2026-08-08-ruling-passions-spotify.html) — SHA-256 `2617da85085e3a7927f6aba5b79068669f46f1b79d348f9c5265acf8667cd04b`
+- [Spotify preview clip](../assets/audio/ruling-passions/ruling-passions-jason-arday-spotify-clip.mp3) — 60.03 seconds, 96 kbps MP3, SHA-256 `bb5de28f13f9be45d9b23911f3e49f6f62fd22a4090c146dd687f90112ed36f3`
