@@ -3371,3 +3371,10 @@ Discovery: the fresh YouTube search boundary returned LBC video `D3xzh6uja_w`, w
 Capture: preserved LBC metadata, English original captions, a 360p video/audio merge, and the 1280×720 thumbnail. The video runs 22:54.12 and was uploaded on 8 August 2026.
 
 Decision: catalogued the video as a broadcaster commentary/reporting manifestation. Its strong evaluative language and captioned claims remain attributed to LBC or named speakers; no underlying allegation or institutional outcome was promoted to fact.
+## 2026-08-08 — SRC-625/C-853–C-854: Spiked podcast video recovered
+
+Discovery: the fresh YouTube search boundary returned Spiked video `OIkeRnQtXQ4`, a distinct publisher podcast rather than a duplicate of the written Spiked commentary or the Channel 4/LBC reports.
+
+Capture: preserved yt-dlp metadata, English original captions, a 640×360 video/audio merge, and the 1280×720 thumbnail. The video runs 34:18.28 and is dated 7 August 2026 by its metadata.
+
+Decision: catalogued the video as political commentary. Its evaluative title, claims, and institutional-process discussion remain attributed to Spiked’s presenters; no allegation, biography claim, or investigation outcome was promoted to fact.
