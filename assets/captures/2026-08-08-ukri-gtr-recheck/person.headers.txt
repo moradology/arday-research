@@ -1,0 +1,13 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 03:25:13 GMT
+content-type: text/html;charset=UTF-8
+server: nginx/1.21.6
+link-pages: 0
+link-records: 0
+link: <http://gtr.ukri.org/person/04D6C214-8D92-40EA-9AFB-D4AAA5ACD549?term=&page=1&fetchSize=25&selectedSortableField=pro.sd&selectedSortOrder=DESC>; rel=first, <http://gtr.ukri.org/person/04D6C214-8D92-40EA-9AFB-D4AAA5ACD549?term=&page=0&fetchSize=25&selectedSortableField=pro.sd&selectedSortOrder=DESC>; rel=last
+content-language: en-US
+expires: Sun, 08 Aug 2027 03:25:13 GMT
+cache-control: max-age=31536000
+cache-control: public, no-transform
+x-cache-status: MISS
+

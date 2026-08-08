@@ -1,5 +1,7 @@
 # Work state
 
+Latest UKRI access checkpoint: on 2026-08-08 `SRC-521/C-665` rechecked the canonical Gateway to Research person URL after indexed results continued to show Jason Arday/EDICa. The direct response remains byte-identical “Kevin Wilson” HTML with no Arday/EDICa content. This preserves an unchanged official access/identity mismatch; C-120 remains bounded to the indexed manifestation and no new substantive funder claim was added.
+
 Latest podcast-topology checkpoint: on 2026-08-08 `SRC-520/C-664` captured Apple Podcasts’ UK manifestation of the existing *Full Disclosure with James O’Brien* episode (20 April 2023, season 2 episode 133, structured duration 1:07:18). The page exposes a Captivate stream but no new audio item; it is deduplicated to SRC-034, whose MP3 remains canonical. Reopen only for a transcript, changed metadata, or a distinct recording.
 
 Latest memoir-publication checkpoint: on 2026-08-08 `SRC-519/C-662–C-663` captured *The Bookseller*’s indexed preview for *Great and Unfortunate Things* (ISBN `9781398542747`, £20, 27 August 2026). The direct preview redirected to login; the local HTML/headers preserve the access boundary, while the indexed synopsis is retained as trade/publisher marketing copy rather than independent biographical corroboration. Reopen only for lawful preview access, a changed public endpoint, or a distinct edition/source version.

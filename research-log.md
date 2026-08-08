@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-521/C-665: UKRI Gateway identity-mismatch recheck
+
+Discovery: public indexing continued to return the official UKRI Gateway result for Jason Arday and EDICa, while the canonical direct URL had previously rendered “Kevin Wilson.”
+
+Capture: the URL was fetched again on 8 August 2026. It returned the same 37,246-byte HTML and the same visible Kevin Wilson heading; SHA-256 matches the 6–7 August body exactly. No Arday or EDICa content was exposed.
+
+Evidence handling: added SRC-521 and C-665 as an access-state recheck linked to SRC-200/C-120. The indexed Arday/EDICa facts remain bounded to their indexed manifestation; the direct endpoint remains unable to confirm them. Reopen only for a changed official response, stable API/result route, or another first-party UKRI artifact.
+
 # 2026-08-08 — SRC-520/C-664: Apple Podcasts manifestation of *Full Disclosure*
 
 Discovery: an episode-catalogue search found Apple Podcasts’ UK page for the already-canonical 20 April 2023 *Full Disclosure with James O’Brien* interview. The page identifies season 2, episode 133, Global as producer, and a structured duration of 4,038 seconds.
