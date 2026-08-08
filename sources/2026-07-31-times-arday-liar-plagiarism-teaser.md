@@ -23,7 +23,7 @@ The direct publisher response was HTTP 200 but explicitly marked as a teaser pag
 
 ## Local preservation
 
-- [Publisher teaser HTML](../assets/captures/2026-08-08-times-arday-liar/page.html) — SHA-256 `de4e56d7563778f70a7b8b2fe996c012d0370927a4fb46459ca71632a0d7841e`
-- [Response headers](../assets/captures/2026-08-08-times-arday-liar/page.headers.txt) — SHA-256 `5a3c34a4280cee5e230b432e33ce885ea18fd2c4063b446ec4b2671213dd554e`
+- [Publisher teaser HTML](../assets/captures/2026-08-08-times-arday-liar/page.html) — SHA-256 `8e044307319affce32cb187522056bf8f02b2b48edb8f6f3b3dc4e2d07d5712c`
+- [Response headers](../assets/captures/2026-08-08-times-arday-liar/page.headers.txt) — SHA-256 `1ccdd06a368699be9272f770972f3bb777d6120b1b77ff26c3b37882085192c4`
 
 Reopen only for a lawful full-text state, correction, public interview artifact, or primary institutional record. Do not reconstruct the article from unattributed reposts or social-media quotations.

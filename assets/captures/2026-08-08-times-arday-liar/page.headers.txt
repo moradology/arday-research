@@ -1,4 +1,4 @@
-HTTP/2 200 
+HTTP/2 200
 content-type: text/html; charset=UTF-8
 server: nginx
 date: Sat, 08 Aug 2026 11:59:39 GMT
@@ -27,4 +27,3 @@ set-cookie: _tm_com_p=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Ju8szOTvAm4e-Sqr.
 x-cache: Miss from cloudfront
 x-amz-cf-pop: MCI50-P2
 x-amz-cf-id: IhqqiUpNXZNoig7BN5YS-N3jwufdF4RbpBiSMco1mHuTexmesuOPWw==
-
