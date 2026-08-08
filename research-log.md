@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-530/SRC-587/C-773–C-778: BABAO review recovery and follow-up
+
+Discovery: the earlier BABAO record had only browser-readable PDF text and a direct-retrieval 403 boundary. A University of Derby repository result exposed the same report, and the Internet Archive CDX listed valid 2023 and 2024 captures. BABAO’s own review page and annual reviews supplied commissioning and implementation context.
+
+Capture: recovered the 25-page 29 March 2024 Wayback PDF, extracted text, rendered pages, BABAO’s commissioning and current EDI-resource pages, and 2021/2022 annual-review PDFs with extracted text and selected renders. The recovered PDF’s SHA-256 is `80ca6aa782fe05b1593f97a0a9a8a17f2a8f905ace6a2ec8cb73f1a2aaf2fa80`.
+
+Decision: added SRC-587 as a manifestation/follow-up record linked to SRC-530 rather than creating a duplicate review. The report’s methodology, limitations, 27 recommendations, BABAO’s stated 2021 work-plan adoption, and 2022 mixed KPI status are now auditable. Underlying payment, conference attendance, later completion, and continuing Arday involvement remain unresolved.
+
 # 2026-08-08 — SRC-586/C-769–C-772: RIA–British Council dialogue materials
 
 Discovery: the official British Council event page exposed the 30 January 2020 Royal Irish Academy/British Council dialogue context, programme PDF, discussion-paper PDF, Facebook live lead, and a Kaltura embed for Jason Arday. Direct shell retrieval of the current page returned an Akamai access-denied body, so the browser-readable page state and its access boundary were both retained.

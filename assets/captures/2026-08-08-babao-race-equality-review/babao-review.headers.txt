@@ -1,0 +1,11 @@
+HTTP/2 200
+content-type: text/html; charset=UTF-8
+x-pingback: https://babao.org.uk/xmlrpc.php
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://babao.org.uk/wp-json/>; rel="https://api.w.org/"
+link: <https://babao.org.uk/wp-json/wp/v2/posts/709>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://babao.org.uk/?p=709>; rel=shortlink
+date: Sat, 08 Aug 2026 09:41:47 GMT
+server: LiteSpeed
+vary: User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000

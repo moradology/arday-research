@@ -1,0 +1,920 @@
+British Association for
+Biological Anthropology and
+Osteoarchaeology (BABAO)
+____________________________________
+Equality, Diversity and Inclusion
+Race Equality Review
+_______________________
+
+
+
+Authors: Dr Jason Arday and Dr Lizzy Craig-Atkins
+
+Supported by: Katie Faillace, Dr Kori Lea Filípek, Katie Mariamne Hullock,
+
+Matthew Lee, Dr Rebecca Redfern, Tegid Watkin and Prof Anna Williams
+
+
+
+May 2021
+
+
+
+
+                                                                         1
+Contents
+Executive Summary......................................................................................................................................4
+
+   Recommendation 1: Representation and diversification....................................................................5
+
+   Recommendation 2: Cultural competence ...........................................................................................5
+
+   Recommendation 3: Collective action ..................................................................................................5
+
+1 Background ................................................................................................................................................6
+
+   1.1 About the organisation......................................................................................................................6
+
+   1.2 The Commissioning of this Report.................................................................................................6
+
+   1.3 The Review Team ..............................................................................................................................7
+
+   1.4 Scope ....................................................................................................................................................7
+
+   1.5 Purpose ................................................................................................................................................7
+
+   1.6 Definitions ..........................................................................................................................................8
+
+2 Methodology ..............................................................................................................................................9
+
+   2.1 Overview .............................................................................................................................................9
+
+        2.1.1 Quantitative ................................................................................................................................9
+
+        2.1.2 Qualitative ...................................................................................................................................9
+
+        2.1.3 Stakeholder engagement ...........................................................................................................9
+
+   2.3 Limitations ..........................................................................................................................................9
+
+3 Findings ................................................................................................................................................... 10
+
+   3.1 Membership ..................................................................................................................................... 10
+
+   3.2 Engagement ..................................................................................................................................... 11
+
+   3.3 Reporting procedures ..................................................................................................................... 12
+
+   3.4 Governance ...................................................................................................................................... 13
+
+   3.5 Antiracist initiatives ........................................................................................................................ 14
+
+   3.6 Attitudes ........................................................................................................................................... 15
+
+   3.7 Confidence ....................................................................................................................................... 16
+
+5 Conclusions ............................................................................................................................................. 17
+
+
+                                                                                                                                                                2
+6 Action and Improvement...................................................................................................................... 18
+
+Appendix 1: Implementation Plan .......................................................................................................... 19
+
+Appendix 2: BABAO EDI survey 2020: summary results ................................................................. 23
+
+
+
+
+                                                                                                                                               3
+Executive Summary
+Racism continues to be widespread, subtle and often ignored or selectively attended to within
+organisations. This review sought to evaluate the British Association for Biological Anthropology
+and Osteoarchaeology (BABAO)’s existing race equality practices, to further support its
+movement towards becoming an antiracist organisation. The review arose from a commitment by
+BABAO to interrogate its current structures and redress problematic cultures within the
+organisation, following a member of colour expressing concerns. In itself, this provides an
+encouraging example both of the reflexivity of the organisation and the power of a single voice.
+
+Through focus groups and surveys, insights were gained with regards to the organisational culture
+and in response to issues concerning equality, diversity and inclusion (EDI), particularly regarding
+the need for BABAO to become a more racially literate organisation. The review attempted to
+glean members’ understanding of anti-racism and how some cultures within the organisation may
+be racially exclusive or marginalising. In addition to this, the reviewers engaged with stakeholders
+about where areas could be improved within BABAO in continuing their work towards becoming
+a racially cognizant organisation. Responses gleaned from the focus groups and survey
+questionnaire distributed to members revealed that BABAO as an organisation has made some
+tentative first steps towards race equality, but has some way to go.
+
+The paucity of Black, Asian and Minority Ethnic members made gaining perspectives a challenge
+in relation to experiences of racial discrimination. In itself, this is an indicator that inclusion is an
+area for growth and reflection. Other key findings included issues with reporting structures and
+governance processes, with a need for strong and courageous leadership to drive forward
+conversations around race and racism; a need for training and work to improve racial literacy of
+the organisation and its members; and a lack of engagement and participation from current
+members in EDI issues. Nevertheless, the review also indicated that the organisation has made
+significant strides towards establishing anti-racist practices and are working diligently to engage all
+members in this endeavour. To this end, the conclusions and recommendations provided aim to
+enhance current action and further enable BABAO to achieve an anti-racist, inclusive
+organisational culture.
+
+Based on the considerations outlined throughout the report, there were twenty-seven
+recommendations made. They reflect the need to build a foundation of awareness, understanding
+and safety upon which to develop a culture of learning, reflection and shared, collective action.
+High-level recommendations are synthesised below, with further detail in the body of the report.
+
+
+                                                                                                       4
+Recommendation 1: Representation and diversification
+A priority area for BABAO is in its membership, which lacks representation from Black, Asian
+and Minority Ethnic people. This is contributing to a number of its blind spots, as well as
+making it a less inclusive environment for current and prospective members. Targeted efforts
+will support a more inclusive culture, including consultation with members and stakeholders of
+colour, decolonisation of the current structures and charitable activities, and relevant campaigns.
+
+Recommendation 2: Cultural competence
+Another key area of consideration is in the organisation’s understanding of and attitude to
+racism, which informs the code of conduct and attitudes of its members. It requires a level of
+racial literacy, such as being able to identify and challenge covert racism (e.g. micro-aggressions).
+The governance processes within the organisation must continue to drive this forward, with
+reporting mechanisms that are effective, expedient and culturally responsive. BABAO trustees
+and members would benefit from antiracist training to target this area of development.
+
+Recommendation 3: Collective action
+It is absolutely imperative for all members to engage in helping BABAO to become a more
+antiracist organisation. To foster this, senior leaders should communicate commitment and
+investment in racial equity work, and steps should be taken to build community both within the
+organisation and its membership, as well as establishing wider partnerships with shared visions.
+Senior leaders must initiate courageous conversations to model the vulnerability required to
+do this meaningfully and to disrupt current cultures of silence and promote action.
+
+
+
+
+                                                                                                        5
+1 Background
+1.1 About the organisation
+Formed in 1998, BABAO promotes the study of biological (or physical) anthropology for the
+purpose of understanding the physical development of the human species from the past to the
+present. The British Association for Biological Anthropology and Osteoarchaeology (BABAO)
+provides a forum for discussion and intellectual exchange for professionals and students in all
+areas of biological anthropology.
+
+1.2 The Commissioning of this Report
+In the wake of the murder of George Floyd in the summer of 2020, which became a seminal
+moment for tackling racism globally, BABAO both internally and publicly expressed a
+commitment to improving equality and diversity. This became crystallised in the organisation’s
+Equality, Diversity and Inclusion (EDI) aims and objectives in response to members of colour
+questioning whether the organisation was truly committed to tackling racism. In itself, this
+provides an encouraging example of the value and impact a single person can have when they
+speak out against racism. Creating opportunities for honest feedback is essential to effecting
+change and recognising blind spots. It is noted that a recent EDI activity included creating an
+anonymous feedback form, which supports this process.
+
+ •   Opportunities to collate meaningful feedback should be frequent, meaningful and sensitive
+     (i.e. anonymous or within a safe, reflective space);
+ •   There should be a clear process for responding to and acting on feedback.
+
+In July 2020, BABAO therefore commissioned a review into the organisation’s race equality
+practices with a view to improving and developing a more racially cognizant workforce.
+Historically, race and racism have been submerged within the organisation’s wider remit of
+“inclusion” and this has meant it has thus far been deprioritised. However, during the period of
+evaluation and consultation BABAO demonstrated an active commitment towards addressing
+potential incidences of racial exclusion, alongside a willingness to consider and examine potential
+blind spots.
+
+It is essential that any organisation pursuing racial equity starts with the assumption that
+racism exists within their institution, as it is from this position that they can effect
+meaningful change.
+
+
+
+                                                                                                 6
+1.3 The Review Team
+Dr Jason Arday was commissioned to undertake this review, supported by Dr Lizzy Craig-Atkins
+and Dr Rebecca Redfern. Both are long-standing members of the organisation with Dr Craig-
+Atkins having been a former Trustee and Dr Redfern the current President of BABAO.
+
+Dr Arday is an Associate Professor in Sociology at Durham University in the Department of
+Sociology and the Deputy Executive Dean for People and Culture in the Faculty of Social Science
+and Health. He is a Trustee of the Runnymede Trust, the UK’s leading Race Equality Thinktank
+and also the British Sociological Association (BSA) and a Fellow of the Royal Society of Arts
+(RSA).
+
+1.4 Scope
+The commission of this review led to consideration of other intersecting components such as
+disability and caring responsibilities. However, the risk of focusing on multiple factors is that each
+can serve to dilute the other(s). Historically, race and racism have been conflated within other
+intersections and as a result associated issues and actions can be neutralised or suppressed. As
+such, this report centres race and racism to ensure that it centres its original purpose.
+
+ •   Race and racism, including the lived experience of Black, Asian and Minority Ethnic
+     members, should be centred at every opportunity.
+ •   Separate reviews should be carried out for key minoritised communities, such as those with
+     disabilities. Intersectionality should be woven throughout each report.
+
+
+1.5 Purpose
+The primary purpose of the review was to unearth areas within the organisation that may be
+upholding and maintaining racism. It interrogated areas for development whilst also recognising
+and strengthening areas that are contributing to antiracism. As such, this report sets out the
+findings that emerged from consultation with BABAO members, with subsequent
+recommendations that provide a schematic and navigational focus for the organisation’s approach
+to race equality.
+
+The outcomes and implementation phases beyond this review aim to support antiracist practices,
+resulting in greater diversification within the organisation. Appendix 1 contains the action plan
+which informs how the recommendations can be converted and embedded into practice.
+
+
+
+
+                                                                                                    7
+1.6 Definitions
+The following definitions of institutional racism are used within this review to provide the
+organisation with a navigational point from which to begin dismantling racially inequitable
+structures:
+
+“The collective failure of an organisation to provide an appropriate and professional service to
+people because of their colour, culture, or ethnic origin. It can be seen or detected in processes,
+attitudes and behaviour which amount to discrimination through unwitting prejudice, ignorance,
+thoughtlessness and racist stereotyping which disadvantage minority ethnic people.”
+
+                                                                         The Macpherson Report
+
+“Institutional racism is that which, covertly or overtly, resides in the policies, procedures,
+operations and culture of public or private institutions - reinforcing individual prejudices and being
+reinforced by them in turn.”
+
+                                          A. Sivanandan, Director, Institute of Race Relations
+
+“If racist consequences accrue to institutional laws, customs or practices, that institution is racist
+whether or not the individuals maintaining those practices have racial intentions.”
+
+                                                           The Commission for Racial Equality
+
+In sum, institutional or systemic racism is woven into structures and is often invisible except to
+those it disadvantages. This is why organisations that reflect only (or mainly) the dominant group
+are most at risk of upholding such systems; as its beneficiaries, they reinforce and are reinforced
+by the mechanisms that serve them. The disruption of these patterns are essential, and it is through
+reviews such as this one that they can be questioned and thus dismantled over time.
+
+
+
+
+                                                                                                    8
+2 Methodology
+2.1 Overview
+The review used mixed methods to examine the issues how BABAO could improve its
+commitment and EDI practices towards improving race equality.
+
+2.1.1 Quantitative
+
+Existing quantitative data taken from Equalities Monitoring Data Survey was examined to capture
+the current landscape of the organisation and its membership. This was from 2019 and comprised
+116 responses, of which only 5 (4.3%) were from ethnic minority backgrounds.
+
+2.1.2 Qualitative
+
+Within the Equalities Monitoring Data survey, open-ended questionnaires were also utilised to
+glean perspectives and understandings of the organisation’s approach towards race equality. Due
+to low responses (n=7) earlier survey data (2019) were considered alongside current (2021), which
+also acted as a point for comparison.
+
+Qualitative data was mobilised through the medium of focus groups (n=20). The focus groups
+provided a conduit for members to express their concerns about the organisation’s approach to
+racial equality and the paucity of diversification within the membership and governance.
+
+2.1.3 Stakeholder engagement
+
+There was also engagement with a number of stakeholders within the EDI committee (Dr Lizzy
+Craig-Atkins, Dr Kori Lea Filípek, Katie Hullock, Tegid Watkin, Matthew Lee and Prof Anna
+Williams). The narratives provided were used mainly to understand how the organisation has dealt
+with matters associated with intersectional discrimination. The range of responses provided an
+opportunity to consider the strengths and areas of improvement for the organisation in accordance
+with the views of the committee and the boarder membership.
+
+2.3 Limitations
+Given the dearth of ethnic minority members within BABAO, it was particularly difficult to
+examine and explore the potential exclusionary experiences of Black, Asian and Minority Ethnic
+members. Information gleaned came instead from a group of mostly white members attempting
+to speak to some of the exclusionary experiences that Black, Asian and Minority Ethnic members
+faced within the organisation. To ensure as meaningful an exploration was possible in spite of the
+limited perspective that such a homogenous group is able to offer, the review engaged with a
+
+
+                                                                                                9
+consistent collective of members (n=20) during the consultative and focus group phase. Of these
+members, the majority identified as female.
+
+Whilst the lack of diversity within the organisation is a finding in itself (see Section 3), it is
+important to note within the methodology that the accounts, experiences and views that are
+informing the recommendations and implementation phases come from a comparatively relatively
+small proportion of the entire BABAO membership (N=500-600). Whilst these may not
+necessarily be representative of the entire views and experiences of the collective membership
+(despite all members being encouraged to participate), they are considered by this review to be
+broadly indicative and are presented as a stimulus for what the organisation will need to consider
+with regards to implementing any future race equality interventions.
+
+3 Findings
+3.1 Membership
+As noted in Section Two, the lack of representation of members of colour within BABAO was
+itself a key finding. In 2019, the BABAO Equality, Diversity and Inclusion Sub-Group retrieved
+monitoring data from members which encompassed intersectional variables around gender,
+sexuality, age, race etc. The survey was completed by 116 members. The data showed that 1.72%
+of members were Black, 0.86% were Asian, and 1.72% being of Mixed-Heritage. The current
+review suggested that it is an even lower number now. Whilst it is important to recognise that
+Archaeology as a profession and academic discipline tends to attract individuals from White,
+middle-class backgrounds, this nevertheless points to a clear lack of inclusivity within the
+organisation.
+
+It is common for organisations that lack diversity to exhibit cultural blind spots, namely because
+without alternative perspectives and narratives, the dominant narrative is seen as the only one.
+Not only is this disadvantageous for organisations who lose out on the benefits of a diverse
+workforce, but it supports a culture of superiority and exclusion; those who are not members of
+the dominant group feel “othered”, or worse, are detracted from seeing membership or indeed
+this career as viable or “for them”.
+
+There is a clear need for targeted interventions to improve and diversify the membership to ensure
+greater representation, as this may help to attract more members from minority backgrounds.
+
+ •   Identify key pinch points over the career pipeline and related membership stages that can
+     be targeted through racially literate recruitment and advertising campaigns;
+
+
+                                                                                               10
+ •   Communicate a more inclusive strategy and vision that is available both internally and
+     publicly;
+ •   Continue work to decolonise the current charitable activities and ensure they are more
+     inclusive.
+
+3.2 Engagement
+As with 3.1, the absence of information is still information. The lack of engagement in the review
+by the vast majority of members is itself a key indicator of BABAO’s cultural climate; in particular
+suggesting that racism is not considered of interest, or perhaps even relevance. This is a common
+way of thinking among dominant groups; for example, white people tend to associate race and
+racism with Black, Asian and Minority Ethnic people rather than themselves and likewise men
+tend to see feminism as inherently “female”. White men, therefore, are often furthest removed
+from oppressive experiences within society and as such have less “skin in the game”. Given of
+its 500-600 members so few male members participated in the surveys and focus groups, this is
+likely to have been a factor at play.
+
+Supporting this notion, members and stakeholders within the focus groups felt that there was no
+collective sense of responsibility evident by all members for the advancement of race equality
+throughout BABAO, which is likely to lead to the agenda losing traction across the wider
+membership. Lack of shared accountability or ownership by individuals within organisations (i.e.
+“not my problem”) is a key driver in upholding the status quo.
+
+Apathy is well-established as an enabler of racism (e.g. Baldwin, 2017). As Spanierman and Cabrera
+note, “white apathy communicates that race and racism do not matter. It also serves to deny,
+distort and minimise race and racism in society, because if one does not have any feelings about
+racism, then racism must not be important” (2015, p.11). It is essential that organisations target
+and convert apathy into concern, which can be done through top-down (strong commitment
+and investment at senior leadership level) and bottom-up (e.g. building community among
+members) approaches.
+
+ •   Communicate strong commitment to and investment in antiracism at senior leadership
+     level, including finance and time resources;
+ •   To build community and culture among members that targets “invisibility” and increases
+     racial literacy (e.g. reflective spaces and workshops);
+
+
+
+
+                                                                                                 11
+ •       To consider intersectional variables (e.g. gender) when developing initiatives that increase
+         racial equity.
+
+Another way of building community is in effective partnerships being developed between BABAO
+and other antiracist organisations, with a focus on EDI and relevant inclusion services to make
+progress in this area. This can also expand the reach of the organisation, which can be tied in with
+the campaigns discussed in 3.1, as well as fostering shared learning and best practice.
+
+ •       To partner with other antiracist organisations to build community and share learning and
+         good practice.
+
+3.3 Reporting procedures
+It was evident that the EDI committee have engaged diligently and remained agile to
+discriminatory behaviours, particularly in terms of continuously trying to improve reporting
+mechanisms. For example, they have created dedicated space in which to appraise current
+processes as part of this review. With the absence of members of colour, this remains a challenge
+to evaluate; however, ongoing review and consultation will support the development of a climate
+in which reporting can occur and be dealt with effectively.
+
+ •       To engage in ongoing review and consultation to ensure reporting procedures are effective
+         and racially literate.
+
+The focus groups pointed to concerns about how particular incidences of racism or discrimination
+had previously been handled, suggesting that:
+
+     •     reporting procedures are not robust enough;
+     •     the culture of the organisation being perceived as not inclusive;
+     •     the organisation is not appropriately equipped or informed to address racial discrimination
+           if and when it may occur amongst its members.
+
+These points chimed with feelings from some members that the organisation was not sufficiently
+equipped to deal with complaints of racism, discrimination, harassment or abuse and this was seen
+as an area that could be improved as the organisation continues to advance with regards to
+BABAO EDI’s objectives.
+
+Experiences of racism are about the harm caused, whereas traditional grievance processes are set
+up to establish whether the complaint should be upheld or not. This creates mini, internal “justice”
+
+
+                                                                                                    12
+systems within organisations that overvalue objectivity and judgment and in many cases, blame
+and “believability”. This can be off-putting for victims of racism, for whom such processes could
+be retraumatising, gas-lighting or otherwise harmful. Processes that instead (or at least as well as)
+value reparation of harm, lessons learned and compassion would centre the lived experience
+of the victim whilst empowering learning at both individual and organisational level.
+
+ •   To utilise restorative approaches that centre the experiences of those impacted by racism,
+     whilst supporting a culture of learning and humility.
+
+That said, racism is a hate crime and should be viewed as such. The raising of formal grievances
+should follow cyclical and robust processes, which ensure disciplinary action for any members
+engaging in discriminatory actions or behaviour. Victims of racism should be offered appropriate
+support and counsel, ensuring these are culturally responsive and racially literate. If necessary, this
+should be outsourced if the organisation lacks the cultural competence to deliver safely in-house.
+Appropriate consequences should be delivered to those engaging in racism, with strong support
+and weight at senior leadership level to set the tone for its unacceptability. There should always
+be lessons learned from incidents to prevent repetition of harm, with dissemination in a sensitive
+and appropriate manner.
+
+ •   To ensure victims of racism are offered culturally responsive support, outsourcing to
+     appropriate external agencies if required;
+ •   To ensure appropriate consequences are taken when dealing with those engaging in racism,
+     including strong management support and weight at senior leader level;
+ •   Lessons learned processes to follow every incident, with dissemination as appropriate.
+
+
+3.4 Governance
+A range of organisational EDI related policies were discussed with the BABAO EDI sub-group,
+examined to determine the extent that the organisation had an active and robust policy framework.
+The organisation has clearly attempted to prioritise this issue, albeit in response to complaints
+made by members in response to accusations of a racially discriminatory culture within BABAO.
+Policies and membership guidance around EDI aims and objectives were examined in detail for
+both content and their operation.
+
+The review showed that racial equity is not mainstreamed throughout general policy structures,
+and is instead reserved for specific sections within EDI policy and processes. This tends to mean
+that EDI is “compartmentalised” and thus other policies are at risk of cultural blind spots. As
+
+                                                                                                    13
+noted in research (e.g. Parken et al., 2019), policies that fail to examine unacknowledged
+assumptions embedded in policy frameworks can reinforce social and economic divisions. Instead,
+antiracism should be a golden thread that runs throughout all governance processes. Members
+and stakeholders also felt that responsibility for EDI and race equality was not consistent or
+widespread across the organisation.
+
+ •   To mainstream racial equity by reviewing all policy documents, in consultation with
+     members and/or stakeholders of colour, to ensure antiracism is considered throughout;
+ •   To ensure EDI is a standing agenda item at all key meetings, including at senior leadership/
+     trustee level.
+
+
+
+Further supporting this finding, in focus groups members stated that the organisation needs to
+“modernise” and becoming more racially cognizant of the issues affecting members of colour and
+the profession more generally. Qualitative data indicated that there were not opportunities
+available for ethnic minority members to be actively involved in the governance of the
+organisation.
+
+ •   To identify key areas (e.g. charitable activities, website, campaigns, etc.) where
+     modernisation can take place, doing so in consultation with members and/or stakeholders
+     of colour.
+
+3.5 Antiracist initiatives
+A number of stakeholder engagement activities formed part of this review. This included a series
+of meetings and workshops with the EDI Committee and the wider membership, including
+attendance at Board meetings. A selection of members were engaged throughout the iterative
+workshops which were focused on discussions about race, racism and whiteness. This shows the
+value of creating such spaces, without which these important discussions would not occur.
+
+Positively, members from the organisation attended and provided suggestions on where they felt
+BABAO could improve with regards to its practice and commitment to race equality. The
+workshops were designed to engage members in anti-racist endeavour and provide some
+understanding around the pervasive nature of racial discrimination. The workshops complemented
+a collective consensus among a nucleus of members concerning greater diversity and racial literacy
+within the organisation, in an attempt to better represent the interests of ethnic minority members.
+These are essential to advancing the organisation in terms of racial equity, and should be continued.
+
+
+                                                                                                  14
+Senior leaders should endorse support for these through communication, time and fiscal
+investment.
+
+Positively, the review showed a number of actions to this effect, such as working with trustees and
+taking steps to widen participation. There are also a number of antiracist resources on the website.
+
+ •   To schedule regular antiracist workshops and initiatives, including through a variety of
+     mediums (e.g. online, face-to-face);
+ •   Senior leaders/trustees should endorse antiracist initiatives by investing fiscally and with
+     time, communicating this commitment and expectation to all members.
+
+3.6 Attitudes
+The organisation has taken great strides to become a racially more cognitive organisation with
+several interventions to be implemented with a focus on encouraging and supporting more Black,
+Asian and Minority Ethnic people in the profession. Specifically, this work has been mobilised by
+the BABAO EDI sub-group. Through various reflective instruments, surveys and data monitoring
+the organisation has been able to illuminate the areas needed for improvement with regards to
+achieving racial equality and broadening and diversifying the membership of the organisation. In
+this respect, the advice would be: “more of the same”.
+
+ •   To continue to collect, monitor and report on data, using qualitative and quantitative
+     methods, to support meaningful review and evaluation of the changing BABAO landscape.
+
+Whilst recognising this commitment, there was evidence also pointing to a reluctance to accept
+organisational needs to modernise and diversify. This resulted in a subtle resistance which can
+undermine the vision; it is important that the organisation is aware that this could compromise its
+ability to meet EDI aims and objectives.
+
+ •   To ensure that creative ways of measuring attitudes are considered, such as engagement,
+     participation and commitment from BABAO members and senior leaders/trustees;
+ •   To challenge negative attitudes and resistance through senior leader commitment, sanctions
+     for racism, workshops and initiatives, and member-wide culture and community building.
+
+Members that engaged with this review, expressed a need for continued priority to be given race
+equality and anti-racism within BABAO. In light of these views, the organisation would benefit
+greatly from refining and finessing its aims and objectives in relation to addressing race equality
+and wider EDI objectives across the intersection.
+
+                                                                                                 15
+3.7 Confidence
+The review and in particular, the views and experiences of the members that participated in the
+focus groups, noted concerns about the extent to which some of the organisation’s members are
+able to proactively advance race equality; in particular that the outstanding need to develop
+confidence in managing race-related issues that might arise. This is a common finding among
+organisations commencing this journey, who want to “get it right”. What this often means is that
+they are scared of getting it wrong, which can often lead to silence and inaction. As with any
+learning and growth, vulnerability is required. To be clear, this is not systemic vulnerability, it is
+relational vulnerability; that is to say, it is about engagement with people.
+
+The lack of relational vulnerability present within BABAO was reflected in the levels of trust and
+confidence from members with regards to its commitment to race equality and anti-racism. The
+members who engaged in the review clearly wanted to see more visible collective action from all
+BABAO members with regards to the organisation as a whole. This point was repeatedly raised in
+this review, suggesting that current conversations are either neglectful of racism or they are not
+sufficiently convincing or instilling confidence in members. Transparency, honesty and patience
+will be required by all involved to re/build trust and confidence in the organisation’s ability to
+capably address and confront issues of racial inequality or discrimination. A targeted commitment
+to this will ultimately result in BABAO becoming a more racially literate organisation resulting in
+members being more cognizant of anti-racism and the impact this may have on ethnic minorities
+wishing to join the BABAO. This will be particularly effective if a top-down approach is taken,
+i.e. senior leaders and trustees leading from the front, as well as bottom-up approaches through
+listening, learning and creating spaces of inclusion and empowerment among members and users.
+
+ •   To facilitate regular conversation and dialogue, valuing listening, with examples of
+     courageous leadership that can model vulnerability and humility to trustees and members;
+ •   To consult with “experts by experience” when making key decisions and to learn to decentre
+     whiteness and centre lived experience of minoritised communities;
+ •   To engage in training to increase cultural competence and improving confidence in dealing
+     with race-related issues.
+
+
+
+
+                                                                                                   16
+5 Conclusions
+There is clearly a dearth of representation with regards to the number Black, Asian and Minority
+Ethnic members in the organisation, and this is a limiting factor both for the organisation and this
+review. As recognised in Section Two, views of members that participated in this review may or
+may not reflect those of the wider membership, specifically Black, Asian and Minority Ethnic
+members. Nonetheless, there was a strong sense that BABAO members held a collective
+consensus for the organisation to be more proactive with regards to race equality practices and
+being an anti-racist organisation, which is likely to be a view shared by people of colour.
+
+The review recognised some good examples of EDI work being undertaken from within the
+organisation with a dedicated, critical mass of people engaging. BABAO has articulated its desire
+to commit long-term to equality and diversity, with a series of targeted widening participation
+interventions and bursaries to substantiate this commitment. With regards to day-to-day work
+across the whole of the organisation, particularly since last summer, steps have been taken to
+understand and dismantle racism within the organisation, which most notably include this review.
+Equally, there are areas requiring continual development to prevent this from being considered a
+‘tick-box or compliance exercise’. One of the most powerful ways in which meaningful change
+takes place is through courageous conversation and dialogue. Moving forward, this should
+become an integral part of BABAO’s remit as the representative organisation/body for the
+profession and will be essential in mobilising the views and thoughts of all members.
+
+There has been already been some momentum built from BABAO’s commitment to become an
+anti-racist organisation. For this commitment to be sustained it must become crystallised in the
+organisation’s culture; to entrench this, more of the membership will need to be actively involved
+to ensure the burden and labour of this work does not fall on a selective committed few rather
+than the majority. For BABAO’s EDI strategic objectives and outcomes to be realised, the focus
+needs to be on the collective responsibility of the organisation, as well as mainstreaming race
+equality across the organisation’s policy, process and practice. For this to become effective and
+penetrative, racial equity must be considered in every aspect of the organisation and in consultation
+with its members and stakeholders of colour. Diversification of membership to ensure better
+representation of Black, Asian and Minority Ethnic people should be considered a key priority.
+
+
+
+
+                                                                                                  17
+6 Action and Improvement
+Whilst the completion of this review presents some encouraging, challenging and concerning
+issues for BABAO to reflect on, it is in the hope that the findings and recommendations strongly
+encourage the organisation to see this as an opportunity to positively disrupt harmful aspects of
+its culture whilst harnessing its existing strengths.
+
+The approach to achieve this should be strategic and developed in partnership with internal and
+external stakeholders. The implementation plan outlined in Appendix 1, which summarises
+recommendations alongside key indicators of improvement, provides a framework from which to
+convert this report into action. It is recommended that evaluation is ongoing and iterative to ensure
+that BABAO remain abreast of cultural changes both within and beyond the organisation.
+
+
+
+
+                                                                                                  18
+    Appendix 1: Implementation Plan
+    Note the plan below is not exhaustive; the targets and indicators are a starting point to guide forward action. KPI = key performance indicator
+
+     Recommendation                                                                         Target/Indicator                      Action Owner/Progress
+
+     Opportunities to collate meaningful feedback should be frequent, meaningful and • Multiple forums for feedback                 EDI         Part-complete
+1
+     sensitive (i.e. anonymous or within a safe, reflective space).                          identified & communicated.           committee       July 2020
+
+                                                                                            • Procedure outlined or included
+2    There should be a clear process for responding to and acting on feedback.
+                                                                                             in current (relevant) policy.
+
+     Race and racism, including the lived experience of Black, Asian and Minority Ethnic • Review of current policies;
+3
+     members, should be centred at every opportunity.                                       • Level of wider involvement.
+
+     Separate reviews should be carried out for key minoritised communities, such as • Reports/review commissioned
+4
+     those with disabilities. Intersectionality should be woven throughout each report.      relevant characteristics/issues.
+
+     Identify key pinch points over the career pipeline and related membership stages • Campaign           working     group
+5
+     that can be targeted through racially literate recruitment and advertising campaigns    (WG) established & funded.
+
+     Communicate a more inclusive strategy and vision that is available both internally • Senior       leaders/trustees      to
+6
+     and publicly                                                                            agree and communicate vision.
+
+
+
+
+                                                                                                                                                       19
+     Continue work to decolonise the current charitable activities and ensure they are • Decolonisation WG set up &
+7
+     more inclusive.                                                                       funded, with frequent review.
+
+     Communicate strong commitment to and investment in antiracism at senior • Senior leaders/trustees to issue
+8
+     leadership/trustee level, including finance and time resources.                       statement & agree funding.
+
+     To build community and culture among members that targets “invisibility” and • No. of workshops and spaces
+9
+     increases racial literacy (e.g. reflective spaces and workshops)                      established (KPI).
+
+     To consider intersectional variables (e.g. gender) when developing initiatives that • Consultation     with   relevant
+10
+     increase racial equity                                                                experts to inform initiatives.
+
+     To partner with other antiracist organisations to build community and share learning • Establish WG;
+11
+     and good practice.                                                                  • Partners connected with (KPI).
+
+     To engage in ongoing review and consultation to ensure reporting procedures are • Formal        review     cycle   and
+12
+     effective and racially literate.                                                      accountability structures listed.
+
+     To utilise restorative approaches that centre the experiences of those impacted by • No. trustees up-skilled;
+13
+     racism, whilst supporting a culture of learning and humility.                       • Agencies/training sourced.
+
+     To ensure victims of racism are offered culturally responsive support, outsourcing • Connection        with   relevant
+14
+     to appropriate external agencies if required.                                         agency (KPI).
+
+
+
+                                                                                                                               20
+     To ensure appropriate consequences are taken when dealing with racism, including • Senior leader commitment,
+15
+     strong management support and weight at senior leader/trustee level.                      reviews of current policies.
+
+     Lessons learned processes to follow every incident, with dissemination as • To update relevant policies and
+16
+     appropriate.                                                                              procedures, build in reviews.
+
+     To mainstream racial equity by reviewing all policy documents, in consultation with • Establish WG in consultation,
+17
+     members and/or stakeholders of colour, to ensure antiracism is considered.                with formal review targets.
+
+     To ensure EDI is a standing agenda item at all key meetings, including at senior • No.             agendas     added      &
+18
+     leadership level                                                                          discussed (KPI).
+
+     To identify key areas (e.g. charitable activities, website, campaigns, etc.) where
+                                                                                              • Establish WG & funding;
+19   modernisation can take place, doing so in consultation with members and/or
+                                                                                              • Level of consultation.
+     stakeholders of colour
+
+     To schedule regular antiracist workshops and initiatives, including through a variety • No. of workshops delivered;
+20
+     of mediums (e.g. online, face-to-face).                                                  • No. of mediums offered (KPI).
+
+     Senior leaders/trustees should endorse antiracist initiatives by investing fiscally and • Senior     leaders   to      issue
+21
+     with time, communicating this commitment and expectation to all members.                  statement & agree funding.
+
+     To continue to collect, monitor and report on data, using qualitative and quantitative
+                                                                                              • Data survey issued annually,
+22   methods, to support meaningful review and evaluation of the changing BABAO
+                                                                                               with analysis & report (KPI).
+     landscape.
+
+
+                                                                                                                                    21
+     To ensure that creative ways of measuring attitudes are considered, such as
+                                                                                        • Establish WG;
+23   engagement, participation and commitment from BABAO members and senior
+                                                                                        • No. of data sources.
+     leaders.
+
+     To challenge negative attitudes through senior leader commitment, sanctions for • Senior      leaders       to   issue
+24
+     racism, workshops and initiatives, and member-wide culture/community building.      statement & agree funding.
+
+                                                                                        • Senior leader accountability
+     To facilitate regular conversation and dialogue, with examples of courageous
+25                                                                                       structures (both top down and
+     leadership that can model vulnerability and humility to trustees and members.
+                                                                                         bottom up processes).
+
+     To consult with “experts by experience” when making key decisions and to learn to • Level of consultation;
+26
+     decentre whiteness and centre lived experience of minoritised communities.         • Reviews of decisions made.
+
+     To engage in training to increase cultural competence and improving confidence in • No. training offered (KPI);
+27
+     dealing with race-related issues.                                                  • Evaluation/focus groups.
+
+
+
+
+                                                                                                                              22
+Appendix 2:Summary
+            BABAOofEDI
+                    Results of the
+                        survey     BABAO
+                                 2020:    EDI survey
+                                       summary       2020
+                                                 results
+                      Prepared for the SGM held on 12th September 2020, 2pm GMT
+
+Background
+The BABAO Equality, Diversity and Inclusion (ED&I) survey was undertaken to provide benchmark data
+concerning the current membership demographic profile and to gather opinion-based and experiential data
+on a wide range of issues related to ED&I. An anonymised electronic SurveyMonkey questionnaire was
+designed by the BABAO ED&I sub-group to facilitate this survey via emailing the BABAO’s entire
+membership. The survey ran from December 1st 2019 to January 31st 2020.
+The questions were grouped into three sections: demographic data (Part 1 ‘Identity’); professional
+qualifications and employment history (Part 2 ‘Training, qualifications and employment’); and experiences
+and perspectives of equality and inclusion in both BABAO and the wider professional sphere (Part 3 ‘Your
+thoughts and experiences’). Ethics approval for this survey was granted by the University of Sheffield.
+Participation
+At the time of the survey there were 542 association members. Of these, 116 provided responses to the
+survey representing 21% of the membership.
+
+
+Results: Identity
+
+
+
+
+                                     Age (years)
+
+The majority (82%, n=95) of respondents were female and 18% (21) were male. No trans or non-binary
+members were represented. The age of respondents was varied, but those in their 20s and 30s were most
+numerous. The overwhelming majority of members were White, with 2% (2) Black, 1% (1) Asian and a
+further 3% (3) from other groups. A substantial number of respondents were members with a disability (22%,
+25). Of this group, the majority (84%, 21) described their disability as hidden/unseen.
+
+Q6: How would describe your ethnicity?                Q7: What is your nationality?
+
+
+
+
+The majority of respondents held British nationality (60%, 70), with smaller proportions of members from
+many different parts of the world. A range of different ethnic identities were expressed. Non-native English
+speakers comprised 16% (19) of the respondents and 3% (3) had multiple first languages.
+
+
+
+                                                                                                      23
+18% (21) of members were primary carers of children and 3% (4) of adults.
+33% (38) of members were affiliated with a religious group, including Christianity, Islam, Judaism, Buddhism,
+Paganism and Spiritualism.
+42% (49) of members were the first in their family to attend university.
+
+
+Results: Training, qualifications and employment
+
+      Q17: What is your highest completed qualification to date?
+                                                                     All respondents had higher or further
+                                                                     education    qualifications.   90%     (92)
+                                                                     obtained their highest qualification in the
+                                                                     UK. Groups of 4% or fewer obtained their
+                                                                     highest degrees in the US, Canada or the
+                                                                     Netherlands.
+                                                                     At the time of the survey, 56% (64) of
+                                                                     respondents were in employment, 26%
+                                                                     (30) in education, 4% (5) retired and 12%
+                                                                     (13) unemployed.
+
+
+Student members
+
+        Q26: What is your current degree or course?
+                                                                     Student respondents were primarily
+                                                                     undertaking a PhD or equivalent level
+                                                                     degree. All student members were on
+                                                                     higher education courses.
+                                                                     The subjects being studied were all within
+                                                                     the sphere of BABAO’s interests, including
+                                                                     Biological anthropology, human osteology/
+                                                                     osteoarchaeology, forensic anthropology,
+                                                                     forensic sciences and archaeology.
+
+
+Members in employment
+                                                          Q 21: I am/was most recently employed by...
+The respondents in work were employed by a
+range of different organisations, mostly in the
+UK but also Australia, Belgium, Canada,
+China, Denmark, France, Germany, Greece,
+Iceland, Italy, the Netherlands, Portugal, Spain
+and the USA.
+Just over half had a permanent contract (52%,
+42), therefore indicating a substantial number
+on fixed term or multiple contracts. 69% (56)
+worked full time and 15% (12) part time.
+
+
+
+
+                                                                                                           24
+Results: Members’ thoughts and experiences
+A large majority of respondents (79%) believe that there are issues of equality, diversity and
+inclusion that need to be addressed in our field. An even greater proportion wanted BABAO to invest
+time and resources in addressing ED&I issues: 86% indicated we should use our resources to address
+issues both within our organisation and the wider fields of Biological Anthropology and Osteoarchaeology
+ and 5% just within the organisation, with 9% suggesting BABAO should not use its resources for this work.
+
+
+Views of respondents from minority groups
+38% (44) of BABAO members identified as belonging to a minority group. More than half (52%, 23) of our
+members who identified as from a minority group reported feeling overlooked or targeted by others
+in professional or educational spaces as a result of their identity.
+Two thirds of this cohort (77%, 34) had encountered situations they felt demonstrated poor ED&I
+either as students (45%, 20), at work (36%, 16), elsewhere (36%, 16) or within BABAO (14%, 6). The
+latter focused on limited race diversity within the organisation and calls for BABAO to do more to address
+ED&I issues. This cohort also identified a series of positive experiences that included supportive and
+inclusive supervision, BABAO’s code of conduct, teaching that confronted issues of ethics and race in
+Biological Anthropology, lack of age discrimination and the ongoing work of the ED&I sub-group.
+39% (17) had reported one or more incidents to an authority (where specified this was within their workplace
+or HE institution). However, only one person (2%) said their complaint was satisfactorily resolved. 27% (12)
+experienced problems but did not report them. Slow responses, hostile complaints processes, lack of
+leadership, lack of time afforded to the issues, and ineffectual reprimands/punishments were all highlighted.
+Members from minority groups identified a range of topics as BABAO priorities for ED&I work. These
+focused on race, disability, gender, LGBTQ+, fostering a supportive community, support for
+parents/carers and financial support for members with low incomes.
+
+
+Views of all respondents
+The majority of BABAO members had experienced or witnessed examples of both poor and good
+ED&I. While there was a trend towards more members experiencing positive behaviour within BABAO than
+in other areas of their work and student lives, there were still many who had poor experiences in their jobs
+(36%), as students (37%) or within BABAO (10%).
+     Q37: Do you think you would feel comfortable raising an
+     issue relating to ED&I in the future?
+                                                                 Around half of respondents felt they would be
+                                                               comfortable raising an issue related to ED&I with
+                                                               their employer and BABAO (57%, 62) but a
+                                                               substantial number were unsure (30%, 33). The
+                                                               remainder had reservations about reporting
+                                                               (13%, 14).
+
+
+
+
+41% of all respondents had witnessed someone who is part of a minority group being overlooked or
+targeted because of their identity at some point in their professional lives. These experiences included
+being witness to harassment and discrimination and the abuse of power by some people in senior roles.
+All respondents suggested a very wide range of EDI topics which should be BABAO’s focus, but
+many expressed a desire for BABAO to be a more racially diverse organisation and offer extra
+support for members experiencing intolerance and exclusion.
+
+
+
+
+                                                                                                            25
+

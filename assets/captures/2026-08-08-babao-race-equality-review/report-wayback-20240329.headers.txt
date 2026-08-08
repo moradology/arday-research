@@ -1,0 +1,37 @@
+HTTP/2 200
+server: nginx
+date: Sat, 08 Aug 2026 09:42:40 GMT
+content-type: application/pdf
+content-length: 2377307
+x-archive-orig-cache-control: private, max-age=345600
+x-archive-orig-expires: Tue, 02 Apr 2024 09:50:56 +0000
+x-archive-orig-etag: 80ca6aa782fe05b1593f97a0a9a8a17f2a8f905ace6a2ec8cb73f1a2aaf2fa80
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-referrer-policy: same-origin
+x-archive-orig-strict-transport-security: max-age=62208000; includeSubDomains
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-content-security-policy: default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'none'
+content-disposition: inline; filename="BABAO-EDI-Report-Arday-and-Craig-Atkins-May-2021-v2-3.pdf"
+x-archive-orig-date: Fri, 29 Mar 2024 09:50:56 GMT
+x-archive-orig-content-length: 2377307
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Fri, 29 Mar 2024 09:50:56 GMT
+link: <https://repository.derby.ac.uk/download/80ca6aa782fe05b1593f97a0a9a8a17f2a8f905ace6a2ec8cb73f1a2aaf2fa80/2377307/BABAO-EDI-Report-Arday-and-Craig-Atkins-May-2021-v2-3.pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://repository.derby.ac.uk/download/80ca6aa782fe05b1593f97a0a9a8a17f2a8f905ace6a2ec8cb73f1a2aaf2fa80/2377307/BABAO-EDI-Report-Arday-and-Craig-Atkins-May-2021-v2-3.pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://repository.derby.ac.uk/download/80ca6aa782fe05b1593f97a0a9a8a17f2a8f905ace6a2ec8cb73f1a2aaf2fa80/2377307/BABAO-EDI-Report-Arday-and-Craig-Atkins-May-2021-v2-3.pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20240329095413_0a10c2f1/urls_20240329095413_0a10c2f1.1650286618.megawarc.warc.zst
+server-timing: captures_list;dur=0.568128, exclusion.robots;dur=0.088361, exclusion.robots.policy;dur=0.076971, esindex;dur=0.010510, cdx.remote;dur=14.070511, LoadShardBlock;dur=100.627612, PetaboxLoader3.datanode;dur=85.382886, load_resource;dur=444.660749, PetaboxLoader3.resolve;dur=274.279992, loaddict;dur=30.002144
+x-app-server: wwwb-app255-dc8
+x-ts: 200
+x-tr: 603
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app255; path=/
+cache-control: private
+x-rl: 0
+x-na: 0
+x-page-cache: BYPASS
+server-timing: BYPASS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-location: _pdf
