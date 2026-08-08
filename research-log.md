@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-580/C-757: Valid Science commentary and exhibit capture
+
+Discovery: a current controversy search surfaced José Duarte’s *Valid Science* Substack article, “Jason Arday plagiarized other researchers’ DATA – and the journal helped him cover it up,” published 4 August 2026 and modified 6 August.
+
+Capture: preserved the full public HTML, response headers, seven embedded/public image binaries, and the platform-generated text-to-speech MP3. This is a distinct commentary source, not a duplicate of Nathan Cofnas’s Substack or the existing *Analyse That* audit.
+
+Evidence handling: the article’s allegations and evaluative framing remain attributed. Its exhibits are preserved for comparison against the canonical thesis, publication, correction, and page-level audit records; no claim of plagiarism, fabricated data, or fraud is promoted from this source alone.
+
 # 2026-08-08 — SRC-133/C-740: JustGiving legacy-route resolution
 
 The search lead `https://www.justgiving.com/fundraising/400in5days` was directly captured. Its current page title and embedded story identify the page as “The 300 (300 miles in 3 Days),” with the same 2011 campaign context already represented by SRC-133. The route is recorded as an alias/access-state manifestation, not a new fundraiser source.
