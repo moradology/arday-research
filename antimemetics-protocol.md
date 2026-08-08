@@ -6,21 +6,21 @@ This is not a claim that Jason Arday or any source is anomalous. It is a protoco
 
 ## Epistemic machinery in the source text
 
-The useful reference is not merely the atmosphere of qntm’s *There Is No Antimemetics Division*. The linked SCP text repeatedly turns epistemology into procedure: what can count as evidence when memory, observation, records, and even the existence of the research project may be unstable. The passages below are the parts worth importing into this archive.
+An LLM does not retain the whole archive or the whole conversation. It works from a bounded, changing context assembled from retrieved fragments. These principles make that limitation explicit and turn it into a design constraint: preserve provenance, externalize state, separate observation from inference, and make every conclusion recoverable.
 
 ### 1. Negative knowledge: describe the boundary, not the object
 
-In **“We Need To Talk About Fifty-Five,”** SCP-055 is treated as something that can be characterized only by exclusions. The staff can preserve what it is not—its shape, color, competence, and classification—while the positive description defeats itself. The method is not “we know nothing”; it is a constrained, auditable negative description.
+An LLM is especially vulnerable to treating an unreturned search, omitted passage, or missing artifact as if it were absent from the world. Negative descriptions prevent that collapse: they preserve what the current context rules out without inventing a positive account.
 
 > “we can only record what it isn’t.” — qntm, “We Need To Talk About Fifty-Five.”
 
-For this archive, a negative description is a real research product. “No matching Gazette notice in the tested query,” “the current directory does not reproduce the indexed role,” and “the named comparator text was not recovered” are different from “the event did not happen.” Every negative-space observation must state the search boundary and the alternative explanations still open. [Source text](https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/we-need-to-talk-about-fifty-five.html)
+For this archive, “no matching Gazette notice in the tested query” is a bounded result, not “the event did not happen.” State the search boundary and the live alternatives. [Source text](https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/we-need-to-talk-about-fifty-five.html)
 
 ### 2. Provenance before belief: interrogate the file
 
-The same conversation refuses to accept a file merely because it has the right institutional appearance. It asks who wrote it, how the interview was conducted, who the named participants were, and how the witness still retains knowledge of it. Date stamps, signatures, access credentials, and a coherent interface are evidence about the record—not automatic proof of the record’s contents.
+Context compression makes repeated, polished, institutionally formatted text look more trustworthy than it is. Provenance checks stop the model from confusing a document’s appearance with independent evidence for its claims.
 
-Apply this directly to every contested Arday item:
+For every contested item, record:
 
 - Who authored the biography, correction, CV, transcript, comparison, or institutional statement?
 - What was the source’s path from event to publication?
@@ -30,35 +30,31 @@ Apply this directly to every contested Arday item:
 
 ### 3. Asynchronous research: design for rediscovery
 
-In **“CASE COLOURLESS GREEN,”** the Division’s research is explicitly asynchronous: the subject is forgotten between iterations and rediscovered repeatedly. The failure is not only memory loss; it is the loss of an obvious entry point. A room full of notes, diagrams, dates, and familiar handwriting can still be unusable if no one knows which document should be read first.
-
-That is the exact justification for the workspace’s handoff architecture: `WORK-STATE.md` is the re-entry point; `research-log.md` records the last completed pass; `NEXT.md` says what not to repeat; the registry and hashes make the recovered artifacts recognizable. A future researcher must be able to rediscover the project without rediscovering the same sources from scratch. [Source text](https://scp-wiki.wikidot.com/case-colourless-green) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/case-colourless-green.html)
+An LLM session is inherently asynchronous: the next session will not share the same working context, and retrieval may return a different slice. The failure mode is therefore repeated discovery and circular research. `WORK-STATE.md` is the re-entry point; `research-log.md` records completed work; `NEXT.md` records what not to repeat; the registry and hashes identify artifacts. [Source text](https://scp-wiki.wikidot.com/case-colourless-green) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/case-colourless-green.html)
 
 ### 4. Pattern recognition is inference, not revelation
 
-The case describes raw manifestations as data points and the larger threat as a pattern that becomes visible when those points are arranged in conceptual space. That is a useful model for this dossier’s controversy entity: individual biography changes, corrections, affiliation conflicts, fundraising versions, and textual comparisons can be plotted together without pretending that the pattern itself proves motive.
-
-The anti-overfitting rule is equally important. A pattern may be a genuine common cause, ordinary institutional copying, a shared upstream source, a mixture of unrelated errors, or an artifact of selective collection. Every pattern claim therefore needs: the included records, the excluded records, the possible common sources, the counterexamples, and the inferential step that remains unresolved. [Source text](https://scp-wiki.wikidot.com/case-colourless-green)
+An LLM is good at completing patterns from partial evidence. That makes a coherent pattern a hypothesis, not a discovery. List included and excluded records, possible common sources, counterexamples, and the inferential step still unresolved. [Source text](https://scp-wiki.wikidot.com/case-colourless-green)
 
 ### 5. Reconstruct from first principles when memory is compromised
 
-In **“Your Last First Day,”** Wheeler responds to memory destruction by examining her own cognition, distinguishing what she remembers from how she knows it, and rebuilding a plan from first principles. The compact line is:
+When prior context is missing or contaminated, summaries become false memory. Rebuild the claim from the artifact outward: proposition, earliest public manifestation, versions, source class, then interpretation. The compact line is:
 
 > “If I were me, what would my plan have been?” — qntm, “Your Last First Day.”
 
-The research analogue is to rebuild a claim from the primary artifact outward: identify the exact proposition, locate the earliest public manifestation, compare later versions, classify the source, and only then assess the pattern. Do not let a remembered summary, a repeated biography, or an already-written conclusion substitute for the underlying record. [Source text](https://scp-wiki.wikidot.com/your-last-first-day) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/your-last-first-day.html)
+Do not let a remembered summary, repeated biography, or existing conclusion substitute for the underlying record. [Source text](https://scp-wiki.wikidot.com/your-last-first-day) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/your-last-first-day.html)
 
 ### 6. Externalize memory before interpretation
 
-In **“Introductory Antimemetics,”** a junior researcher realizes that direct communication has failed and writes an SCP entry as a message to a future reader. The document is not a polished conclusion; it is an emergency handoff containing the next action and the conditions under which the reader should proceed.
+Anything left only in the model’s active context disappears when the session ends. External notes therefore have higher evidentiary value than fluent recollection: they preserve failed routes, uncertainty, next actions, and stopping conditions for a later context.
 
 > “I should write an SCP.” — qntm, “Introductory Antimemetics.”
 
-This is the right flavor for our records: write the source map while the uncertainty is still present. A handoff should preserve the failed route, the tempting but unsupported inference, the exact next verification, and the point at which the researcher may safely stop. [Source text](https://scp-wiki.wikidot.com/introductory-antimemetics) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/introductory-antimemetics.html)
+Write the source map while uncertainty is still present. [Source text](https://scp-wiki.wikidot.com/introductory-antimemetics) · [local capture](assets/captures/2026-08-07-antimemetics-reference/scp/introductory-antimemetics.html)
 
 ### 7. Protocols are containment, not decoration
 
-The Division’s procedures exist because ordinary observation is not reliable enough: notes can vanish, a researcher can forget the reason for a visit, and a record can be formally valid while its provenance is inaccessible. Translated into this project, containment means:
+Protocols are containment against context loss. They make it harder for a later model—or the same model after retrieval—to mistake fluency, repetition, or a surviving fragment for the full evidential record:
 
 - preserve the source before summarizing it;
 - keep primary text, secondary report, interpretation, and hypothesis in separate records;
@@ -68,7 +64,7 @@ The Division’s procedures exist because ordinary observation is not reliable e
 - require a new artifact or changed state before reopening a closed search;
 - leave a compact re-entry note after every research session.
 
-The fiction’s epistemology is therefore a practical discipline: knowledge is not the feeling that a story is coherent. It is a recoverable chain from artifact to proposition to inference, with the missing links named.
+The target is a recoverable chain from artifact to proposition to inference, with missing links named.
 
 ## Operating principles
 
