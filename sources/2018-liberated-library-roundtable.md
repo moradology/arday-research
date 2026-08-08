@@ -3,8 +3,8 @@ id: SRC-182
 type: scholarly presentation / roundtable
 title: "Diversifying the Ivory Tower and Closing the Student Attainment Gap: A Roundtable for the Liberated Library 2018 Launch"
 date: 2018
-accessed: 2026-08-06
-status: DataCite metadata verified; host access boundary preserved; duplicate DOI aliases canonicalized
+accessed: 2026-08-08
+status: DataCite metadata rechecked; host access boundary unchanged; duplicate DOI aliases canonicalized
 source_kind: presentation record
 entities:
   - ../entities/jason-arday.md
@@ -30,3 +30,9 @@ DataCite exposes two DOI records for the same titled presentation: `10.17613/dc0
 ## Evidence boundary
 
 This record establishes a titled 2018 presentation artifact and Arday’s listed authorship in DataCite. It does not establish the roundtable’s transcript, video, venue, or speaking order; neither DOI is counted as a separate work.
+
+## 8 August 2026 recheck
+
+Fresh DataCite API responses for both DOI aliases preserve the same title, six-creator list, 2018 issued year, Knowledge Commons publisher, and reciprocal version relationship. The normalized bibliographic fields are unchanged from the earlier capture. Both Humanities Commons DOI routes still return the same short HTTP 403 shell. No transcript, slide deck, recording, or presentation file was exposed.
+
+Fresh captures: [DataCite/API and host responses](../assets/captures/2026-08-08-liberated-library-recheck/).

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-182: Liberated Library DOI-pair recheck
+
+Recheck: current DataCite API responses for `10.17613/dc03s-05j04` and `10.17613/635kx-wb026` retain the same presentation title, six creators including Jason Arday, 2018 issued year, Knowledge Commons publisher, and reciprocal version relationship. Normalized bibliographic fields are unchanged. Both Humanities Commons routes still return the same short HTTP 403 shell.
+
+Capture: preserved fresh DataCite JSON/headers and Humanities Commons HTML/headers under `assets/captures/2026-08-08-liberated-library-recheck/`. No presentation binary, transcript, slides, or recording was recovered.
+
+Decision: updated SRC-182 in place; no new claim or duplicate work was created. Reopen only for a changed DOI record, lawful Humanities Commons file, transcript, slide deck, recording, or distinct event artifact.
+
 ## 2026-08-08 — SRC-629/C-861: Bloomsbury UK manifestation of *The Fire Now*
 
 Discovery: an exact DOI/title search surfaced Bloomsbury’s UK product page as a distinct official publisher manifestation. Its indexed rendering names Arday’s chapter and exposes the host book’s 15 November 2018 date, 304-page extent, ISBN `9781786993793`, Zed Books imprint, and chapter placement.
