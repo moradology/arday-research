@@ -1,5 +1,7 @@
 # Work state
 
+Latest complete-derivative checkpoint: on 2026-08-08 `SRC-271/C-947` created and promoted a 28,036,644-byte AAC derivative of the complete 56:40.01 UCU “Decolonising our institutions” webinar. The 187,205,146-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived speaker or role claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-268/C-946` created and promoted a 28,794,329-byte AAC derivative of the complete 57:39.98 *Neurodivergent Show* interview. The 175,067,296-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived childhood, diagnosis, or literacy claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-015/C-945` created and promoted a 39,182,626-byte AAC derivative of the complete 1:18:58.94 Oxford/Kellogg “Academia is a Crossfire Hurricane” recording. The 225,397,461-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no lecture-content claim was added. Google Drive was not updated; GitHub remains the active publication target.

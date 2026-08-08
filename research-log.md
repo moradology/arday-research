@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-271/C-947: complete UCU webinar audio derivative created
+
+Archive action: transcoded the 187,205,146-byte parent MP4 to a complete 28,036,644-byte AAC `.m4a` derivative at 64 kb/s. The derivative runs 56:39.98 and passed an FFmpeg decode validation; its SHA-256 is `467b40d93e489746aae6c34e5d1c2165dcd2ac29d74664cbf49a8b4fd20e74cc`.
+
+Decision: added C-947 as an archive-integrity observation. This closes the GitHub handoff gap for the complete webinar while retaining the parent MP4 hash as the integrity anchor. The derivative is not a transcript; automatic captions and speaker/role attribution remain unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-268/C-946: complete *Neurodivergent Show* audio derivative created
 
 Archive action: transcoded the 175,067,296-byte parent MP4 to a complete 28,794,329-byte AAC `.m4a` derivative at 64 kb/s. The derivative runs 57:39.95 and passed an FFmpeg decode validation; its SHA-256 is `fee3389b06abac7daf476dfb79ce0b13f3cc49ff2ff36b41125e4267f950717d`.
