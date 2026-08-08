@@ -27,7 +27,10 @@ This source verifies the event, participants, institutional host, public recordi
 
 ## Local preservation
 
-- [MP4 recording](../assets/videos/cambridge-black-men-on-the-couch-2023.mp4) — 287,422,026 bytes, 640×360, 2:13:48, SHA-256 `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500`
+- [MP4 recording](../assets/videos/cambridge-black-men-on-the-couch-2023.mp4) — 287,422,026 bytes, 640×360, 2:13:48.25, SHA-256 `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500`
+- [Complete AAC segment 1](../assets/audio/derivatives/cambridge-black-men-on-the-couch-2023-part01-00m00-60m00.m4a) — 58,236,791 bytes; 01:00:00.07; SHA-256 `c7f1bff2774454a7d45259769985740a502c39e74c2791450cab815e8c690eef`.
+- [Complete AAC segment 2](../assets/audio/derivatives/cambridge-black-men-on-the-couch-2023-part02-60m00-120m00.m4a) — 58,236,089 bytes; 01:00:00.04; SHA-256 `f00427eea9dcfc3c15b780e631da19c5d4ee13ee549374665db9a8e8b93d81b4`.
+- [Complete AAC segment 3](../assets/audio/derivatives/cambridge-black-men-on-the-couch-2023-part03-120m00-133m48.m4a) — 13,398,480 bytes; 00:13:48.23; SHA-256 `a6dcedeeacf1a66144c0affae0b66852a07c58d887f065cae5eb8469a6d552f4`.
 - [Automatic English VTT](../assets/videos/cambridge-black-men-on-the-couch-2023.en-orig.vtt) — SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
 - [Normalized English VTT](../assets/videos/cambridge-black-men-on-the-couch-2023.en.vtt) — byte-identical navigation copy; SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
 - [yt-dlp metadata JSON](../assets/videos/cambridge-black-men-on-the-couch-2023.info.json) — SHA-256 `419efc5b0fd311d6dbad037b198248c4f9317044ce83c8bbdd2b9a43b57bee46`
@@ -41,4 +44,4 @@ This source verifies the event, participants, institutional host, public recordi
 
 - [Arday segment review clip, source interval 01:11:00–01:31:30](../assets/videos/clips/cambridge-black-men-on-the-couch-2023/jason-arday-segment-01h11m00-01h31m30.mp4) — 48,473,641 bytes; SHA-256 `c210776addcd6f62f9903c00ecfa8cdf537e4fe0502d61818ba0ecb106332e9a`.
 
-The clip begins shortly before the captioned introduction of Arday at approximately 01:11:13 and is cut from the parent MP4 using stream copy. It is a review aid, not a separately published event or a verified transcript. The parent MP4 hash remains `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500` and the 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.
+The clip begins shortly before the captioned introduction of Arday at approximately 01:11:13 and is cut from the parent MP4 using stream copy. It is a review aid, not a separately published event or a verified transcript. The three AAC segments together cover the complete recording for GitHub review access; they are lower-bitrate derivatives, not a transcript or independent source manifestation. The parent MP4 hash remains `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500` and the 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.

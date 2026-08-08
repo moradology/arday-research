@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-263/C-948 — the complete 2:13:48.25 Cambridge “Black Men On The Couch” recording is now available as three AAC review segments on GitHub (00:00–60:00.07, 60:00–120:00.04, and 120:00–2:13:48.23). The 287,422,026-byte parent MP4 remains local-only; captions and panel remarks remain unverified.
+
 Fresh complete-derivative checkpoint: SRC-271/C-947 — the complete 56:40.01 UCU “Decolonising our institutions” webinar is now available as a 28,036,644-byte AAC derivative on GitHub. The 187,205,146-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and automatic-caption speaker/role attribution remains unverified.
 
 Fresh complete-derivative checkpoint: SRC-268/C-946 — the complete 57:39.98 *Neurodivergent Show* interview is now available as a 28,794,329-byte AAC derivative on GitHub. The 175,067,296-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and automatic-caption childhood/diagnosis/literacy passages remain unverified.

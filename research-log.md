@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-263/C-948: complete Cambridge panel audio segmented for GitHub
+
+Archive action: converted the 287,422,026-byte parent MP4 into three complete AAC `.m4a` segments: 58,236,791 bytes for 00:00–60:00.07, 58,236,089 bytes for 60:00–120:00.04, and 13,398,480 bytes for 120:00–2:13:48.23. Their SHA-256 values are `c7f1bff2774454a7d45259769985740a502c39e74c2791450cab815e8c690eef`, `f00427eea9dcfc3c15b780e631da19c5d4ee13ee549374665db9a8e8b93d81b4`, and `a6dcedeeacf1a66144c0affae0b66852a07c58d887f065cae5eb8469a6d552f4`; each passed an FFmpeg decode validation.
+
+Decision: added C-948 as an archive-integrity observation. The segmented set closes the GitHub handoff gap for the complete panel without dropping the 287,422,026-byte parent or misrepresenting the clips as a transcript. Captions and panel remarks remain unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-271/C-947: complete UCU webinar audio derivative created
 
 Archive action: transcoded the 187,205,146-byte parent MP4 to a complete 28,036,644-byte AAC `.m4a` derivative at 64 kb/s. The derivative runs 56:39.98 and passed an FFmpeg decode validation; its SHA-256 is `467b40d93e489746aae6c34e5d1c2165dcd2ac29d74664cbf49a8b4fd20e74cc`.
