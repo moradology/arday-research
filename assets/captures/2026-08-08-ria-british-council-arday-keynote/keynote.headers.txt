@@ -1,0 +1,42 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 09:25:23 GMT
+content-type: application/pdf
+x-archive-orig-cache-control: max-age=3600
+x-archive-orig-date: Tue, 12 Oct 2021 04:27:58 GMT
+x-archive-orig-etag: W/"5f61f3d4-2b7da"
+x-archive-orig-expires: Tue, 12 Oct 2021 05:27:58 GMT
+x-archive-orig-last-modified: Wed, 16 Sep 2020 11:15:32 GMT
+x-archive-orig-strict-transport-security: max-age=0
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-x-debug-info: eyJyZXRyaWVzIjowfQ==
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-x-platform-cache: MISS
+x-archive-orig-x-platform-cluster: uzbaz6dncbp2a-master-7rqtwti
+x-archive-orig-x-platform-processor: uzbaz6dncbp2a-master-7rqtwti--php
+x-archive-orig-x-platform-router: uzbaz6dncbp2a-master-7rqtwti--router
+x-archive-orig-x-request-id: 00-16ad2e0e5865f34ab0522cf0a81edcd8-8147eb45aca7ebe0-00
+cache-control: max-age=1800
+x-archive-guessed-content-type: application/pdf
+accept-ranges: bytes
+x-archive-orig-content-type: application/pdf
+memento-datetime: Tue, 12 Oct 2021 04:27:58 GMT
+link: <https://www.ria.ie/sites/default/files/jason_arday_british_council_ireland_keynote_jan_2020.pptx_2nd_draft.pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://www.ria.ie/sites/default/files/jason_arday_british_council_ireland_keynote_jan_2020.pptx_2nd_draft.pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.ria.ie/sites/default/files/jason_arday_british_council_ireland_keynote_jan_2020.pptx_2nd_draft.pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: ARCHIVEIT-12758-2021101821-00000/ARCHIVEIT-12758-CRAWL_SELECTED_SEEDS-JOB1490615-SEED2066308-20211005173055618-00007-h3.warc.gz
+server-timing: captures_list;dur=0.379162, exclusion.robots;dur=0.052605, exclusion.robots.policy;dur=0.045628, esindex;dur=0.007680, cdx.remote;dur=5.581965, LoadShardBlock;dur=217.430447, PetaboxLoader3.datanode;dur=178.517465, PetaboxLoader3.resolve;dur=472.219739, load_resource;dur=538.412238
+x-app-server: wwwb-app220-dc8
+x-ts: 200
+x-tr: 775
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app220; path=/
+cache-control: private
+x-rl: 0
+x-na: 0
+x-page-cache: BYPASS
+server-timing: BYPASS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-location: _pdf
+
