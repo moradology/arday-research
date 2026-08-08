@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-237/SRC-238/C-918` promoted the two Diversity Seminar “familiarity” videos to GitHub: a 67-second YouTube clip and separate 1:42 LinkedIn commentary. The LinkedIn auto-caption SRT remains unverified navigation material; the two manifestations are not merged. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-112/C-917` promoted both public ITV *Black Voices* MP4s to GitHub: UCU’s 5:14 harassment clip and CLASS’s 4:49 lecturers clip. Existing thumbnail/caption assets remain preserved; the third linked clip is private and the ITV resource page remains timeout-bound. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-111/C-916` promoted the 19.64-second South Bank Colleges graduation MP4 to the GitHub archive. The related institutional page, thumbnail, and event photograph remain preserved; the binary is a short event asset, not a complete ceremony/speech or independent award record. Google Drive was not updated; GitHub remains the active publication target.

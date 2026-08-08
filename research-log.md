@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-237/SRC-238/C-918: Diversity Seminar familiarity videos promoted
+
+Audit: the canonical Diversity Seminar records already documented a 67-second official YouTube clip and a separate 1:42 LinkedIn video with its auto-caption SRT, but neither MP4 was tracked in Git.
+
+Archive action: checksum-validated and committed both MP4s. The LinkedIn caption track remains machine-generated navigation material; the YouTube clip has no captions. No new substantive claim was added.
+
+Decision: added C-918 as an archive-integrity observation and kept the two manifestations separate. Existing C-213 remains the commentary claim, pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-112/C-917: ITV Black Voices public clips promoted
 
 Audit: the canonical ITV resource record already preserved the two public YouTube clips, two thumbnails, and the UCU English caption track, but both public MP4s were not tracked in Git. The third linked item remained private and the ITV resource page remained timeout-bound.
