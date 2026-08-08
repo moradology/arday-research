@@ -3410,3 +3410,5 @@ Decision: no new source node was created. Reopen only with a changed page, a dis
 Discovery: exact-name searches for football, Crystal Palace, snooker, footballer, and Battersea Park Rangers returned only already-catalogued biography/source-propagation pages, the existing BPR image lead, homonyms, and public discussion of the same unresolved wording.
 
 Decision: extended SRC-151’s negative-space boundary and updated C-014 to cover the 8 August query set. No new source node or professional-status claim was created; reopen only for a named club/academy record, senior contract or appearance, snooker ranking/tournament/governing-body record, or manually verified first-person source.
+
+The indexed Reddit discussion linked from the sports audit was also fetched directly. Reddit returned a JavaScript challenge rather than the thread body; the challenge page and headers are preserved as a changed access state. No Reddit wording is treated as recovered evidence.

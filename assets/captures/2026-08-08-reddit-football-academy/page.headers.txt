@@ -1,0 +1,19 @@
+HTTP/2 200 
+retry-after: 0
+cache-control: private, no-store
+content-type: text/html
+content-security-policy: default-src 'none'; script-src 'nonce-0e7b1592-7087-41fd-bee1-a4655255e373'; style-src 'unsafe-inline'; img-src https://www.redditstatic.com; form-action 'self';
+accept-ranges: bytes
+date: Sat, 08 Aug 2026 13:43:30 GMT
+via: 1.1 varnish
+server-timing: reddit-ct;desc="dn=FT,p=MCI,cs=HIT"
+strict-transport-security: max-age=31536000; includeSubdomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: edgebucket=dhOKVa4X4KhmeymuRg; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+server: snooserv
+report-to: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+nel: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+content-length: 8467
+

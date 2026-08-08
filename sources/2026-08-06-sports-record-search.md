@@ -60,3 +60,8 @@ An indexed Haitian Creole-language Juno7 article was checked as a possible addit
 A fresh exact-name search was run for `"Jason Arday" football Crystal Palace snooker`, `"Jason Arday" snooker`, `"Jason Arday" footballer`, and `"Jason Arday" "Battersea Park Rangers"`. Results returned the already-catalogued Twinkl interview, Hindustan Times/news reproductions, St Mary’s alumni material, and the existing Battersea Park Rangers image lead. Other results were homonyms or public discussion of the same unresolved Bath wording.
 
 No new named club, academy, senior appearance, contract, snooker tour, ranking, tournament result, or governing-body record was recovered. The search extends the dated negative-space boundary; it does not disprove the self-reported youth-football or near-professional-snooker accounts.
+
+The previously indexed Reddit question about the Bath football-academy wording was rechecked directly on 8 August. Reddit returned a JavaScript challenge page rather than the thread body; the challenge HTML and response headers are preserved below. The indexed discussion therefore remains a public-reception lead only, not an independently recoverable source or sports record.
+
+- [Reddit challenge page](../assets/captures/2026-08-08-reddit-football-academy/page.html) — SHA-256 `963427e1a5ae1a45461cd1371820347e3729cfac587b88247cdb78584a2f060d`
+- [Reddit response headers](../assets/captures/2026-08-08-reddit-football-academy/page.headers.txt) — SHA-256 `ca7f98e7467064dc80d25d2d4a165e81e67c30a66e9e9a7109adaee82321786a`
