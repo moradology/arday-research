@@ -66,6 +66,7 @@
 ## Images
 
 | *The Free Press* hero image for “Who Had to Lose for Jason Arday to Win?” | 2026-08-05 | *The Free Press* / Yuan Yi Zhu | editorial-analysis image | [Source record](sources/2026-08-05-free-press-arday-analysis.md) · [Local PNG](assets/captures/2026-08-08-free-press-arday/hero.png) | 1800×1200 public hero image; image provenance/depiction is recorded separately from the article’s claims |
+| Article image for “Who paid for Carter-Ruck …” | 2026-07-28 | 21percent.org | commentary image | [Source record](sources/2026-07-28-21percent-carter-ruck-costs.md) · [Local PNG](assets/captures/2026-08-08-21percent-carter-ruck/article-image.png) | 1006×1024 image attached to the public article; article claims remain attributed and unresolved |
 
 | Valid Science Arday commentary exhibits | 2026-08-04 / captured 2026-08-08 | Valid Science / José Duarte | Substack article images | [Record](sources/2026-08-04-validscience-arday-commentary.md) · [Local capture directory](assets/captures/2026-08-08-validscience-arday/) | Seven public/embedded image binaries preserved with the article; image rights and original provenance remain source/platform-dependent |
 

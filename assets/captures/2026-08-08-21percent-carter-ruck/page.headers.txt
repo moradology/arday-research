@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 10:10:18 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-powered-by: PHP/8.1.34
+x-pingback: https://21percent.org/xmlrpc.php
+link: <https://21percent.org/index.php?rest_route=/>; rel="https://api.w.org/"
+link: <https://21percent.org/index.php?rest_route=/wp/v2/posts/4061>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://21percent.org/?p=4061>; rel=shortlink
+etag: W/"10573-1786183818;gz"
+x-litespeed-cache: miss
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 852714c1f5bbcf301bc2b38b09a19184-bos-edge3
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.275
+

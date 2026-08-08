@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-591/C-788: 21percent Carter-Ruck-cost commentary
+
+Discovery: a targeted search for the reported legal-response and police-investigation trail surfaced 21percent.org’s 28 July 2026 post “Who paid for Carter-Ruck …”. It is distinct from the earlier 21percent plagiarism post and from Retraction Watch’s reporting.
+
+Capture: preserved the public HTML, response headers, and attached 1006×1024 PNG. The article body asks whether Arday or Cambridge paid Carter-Ruck and argues that the question bears on institutional transparency. Comments remain in the raw HTML but are excluded from the evidence graph.
+
+Decision: create a commentary/source-propagation node, not a payer or corruption claim. No public invoice, engagement letter, client-identification line, FOI response, or institutional statement resolving the question was recovered.
+
 # 2026-08-08 — SRC-590/C-787: *The Free Press* editorial analysis
 
 Discovery: targeted post-resignation searches surfaced Yuan Yi Zhu’s 5 August 2026 *The Free Press* essay, “Who Had to Lose for Jason Arday to Win?” This is a distinct editorial source, not a duplicate of the Cofnas newsletter, AP report, Guardian coverage, or Vainker commentary.
