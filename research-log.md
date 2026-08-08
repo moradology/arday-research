@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-266/C-921: Beacon College profile streams promoted
+
+Audit: the canonical Beacon College record already documented the 361-second profile, separate streams, metadata, thumbnail, page snapshot, and checksum, but the media files were not tracked in Git.
+
+Archive action: checksum-validated and committed the 87 MB video-only MP4, 5.6 MB audio M4A, metadata, and thumbnail. Both streams decode cleanly and remain separate; no public subtitle track was available.
+
+Decision: added C-921 as an archive-integrity observation. No new substantive claim was added; the host’s childhood/neurodiversity/appointment framing remains source-versioned and requires human listening for any audiovisual extraction. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-265/C-920: Lancaster commentary streams promoted
 
 Audit: the canonical Lancaster record already documented Chris Marlow’s 507-second commentary video, separate streams, captions, metadata, thumbnail, page snapshot, and checksum, but the streams were not tracked in Git.

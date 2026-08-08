@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-topology checkpoint: on 2026-08-08 `SRC-266/C-921` promoted Beacon College’s 361-second profile’s separate video-only MP4 and audio M4A, metadata, and thumbnail to GitHub. The 87 MB video triggered GitHub’s large-file advisory but pushed successfully; no public subtitle track exists, so no substantive biography claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-265/C-920` promoted Lancaster’s 507-second commentary video’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The recording is Chris Marlow’s host commentary, not Arday’s testimony; caption-derived biography wording remains pending human listening and underlying-record verification. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-topology checkpoint: on 2026-08-08 `SRC-264/C-919` promoted the BILT 89-second teaser’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The streams remain separate; the full keynote is still a distinct SharePoint-403 boundary under SRC-259, and caption-derived remarks remain pending human listening. Google Drive was not updated; GitHub remains the active publication target.

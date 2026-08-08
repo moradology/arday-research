@@ -10,7 +10,7 @@ id: SRC-266
 - Upload/release date: 5 September 2023 (YouTube metadata)
 - Captured: 2026-08-06
 - Type: first-party college profile/interview video
-- Status: locally preserved as separate video and audio streams
+- Status: locally preserved as separate video and audio streams; both streams and sidecars committed to GitHub on 2026-08-08
 
 ## What the source establishes
 
@@ -26,6 +26,6 @@ Beacon College published a 361-second *Difference Makers* episode titled “A Wo
 
 ## Media verification boundary
 
-The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. No public subtitle track was exposed, so no substantive claim is promoted from the video without human listening.
+The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. No public subtitle track was exposed, so no substantive claim is promoted from the video without human listening. Both streams and sidecars are committed to GitHub.
 
 The streams remain separate because local muxing was resource-killed; neither is presented as a complete muxed file.
