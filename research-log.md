@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-885/C-889–C-890: Metropolitan Police follow-up via *THE*
+
+Discovery: the editor’s note and reporter account linked a 6 August *Times Higher Education* follow-up reporting the Metropolitan Police response to the Grove contact episode.
+
+Capture: the public HTML, response headers, and Getty police-car image are locally preserved. The report says the Met inquiry lasted four months and was dropped in February 2026; it quotes a spokesperson saying no offence was found without interviewing Grove and that the no-contact instruction was not the right action because it could frustrate legitimate journalism.
+
+Classification: this is a quoted institutional response mediated through *THE*, not a standalone police document. It materially strengthens the process record about the police handling while leaving the complaint file, legal classification, complainant identity, and full chronology unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-883/C-885–C-886 and SRC-884/C-887–C-888: *Times Higher Education* process artifacts
 
 Discovery: direct retrieval of the two *Times Higher Education* opinion URLs linked from the public controversy discussion returned HTTP 200 pages that were not yet represented in the registry: editor Chris Havergal’s 3 August note and reporter Jack Grove’s 5 August first-person account.
