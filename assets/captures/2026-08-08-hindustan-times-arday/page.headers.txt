@@ -1,0 +1,14 @@
+HTTP/2 200
+content-type: text/html; charset=utf-8
+etag: ee031fe0c47695b8e014e3a704c11a4d649417548d416c2b301db4ba3d21603c
+last-modified: Tue, 28 Feb 2023 06:27:58 GMT
+x-powered-by: Next.js
+cache-control: public, must-revalidate, max-age=864000, s-maxage=864000
+date: Sat, 08 Aug 2026 12:06:13 GMT
+set-cookie: ht-location=US; path=/; domain=.hindustantimes.com
+set-cookie: Meta-Geo=US--KS--HAYS; path=/; domain=.hindustantimes.com
+cachettl:
+alt-svc: h3=":443"; ma=93600
+strict-transport-security: max-age=63072000
+x-frame-options: SAMEORIGIN
+akamai-grn: 0.2551c317.1786190771.68cb0ee0

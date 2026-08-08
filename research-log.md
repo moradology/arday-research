@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-617/C-834: *Hindustan Times* sports/biography source-version
+
+Discovery: an exact sports/biography search surfaced Nisha Anand’s 28 February 2023 *Hindustan Times* profile, a distinct public manifestation from the already catalogued BBC, News24, Open Culture, and institutional pages.
+
+Capture: preserved the public AMP HTML, response headers, and 550×309 lead image.
+
+Decision: added SRC-617 and C-834. The article is retained as secondary reporting and a source-propagation witness. Its football/professional-snooker aspiration is not promoted into a verified sports-career claim.
+
 ## 2026-08-08 — SRC-614/C-828–C-829: LJMU neurodiversity page current recheck
 
 Recheck: the direct LJMU neurodiversity page returned an HTTP 200 response with byte-distinct raw headers/body capture, but the normalized page body matched the earlier capture after stripping transport whitespace.
