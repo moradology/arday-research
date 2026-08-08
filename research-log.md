@@ -3350,3 +3350,10 @@ Discovery: the existing Ruling Passions episode record linked only to Spotify an
 Capture: Spotify’s public episode page exposed a platform-hosted 60.03-second, 96-kbps MP3 clip. The page snapshot and clip are locally preserved. Spotify metadata dates the episode 19 March 2022; the project page dates it 22 March 2022.
 
 Decision: upgraded SRC-158 from transcript/link-only to transcript plus preview-audio manifestation. The clip is not treated as the full interview, and no new biographical claim was promoted from it. Full audio and the transcript’s self-reported claims remain open for future listening/verification.
+## 2026-08-08 — SRC-622/C-848: Oxford EDB lecture recording boundary
+
+Discovery: a current search result for Oxford’s 2025 EDB annual lecture identified “This is a Low: Advice for Difficult Times,” while the Oxford event URL itself had since changed to a generic page-not-found response.
+
+Capture: preserved the Oxford 404 page and headers, the Vimeo page/headers for video `1132037139`, Vimeo oEmbed JSON, and a 1280×720 thumbnail. The oEmbed response identifies the Department of Education, Oxford as uploader, gives a 4,315-second duration, and records upload on 30 October 2025.
+
+Decision: created a distinct event/recording node because this is a new university lecture and video manifestation. Direct Vimeo config and download attempts did not expose a lawful local stream; no MP4, transcript, or lecture timecode is claimed. Reopen only after a changed Vimeo/Oxford access state or an authorized transcript/caption artifact.

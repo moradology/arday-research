@@ -1,0 +1,15 @@
+HTTP/1.1 404 Not Found
+Date: Sat, 08 Aug 2026 13:12:29 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+Strict-Transport-Security: max-age=63072000
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Link: <https://www.education.ox.ac.uk/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: NO:Cache-Control=private
+X-Varnish: 7943664
+Age: 0
+Via: 1.1 education-ox-ac-uk (Varnish/9.0)
+Transfer-Encoding: chunked
+
