@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir/representation state check: on 2026-08-08 `SRC-292/C-274` rechecked Aevitas’s Jason Arday client page. The body was byte-identical to the 6 August capture and still used current-tense Cambridge marketing language; new response headers are preserved as a changed retrieval state. No current-employment or superlative claim was upgraded.
+
 Latest controversy-source checkpoint: on 2026-08-08 `SRC-580/C-757` preserved José Duarte’s 4 August 2026 *Valid Science* Substack commentary, its seven embedded/public images, and platform-generated TTS audio. The article argues for plagiarism/data-reuse and biographical-fabrication interpretations, but remains low-provenance polemical commentary; its exhibits are queued for primary-text testing and do not constitute an adjudication.
 
 Latest institutional-award record: on 2026-08-08 `SRC-532/C-677` preserved Westminster’s 26 July 2024 Honorary Doctor of Letters announcement, graduation remarks, and ceremony photograph. The page repeats childhood and Cambridge-superlative biography; those remain source-versioned rather than independently verified.

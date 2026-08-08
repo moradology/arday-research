@@ -1,5 +1,11 @@
 # Research log
 
+# 2026-08-08 — SRC-292/C-274: Aevitas profile changed-state recheck
+
+The canonical Aevitas Creative Management client page was fetched again after the resignation-related source updates. It returned HTTP 200, but the HTML body was byte-identical to the 6 August capture and retained current-tense Cambridge Professorial Chair and “youngest-ever” marketing language. The response headers were newly captured and report a 6 August `Last-Modified` value.
+
+Evidence handling: this is a changed retrieval state with no substantive page change. It strengthens the stale-marketing-copy boundary and does not establish current employment, continued representation, or the superlative.
+
 # 2026-08-08 — SRC-580/C-757: Valid Science commentary and exhibit capture
 
 Discovery: a current controversy search surfaced José Duarte’s *Valid Science* Substack article, “Jason Arday plagiarized other researchers’ DATA – and the journal helped him cover it up,” published 4 August 2026 and modified 6 August.
