@@ -1,5 +1,7 @@
 # Work state
 
+Latest audiovisual checkpoint: on 2026-08-08 `SRC-241/C-891` created and promoted a 69,706,601-byte 320×180 H.264/AAC cellular-video derivative of the complete 59:44 Diversity Seminar interview. The 123,444,887-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-241/C-890` created and promoted a 43,502,939-byte AAC derivative of the complete 59:44 Diversity Seminar interview. The 123,444,887-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-198/C-882` created and promoted a 32,420,279-byte AAC derivative of the complete 44:47.53 Research Cast UK interview. The 107,519,809-byte parent MP3 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no ASR-derived claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
