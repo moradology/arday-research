@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh ITV access-boundary checkpoint: SRC-139 — ITV’s five-page print-PDF manifestation of the 30 January 2024 Cultural Advisory Council announcement is externally text-readable but the local browser and shell routes are blocked/timeout-bound. No PDF binary is claimed; the existing council record remains canonical. Reopen only after a changed ITV endpoint or lawful local PDF route.
+
 Fresh changed-access checkpoint: SRC-093/C-843 — Cambridge’s canonical “Statement about Professor Arday” URL returned a generic HTTP 200 page-not-found response on a later 8 August 2026 fetch, after an earlier live same-day capture. Both states are preserved separately. Reopen only for a replacement official statement, archived recovery, formal report, or other primary process update; do not interpret the missing-page response as an outcome.
 
 Fresh page-state checkpoint: SRC-157 — ARU’s current “Unlearn” page was rechecked on 8 August 2026. It remains live, links YouTube `LOZW-J1hcd4`, and preserves the same 2 April 2025 event description; the HTML is byte-distinct from the 6 August capture. No new recording, captions, or substantive claim was found. Reopen only for a changed video state, caption/transcript asset, or distinct event artifact; do not create a duplicate event node.

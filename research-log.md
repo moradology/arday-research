@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-139: ITV press-PDF route checked
+
+Discovery: the ITV press-centre print route surfaced as a distinct five-page PDF manifestation of the already-canonical 30 January 2024 Cultural Advisory Council announcement. The web renderer exposes the membership, council remit, Arday’s dated biography, and his closing quotation.
+
+Capture boundary: the in-app browser refused the PDF route with a client-side block; repeated shell retrievals hung before returning PDF bytes or usable headers. No local PDF is claimed.
+
+Decision: upgraded SRC-139 as a PDF source-version/access boundary without creating a duplicate council appointment or new claim. Reopen only for a changed ITV endpoint or lawful local PDF route.
+
 ## 2026-08-08 — SRC-093/C-843: Cambridge statement changed to missing-page state
 
 Recheck: the canonical Cambridge “Statement about Professor Arday” URL, which had returned a live statement on the earlier 8 August check, later returned Cambridge’s generic HTTP 200 page-not-found document titled “Page not found: we need time to evolve.” The response contained no substantive statement copy.
