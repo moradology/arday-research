@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-528/C-673: Adult Literacy Trust supporters page
+
+Discovery: the current charity site exposes a separate “Our Supporters” page not represented by the existing patron-announcement/governance record.
+
+Capture: preserved the HTML, response headers, and the 225×225 portrait under `assets/captures/2026-08-08-adult-literacy-trust-supporters/`.
+
+Evidence handling: the page publishes an attributed first-person statement about being unable to read or write until 18. It is direct evidence of what the charity published as his statement, not independent verification of the underlying childhood claim or of ongoing patron status.
+
 # 2026-08-08 — SRC-527/C-672: Cambridge Research Integrity Report boundary
 
 Discovery: an official Cambridge research-integrity search surfaced the current reports index and its 2024–25 annual report.

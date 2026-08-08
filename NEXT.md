@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh charity source-version: SRC-528/C-673 — the Adult Literacy Trust’s separate “Our Supporters” page publishes an attributed first-person statement about being unable to read or write until age 18 and a 225×225 portrait. Reopen only for a changed page, direct appointment/status update, or independent corroboration; do not treat the charity’s publication of the statement as independent verification.
+
 Fresh institutional-process boundary: SRC-527/C-672 — Cambridge’s official 2024–25 Research Integrity Report, PDF p. 12, gives anonymized aggregate investigation categories/results for 2023–24 and names no individuals. It cannot be mapped to Arday’s 2026 investigation. Reopen only for a named case document, terms of reference, direct institutional update, final finding, or changed official report.
 
 Fresh research-role source: SRC-526/C-671 — the Autism Research Centre’s Autistic VOICES project page lists Arday on its Steering Committee. Page, project plan, participant information, and consent form are preserved; study results are anticipated in 2027. Reopen only for a revised team page, direct role description, results/output, or changed project documents; do not infer PI/authorship from the listing.

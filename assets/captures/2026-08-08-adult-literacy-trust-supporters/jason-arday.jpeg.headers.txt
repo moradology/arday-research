@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 04:22:25 GMT
+content-type: image/jpeg
+content-length: 8659
+accept-ranges: bytes
+cache-control: public, max-age=2678400
+etag: "6631199c-21d3"
+expires: Tue, 08 Sep 2026 04:22:25 GMT
+last-modified: Tue, 30 Apr 2024 16:17:32 GMT
+server: cloudflare
+x-gateway-cache-key: 1786119816.669||https|alt.org.uk|||/wp-content/uploads/2024/04/Jason-Arday.jpeg
+x-gateway-cache-status: MISS
+x-gateway-request-id: cae0570222f5d04af25e616754a5d54a
+x-gateway-skip-cache: 0
+set-cookie: __cf_bm=9W56yUigLkC2ItVNa_vpV.84xByTWrZoQUQBnBvausE-1786162945.3203633-1.0.1.1-rscW.GRCdFH7a21.Ys7gDWJ898qTmjXJexsxG1b2aEHQWt3WDqAA3VOKrCtPLh_bD.hrpx4lyRXN9Ax7tEVBgXWWUvUxCZ6msXK4WcK2fpuKcmQCF0WOqPMtqMtBNjJ4; HttpOnly; SameSite=None; Secure; Path=/; Domain=alt.org.uk; Expires=Sat, 08 Aug 2026 04:52:25 GMT
+cf-cache-status: MISS
+vary: accept-encoding
+cf-ray: a27bbd683c56ef9e-OMA
+alt-svc: h3=":443"; ma=86400
+

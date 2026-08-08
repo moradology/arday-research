@@ -1,5 +1,7 @@
 # Work state
 
+Latest literacy source-version: on 2026-08-08 `SRC-528/C-673` preserved the Adult Literacy Trust’s separate “Our Supporters” page, attributed first-person literacy statement, and portrait. It is self-report published by the charity, not independent corroboration; the earlier patron appointment record remains canonical.
+
 Latest research-integrity boundary: on 2026-08-08 SRC-527/C-672 preserved Cambridge’s current Research Integrity Reports index and 2024–25 report. The report’s p. 12 table is anonymized aggregate process context for 2023–24; it contains no Arday-specific case or finding and cannot resolve the separate 2026 investigation.
 
 Latest research-role source: on 2026-08-08 SRC-526/C-671 preserved the Autism Research Centre’s Autistic VOICES page and public study documents, which list Arday on the Steering Committee. Role scope, authorship/funding, and results remain bounded.
