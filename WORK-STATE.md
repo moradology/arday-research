@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-019/C-908` promoted the 4:14.86 Great Big Story documentary MP4 to the GitHub archive. The file’s checksum matches the canonical source record; captions were unavailable, so no transcript-level claims were added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-272/C-907` promoted the 1:05 Black In Academia response MP4, automatic captions, metadata, and thumbnail to the GitHub archive. The response is preserved as dated public output about academic identity and representation; its captions remain unverified navigation material. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest video-preservation checkpoint: on 2026-08-08 the Speakers Corner interview (`SRC-244/C-906`) was checksum-validated and added to the GitHub archive. The 24,691,832-byte 9:14 MP4 and existing captions/page/thumbnail/metadata captures are preserved; no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.

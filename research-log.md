@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-019/C-908: Great Big Story documentary binary promoted
+
+Audit: the canonical Great Big Story record already documented the verified host/YouTube relationship, 4:14.86 duration, AV1/Opus streams, unavailable captions, and checksum, but the MP4 was not tracked in Git.
+
+Archive action: checksum-validated and committed the 26 MB MP4. No transcript or new substantive claim was added; the documentary’s framing remains source-versioned media evidence rather than independent corroboration of childhood, literacy, academic, or superlative claims.
+
+Decision: added C-908 as an archive-integrity observation. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-272/C-907: Black In Academia video binary promoted
 
 Capture decision: the already-catalogued 1:05 Black In Academia / Leading Routes response was checked against Git history and found to have tracked HTML/header captures but no tracked video-sidecar files.

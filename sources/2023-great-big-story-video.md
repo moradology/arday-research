@@ -4,7 +4,7 @@ type: Source
 title: "The Cambridge Professor Who Learned To Read At 18"
 date: 2023
 accessed: 2026-08-06
-status: verified-as-video; MP4 locally preserved
+status: verified-as-video; MP4 locally preserved; binary committed to GitHub on 2026-08-08
 source_kind: documentary-media
 entities:
   - ../entities/jason-arday.md
@@ -15,7 +15,7 @@ urls:
 
 # Great Big Story: “The Cambridge Professor Who Learned To Read At 18”
 
-Great Big Story’s education archive links to a YouTube video about Jason Arday. The archive describes him as Cambridge’s youngest-ever Black professor and frames the film around his academic path. The YouTube stream was downloaded on 2026-08-06 and preserved as a local MP4.
+Great Big Story’s education archive links to a YouTube video about Jason Arday. The archive describes him as Cambridge’s youngest-ever Black professor and frames the film around his academic path. The YouTube stream was downloaded on 2026-08-06 and preserved as a local MP4; the binary was promoted to the GitHub archive on 2026-08-08.
 
 ## Preservation note
 

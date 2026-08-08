@@ -22,7 +22,7 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-016 | `sources/2025-01-08-black-phd-experience-foreword.md` | Cambridge University Press chapter record | publisher record | 2026-08-05 | publications |
 | SRC-017 | `sources/2024-09-routes-intellectual-authority.md` | DOI/publisher article record; Queen’s University Belfast publisher-version PDF locally preserved | scholarly article / publisher PDF / local full text | 2026-08-06 | publications, higher education, race, inequality, DOI, local PDF |
 | SRC-018 | `sources/2020-10-07-cambridge-race-equality-lecture.md` | Cambridge Race Equality Lecture page and recording link | institutional event/media | 2026-08-06 | media, timeline |
-| SRC-019 | `sources/2023-great-big-story-video.md` | Great Big Story education archive / YouTube | documentary media | 2026-08-05 | media, biography |
+| SRC-019 | `sources/2023-great-big-story-video.md` | Great Big Story education archive / YouTube; 4:14 MP4 locally preserved and committed to GitHub | documentary media / local MP4 | 2026-08-08 | media, biography, local binary, GitHub |
 | SRC-020 | `sources/2026-great-and-unfortunate-things-catalog.md` | 2026 foreign-rights catalog | rights catalog | 2026-08-05 | publications, biography |
 | SRC-021 | `assets/metadata/guardian-image-capture-2026-08-05.md` | Guardian profile image assets | locally preserved image bundle | 2026-08-05 | media, biography |
 | SRC-022 | `sources/2018-04-10-ucl-persistence-of-racism-keynote.pdf.md` | UCL keynote PDF | primary event artifact | 2026-08-05 | publications, media, timeline |

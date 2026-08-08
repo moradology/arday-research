@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-019/C-908 — the 4:14.86 Great Big Story documentary MP4 is now committed to GitHub. Captions were unavailable, so the video remains a preserved primary media manifestation without transcript-level extraction. Reopen only for audiovisual verification, a caption/transcript recovery, or a distinct source version; do not repeat the same YouTube ID.
+
 Fresh media-integrity checkpoint: SRC-272/C-907 — the 1:05 Black In Academia response MP4 and sidecars are now committed to GitHub. The item remains a dated public-output record; automatic captions are not human-verified and do not independently corroborate the response. Reopen only for audiovisual verification or a distinct source manifestation; do not repeat the same YouTube ID.
 
 Fresh video-preservation checkpoint: SRC-244/C-906 — the 9:14 Speakers Corner interview MP4 is now committed to GitHub alongside captions and source captures. The timecoded commentary remains first-person public speech, not independent findings; reopen for audiovisual verification or a changed recording state.
