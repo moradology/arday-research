@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+x-amz-id-2: g40Io4nYKL4EnkfoKFWzpxvquzBS0r5niQmDH+p06atljk816pSzn0UcEoLwuCKsDdHOJRJdbWE=
+x-amz-request-id: EKDQ02T525F3DHQD
+Date: Sat, 08 Aug 2026 04:59:14 GMT
+Last-Modified: Wed, 05 Aug 2026 14:48:21 GMT
+ETag: "befa9e8f5a33044eafeccffee3899082"
+x-amz-server-side-encryption: AES256
+Cache-Control: max-age=31536000
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 488110
+Server: AmazonS3
+

@@ -1,0 +1,63 @@
+HTTP/2 301 
+date: Sat, 08 Aug 2026 04:58:45 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.lstmed.ac.uk/archive-equality-and-diversity
+server: cloudflare
+x-robots-tag: noindex, nofollow
+set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+x-content-type-options: nosniff
+x-redirect-id: 283
+cache-control: public, max-age=21600
+last-modified: Sat, 08 Aug 2026 04:58:45 GMT
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-xss-protection: 0
+cross-origin-opener-policy: same-origin
+cf-cache-status: DYNAMIC
+cf-ray: a27bf2a33a516d2d-OMA
+
+HTTP/2 301 
+date: Sat, 08 Aug 2026 04:58:46 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.lstmed.ac.uk/EDI
+server: cloudflare
+x-robots-tag: noindex, nofollow
+set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+x-content-type-options: nosniff
+x-redirect-id: 343
+cache-control: public, max-age=21600
+last-modified: Sat, 08 Aug 2026 04:58:45 GMT
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-xss-protection: 0
+cross-origin-opener-policy: same-origin
+cf-cache-status: DYNAMIC
+cf-ray: a27bf2a4eace6d2d-OMA
+
+HTTP/2 301 
+date: Sat, 08 Aug 2026 04:58:46 GMT
+content-type: text/html; charset=UTF-8
+location: https://lstmed.ac.uk/about-us/contact-us/social-media/
+x-robots-tag: noindex, nofollow
+server: cloudflare
+cf-ray: a27bf2a62b1a6d2d-OMA
+
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 04:58:46 GMT
+content-type: text/html; charset=utf-8
+content-length: 107288
+last-modified: Fri, 07 Aug 2026 22:06:07 GMT
+vary: Accept-Encoding
+etag: "6a7656cf-1a318"
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+accept-ranges: bytes
+

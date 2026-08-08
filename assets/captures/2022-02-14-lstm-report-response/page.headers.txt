@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 04:58:44 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+x-robots-tag: noindex, nofollow
+vary: Accept-Encoding
+vary: Cookie
+set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+x-xss-protection: 1
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=1000; includeSubDomains
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+content-language: en
+x-content-type-options: nosniff
+link: <https://www.lstmed.ac.uk/news-events/news/independent-report-into-race-equality-within-lstm>; rel="canonical",<https://www.lstmed.ac.uk/node/9662>; rel="shortlink"
+cache-control: public, max-age=21600
+last-modified: Sat, 08 Aug 2026 00:15:01 GMT
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+cross-origin-opener-policy: same-origin
+cf-cache-status: DYNAMIC
+cf-ray: a27bf299d85ad8ce-OMA
+

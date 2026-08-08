@@ -2413,6 +2413,14 @@ Discovery: an institutional-output sweep surfaced LSTM’s public February 2022 
 Capture: downloaded the 21-page PDF, preserved response headers and layout-preserving extracted text, and rendered representative pages for visual QA. The title page names Professor Jason Arday as author; PDF p. 4 says LSTM commissioned him as an independent consultant; PDF p. 12 reports the staff/student consultation counts; PDF pp. 12–20 presents themes and recommendations; PDF p. 21 describes the LSTM-specific implementation framework and 14–16-month consultant follow-up.
 
 Decision: register SRC-536 as a distinct professional-output manifestation, not a duplicate of the LSTM announcement. Add C-681 for the commissioned authorship/role and C-682 for the report’s stated methodology/findings. Preserve its author biography as dated host/report copy and do not infer independent participant verification, implementation success, or later institutional outcomes.
+
+## 2026-08-08 — SRC-537–SRC-540/C-683–C-686: LSTM response sequence
+
+Discovery: followed SRC-536’s explicit implementation lead. LSTM’s own records surfaced a 14 February 2022 response, an October 2022 Race Equity Action Plan, and a March 2026 Bronze Race Equality Charter announcement. The LSTM EDI route also produced a changed redirect state rather than its indexed substantive body.
+
+Capture: preserved the 2022 response HTML, headers, and article image; downloaded the 52-page action-plan PDF with extracted text, headers, and representative rendered pages; preserved the 2026 award page, headers, and article image; and captured the EDI-route redirects/final HTML. The response records full acceptance of the review’s findings, an implementation lead, a planned action plan, and six-month reporting. The plan covers 2022–2025, establishes REAG governance, names six themes, and identifies initial priorities with Arday. The 2026 announcement records the Bronze Award and a five-year action-plan framing.
+
+Decision: register SRC-537, SRC-538, and SRC-539 as distinct institutional-response/action/outcome records, not duplicate manifestations of SRC-536. Register SRC-540 as a negative-space/access-state record; do not treat indexed EDI snippets as a current page capture. Add C-683–C-686 and keep implementation commitments, planned actions, accreditation outcome, and individual Arday involvement carefully separated.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.

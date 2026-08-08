@@ -1,0 +1,23 @@
+HTTP/2 301 
+date: Sat, 08 Aug 2026 04:59:32 GMT
+content-type: text/html; charset=UTF-8
+location: https://lstmed.ac.uk/about-us/contact-us/social-media/
+x-robots-tag: noindex, nofollow
+server: cloudflare
+cf-ray: a27bf3c58fb0089e-OMA
+
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 04:59:32 GMT
+content-type: text/html; charset=utf-8
+content-length: 107288
+last-modified: Fri, 07 Aug 2026 22:06:07 GMT
+vary: Accept-Encoding
+etag: "6a7656cf-1a318"
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+accept-ranges: bytes
+
