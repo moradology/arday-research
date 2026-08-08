@@ -1,0 +1,741 @@
+                                           EQUITY & INCLUSION AT LSTM
+
+
+LIVERPOOL SCHOOL OF TROPICAL MEDICINE
+Improving racial equity in global medicine
+
+
+      AN INDEPENDENT REPORT
+      ________________
+      Author: Professor Jason Arday
+      Supported by: LSTM Race Equality Advisory Panel (REAP) and Management Committee
+      February 2022
+
+
+
+
+                                                                              1
+Contents
+Contents.............................................................................................................. 2
+
+1 Background ...................................................................................................... 4
+
+  1.1 About the institution .................................................................................... 4
+
+  1.2 The Commissioning of this Report ................................................................ 4
+
+  1.3 The Report Team ........................................................................................ 4
+
+  1.4 Scope and Purpose ...................................................................................... 5
+
+  1.5 Definitions .................................................................................................. 6
+
+2 Development .................................................................................................... 8
+
+  2.1. Problem statement ..................................................................................... 8
+
+      2.1.1 The problem with problems ................................................................... 8
+
+  2.2 Evidence ..................................................................................................... 9
+
+  2.3. Consultation ............................................................................................. 10
+
+  2.3.1 Lived experience .................................................................................... 11
+
+3 Qualitative Results .......................................................................................... 12
+
+  3.1 Demographics ........................................................................................... 12
+
+  3.2 Findings .................................................................................................... 12
+
+      3.2.1 Principle Implementation Gap .............................................................. 12
+
+      3.2.2 Themes .............................................................................................. 13
+
+  3.3 Conclusion ................................................................................................ 20
+
+See Appendix A.................................................................................................. 21
+
+
+
+
+                                                                                                                      2
+Change has been long overdue. It has always been the time to
+act, so make sure you act now. To remain passive and to
+remain silent is to be ignorant and it is damaging.
+
+            – Lauren Murrell, Liverpool School of Tropical Medicine 1
+
+
+
+
+                                                                        3
+1 Background
+1.1 About the institution
+
+Liverpool School of Tropical Medicine (LSTM) is a higher education institution and
+registered charity in the Northwest of England. Established in 1898 and so well over
+a century old, LSTM was the world’s first institute dedicated to the research and
+teaching of tropical medicine. It has since become a global university, with a worldwide
+network of researchers and students that spans over 70 countries. The University
+serves a student population of over 800 students, and benefits from a multimillion-
+pound research portfolio that has included funding from the Bill & Melinda Gates
+Foundation.
+
+As an institution LSTM has little footprint in terms of race equality, though recent
+strategies and policies have increasingly begun to reflect this as a key aim and
+intention. This report was commissioned to support the development of a framework
+for racial equity and close the gap between where LSTM are and where the university
+aspires to be.
+
+1.2 The Commissioning of this Report
+
+An open letter from the BAME staff network, following the murder of George Floyd
+and alongside the #Blacklivesmatter movement, promoted reflection and discussion
+at senior levels across LSTM. As such, a decision was made to establish the Race
+Equality Advisory Panel, in close consultation with the BAME staff network. The
+commissioning of a review to assess current landscape and inform future direction
+followed, as part of a commitment from senior leadership to race equality.
+
+1.3 The Report Team
+
+Professor Jason Arday was commissioned by LSTM as an independent consultant to
+undertake the review and subsequent report. This was supported by members of the
+Race Equality Advisory Panel (REAP).
+
+Jason Arday is Professor of Sociology of Education at the University of Glasgow, School
+of Education, College of Social Sciences. Previously, Professor Arday was Associate
+Professor in Sociology at Durham University in the Department of Sociology and the
+
+
+                                                                                      4
+Deputy Executive Dean for People and Culture in the Faculty of Social Science and
+Health. He is a Visiting Research Fellow at The Ohio State University in the Office of
+Diversity and Inclusion and a Visiting Professor at Durham University in the
+Department of Sociology. Jason holds other Visiting Professorships at Coventry
+University, London Metropolitan University and Nelson Mandela University. He is a
+Trustee of the Runnymede Trust, the UK’s leading Race Equality Thinktank and the
+British Sociological Association (BSA). Jason sits on the Centre for Labour and Social
+Studies (CLASS) National Advisory Panel and the NHS Race and Health Observatory
+Academic Reference Group. Jason is a Fellow of the Royal Society of Arts (RSA).
+
+1.4 Scope and Purpose
+
+The primary purpose of the review is to enable LSTM to promote racial equity and to
+meet its strategic aims1, which include:
+
+    •   Identifying racial inequality issues across LSTM 2
+    •   To decolonise the curriculum and be
+        globally and culturally aware3
+    •   To become an active, anti-racist
+        institution.
+
+This report provides a landscape review,
+bringing together research, assessment and
+consultation    through     application     of   an
+evidence-based         assurance       framework
+(Appendix A), to create a roadmap and
+inform future direction.
+
+Utilising this framework, the report aims to
+enable LSTM to address concerns raised in
+the BAME network’s open letter.
+
+
+
+
+1
+  LSTM Equality, Diversity & Inclusion Annual Report (2019/20)
+2
+  LSTM: Strengthening Equitable Partnership in LMICs (2021)
+3
+  LSTM Education Strategy (2021)
+                                                                                     5
+The review has intentionally centred the lived experiences of staff and students of
+colour within LSTM. Therefore, whilst invariably there were individuals who straddled
+the intersection, the review did not specifically interrogate other protected
+characteristics (e.g. gender, disability) or issues (e.g. social mobility). Further reviews
+would be required to attend to these lived experiences.
+
+1.5 Definitions
+
+For clarity and position, the following definitions of racism are used within this report.
+
+1.5.1 Prejudice and discrimination
+As DiAngelo (2018) notes, to understand racism we first need to distinguish it from
+prejudice and discrimination. Prejudice is about thoughts and feelings, including
+stereotypes and attitudes. Our prejudices are often shared because we operate within
+the same societies and cultures and hear the same messages. We all have prejudices.
+
+Discrimination is action based on prejudice, with overt forms such as ignoring,
+exclusion, threats, ridicule and violence and more covert or unconscious examples
+such as unease around certain groups.
+
+1.5.2 Racism
+DiAngelo goes on to define racism (2018, p. 35):
+
+        When a racial group’s collective prejudice is backed by the power
+        of legal authority and institutional control, it is transformed into
+        racism, a far-reaching system that functions independently from
+        the intentions or self-images of individual actors.
+         ___________________________________________________
+
+This explanation locates racism within the system of whiteness, and thus all
+manifestations of racism can be traced back to its root function – to preserve the
+status quo, which advantages white communities and disadvantages Black, Asian and
+Minority Ethnic communities.
+
+1.5.3 Institutional racism
+Building on the premise above, the focus of this report is on institutional racism as
+contextualised within the Academy, also known as systemic racism.
+
+
+                                                                                          6
+        The collective failure of an organisation to provide an appropriate
+        and professional service to people because of their colour,
+        culture, or ethnic origin. It can be seen or detected in processes,
+        attitudes and behaviour which amount to discrimination through
+        unwitting prejudice, ignorance, thoughtlessness and racist
+        stereotyping which disadvantage minority ethnic people.”
+
+                                               The Macpherson Report
+
+
+
+        Institutional racism is that which, covertly or overtly, resides in
+        the policies, procedures, operations and culture of public or
+        private institutions - reinforcing individual prejudices and being
+        reinforced by them in turn.”
+
+                 Sivanandan, Director, Institute of Race Relations
+
+In sum, institutional or systemic racism is woven into structures and is often invisible,
+except to those it disadvantages.      This is why organisations that reflect only (or
+mainly) the dominant group are most at risk of upholding such systems; as its
+beneficiaries, they reinforce and are reinforced by the mechanisms that serve them.
+The disruption of these patterns is essential, and it is through work-streams and
+reports such as this one that they can be questioned and thus dismantled over time.
+It also highlights the importance and value of representation, which itself guarantees
+natural disruption to the status quo – particularly when accompanied by a culture of
+openness and reflexivity.
+
+
+
+
+                                                                                       7
+2 Development
+2.1. Problem statement
+
+There is wealth of research that tells us racism is a pernicious and far-reaching
+problem within UK society. The Academy has long been heralded as one of the worst
+offenders, with countless reports and articles pointing to the issues at hand (e.g.
+Arday, 2018, 2021; Leading Routes, 2019; Universities UK, 2020). Though it has taken
+steps to answer the call to action from the Black Lives Matter movement, LSTM has
+some distance to travel. It is with this in mind that LSTM have commissioned this
+report.
+
+After awareness, assessment, is the next step. However, whilst it can form a useful
+means of diagnosing and understanding the problem, this is only useful if converted
+into action. The true problem that LSTM must therefore focus on is no longer whether
+(it has a problem) or what (it should do about it), but how (it should go about it).
+
+  Race equality demands action not ideology, which means the focus must
+be on bridging the gap between where an institution is and where it needs
+                   to be. These steps become the mechanisms for change.
+
+The reason many organisations are not progressing with the radical change required
+to achieve racial equity is because of insufficient action. There is a tendency to
+commission reviews and reports despite existing recommendations still outstanding
+from previous assessments. Likewise, it is often the case that the energy for engaging
+in work designed to “tell us what we need to do” far exceeds the work that needs to
+follow. Either way, the real work begins in the application and delivery of action plans
+that arise from these diagnostic pieces – the problem is just the beginning.
+
+2.1.1 The problem with problems
+
+Psychological evidence tells us that it is more effective to look where we are going
+than to focus on what we are moving away from, which anyone who has trekked over
+rugged terrain would also corroborate. Approach goals (i.e. doing something) are
+more likely to be achieved and maintained than avoidant goals (i.e. not doing
+something), and racial equity is no different. When developing goals, LSTM should be
+mindful of how well-meaning actions can actually reinforce the problem (see Table 1)
+when framed in the context of avoidance.
+                                                                                       8
+Table 1. Approach vs. avoidant goals
+    Avoidant                                          Approach
+    Fear-based                                        Courageous
+    Reinforces itself                                 Transforms itself
+    Existing thought                                  Requires new thought
+    Centres the problem                               Focuses on the solution
+
+2.2 Evidence
+
+The Framework for Racial Equity in Education (see Appendix A) is based on existing
+literature, ensuring it is evidence-based and therefore more effective. As well as
+foundations in critical race theory (CRT), it integrates principles from the Race Equality
+Charter (REC), themes from the Equality & Human Rights Commission (EHRC)’s
+Tackling       racial    harassment:       Universities      challenged      report     (2019),     and
+recommendations from Leading Routes (2019) Broken Pipeline report, Universities UK
+(UUK)’s Tackling racism in higher education report (2020), and the Commission on
+Race and Ethnic Disparities report (2021)4. This is (a) to uplift and mobilise all the
+existing hard work that has gone into paving the way for institutions to address racism;
+(b) ensure that the framework incorporates “what works” to address racism and
+promote racial equity; and (c) continue to reinforce and emphasise the need for action.
+
+From analysis of existing literature and evidence, action points can be clearly classified
+into six key areas. These are communicated within the framework as standards:
+
+      1. Leadership                                          4. People
+      2. Structure and strategic planning                    5. Digital and data
+      3. Inclusion and culture                               6. Evaluation
+
+Each are discussed, along with a brief review of the literature surrounding them, within
+their respective standards. A summary of how the standards map onto existing
+literature can be found below (see Table 2).
+Table 2. Evidence matrix for the Framework for Racial Equity in Education
+
+
+    Evidence             REC
+
+
+
+4
+    Of note, this report has received widespread criticism for its minimisation of racism in the UK (e.g.
+    Runnymede Trust, 2021). This framework centres only those recommendations that attend to the
+    acknowledgement of racism and the actions required to reduce and resolve it.
+                                                                                                       9
+                                               Leading                    Commission
+                                  EHRC                         UUK
+  Standard                                     Routes                       on race
+                                  (2019)                      (2020)
+                                                (2019)                       (2021)
+
+                 Principles       Themes                 Recommendations
+
+ Leadership                                       ✓                            ✓
+
+
+ Strategic                          ✓             ✓              ✓
+ planning
+
+ Inclusion
+                     ✓              ✓             ✓              ✓             ✓
+ and culture
+
+ People              ✓              ✓             ✓              ✓             ✓
+
+
+ Digital and
+                     ✓              ✓             ✓              ✓
+ data
+
+ Evaluation                         ✓
+
+
+
+2.3. Consultation
+
+The framework is designed to inform the development of the action plan in two ways.
+This first is to structure the review and ensure that all key areas are considered. This
+means completion of the evidence grid with local data gathered from a range of
+sources, such as policy documents, strategies, web pages or interviews and focus
+groups with students and staff.
+
+The second is to interact with this information to support identification of any factors
+that may sit outside the items within the evidence grid. This balances structure with
+flexibility, allowing for patterns or themes to emerge that may reflect specific nuances
+within LSTM.
+
+The evidence grid therefore has, within each of the six standards, a set of individual
+factors, with an option to add additional items not covered within the framework.
+
+
+
+                                                                                      10
+These are then considered alongside those within the main body of the evidence grids
+to inform the overall action plan.
+
+ While this review sets the scene and provides a means of inquiry into the current
+ landscape, it is the subsequent framework and its application that lends itself to change.
+ Thus the report informs the framework, and the framework informs the action plan.
+ Importantly, the review itself only becomes meaningful when all three steps are in effect.
+
+
+2.3.1 Lived experience
+
+One of the key elements of local data collection is in consultation, ensuring that the
+lived experiences of staff, students and stakeholders of colour is centred throughout.
+Parken and colleagues (2019) recognise the value of qualitative inquiry and not, for
+example, simply relying on statistical data or other means of assessing or informing
+change:
+
+          Qualitative research can provide richer data, facilitate greater
+          understanding of why inequalities persist, and can help us to
+          “walk in someone else’s shoes” and, therefore, assist with
+          designing solutions.
+
+               Equality Mainstreaming: Policy Development Model
+
+
+
+Qualitative inquiry supports a move away from evidence and objectivity, which are
+themselves ideologies held within institutions (e.g. DiAngelo, 2018), and instead
+brings to life the lived experience of those not privileged by those systems and
+structures. These consultations thus formed a vital part of the review. As well as
+informing application of the framework (Appendix A), these contexts are outlined in
+Section 3.
+
+
+
+
+                                                                                         11
+3 Qualitative Results
+3.1 Demographics
+
+A significant number of staff of colour (n=45) participated in individual interviews. In
+addition there were ten focus groups attended by staff (n=72), some of whom were
+White. There was also a focus group (n=9) conducted with students, five of which
+were White, two of which identified as Black, and two of which as Asian.
+
+
+    KEY POINTS OF NOTE
+    •   Only a fraction of staff of colour who engaged in individual interviews chose to
+        engage in focus groups, suggesting a lack of trust and/or fear of speaking out.
+
+    •   Across all groups there were greater numbers of women than men present,
+        suggesting a need to explore barriers to engaging men in this work.
+    •   The findings from the desk-based review was not congruent with the
+        experiences of participants, suggesting a gap between vision and reality.
+
+
+
+The review adopted a mixed methodology, which included a desk-based review of
+available documents alongside the voices of staff and students.           For reasons of
+sensitivity and confidentiality, direct quotes were not used. Instead, themes were
+explored and discussed below.
+
+3.2 Findings
+
+3.2.1 Principle Implementation Gap
+
+Of note, there was disparity between the experiences of participants and what was on
+paper (i.e. policy documents, strategies, etc.). This is consistent with what is referred
+to as the principle implementation gap (the gap between the principle and the
+implementation of race equality), which is often what can undermine meaningful
+action and change (Dixon, Durrheim & Thomae, 2017). As discussed in Section 2,
+equality must be more than an ideology to close the gap.
+
+This highlights the importance of qualitative inquiry (Parken et al., 2019) (Section
+3.2.2), but also the need for a framework to set the standard for what a racially
+equitable institution looks like in action (Appendix A).
+
+
+                                                                                           12
+3.2.2 Themes
+
+3.2.2.1 Culture
+Culture has been something that has been widely discussed at LSTM. Staff highlighted
+some pertinent issues regarding the aspects of culture that were perceived to be
+racially discriminatory and exclusionary. Part of this disfranchisement came from a
+feeling that members of staff felt that senior stakeholders had been ambivalent
+towards anti-racist endeavour within the School. Collective and individual examples
+were provided, which attempted to evidence some of the difficulties in addressing
+racism: having issues of racially discriminatory behaviour dismissed by line
+managers; a dominant Eurocentric curricula and approach towards working
+with global partners and colleagues; poor reporting mechanisms; and an
+absence/paucity of Black, Asian and Minority Ethnic senior leaders within
+the senior management hierarchy. Developing a more racially cognisant culture
+is something that all members of the LSTM community have been committed to over
+the last 20 months. It is important to note that senior leadership recognise some of
+the challenges and have committed resources to examining and addressing the
+culture, which include integrating this into the School’s strategic aims and objectives.
+
+Discussions orientated towards how the School builds a more anti-racist, inclusive
+workplace culture. There was a feeling that there needed to be a more cohesive
+approach throughout the university mobilised by senior leadership to actively
+understand the discriminatory components that compromise ‘workplace cultures’
+particularly with regards to the experiences of staff of colour. It was felt that
+transparent conversations between staff of colour and senior leaders were
+required with regards to developing more focused and targeted approaches that
+were penetrative and impactful resulting in sustainable and tangible change.
+
+It was recommended that attempts to address the culture at LSTM require senior
+university leaders to understand the behaviours that compound experiences of racism
+particularly within the LSTM context and its impact upon academic and professional
+staff. Such perspectives align with research that identifies the key role that senior
+leaders play in creating inclusive workplaces and dismantling systemically racist
+structures, through a variety of auditable competencies (Arday, 2018). It was
+
+
+                                                                                      13
+constructively suggested that maybe senior, faculty and departmental leaders and
+professional managers would benefit from targeted professional development focused
+on facilitating inclusive environments.
+
+
+
+    CULTURE: RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+    •   Senior leaders should communicate and embody a deeper commitment to racial
+        equity across LSTM, both nationally and globally.
+    •   Steps should be taken to ensure better representation of senior leaders of colour
+        across LSTM, both nationally and globally.
+    •   A robust action plan is required to support decolonisation of the current
+        curricula, both nationally and globally.
+    •   Senior leaders need to model courageous conversations and reflexive practice to
+        staff and students of LSTM.
+
+    •   Workforce development initiatives should include targeted training around
+        facilitating inclusive environments.
+
+
+3.2.2.2 Progression and Promotion
+Several members of staff regarded the promotion and promotion procedures at LSTM
+as being far from ‘fair’ lacking ‘transparency’ and often being ‘inequitable’ for staff of
+colour within academic and professional services. Within the focus groups and
+interviews staff of colour had suggested often being overlooked for progression and
+promotion with the perception that the LSTM infrastructure facilitated a
+nepotistic pathway which was reserved for the “old boys club” or “jobs for
+the boys”.
+
+The current approach towards progression and promotion left many respondents
+feeling completely ostracised from the LTSM community, particularly those of colour.
+A notable strength that emerged from focus groups was that Human Resources and
+the Senior Leadership Team recognise the limitations of the current progression and
+promotion system, particularly in terms of essential criteria and some of the
+disadvantaging systems within the School which mean that not all members of the
+LSTM staff community are provided with the same access to attain such opportunities
+
+
+
+                                                                                       14
+to meet the compulsory criteria. This is crucial to ensuring representation, both
+at leadership level and beyond.
+
+
+    RECRUITMENT, PROGRESSION & PROMOTION:
+    RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+    •   LSTM should identify key pinch points over the career pipeline that can be
+        targeted through racially literate recruitment and advertising campaigns.
+    •   LSTM should consider succession planning, mentoring and other key
+        development strategies for staff of colour.
+    •   LSTM should review current HR policies and processes, including essential
+        criteria and admissions processes for role specifications.
+
+3.2.4 Student Experience
+LSTM serves a postgraduate population of over 500 students. The participants of the
+current focus group were varied in this regard, bringing uniquely different global
+perspectives. The continuous tenet throughout several layers of dialogue revealed that
+students felt that the School was not diverse and while aspects of the
+student population were diverse this was not reflected in the staff
+population. It was felt that the diversification of staff academically would have an
+‘extremely positive effect’ on learning experiences as aspects of learning were
+sometimes regarded as a ‘colonial exchange’ which centred upon ‘narrow
+Western conceptions of medicine’ which were perceived to be extremely
+limiting to the profession particularly given LSTM’s global reach. While
+students of colour expressed that they had enjoyed studying at the institution, they
+also expressed that their experience pedagogically and professionally would have been
+hugely enhanced had the academic staff population been more ethnically diverse. It
+was suggested that this would have helped to inform other bodies of medical
+knowledge in addition to having access to professional journeys; mentoring and
+support of staff of colour who have successfully traversed the system.
+
+
+    STUDENTS: RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+    •   See recommendations around progression and promotion.
+
+
+                                                                                     15
+    •   See recommendations around decolonising the curriculum.
+    •   LSTM should provide development initiatives (e.g. mentoring) for students of
+        colour.
+
+3.2.5 Leadership and Communication
+The senior leadership team [Management Committee] provided some important
+insights which clearly indicate a collective of people driven towards mobilising greater
+racial equality across the institution. The team are cognisant of the issues that
+undermine race equality at LSTM and are passionate about creating an anti-racist
+organisation that firmly embeds the principals of anti-racist endeavour. There was also
+some recognition that as senior leaders more could be done in terms of engaging
+more collaboratively with the wider LSTM community to facilitate a more cohesive
+approach in addressing institutional and systemic racism.
+
+It became apparent throughout this review that there were in fact several
+interventions     (evaluating   reporting   mechanisms;   developing   more   equitable
+partnerships with colleagues across continents; reviewing and evaluating recruitment
+processes at LSTM) designed to mobilise greater racial equality for the LSTM
+community globally which appear to have been poorly communicated to the wider
+LSTM community. While these interventions may not have resulted in tangible and
+penetrative change, the intent and appetite is evident.
+
+A number of insights can be gained from the perspectives provided by a number of
+stakeholders at LSTM, namely that systemically discriminatory structures are believed
+to be existent within faculties and departments. It was felt that organisational
+practices and values have not been prioritised contributing to individual
+feelings of exclusion and discrimination among staff and students. There was
+a feeling that despite discussions concerning equality and diversity becoming more
+prevalent, the absence of penetrative and tangible anti-racist mechanisms and policies
+driven by senior leadership over a prolonged period has been a significant contributing
+factor towards the absence of belonging within LSTM. It is also important to recognise
+that Black, Asian and Minority Ethnic employees are more likely to experience
+inequitable promotion practices. This was something that was mentioned by a couple
+of members of staff, resulting in a suggestion that a review of promotion processes
+may be required. It is important to note that this is worst for women of colour
+
+                                                                                       16
+within the sector. Inclusion data should be continued to be used to benchmark and
+evaluate the success of inclusion change programmes, promotions and diversity and
+inclusion strategies over time. Faculties and departments at LSTM need to invest in
+better communication mechanisms to engage in a more cohesive approach towards
+understanding current models and cultures of inclusivity, which cascades throughout
+the organisation. LSTM as an organisation has not always communicated effectively
+about issues concerning racism. This has been most apparent concerning decisions
+actively related to the consideration of racial equity. This has not been communicated
+successfully or transparently to all members of the LSTM community, which has
+resulted in a lack of trust in decision-making between staff and senior leaders. It is
+recognised that it will take time to implement such change mechanisms and patience
+will be required whilst ‘new ways of communicating and operating’ become integrated
+into LSTM’s strategic aims for the next couple of years. It is recommended that clear
+short-, medium- and long-term goals are identified early on to ensure appropriate
+prioritisation and attention to issues that cannot wait.
+
+The focus for senior leadership going forward must be to work collaboratively with all
+stakeholders at LSTM particularly the BAME Network to cultivate sustainable anti-racist
+endeavour. It is the recommendation of this review that senior leadership actively
+work in collaboration with staff of colour in developing strategic institutional aims in
+addition to identifying interventions to actively diversify the leadership group. This will
+need to be steadily and diligently implemented over the next 12-24 months with the
+consultant for this review. The institution will need to sharpen and develop
+these internal mechanisms with a view to not only becoming a member of
+the Race Equality Charter (REC), but further, committing additional
+resource to submitting an application for the REC Bronze Award within the
+next 18-24 months. Part of this commitment will involve the senior leadership team
+to improve all aspects of their commitment towards anti-racism and build on some of
+the good practice currently being undertaken.
+
+
+    LEADERSHIP & COMMUNICATION:
+    RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+
+                                                                                        17
+    •   See recommendations around culture.
+    •   LSTM should ensure that the experiences of Black women and other staff and
+        students on the intersection are considered and integrated into all practices.
+    •   LSTM should utilise data measures around inclusion as part of monitoring,
+        assurance and evaluation of race equality initiatives and actions.
+    •   LSTM senior leaders should ensure that race equality has sufficient investment
+        and priority (e.g. time, resource and financial commitment).
+    •   LSTM should become members of the Race Equality Charter (REC) with a view to
+        achieving the REC Bronze Award within 18-24 months.
+    •   To mainstream racial equity by reviewing all policy documents, in consultation
+        with staff and students of colour, to ensure antiracism is considered throughout.
+
+3.2.6 Academic and Professional Services
+The respondents spoke candidly about their roles within the LSTM infrastructure as
+academic and professional members of staff. There was a strong feeling that the
+institution had not valued their contribution and presence.                  Institutional
+restructuring was stated to be keenly felt among academic and professional
+staff of colour who mainly held a significant number of fixed-term contracts
+at the School. There was a palpable feeling that staff of colour had encountered
+racial discrimination within the institution and directly with line managers and faculty
+leadership historically. Furthermore, it was felt that internal structures and systems
+had significantly disadvantaged the career progression of staff of colour within LSTM.
+There was a collective consensus that senior leaders needed to recognise the impact
+of such inequity on the institution’s global reputation as an institution working across
+several continents straddling the Global North and South given the diverse range of
+individuals ethnically that worked across the broader LSTM international community.
+As highlighted through several threads in this review senior leadership will need to
+take the considerations of staff of colour and allies very seriously given the
+disadvantage comparatively felt in relation to white counterparts at LSTM.
+
+
+    ACADEMIC & PROFESSIONAL SERVICES:
+    RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+    •   See recommendations around recruitment, progression and promotion.
+
+
+
+                                                                                         18
+    •   LSTM should reduce review data around precarious contracts and aim to shrink
+        the current number of fixed term contracts and reduce future instances.
+
+3.2.7 Reporting Processes
+This was recognised as one of the more concerning components of the review.
+Throughout the focus groups and individual interviews it was continuously stated that
+procedures for reporting racism at LSTM were below adequate. Staff of colour stated
+in all correspondence with the reviewer that the reporting procedures
+compounded experiences of racialization and facilitated cyclical effects of
+systemic and institutional racism.
+
+Reporting data provided by HR at LSTM indicated chronic levels of reporting among
+Black and Minority Ethnic staff. This is because there is a palpable lack of confidence
+in the reporting procedures and the HR process in reprimanding individuals involved
+in racist behaviours. Some staff had expressed disclosing complaints to their
+line managers only for these to be neutralised and dismissed.
+
+HR colleagues and senior leaders at LSTM recognise the need for strengthening
+reporting practices, namely the inclusion of more considered analysis and identification
+of actions that are owned by the institutions particularly at Faculty and Departmental
+level. Continued race-awareness training will be imperative and must be an immediate
+priority for the institution’s ongoing commitment towards establishing an anti-racist
+culture. It is important to note that reporting rates for allegations of racism are
+generally low across the Higher Education sector however they are particularly low at
+LSTM given the number of racist episodes reported in this review. Other higher
+education institutions comparatively within the sector continue to invest significant
+resource in staff development activity in an attempt to align endeavour with tangible
+intentions to address and eliminate racial discrimination. Risk management
+approaches will also be helpful accelerating the establishment of more robust and
+penetrative monitoring and reporting processes.
+
+
+    REPORTING PROCESSES:
+    RECOMMENDATIONS FROM PARTICIPANT EXPERIENCES
+    ______________________________________________________
+
+
+                                                                                       19
+    •   LSTM to ensure victims of racism are offered culturally responsive support,
+        outsourcing to appropriate external agencies if required.
+    •   LSTM to ensure appropriate consequences are taken when dealing with those
+        engaging in racism, including strong management support.
+    •   Lessons learned processes should be followed after every incident, with
+        dissemination as appropriate.
+    •   LSTM to utilise restorative approaches that centre the experiences of those
+        impacted by racism, whilst supporting a culture of learning and humility.
+    •   LSTM to engage its (relevant) workforce in training to increase cultural
+        competence and improving confidence in dealing with race-related issues.
+
+
+3.3 Conclusion
+
+In essence, there were a range of experiences discussed by both staff and students,
+but broad themes and recommendations centred on leadership and culture, exclusion,
+missed opportunities for greater global and partnership working, lack of progression
+and poor reporting and management of racism. There was evidence also of the
+importance of considering intersectionality, particularly the experiences of Black
+women and other women of colour.
+
+These findings, along with the evidence discussed in Section 2, have informed the
+standards and indicators populated within the framework below. This helps convert
+the broad recommendations emerging from the qualitative inquiry and landscape
+review into specific and tangible actions (Appendix A).
+
+
+
+
+                                                                                    20
+                                                             See Appendix A
+Point to Note: Appendix A, has been designed for the purpose of LSTM and fundamentally the framework is a product that has been curated
+and developed specifically for the School. It is the wish of the External Consultant (Professor Jason Arday) that this resource remain internal to
+inform our structural and practical processes towards improving race equality at LSTM. Professor Arday will be working closely with LSTM over the
+next 14-16 months to ensure the successful implementation of the framework in relation to the specific issues at the School.
+
+
+
+
+                                                                                                                                                21
+

@@ -2405,6 +2405,14 @@ Search boundary: ran fresh exact-name searches for Jason Arday across 2026 unive
 Deduplication: every substantive result was already represented by SRC-193, SRC-305, SRC-187, SRC-339, SRC-113, SRC-239/SRC-220, SRC-287, SRC-282, or SRC-460. No new recording, transcript, image, document, or materially changed source state was exposed by this search family. Search-result snippets were not promoted to evidence and no claims were upgraded.
 
 Decision: close this exact query family for now. Reopen only after a changed endpoint, a direct event artifact, a new publication identifier, or a distinct interview/recording appears; continue from the first unchecked source family in `NEXT.md` rather than repeating these broad searches.
+
+## 2026-08-07 — SRC-536/C-681–C-682: LSTM report manifestation
+
+Discovery: an institutional-output sweep surfaced LSTM’s public February 2022 PDF, *Equity & Inclusion at LSTM: Improving racial equity in global medicine*. The earlier LSTM announcement under SRC-097 established the consultancy announcement but did not preserve the report binary.
+
+Capture: downloaded the 21-page PDF, preserved response headers and layout-preserving extracted text, and rendered representative pages for visual QA. The title page names Professor Jason Arday as author; PDF p. 4 says LSTM commissioned him as an independent consultant; PDF p. 12 reports the staff/student consultation counts; PDF pp. 12–20 presents themes and recommendations; PDF p. 21 describes the LSTM-specific implementation framework and 14–16-month consultant follow-up.
+
+Decision: register SRC-536 as a distinct professional-output manifestation, not a duplicate of the LSTM announcement. Add C-681 for the commissioned authorship/role and C-682 for the report’s stated methodology/findings. Preserve its author biography as dated host/report copy and do not infer independent participant verification, implementation success, or later institutional outcomes.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.
