@@ -5,7 +5,7 @@ title: "From Autistic Child to University Youngest Professor: Jason Arday [In En
 subject: ../entities/jason-arday.md
 published: 2025-02-04
 accessed: 2026-08-06
-status: official Diversity Seminar YouTube recording and captions locally preserved
+status: official Diversity Seminar YouTube recording and captions locally preserved; bounded childhood/literacy review clip committed to GitHub
 evidence_class: interviewer-hosted video; first-person interview testimony; automatic caption derivative
 urls:
   - https://www.youtube.com/watch?v=zxbJJ97BeEs
@@ -29,3 +29,9 @@ In the 05:10–08:30 personal-story segment, Arday says he was diagnosed with au
 - [Headers](../assets/documents/diversity-seminar-autistic-child-jason-arday-2025-headers.txt) — SHA-256 `8de7ae1423d759a0c4463f7661a15289db7a9da2fa79132659474125cd4fee8e`
 
 Navigation points: diagnosis ~05:22–05:45; speech ~05:56–06:06; literacy ~06:49–07:19; Sandro/tutor ~07:19–08:20. Captions are automatic and require human verification.
+
+## Reproducibility clip — 2026-08-08
+
+- [Childhood/literacy review clip, source interval 05:00–09:00](../assets/videos/clips/diversity-seminar-autistic-child-2025/childhood-literacy-05m00-09m00.mp4) — 8,618,819 bytes; SHA-256 `ef82d853a31674e259e2d34da31bdd30ed7f671de1c795ce6c337f4cd135495a`.
+
+The clip is a bounded derivative of the parent MP4, not an independent interview or verified transcript. Its automatic-caption windows remain navigation aids. The 123,444,887-byte parent hash remains `f9e6c76f6cd1e8c9e3d409dbf4edfef06d541349c115b9f1f94ae8efae4e8149` and the parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.

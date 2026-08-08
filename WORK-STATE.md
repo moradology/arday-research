@@ -1,5 +1,7 @@
 # Work state
 
+Latest review-clip checkpoint: on 2026-08-08 `SRC-241/C-936` created and promoted an 8,618,819-byte review clip covering source interval 05:00–09:00 of the Diversity Seminar interview. The 123,444,887-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the diagnosis/speech/literacy/Sandro windows remain automatic-caption navigation material, not verified quotations. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest review-clip checkpoint: on 2026-08-08 `SRC-271/C-935` created and promoted a 38,308,300-byte opening clip covering source interval 00:00–10:00 of the UCU webinar. The captioned identification of Jason and the Black Members Standing Committee is preserved as navigation context; the 187,205,146-byte parent remains local-only and no substantive transcript claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest review-clip checkpoint: on 2026-08-08 `SRC-263/C-934` created and promoted a 48,473,641-byte stream-copy review clip covering source interval 01:11:00–01:31:30 of the Cambridge “Black Men On The Couch” recording, beginning shortly before Arday’s captioned introduction. The 287,422,026-byte parent remains local-only; no transcript-level claim was added. Google Drive was not updated; GitHub remains the active publication target.
