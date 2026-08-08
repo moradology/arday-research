@@ -3404,3 +3404,9 @@ Repair: corrected both TEDx links to the existing directory and removed the dupl
 Discovery: a bounded search across university event pages, YouTube, institutional domains, and podcast indexes returned Newcastle’s 2025 lecture, Glasgow’s 2025 event, the Oxford EDB lecture, the Ruling Passions episode, the Channel 4 interview, and the 2026 White Rose book review as already-catalogued records. The remaining hits were homonyms or already-preserved manifestations.
 
 Decision: no new source node was created. Reopen only with a changed page, a distinct recording/transcript/binary, or a concrete uncatalogued publication lead; do not repeat these exact queries unchanged.
+
+## 2026-08-08 — SRC-151/C-014: targeted sports-record recheck
+
+Discovery: exact-name searches for football, Crystal Palace, snooker, footballer, and Battersea Park Rangers returned only already-catalogued biography/source-propagation pages, the existing BPR image lead, homonyms, and public discussion of the same unresolved wording.
+
+Decision: extended SRC-151’s negative-space boundary and updated C-014 to cover the 8 August query set. No new source node or professional-status claim was created; reopen only for a named club/academy record, senior contract or appearance, snooker ranking/tournament/governing-body record, or manually verified first-person source.

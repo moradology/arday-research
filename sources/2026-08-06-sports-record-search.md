@@ -3,7 +3,7 @@ id: SRC-151
 type: Source
 title: "Football and snooker record search boundary"
 date: 2026-08-06
-accessed: 2026-08-07
+accessed: 2026-08-08
 status: negative-space observation / bounded follow-up search; later upgraded by SRC-277 and SRC-278
 source_kind: search audit
 entities:
@@ -54,3 +54,9 @@ This recheck extends the negative-space boundary; it does not disprove the autob
 An indexed Haitian Creole-language Juno7 article was checked as a possible additional sports/childhood witness. Its search snippet repeated the familiar first-person formulation that Arday imagined becoming a professional footballer or snooker player. The direct article URL returned HTTP 404 and no article body or image, so the snippet is retained only as a discovery lead and does not add evidence or a new source node.
 
 - [Juno7 404 response headers](../assets/captures/2026-08-08-juno7-arday/page.headers.txt)
+
+## Targeted sports recheck — 2026-08-08
+
+A fresh exact-name search was run for `"Jason Arday" football Crystal Palace snooker`, `"Jason Arday" snooker`, `"Jason Arday" footballer`, and `"Jason Arday" "Battersea Park Rangers"`. Results returned the already-catalogued Twinkl interview, Hindustan Times/news reproductions, St Mary’s alumni material, and the existing Battersea Park Rangers image lead. Other results were homonyms or public discussion of the same unresolved Bath wording.
+
+No new named club, academy, senior appearance, contract, snooker tour, ranking, tournament result, or governing-body record was recovered. The search extends the dated negative-space boundary; it does not disprove the self-reported youth-football or near-professional-snooker accounts.
