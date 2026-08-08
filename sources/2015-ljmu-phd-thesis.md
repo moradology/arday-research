@@ -24,3 +24,4 @@ The thesis file is primary evidence for the dissertation title, institution, and
 
 - Local filename: `assets/documents/ljmu-thesis.pdf`
 - Captured 2026-08-05 from the public repository PDF; 401 pages; SHA-256 `e5772e9855a7ee190adaafba9743b8d00b0a6b739da38e997e835630bb983f1a`.
+- [Bounded extracted-text derivative](../assets/documents/ljmu-thesis.txt) — SHA-256 `7662ecc8573acac3a2ae09e06265006e4641fe03d71e84b0b9c9d2846ea12d27`; a local text-extraction slice used for comparison navigation, not a substitute for the PDF.

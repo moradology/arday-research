@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-087/SRC-209/C-954: thesis text-navigation derivatives promoted
+
+Archive action: preserved and hash-anchored the bounded extracted-text derivatives already generated from the 401-page Arday thesis (`assets/documents/ljmu-thesis.txt`, 2,722 bytes, SHA-256 `7662ecc8573acac3a2ae09e06265006e4641fe03d71e84b0b9c9d2846ea12d27`) and the 370-page Zwozdiak-Myers comparator thesis (`assets/documents/research-integrity/zwozdiak-myers-2009-thesis.txt`, 2,711 bytes, SHA-256 `01fe6f410f9e0cbeed15a68078aaf091d5a552275826925d45c2e8e9ff18d3ab`).
+
+Decision: added C-954 as an archive-integrity/reproducibility observation and linked the files from SRC-087 and SRC-209. The text files are bounded navigation derivatives, not replacements for the PDFs and not a new overlap analysis; no plagiarism or misconduct conclusion was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-058/C-953: complete MMU keynote audio derivative created
 
 Archive action: converted the 847 MB parent MP4 to a complete 57,636,236-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 1:00:02.41, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `32a8b0bd86fdc5188d6b190625e277a0c833ce28a517d26b812172dfd96fce1d`.

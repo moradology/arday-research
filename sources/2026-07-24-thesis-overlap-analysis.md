@@ -43,6 +43,8 @@ This record is therefore useful evidence of a reproducible public textual-analys
 - [Analysis page](../assets/documents/research-integrity/thesis-overlap-analysis-page-2026-08-06.html) — SHA-256 `5d9437aed972056424ebbdb023cd79569854ad0cb9a5a2e5b86a755b93b7e676`
 - [185-pair appendix](../assets/documents/research-integrity/thesis-overlap-analysis-appendix-2026-08-06.html) — SHA-256 `56bea333ffb185db24769c63fbb3f3622b4a0e4ab45fe6daf243db44df9d9004`
 - [Brunel comparator thesis](../assets/documents/research-integrity/zwozdiak-myers-2009-thesis.pdf) — 370 pages; SHA-256 `3563ab2cbaf472c4bce403a0134d95963824b168141f58c7d2145f177f68c32b`
+- [Bounded Arday extracted-text derivative](../assets/documents/ljmu-thesis.txt) — SHA-256 `7662ecc8573acac3a2ae09e06265006e4641fe03d71e84b0b9c9d2846ea12d27`; navigation aid only, with the PDF as the primary page-integrity anchor.
+- [Bounded Zwozdiak-Myers extracted-text derivative](../assets/documents/research-integrity/zwozdiak-myers-2009-thesis.txt) — SHA-256 `01fe6f410f9e0cbeed15a68078aaf091d5a552275826925d45c2e8e9ff18d3ab`; navigation aid only, with the PDF as the primary page-integrity anchor.
 - [Replication script](../assets/documents/research-integrity/overlap_analysis.py) — SHA-256 `2f6002241cb6d42b1a83cfd977a7acf912814a6bfae40d4a2f4b1e3db32dfe6b`
 - [Six-encoder replication bundle](../assets/documents/research-integrity/analysis_v2.zip) — SHA-256 `3d17f9960f253b920d708097ae32dc1ccc274d645d4ead889ec21d4014eadb65`
 - [Arday page image, PDF p. 17 / printed p. 17](../assets/captures/2026-08-06-thesis-overlap-pages/arday-2015-pdf17-017.png) — SHA-256 `8a95c3f6314b7918b2d828a126364dc8dc9e1172ea0b4fa47abfe2fa1ec82f2d`

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh reproducibility checkpoint: SRC-087/SRC-209/C-954 — bounded extracted-text derivatives for the Arday and Zwozdiak-Myers theses are now explicitly linked and hash-anchored on GitHub. The PDFs remain the primary page-integrity sources; no new overlap measurement or misconduct finding was added.
+
 Fresh complete-derivative checkpoint: SRC-058/C-953 — the complete 1:00:02.48 MMU LEED keynote is now available as a 57,636,236-byte AAC derivative on GitHub. The 847 MB parent MP4 remains local-only; the official SRT’s 81% accuracy warning and the PE-teacher self-description boundary remain explicit.
 
 Fresh complete-derivative checkpoint: SRC-057/C-952 — the complete 1:09:50.97 Bristol/British Academy “Story of Graceland” lecture is now available as a 67,795,210-byte AAC derivative on GitHub. The 183,882,527-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and lecture claims remain unverified.
