@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-129/C-901: longer *How Do You Cope?* binary promoted to GitHub
+
+Audit: the canonical episode record already contained the Global Player page/API/artwork, the shorter Acast RSS manifestation, and the longer 1:11:49.51 Global Player file in the working tree; the longer binary was not yet in Git history.
+
+Capture decision: validated the 68,952,519-byte MP3 checksum (`b837eeb912e44f3043a4441e298dce684432fc16d6ada284b5f661c074d275d0`) against the capture metadata and committed it. Both audio versions remain preserved with their duration/completeness discrepancy; no transcript-level or substantive claim was promoted.
+
 ## 2026-08-08 — SRC-220/C-900: *How Do You Cope? — The Gratitude List* binary promoted to GitHub
 
 Audit: the canonical bonus-episode record already contained the Apple page, Tapesearch shell/headers, and a 21:13.29 MP3, but the audio remained only in the working tree.

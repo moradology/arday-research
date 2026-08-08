@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-129/C-901 — the longer 1:11:49.51 Global Player/Acast MP3 for the 26 May 2025 *How Do You Cope?* episode is now committed to GitHub beside the shorter Acast RSS manifestation. Reopen only for an official transcript, changed feed/player state, or evidence explaining the edit/completeness difference; do not silently substitute one version for the other.
+
 Fresh binary-preservation checkpoint: SRC-220/C-900 — the official 21:13.29 *How Do You Cope? — The Gratitude List* MP3 is now committed to GitHub alongside its Apple page and Tapesearch access-boundary captures. Reopen for a manually verified listening pass or complete transcript; keep the poverty/family passage as first-person testimony, not independent evidence.
 
 Fresh binary-preservation checkpoint: SRC-035/C-899 — the 39:19.30 *Portrait of a Londoner* Simplecast MP3 is now committed to GitHub alongside its page snapshot and episode image. The listing/file duration discrepancy and private YouTube state remain explicit; reopen only for a transcript, changed YouTube state, or first-party page.
