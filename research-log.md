@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-616/C-833: *The Times* teaser and access boundary
+
+Discovery: the canonical *The Times* article URL was directly reachable as a publisher teaser. It exposes the headline, Fiona Hamilton byline, public standfirst, and article dates, but stops at the subscription prompt.
+
+Capture: preserved the full teaser HTML and response headers. No article body, interview transcript, image, or downloadable media was recovered.
+
+Decision: added SRC-616 and C-833. The standfirst is logged as a reported self-position, not as evidence that the allegations are true or false. Do not reconstruct the paywalled article from unattributed reposts or social-media quotations.
+
 # 2026-08-08 — SRC-611/C-817–C-823: BBC multi-institution hiring-review report
 
 Discovery: the BBC’s related report on Cambridge’s senior-academic hiring review was publicly accessible at a distinct article URL. It contains attributed statements from Cambridge, Jesus College, the University of Glasgow, and Liverpool John Moores University, plus reported memoir/publication discrepancies.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh publisher-access checkpoint: SRC-616/C-833 — *The Times*’ 31 July 2026 article teaser is locally preserved with headline, byline, standfirst, publisher dates, and explicit subscription boundary; the full body and media were not recovered. Reopen only for a lawful full-text state, correction, public interview artifact, or primary institutional record; do not reconstruct the article from secondary quotations.
+
 Fresh institutional-response checkpoint: SRC-610/C-813–C-816 — BBC News NI reported on 8 August 2026 that Queen’s University Belfast is investigating its 2021 publication co-authored by Jason Arday, *Attempting to break the chain*, and quoted QUB saying it is looking into the matter and liaising with other UK universities. The BBC HTML, extracted text, headers, and article image are local. This is a named response/status state, not an adjudicative finding. Reopen only for a direct QUB statement, terms of reference, correction, investigation outcome, or changed publication record.
 
 Fresh QUB primary-manifestation checkpoint: SRC-612/C-824–C-825 — Queen’s University Belfast’s Research Portal record and public PDF for the canonical *Attempting to break the chain* article are locally preserved. The repository labels the file an accepted author manuscript; the PDF calls itself the peer-reviewed version. Reopen only for a direct QUB investigation statement, terms of reference, correction, outcome, or a distinct version-of-record comparison; do not treat this manifestation as an adjudication.
