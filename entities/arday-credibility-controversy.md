@@ -4,7 +4,7 @@ type: Controversy
 name: Jason Arday credibility and public-biography controversy
 subject: jason-arday.md
 status: active; disputed and unresolved
-last_reviewed: 2026-08-07
+last_reviewed: 2026-08-08
 ---
 
 # Jason Arday credibility and public-biography controversy
@@ -20,7 +20,7 @@ The controversy is the mechanism through which otherwise separate records became
 | Sub-thread | Canonical evidence | Current status |
 |---|---|---|
 | Scholarship and research integrity | [Cofnas source](../sources/2026-07-21-cofnas-dei-fraud-cover-up.md), direct comparison records, journal corrections, [Cambridge process reporting](../sources/2026-08-07-guardian-cambridge-academics-reject.md) | Material textual/provenance questions documented; intent, data issues, and final institutional findings unresolved |
-| Qualifications and affiliations | Cambridge appointment/profile versions, [Ohio State response](../sources/2026-08-04-national-review-ohio-state-affiliation.md), [Cambridge process reports](../sources/2026-08-07-guardian-cambridge-academics-reject.md), Companies House and charity records | Conflicting role/status records; role type, historical scope, appointment-process review, and institutional findings remain to be reconciled |
+| Qualifications and affiliations | Cambridge appointment/profile versions, [Ohio State response](../sources/2026-08-04-national-review-ohio-state-affiliation.md), [Cambridge process reports](../sources/2026-08-07-guardian-cambridge-academics-reject.md), [alternate Faculty directory boundary](../sources/2026-08-08-cambridge-faculty-members-directory.md), Companies House and charity records | Conflicting role/status records; multiple Cambridge directories no longer expose the earlier profile while indexed results persist; role type, historical scope, appointment-process review, and institutional findings remain to be reconciled |
 | Fundraising and memoir | [Free Beacon source-version report](../sources/2026-08-04-free-beacon-fundraising-memoir.md), [JustGiving record](../sources/2026-08-08-justgiving-30in35-current-source-version.md), archived speaker biographies | Public totals and descriptions changed; accounting, attribution, intent, and primary proofs unresolved |
 | Sports biography | [Bath correction](../sources/2026-08-06-bath-interview-correction.md), [football records](../sources/2026-08-06-sports-record-search.md), [Talking Matters](../sources/2024-08-02-talking-matters-jason-arday.md) | “Professional” wording narrowed/corrected in one institutional source; complete playing record and intent unresolved |
 | Childhood and disability narrative | [Childhood evidence map](../childhood-evidence.md), memoir and interview source family | Many repeated self-reports and source-version discrepancies; independent clinical, school, and civil records generally unavailable |
@@ -31,9 +31,12 @@ The controversy is the mechanism through which otherwise separate records became
 | Date | Development | Evidence status |
 |---|---|---|
 | 2026-07-21 | Nathan Cofnas published a polemical article connecting thesis/article overlap allegations with biography and Cambridge-response claims. | Source publication verified; allegations not an institutional finding |
+| 2026-07-25 | *The Daily Sceptic* published a commentary framing the dispute as a plagiarism row and repeating the principal allegations and biography narrative. | Dated commentary/source-propagation record; no independent audit or adjudication |
+| 2026-07-21 | Luke Ford published a long-form commentary synthesizing the biography, literacy/GCSE tension, journal corrections, thesis/publication allegations, and Cambridge response. | Dated polemical synthesis; unresolved claims and missing primary records remain explicit |
 | 2026-08-02 to 2026-08-05 | Cambridge statements and resignation changed the institutional context; a further investigation was announced. | Official statements preserved; outcome unknown |
 | 2026-08-05 to 2026-08-07 | Guardian reporting, later source versions, and public commentary connected scholarship, intimidation, sports, fundraising, and affiliation questions. | Journalism/commentary and page changes preserved; primary case records unavailable |
 | 2026-08-07 onward | The archive formalized the controversy as an entity and separated credibility, fraud, and moral-character hypotheses. | Ontology change; hypotheses remain unresolved |
+| 2026-08-08 | An alternate Cambridge Faculty of Education directory was captured as HTTP 200 without an Arday entry, despite an indexed/live mismatch. | Direct page-state evidence; employment and resignation implications remain unresolved |
 
 ## Amplification channels
 

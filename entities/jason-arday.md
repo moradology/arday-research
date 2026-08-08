@@ -29,6 +29,8 @@ A 7 August 2026 EDICa newsletter profile preserves a project-host version of bro
 
 PASSHE’s 8 August 2026 speaker page likewise preserves stale present-tense Cambridge/Jesus wording in event-host copy; it is retained as a source-version, not a current-affiliation assertion. [PASSHE record](../sources/2026-08-08-passhe-speakers-page.md)
 
+The alternate Cambridge Faculty of Education “Faculty members” directory returned HTTP 200 on 8 August 2026 but contained no Arday entry, while search indexing still surfaced an Arday-associated result. This is a current directory/version boundary, not proof that every Cambridge relationship ended or that the omission has a known cause. [Directory record](../sources/2026-08-08-cambridge-faculty-members-directory.md)
+
 The July–August 2026 *Booktime Magazine* listing is preserved as a trade-publication lead for a memoir interview on p. 29; the product endpoint did not expose the magazine or interview text. [Booktime record](../sources/2026-07-14-booktime-magazine-jason-arday.md)
 
 THE RAKE Japan’s February 2025 “Pocket Guide” is preserved as a lifestyle-profile/photo-essay edge: it attributes bespoke-tailoring and personal-style details to Arday and includes six editorial images. Its repeated biography is host copy, not independent corroboration. [THE RAKE Japan record](../sources/2025-02-22-rake-japan-jason-arday.md)
