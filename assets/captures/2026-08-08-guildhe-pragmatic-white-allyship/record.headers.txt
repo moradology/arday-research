@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 12:11:23 GMT
+Server: Apache
+Cache-Control: no-store, no-cache;
+Content-Security-Policy: frame-ancestors 'self';
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Link: <https://lau.repository.guildhe.ac.uk/id/eprint/17708>; rel="cite-as", <https://lau.repository.guildhe.ac.uk/cgi/export/eprint/17708/XML/lau-eprint-17708.xml>; rel="describedby"; type="application/vnd.eprints.data+xml; charset=utf-8", <https://lau.repository.guildhe.ac.uk/cgi/export/eprint/17708/BibTeX/lau-eprint-17708.bib>; rel="describedby"; type="text/plain", <https://lau.repository.guildhe.ac.uk/cgi/export/eprint/17708/DC/lau-eprint-17708.txt>; rel="describedby"; type="text/plain; charset=utf-8", <https://lau.repository.guildhe.ac.uk/cgi/export/eprint/17708/JSON/lau-eprint-17708.js>; rel="describedby"; type="application/json; charset=utf-8"
+Cache-Control: no-store, no-cache, must-revalidate
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+X-Clacks-Overhead: GNU Tim Miles-Board, Julie Allinson
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

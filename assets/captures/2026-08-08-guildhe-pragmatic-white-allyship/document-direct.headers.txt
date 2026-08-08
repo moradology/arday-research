@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Date: Sat, 08 Aug 2026 12:11:42 GMT
+Server: Apache
+Location: /id/eprint/17708/1/Pragmatic White Allyship for HE Popular Music Academics.pdf
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 12:11:42 GMT
+Server: Apache
+Content-Security-Policy: frame-ancestors 'self';
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+ETag: a21bec86074a01e794f1b0528ec73152
+Content-MD5: ohvshgdKAeeU8bBSjscxUg==
+Last-Modified: Tue, 23 Feb 2021 09:30:04 GMT
+Expires: Sun, 08 Aug 2027 12:11:42 GMT
+Content-Disposition: inline; filename=Pragmatic%20White%20Allyship%20for%20HE%20Popular%20Music%20Academics.pdf
+Accept-Ranges: bytes
+Content-Length: 273608
+X-XSS-Protection: 1; mode=block
+X-Clacks-Overhead: GNU Tim Miles-Board, Julie Allinson
+Content-Type: application/pdf
+

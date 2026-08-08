@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-619/C-836–C-837: Wonkhe recording recovered through IASPM repository article
+
+Discovery: the Leeds Arts University Repository record for Jason Huxtable’s *IASPM Journal* article “Pragmatic White Allyship for Higher Education Popular Music Academics” exposed a direct alternate PDF route and named the underlying Wonkhe YouTube recording.
+
+Capture: recovered the complete seven-page PDF, extracted text, page-3 render, repository record, YouTube HTML/headers, a 144p MP4, both English automatic-caption variants, and video metadata. The article links Arday’s coded contribution to recording position 30:21.
+
+Decision: added SRC-619 and C-836–C-837. This is a distinct event/media source-version, not a new Arday-authored publication. The local binary makes the event resumable; the captions remain navigation aids pending manual listening, so no caption wording is promoted as a verified verbatim quote.
+
 ## 2026-08-08 — SRC-618/C-835: Cumberland Lodge “Beyond Tokenism” media boundary
 
 Discovery: a search for uncatalogued interviews and event recordings surfaced Cumberland Lodge’s first-party resource page for its 3 November 2021 Dialogue & Debate webinar.
