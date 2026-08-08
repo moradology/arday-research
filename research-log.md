@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-196/C-902: Surviving Society binary promoted to GitHub
+
+Audit: the canonical Surviving Society episode record already contained the Apple page, RSS snapshot, and a 2,193.32-second MP3, but the audio remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`bedf6e5c32052790de96137ab4a6945565e746c95dad046a81d3bbeb8fc13d15`) against the source record and committed the audio. The episode remains a scholarly/public conversation record without a transcript; no substantive claim was promoted.
+
 ## 2026-08-08 — SRC-129/C-901: longer *How Do You Cope?* binary promoted to GitHub
 
 Audit: the canonical episode record already contained the Global Player page/API/artwork, the shorter Acast RSS manifestation, and the longer 1:11:49.51 Global Player file in the working tree; the longer binary was not yet in Git history.
