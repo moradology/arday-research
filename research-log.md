@@ -2568,3 +2568,11 @@ Discovery: an official American Sociological Association PDF surfaced in search 
 Capture: preserved the 36-page PDF, response headers, layout-preserving text extraction, and a rendered page showing the listing (PDF p. 12 / printed p. 22).
 
 Decision: added SRC-549 and C-708 as a dated first-party event-listing witness. The record does not establish the exact date, delivery, attendance, recording, transcript, or substantive content; no current-employment inference is made. Future work should seek the session artifact itself rather than repeat the annual-review search.
+
+## 2026-08-08 — SRC-550/C-709 Aziz Foundation / London Met report capture
+
+Discovery: an exact-name PDF search surfaced the official copy of *Institutionalised: The Rise of Islamophobia in Higher Education*, dated January 2021 and produced by London Metropolitan University’s Centre for Equity and Inclusion.
+
+Capture: preserved the 60-page PDF, headers, layout-preserving text extraction, and a rendered copy of printed page 7. The page contains Arday’s foreword, “A New Dawn: Addressing Islamophobia in British Higher Education,” and labels him Visiting Professor at the Centre for Equity & Inclusion, Durham Associate Professor/Deputy Executive Dean, and Runnymede Trust trustee.
+
+Decision: added SRC-550 and C-709. The report is catalogued as an institutional report with an Arday-authored foreword, not as an Arday-authored empirical study. Its role labels are preserved as January 2021 source-version evidence and are not treated as current status.
