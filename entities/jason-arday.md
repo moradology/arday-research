@@ -29,6 +29,8 @@ PASSHE’s 8 August 2026 speaker page likewise preserves stale present-tense Cam
 
 The July–August 2026 *Booktime Magazine* listing is preserved as a trade-publication lead for a memoir interview on p. 29; the product endpoint did not expose the magazine or interview text. [Booktime record](../sources/2026-07-14-booktime-magazine-jason-arday.md)
 
+THE RAKE Japan’s February 2025 “Pocket Guide” is preserved as a lifestyle-profile/photo-essay edge: it attributes bespoke-tailoring and personal-style details to Arday and includes six editorial images. Its repeated biography is host copy, not independent corroboration. [THE RAKE Japan record](../sources/2025-02-22-rake-japan-jason-arday.md)
+
 A contemporaneous 2015 Clapham Old Xaverians club report names Jason Arday in its COXA 1st XI squad and describes him as goalkeeper in a match against the Manhattan Kickers. This is a dated club record, not a professional-sports affiliation or school-attendance record.
 
 An official Croydon/London election-result family names a Labour candidate Jason Arday in the Purley & Woodcote ward on 3 May 2018, with 953 votes. A dated indexed extract from Arday’s January 2020 CV says he was selected as the Labour candidate for that position. This is strong source-level same-person corroboration, but not independent party verification or evidence of a political office. [Election record](../sources/2018-05-03-croydon-jason-arday-election-result.md) · [CV record](../sources/2020-01-nelson-mandela-cv.md)

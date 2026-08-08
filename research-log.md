@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-523/C-668: THE RAKE Japan lifestyle profile and photo essay
+
+Discovery: an exact-name international-media search surfaced THE RAKE Japan’s February 2025 “Pocket Guide: Jason Arday,” a Japanese-language profile/interview credited to Tom Chamberlin with photography by Kim Lang.
+
+Capture: preserved the public page, response headers, and six linked editorial JPEGs under `assets/captures/2026-08-08-rake-japan-jason-arday/`. The page’s structured metadata gives `datePublished` as 22 February 2025.
+
+Evidence handling: added SRC-523 and C-668 as a distinct lifestyle/profile/photo-essay record. The attributed bespoke-style details are retained as self-report/profile material; repeated childhood, career, fundraising, torch, and marathon language is host copy and was not promoted as independent corroboration. Image rights and any English/print edition remain unresolved.
+
 # 2026-08-08 — SRC-059/C-667: Cambridge Student Wayback revision audit
 
 Discovery: the canonical Cambridge Student interview page says it was revised after discussion with Arday. A Wayback CDX query for the exact URL returned three successful digest-collapsed snapshots: 14 December 2023, 16 January 2024, and 27 December 2024.

@@ -1,0 +1,8 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 03:50:59 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+vary: User-Agent
+link: <https://therakejapan.com/wp-json/>; rel="https://api.w.org/", <https://therakejapan.com/?p=42110>; rel=shortlink
+

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh international-media lead: SRC-523/C-668 — THE RAKE Japan’s February 2025 Japanese-language “Pocket Guide: Jason Arday” profile/interview and six-image editorial photo essay are preserved locally. It adds attributed bespoke-tailoring and personal-style details, not independent confirmation of the repeated biography. Reopen only for an English/international or print edition, photographer captions/rights, or a changed page.
+
 Fresh changed-page audit: SRC-059/C-667 — Wayback’s exact-URL CDX response returned three successful snapshots of the Cambridge Student interview (December 2023, January 2024, December 2024). All recovered replays already contain the 4 December 2023 revision notice; the pre-revision body remains unfound. Reopen only for an earlier archive snapshot, publisher-held original, or a separately preserved contemporaneous copy.
 
 Fresh memoir-publication lead: SRC-522/C-666 — The Harbour Bookshop’s July–August 2026 *Booktime Magazine* listing says a Jason Arday memoir interview appears on p. 29. Product HTML/JSON, headers, and cover are preserved, but the advertised “FREE TO DOWNLOAD” endpoint exposed no magazine PDF or interview text. Reopen only for a lawful magazine file, page-29 image, mirror, or interview body; do not infer contents from the listing.
