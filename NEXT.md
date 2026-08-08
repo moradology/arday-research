@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh project-role checkpoint: SRC-635/C-870 — QUB CITE’s indexed projects page names Arday as a collaborator on “Advancing Critical University Studies for Inclusive and Equitable Quality Education.” The current route returns CloudFront 403; no project brief, funder record, output, or final report was recovered. Reopen only for a lawful QUB page, project/funder artifact, publication, final report, or changed host state; do not treat the indexed Cambridge wording as current employment evidence.
+
 Fresh deduplication/access-boundary checkpoint: the 8 August search rediscovered UAL’s already-canonical `SRC-305` *Opening Out* event. A second direct challenge response and an empty exact-URL Wayback CDX result are preserved under `assets/captures/2026-08-08-ual-opening-out/`; no new source ID was created. Reopen only for a lawful UAL page, archive replay, post-event report, recording, transcript, slides, attendee artifact, or materially changed host state.
 
 Fresh governance-document checkpoint: SRC-634/C-869 — South Bank Colleges’ 20 November 2024 board minutes corroborate the group’s first Honorary Fellowship for Arday at the October 2024 Royal Festival Hall graduation ceremony. The PDF and printed-page render are locally preserved; the repeated Cambridge superlative remains host copy. Reopen only for an award certificate, ceremony programme, or changed institutional record; do not count this as a second award.

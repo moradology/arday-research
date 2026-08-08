@@ -1,12 +1,20 @@
 # Research log
 
+## 2026-08-08 — SRC-635/C-870: QUB CITE project-role boundary
+
+Discovery: an official QUB search result surfaced the Centre for Inclusion, Transformation and Equality projects page for “Advancing Critical University Studies for Inclusive and Equitable Quality Education,” naming Dina Zoe Belluigi as lead and Joanne O’Keeffe and Jason Arday as collaborators.
+
+Capture: the current QUB route returned a 919-byte CloudFront HTTP 403 response. The raw page and headers are preserved under `assets/captures/2026-08-08-qub-cite-projects/`; no project brief, funder record, output, or final report was recovered.
+
+Decision: added SRC-635/C-870 as a dated first-party indexed project-role record. It is distinct from the BERA report and the separate QUB investigation into *Attempting to break the chain*. The archive does not promote the page’s Cambridge wording to current employment or infer project completion.
+
 ## 2026-08-08 — SRC-305 re-entry: UAL *Opening Out* deduplicated
 
 Discovery: an exact-name search for 2026 university appearances rediscovered UAL’s 4 March 2026 *Opening Out* listing, already canonicalized as `SRC-305` with the matching Eventbrite manifestation.
 
 Capture: the exact UAL route returned another 5,639-byte Cloudflare challenge, and the exact-URL Wayback CDX query returned `[]`. The body, headers, and empty CDX response are preserved under `assets/captures/2026-08-08-ual-opening-out/`.
 
-Decision: folded the changed retrieval state into `SRC-305` and did not create the tempting duplicate `SRC-635`. The event remains a scheduled/listed appearance only: no attendance, delivery, recording, transcript, slides, or substantive remarks are established.
+Decision: folded the changed retrieval state into `SRC-305` and did not create a duplicate record. The event remains a scheduled/listed appearance only: no attendance, delivery, recording, transcript, slides, or substantive remarks are established.
 
 ## 2026-08-08 — SRC-633/C-867–C-868: BERA staff-equality report recovered
 

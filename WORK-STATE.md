@@ -1,5 +1,7 @@
 # Work state
 
+Latest first-party project-role checkpoint: on 2026-08-08 `SRC-635/C-870` preserved QUB CITE’s indexed attribution of Arday as a collaborator on the ACUS project, while the live projects route returned CloudFront 403. No project artifact, funding record, output, or completion evidence was recovered. The record is distinct from both the BERA report and the QUB investigation into *Attempting to break the chain*. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest deduplication/access-boundary checkpoint: on 2026-08-08 a fresh search rediscovered the already-canonical UAL *Opening Out* event (`SRC-305/C-287, C-741`). The exact UAL route returned another Cloudflare challenge and the tested Wayback CDX query returned `[]`; these captures are folded into `SRC-305`, not promoted to a duplicate source. No recording, transcript, slides, attendance artifact, or delivery confirmation was found. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest governance-document checkpoint: on 2026-08-08 `SRC-634/C-869` preserved South Bank Colleges’ 20 November 2024 Board minutes. Printed page 4 records the group’s first Honorary Fellowship for Jason Arday at the October 2024 Level 3 and 4 Royal Festival Hall graduation ceremony. This is a distinct institutional corroboration of the existing award record, not a second award; the repeated Cambridge superlative remains host wording. Google Drive was not updated; GitHub remains the active publication target.
