@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-112/C-917: ITV Black Voices public clips promoted
+
+Audit: the canonical ITV resource record already preserved the two public YouTube clips, two thumbnails, and the UCU English caption track, but both public MP4s were not tracked in Git. The third linked item remained private and the ITV resource page remained timeout-bound.
+
+Archive action: checksum-validated and committed the 5:14 UCU “Harassment at Work” MP4 and the 4:49 CLASS “Realities for Lecturers” MP4. No new substantive claim was added; C-047 remains the caption-derived first-person account for the UCU clip, while the CLASS clip has no captions.
+
+Decision: added C-917 as an archive-integrity observation. The two clips remain derivatives of one canonical ITV resource record, not independent source families. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-111/C-916: South Bank Colleges graduation video promoted
 
 Audit: the canonical South Bank Colleges event page already preserved the 19.64-second YouTube asset, thumbnail, event photograph, page snapshot, and capture metadata, but the MP4 was not tracked in Git.

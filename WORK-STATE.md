@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-topology checkpoint: on 2026-08-08 `SRC-112/C-917` promoted both public ITV *Black Voices* MP4s to GitHub: UCU’s 5:14 harassment clip and CLASS’s 4:49 lecturers clip. Existing thumbnail/caption assets remain preserved; the third linked clip is private and the ITV resource page remains timeout-bound. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-111/C-916` promoted the 19.64-second South Bank Colleges graduation MP4 to the GitHub archive. The related institutional page, thumbnail, and event photograph remain preserved; the binary is a short event asset, not a complete ceremony/speech or independent award record. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-254/C-915` promoted the 1:26 India Today NewsMo MP4 to the GitHub archive. The page and response headers remain preserved; no captions or transcript were exposed, and its delayed-literacy framing remains attached to existing claims rather than treated as independent evidence. Google Drive was not updated; GitHub remains the active publication target.

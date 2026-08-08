@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-112/C-917 — both public ITV *Black Voices* clip MP4s are now committed to GitHub. Keep the UCU caption track as navigation/self-report evidence, the CLASS clip as no-caption media, and the third linked YouTube item as private; do not rerun the timed-out ITV resource page without a changed state.
+
 Fresh media-integrity checkpoint: SRC-111/C-916 — the 19.64-second South Bank Colleges graduation MP4 is now committed to GitHub alongside the page, thumbnail, and event photograph. It remains a short event asset, not a complete ceremony or speech; do not count it as a second honorary award or independent biography record.
 
 Fresh media-integrity checkpoint: SRC-254/C-915 — the 1:26 India Today NewsMo MP4 is now committed to GitHub. It repeats the existing speech/literacy framing and has no captions or transcript; no duplicate childhood claim was created. Reopen only for a changed media state or a distinct source that adds concrete chronology.
