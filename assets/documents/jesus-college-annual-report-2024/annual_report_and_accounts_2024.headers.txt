@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 23:42:20 GMT
+content-type: application/pdf
+content-length: 892183
+x-sucuri-id: 12003
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+content-security-policy: upgrade-insecure-requests;
+referrer-policy: no-referrer-when-downgrade
+last-modified: Fri, 22 Nov 2024 18:15:24 GMT
+etag: "6740ca3c-d9d17"
+cache-control: max-age=315360000
+accept-ranges: bytes
+server: Sucuri/Cloudproxy
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+x-sucuri-cache: MISS
+alt-svc: h3=":443"; ma=86400
+

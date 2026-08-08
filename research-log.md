@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-887/C-894: Jesus College Annual Report and Accounts 2024
+
+Discovery: an exact-name search restricted to the Jesus College domain surfaced the college’s 47-page *Annual Report and Accounts 2024*, a distinct first-party governance/accounting publication not previously represented in the registry.
+
+Capture: the PDF, response headers, extracted text, and a 150-dpi render of printed page 3 are locally preserved. The Fellows list on printed p. 3 includes “Professor J. Arday (from 1 October 2023).” PDF metadata gives a 28 October 2024 creation date and 22 November 2024 modification date.
+
+Classification: this is stronger primary roster evidence than a host biography and is distinct from the *University Reporter* rosters. It establishes a dated fellowship-listing state only; it does not establish post-resignation status or provide any investigation document. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-886/C-892–C-893: *THE* resignation/investigation report
 
 Discovery: the Metropolitan Police follow-up linked *THE*’s 5 August report “Jason Arday resigns after University of Cambridge opens investigation.” No matching source record existed in the registry.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Jesus College primary-record checkpoint: `SRC-887/C-894` — the college’s 47-page 2024 Annual Report and Accounts is preserved as PDF, text, headers, and rendered printed p. 3. It lists “Professor J. Arday (from 1 October 2023)” among the Fellows. Reopen only for a later college annual report, direct fellowship/resignation record, or investigation document; do not infer current status from this 2024 roster.
+
 Fresh resignation-process checkpoint: `SRC-886/C-892–C-893` — *THE*’s 5 August report is locally preserved with HTML, headers, and Senate House image. It records the contemporaneous resignation and attributed Cambridge/Jesus College process language, while deduplicating the underlying Cambridge statement and Good Law letter. Reopen only for a changed report, correction, direct institutional process document, or final finding; do not treat this news manifestation as adjudication.
 
 Fresh police-process checkpoint: `SRC-885/C-889–C-890` — *THE*’s 6 August report preserves the quoted Metropolitan Police response: the four-month harassment inquiry was dropped in February 2026; the force says no offence was committed without interviewing Grove; and it acknowledges the no-contact instruction was wrong and had potential to frustrate legitimate journalism. Reopen only for a standalone Met statement, complaint/decision record, formal correction, or materially changed report; do not treat this as a finding about the academic-integrity allegations.
