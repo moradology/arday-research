@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official *Now and Men* audio (`SRC-153/C-898`) was checksum-validated and added to the GitHub archive. The 93,553,902-byte 1:04:58.04 MP3, page, and artwork are preserved; the episode remains an untranscribed first-person interview and its 2022 planned-book wording remains source-versioned. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest deduplication checkpoint: on 2026-08-08 an audit confirmed that the Channel 4 News resignation report (`SRC-623/C-897`) was already committed in capture commit `74d2032`; its 12:32.12 MP4, captions, metadata, and thumbnail remain present. The report remains attributed journalism and not an adjudicative finding. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest paired-media checkpoint: on 2026-08-08 the Channel 4 *Ways to Change the World* interview (`SRC-224/C-896`) had both its 45,286,877-byte MP3 and 48,461,630-byte MP4 checksum-validated and added to the GitHub archive. Captions and existing first-person claims remain source-versioned/self-report evidence; no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.

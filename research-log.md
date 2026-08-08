@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-153/C-898: *Now and Men* binary promoted to GitHub
+
+Audit: the canonical *Now and Men* record already contained the official episode page, artwork, and checksum metadata, but the 93,553,902-byte Captivate MP3 remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`70426b63fa40b92764aa7e081a1ff14ef52d9dd9203bf49018e067a017734996`) against the capture metadata and committed the audio. No transcript-level or new substantive claim was promoted; the episode’s book wording remains a historical 2022 project-state record.
+
 ## 2026-08-08 — SRC-623/C-897: Channel 4 resignation video deduplication audit
 
 Audit: the canonical Channel 4 News record and `git log` showed that the 12:32.12 MP4, captions, metadata, and thumbnail were already committed in capture commit `74d2032`; this pass initially found the local binary but did not create a duplicate promotion.

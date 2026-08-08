@@ -3,8 +3,8 @@ id: SRC-153
 type: Source
 title: "Prof Jason Arday — Being Young, Black and Male: Challenging the Dominant Discourse"
 date: 2022-01-26
-accessed: 2026-08-06
-status: verified podcast episode / audio and artwork locally preserved
+accessed: 2026-08-08
+status: verified podcast episode / audio and artwork locally preserved and committed to GitHub
 source_kind: podcast interview
 entities:
   - ../entities/jason-arday.md
@@ -20,7 +20,7 @@ The *Now and Men* podcast published a 64:58 episode with Jason Arday on 26 Janua
 ## Preservation
 
 - [Local page snapshot](../assets/documents/now-and-men-jason-arday-page-2022-01-26.html)
-- [Local MP3](../assets/audio/now-and-men-jason-arday-2022-01-26.mp3)
+- [Local MP3](../assets/audio/now-and-men-jason-arday-2022-01-26.mp3) — now included in the GitHub archive
 - [Local artwork](../assets/images/now-and-men-jason-arday-artwork.png)
 - [Capture metadata](../assets/metadata/now-and-men-jason-arday-capture-2026-08-06.md)
 
