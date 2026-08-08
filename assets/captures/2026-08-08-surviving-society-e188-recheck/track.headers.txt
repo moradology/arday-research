@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: text/html
+content-length: 78777
+set-cookie: sc_tracking_anonymous_id=%222da57cc4-a2b9-4e41-b5f3-bb241e405e95%22; path=/; expires=Mon, 07 Aug 2028 12:47:04 GMT; domain=.soundcloud.com
+x-pants: distant-towel
+x-xss-protection: 1; mode=block
+cache-control: private, max-age=0, no-cache, no-store
+x-frame-options: SAMEORIGIN
+server-timing: enabledFeatures; dur=4.307294; desc="api-v2/enabledFeatures", geoip; dur=0.974024; desc="geoip/geoip", privacySettings; dur=5.150182; desc="api-v2/privacySettings", resolve; dur=39.919417; desc="api-v2/resolve", user; dur=16.248512; desc="api-v2/user", trackComments; dur=11.321039; desc="api-v2/trackComments"
+date: Sat, 08 Aug 2026 12:47:04 GMT
+server: am/2
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+x-cache: Miss from cloudfront
+via: 1.1 64d5385c423c2207e3680beec4636de8.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P1
+x-amz-cf-id: sIUbAhFb22vSjfNtF5piM0neT09yKkmpeL96NMEpuoLkEEEedX3TIQ==
+

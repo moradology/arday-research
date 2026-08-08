@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-199/C-116: Surviving Society E188 audio recovered
+
+Discovery: a fresh recheck of the already catalogued 2 January 2024 “Jason Arday & Chantelle Jessica Lewis: Surviving Society (then and now)” SoundCloud page exposed current hydration metadata with public HLS AAC and MP3 transcodings, despite the earlier direct progressive route returning HTTP 401.
+
+Capture: preserved the current track HTML/headers, yt-dlp metadata, current artwork, and a 32-MiB HLS AAC manifestation. The metadata reports a displayed duration of 2,779.068 seconds and full duration of 2,779.063 seconds; the local file is 46:19.07 by the host duration convention. Audio SHA-256: `f8fb9538f5ab47b9b712296f02643ce03e63573ad48c3bd44af321355170927f`.
+
+Decision: upgraded SRC-199/C-116 rather than creating a duplicate episode node. No transcript, manual listening audit, or timecoded biographical claim is added yet.
+
 ## 2026-08-08 — SRC-197/C-114: Surviving Society E031 audio recovered
 
 Discovery: a fresh SoundCloud page recheck for the already catalogued 23 April 2019 “Growing up Black in the 90s” episode exposed current hydration metadata with public HLS transcodings, despite the earlier direct progressive request’s HTTP 401.
