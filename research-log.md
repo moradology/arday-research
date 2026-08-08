@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-058/C-953: complete MMU keynote audio derivative created
+
+Archive action: converted the 847 MB parent MP4 to a complete 57,636,236-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 1:00:02.41, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `32a8b0bd86fdc5188d6b190625e277a0c833ce28a517d26b812172dfd96fce1d`.
+
+Decision: added C-953 as an archive-integrity observation. This closes the GitHub handoff gap for the complete keynote while retaining the parent MP4 as the visual integrity anchor. The derivative is not a transcript; the official SRT’s 81% accuracy warning and self-report boundary remain explicit. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-057/C-952: complete Graceland lecture audio derivative created
 
 Archive action: converted the 183,882,527-byte parent MP4 to a complete 67,795,210-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 1:09:50.92, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `de76b13f2a8443237f530053c3f00ecfb48393f694bde7b31759b58c10b18ac0`.

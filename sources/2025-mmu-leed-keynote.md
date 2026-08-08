@@ -4,7 +4,7 @@ type: Source
 title: "Welcome and Keynote from Jason Arday (LEED L&T Conference 2025)"
 date: 2025
 accessed: 2026-08-06
-status: verified-video; two bounded review clips committed to GitHub
+status: verified-video; complete AAC derivative and two bounded review clips committed to GitHub
 source_kind: institutional media
 entities:
   - ../entities/jason-arday.md
@@ -27,10 +27,11 @@ Manchester Metropolitan University’s MMUtube preserves a one-hour video from t
 ## Acquisition state
 
 Public video page, 1080p MP4, English (British) SRT captions, and official thumbnail locally preserved. Capture details and checksums: [MMU capture metadata](../assets/metadata/mmu-leed-keynote-2026-08-06.md).
+- [Complete AAC derivative](../assets/audio/derivatives/mmu-leed-keynote-2025.m4a) — 57,636,236 bytes; 1:00:02.41; 128 kb/s AAC mono; SHA-256 `32a8b0bd86fdc5188d6b190625e277a0c833ce28a517d26b812172dfd96fce1d`; complete review copy derived from the parent MP4.
 
 ## Reproducibility clips — 2026-08-08
 
 - [PE-teacher route clip, source interval 00:06:30–00:07:10](../assets/videos/clips/mmu-leed-keynote-2025/pe-teacher-route-00m06m30-00m07m10.mp4) — 10,469,187 bytes; SHA-256 `fd92b1413e00ddd0c05e9600cefabe3825c275ea2fc19bddea651661823f11bf`.
 - [PE-teacher/pedagogy clip, source interval 00:42:25–00:43:00](../assets/videos/clips/mmu-leed-keynote-2025/pe-teacher-pedagogy-00m42m25-00m43m00.mp4) — 8,601,207 bytes; SHA-256 `a260cdcd51cf6a9a74954472dc03450b3168fd155a3716667765e4c5b4412b25`.
 
-The clips are bounded derivatives of the 847 MB parent recording, not independent publications or employment records. The official SRT reports 81% accuracy; caption wording remains subject to audiovisual verification. The parent SHA-256 is `8ccd296b6c6c63b1a9571b88589cc098ab9847348e5d946e91d4ede098d47bf5b`.
+The clips and AAC are bounded derivatives of the 847 MB parent recording, not independent publications or employment records. The AAC is a complete lower-bitrate review copy, not a transcript. The official SRT reports 81% accuracy; caption wording remains subject to audiovisual verification. The parent SHA-256 is `8ccd296b6c6c63b1a9571b88589cc098ab9847348e5d946e91d4ede098d47bf5b`.

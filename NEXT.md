@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-058/C-953 — the complete 1:00:02.48 MMU LEED keynote is now available as a 57,636,236-byte AAC derivative on GitHub. The 847 MB parent MP4 remains local-only; the official SRT’s 81% accuracy warning and the PE-teacher self-description boundary remain explicit.
+
 Fresh complete-derivative checkpoint: SRC-057/C-952 — the complete 1:09:50.97 Bristol/British Academy “Story of Graceland” lecture is now available as a 67,795,210-byte AAC derivative on GitHub. The 183,882,527-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and lecture claims remain unverified.
 
 Fresh complete-derivative checkpoint: SRC-032/C-951 — the complete 26:46 PBS *The Importance of Early Intervention* programme is now available as a 26,004,790-byte AAC derivative on GitHub. The 629,632,856-byte parent MP4 remains local-only; broadcast narration and Arday’s statements remain attributed rather than independently corroborated.
