@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-224/C-896: Channel 4 *Ways to Change the World* paired media promoted to GitHub
+
+Audit: the canonical Channel 4 interview record already contained the podcast/video pages, captions, artwork, and checksum metadata, but both the 31:26.26 MP3 and the 32:46 progressive MP4 remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`e6fd7f491be6858a8e1a5243de593b16d8216067a074688f01cb58b47cc95df1`) and MP4 checksum (`44d9009612de3fe73f32a321678d929d087f7f6d2fefe42485cf2f60a45aa084`) against the source record and committed both files. Existing caption windows remain navigation/self-report material; no new substantive claim was promoted.
+
 ## 2026-08-08 — SRC-258/C-895: LJMU “Harvest for the World” binary promoted to GitHub
 
 Audit: the canonical LJMU/SoundCloud record already contained the earlier first-party page, SoundCloud metadata, resolver response, artwork, headers, and a 40:37.146 MP3, while the current LJMU page recheck separately showed that the item is no longer exposed in the direct HTML.
