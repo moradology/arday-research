@@ -1,0 +1,528 @@
+  <!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PWQNPW');</script>
+
+        <link rel="preload" href="/dist/styles/main-0ed0423093.css" as="style" onerror="this.onerror=null;this.href='/dist/styles/main.css';">
+    <link href="/dist/styles/main-0ed0423093.css" rel="stylesheet" onerror="this.onerror=null;this.href='/dist/styles/main.css';">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00227a">
+    <meta name="msapplication-TileColor" content="#00227a">
+    <meta name="theme-color" content="#ffffff">
+
+      <title>UKCGE | 1st UKCGE Conference on Equity, Diversity and Inclusion in…</title>
+<script>
+            if ((navigator.doNotTrack != "1" && 0) || !0) {
+                window.addEventListener("load", function(){
+                    window.cookieconsent.initialise({
+                        "palette": {
+                            "popup": {
+                                "background": "#001048",
+                                "text": "#ffffff",
+                                "link": "#ffffff"
+                            },
+                            "button": {
+                                "background":  "block" === "wire" ? "transparent" :  "#8DF2DA",
+                                "text": "block" === "wire" ? "#8DF2DA" : "#002994",
+                                "border":  "block" === "wire" ? "#8DF2DA" : undefined
+                            },
+                            "highlight": {
+                                "background":  "block" === "wire" ? "transparent" :  "#fff",
+                                "text": "block" === "wire" ? "#fff" : "#002994",
+                                "border":  "block" === "wire" ? "#fff" : undefined
+                            }
+                        },
+                        "position": "bottom-left" === "toppush" ? "top" : "bottom-left",
+                        "static": "bottom-left" === "toppush",
+                        "theme": "block",
+                        "type": "opt-in",
+                        "content": {
+                            "message": "We use some essential cookies to make this website work. We’d like to set some additional cookies to better understand how you use the website and improve our services.&nbsp;",
+                            "dismiss": "Got it!",
+                            "link": "Cookie policy",
+                            "href": "/cookie-policy",
+                            "allow":"Accept additional cookies",
+                            "deny":"Reject",
+                            "target":"_self"
+                        },
+                        "revokable":0 === 1 ? true : false,
+                        "dismissOnScroll":0 > 0 ? 0 : false,
+                        "dismissOnTimeout":0 > 0 ? (0 * 1000) : false,
+                        "cookie": {
+                            "expiryDays":365 !== 0 ? 365 : 365,
+                            "secure":0 === 1 ? true : false
+                        },
+                        onInitialise: function (status) {
+                            var type = this.options.type;
+                            var didConsent = this.hasConsented();
+                            if (type == "opt-in" && didConsent) {
+                                // enable cookies
+                                if (typeof optInCookiesConsented === "function") {
+                                    optInCookiesConsented();
+                                    console.log("Opt in cookies consented");
+                                } else {
+                                    console.log("Opt in function not defined!");
+                                }
+                            }
+                            if (type == "opt-out" && !didConsent) {
+                                // disable cookies
+                                if (typeof optOutCookiesNotConsented === "function") {
+                                    optOutCookiesNotConsented();
+                                    console.log("Opt out cookies not consented");
+                                } else {
+                                    console.log("Opt out function not defined!");
+                                }
+                            }
+                        },
+                        onStatusChange: function(status, chosenBefore) {
+                            var type = this.options.type;
+                            var didConsent = this.hasConsented();
+                            if (type == "opt-in" && didConsent) {
+                                // enable cookies
+                                if (typeof optInCookiesConsented === "function") {
+                                    optInCookiesConsented();
+                                    console.log("Opt in cookies consented");
+                                } else {
+                                    console.log("Opt in function not defined!");
+                                }
+                            }
+                            if (type == "opt-out" && !didConsent) {
+                                // disable cookies
+                                if (typeof optOutCookiesNotConsented === "function") {
+                                    optOutCookiesNotConsented();
+                                    console.log("Opt out cookies not consented");
+                                } else {
+                                    console.log("Opt out function not defined!");
+                                }
+                            }
+                        },
+                        onRevokeChoice: function() {
+                            var type = this.options.type;
+                            if (type == "opt-in") {
+                                // disable cookies
+                                if (typeof optInCookiesRevoked === "function") {
+                                    optInCookiesRevoked();
+                                    console.log("Opt in cookies revoked");
+                                } else {
+                                    console.log("Opt in revoked function not defined!");
+                                }
+                            }
+                            if (type == "opt-out") {
+                                // enable cookies
+                                if (typeof optOutCookiesRevoked === "function") {
+                                    optOutCookiesRevoked();
+                                    console.log("Opt out cookies revoked");
+                                } else {
+                                    console.log("Opt out revoked function not defined!");
+                                }
+                            }
+                        }
+                    });
+                });
+            } else if (0) {
+                // disable cookies
+                if (typeof optOutCookiesNotConsented === "function") {
+                    optOutCookiesNotConsented();
+                    console.log("Opt out cookies not consented");
+                } else {
+                    console.log("Opt out function not defined!");
+                }
+            }
+        </script><meta name="generator" content="SEOmatic">
+<meta name="description" content="Our very first conference on Equity, Diversity and Inclusion in Postgraduate Research – held at Sheffield’s Crowne Plaza on the 2nd and 3rd of November…">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="en_GB" property="og:locale">
+<meta content="UKCGE" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research" property="og:url">
+<meta content="1st UKCGE Conference on Equity, Diversity and Inclusion in…" property="og:title">
+<meta content="Our very first conference on Equity, Diversity and Inclusion in Postgraduate Research – held at Sheffield’s Crowne Plaza on the 2nd and 3rd of November…" property="og:description">
+<meta content="https://ukcge.ac.uk/assets/images/_1200x630_crop_center-center_82_none/EDI_header_news.jpg?mtime=1699453658" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ukcge">
+<meta name="twitter:creator" content="@ukcge">
+<meta name="twitter:title" content="UKCGE | 1st UKCGE Conference on Equity, Diversity and Inclusion in…">
+<meta name="twitter:description" content="Our very first conference on Equity, Diversity and Inclusion in Postgraduate Research – held at Sheffield’s Crowne Plaza on the 2nd and 3rd of November…">
+<meta name="twitter:image" content="https://ukcge.ac.uk/assets/images/_1200x630_crop_center-center_82_none/EDI_header_news.jpg?mtime=1699453658">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<link href="https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research" rel="canonical">
+<link href="https://ukcge.ac.uk/" rel="home">
+<link type="text/plain" href="https://ukcge.ac.uk/humans.txt" rel="author">
+<link href="https://ukcge.ac.uk/cpresources/c6d6d4ac/css/cookieconsent.min.css?v=1785854363" rel="stylesheet"></head>
+
+	<body >
+        <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWQNPW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    
+<header class="site-header" aria-label="Site header">
+  
+  <div class="container">
+    <div class="site-header__top">
+      <div class="header-search">
+        
+<form role="search" placeholder="Search our site" class="search-form" action="https://ukcge.ac.uk/search">
+	<input type="search" name="q" aria-label="search text" placeholder="Search our site" value="" />
+  <a class="input-clear input-clear--hide"><span class="visually-hidden">Clear value</span></a>
+	<button type="submit" class="icon-button" value="Search">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 0a6.5 6.5 0 103.835 11.749l4.25 4.275L16 14.609l-4.251-4.274A6.5 6.5 0 006.5 0zM2 6.5a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0z" fill="currentColor"/></svg>
+		<span class="visually-hidden">Search</span>
+	</button>
+</form>
+      </div>
+    </div>
+    <div class="site-header__bottom">
+      <div class="logo-and-hamburger">
+        <a href="/" class="site-logo"><img src="/dist/images/logo.svg" alt="UK Council for Graduate Education" /></a>
+
+        <div class="mobile-header-actions">
+          <a class="mobile-search-button" href="/search">
+            <span class="visually-hidden">Search the site</span>
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 0a6.5 6.5 0 103.835 11.749l4.25 4.275L16 14.609l-4.251-4.274A6.5 6.5 0 006.5 0zM2 6.5a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0z" fill="currentColor"/></svg>
+          </a>
+
+          <button class="mobile-nav-button" id="mobileNavButton" aria-haspopup="true" aria-controls="mainNav">
+            <span class="visually-hidden">Menu</span>
+            <svg class="menu--open" width="20" height="17" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="3" rx="1" fill="currentColor"/><rect y="7" width="20" height="3" rx="1" fill="currentColor"/><rect y="14" width="20" height="3" rx="1" fill="currentColor"/></svg>
+            <svg class="menu--close" width="18" height="17" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="1.719" y="-.406" width="22.197" height="3" rx="1" transform="rotate(45 1.719 -.406)" fill="currentColor"/><rect x="17.426" y="1.717" width="22.197" height="3" rx="1" transform="rotate(135 17.426 1.717)" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <nav class="main-nav" aria-label="Main" id="mainNav">
+        <ul role="menubar" aria-label="Main navigation">
+                      <li role="none">
+              <a role="menuitem" class="nav-item--level-1" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                About
+                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.4 0L8 6.667 1.6 0 0 1.667 8 10l8-8.333L14.4 0z" fill="currentColor"/></svg>
+                              </a>
+
+                              <div class="level-2-nav-wrapper">
+                  <div class="container">
+                    <ul role="menu" class="level-2-ul" aria-label="About">
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/about-ukcge" tabindex="-1">About UKCGE</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/about/about-ukcge/about-the-team" tabindex="-1">About the Team</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/governance" tabindex="-1">Governance</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/membership" tabindex="-1">Membership</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/partnerships" tabindex="-1">Partnerships</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/about/contact-us" tabindex="-1">Contact us</a>
+                        </li>
+                                          </ul>
+                  </div>
+                </div>
+                          </li>
+                      <li role="none">
+              <a role="menuitem" class="nav-item--level-1" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                Resources
+                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.4 0L8 6.667 1.6 0 0 1.667 8 10l8-8.333L14.4 0z" fill="currentColor"/></svg>
+                              </a>
+
+                              <div class="level-2-nav-wrapper">
+                  <div class="container">
+                    <ul role="menu" class="level-2-ul" aria-label="Resources">
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/resources/resource-library" tabindex="-1">Resource library</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://supervision.ukcge.ac.uk" tabindex="-1">Research Supervision Recognition Programme</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/resources/sector-data" tabindex="-1">Sector Data</a>
+                        </li>
+                                          </ul>
+                  </div>
+                </div>
+                          </li>
+                      <li role="none">
+              <a role="menuitem" class="nav-item--level-1" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                Events
+                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.4 0L8 6.667 1.6 0 0 1.667 8 10l8-8.333L14.4 0z" fill="currentColor"/></svg>
+                              </a>
+
+                              <div class="level-2-nav-wrapper">
+                  <div class="container">
+                    <ul role="menu" class="level-2-ul" aria-label="Events">
+                                              <li role="none">
+                          <a role="menuitem" href="/events/forthcoming-events" tabindex="-1">Forthcoming events</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="/events/past-events" tabindex="-1">Past events</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/events/sponsorship" tabindex="-1">Sponsorship</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/the-bob-burgess-memorial-lecture" tabindex="-1">The Bob Burgess Memorial Lecture</a>
+                        </li>
+                                          </ul>
+                  </div>
+                </div>
+                          </li>
+                      <li role="none">
+              <a role="menuitem" class="nav-item--level-1" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                Networks
+                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.4 0L8 6.667 1.6 0 0 1.667 8 10l8-8.333L14.4 0z" fill="currentColor"/></svg>
+                              </a>
+
+                              <div class="level-2-nav-wrapper">
+                  <div class="container">
+                    <ul role="menu" class="level-2-ul" aria-label="Networks">
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/networks/doctoral-deans-and-directors" tabindex="-1">Doctoral Deans and Directors&#039; Network</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/networks/pep" tabindex="-1">Postgraduate Education Practitioners’ Network</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/networks/research-supervisors" tabindex="-1">Research Supervisors&#039; Network</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/networks/working-groups" tabindex="-1">Working Groups</a>
+                        </li>
+                                              <li role="none">
+                          <a role="menuitem" href="https://ukcge.ac.uk/networks/membership-directory" tabindex="-1">Membership Directory</a>
+                        </li>
+                                          </ul>
+                  </div>
+                </div>
+                          </li>
+                      <li role="none">
+              <a role="menuitem" class="nav-item--level-1" tabindex="0" href=/news-and-blog>
+                News and blog
+                              </a>
+
+                          </li>
+                  </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+    <main>
+    	              
+
+<div class="section section__breadcrumb">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol>
+                  	<li>
+		<a href="/">Home</a>
+    <svg class="breadcrumb__item__chevron" width="7" height="10" viewBox="0 0 7 10" fill="none"><path d="M.996.734L5.5 5 1 9.272l.726.728L7 5 1.726 0l-.73.734z" fill="currentColor" /></svg>
+	</li>
+
+                                    	<li>
+		<a href="/news-and-blog">News and&nbsp;blog</a>
+    <svg class="breadcrumb__item__chevron" width="7" height="10" viewBox="0 0 7 10" fill="none"><path d="M.996.734L5.5 5 1 9.272l.726.728L7 5 1.726 0l-.73.734z" fill="currentColor" /></svg>
+	</li>
+
+                                                </ol>
+    </nav>
+  </div>
+</div>
+  
+  
+	<div class="section section__hero">
+		<div class="container">
+			<div class="container-800 fc--ntm lc--nbm">
+				<h1>1st UKCGE Conference on Equity, Diversity and Inclusion in Postgraduate Research</h1>
+
+					  
+  <ul class="tags">
+          <li><span class="tag">Past Events</span></li>
+      </ul>
+
+				  <div class="entry-meta-data">
+	  <div class="entry-meta-data-item">
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M9.99 0C4.47 0 0 4.48 0 10s4.47 10 9.99 10C15.52 20 20 15.52 20 10S15.52 0 9.99 0zM10 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H9v6l5.25 3.15.75-1.23-4.5-2.67V5z" fill="currentColor" /></svg> 08 Nov&nbsp;2023&nbsp;</div>
+  </div>
+
+                                    			</div>
+		</div>
+	</div>
+
+	<div class="section section__body">
+		<div class="container">
+              <div class="container-inner">
+          
+
+                    
+        </div>
+      
+                      <div class="container-800">
+                
+                                 
+                                 
+                                 
+                        
+                        
+	                     
+                                          
+                     <img src="https://ukcge.ac.uk/assets/images/_standardLarge/EDI_header_news.jpg?v=1699453658" srcset="https://ukcge.ac.uk/assets/images/_standardThumb/EDI_header_news.jpg?v=1699453658 480w, https://ukcge.ac.uk/assets/images/_standardSmall/EDI_header_news.jpg?v=1699453658 720w, https://ukcge.ac.uk/assets/images/_standardMedium/EDI_header_news.jpg?v=1699453658 960w, https://ukcge.ac.uk/assets/images/_standardLarge/EDI_header_news.jpg?v=1699453658 1440w" class="hero-image hero-image--standard" alt>
+      
+   
+        </div>
+      
+              <div class="container-inner">
+          <div class="standfirst">
+            <p>Our very first conference on Equity, Diversity and Inclusion in Postgraduate Research – held at Sheffield’s Crowne Plaza on the 2nd and 3rd of November 2023 – opened with a busy programme of talks and breakout sessions, all focussing on race and ethnicity in postgraduate research.</p>
+          </div>
+        </div>
+      
+      
+        <div class="container-inner">
+          	
+<div class="matrix  matrix--text">
+	  <p>During her welcome address, Maisha Islam (University of Southampton) spoke about the sense of precarity for PGRs from under-represented groups and how the normal challenges of postgraduate study are magnified in their case. Later, she presented a breakout session on her PhD: <em>Building a subaltern community of belonging for British-Bangladeshi female PGR students</em>.</p>
+<p>The morning keynote was presented by Professor Jason Arday (University of Cambridge) who observed that, in his experience, black or ethnic minority researchers had always made a conscious decision to enter academia. He spoke about how he wanted to create a blueprint to help more people into scholarly careers and said that studying race is painful at times, because you’re listening to stories about people being denied. However, he added, this difficulty is necessary because it pushes people to change the situation. His talk received a standing ovation from the&nbsp;audience.</p>
+<p>To close off the morning sessions, delegates were given an insight into the student experience with a PGR panel. Speaking were Princess Banda (University of Oxford), Anita Chonzi (Sheffield Hallam University) and Garth Dallas (Liverpool John Moores University). The latter talked about how, after challenging his university over how it interacted with local communities, it came up with a positive action programme to get people from diverse backgrounds into PhD study. <span class="push-double"></span>​<span class="pull-double">“</span>You shouldn’t just aspire to climb the ladder – you should aspire to BE the ladder,” he&nbsp;observed.&nbsp;</p>
+<p>Day 1 closed with another inspiring keynote (<em>Call and Response: Inclusive Approaches to Supervision</em>), this time from Dr Christine Edwards-Leis (St Mary’s University) and Dr Julie Spencer (ArtsEd). It used the call-and-response format in African traditional music to explore the ways in which black or ethnic minority students might be hampered by the white-dominated ideology of the academy. Unusually, the session involved a capella singing from both&nbsp;presenters.<br></p>
+</div>
+
+	
+<div class="matrix  matrix--text">
+	  <p>Day 2 opened with a funders’ panel, with representatives from both the Wellcome Trust and Cancer Research UK addressing the topic of funding for diverse groups, followed by more breakout sessions. A highlight of the morning was the pre-lunch keynote from Dr Maria Augusta Arruda (Director of the Brazilian Biosciences National Laboratory) who delivered her talk over Zoom. <span class="push-double"></span>​<span class="pull-double">“</span>People will always try to reclaim the power because that’s the way it is,” she observed. <span class="push-double"></span>​<span class="pull-double">“</span>For all of you that feel defeated I just wanted to say: you’re doing the right&nbsp;thing.”</p>
+<p>At the end of Day 2, three members of the organising committee – Dr Francis Awolowo (Sheffield Hallam University), Mandy Gill (University of Nottingham) and Professor Hala Mansour (Royal College of Arts and UKCGE Executive) – summed up the event. Dr Awolowo said: <span class="push-double"></span>​<span class="pull-double">“</span>I want to thank every one of you for making this conference a huge success. I remember when we had our first meeting, trying to come up with a theme for this conference, and we felt the need to magnify race and ethnicity – we need to start talking about it – and I’m really glad we’ve done that with your&nbsp;support.”</p>
+<p>Mandy Gill remarked: <span class="push-double"></span>​<span class="pull-double">“</span>It’s been a pleasure to meet so many wonderful people at this conference. A highlight was Jason [Arday] – his comment about white academics being able to say <span class="push-single"></span>​<span class="pull-single">‘</span>I stumbled into it’ really stuck with me – how a person of colour would probably never say&nbsp;that.”</p>
+<p><span class="pull-double">“</span>I’m very proud of you all,” added Professor Mansour, <span class="push-double"></span>​<span class="pull-double">“</span>for engaging and supporting the UKCGE’s first conference for equity, diversity and inclusion. It means a lot. My advice is to close the gap – please take what you’ve learnt to your institutions. Also, student voices matter and we had fantastic contributions from our PGR panel yesterday. I genuinely enjoyed every minute of&nbsp;it.”</p>
+</div>
+
+		</div><!--/.container-inner-->
+
+<div class="matrix  matrix--html-embed">
+	  <div class="html-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fCOP40WUUSk?si=BB5RG5_w7RQwDeDd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
+
+	<div class="container-inner">
+		</div><!--/.container-inner-->
+
+<div class="matrix  matrix--html-embed">
+	  <div class="html-embed">
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you for a brilliant conference. I’ve learnt so much and taken away so many notes to work&nbsp;on!!</p>— joannebrayson (@joannebrayson) <a href="https://twitter.com/joannebrayson/status/1720453709803524605?ref_src=twsrc%5Etfw">November 3,&nbsp;2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+	<div class="container-inner">
+	
+<div class="matrix matrix--signpost-link matrix--signpost-link-external">
+	      <div class="signpost-link">
+      <svg class="signpost-link__icon" width="32" height="32" viewBox="0 0 32 32" fill="none"><path d="M0 16C0 7.163 7.163 0 16 0s16 7.163 16 16-7.163 16-16 16S0 24.837 0 16z" fill="currentColor" /><path d="M16 8l-1.41 1.41L20.17 15H8v2h12.17l-5.58 5.59L16 24l8-8-8-8z" fill="#fff" /></svg>
+
+      <div class="signpost-link__content">
+        <a class="signpost-link__link" href="https://www.slideshare.net/UKCGE/clipboards/edi-conference-nov-2023" target="_blank"> Browse the conference&nbsp;slides&nbsp;</a>
+                  <div class="signpost-link__link-source">www.slideshare.net </div>
+              </div>
+    </div>
+  </div>
+
+      </div>
+
+            		</div>
+	</div>
+
+  			
+			
+				
+	
+      		</main>
+
+    <footer class="site-footer" aria-label="Site footer">
+	<div class="container">
+
+              
+    <div class="site-footer__contact-details">
+      <span><strong>UK Council for Graduate Education</strong></span>
+      <span>Lichfield Centre, The Friary, Lichfield, Staffordshire WS13 6QG</span>
+      <span>Email <a href="mailto:ukcge@ukcge.ac.uk">ukcge@ukcge.ac.uk</a></span>
+      <span>Phone 01543 308602</span>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Footer">
+      <ul>
+                  <li><a href="/about/contact-us">Contact us</a></li>
+                  <li><a href="/principles-and-policies">Principles and Policies</a></li>
+                  <li><a href="/cookie-policy">Cookies</a></li>
+                  <li><a href="/communication-preferences">Subscribe to The Postgraduate</a></li>
+                          <li><a href="/users/login">Link member login</a></li>
+              </ul>
+    </nav>
+
+    <div class="site-footer__social-media">
+      <ul>
+                  <li><a href="https://twitter.com/ukcge" target="_blank" rel="noopener">
+            <svg width="23" height="19" viewBox="0 0 23 19" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20.642 4.603v.633c0 6.21-4.772 13.454-13.454 13.454-2.53 0-5.003-.747-7.188-2.127.345.058.748.058 1.15.058 2.127 0 4.197-.69 5.865-2.013a4.83 4.83 0 01-4.427-3.277c.69.114 1.437.114 2.127-.058C2.53 10.813.92 8.916.92 6.673v-.057c.632.345 1.38.575 2.127.575A4.815 4.815 0 011.61.808a13.628 13.628 0 009.718 4.945 4.569 4.569 0 011.38-4.485c1.897-1.782 4.887-1.667 6.67.23 1.035-.23 2.07-.575 2.99-1.15a4.632 4.632 0 01-2.07 2.588c.92-.115 1.84-.345 2.702-.748-.633.92-1.438 1.783-2.358 2.415z" fill="currentColor"/></svg>
+            <span class="visually-hidden">Twitter</span>
+          </a></li>
+                  <li><a href="https://www.linkedin.com/company/ukcge/" target="_blank" rel="noopener">
+            <svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.46 21h4.422V6.908H.461V21zM2.579 0C1.197 0 0 1.105 0 2.487c0 1.381 1.197 2.487 2.487 2.487 1.474 0 2.487-1.198 2.487-2.487C4.974 1.197 3.868 0 2.579 0zm13.447 6.54c-2.118 0-3.5 1.29-4.145 2.303h-.092V6.908H7.645v14.093h4.236v-6.908c0-1.842.369-3.592 2.671-3.592 2.303 0 2.303 2.118 2.303 3.684V21h4.421v-7.737c0-3.777-.829-6.724-5.25-6.724z" fill="currentColor"/></svg>
+            <span class="visually-hidden">LinkedIn</span>
+          </a></li>
+                  <li><a href="https://www.youtube.com/TheUKCGE" target="_blank" rel="noopener">
+            <svg width="22" height="15" viewBox="0 0 22 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.56 2.357c-.275-.91-.99-1.66-1.925-1.875C17.875 0 11 0 11 0S4.125 0 2.42.429C1.485.696.715 1.393.495 2.304 0 4.018 0 7.5 0 7.5s0 3.482.44 5.143c.275.91.99 1.66 1.925 1.875C4.125 15 11 15 11 15s6.875 0 8.58-.429c.935-.267 1.705-.964 1.925-1.875C22 10.982 22 7.5 22 7.5s0-3.482-.44-5.143zM8.8 10.714V4.286L14.52 7.5 8.8 10.714z" fill="currentColor"/></svg>
+            <span class="visually-hidden">YouTube</span>
+          </a></li>
+              </ul>
+    </div>
+
+    <div class="site-footer__credits">
+      <span>&copy; UK Council for Graduate Education 2026. Charity No. 1061495.</span>
+      <span>Website by <a href="https://www.williamjoseph.co.uk" target="_blank" rel="noopener">William Joseph</a></span>
+    </div>
+
+	</div>
+</footer>
+
+        <script type="text/javascript">
+      window.csrfTokenName = "CRAFT_CSRF_TOKEN";
+      window.csrfTokenValue = "yXWKTPmJXK9mKsdK\u002DNSeXg8QR802Zlr80WCH041TnmDkSOAGqKBAZqs4_Qmg_2TXEnOACM7h9hlCaROAUi0oiJAI9rG7Ja0OtAK0fpvPKwg\u003D";
+    </script>
+        <script>
+      function createScriptElement(src) {
+        const script = document.createElement('script');
+        script.src = src;
+        return script;
+      }
+
+      function loadFallbackScript(fallbackScript) {
+          const fallbackScriptElement = createScriptElement(fallbackScript);
+          document.head.append(fallbackScriptElement);
+      }
+    </script>
+
+        <script src="/dist/js/vendor/jquery/jquery-3.6-8fb8fee4fc.0.min.js" onerror="loadFallbackScript('/dist/js/vendor/jquery/jquery-3.6.0.min.js')"></script>
+    <script src="/dist/js/vendor/chart.js/chart-4347891cc6.min.js" onerror="loadFallbackScript('/dist/js/vendor/chart.js/chart.min.js')"></script>
+    <script src="/dist/js/main-7b5b798767.js" onerror="loadFallbackScript('/dist/js/main.js')"></script>
+
+    
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2023","creator":{"@id":"#creator"},"dateCreated":"2023-11-08T13:20:30+00:00","dateModified":"2024-04-24T12:00:59+01:00","datePublished":"2023-11-08T13:20:00+00:00","description":"Our very first conference on Equity, Diversity and Inclusion in Postgraduate Research – held at Sheffield’s Crowne Plaza on the 2nd and 3rd of November 2023 – opened with a busy programme of talks and breakout sessions, all focussing on race and ethnicity in postgraduate research.","headline":"1st UKCGE Conference on Equity, Diversity and Inclusion in Postgraduate Research","image":{"@type":"ImageObject","url":"https://ukcge.ac.uk/assets/images/_1200x630_crop_center-center_82_none/EDI_header_news.jpg?mtime=1699453658"},"inLanguage":"en-gb","mainEntityOfPage":"https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research","name":"1st UKCGE Conference on Equity, Diversity and Inclusion in Postgraduate Research","publisher":{"@id":"#creator"},"url":"https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research"},{"@id":"#identity","@type":"Organization"},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://ukcge.ac.uk/","name":"The representative body for postgraduate education and research","position":1},{"@type":"ListItem","item":"https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research","name":"1st UKCGE Conference on Equity, Diversity and Inclusion in Postgraduate Research","position":2}],"name":"Breadcrumbs"}]}</script><script src="https://ukcge.ac.uk/cpresources/c6d6d4ac/js/cookieconsent.min.js?v=1785854363"></script></body>
+</html>
+
+

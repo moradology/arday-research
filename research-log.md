@@ -2808,3 +2808,11 @@ Lead: the older-programme search resurfaced the already catalogued Queen’s Uni
 Capture: both the PDF and DOCX routes returned HTTP 403 Cloudflare challenge HTML. The bodies and response headers were preserved under a dated recheck directory.
 
 Decision: upgraded SRC-206 in place and added C-746. No attachment binary, recording, transcript, or seminar-content claim was added.
+
+## 2026-08-08 — SRC-572/C-747 UKCGE 2023 post-event report
+
+Lead: UKCGE’s first-party post-event article was found as a missing narrative source-version for the already catalogued November 2023 EDI-in-PGR conference.
+
+Capture: the article HTML and headers, embedded YouTube page and headers, video thumbnail, and article hero image were preserved. The article reports Arday’s delivered keynote, summarizes its themes, records a standing ovation, and includes a later audience recollection.
+
+Decision: added SRC-572/C-747 as a distinct post-event delivery record. The programme, deck, annual report, article, and linked video remain separate manifestations; no full video binary, transcript, or unqualified quotation was added.

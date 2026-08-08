@@ -183,6 +183,7 @@ The remaining older/newer output slice adds the 2015 [School Report](sources/201
 - [LJMU thesis repository record](sources/2026-08-08-ljmu-thesis-repository-record.md) — current first-party metadata and abstract for the 2015 doctoral thesis; a source-version record deduplicated to the canonical thesis PDF (SRC-087).
 - [ATU EDI programme validation report](sources/2026-08-08-atu-edi-programme-validation-report.md) — 2022 dated academic-service record naming Arday on the validation panel for a Transformative Practices in EDI programme; not a separate publication or employment record (SRC-570).
 - [NEON Summit 2019 programme](sources/2019-01-30-neon-summit-programme.md) — dated keynote listing for “Addressing attainment gaps in HE: What can be done?” with Roehampton role wording; distinct from the 2022 NEON event (SRC-571).
+- [UKCGE 2023 EDI-in-PGR post-event report](sources/2023-11-08-ukcge-edi-pgr-post-event.md) — first-party account of Arday’s delivered keynote, attributed themes, and linked conference video; a source-version distinct from the programme/deck and annual report (SRC-572).
 
 The page-level audit also recovered an early, non-DOI journal record: [Developing Professional Learning in Higher Education](sources/2013-professional-learning-peer-mentoring.md), published in *Innovations in practice* in 2013. It is retained as a verified bibliographic record, with the publisher issue link preserved separately from the Durham deposit record.
 

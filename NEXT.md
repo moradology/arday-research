@@ -442,6 +442,7 @@ Work from top to bottom. Check an item only after its records and indexes are up
 - [ ] Revisit SRC-570 only if ATU publishes a changed validation report, implementation record, or direct clarification of Arday’s panel role; the current PDF is a dated 2022 service record and does not establish later affiliation or programme outcomes.
 - [ ] Revisit SRC-571 only if NEON or another organizer publishes a post-event account, recording, transcript, or slides for the 30 January 2019 summit; the current programme establishes only a planned keynote and dated Roehampton role wording.
 - [ ] Keep SRC-206 closed at the current boundary unless QUB exposes a non-challenge attachment endpoint, transcript, or post-event account; the 8 August 2026 recheck returned HTTP 403 for both advertised files.
+- [ ] Revisit SRC-572 only if the embedded UKCGE YouTube video exposes a downloadable binary, captions, or transcript; the post-event article is the current delivery/summary boundary and is not a substitute for the recording.
 
 ## Latest checkpoint — 2026-08-07
 
