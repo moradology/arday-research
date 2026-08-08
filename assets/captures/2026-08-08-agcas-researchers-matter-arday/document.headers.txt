@@ -1,0 +1,25 @@
+HTTP/2 301 
+content-type: text/html; charset=utf-8
+location: https://www.graduatefutures.org/write/MediaUploads/Resources/Research%20students%20and%20research%20staff/Researchers_Matter_July_2021.pdf
+x-redirector-version: c421780
+content-length: 173
+date: Sat, 08 Aug 2026 22:57:14 GMT
+
+HTTP/2 200 
+age: 0
+cache-control: public, max-age=0
+content-security-policy: frame-ancestors 'self'
+content-type: text/html; charset=utf-8
+date: Sat, 08 Aug 2026 22:57:15 GMT
+etag: W/"24a3-xXNmEBnqKSQHqcnH8iT9ze0vfPU"
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: Host, X-Forwarded-Host
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-tenant-host: www.graduatefutures.org
+x-vercel-cache: MISS
+x-vercel-id: sfo1::iad1::4l86z-1786229835049-4c79be48f352
+x-xss-protection: 1; mode=block
+content-length: 9379
+

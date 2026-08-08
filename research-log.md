@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-877/C-878: AGCAS UKCGE interview lead and PDF boundary
+
+Discovery: independent podcast/index searching surfaced search-indexed text from AGCAS’s July 2021 *Researchers Matter* bulletin. Its resources section points to an interview with Jason Arday from UKCGE concerning the BME doctoral-student academic-career project.
+
+Capture: the original AGCAS PDF URL returned a 301 to Graduate Futures, whose HTTP-200 response was an HTML fallback rather than a PDF. The redirect/fallback body and headers are preserved; no bulletin binary, interview page, recording, or transcript was recovered.
+
+Decision: created a dated interview-lead/access-boundary record and kept it distinct from the 2017 doctoral-student report. Reopen only for a lawful archive/PDF replay, direct UKCGE interview page, transcript, or recording. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-876/C-877: Surviving Society profile inventory boundary
 
 Discovery: following the Spotlight playlist links, the current Surviving Society SoundCloud profile and `/tracks` route were audited for any additional Arday-named output.

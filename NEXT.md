@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh professional-bulletin checkpoint: SRC-877/C-878 — AGCAS’s indexed July 2021 *Researchers Matter* text points to a UKCGE interview with Arday about the BME doctoral-student academic-career project. The original PDF route now redirects to fallback HTML; no bulletin or interview artifact was recovered. Reopen only for a lawful PDF/archive replay, UKCGE interview page, transcript, or recording.
+
 Fresh podcast-profile boundary: SRC-876/C-877 — the current Surviving Society SoundCloud profile and `/tracks` route expose ten visible tracks, including canonical E188 and no other Arday-named title. This closes the current-profile route but not older, private, deleted, or playlist-only inventory. Reopen only for a complete host export, changed pagination, direct historical track lead, or distinct Arday media.
 
 Spotlight playlist-boundary checkpoint: SRC-875/C-876 — the three linked SoundCloud Spotlight Series playlists were captured and enumerate 15 titled tracks, none naming Arday. This closes the obvious playlist-topology route without claiming the compilation lacks his clip. Reopen only for a lawful compilation audio file, transcript, captions, or an Arday-specific segment/time boundary.

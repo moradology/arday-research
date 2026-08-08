@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+    <!-- Default title / description (replaced server-side by api/render.js per tenant) -->
+    <title>Graduate Futures Institute</title>
+    <meta name="description" content="We believe that all students and graduates deserve high quality careers and employability provision at every stage of their journey, and that this work benefits individuals, employers and society." />
+
+    <!-- Favicons (static so crawlers see them; dynamic-favicon swap is preserved for logged-in SPA users) -->
+    <link rel="icon" type="image/png" sizes="32x32" href="https://lvmzliemqnieeoruhkik.supabase.co/storage/v1/object/public/file-repository/uploads/1767909733211-xza2ojg-fgifavicon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="https://lvmzliemqnieeoruhkik.supabase.co/storage/v1/object/public/file-repository/uploads/1767909733211-xza2ojg-fgifavicon.png" id="dynamic-favicon" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Open Graph (defaults; tenant SSR handler overrides these) -->
+    <meta property="og:site_name" content="Graduate Futures Institute" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Graduate Futures Institute" />
+    <meta property="og:description" content="We believe that all students and graduates deserve high quality careers and employability provision at every stage of their journey, and that this work benefits individuals, employers and society." />
+    <meta property="og:image" content="https://www.graduatefutures.org/api/og-image?url=https%3A%2F%2Fvault.iconn.app%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ffile-repository%2Fuploads%2F1778082363343-opx6w9r-1769766504490-abk7r7e-26710cf5a_GFIheaderlogo_1_.png" />
+    <meta property="og:url" content="https://www.graduatefutures.org/write/MediaUploads/Resources/Research%20students%20and%20research%20staff/Researchers_Matter_July_2021.pdf" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Graduate Futures Institute" />
+    <meta name="twitter:description" content="We believe that all students and graduates deserve high quality careers and employability provision at every stage of their journey, and that this work benefits individuals, employers and society." />
+    <meta name="twitter:image" content="https://www.graduatefutures.org/api/og-image?url=https%3A%2F%2Fvault.iconn.app%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ffile-repository%2Fuploads%2F1778082363343-opx6w9r-1769766504490-abk7r7e-26710cf5a_GFIheaderlogo_1_.png" />
+
+    <script>
+      (function() {
+        var el = document.getElementById('dynamic-favicon');
+        if (!el) return;
+        fetch('/api/public/favicon-url')
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            if (data && data.faviconUrl && el.href !== data.faviconUrl) {
+              el.href = data.faviconUrl;
+            }
+          }).catch(function() {});
+      })();
+    </script>
+    <!-- Font Awesome (icon support for Canvas Builder Card icons) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Always-on base font (Poppins). Degular is locally hosted. All other tenant
+         fonts load dynamically per-tenant from the installed_font table (client:
+         InstalledFontsLoader / useInstalledFonts; SSR: api/_lib/renderHtml.js). -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-Co745eR8.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Ck1pH8Gg.css">
+      <script>window.__TENANT_TYPOGRAPHY_STYLES__=[{"id":"df9f3014-01d8-4ed2-bf57-1ad33b2fc48e","name":"Default H1","style_type":"h1","font_family":"'Degular Medium', 'Poppins', sans-serif","font_size":100,"font_size_tablet":null,"font_size_mobile":20,"font_weight":500,"line_height":1,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#ffffff","margin_bottom":24,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":true,"is_active":true,"microsite_id":null},{"id":"672b8ae6-8b0a-4908-aa2b-ca35543c8361","name":"Default H2","style_type":"h2","font_family":"'Degular Medium', 'Poppins', sans-serif","font_size":55,"font_size_tablet":null,"font_size_mobile":30,"font_weight":500,"line_height":1.1,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":20,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":true,"is_active":true,"microsite_id":null},{"id":"293cfe0b-16e9-4bb2-a9a5-16f09675edab","name":"Default H3","style_type":"h3","font_family":"'Degular Medium', 'Poppins', sans-serif","font_size":42,"font_size_tablet":null,"font_size_mobile":28,"font_weight":500,"line_height":1.1,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":16,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":true,"is_active":true,"microsite_id":null},{"id":"f97908ca-37b6-4803-9a11-eac0efe3b5b3","name":"Default H4","style_type":"h4","font_family":"Poppins, sans-serif","font_size":28,"font_size_tablet":null,"font_size_mobile":19,"font_weight":600,"line_height":1.4,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0.75,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":12,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":true,"is_active":true,"microsite_id":null},{"id":"2cc36cd6-66e6-48aa-af02-e1fbbb124c3b","name":"Default Paragraph Semi bold","style_type":"paragraph","font_family":"Poppins, sans-serif","font_size":23,"font_size_tablet":null,"font_size_mobile":17,"font_weight":600,"line_height":1.4,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0.75,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":16,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":false,"is_active":true,"microsite_id":null},{"id":"d4ecbf1f-a665-43e9-bf37-f31c1d13c322","name":"H2 Hero Text","style_type":"h2","font_family":"'Degular Medium', 'Poppins', sans-serif","font_size":55,"font_size_tablet":null,"font_size_mobile":30,"font_weight":500,"line_height":1.1,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":20,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":false,"is_active":true,"microsite_id":null},{"id":"ac53739f-c215-44bb-9d09-8b5035effb82","name":"Minor large letter spacing","style_type":"h4","font_family":"Poppins, sans-serif","font_size":17,"font_size_tablet":null,"font_size_mobile":null,"font_weight":700,"line_height":1.2,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":5,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"uppercase","color":"","margin_bottom":5,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":false,"is_active":true,"microsite_id":null},{"id":"fc4fe2df-3dd6-40f3-9229-485a4658b910","name":"Paragraph Regular","style_type":"paragraph","font_family":"Poppins, sans-serif","font_size":20,"font_size_tablet":null,"font_size_mobile":null,"font_weight":400,"line_height":1.4,"line_height_tablet":null,"line_height_mobile":null,"letter_spacing":0.53,"letter_spacing_tablet":null,"letter_spacing_mobile":null,"text_transform":"none","color":"#000000","margin_bottom":24,"margin_bottom_tablet":null,"margin_bottom_mobile":null,"is_default":true,"is_active":true,"microsite_id":null}]</script>
+      <link id="tenant-installed-fonts" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&amp;family=Merriweather:wght@400;500;600;700&amp;family=Montserrat:wght@400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;family=Oswald:wght@400;500;600;700&amp;family=Playfair+Display:wght@400;500;600;700&amp;family=Poppins:wght@400;500;600;700&amp;family=Raleway:wght@400;500;600;700&amp;family=Roboto:wght@400;500;600;700&amp;family=Source+Sans+Pro:wght@400;500;600;700&amp;family=Urbanist:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;family=Libertinus+Serif:wght@400;500;600;700&amp;display=swap">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
