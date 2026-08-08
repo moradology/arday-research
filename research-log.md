@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-611/C-817–C-823: BBC multi-institution hiring-review report
+
+Discovery: the BBC’s related report on Cambridge’s senior-academic hiring review was publicly accessible at a distinct article URL. It contains attributed statements from Cambridge, Jesus College, the University of Glasgow, and Liverpool John Moores University, plus reported memoir/publication discrepancies.
+
+Capture: preserved the full BBC HTML, response headers, plain-text extraction, and 1200×675 article image. The article records Cambridge’s review/process language, Glasgow’s review of Arday’s appointment, LJMU’s reported “honest and reasonable error” and PhD-standing position, Jesus College’s contingent-fellowship statement, and *The Atlantic*-reported proposal/memoir differences.
+
+Decision: added SRC-611 and C-817–C-823. Overlapping Cambridge process language is treated as corroboration of existing claims; the Glasgow, LJMU, Jesus, memoir-version, and unpublished-book edges are separately typed. No institutional finding or fabrication conclusion was inferred.
+
 # 2026-08-08 — SRC-610/C-813–C-816: BBC report of QUB investigation
 
 Discovery: a BBC News NI article, identified from its public article URL, reports that Queen’s University Belfast is looking into the 2021 Arday-co-authored *Attempting to break the chain* paper. The article quotes a QUB spokesperson saying that the university is liaising with other UK universities.
