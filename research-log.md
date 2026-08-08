@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-423/C-844: broad Crossref author recheck
+
+Recheck: a no-date Crossref Works query using `query.author=Jason Arday` returned the 1,000-item ranking cap from 353,684 results. A strict author-list pass found 47 records with given name beginning “Jason” and family name “Arday”; DOI comparison against all source records found zero unmatched DOI/title keys.
+
+Decision: appended the broad raw response and hashes to the existing SRC-423 search-boundary record. No new publication node was created. The result closes this exact broad Crossref query for the captured state while preserving its ranking/cap limitation.
+
 ## 2026-08-08 — SRC-139: ITV press-PDF route checked
 
 Discovery: the ITV press-centre print route surfaced as a distinct five-page PDF manifestation of the already-canonical 30 January 2024 Cultural Advisory Council announcement. The web renderer exposes the membership, council remit, Arday’s dated biography, and his closing quotation.

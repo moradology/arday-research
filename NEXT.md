@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly search-boundary checkpoint: SRC-423/C-844 — a broad no-date Crossref `query.author=Jason Arday` request returned 1,000 ranked items from 353,684 results; 47 strict Jason Arday author-list matches all map to existing DOI/title records. No new publication was found. Reopen only after a changed index result or concrete publisher/repository lead; do not repeat this capped query unchanged.
+
 Fresh ITV access-boundary checkpoint: SRC-139 — ITV’s five-page print-PDF manifestation of the 30 January 2024 Cultural Advisory Council announcement is externally text-readable but the local browser and shell routes are blocked/timeout-bound. No PDF binary is claimed; the existing council record remains canonical. Reopen only after a changed ITV endpoint or lawful local PDF route.
 
 Fresh changed-access checkpoint: SRC-093/C-843 — Cambridge’s canonical “Statement about Professor Arday” URL returned a generic HTTP 200 page-not-found response on a later 8 August 2026 fetch, after an earlier live same-day capture. Both states are preserved separately. Reopen only for a replacement official statement, archived recovery, formal report, or other primary process update; do not interpret the missing-page response as an outcome.
