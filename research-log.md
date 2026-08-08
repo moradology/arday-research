@@ -2606,3 +2606,11 @@ Discovery: the Apple episode’s show notes linked an Instagram post dated 14 Au
 Capture: preserved the public Instagram HTML, response headers, the 640×640 image derivative, and image headers. The page identifies an external account; it does not identify an Arday-authored source or an institutional relationship.
 
 Decision: added SRC-552/C-711 as a separate propagation manifestation and linked it from SRC-551. No new biography fact, media appearance, or independent corroboration was created.
+
+## 2026-08-08 — SRC-553 NEON Summit programme capture
+
+Discovery: a search for distinct 2022 event records surfaced the University of Leeds/NEON Summit agenda, headed “Widening access and increasing success within Postgraduate Taught and Research study” and dated 13 July 2022.
+
+Capture: preserved the two-page PDF, layout-preserving text extraction, response headers, and rendered pages. The agenda lists Arday for an 11:45 keynote and as a participant in the 14:35–15:20 panel on taking forward the NEON strategy blueprint.
+
+Decision: added SRC-553/C-712, `media.md`, the public-output index, and the timeline. The record remains a planned-programme witness; no delivery, attendance, remarks, recording, transcript, or slides are inferred.
