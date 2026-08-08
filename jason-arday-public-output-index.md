@@ -182,7 +182,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [Covid-19 and higher education: The Times They Are A’Changin](sources/2022-covid-higher-education-times-are-changin.md) — 2022.
 - [No one can see me cry](sources/2021-no-one-can-see-me-cry.md) — 2022 issue publication; mental health among Black and minority-ethnic academic staff.
 - [CGHE presentation version](sources/2020-07-02-cghe-no-one-can-see-me-cry-presentation.md) — 2 July 2020 public research-talk deck; title and audience scope differ from the later article.
-- [Fighting the tide](sources/2020-fighting-the-tide-doctoral-students.md) — doctoral students and academic careers.
+- [Fighting the tide](sources/2020-fighting-the-tide-doctoral-students.md) — 2020 online-first *Educational Philosophy and Theory* editorial on BAME doctoral students and academic careers; full public PDF now supports page-level method and recommendation boundaries.
 - [Attempting to break the chain](sources/2020-attempting-break-chain-inclusive-pedagogy.md) — inclusive pedagogy and decolonising the curriculum, with Dina Zoe Belluigi and Dave Thomas.
 - [Race and educational leadership](sources/2021-race-educational-leadership-representation.md) — with Uvanney Maylor, Lorna Roberts, and Kenisha Linton.
 - [2019 Bloomsbury chapter on race and educational leadership](sources/2019-race-education-leadership-chapter.md) — DOI 10.5040/9781350068629.ch-008; distinct from the 2018 journal article with the similar title.

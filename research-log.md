@@ -2483,6 +2483,12 @@ Capture: preserved the article HTML, headers, lead WebP image, and both archived
 
 Evidence handling: the page-version difference is directly observable. The article’s claims about a university-job CV, an MBE offer, advertising complaints, publisher proof comparisons, and publisher editing are retained as reported leads because the cited CV, underlying correspondence, podcast capture, and book proofs were not recovered here. Do not turn this source into a final fraud finding or conflate changing biography copy with proof of intent.
 
+# 2026-08-08 — SRC-044/C-699 Fighting the tide full-text classification
+
+The preserved PESA Agora PDF was extracted at page level and compared with the DOI record. The article is explicitly labelled “EDITORIAL,” uses cited HESA/Leading Routes/AdvanceHE figures and literature, and contains recommendations on recruitment, studentships, mentoring, communities of practice, and institutional accountability. No new participant sample, interview protocol, statistical analysis, or original results section appears in the recovered text.
+
+The article’s UCU funding statement and 2020 contributor biography were recorded as dated publication metadata. They should not be used as current affiliation or legal-role evidence. The canonical publication record remains SRC-044; SRC-471 remains the public full-text manifestation.
+
 # 2026-08-08 — SRC-029/C-697–C-698 Black Curriculum report extraction
 
 The preserved first-party 13-page PDF was re-read at page level. It identifies the January 2021 report as authored by Jason Arday, describes a content-analysis corpus spanning reports, policy documents, blogs, newspaper articles, podcasts, videos/vlogs, and academic papers, and explicitly acknowledges limited specific data on Black-history teaching patterns and difficulty sourcing recent data for parts of the education system (p. 7).

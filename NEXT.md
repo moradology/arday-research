@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh full-text classification: SRC-044/C-699 — the preserved nine-page *Fighting the tide* PDF is explicitly labelled “Editorial” and contains cited statistics, literature-based argument, and recommendations but no new participant sample or results section. Keep its title, citation, and contributor biography separate from the 2017 UCU empirical report; reopen only for a materially different version or underlying cited dataset.
+
 Fresh primary-output extraction: SRC-029/C-697–C-698 — page-level extraction from the preserved January 2021 *Black Curriculum* PDF records the report’s content-analysis corpus, explicit data limitations, recommendations, and year-round “quick wins.” Keep these as authored policy analysis and stated methodology, not as an independent curriculum audit or implementation evidence. Reopen only for cited underlying datasets, a transparent school-level study, implementation evidence, or a changed first-party report version.
 
 Fresh public-output search boundary: a 7 August 2026 exact-name sweep across 2026 university events, interviews/podcasts, public recordings, and recent commentary produced only already-canonical leads (SRC-193, SRC-305, SRC-187, SRC-339, SRC-113, SRC-239/SRC-220, SRC-287, SRC-282, and SRC-460). No new binary, transcript, image, publication identifier, or changed source state was found. Do not repeat this query family without a changed endpoint or a concrete new lead; continue from the first unchecked source family below.
