@@ -4,6 +4,8 @@ Archive-integrity checkpoint: the 8 August audit repaired two concrete defects: 
 
 Focused search-boundary checkpoint: the 8 August institutional/media search returned only already-catalogued Newcastle, Glasgow, Oxford, Ruling Passions, Channel 4, and White Rose records plus homonyms. Reopen only for a changed page or distinct media/publication artifact; do not repeat the same query set unchanged.
 
+Fresh changed-comments checkpoint: SRC-282/C-859 — the 8 August Retraction Watch recheck preserves the same 5 August article body but raises the visible comments count from 78 to 93. New anonymous comments are retained as volatile public reception only; do not treat them as evidence or repeat the fetch without a changed article/comment state.
+
 Fresh scholarly search-boundary checkpoint: SRC-423/C-844 — a broad no-date Crossref `query.author=Jason Arday` request returned 1,000 ranked items from 353,684 results; 47 strict Jason Arday author-list matches all map to existing DOI/title records. No new publication was found. Reopen only after a changed index result or concrete publisher/repository lead; do not repeat this capped query unchanged.
 
 Fresh ITV access-boundary checkpoint: SRC-139 — ITV’s five-page print-PDF manifestation of the 30 January 2024 Cultural Advisory Council announcement is externally text-readable but the local browser and shell routes are blocked/timeout-bound. No PDF binary is claimed; the existing council record remains canonical. Reopen only after a changed ITV endpoint or lawful local PDF route.

@@ -3412,3 +3412,9 @@ Discovery: exact-name searches for football, Crystal Palace, snooker, footballer
 Decision: extended SRC-151’s negative-space boundary and updated C-014 to cover the 8 August query set. No new source node or professional-status claim was created; reopen only for a named club/academy record, senior contract or appearance, snooker ranking/tournament/governing-body record, or manually verified first-person source.
 
 The indexed Reddit discussion linked from the sports audit was also fetched directly. Reddit returned a JavaScript challenge rather than the thread body; the challenge page and headers are preserved as a changed access state. No Reddit wording is treated as recovered evidence.
+
+## 2026-08-08 — SRC-282/C-859: Retraction Watch comments-state recheck
+
+Capture: the current Retraction Watch page was fetched after its 5 August modification. The article body remains the earlier modified version, while the visible comment count increased from 78 to 93. Newly loaded anonymous comments repeat or expand allegations about biography, sports, fundraising, endurance, affiliations, and the thesis review.
+
+Decision: updated SRC-282 and added C-859 as a page-state/public-reception observation. The comments remain volatile, unnamed, and unverified; no allegation was promoted to fact or institutional finding. Reopen only for named-source evidence, primary-text comparison, direct institutional records, or a materially changed article body.
