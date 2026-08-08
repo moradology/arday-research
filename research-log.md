@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-254/C-915: India Today NewsMo binary promoted
+
+Audit: the canonical India Today NewsMo record already preserved the first-party page, response headers, 1:26 MP4, and checksum, but the video binary was not tracked in Git.
+
+Archive action: checksum-validated and committed the MP4. No captions or transcript were exposed, and no substantive claim was added; the video remains attached to the existing speech/literacy claims C-006/C-007.
+
+Decision: added C-915 as an archive-integrity observation. This is a dated broadcaster manifestation, not independent clinical, school, or sports evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-090/C-914: Twinkl video manifestation promoted
 
 Audit: SRC-090 already catalogued Twinkl’s public interview page and its distinct 20-second official YouTube video, but the small MP4 was not tracked in Git.

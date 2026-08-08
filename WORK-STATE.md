@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-integrity checkpoint: on 2026-08-08 `SRC-254/C-915` promoted the 1:26 India Today NewsMo MP4 to the GitHub archive. The page and response headers remain preserved; no captions or transcript were exposed, and its delayed-literacy framing remains attached to existing claims rather than treated as independent evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest deduplication/integrity checkpoint: on 2026-08-08 `SRC-090/C-914` promoted Twinkl’s distinct 20-second official video MP4. It is retained as a manifestation of the existing interview, not a new source; no captions or transcript were exposed, and no substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-239/C-913` promoted the 4:47 Cambridge Neurodiversity Celebration Week film MP4 to the GitHub archive. The film is preserved as first-party institutional media and public self-description; its automatic captions remain navigation material pending audiovisual verification. Google Drive was not updated; GitHub remains the active publication target.

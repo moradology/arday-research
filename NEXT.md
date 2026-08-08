@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-integrity checkpoint: SRC-254/C-915 — the 1:26 India Today NewsMo MP4 is now committed to GitHub. It repeats the existing speech/literacy framing and has no captions or transcript; no duplicate childhood claim was created. Reopen only for a changed media state or a distinct source that adds concrete chronology.
+
 Fresh deduplication/integrity checkpoint: SRC-090/C-914 — Twinkl’s distinct 20-second official video MP4 is now committed to GitHub. It adds no new claim: the video is promotional, lacks captions/transcript, and repeats the canonical interview’s self-reported childhood/sports framing. Reopen only for a longer cut, captions, or materially different interview state.
 
 Fresh media-integrity checkpoint: SRC-239/C-913 — the 4:47 Cambridge Neurodiversity Celebration Week film MP4 is now committed to GitHub alongside its caption and page-state captures. The ~02:59–03:55 first-person autistic-identity/education passage remains pending audiovisual verification; do not merge it with PBS or Channel 4 records.
