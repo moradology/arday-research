@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-source checkpoint: SRC-874/C-874 — The Hawaii Project retailer listing was captured as a source-propagation witness. Its indexed copy repeats the memoir’s “second youngest of three boys” formulation, while the live page returned HTTP 403; no new edition or excerpt was recovered. Reopen only for a distinct public product state, lawful preview, image, or full text; do not count it as independent corroboration.
+
 Fresh project-document checkpoint: SRC-873/C-873 — Sheffield Hallam’s published 2023 *Ruling Passions* handbook is now locally preserved. Printed p. 56 identifies the Jason Arday Episode 2 and its topic framing, strengthening episode provenance without adding transcript-level claims. Reopen only for the full lawful audio, a caption/transcript artifact, or a distinct project document; do not count the handbook as a second interview.
 
 Fresh scholarly index-state checkpoint: SRC-438/C-872 — Glasgow Enlighten’s author index was rechecked on 8 August 2026. It still lists the same four 2022 DOI-linked outputs; the changed HTML and generated timestamp are preserved, with no new publication node created. Reopen only for a changed DOI/title set, a distinct full-text manifestation, correction, or institutional response; do not repeat this unchanged index query.

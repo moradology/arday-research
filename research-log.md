@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-874/C-874: Hawaii Project memoir listing boundary
+
+Discovery: a fresh retailer search surfaced The Hawaii Project’s product listing for *Great and Unfortunate Things*. Its indexed copy repeats the memoir-side “second youngest of three boys” wording and familiar childhood marketing language.
+
+Capture: a direct retrieval returned HTTP 403 with a 239-byte error body. The response body and headers are preserved locally; no product image, excerpt, edition variant, or full text was exposed.
+
+Decision: created a retailer/source-propagation record and deduplicated it to the existing memoir and catalogue records. The listing is useful for tracking how the biography propagates, but it is not independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-873/C-873: Ruling Passions handbook recovered
 
 Discovery: Sheffield Hallam University Research Archive’s published 2023 *Ruling Passions: A Research Informed Handbook* was found as a distinct project document. The handbook was made for the ESRC Festival of Social Sciences and its printed p. 56 podcast guide names Jason Arday as Episode 2 guest, summarizing race, autistic masking, vulnerability, motivation, academic expectations, and music.

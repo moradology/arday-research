@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-retailer checkpoint: on 2026-08-08 `SRC-874/C-874` preserved The Hawaii Project’s indexed *Great and Unfortunate Things* product copy and the current HTTP-403 response. The listing repeats the already-known “second youngest of three boys” formulation and childhood marketing language; it adds no independent corroboration or new edition. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest podcast-provenance checkpoint: on 2026-08-08 `SRC-873/C-873` preserved Sheffield Hallam’s 2023 *Ruling Passions* handbook and its p. 56 Episode 2 guide naming Jason Arday. It corroborates the episode’s identity/topics but does not replace the unresolved full audio or verify autobiographical claims. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly-index checkpoint: on 2026-08-08 `SRC-438/C-872` preserved a changed Glasgow Enlighten author-index response. The four listed 2022 outputs and DOI keys remain unchanged; only markup serialization and generated-page timestamp changed. Google Drive was not updated; GitHub remains the active publication target.
