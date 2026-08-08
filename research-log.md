@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-093/C-843: Cambridge statement changed to missing-page state
+
+Recheck: the canonical Cambridge “Statement about Professor Arday” URL, which had returned a live statement on the earlier 8 August check, later returned Cambridge’s generic HTTP 200 page-not-found document titled “Page not found: we need time to evolve.” The response contained no substantive statement copy.
+
+Preservation: restored the earlier live recheck under its original path and preserved the later 404 response under `assets/captures/2026-08-08-cambridge-statement-404-recheck/`.
+
+Decision: upgraded SRC-093 in place and added C-843 as an access-state observation. No institutional outcome, withdrawal, or deletion claim is inferred.
+
 ## 2026-08-08 — SRC-157: ARU Unlearn page rechecked
 
 Recheck: the current Anglia Ruskin “Unlearn” page still links the already-catalogued 2 April 2025 Jason Arday Lightbulb recording, YouTube ID `LOZW-J1hcd4`, and the same host description of neurodiversity, race, and education. The current page is byte-distinct from the 6 August capture; no new event, recording, caption track, or substantive claim was found.

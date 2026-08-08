@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh changed-access checkpoint: SRC-093/C-843 — Cambridge’s canonical “Statement about Professor Arday” URL returned a generic HTTP 200 page-not-found response on a later 8 August 2026 fetch, after an earlier live same-day capture. Both states are preserved separately. Reopen only for a replacement official statement, archived recovery, formal report, or other primary process update; do not interpret the missing-page response as an outcome.
+
 Fresh page-state checkpoint: SRC-157 — ARU’s current “Unlearn” page was rechecked on 8 August 2026. It remains live, links YouTube `LOZW-J1hcd4`, and preserves the same 2 April 2025 event description; the HTML is byte-distinct from the 6 August capture. No new recording, captions, or substantive claim was found. Reopen only for a changed video state, caption/transcript asset, or distinct event artifact; do not create a duplicate event node.
 
 Fresh recovered-audio checkpoint: SRC-199/C-116 — the 2 January 2024 Surviving Society E188 episode now has a locally preserved 46:19.07 HLS AAC manifestation, current SoundCloud track HTML/headers, metadata, and artwork. Reopen for manual listening/transcription or a distinct transcript/caption/video manifestation; do not repeat the earlier 401 progressive-route test.
@@ -60,7 +62,7 @@ Fresh access-state checkpoint: SRC-429/C-489–C-490 — the Open University Awa
 
 Fresh repository-search boundary: SRC-440 — the exact-phrase Cambridge Repository query `"Jason Arday"` returned eight records on 8 August 2026. Four were already-canonical Arday-authored manifestations; the remaining four contained citation/full-text mentions but no Arday author or supervisor metadata. Reopen only with a changed API result or a concrete title/role lead; do not repeat the same exact-phrase query.
 
-Fresh institutional-status checkpoint: SRC-093 — Cambridge’s official “Statement about Professor Arday” remains live and reports a last update of 7 August 2026. The substantive text is unchanged; no finding, timetable, report, or further primary outcome was published by the 8 August recheck. Reopen only after a changed official statement, formal report, or Jesus/LJMU primary outcome appears.
+Fresh institutional-status checkpoint: SRC-093 — an earlier 8 August live capture of Cambridge’s official “Statement about Professor Arday” reports a last update of 7 August 2026 and unchanged process text; a later same-day fetch returned a generic page-not-found response. Preserve both states; no finding, timetable, report, or further primary outcome was exposed. Reopen only after a replacement official statement, formal report, or Jesus/LJMU primary outcome appears.
 
 Fresh publisher-locale checkpoint: SRC-595/C-792 — Simon & Schuster Canada’s official memoir route is distinct from the US/UK publisher records, but the direct URL returned HTTP 403. Search indexing exposed edition metadata only; no Canadian page body, excerpt, cover, audio, or full text was captured. Reopen only after a lawful accessible publisher state or a distinct asset appears; do not count it as a second memoir edition.
 
