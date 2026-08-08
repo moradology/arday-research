@@ -1,0 +1,24 @@
+HTTP/2 404 
+date: Sat, 08 Aug 2026 09:10:01 GMT
+content-type: text/html; charset=UTF-8
+x-powered-by: PHP/8.3.30
+x-dns-prefetch-control: on
+vary: accept, content-type,Accept-Encoding
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://www.juno7.ht/wp-json/>; rel="https://api.w.org/"
+x-litespeed-cache-control: public,max-age=3600
+x-litespeed-tag: 0b4_HTTP.404,0b4_404,0b4_URL.8b7762476bf00b8d600a3a19c27a09b5,0b4_guest,0b4_,0b4_MIN.fba2cc8aceffce950e1815dfb12a8446.css,0b4_MIN.5b976ff924b30d5cf5431d9116d82d79.js
+x-litespeed-cache: miss
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1Y7Q%2BqmcfHVEZU0%2FgTERRq%2B7kvjRszKCRSnjzGzz9qaSpvF8UhuimuEsNAASV0lOtYLbSD1VP81B%2BQUZjhukTHVvbq%2FhgJ5O7TMjjYJcpJmK8L5%2B5H1E6%2FYVss%2F0pGM%3D"}]}
+server: cloudflare
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+alt-svc: h3=":443"; ma=86400
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a27d62acb837b5fc-OMA
+

@@ -48,3 +48,9 @@ The named-record pass was repeated using `"Jason Arday" "Battersea Park Rangers"
 A separate exact-name web search was run for `"Jason Arday" snooker tournament`, `"Jason Arday" snooker player`, `"Jason Arday" Pontins snooker`, and `"Jason Arday" billiards`. Results consisted of already-catalogued autobiographical or propagating accounts, including the Lives Retold transcript, Open Culture’s Great Big Story summary, Twinkl, and general news reproductions. No named snooker club, ranking, tournament result, governing-body record, professional-tour entry, or contemporaneous independent account was found.
 
 This recheck extends the negative-space boundary; it does not disprove the autobiographical account of junior Pontins tournaments or being near professional standard. Do not create duplicate records for the propagation pages. Reopen only for a named event, ranking, club, governing-body record, or newly accessible first-person audio/transcript.
+
+## International-language lead recheck — 2026-08-08
+
+An indexed Haitian Creole-language Juno7 article was checked as a possible additional sports/childhood witness. Its search snippet repeated the familiar first-person formulation that Arday imagined becoming a professional footballer or snooker player. The direct article URL returned HTTP 404 and no article body or image, so the snippet is retained only as a discovery lead and does not add evidence or a new source node.
+
+- [Juno7 404 response headers](../assets/captures/2026-08-08-juno7-arday/page.headers.txt)

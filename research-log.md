@@ -2916,3 +2916,19 @@ Discovery: a direct German National Library PDF route for *No one can see me cry
 Capture: fetched `https://d-nb.info/1226555624/34`, preserving the PDF and response headers. The PDF is 24 pages and has the same SHA-256 as the accepted manuscript already stored locally.
 
 Decision: recorded the route as a confirmed public manifestation of the existing accepted-manuscript version. No duplicate publication or independent evidence claim was created.
+
+## 2026-08-08 — SRC-581/C-759 BBC Radio 4 listings manifestation
+
+Discovery: the BBC Radio 4 schedule index exposed a contemporary 12–18 April 2025 listings PDF for *Beyond Lonely*, including the two episode IDs whose current BBC pages are unavailable.
+
+Capture: downloaded the 19-page PDF, extracted its text, preserved response headers, and rendered the five relevant schedule pages. The PDF lists all five episodes, dates, programme IDs, synopses, producer, and presenter wording.
+
+Decision: added the file as a source-version linked to canonical `SRC-063`. It strengthens the episode topology and changed-state record; it does not create a duplicate programme node or upgrade repeated biographical copy into independent evidence.
+
+## 2026-08-08 — SRC-151/C-760 Juno7 sports-lead boundary
+
+Discovery: an indexed Haitian Creole-language Juno7 result repeated the football/snooker ambition wording and appeared to offer another biography manifestation.
+
+Capture: the direct URL returned HTTP 404; response headers are preserved, but no article HTML, image, or source text was recoverable.
+
+Decision: added the result to the existing sports-record search boundary as a failed lead, not a new source node. It adds no corroboration and does not change the conclusion that no named club, ranking, tournament record, or professional contract has been located.
