@@ -619,6 +619,7 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-604 | `sources/2024-01-16-ljmu-reciprocal-mentoring-reflection.md` | LJMU project reflection and official YouTube conversation; local HTML, image, metadata, and MP4 | first-party institutional project follow-up / related media | 2026-08-08 | timeline, LJMU, reciprocal mentoring, project reflection, local video |
 | SRC-605 | `sources/2022-06-15-ljmu-reciprocal-mentoring-launch.md` | LJMU launch announcement for the Leaders Reciprocal Mentoring programme; local HTML and hero image | first-party institutional programme announcement / local HTML and image | 2026-08-08 | timeline, LJMU, reciprocal mentoring, programme origin, local image |
 | SRC-606 | `sources/2026-08-08-oxford-ora-underrepresented-protocol.md` | Oxford Research Archive record and public version-of-record PDF for the canonical 2025 BMJ Open narrative-inquiry protocol | first-party institutional repository manifestation / scholarly source-version / local HTML and PDF | 2026-08-08 | Oxford, Cambridge, protocol, affiliations, ethics, ORIGIN, source-version, local PDF |
+| SRC-607 | `sources/2026-08-08-openalex-author-works-current.md` | Current OpenAlex Jason Arday author/work snapshot; 56-work set unchanged and no new DOI/title key promoted | bibliographic index / API snapshot / local JSON and headers | 2026-08-08 | publications, scholarly outputs, OpenAlex, DOI, deduplication, search boundary |
 
 ## Registry rules
 

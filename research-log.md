@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-607/C-808: current OpenAlex author/work reconciliation
+
+Discovery: the current scholarly-output audit reached the existing OpenAlex author identifier `A5048886069`.
+
+Capture: preserved the author-search response and headers plus a fresh filtered works response and headers. The works endpoint returned 56 records spanning 2015–2026.
+
+Decision: normalized `{id, DOI, title}` comparison found no new Jason Arday DOI/title key. No publication node was added; this exact index query is closed for the current state. Crossref’s separate recent-output boundary remains SRC-423.
+
 # 2026-08-08 — SRC-602–SRC-604/C-802–C-804: LJMU Reciprocal Mentoring event topology
 
 Discovery: the LJMU annual-report passage led to three first-party programme pages: the 17 November 2022 midpoint report, the 15 September 2023 closing-event report, and the 16 January 2024 project reflection.

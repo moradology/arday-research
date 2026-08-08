@@ -1,0 +1,24 @@
+HTTP/2 200
+date: Sat, 08 Aug 2026 11:01:39 GMT
+content-type: application/json
+content-length: 7989
+cf-ray: a27e06378d53e1a7-OMA
+cf-cache-status: DYNAMIC
+access-control-allow-origin: *
+server: cloudflare
+via: 1.1 heroku-router
+access-control-allow-headers: Accept, Accept-Language, Accept-Encoding, Authorization, Content-Type, X-OpenAlex-UI
+access-control-allow-methods: GET, HEAD, POST, OPTIONS
+nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=nyBNfLa85p%2FzQANun9gfso8Lt4RgXVrDa8iNZ%2B51pog%3D\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\u0026ts=1786186899"}],"max_age":3600}
+reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=nyBNfLa85p%2FzQANun9gfso8Lt4RgXVrDa8iNZ%2B51pog%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1786186899"
+x-ratelimit-cost-usd: 0.001
+x-ratelimit-credits-used: 10
+x-ratelimit-limit: 1000
+x-ratelimit-limit-usd: 0.1
+x-ratelimit-onetime-remaining: 0
+x-ratelimit-prepaid-remaining-usd: 0
+x-ratelimit-remaining: 988
+x-ratelimit-remaining-usd: 0.0988
+x-ratelimit-reset: 46701
+access-control-expose-headers: Cache-Control, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Onetime-Remaining, X-RateLimit-Credits-Used, X-RateLimit-Credits-Required, X-RateLimit-Reset, X-RateLimit-Limit-USD, X-RateLimit-Remaining-USD, X-RateLimit-Prepaid-Remaining-USD, X-RateLimit-Cost-USD, X-RateLimit-Cost-Required-USD, Retry-After
