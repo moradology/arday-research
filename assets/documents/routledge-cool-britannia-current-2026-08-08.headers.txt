@@ -1,0 +1,24 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 05:24:16 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a27c18023cc60898-OMA
+cf-cache-status: BYPASS
+cache-control: public, max-age=86400, no-store
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+server: cloudflare
+x-xss-protection: 1;  mode=block
+strict-transport-security: max-age=10886400; includeSubDomains; preload
+vary: Accept-Encoding
+pragma: max-age=86400
+content-security-policy: frame-ancestors 'self'
+permissions-policy: geolocation=(), microphone=(), camera=(), payment=(self)
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-ua-compatible: IE=Edge
+set-cookie: PHPSESSID=2b55460ce525ed12e428b801bf54260b; path=/; secure; HttpOnly; SameSite=None;HttpOnly;Secure;SameSite=None
+set-cookie: crc_wishlist_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax;HttpOnly;Secure;SameSite=None
+set-cookie: __cf_bm=2p.W52Yv5uV4kSDYw839gZu4T_4Vq4N7lEFrHz1Cxdc-1786166656.3564322-1.0.1.1-.rcdmlrK5SynW7dnwlW36Lw9MWyUrT.6zcQfpoQkFYpOAwhHDd_vg1jiZQae5XxIQw.fmKN7eAsiY17..SuLxnLrKis6k8cstmQhg4I9B0XLd19guTx9Pylv7YgoBrg8; HttpOnly; SameSite=None; Secure; Path=/; Domain=routledge.com; Expires=Sat, 08 Aug 2026 05:54:16 GMT
+alt-svc: h3=":443"; ma=86400
+

@@ -1851,6 +1851,14 @@ Capture: the 16-slide deck is 67,699 bytes with SHA-256 `7a2d7bac78e9796529f916f
 
 Evidence handling: upgraded the existing SRC-031 event record rather than creating a duplicate source node. Added C-694 for the deck’s authored presentation content and slide-level attribution. The deck is not treated as an independent evaluation or video transcript, and no long quotation was reproduced.
 
+# 2026-08-08 — Routledge *Cool Britannia* current source-version recheck
+
+Discovery: the unresolved publication-family queue identified *Cool Britannia and Multi-Ethnic Britain* as a candidate for a changed publisher state. The canonical Routledge page returned HTTP 200 on 8 August 2026 and was not byte-identical to the 6 August capture.
+
+Capture: the current HTML, response headers, and the linked 180×284 Routledge Focus cover were preserved. Meaningful product fields remained stable: copyright 2020, 106 pages, the existing paperback/hardback/ebook ISBN family, and the publisher’s present-tense Durham Assistant Professor biography.
+
+Evidence handling: updated SRC-030 in place and added C-695. The page is a new source-version and image manifestation, not a second monograph or independent employment corroboration. The earlier PagePlace preview and chapter DOI family remain canonical for their respective evidence classes.
+
 # 2026-08-07 — C-403 OpenAlex exact-query closure
 
 The filtered OpenAlex works request for author `A5048886069` was rerun with `per-page=200`. It returned 56 records. A normalized comparison of record IDs, DOI strings, and titles against the 6 August response was byte-identical, so no new work key or DOI/title candidate was added.

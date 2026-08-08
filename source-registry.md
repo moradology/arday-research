@@ -33,7 +33,7 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-027 | `sources/2018-race-educational-leadership.md` | SAGE journal article; Roehampton accepted manuscript, page recapture, and 7 August current PDF-path 403 HTML boundary | scholarly article / repository source-version / dated access boundary | 2026-08-07 | publications, education, access boundary |
 | SRC-028 | `sources/2015-aiming-higher-report.md` | Runnymede Trust report; original PDF URL 404 boundary and 50-page public institutional mirror PDF locally preserved | edited report / source-version / local PDF and image | 2026-08-06 | publications, higher education, Runnymede, local PDF, mirror, access boundary |
 | SRC-029 | `sources/2021-black-curriculum-report.md` | The Black Curriculum report | policy report | 2026-08-05 | publications, curriculum |
-| SRC-030 | `sources/2020-cool-britannia-multi-ethnic-britain.md` | Routledge monograph record | authored book | 2026-08-05 | publications, biography |
+| SRC-030 | `sources/2020-cool-britannia-multi-ethnic-britain.md` | Routledge monograph record; current publisher source-version and Routledge Focus cover recheck | authored book / publisher source-version / image | 2026-08-08 | publications, biography, source-version, cover |
 | SRC-031 | `sources/2021-03-16-ucl-keynote-media.md` | UCL keynote recording and slides | institutional media | 2026-08-05 | media, publications, timeline |
 | SRC-032 | `sources/2023-pbs-importance-early-intervention.md` | PBS episode | broadcast media | 2026-08-05 | media, biography |
 | SRC-033 | `sources/2023-03-21-abc-profile-video.md` | ABC News video profile | broadcast media | 2026-08-05 | media, biography |
