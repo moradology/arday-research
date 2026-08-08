@@ -2582,3 +2582,11 @@ Decision: added SRC-550 and C-709. The report is catalogued as an institutional 
 Rechecked the exact indexed TransReads URL for the Bloomsbury chapter after the search index resurfaced a contents preview. The mirror returned HTTP 403 with a WordPress authorization page; the official Bloomsbury US route also returned a Cloudflare HTTP 403. Preserved both response bodies and headers under `assets/documents/transreads-decolonizing-university-teaching-2026-08-08/`.
 
 Decision: updated SRC-079/C-136 in place. No new publication node or chapter-text claim was created; the indexed snippet remains a discovery witness only, and the official publisher metadata remains canonical.
+
+## 2026-08-08 — SRC-229 Glasgow event source-version recheck
+
+Discovery: a search for a new Glasgow Black History Month record surfaced the University’s separate Student News page, first published 9 October 2025, announcing the same 10 October keynote. The linked BookItBee page and event poster were byte-identical to the existing SRC-229 manifestations.
+
+Capture: preserved the student-news HTML and response headers as a new source-version under the canonical event record.
+
+Decision: updated SRC-229/C-188 and `media.md` in place. No duplicate event node or standalone portrait was created; delivery, attendance, recording, transcript, and slides remain unresolved.

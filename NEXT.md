@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event source-version/deduplication checkpoint: SRC-229/C-188 — the University of Glasgow’s separate 9 October 2025 Student News announcement for the already-canonical 10 October Black History Month keynote is locally preserved. The BookItBee registration page and poster found alongside it were byte-identical existing manifestations, so no duplicate event node was created. Reopen only for a post-event report, recording, transcript, slides, or changed host artifact.
+
 Fresh scholarly access-state recheck: SRC-079/C-136 — the indexed TransReads copy of the Bloomsbury chapter still exposes a contents preview, but the exact mirror returned a WordPress authorization HTTP 403 on 8 August 2026; Bloomsbury’s US publisher route returned Cloudflare HTTP 403. Both bodies and headers are preserved, and no chapter PDF was recovered. Reopen only for a changed official publisher/repository state or an authorized preview/full-text route; do not repeat the unofficial mirror request without a changed endpoint.
 
 Fresh institutional research-output capture: SRC-550/C-709 — the January 2021 London Metropolitan University/Centre for Equity and Inclusion report *Institutionalised* is locally preserved as a 60-page PDF, text extraction, headers, and rendered foreword page. Arday contributed the foreword and is given dated Visiting Professor/Durham/Runnymede role labels; he is not treated as the report’s empirical author. Reopen only for a changed report version, cited underlying data, implementation evidence, or a distinct original event/role record.
