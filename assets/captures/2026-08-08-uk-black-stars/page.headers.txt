@@ -1,0 +1,9 @@
+HTTP/2 200 
+x-powered-by: PHP/8.3.31
+x-pingback: https://ukblackstars.com/xmlrpc.php
+link: <https://ukblackstars.com/wp-json/>; rel="https://api.w.org/", <https://ukblackstars.com/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json", <https://ukblackstars.com/>; rel=shortlink
+vary: Accept-Encoding
+content-type: text/html; charset=UTF-8
+date: Sat, 08 Aug 2026 05:10:36 GMT
+server: Apache
+

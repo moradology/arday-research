@@ -136,6 +136,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [LSTM Annual Report 2024–2025 — EDI section](sources/2024-2025-lstm-annual-report-edi.md) — later institutional report documenting the new ED&I Strategy and Race Equality Charter submission preparation.
 - [Advance HE Race Equality Charter register](sources/2026-08-08-advance-he-lstm-rec-signatory.md) — external register listing LSTM at Bronze level, with local HTML and headers.
 - [LSTM current EDI overview](sources/2026-08-08-lstm-edi-current-page.md) — current governance/strategy/report navigation page, preserved as a dated source-version.
+- [UK Black Stars 2026 listing](sources/2026-08-08-uk-black-stars-listing.md) — organization-maintained list entry naming Prof Jason Arday among its “100 Influential British-Ghanaians,” with the associated portrait preserved locally.
 
 - [*The Black Curriculum: Black British History in the National Curriculum Report*](https://niromp.org/wp-content/uploads/2020/11/19588-tbc2021report.pdf) — authored by Jason Arday; argues that Black British history is systematically underrepresented in England’s curriculum.
 - [The Black Curriculum policy and research page](https://theblackcurriculum.com/research) — organization-level research archive.

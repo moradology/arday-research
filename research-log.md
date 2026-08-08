@@ -2429,6 +2429,14 @@ Discovery: followed the response sequence into LSTM’s later annual reporting a
 Capture: downloaded the 13-page 2023–24 ED&I report and 21-page 2024–25 annual report with extracted text, headers, and representative renders; preserved Advance HE’s register HTML/headers; and preserved the current LSTM EDI page/headers.
 
 Decision: register SRC-541–SRC-544 as distinct progress, annual-report, external-register, and current-page records. Add C-687–C-691. The sequence supports an institutional implementation/accreditation timeline, but does not establish that Arday remained involved after the stated 18-month support period or that every recommendation was completed. The original indexed EDI route remains separately preserved as SRC-540 because it redirected during direct capture.
+
+## 2026-08-08 — SRC-545/C-692: UK Black Stars recognition listing
+
+Discovery: an exact-name public-output sweep surfaced the UK Black Stars 2026 homepage, which lists “Prof Jason Arday” among its “100 Influential British-Ghanaians” and displays a portrait with a “UK Black Star” badge. No individual profile page, selection criteria, nominating body, or substantive biography was exposed.
+
+Capture: preserved the homepage HTML and response headers, plus the linked 524×556 JPEG and image headers. The page is retained as a recognition/listing source-version and image record, with no claims promoted beyond what the page directly displays.
+
+Decision: register SRC-545 and C-692, add the portrait to `media.md`, and mark the lead resumable only for a changed page, individual profile, methodology/award explanation, or rights-cleared image source.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.
