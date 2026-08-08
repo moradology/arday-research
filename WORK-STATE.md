@@ -1,5 +1,7 @@
 # Work state
 
+Latest review-clip checkpoint: on 2026-08-08 `SRC-057/C-940` created and promoted a 25,980,033-byte opening clip from the Bristol/British Academy “Story of Graceland” lecture. The 183,882,527-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the derivative is an event-review aid, not a separate source. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-183/C-939` created and promoted a 13,054,998-byte cellular-quality derivative of the complete CBS News interview. The 149,146,322-byte 1920×1080 master remains local-only; the derivative is a review copy and the interview’s childhood/family content remains attributed testimony. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest review-clip checkpoint: on 2026-08-08 `SRC-240/C-938` promoted a 23,867,909-byte opening clip from Oxford Physics’ “Challenges & Changes” recording. It preserves the host’s dated Durham/race-and-education introduction; the 123,139,640-byte parent remains local-only and no role or substantive research claim was independently upgraded. Google Drive was not updated; GitHub remains the active publication target.

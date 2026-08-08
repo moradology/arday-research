@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh review-clip checkpoint: SRC-057/C-940 — a 25,980,033-byte opening clip from the Bristol/British Academy “Story of Graceland” lecture is now committed to GitHub. The 183,882,527-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the clip is a bounded event-review derivative, not a separate source.
+
 Fresh complete-derivative checkpoint: SRC-183/C-939 — the complete 6:39 CBS News interview is now available in a 13,054,998-byte cellular-quality `.m4v` derivative on GitHub. The 149,146,322-byte 1920×1080 master remains local-only; the derivative is a review copy, not a substitute for the master or a transcript.
 
 Fresh review-clip checkpoint: SRC-240/C-938 — a 23,867,909-byte opening clip from Oxford Physics’ “Challenges & Changes” recording is now committed to GitHub. It preserves the host’s introduction of Arday’s then-Durham role and race/education research; the 123,139,640-byte parent remains local-only and the captions remain unverified.

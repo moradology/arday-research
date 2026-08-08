@@ -4,7 +4,7 @@ type: Source
 title: "I Know What I Know: The Story of Graceland"
 date: 2024-11-21
 accessed: 2026-08-06
-status: verified-as-event-page / recording locally preserved
+status: verified-as-event-page / recording locally preserved; bounded opening review clip committed to GitHub
 source_kind: institutional event
 entities:
   - ../entities/jason-arday.md
@@ -34,3 +34,9 @@ The event pages are aliases for one event. The official YouTube recording is the
 - [Law School page snapshot](../assets/documents/bristol-graceland-law-page-2026-08-06.html)
 - [Local MP4](../assets/videos/bristol-graceland-lecture-2024.mp4)
 - [Capture metadata and checksums](../assets/metadata/bristol-graceland-lecture-capture-2026-08-06.md)
+
+## Reproducibility clip — 2026-08-08
+
+- [Opening review clip, source interval 00:00–10:00](../assets/videos/clips/bristol-graceland-lecture-2024/opening-00m00-10m00.mp4) — 25,980,033 bytes; SHA-256 `7494a196b3d1721170970cc2cd32a4cadf5babe3ed6cc6866983bf04c921316d`.
+
+The clip is a bounded derivative of the official Bristol recording, not a separate event or a substitute for the source master. The 183,882,527-byte parent hash remains `2493c2d6f2d79a9dd6991dc307810e4d6831eabeba40c9bc80e6b147a0a03d59` and the parent remains local-only because it exceeds GitHub’s 100 MiB hard limit.

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-057/C-940: Bristol Graceland opening clip created
+
+Audit: SRC-057 documented the Bristol/British Academy “Story of Graceland” event and a 183,882,527-byte official YouTube recording, above GitHub’s 100 MiB hard limit. Complete cellular and low-quality transcode attempts did not produce a publishable under-limit complete file.
+
+Archive action: created and checksum-verified a 25,980,033-byte bounded opening clip covering source interval 00:00–10:00. The original MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-940 as an archive-integrity observation. The clip improves review access to the dated lecture manifestation; it is not a separate event or transcript and no substantive lecture claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-183/C-939: complete CBS derivative created
 
 Audit: SRC-183 documented a complete 6:39.49 CBS News interview captured as a 149,146,322-byte 1920×1080 MP4, above GitHub’s 100 MiB hard limit.
