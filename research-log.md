@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-272/C-907: Black In Academia video binary promoted
+
+Capture decision: the already-catalogued 1:05 Black In Academia / Leading Routes response was checked against Git history and found to have tracked HTML/header captures but no tracked video-sidecar files.
+
+Archive action: committed the MP4, automatic English captions, metadata, and thumbnail. The binary hash is preserved in the source record; the captions remain unverified and are not treated as independent evidence.
+
+Decision: added C-907 as an archive-integrity observation. The item remains a dated public-output record about academic identity and representation, not a source for childhood or qualification claims. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-244/C-906: Speakers Corner interview video promoted to GitHub
 
 Audit: the canonical Speakers Corner record already contained the YouTube page, thumbnail, automatic captions, metadata, headers, and a 9:14 progressive MP4, but the video binary remained only in the working tree.

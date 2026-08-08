@@ -8,10 +8,10 @@ id: SRC-272
 - Canonical URL: https://www.youtube.com/watch?v=VKfGFN7VbVE
 - Host/channel: Black In Academia / Leading Routes
 - Upload date: 5 November 2018 (YouTube metadata)
-- Captured: 2026-08-06
+- Captured: 2026-08-06; binary promoted to GitHub archive: 2026-08-08
 - Type: short interviewer/portrait video
 - Duration: 1:05
-- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved
+- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved; MP4 and sidecars committed to GitHub
 
 ## What the source establishes
 
