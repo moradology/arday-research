@@ -65,6 +65,8 @@
 
 ## Images
 
+- **Jason Arday — Autism Research Centre profile portrait** | 2026-08-08 capture | [Source record](sources/2026-08-08-autism-research-centre-profile.md) · [Local JPG](assets/captures/2026-08-08-autism-research-centre-profile/jason-arday.jpg) | institution-hosted profile portrait; provenance and source-version preserved
+
 | *The Free Press* hero image for “Who Had to Lose for Jason Arday to Win?” | 2026-08-05 | *The Free Press* / Yuan Yi Zhu | editorial-analysis image | [Source record](sources/2026-08-05-free-press-arday-analysis.md) · [Local PNG](assets/captures/2026-08-08-free-press-arday/hero.png) | 1800×1200 public hero image; image provenance/depiction is recorded separately from the article’s claims |
 | Article image for “Who paid for Carter-Ruck …” | 2026-07-28 | 21percent.org | commentary image | [Source record](sources/2026-07-28-21percent-carter-ruck-costs.md) · [Local PNG](assets/captures/2026-08-08-21percent-carter-ruck/article-image.png) | 1006×1024 image attached to the public article; article claims remain attributed and unresolved |
 | Article image for “‘Black Excellence’ as a Fragile Construct” | 2026-07-25 | *tenpencemore* / Penny Rabiger | commentary image | [Source record](sources/2026-07-25-tenpencemore-black-excellence-analysis.md) · [Local PNG](assets/captures/2026-08-08-tenpencemore-black-excellence/article-image.png) | 1852×712 public attached image; article framing is attributed, not treated as an independent finding |

@@ -1,0 +1,13 @@
+HTTP/2 200 
+vary: Accept-Encoding,Cookie
+link: <https://www.autismresearchcentre.com/wp-json/>; rel="https://api.w.org/", <https://www.autismresearchcentre.com/wp-json/wp/v2/people/2948>; rel="alternate"; title="JSON"; type="application/json", <https://www.autismresearchcentre.com/?p=2948>; rel=shortlink
+strict-transport-security: max-age=31536000; preload
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
+referrer-policy: no-referrer-when-downgrade
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+x-host-platform: s24-mb
+content-type: text/html; charset=UTF-8
+date: Sat, 08 Aug 2026 10:16:40 GMT
+server: Apache
+
