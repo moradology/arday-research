@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-629/C-861: Bloomsbury UK manifestation of *The Fire Now*
+
+Discovery: an exact DOI/title search surfaced Bloomsbury’s UK product page as a distinct official publisher manifestation. Its indexed rendering names Arday’s chapter and exposes the host book’s 15 November 2018 date, 304-page extent, ISBN `9781786993793`, Zed Books imprint, and chapter placement.
+
+Capture: the direct UK URL returned a Cloudflare HTTP 403 challenge; its HTML and headers are preserved under `assets/captures/2026-08-08-fire-now-bloomsbury-uk/`. No publisher PDF or chapter text was recovered.
+
+Decision: added SRC-629/C-861 as a publisher source-version deduplicated to SRC-078. The metadata strengthens the canonical chapter record but does not create a second publication or support content claims.
+
 ## 2026-08-08 — SRC-109: SEB recording artifact recheck
 
 Recheck: the canonical YouTube page for `H30IeW5J69I` was fetched again. It still renders “Video unavailable”; no playable stream, caption track, or downloadable media route was exposed. The SEB first-party page and Class Central listing remain the strongest public attribution/runtime records.
