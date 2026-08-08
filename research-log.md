@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-109: SEB recording artifact recheck
+
+Recheck: the canonical YouTube page for `H30IeW5J69I` was fetched again. It still renders “Video unavailable”; no playable stream, caption track, or downloadable media route was exposed. The SEB first-party page and Class Central listing remain the strongest public attribution/runtime records.
+
+Capture: preserved the current YouTube HTML and response headers plus a fresh 1280×720 thumbnail under `assets/captures/2026-08-08-seb-video-recheck/`. No video binary or OED22 programme file was recovered.
+
+Decision: updated SRC-109 in place rather than creating a duplicate source. Reopen only for a changed YouTube/SEB state, a lawful archive replay, a direct media file, captions/transcript, or the programme binary.
+
 ## 2026-08-08 — SRC-423/C-844: broad Crossref author recheck
 
 Recheck: a no-date Crossref Works query using `query.author=Jason Arday` returned the 1,000-item ranking cap from 353,684 results. A strict author-list pass found 47 records with given name beginning “Jason” and family name “Arday”; DOI comparison against all source records found zero unmatched DOI/title keys.

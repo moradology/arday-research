@@ -3,7 +3,7 @@ id: SRC-109
 type: Source
 title: "Things Can Only Get Better"
 date: 2023-01-09
-accessed: 2026-08-06
+accessed: 2026-08-08
 status: verified-as-institutional-resource / changed-video-and-programme-state
 source_kind: institutional resource page / symposium video
 entities:
@@ -23,11 +23,11 @@ The Society for Experimental Biology’s 9 January 2023 resource page identifies
 
 - SEB’s institutional page supplies the canonical YouTube ID `H30IeW5J69I`, the full talk title, and the symposium context; the page is stronger evidence than the Class Central index for attribution.
 - Class Central gives an estimated effort/runtime of 47 minutes. The recording’s event date is not stated on the accessible SEB page; the `oed22` programme slug suggests a 2022 programme but is not treated as a dated event record without inspecting the programme itself.
-- On 2026-08-06, yt-dlp reported the YouTube recording as “This video is not available.” The official YouTube thumbnail endpoint still returned a 1280×720 image, so the media item is recorded as a changed/partial state rather than as a locally possessed video.
+- On 2026-08-06 and again on 2026-08-08, the canonical YouTube page rendered “Video unavailable.” The 8 August HTML response contains no playable stream or downloadable media route. The official thumbnail endpoint still returned a 1280×720 image, so the media item is recorded as a changed/partial state rather than as a locally possessed video.
 - The SEB page was captured locally. A direct 6 August 2026 request to the embedded Issuu programme returned a reproducible 403 body (“You are not allowed to access this resource”); the response body and headers are locally preserved, but no programme file was obtained.
 
 ## Acquisition state
 
-Institutional page and canonical recording link preserved; YouTube video currently unavailable; thumbnail, SEB page, and symposium image locally preserved; the Issuu programme is now a recorded 403 access boundary and the programme/video binaries remain unresolved.
+Institutional page and canonical recording link preserved; YouTube video currently unavailable on repeated checks; thumbnail, SEB page, symposium image, and the 8 August YouTube HTML/headers are locally preserved; the Issuu programme is now a recorded 403 access boundary and the programme/video binaries remain unresolved. The fresh capture is [here](../assets/captures/2026-08-08-seb-video-recheck/).
 
 Capture details and checksums: [SEB capture metadata](../assets/metadata/seb-things-can-only-get-better-capture-2026-08-06.md).
