@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-589/C-786: Stephen Vainker defensive commentary
+
+Discovery: a search for post-event summit evidence also surfaced Stephen Vainker’s 27 July 2026 *The Wreckage* essay, “Leave Jason Arday alone - this is a scandal of academic educational leadership.”
+
+Capture: the full public Substack HTML and response headers were preserved. The article body is 1,177 words and includes links to existing Cofnas/Arday materials and a reproduced passage attributed to Hilary Cremin; platform comments remain in the HTML snapshot but are not treated as evidence.
+
+Evidence handling: this is a distinct defensive commentary/source-propagation node. Its account of managerialism, institutional protection, hiring motives, and racialized criticism remains the author’s analysis. It adds no primary case file, investigation report, or exonerating finding, and the reproduced correspondence remains independently unauthenticated.
+
 # 2026-08-08 — SRC-306/C-784–C-785: African Allied Health promotional video recovery
 
 Discovery: the preserved public LinkedIn HTML for the African Allied Health Network’s Accra summit promotion retained signed 720p MP4 and WebVTT URLs even though the original direct request had returned HTTP 403 `deny-InvalidToken`.

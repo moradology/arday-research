@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh controversy-commentary checkpoint: SRC-589/C-786 — Stephen Vainker’s full 27 July 2026 *The Wreckage* article is locally preserved as a defensive source-propagation witness. It adds a managerialism/institutional-leadership framing but no primary finding; the reproduced Cremin correspondence remains unauthenticated. Reopen only for the underlying correspondence, Cambridge case materials, or a correction/changed article state; do not count this commentary as exoneration or repeat its linked-source fetches.
+
 Fresh media recovery checkpoint: SRC-306/C-784–C-785 — a signed LinkedIn URL embedded in the preserved African Allied Health summit post yielded a 720p promotional MP4 and WebVTT captions after the earlier 403 access state. The binary is now local; it is not the summit keynote and does not establish delivery. Reopen only for a post-event report, final agenda, full keynote recording, or changed organizer route; do not repeat the same signed-URL retry without a changed state.
 
 Fresh MBE lead boundary: SRC-517 — the two locally preserved 2023 episodes checked against the Free Beacon’s unnamed podcast lead (*Ways to Change the World* and WNYC *The Takeaway*) contain no MBE/Order-of-the-British-Empire passage in their audio/video captions or publisher transcript. This is a reproducible non-match, not disproof. Reopen only for a newly identified programme, underlying offer correspondence, the cited job-application CV, or a changed transcript/audio state; do not repeat these episode checks.
