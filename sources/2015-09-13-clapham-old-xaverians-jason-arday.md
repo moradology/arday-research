@@ -4,7 +4,7 @@ type: contemporaneous football-club newsletter / match report
 title: "Clapham Old Xaverians — COXA 1st XI versus Manhattan Kickers"
 subject: ../entities/jason-arday.md
 accessed: 2026-08-07
-status: captured historical source; identity and school relationship qualified
+status: captured historical source; PDF committed to GitHub on 2026-08-08; identity and school relationship qualified
 evidence_class: contemporaneous club publication / named match report
 urls:
   - https://www.claphamoldxaverianarchive.com/wp-content/uploads/2019/11/2015-Concordia-No-7-Autumn.pdf
@@ -24,5 +24,5 @@ This is the first located named, contemporaneous club match record connecting Ja
 ## Capture notes
 
 - The PDF has 48 pages and was visually inspected on pp. 7–8; the relevant page is a text-and-photograph match report.
-- PDF SHA-256: `3a549b8d9db10ed0dada0c04d2d4dc88c586512e19e758a6005b64613bd62056`.
+- PDF SHA-256: `3a549b8d9db10ed0dada0c04d2d4dc88c586512e19e758a6005b64613bd62056`; committed to GitHub.
 - The page-render SHA-256 is `47497873463db552358d74cc5f99120c22212283b3810092e9a7396a31723da6`.

@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-343/C-928: COXA *Concordia* match-report PDF promoted
+
+Audit: the canonical Clapham Old Xaverians record already documented the 48-page Autumn 2015 *Concordia* PDF, its p. 7 match report, rendered page, headers, and checksum, but the primary PDF was not tracked in Git.
+
+Archive action: checksum-validated and committed the full PDF. The document preserves the dated club account naming Jason Arday as a COXA 1st XI goalkeeper in a 2 July 2015 match at Southfield Academy School.
+
+Decision: added C-928 as an archive-integrity observation. This strengthens preservation of C-349 but does not upgrade the evidence to professional status, academy membership, or school attendance. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-347/C-927: St Mary’s Values Talk adaptive audio promoted
 
 Audit: SRC-347 already had a playable 640×360 MP4 committed to GitHub and documented separate adaptive video/audio streams, but the 47 MB WebM audio stream remained untracked. The corresponding 336 MB adaptive video is too large for the current repository workflow and remains local.

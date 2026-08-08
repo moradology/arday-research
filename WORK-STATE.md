@@ -1,5 +1,7 @@
 # Work state
 
+Latest sports-history checkpoint: on 2026-08-08 `SRC-343/C-928` promoted the 48-page Autumn 2015 *Concordia* PDF to GitHub. Its PDF p. 7 match report remains the primary dated club account naming Arday as a COXA 1st XI goalkeeper; it does not establish professional status, academy membership, or school attendance. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-topology checkpoint: on 2026-08-08 `SRC-347/C-927` promoted the 47 MB adaptive WebM audio stream for St Mary’s 2020 Values Talk. The playable MP4 remains committed; the 336 MB adaptive video remains local due to size, and the caption endpoint is zero-byte. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest documentary-integrity checkpoint: on 2026-08-08 `SRC-432/C-926` promoted the 20 MB Oxford Brookes RADAR thesis PDF to GitHub. The extracted thesis text and title-page evidence remain preserved; its absence of “Jason Arday”/“Arday” is a bounded negative-space result and does not independently resolve the participant-reported examiner identity. Google Drive was not updated; GitHub remains the active publication target.
