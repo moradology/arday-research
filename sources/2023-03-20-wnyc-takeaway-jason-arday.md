@@ -8,10 +8,10 @@ id: SRC-275
 - **Canonical URL:** https://www.wnycstudios.org/podcasts/takeaway/segments/black-professor-cambridge
 - **Programme:** *The Takeaway*, WNYC Studios / GBH / PRX
 - **Published:** 20 March 2023
-- **Captured:** 6 August 2026
+- **Captured:** 6 August 2026; audio promoted to GitHub 8 August 2026
 - **Type:** first-party radio/podcast interview with host transcript and downloadable MP3
 - **Duration:** 15:56.13
-- **Status:** page, transcript, response headers, and MP3 locally preserved
+- **Status:** page, transcript, response headers, and MP3 locally preserved and committed to GitHub
 
 ## What the source establishes
 

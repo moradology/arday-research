@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-275/C-886: WNYC *The Takeaway* binary promoted to GitHub
+
+Audit: the canonical WNYC source note already pointed to a first-party 15:56.13 MP3, but the audio binary and its response headers were present only in the working tree.
+
+Capture decision: validated the MP3 checksum (`b98562f46893cb33d1c1e366ae904f4789813e9895f7fba651cf0b375e7ad251`) against the source note and committed the audio pair. The page/transcript remains locally preserved and the transcript-revision caveat is unchanged; no new transcript-level claim was promoted.
+
 ## 2026-08-08 — SRC-061/C-885: BBC *A Good Read* binary promoted to GitHub
 
 Audit: the canonical source record and media index already pointed to an official 28:05.39 BBC MP3, but the binary was present only in the working tree and was absent from the GitHub commit history.

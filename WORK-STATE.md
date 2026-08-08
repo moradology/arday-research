@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-preservation checkpoint: on 2026-08-08 the official WNYC/GBH *The Takeaway* audio for the 20 March 2023 episode (`SRC-275/C-886`) was validated against the canonical source note and added to the GitHub archive. The 15:56.13 MP3 and response headers are now remotely committed alongside the page/transcript capture; no new substantive audio claims were added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the official BBC *A Good Read* audio for the 21 November 2023 episode (`SRC-061/C-885`) was validated against the existing metadata and added to the GitHub archive. The 28:05.39 MP3 is local and remotely committed; no transcript or substantive audio claims were added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest first-party event-media checkpoint: on 2026-08-08 `SRC-642/C-884` captured Wonkhe’s official 8 July 2020 “Black Lives Matter” event page, its 15-page slide deck, event banner, and 230×230 Arday portrait. The page names Arday in the running order and links recording `-dG9SfhMYe8`, which remains deduplicated to SRC-619. The slide deck is event-level material, not attributed to Arday; no transcript claim was added. Google Drive was not updated; GitHub remains the active publication target.

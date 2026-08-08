@@ -1,0 +1,44 @@
+HTTP/2 302 
+date: Thu, 06 Aug 2026 18:27:08 GMT
+content-type: text/html; charset=utf-8
+content-length: 105
+access-control-allow-origin: *
+location: https://dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/ttp/ttp032023-professor.mp3
+via: 1.1 google
+
+HTTP/2 302 
+date: Thu, 06 Aug 2026 18:27:08 GMT
+location: https://waaa.wnyc.org/ttp/ttp032023-professor.mp3
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: -1
+
+HTTP/1.1 302 Found
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: no-cache
+Location: https://waaa.wnyc.org/ttp/ttp032023-professor.mp3/ttp032023-professor.mp3_ywr3ahjkcgo_cF9mX3NraXA9dSAg_feda2928b887c7258b25b703eef977d2_15292434.mp3?hash_redirect=1&x-total-bytes=15292434&x-ais-classified=unclassified&listeningSessionID=0CD_382_217__7c67b0dfec10b96a9965726ef70ee0870a71b91e
+Instance-id: 6ce98a9c1418c64e33bf7d84766bf1c5
+Server: AIS Streaming Server 9.2.1-patch0
+date: Thu, 06 Aug 2026 18:27:07 GMT
+X-Cache: Miss from cloudfront
+Via: 1.1 191968e405f949a7453556ee34ace5ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD58-P13
+X-Amz-Cf-Id: Jo_gkVksAy25WthINIzwakjXkvsDwX0Gx9f0NaYvohuIEaZ03xUCDw==
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 15292434
+Connection: keep-alive
+X-Ais-Podcast-Cache: Disk
+Instance-id: 6ce98a9c1418c64e33bf7d84766bf1c5
+Server: AIS Streaming Server 9.2.1-patch0
+Last-Modified: Thu, 06 Aug 2026 18:26:56 GMT
+Accept-Ranges: bytes
+Date: Thu, 06 Aug 2026 18:26:55 GMT
+X-Cache: Hit from cloudfront
+Via: 1.1 191968e405f949a7453556ee34ace5ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD58-P13
+X-Amz-Cf-Id: BVptGRSHhXbfEhv7DvlElbIhMf1JYFAj1uNRmfkXk4MgowvQjvHgQQ==
+Age: 12
+
