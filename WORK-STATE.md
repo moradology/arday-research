@@ -1,5 +1,7 @@
 # Work state
 
+Latest sidecar-preservation checkpoint: on 2026-08-08 `SRC-271/C-943` promoted the UCU webinar’s automatic English captions, yt-dlp metadata, and thumbnail to GitHub alongside its opening review clip. The 187,205,146-byte parent remains local-only; captions remain machine-generated navigation material and no substantive claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest sidecar-preservation checkpoint: on 2026-08-08 `SRC-268/C-942` promoted the *Neurodivergent Show* automatic English captions, yt-dlp metadata, and thumbnail to GitHub alongside its two review clips. The 175,067,296-byte parent remains local-only; captions remain machine-generated navigation material and no clinical or childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-276/C-941` created and promoted a 26,236,081-byte cellular-quality derivative of the complete RSC Inclusion and Diversity Forum recording. The 111,253,519-byte master remains local-only; the zero-byte caption endpoint, report-PDF HTTP 429, and untimecoded Arday segment remain explicit. Google Drive was not updated; GitHub remains the active publication target.

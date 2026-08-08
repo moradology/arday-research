@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-271/C-943: UCU webinar sidecars promoted
+
+Audit: SRC-271 already had a GitHub opening review clip, but the source-linked automatic VTT, yt-dlp metadata, and thumbnail remained untracked while the 187,205,146-byte parent MP4 exceeded GitHub’s 100 MiB hard limit.
+
+Archive action: checksum-validated and committed the VTT, metadata JSON, and WebP thumbnail. The parent MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-943 as an archive-integrity observation. This closes the sidecar-context gap for the dated UCU public-output record; no transcript or substantive decolonisation claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-268/C-942: Neurodivergent Show sidecars promoted
 
 Audit: SRC-268 already had two GitHub review clips, but the source-linked automatic VTT, yt-dlp metadata, and thumbnail remained untracked while the 175,067,296-byte parent MP4 exceeded GitHub’s 100 MiB hard limit.

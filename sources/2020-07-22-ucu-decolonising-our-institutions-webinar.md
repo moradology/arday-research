@@ -11,7 +11,7 @@ id: SRC-271
 - Captured: 2026-08-06
 - Type: union-hosted webinar recording
 - Duration: 56:40
-- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved; bounded opening review clip committed to GitHub
+- Status: complete progressive MP4, automatic English captions, thumbnail, metadata, page snapshot, and headers locally preserved; sidecars and bounded opening review clip committed to GitHub
 
 ## What the source establishes
 
@@ -20,9 +20,9 @@ UCU published a recording titled “Decolonising our institutions.” The UCU de
 ## Local preservation
 
 - MP4: `assets/videos/TpiO_0n9fgQ.mp4` — SHA-256 `871ed9b87fe4e8581736f63b374f00f1e4683adf41aed6ef9b4c15ae99159ccc`
-- Automatic English captions: `assets/videos/TpiO_0n9fgQ.en.vtt` — SHA-256 `0a4ee47c5d280a7438084436324899bab9c726fda5423803709d485ef11ca53f`; not human-verified.
-- Metadata: `assets/videos/TpiO_0n9fgQ.info.json` — SHA-256 `9f1332ac5b69b4e31ee53b388a7acbd050e6dc1cd2cd5f1712e3be37d8a7032c`
-- Thumbnail: `assets/videos/TpiO_0n9fgQ.webp`
+- Automatic English captions: `assets/videos/TpiO_0n9fgQ.en.vtt` — SHA-256 `0a4ee47c5d280a7438084436324899bab9c726fda5423803709d485ef11ca53f`; not human-verified; committed to GitHub.
+- Metadata: `assets/videos/TpiO_0n9fgQ.info.json` — SHA-256 `9f1332ac5b69b4e31ee53b388a7acbd050e6dc1cd2cd5f1712e3be37d8a7032c`; committed to GitHub.
+- Thumbnail: `assets/videos/TpiO_0n9fgQ.webp` — SHA-256 `16bc3c1c50999f3226dc1f739e546a4e2db13039a5e8e1169b62d90e395b8ab0`; committed to GitHub.
 - YouTube page snapshot: `assets/documents/TpiO_0n9fgQ-youtube.html`
 - Response headers: `assets/documents/TpiO_0n9fgQ-youtube.headers.txt`
 
