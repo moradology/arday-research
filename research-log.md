@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-609/C-811–C-812: full 2013 peer-mentoring article recovered
+
+Discovery: the Durham output record for Arday’s 2013 article linked to LJMU Open Journals volume 8, issue 1.
+
+Capture: downloaded the complete 147-page publisher issue PDF, its response metadata, and the issue page. Extracted the article from PDF pages 37–48 and rendered the opening and closing pages for visual verification.
+
+Decision: upgraded the existing DOI-less bibliographic record with a first-party article source-version. The article’s own abstract and introduction describe a literature-based contextual synopsis of peer mentoring, with an early-career-lecturer focus and discussion of benefits and risks. No duplicate publication node was created and no original participant sample was inferred.
+
 # 2026-08-08 — SRC-608/C-809–C-810: Durham repository manifestation of UKCGE media lead
 
 Discovery: Durham’s indexed Sociology output page surfaced the existing 2019 UKCGE “Research in Focus with Jason Arday” lead as a credited Digital Artefact.

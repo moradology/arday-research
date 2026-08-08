@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Aug 2026 11:12:06 GMT
+Server: Apache
+Accept-Ranges: none
+Content-Disposition: attachment; filename="IIP_ISSUE_8_2013 original.pdf"
+Cache-Control: private
+Pragma: public
+Set-Cookie: OJSSID=3mfsjusiu68b9cgab5uuhkslpp; path=/; domain=openjournals.ljmu.ac.uk; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15768000
+Content-Security-Policy: frame-ancestors 'self';
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+Content-Type: application/pdf

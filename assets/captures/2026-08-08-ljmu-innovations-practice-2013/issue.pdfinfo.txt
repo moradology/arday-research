@@ -1,0 +1,19 @@
+Author:          Byers, Sue
+Creator:         Microsoft® Word 2010
+Producer:        Microsoft® Word 2010
+CreationDate:    Fri Jun  7 04:00:03 2013 CDT
+ModDate:         Fri Jun  7 04:02:26 2013 CDT
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           147
+Encrypted:       yes (print:yes copy:no change:no addNotes:no algorithm:AES)
+Page size:       595.32 x 841.92 pts (A4)
+Page rot:        0
+File size:       2961239 bytes
+Optimized:       yes
+PDF version:     1.6
