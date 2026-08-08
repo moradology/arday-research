@@ -217,6 +217,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 - [HDR UK Black Internship Programme keynote](sources/2023-09-20-hdr-uk-black-internship-keynote.md) — first-party retrospective of the 2023 Birmingham City University opening ceremony; linked keynote video is now private, with page-linked images preserved locally.
 - [HDR UK opening-ceremony event listing](sources/2023-06-08-hdr-uk-black-internship-opening-event.md) — first-party 8 June 2023 listing for the 21 June Birmingham City University ceremony, including Arday’s 13:45 keynote title and local event graphic.
 - [HDR UK opening-ceremony report](sources/2023-06-21-hdr-uk-black-internship-opening-report.md) — same-day first-party post-event account identifying Arday as keynote speaker; local full-resolution portrait preserved, but no speech transcript or binary recovered.
+- [Advance HE EDI Conference 2025 full programme](sources/2025-04-03-advance-he-edi-programme.md) — distinct organizer programme manifestation placing Arday’s 3 April keynote at 09:40–10:20 and naming its chair; delivery and recording remain unresolved.
 
 ## 8. Current controversy — keep separate from the historical archive
 

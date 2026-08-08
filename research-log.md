@@ -2696,3 +2696,11 @@ Lead: a changed-state search for the HDR UK 2023 Black Internship Programme open
 Capture: the 8 June event listing schedules the ceremony for 21 June 2023 at Birmingham City University and lists Arday’s 13:45 keynote title. The 21 June report says the programme launched at the ceremony and identifies Arday as keynote speaker who gave a speech about overcoming personal challenges. Full-resolution event graphic and portrait were downloaded with response headers and hashes.
 
 Decision: added SRC-560/C-728 and SRC-561/C-729 as distinct first-party source versions. The exact date and delivery are now independently represented within the HDR UK source family; no speech transcript, captions, or keynote binary was recovered. Keep the private YouTube manifestation under SRC-559 and do not treat promotional biography wording as independently verified.
+
+## 2026-08-08 — SRC-562/C-730 Advance HE EDI Conference full programme
+
+Lead: a targeted search for the already catalogued Advance HE 2025 keynote found the organizer’s full Day 2 programme PDF, distinct from the previously captured session-abstract book (SRC-326).
+
+Capture: the one-page A3 programme records the 3 April 2025 EDI Conference schedule, placing Arday’s keynote at 09:40–10:20 in the Stephenson Suite and naming David Bass as chair. The PDF, extracted text, response headers, and rendered QA page are preserved locally.
+
+Decision: added SRC-562/C-730 as a source-version record rather than a duplicate event. It refines the planned schedule only; no attendance, delivery, transcript, recording, or substantive keynote claim is added.
