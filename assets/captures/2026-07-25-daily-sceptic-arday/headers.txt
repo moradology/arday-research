@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 04:40:31 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+x-powered-by: PHP/8.4.24
+x-powered-by: PleskLin
+vary: Accept-Encoding, Cookie
+link: <https://dailysceptic.org/wp-json/>; rel="https://api.w.org/"
+link: <https://dailysceptic.org/wp-json/wp/v2/posts/304404>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://dailysceptic.org/?p=304404>; rel=shortlink
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=K93d1PA%2BRHR2VQXtH4Ok8%2FuqflzvD%2ByDy45t2FAnx3pmAnPlCG3aHWtJRa%2B0G6KqHo841j9zvLYvjQgRGjm1hsR042NQkTXdTi8fQVrtfFZcoBImhBy9aXCPwXZRKz4liC0%3D"}]}
+cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a27bd7e7fe562bb1-OMA
+alt-svc: h3=":443"; ma=86400
+

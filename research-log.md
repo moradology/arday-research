@@ -6,6 +6,12 @@ Discovery: a focused institutional-report search surfaced Westminster’s award 
 
 Capture: page HTML, response headers, and the 800×450 JPEG were downloaded from Westminster’s canonical URL. No speech recording or transcript was exposed.
 
+# 2026-08-08 — SRC-533/C-678: Daily Sceptic commentary
+
+Discovery: a focused controversy-media search surfaced Will Jones’s 25 July 2026 *Daily Sceptic* article, a distinct public commentary source not yet in the registry. It repeats the public allegations and biography but contributes no new primary audit or institutional finding.
+
+Capture: article HTML, response headers, and the 940×614 article image were downloaded from the canonical URL. The source is retained as a low-provenance propagation witness, with its rhetorical labels kept attributed.
+
 # 2026-08-08 — SRC-531/C-676: Avenging Angels Companies House state
 
 Discovery: an official-registry search found a company-status record not represented by the existing personal-appointments snapshot.

@@ -194,6 +194,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 ## 8. Current controversy — keep separate from the historical archive
 
 - [*The Telegraph* plagiarism-row report](sources/2026-07-24-telegraph-plagiarism-row.md) — 24 July 2026; archived article with attributed allegations, Cambridge/LJMU responses, and two preserved article images.
+- [*Daily Sceptic* commentary](sources/2026-07-25-daily-sceptic-arday-commentary.md) — 25 July 2026; opinion framing of the plagiarism controversy, locally preserved with article image; no independent audit or finding added.
 
 - [Retraction Watch investigation](https://retractionwatch.com/2026/07/27/cambridge-jason-arday-plagiarism-allegations-times-higher-education/) — reports on allegations involving his thesis and publications, Cambridge’s stated position, and the suppression of a planned news story.
 - [Retraction Watch investigation — local record](sources/2026-07-27-retraction-watch-arday-investigation.md) — modified 5 August 2026; preserves the article, featured image, attributed institutional response, and reported BSA-plenary remark.
