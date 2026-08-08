@@ -16,6 +16,12 @@ Capture: the Italian page returned HTTP 200. Its HTML, headers, and the article-
 
 Decision: added SRC-632/C-865 as a secondary international journalism/source-version record. The article’s translated/editorial framing and repeated biography, fundraising, and allegations are not independent corroboration; the still is preserved as an image provenance artifact with unknown underlying video and reuse rights.
 
+## 2026-08-08 — New York Times attribution boundary
+
+Recheck: exact-name and domain searches surfaced only secondary outlets attributing parts of the controversy to *The New York Times* and named reporters Jennifer Schuessler and Alexandra Alter. The search layer reported `nytimes.com` blocked by robots; no direct NYT URL, licensed reproduction, archive replay, or locally capturable page was recovered.
+
+Decision: kept the NYT material as an unresolved secondary attribution under SRC-613 and the controversy entity. No new source ID or claim was created. Reopen only for a lawful direct article/source-version or a primary document.
+
 ## 2026-08-08 — SRC-182: Liberated Library DOI-pair recheck
 
 Recheck: current DataCite API responses for `10.17613/dc03s-05j04` and `10.17613/635kx-wb026` retain the same presentation title, six creators including Jason Arday, 2018 issued year, Knowledge Commons publisher, and reciprocal version relationship. Normalized bibliographic fields are unchanged. Both Humanities Commons routes still return the same short HTTP 403 shell.

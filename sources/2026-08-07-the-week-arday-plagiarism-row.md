@@ -15,6 +15,10 @@ id: SRC-613
 
 The Week’s article summarizes the developing Cambridge controversy and attributes distinct strands of the account to *The Daily Telegraph*, *The New York Times*, the *Daily Mail*, *The Independent*, and *The Guardian*. It presents both the criticism of passages in Arday’s PhD and the defense that citation failures were errors associated with inadequate supervision and disability support. It also repeats the reported charity/fundraising dispute and frames the disagreement as a conflict over academic-integrity scrutiny, racialized institutional context, and proportionality.
 
+## New York Times attribution boundary — 2026-08-08
+
+An exact-name/domain search for the attributed *New York Times* coverage was rechecked on 8 August 2026. The search layer reported that `nytimes.com` was blocked by robots, and no direct article URL or locally capturable NYT page was recovered. The accessible material consists of other outlets’ attributions to Jennifer Schuessler and Alexandra Alter, not a NYT source-version. The archive therefore preserves the NYT reference as a secondary attribution only and promotes none of its reported details as independently verified. Reopen only for a lawful direct NYT page, licensed reproduction, archive replay, or a distinct primary document.
+
 The article is useful as a map of public-source propagation and chronology, not as independent confirmation of the underlying plagiarism, fundraising, or institutional claims. Its statement that Arday was “officially cleared” is retained as The Week’s attributed synthesis; the underlying decision or report is not supplied here.
 
 ## Local assets
