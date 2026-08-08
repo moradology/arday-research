@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-035/C-899: *Portrait of a Londoner* binary promoted to GitHub
+
+Audit: the canonical *Portrait of a Londoner* record already contained the Listen Notes page, episode image, linked-YouTube state, and capture metadata, but the 37,787,301-byte Simplecast MP3 remained only in the working tree.
+
+Capture decision: validated the MP3 checksum (`90a8d5e590046e7f2225a63c916674fe622cec2a08194d6462d79abff16ecce3`) against the capture metadata and committed the audio. The listing/file duration discrepancy remains documented; no transcript-level or substantive biographical claim was promoted.
+
 ## 2026-08-08 — SRC-153/C-898: *Now and Men* binary promoted to GitHub
 
 Audit: the canonical *Now and Men* record already contained the official episode page, artwork, and checksum metadata, but the 93,553,902-byte Captivate MP3 remained only in the working tree.

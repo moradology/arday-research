@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-035/C-899 — the 39:19.30 *Portrait of a Londoner* Simplecast MP3 is now committed to GitHub alongside its page snapshot and episode image. The listing/file duration discrepancy and private YouTube state remain explicit; reopen only for a transcript, changed YouTube state, or first-party page.
+
 Fresh binary-preservation checkpoint: SRC-153/C-898 — the official 1:04:58.04 *Now and Men* MP3 is now committed to GitHub alongside its page and artwork. Reopen for a timestamped listening/transcription pass or changed episode state; retain the episode’s “upcoming” book wording as historical 2022 project metadata.
 
 Fresh deduplication checkpoint: SRC-623/C-897 — an 8 August audit confirmed that the 12:32 Channel 4 News resignation report MP4 was already committed in the earlier capture commit `74d2032`, alongside captions, metadata, and thumbnail. Its allegations and institutional statements remain attributed reporting, not findings; reopen only for a changed broadcast state, primary record, or audiovisual verification pass.
