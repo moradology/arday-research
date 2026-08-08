@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-270/C-903: OpenLearn educational video promoted to GitHub
+
+Audit: the canonical OpenLearn record already contained the progressive MP4, captions, thumbnail, metadata, YouTube snapshot, and page/transcript 403 responses, but the 6:14 video binary remained only in the working tree.
+
+Capture decision: validated the MP4 checksum (`ac2f9880d7d6260b102050b0492a9e0581b5760f71f9e8eb5a9aa499bae05ccc`) against the source record and committed the video. The narrator/author attribution and OpenLearn transcript remain unresolved; no substantive claim was promoted.
+
 ## 2026-08-08 — SRC-196/C-902: Surviving Society binary promoted to GitHub
 
 Audit: the canonical Surviving Society episode record already contained the Apple page, RSS snapshot, and a 2,193.32-second MP3, but the audio remained only in the working tree.

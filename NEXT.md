@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh video-preservation checkpoint: SRC-270/C-903 — the complete 6:14 OpenLearn “Degree Awarding Gap” MP4 is now committed to GitHub alongside captions and access-boundary captures. Narrator/author attribution and the OpenLearn transcript remain unresolved; reopen only for a changed transcript/page state or human audiovisual verification.
+
 Fresh binary-preservation checkpoint: SRC-196/C-902 — the 36:33.32 *Surviving Society: Social Science for Social Justice?* MP3 is now committed to GitHub beside its Apple page and RSS snapshot. The episode remains an untranscribed scholarly/public conversation; reopen for a transcript or timestamped listening pass, not repeated metadata fetches.
 
 Fresh binary-preservation checkpoint: SRC-129/C-901 — the longer 1:11:49.51 Global Player/Acast MP3 for the 26 May 2025 *How Do You Cope?* episode is now committed to GitHub beside the shorter Acast RSS manifestation. Reopen only for an official transcript, changed feed/player state, or evidence explaining the edit/completeness difference; do not silently substitute one version for the other.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest video-preservation checkpoint: on 2026-08-08 the complete 6:14 OpenLearn “Degree Awarding Gap” MP4 (`SRC-270/C-903`) was checksum-validated and added to the GitHub archive. Captions, metadata, thumbnail, and the OpenLearn/transcript 403 boundaries remain preserved; narrator/author attribution is unresolved and no substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-preservation checkpoint: on 2026-08-08 the Surviving Society “Social Science for Social Justice?” episode (`SRC-196/C-902`) was checksum-validated and added to the GitHub archive. The 37,451,376-byte 2,193.32-second MP3, Apple page, and RSS snapshot are preserved; no transcript or substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-version checkpoint: on 2026-08-08 the longer Global Player/Acast *How Do You Cope?* audio (`SRC-129/C-901`) was checksum-validated and added to the GitHub archive. The 68,952,519-byte 1:11:49.51 MP3 now sits alongside the shorter Acast RSS manifestation; the duration/completeness discrepancy remains explicit and no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
