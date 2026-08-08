@@ -1,5 +1,7 @@
 # Work state
 
+Latest post-event checkpoint: on 2026-08-08 `SRC-641/C-880–C-881` captured Training Magazine’s 9 May 2024 report on the February Orlando conference. It identifies Arday as Day 1 keynoter, describes audience interaction, and prints an attributed quotation. The page, headers, and source-associated award-winners collage are local; no recording or transcript was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest conference/media checkpoint: on 2026-08-08 `SRC-640/C-877–C-879` captured UEL/OIE’s 2025 Ethnicity Pay Gap Conference page, its structured media page, Arday portrait, Part 3 poster, and access-boundary artifacts. The page schedules him on the intersectionality/pay-gap panel; the 44:08 Part 3 metadata includes the panel, but the HLS token returned 401 and no recording was recovered. The indexed UEL report lead returned a direct 403. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest deduplication checkpoint: on 2026-08-08 the SRA’s 23 July 2026 post-event report (`SRC-188/C-104`) was re-fetched. Its substantive text remains unchanged; dynamic HTML/headers and the linked conference banner are preserved as a new retrieval state under `assets/captures/2026-07-23-sra-conference-report/`. No duplicate source was created. Google Drive was not updated; GitHub remains the active publication target.

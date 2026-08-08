@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-641/C-880–C-881: Training 2024 post-event report recovered
+
+Discovery: a fresh search found Training Magazine’s official 9 May 2024 post-event article, “Tuned in to Training,” for the February 2024 Orlando conference.
+
+Capture: preserved the article HTML and headers, plus its source-associated award-winners collage. The page metadata records publication on 9 May 2024 and modification on 31 May 2024. The article says more than 2,000 L&D professionals attended, identifies Arday as the Day 1 keynoter, describes a Day-O callback, and prints a short attributed quotation.
+
+Decision: added SRC-641/C-880–C-881 as a distinct post-event manifestation rather than merging it with SRC-279’s programme. This upgrades the event to first-party host evidence of delivery and audience interaction, but not an independent attendance log, complete recording, or transcript. The downloaded image is explicitly not treated as an Arday portrait.
+
 ## 2026-08-08 — SRC-640/C-877–C-879: UEL Ethnicity Pay Gap Conference media topology
 
 Discovery: a fresh 2025 conference search surfaced the University of East London Office for Institutional Equity’s “Bridging the Gap: Closing Ethnicity Pay Gap in UK” conference page and an indexed UEL conference-report PDF.

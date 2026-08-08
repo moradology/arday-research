@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 15:21:43 GMT
+content-type: image/jpeg
+content-length: 395218
+last-modified: Fri, 31 May 2024 19:26:22 GMT
+cache-control: max-age=2592000
+expires: Mon, 07 Sep 2026 15:21:43 GMT
+accept-ranges: bytes
+
