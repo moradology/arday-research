@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-636/C-871: Wellcome Sanger advisory-group role
+
+Discovery: an exact-name institutional search surfaced the Wellcome Sanger Institute’s Sanger Excellence Fellowship page, whose Advisory Group list includes “Prof Jason Arday, Professor of Sociology, University of Glasgow.”
+
+Capture: the live first-party page was retrieved as 104,095-byte HTML with response headers and the fellowship/advisory-group text preserved under `assets/captures/2026-08-08-sanger-excellence-fellowship/`.
+
+Decision: added SRC-636/C-871 as a distinct service-role/source-version record. It establishes the role listing on the current page, not appointment dates, remuneration, contribution, continuation, or a Sanger employment relationship. The Glasgow title is preserved as displayed and not treated as current employment evidence.
+
 ## 2026-08-08 — SRC-635/C-870: QUB CITE project-role boundary
 
 Discovery: an official QUB search result surfaced the Centre for Inclusion, Transformation and Equality projects page for “Advancing Critical University Studies for Inclusive and Equitable Quality Education,” naming Dina Zoe Belluigi as lead and Joanne O’Keeffe and Jason Arday as collaborators.
