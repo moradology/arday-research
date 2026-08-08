@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-614/C-828–C-829: LJMU neurodiversity page current recheck
+
+Recheck: the direct LJMU neurodiversity page returned an HTTP 200 response with byte-distinct raw headers/body capture, but the normalized page body matched the earlier capture after stripping transport whitespace.
+
+Decision: the recheck still lists only five other SoundCloud extracts and contains no Arday occurrence, title, or Arday-specific SoundCloud URL. Added the current headers and normalized body to SRC-614 as a recheck, not a new media or event node. The indexed result remains a stale/direct-response mismatch.
+
 ## 2026-08-08 — SRC-616/C-833: *The Times* teaser and access boundary
 
 Discovery: the canonical *The Times* article URL was directly reachable as a publisher teaser. It exposes the headline, Fiona Hamilton byline, public standfirst, and article dates, but stops at the subscription prompt.
