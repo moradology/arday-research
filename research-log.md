@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-305 re-entry: UAL *Opening Out* deduplicated
+
+Discovery: an exact-name search for 2026 university appearances rediscovered UAL’s 4 March 2026 *Opening Out* listing, already canonicalized as `SRC-305` with the matching Eventbrite manifestation.
+
+Capture: the exact UAL route returned another 5,639-byte Cloudflare challenge, and the exact-URL Wayback CDX query returned `[]`. The body, headers, and empty CDX response are preserved under `assets/captures/2026-08-08-ual-opening-out/`.
+
+Decision: folded the changed retrieval state into `SRC-305` and did not create the tempting duplicate `SRC-635`. The event remains a scheduled/listed appearance only: no attendance, delivery, recording, transcript, slides, or substantive remarks are established.
+
 ## 2026-08-08 — SRC-633/C-867–C-868: BERA staff-equality report recovered
 
 Discovery: a BERA report-page search surfaced a distinct public research output not present in the canonical output index: *Education: The State of the Discipline: An exploration of existing statistical data relating to staff equality in UK higher education*.

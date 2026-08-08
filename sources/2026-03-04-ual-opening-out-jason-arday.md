@@ -29,6 +29,8 @@ The matching Eventbrite record identifies Learning and Teaching Directorate as o
 
 The Eventbrite promotional image is preserved as a visual event artifact. It should not be treated as evidence that Arday attended or spoke beyond the listing itself.
 
+An 8 August 2026 recheck also queried the exact UAL URL through the Wayback CDX endpoint. The direct UAL response remained a 5,639-byte Cloudflare challenge, and the tested CDX query returned an empty JSON array; this adds an archive-availability boundary, not evidence that the event was cancelled or undelivered.
+
 ## Local preservation
 
 - [Eventbrite HTML](../assets/captures/2026-03-04-ual-opening-out-jason-arday/eventbrite.html) — SHA-256 `260ebfa67604488b4494165630aacd30258c66af265926e0be54f7366b41e785`
@@ -39,3 +41,6 @@ The Eventbrite promotional image is preserved as a visual event artifact. It sho
 - [Event-image headers](../assets/captures/2026-03-04-ual-opening-out-jason-arday/event-image-headers.txt) — SHA-256 `2b26f1cc7299771d04c80f10b138ec3934ea1e5ad1371e06630e375b638c2ee0`
 - [UAL recheck HTML](../assets/captures/2026-08-08-ual-opening-out-recheck/ual.html) — 5,639-byte Cloudflare challenge response; SHA-256 `0e69d59ff8c6700a4143d416b42b1f6237a39a42a2c78261b7ee9881df8c1665`
 - [UAL recheck headers](../assets/captures/2026-08-08-ual-opening-out-recheck/ual.headers.txt) — SHA-256 `a67131402947eff3f4a833c3c739be93caf74b1fd4cc13d27bbb64994877a68f`
+- [Second UAL challenge capture](../assets/captures/2026-08-08-ual-opening-out/page.html) — SHA-256 `61cc755b066d503160ce806098dfcf16cd449ba76f1f2daac82e92d98faa04d`
+- [Second UAL response headers](../assets/captures/2026-08-08-ual-opening-out/page.headers.txt) — SHA-256 `8f1ce29eeba41f33764dbc43f516814d039ff9060f78b35da698909026f674f9`
+- [Wayback CDX response](../assets/captures/2026-08-08-ual-opening-out/cdx.json) — empty result (`[]`); SHA-256 `37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570`
