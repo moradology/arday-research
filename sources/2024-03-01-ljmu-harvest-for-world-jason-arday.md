@@ -3,8 +3,8 @@ id: SRC-258
 type: Source
 title: "Professor Jason Arday — Harvest for the World: Neurodiversity and Inclusivity in Higher Education"
 date: 2024-03-01
-accessed: 2026-08-06
-status: verified first-party SoundCloud track; MP3 locally preserved
+accessed: 2026-08-08
+status: verified first-party SoundCloud track captured before the current-page omission; MP3 locally preserved and committed to GitHub
 source_kind: institutional-audio
 entities:
   - ../entities/jason-arday.md
@@ -25,7 +25,7 @@ LJMU’s neurodiversity resources page links to a SoundCloud track titled “Pro
 - [SoundCloud page headers](../assets/documents/ljmu-harvest-for-world-soundcloud-headers-2026-08-06.txt) — SHA-256 `7ebde0960bb30255c31457f4dcc799c17397d4302b72ea12a386325735df59b6`
 - [oEmbed metadata](../assets/documents/ljmu-harvest-for-world-oembed-2026-08-06.json) — SHA-256 `4c366009410555a77bbeb4258bf9b9b1c5ebe14a6e6a9b86a0cf806541c9f7e9`
 - [Stream-resolver response](../assets/documents/ljmu-harvest-for-world-stream-resolver-2026-08-06.json) — SHA-256 `984bb9052c90a08cd60bff58dba383d390b51038350242b2d8cd522567520504`
-- [Local MP3](../assets/audio/ljmu-harvest-for-world-jason-arday-2024.mp3) — 38,994,754 bytes; SHA-256 `0ba9ef5308b200939bd35464d2416ab7b49d592a40d610ce8d137868698d9f7e`
+- [Local MP3](../assets/audio/ljmu-harvest-for-world-jason-arday-2024.mp3) — 38,994,754 bytes; SHA-256 `0ba9ef5308b200939bd35464d2416ab7b49d592a40d610ce8d137868698d9f7e`; now included in the GitHub archive
 - [Audio response headers](../assets/documents/ljmu-harvest-for-world-audio-2026-08-06-headers.txt) — SHA-256 `64a8bb34c6bd52a1d86cb8d2701c3d1d513be01fa56856d8f7034ebc3d37b909`
 - [SoundCloud artwork](../assets/images/ljmu-harvest-for-world-jason-arday-2024.jpg) — SHA-256 `8099b4c3fcfeca4cd936b3e672852a090c9daacb516c3552ba43415eab4e9cd8`
 

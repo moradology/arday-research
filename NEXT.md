@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-preservation checkpoint: SRC-258/C-895 — the 40:37.146 LJMU/SoundCloud “Harvest for the World” MP3 is now committed to GitHub. The earlier first-party capture and the later current-page omission remain separate source states; no transcript or substantive claim was added. Reopen only for a direct current media route, lawful transcript, or changed LJMU page.
+
 Fresh binary-preservation checkpoint: SRC-249/C-894 — the official 8 May 2025 BBC *Radical with Amol Rajan* MP3 is now committed to GitHub alongside its page, RSS, artwork, and duration metadata. Audioscrape still exposes no transcript. Reopen for lawful transcript access or a bounded listening pass; do not infer remarks from the binary’s existence.
 
 Fresh video-preservation checkpoint: SRC-347/C-893 — the playable 640×360 St Mary’s Values Talk MP4 is now committed to GitHub. The adaptive video/audio streams remain documented locally, and the caption endpoint is zero-byte. Reopen for a valid caption track or audiovisual verification; do not treat the host biography as an audited record.

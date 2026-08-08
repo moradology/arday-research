@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-258/C-895: LJMU “Harvest for the World” binary promoted to GitHub
+
+Audit: the canonical LJMU/SoundCloud record already contained the earlier first-party page, SoundCloud metadata, resolver response, artwork, headers, and a 40:37.146 MP3, while the current LJMU page recheck separately showed that the item is no longer exposed in the direct HTML.
+
+Capture decision: validated the 38,994,754-byte MP3 checksum (`0ba9ef5308b200939bd35464d2416ab7b49d592a40d610ce8d137868698d9f7e`) against the source record and committed the audio. The earlier capture and current omission remain distinct states; no transcript or substantive audio claim was promoted.
+
 ## 2026-08-08 — SRC-249/C-894: BBC *Radical* binary promoted to GitHub
 
 Audit: the canonical BBC *Radical* record already contained the programme page, RSS, artwork, duration metadata, and an official MP3, but the 51,279,057-byte audio remained only in the working tree.
