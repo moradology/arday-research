@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh legal-governance checkpoint: `SRC-889/C-896` — Companies House AP01 filing received 12 April 2024 records Prof Jason Atta Kwei Arday’s director appointment at Autism Centre of Excellence on 30 March 2024 and states that he consented to act. The filing PDF, extracted text, filing-history HTML, headers, and rendered first page are preserved. Reopen only for a changed filing history, a termination filing, or a later governance document; do not infer continued service from the absence of an end date.
+
 Fresh Jesus College primary-record checkpoint: `SRC-887/C-894` — the college’s 47-page 2024 Annual Report and Accounts is preserved as PDF, text, headers, and rendered printed p. 3. It lists “Professor J. Arday (from 1 October 2023)” among the Fellows. Reopen only for a later college annual report, direct fellowship/resignation record, or investigation document; do not infer current status from this 2024 roster.
 
 Fresh resignation-process checkpoint: `SRC-886/C-892–C-893` — *THE*’s 5 August report is locally preserved with HTML, headers, and Senate House image. It records the contemporaneous resignation and attributed Cambridge/Jesus College process language, while deduplicating the underlying Cambridge statement and Good Law letter. Reopen only for a changed report, correction, direct institutional process document, or final finding; do not treat this news manifestation as adjudication.

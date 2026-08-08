@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-889/C-896: Companies House AP01 appointment filing
+
+Discovery: the Companies House filing-history search for Autism Centre of Excellence (company 12435820) exposed a distinct AP01 filing that was not represented by the annual-report or Charity Commission records.
+
+Capture: the filing-history HTML and headers, the two-page AP01 PDF and headers, extracted text, and a rendered first page are locally preserved. The history records receipt on 12 April 2024; the AP01 records appointment on 30 March 2024, names Prof Jason Atta Kwei Arday, states that he consented to act, and gives occupation “ACADEMIC.”
+
+Classification: this is the strongest legal-register artifact in the current Autism Centre appointment chain and independently pins the filed director date to 30 March 2024. It remains a governance record only; no operational activity, remuneration, or end date is inferred. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-888/C-895: Autism Centre of Excellence annual report and trustee appointment
 
 Discovery: a Charity Commission search for public filings surfaced the Autism Centre of Excellence report for the year ended 30 June 2023, a distinct governance artifact not previously represented in the registry.

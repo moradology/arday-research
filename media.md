@@ -289,6 +289,11 @@
 - [Regulator record](sources/2026-08-06-charity-commission-autism-centre-trustee.md) — current trustee-page manifestation, not a media item.
 - **State:** the page lists Prof Jason Atta Kwei Arday as trustee appointed 30 March 2024; no end date is displayed.
 
+## SRC-889 Companies House Autism Centre appointment filing
+
+- [AP01 record](sources/2024-04-12-companies-house-autism-centre-arday-ap01.md) — official two-page legal filing, not a media item; local PDF, extracted text, filing-history HTML, headers, and rendered page are preserved.
+- **State:** the filing history records receipt on 12 April 2024 and the AP01 gives Arday’s director appointment date as 30 March 2024; no later termination filing was recovered in this pass.
+
 ## SRC-334 Warwick Education Conference 2026 keynote
 
 | Title | Date | Host | Format | Link | Status |
