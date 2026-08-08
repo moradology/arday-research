@@ -2397,6 +2397,14 @@ Discovery: Kahn et al. (2008) cites Edwards and Nicoll’s 2006 *British Educati
 Capture: requested JSTOR stable item `30032661` and `stable/pdf/30032661.pdf`. Both returned HTTP 403 and the same 5,815-byte JSTOR “Access Check” HTML; no article text, preview, or PDF binary was recovered. HTML, headers, and hashes are preserved under `assets/documents/research-integrity/edwards-nicoll-2006-jstor/`.
 
 Decision: update SRC-393 in place and add C-613 as a changed-route access boundary. The underlying primary-text comparison remains open; Kahn’s review and quotation remain separate evidence and are not upgraded into a substitute for Edwards/Nicoll’s version of record.
+
+## 2026-08-07 — public-output sweep: indexed leads deduplicated
+
+Search boundary: ran fresh exact-name searches for Jason Arday across 2026 university events, 2025 interviews/podcasts, public recordings, and recent commentary. The result set surfaced Cambridge’s April Anti-Racism Symposium, UAL’s March *Opening Out* dialogue, the BSA 2026 plenary, the cancelled RGS conversation, the Crick 2024 event, the existing Cambridge neurodiversity film and *How Do You Cope?* episodes, the White Rose 2026 book review, Retraction Watch, and Dennis McCarthy’s Substack.
+
+Deduplication: every substantive result was already represented by SRC-193, SRC-305, SRC-187, SRC-339, SRC-113, SRC-239/SRC-220, SRC-287, SRC-282, or SRC-460. No new recording, transcript, image, document, or materially changed source state was exposed by this search family. Search-result snippets were not promoted to evidence and no claims were upgraded.
+
+Decision: close this exact query family for now. Reopen only after a changed endpoint, a direct event artifact, a new publication identifier, or a distinct interview/recording appears; continue from the first unchecked source family in `NEXT.md` rather than repeating these broad searches.
 # 2026-08-08 — SRC-517/C-656–C-659 Free Beacon fundraising/memoir investigation
 
 Discovery: followed the direct Free Beacon lead from current discussion and recovered Benjamin Ryan’s 4 August 2026 article. The page exposes a 4,186-word article record, publication/modified metadata, and links to the two Wayback speaker-bio snapshots used in its central comparison.

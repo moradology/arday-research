@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh public-output search boundary: a 7 August 2026 exact-name sweep across 2026 university events, interviews/podcasts, public recordings, and recent commentary produced only already-canonical leads (SRC-193, SRC-305, SRC-187, SRC-339, SRC-113, SRC-239/SRC-220, SRC-287, SRC-282, and SRC-460). No new binary, transcript, image, publication identifier, or changed source state was found. Do not repeat this query family without a changed endpoint or a concrete new lead; continue from the first unchecked source family below.
+
 Fresh institutional-award record: SRC-532/C-677 — Westminster’s 26 July 2024 announcement records the Honorary Doctor of Letters, graduation remarks, and a local ceremony photograph. Its childhood and Cambridge-superlative language is a repeated source-version, not independent corroboration. Reopen only for a speech recording/transcript or a materially different Westminster source state.
 
 Fresh controversy-media record: SRC-533/C-678 — *The Daily Sceptic*’s 25 July 2026 opinion article and image are preserved as a low-provenance propagation witness. It adds no primary audit or institutional finding. Reopen only for a correction, underlying document, or materially different source version.
