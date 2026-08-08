@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-boundary checkpoint: SRC-198/C-932 — three timestamp-focused Research Cast UK listening clips are now committed to GitHub with the 107,519,809-byte parent MP3 hash retained as the integrity anchor. The parent exceeds GitHub’s 100 MiB hard limit; the clips remain derivative navigation aids and C-117–C-119 still require manual listening before transcript-level biography claims.
+
 Fresh video-preservation checkpoint: SRC-210/C-931 — the 64,075,107-byte Sage *Social Science Space* interview MP4 is now committed to GitHub alongside its automatic captions, metadata, thumbnail, transcript-bearing publisher page, and oEmbed capture. The recording documents Arday as interviewer and series-editor subject-version; human listening remains required before treating caption windows as verbatim quotations.
 
 Fresh audio-preservation checkpoint: SRC-184/C-930 — the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 is now committed to GitHub alongside its source record, ASR navigation, and sports excerpts. The audio remains a first-person interview requiring manual listening before transcript-level quotation; preserve the internal football/professional-status tension and do not upgrade it to professional status without independent records.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest audio-boundary checkpoint: on 2026-08-08 `SRC-198/C-932` promoted three timestamp-focused Research Cast UK listening clips to GitHub. The 107,519,809-byte parent MP3 remains local-only because it exceeds GitHub’s 100 MiB hard limit; C-117–C-119 remain ASR-derived/audio leads requiring manual listening, not verified quotations. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest video-preservation checkpoint: on 2026-08-08 `SRC-210/C-931` promoted the 64,075,107-byte Sage *Social Science Space* interview MP4 to GitHub alongside captions, metadata, and thumbnail; the transcript-bearing publisher page and oEmbed capture remain preserved. The source supports a dated interview and Arday’s series-editor/self-description framing, not independent verification of every role or opinion. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest audio-preservation checkpoint: on 2026-08-08 `SRC-184/C-930` promoted the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 to GitHub. The ASR derivatives and football/snooker excerpts remain explicitly navigation aids; manual listening is still required, and the internal “professional club”/“not good enough to become a professional” tension remains unresolved. Google Drive was not updated; GitHub remains the active publication target.

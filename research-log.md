@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-198/C-932: Research Cast UK listening clips promoted
+
+Audit: SRC-198 already documented a 107,519,809-byte parent MP3, Whisper segment JSON, and three timestamp-focused clips, but the clips were not tracked in Git. The parent is above GitHub’s 100 MiB hard limit.
+
+Archive action: checksum-validated and committed the C-117, C-118, and C-119 MP3 clips. Their parent-audio hash remains the integrity anchor, and the parent remains local-only.
+
+Decision: added C-932 as an archive-integrity observation. The clips improve reproducibility for the existing educator/family/sport audio leads; they are not independent sources and do not upgrade the ASR-derived wording to verified transcription. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-210/C-931: Sage interview video promoted
 
 Audit: SRC-210 already documented the publisher page and transcript, the 27:18.56 YouTube video, automatic captions, thumbnail, metadata, and oEmbed capture, but the 64,075,107-byte MP4 and its YouTube sidecars were not tracked in Git.
