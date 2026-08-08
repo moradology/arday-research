@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 07 Aug 2026 12:11:01 GMT
+Server: Apache
+X-Redirect-ID: 151
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cache-Control: must-revalidate, no-cache, private
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Location: /home
+Content-Length: 266
+Content-Type: text/html; charset=utf-8
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 06 Aug 2026 11:03:36 GMT
+Server: Apache
+X-Drupal-Route-Normalizer: 1
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cache-Control: must-revalidate, no-cache, private
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Location: https://faculty.educ.cam.ac.uk/
+Content-Length: 370
+Content-Type: text/html; charset=utf-8
+
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 11:03:36 GMT
+Server: Apache
+Cache-Control: must-revalidate, no-cache, private
+X-Drupal-Dynamic-Cache: MISS
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Content-Length: 58365
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+

@@ -2840,3 +2840,11 @@ Lead: Cofnas’s preserved Arday/Hiraldo comparison image identified Hiraldo (20
 Capture: a DSpace search API query recovered the exact UVM ScholarWorks item, its metadata and bundle records, and a public seven-page PDF. The PDF and extracted text are preserved locally with response headers and SHA-256. Printed pp. 53–54 confirm the CRT passage sequence displayed in the comparison image.
 
 Decision: added SRC-575/C-750 as a primary comparator recovery linked to SRC-424. This strengthens the source-side textual audit while leaving the Arday full-text context, ordinary paraphrase versus deficient attribution, intent, and any institutional finding unresolved. The earlier landing capture is not treated as the primary article body.
+
+## 2026-08-08 — SRC-576/C-751 Cambridge migrated-host profile boundary
+
+Lead: current search indexing exposed a Faculty of Education profile on the migrated `faculty.educ.cam.ac.uk` host, with current-looking profile text and Arday’s Cambridge role.
+
+Capture: the direct profile route redirected to the Faculty home page. The migrated “Our people” route returned HTTP 200 but contained no exact Jason Arday occurrence. Both response bodies and headers are preserved. The indexed profile was treated as a separate stale/index manifestation, not as a substitute for the direct response.
+
+Decision: added SRC-576/C-751 as a current route/version boundary linked to SRC-208 and SRC-574. It strengthens the indexed/live mismatch and preserves the profile’s role wording as a source-version, but it does not establish resignation consequences, current employment, or the reason for the route change.
