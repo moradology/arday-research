@@ -19,6 +19,10 @@ Durham catalogs Arday’s 2020 chapter in D. Tran’s *Decolonizing University T
 
 The repository and publisher records establish the chapter’s bibliographic trail and contribution, but not the full chapter text. The 2020 repository year is retained as the output/catalog year; the publisher’s 2021 book date is retained separately. Search indexing continues to expose a TransReads PDF mirror whose contents preview identifies the same chapter, but the exact mirror request on 8 August 2026 returned WordPress HTTP 403 requiring authorization. The Bloomsbury US route also returned a Cloudflare HTTP 403. No chapter PDF was recovered from either route, and the indexed snippet is not treated as an authorized text source.
 
+## Search-index versus live endpoint
+
+An 8 August 2026 exact-title search still surfaced the TransReads PDF URL and a search-indexed contents excerpt naming Arday’s chapter. Opening that indexed result through the web retrieval layer reported HTTP 404, while a direct shell request to the same URL returned the previously preserved WordPress HTTP 403 authorization response. These are access-state observations about a stale or unreliable mirror, not evidence that the chapter file is currently obtainable. The mirror is not promoted to a source text and no unofficial full-book binary is archived.
+
 ## Local preservation
 
 - [Publisher 403 body](../assets/documents/bloomsbury-decolonizing-university-teaching-2021-403.html) — SHA-256 `85e8d141d23b6cb314baaaad5a24fda2b31a4752062ac659d7cf9755c37a7800`

@@ -8,6 +8,12 @@ Capture: preserved the current YouTube HTML and response headers plus a fresh 12
 
 Decision: updated SRC-109 in place rather than creating a duplicate source. Reopen only for a changed YouTube/SEB state, a lawful archive replay, a direct media file, captions/transcript, or the programme binary.
 
+## 2026-08-08 — SRC-079: Bloomsbury chapter mirror state reconciled
+
+Recheck: an exact-title search again exposed a TransReads PDF result with a contents snippet naming Arday’s “Trying to Break the Monopoly” chapter. The web retrieval layer reported 404 when opening the indexed PDF URL, while a direct shell request returned the already preserved WordPress HTTP 403 authorization response.
+
+Decision: updated SRC-079 in place to separate stale search indexing from the live endpoint. No unofficial full-book binary was downloaded or promoted, and no chapter-content claim was added. Reopen only for a lawful publisher, library, repository, archive, or author-supplied chapter manifestation.
+
 ## 2026-08-08 — SRC-423/C-844: broad Crossref author recheck
 
 Recheck: a no-date Crossref Works query using `query.author=Jason Arday` returned the 1,000-item ranking cap from 353,684 results. A strict author-list pass found 47 records with given name beginning “Jason” and family name “Arday”; DOI comparison against all source records found zero unmatched DOI/title keys.
