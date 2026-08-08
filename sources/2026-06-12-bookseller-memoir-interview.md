@@ -5,13 +5,17 @@ title: "Jason Arday on his remarkable journey from non-verbal child to Cambridge
 subject: ../entities/jason-arday.md
 published: 2026-06-12
 accessed: 2026-08-08
-status: browser-readable article observed 2026-08-06; 8 August direct route redirects to login; no full local copy claimed
+status: browser-readable article excerpt and credited portrait captured 2026-08-08; visible page ends with “Continues…” and is not treated as the complete interview
 evidence_class: publisher/trade interview; browser-observed article and indexed excerpt
 urls:
   - https://www.thebookseller.com/books/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
   - https://www.thebookseller.com/author-interviews/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
 assets:
   - ../assets/documents/bookseller-arday-memoir-interview-429-2026-08-06.html
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/page.html
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/headers.txt
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg
+  - ../assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt
 ---
 
 # Record
@@ -26,7 +30,9 @@ The article says that after leaving secondary school with two GCSEs, Arday was a
 
 ## Evidence boundary
 
-The article was readable through the web research surface on 6 August 2026, while the direct shell retrieval then returned HTTP 429. On 8 August, the canonical route returned a 302 to the site login page and the final 200 response was a login document, not article text. The earlier 429 boundary and the newer redirect/login chain are both preserved. No full article HTML or transcript is claimed, and the browser observation should not be treated as a locally preserved document or used for verbatim reproduction beyond short research notes.
+The article was readable through the web research surface on 6 August 2026, while the direct shell retrieval then returned HTTP 429. A subsequent 8 August request returned HTTP 200 with the visible article excerpt and the credited Kim Lang portrait; the captured HTML presents the public section and then ends with “Continues…”. The earlier 429 boundary and the later public excerpt are both preserved. This is not a claim to have recovered the complete interview, and the memoir-derived biography remains self-report/trade-interview material rather than independent corroboration.
+
+The 8 August capture makes the visible source wording auditable: it attributes the familiar birth/diagnosis/speech/literacy account to the memoir, describes the goal written on a bedroom wall at age 27, reports the two-GCSE/BTEC/Sandro passage, and includes Arday’s statement that his work is scrutinised more than that of white colleagues. It also records the article’s account of his mother’s naming story, Debs, his two brothers, the midwife anecdote, and the memoir’s Icarus framing. These are preserved as source-version claims; the capture does not independently verify the underlying childhood, family, educational, or medical details.
 
 ## Link
 
@@ -35,3 +41,7 @@ The article was readable through the web research surface on 6 August 2026, whil
 - [Local HTTP-429 boundary](../assets/documents/bookseller-arday-memoir-interview-429-2026-08-06.html) — SHA-256 `dd05b5d3934ecd003b205008ab2e3abd554ee87f55665ab016d44fa7fffe67fe`
 - [8 August canonical-route/login capture](../assets/captures/2026-08-08-bookseller-memoir-interview-recheck/correct.html)
 - [8 August redirect/login headers](../assets/captures/2026-08-08-bookseller-memoir-interview-recheck/correct.headers.txt)
+- [8 August public excerpt](../assets/captures/2026-08-08-bookseller-memoir-interview-current/page.html) — SHA-256 `44d804900c825ab081343791fb002789d5964758348f7278c6655bdf4d16a691`.
+- [8 August public-excerpt headers](../assets/captures/2026-08-08-bookseller-memoir-interview-current/headers.txt) — SHA-256 `e47420cff1d91d06ed0e7b16bc35c0e2b2e8eb5210bc5d2348924a02eda0ac36`.
+- [Credited Kim Lang portrait](../assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg) — 1920×1080 JPEG; SHA-256 `21231ff183b061e2d6248f9b9fd0a1cb9f48dd70a9786a59bed3abf8fac1d4bf`.
+- [Portrait response headers](../assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt) — SHA-256 `cbe73fa94de02d30d5c3c7e6ae673cef3fdda442cd0f473bdbdc491c72b75a37`.

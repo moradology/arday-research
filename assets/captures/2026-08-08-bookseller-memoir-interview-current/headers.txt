@@ -1,0 +1,18 @@
+HTTP/2 200
+date: Sat, 08 Aug 2026 11:27:07 GMT
+content-type: text/html;charset=UTF-8
+content-length: 121926
+set-cookie: AWSALB=QJiMI4ai2LYfEQX2r06I5P+BZOZGhOeSZ97JeO2XNa7u9TaN3WID1S+gdqMsacI468V1LB2HsaoJMFJzNp1wysdK91nNeIjmSHm9TdC2gXstCsABtUm6r1cOyCWB; Expires=Sat, 15 Aug 2026 11:27:07 GMT; Path=/
+set-cookie: AWSALBCORS=QJiMI4ai2LYfEQX2r06I5P+BZOZGhOeSZ97JeO2XNa7u9TaN3WID1S+gdqMsacI468V1LB2HsaoJMFJzNp1wysdK91nNeIjmSHm9TdC2gXstCsABtUm6r1cOyCWB; Expires=Sat, 15 Aug 2026 11:27:07 GMT; Path=/; SameSite=None; Secure
+server: Apache
+content-security-policy: frame-ancestors 'self' *.affino.com;
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: geolocation=(), camera=(), microphone=()
+content-language: en-GB
+set-cookie: JSESSIONID=248CDC7AFEFC503E9ADFDBAF9F0088E4; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: VISITOR=%7B%22PC%22%3A%22A561CD13F3F14E45A719241889FEDB57%22%2C%22VERIFY%22%3A%22197D6AF79C57BD4553682E99D66EE16F%22%7D;Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 19:18:37 GMT;HttpOnly;SameSite=Lax
+vary: Accept-Encoding,Origin
+strict-transport-security: max-age=63072000

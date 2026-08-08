@@ -1,0 +1,21 @@
+HTTP/2 200
+content-type: image/jpeg
+content-length: 102329
+date: Sat, 08 Aug 2026 11:27:22 GMT
+strict-transport-security: max-age=63072000
+server: Apache
+content-security-policy: frame-ancestors 'self' *.affino.com;
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: geolocation=(), camera=(), microphone=()
+last-modified: Thu, 11 Jun 2026 17:22:17 GMT
+etag: "18fb9-653fd9a1ce729"
+accept-ranges: bytes
+cache-control: max-age=1209600, public
+x-cache: Miss from cloudfront
+via: 1.1 976b4c2ec674e3c69d14f5949069a784.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P4
+x-amz-cf-id: qBeNYecl8GtZNkwJ7vvBEbsWoUCd6JtL-KCCd4F7FeQmuX7KUlp64w==
+vary: Origin

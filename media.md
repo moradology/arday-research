@@ -69,6 +69,8 @@
 
 ## Images
 
+- **Jason Arday — *The Bookseller* memoir-interview portrait** | 2026-06-12 / captured 2026-08-08 | *The Bookseller* / Kim Lang | credited editorial portrait | [Source record](sources/2026-06-12-bookseller-memoir-interview.md) · [Local JPEG](assets/captures/2026-08-08-bookseller-memoir-interview-current/portrait.jpg) · [Image headers](assets/captures/2026-08-08-bookseller-memoir-interview-current/image.headers.txt) | 1920×1080 public page-linked image; EXIF credits Kim Lang; reuse rights not assessed
+
 - **Jason Arday — Autism Research Centre profile portrait** | 2026-08-08 capture | [Source record](sources/2026-08-08-autism-research-centre-profile.md) · [Local JPG](assets/captures/2026-08-08-autism-research-centre-profile/jason-arday.jpg) | institution-hosted profile portrait; provenance and source-version preserved
 
 | *The Free Press* hero image for “Who Had to Lose for Jason Arday to Win?” | 2026-08-05 | *The Free Press* / Yuan Yi Zhu | editorial-analysis image | [Source record](sources/2026-08-05-free-press-arday-analysis.md) · [Local PNG](assets/captures/2026-08-08-free-press-arday/hero.png) | 1800×1200 public hero image; image provenance/depiction is recorded separately from the article’s claims |

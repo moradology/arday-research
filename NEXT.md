@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-interview access checkpoint: SRC-131/C-127/C-171 — on 8 August 2026 the canonical *Bookseller* route changed from the earlier 302/login boundary to an HTTP-200 public HTML excerpt. The visible section records memoir-attributed childhood, goal-list, BTEC/Sandro, family, and scrutiny passages, and the credited Kim Lang portrait was recovered locally. The page ends with “Continues…”; do not treat it as the complete interview or as independent corroboration. Reopen only for a distinct public continuation, lawful full article, correction, or primary record.
+
 Fresh scholarly-index checkpoint: SRC-607/C-808 — the 8 August 2026 OpenAlex author/work query returned the same 56-work set and no new DOI/title key. The raw author and works responses are preserved under `assets/captures/2026-08-08-scholarly-index-audit/`. Reopen only after a changed work set or a concrete publisher, repository, catalogue, or full-text lead; do not repeat this exact query in the current state.
 
 Fresh repository-media checkpoint: SRC-608/C-809–C-810 — Durham’s indexed repository output list classifies “Research in Focus with Jason Arday” (2019) as a UKCGE digital artefact credited to Arday. The direct repository page returned a Cloudflare 403 challenge, so no recording, transcript, duration, or media file was recovered. Reopen only for a lawful accessible page, UKCGE mirror, transcript, or media endpoint; do not treat the indexed record as the recording itself.
