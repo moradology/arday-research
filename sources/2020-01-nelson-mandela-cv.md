@@ -28,3 +28,4 @@ This is a dated self/hosted professional CV, useful primary evidence for the lis
 
 - [Current host response](../assets/documents/nelson-mandela-jason-arday-cv-2020-access-boundary.html) — 28,965 bytes; SHA-256 `7a16e963f5b1ac12c5372163e0834fa37585a2be76caef9e645fddf12dec73b`.
 - [Indexed extract captured 2026-08-07](../assets/captures/2026-08-07-nelson-mandela-cv-indexed-extract/README.md) — preserves the candidate-selection wording; not a recovered CV binary.
+- [8 August 2026 recheck](../assets/metadata/nelson-mandela-cv-capture-2026-08-08.md) — the exact PDF endpoint again returned HTTP 404; the 30,633-byte HTML response and headers are preserved, with no PDF bytes recovered.

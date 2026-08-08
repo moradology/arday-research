@@ -2554,3 +2554,9 @@ Captured the official Guardian episode page, RSS feed, direct audio enclosure, r
 Evidence handling: added SRC-514 and C-644–C-645. The actual MP3 is preserved as a local binary, but no detailed audio claims or timecodes are made because no transcript/captions were exposed and manual listening has not yet been completed. The next action is bounded manual transcription/listening, not another page or feed fetch.
 
 Update: a local MLX Whisper small-model pass over the MP3 produced 500 English segments. Rather than publish a full machine transcript, added bounded paraphrased listening notes with approximate time ranges. The notes identify new source leads and media provenance for the “7 Up” account, WaterAid/visiting-professor/book claims, fundraising syndicate explanation, TES/Carter-Ruck history, and the Guardian reporter’s checks of alleged intimidation. Added C-646–C-651; all remain appropriately attributed and the original MP3 remains controlling for exact wording.
+
+## 2026-08-08 — SRC-086 CV endpoint recheck
+
+Rechecked the exact Nelson Mandela University URL for the January 2020 CV after a search-index result resurfaced the PDF text. The endpoint returned HTTP 404 with an HTML body, not a PDF; the 30,633-byte response and headers are preserved under `assets/documents/nelson-mandela-cv-2020-08-08/` and documented in `assets/metadata/nelson-mandela-cv-capture-2026-08-08.md`.
+
+Decision: this is a changed access-state observation, not a new CV source or a recovery of the indexed document. The dated indexed extract remains bounded as self/host-published source-level evidence; no current appointment, qualification, or role claim is upgraded from it.
