@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-032/C-951: complete PBS audio derivative created
+
+Archive action: converted the 629,632,856-byte parent MP4 to a complete 26,004,790-byte AAC `.m4a` derivative at 128 kb/s. The derivative runs 26:45.98, passed `afinfo` duration/format inspection and FFmpeg decode validation, and has SHA-256 `53a74861875566fb70a5009e6ee29506a9c8af7f7bc1b9c8e084c428f556783c`.
+
+Decision: added C-951 as an archive-integrity observation. This closes the GitHub handoff gap for the complete PBS programme while retaining the parent MP4 as the visual integrity anchor. The derivative is not a transcript and does not change the source-attribution boundary. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-157/C-950: complete ARU Unlearn audio segmented for GitHub
 
 Archive action: converted the 563,815,460-byte parent MP4 into three complete AAC `.m4a` segments: 56,484,181 bytes for 00:00–30:00, 56,456,673 bytes for 30:00–60:00, and 65,782,921 bytes for 60:00–1:35:35.02. Their SHA-256 values are `fdfd8552b99fd3fc50af61175fd375d5f20f992e623e65356f36b0cf92b622c1`, `d9f0dc52e937aa6be6b0031fec7eba84b9694db0edd26bd3d875c8f0f3e9a8bb`, and `dd5c040cd517d49dba662245682123f1338d25aa4d20e23dfd3590922650d2b6`; each passed `afinfo` duration/format inspection and FFmpeg decode validation.

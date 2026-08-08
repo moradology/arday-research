@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-032/C-951 — the complete 26:46 PBS *The Importance of Early Intervention* programme is now available as a 26,004,790-byte AAC derivative on GitHub. The 629,632,856-byte parent MP4 remains local-only; broadcast narration and Arday’s statements remain attributed rather than independently corroborated.
+
 Fresh complete-derivative checkpoint: SRC-157/C-950 — the complete 1:35:35.02 ARU Unlearn recording is now available as three AAC review segments on GitHub (00:00–30:00, 30:00–60:00, and 60:00–1:35:35.02). The 563,815,460-byte parent MP4 remains local-only; no substantive video claim was added.
 
 Fresh complete-derivative checkpoint: SRC-031/C-949 — the complete 42:07.72 UCL “Learning to Fly” keynote is now available as a 79,874,586-byte AAC derivative on GitHub. The 248M parent MP4 remains local-only; the derivative is a review copy, not a transcript, and the slide deck remains the separate authored presentation artifact.
