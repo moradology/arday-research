@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Date: Sat, 08 Aug 2026 08:23:36 GMT
+Server: Apache
+Cache-Control: must-revalidate, no-cache, private
+X-Drupal-Dynamic-Cache: UNCACHEABLE (poor cacheability)
+X-Drupal-Cache: MISS
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+Content-Length: 37539
+Content-Type: text/html; charset=UTF-8
+
