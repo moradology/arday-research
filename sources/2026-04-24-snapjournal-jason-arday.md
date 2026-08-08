@@ -15,6 +15,7 @@ assets:
   - ../assets/captures/2026-04-24-snapjournal-jason-arday/wp-post-4740.json
   - ../assets/captures/2026-04-24-snapjournal-jason-arday/jason-arday.jpg
   - ../assets/captures/2026-04-24-snapjournal-jason-arday/page.headers.txt
+  - ../assets/captures/2026-04-24-snapjournal-jason-arday/page-recheck-2026-08-08.headers.txt
   - ../assets/captures/2026-04-24-snapjournal-jason-arday/wp-api.headers.txt
   - ../assets/captures/2026-04-24-snapjournal-jason-arday/image.headers.txt
 ---
@@ -39,3 +40,7 @@ This record verifies only that the page existed, its publication metadata, its u
 - [Image headers](../assets/captures/2026-04-24-snapjournal-jason-arday/image.headers.txt) — SHA-256 `4f60ffaa765d454c5976f3e1550860677a18daa949137582e19b1d5f970b2ffd`
 
 Image rights and reuse permissions are unknown; local preservation is for provenance.
+
+## 8 August 2026 access recheck
+
+The canonical article URL returned HTTP 403 from an `hcdn` server on 8 August 2026. The changed response headers are preserved as [page-recheck-2026-08-08.headers.txt](../assets/captures/2026-04-24-snapjournal-jason-arday/page-recheck-2026-08-08.headers.txt), SHA-256 `39c73f5951dfc6556f4b9a5ef78ebf69ab55c49542e4cf912eb813340d13eb51`. This records a changed access state only; the earlier locally preserved HTML/API/image remain the substantive source manifestation.

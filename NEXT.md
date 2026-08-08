@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh changed-access checkpoint: SRC-319/C-883 — SnapJournal’s canonical 24 April 2026 biography URL returned HTTP 403 on 8 August 2026; the earlier HTML/API/image capture remains locally preserved. No duplicate source was created. Reopen only for a changed lawful endpoint, archived replay, correction, or primary source behind its claims; do not repeat the unchanged article search.
+
 Fresh post-event delivery checkpoint: SRC-641/C-880–C-881 — Training Magazine’s 9 May 2024 report identifies Arday as Day 1 keynoter at the February Orlando conference, describes a Day-O audience callback, and prints an attributed quotation. The HTML, headers, and source-associated award-winners collage are locally preserved. Reopen only for a complete recording, audio, transcript, event photographs showing Arday, or a corrected/changed article; do not treat the collage as an Arday portrait.
 
 Fresh conference/media checkpoint: SRC-640/C-877–C-879 — UEL/OIE’s 28 April 2025 Ethnicity Pay Gap Conference page schedules Arday on a 14:50–15:45 panel; its media page exposes three recordings, including a 44:08 Part 3 containing that panel in metadata. The HLS token returned 401 and the UEL report PDF returned Akamai 403. Reopen only for a refreshed Wix token, lawful video binary/captions/transcript, the report PDF, or a post-event text artifact; do not infer delivery or remarks from the listing.

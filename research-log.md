@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-319/C-883: SnapJournal access-state recheck deduplicated
+
+Recheck: the canonical SnapJournal biography URL, already catalogued as SRC-319, returned HTTP 403 from an `hcdn` server. The prior page/API/image capture remains the substantive source manifestation.
+
+Decision: preserved the changed response headers under the existing SnapJournal capture directory and added C-883 as an access-state observation. No duplicate source ID was created; the article remains a low-provenance propagation witness rather than biography corroboration.
+
 ## 2026-08-08 — SRC-641/C-880–C-881: Training 2024 post-event report recovered
 
 Discovery: a fresh search found Training Magazine’s official 9 May 2024 post-event article, “Tuned in to Training,” for the February 2024 Orlando conference.
