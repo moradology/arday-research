@@ -1,0 +1,35 @@
+HTTP/2 200
+date: Sat, 08 Aug 2026 11:21:58 GMT
+content-type: text/javascript; charset=utf-8
+content-length: 1309
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: cart_currency=GBP; path=/; expires=Sat, 22 Aug 2026 11:21:58 GMT; SameSite=Lax
+set-cookie: _shopify_y=aed93b89-1934-4f39-ada0-ac1e4614cb13; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 17:21:58 GMT; SameSite=Lax
+set-cookie: _shopify_s=33e932c3-b8de-4108-94a2-36f40cfe1d87; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 11:51:58 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AZ_hG7lrAAEAJ3rO5x0lPVICzk7daXZTZqHKL8IJb9_viRSOBSBJFPdmmlLtzjHarT9Xd9oqeOEkmZRhu_9TlmRJye7ldCkMDsdYSiVRAtdMXBBScKc6QzqSdnAHQ3DSyeXj3virX1qw0-kteMA07OD1BIrL89CXFOFgSZpjE8hwnKb3mBGVCsadE4cOG2FLcz1yeP2y5lq7pdqbgEEQBovuK-CXdMd-_pDGacbmrY3mjsjbYM7jHnp4KzW_-rxheVQk5YiyAdQkACG59Sl09zdL7Ui-2xvpV-asvrZna9e-070S-DMaieFpxOPjdD2DSzV2TtxWGzs1YCNw6wwMDmOSDesiuLmg_MCLydPMB7hV2ARcbwh-32rkPndKyuw9OM1A2X02GSZPy0RfGzbdqaJat6GzBqriTlQjiOpZAKSb1ajjLVPUocOS_fsx2E28RRgz4vgCAZvS4SbJ_HFEOuL5ICelekmI19amDclHw2XjTY7K2gMSLBjMAu53okMXalxZUAd358I:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AZ_hG7mLAAEAA2yOFzTVeiY9L6dS_rJ0Cyn_TYUSWSiH9woDajlJDmNwgieIFupYD8Yq_DeGqPx6HSFQrGNS0Jv9Vozc_Rc-inF8x9XkYzGdHoe9EX9FlRahF5NJO5MTFw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AZ_hG7mLAAEA6FbMlAYOg8-ADmZG2lz1IijL6c7Q_N3UiS1jAi-M-oBBASwrUZ02ZWCfiEz_4L16kGkvkBhCpzu3ChAZjKQGbxaYEGTZig57SJxeWAxzqupPgb3ROLcUVw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+etag: "page_cache:17016275:ProductDetailsController:4540817f7a524ae089b0929ff0bd3412"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 0
+shopify-complexity-score-v2: 42
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+vary: Accept
+vary: accept-encoding
+alt-svc: h3=":443"; ma=86400
+content-language: en-GB
+powered-by: Shopify
+server-timing: processing;dur=48, db;dur=17, asn;desc="14155", edge;desc="OMA", country;desc="US", servedBy;desc="vgjv", requestID;desc="854e8d58-2c93-4cac-a54a-37d452930475-1786188118", _y;desc="aed93b89-1934-4f39-ada0-ac1e4614cb13", _s;desc="33e932c3-b8de-4108-94a2-36f40cfe1d87", _cmp;desc="3.AMPS_USKS_f_f_rq75dhVbSWaEh1yjUpQ47w", compressionLevel;desc="5", compressionTime;dur=0.941
+x-permitted-cross-domain-policies: none
+server: cloudflare
+x-xss-protection: 1; mode=block
+x-request-id: 854e8d58-2c93-4cac-a54a-37d452930475-1786188118
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AmtuZi9XA4XXXR9lFj7J1X37F0rf1CxDpiGxKicoFFhoQswn91iQHy1Soave%2B4LVsmNxlxTkdEyCUTAQ6zSjHGnqUrSuOAZpfxcaxCJKRbLKLeTsfIM9XsGSE31BWtu82O0UjUNN6%2FiSEmM%3D"}]}
+x-content-type-options: nosniff
+cf-ray: a27e23fb9d33d3d3-OMA

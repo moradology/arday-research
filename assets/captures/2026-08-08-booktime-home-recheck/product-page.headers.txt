@@ -1,0 +1,40 @@
+HTTP/2 103
+link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; crossorigin; rel=preconnect, <https://storefront-agent-server.shopify.ai>; rel=preconnect, <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/fancybox.css?v=30466120580444283401714067187>; as=style; rel=preload, <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/styles.css?v=5821402451730318981759333439>; as=style; rel=preload, <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/base.css?v=21866005406391207421715105650>; as=style; rel=preload, <https://cdn.shopify.com/extensions/019ef306-2759-7ade-a464-16a3c1688076/giftsy-9/assets/load-tex-wrapin.css>; as=style; rel=preload, <https://www.harbourbookshop.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as=style; crossorigin; rel=preload
+
+HTTP/2 200
+date: Sat, 08 Aug 2026 11:21:58 GMT
+content-type: text/html; charset=utf-8
+content-length: 62589
+x-download-options: noopen
+cf-cache-status: DYNAMIC
+set-cookie: localization=GB; path=/; expires=Sun, 08 Aug 2027 11:21:58 GMT; SameSite=Lax
+set-cookie: cart_currency=GBP; path=/; expires=Sat, 22 Aug 2026 11:21:58 GMT; SameSite=Lax
+set-cookie: _shopify_y=19f17db9-63da-4b8f-8d2e-539163d39cb1; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 17:21:58 GMT; SameSite=Lax
+set-cookie: _shopify_s=e6a423d9-69ef-4a0f-b611-807e8179e85a; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 11:51:58 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AZ_hG7pMAAEAbooZ8n9TiZN2H5Pdb-ssdhN0EIwKFgN8JhFVOSQjbZtnitF6EGvSRuoN97BY_o3Su5RXjatrbzY8QdFldulTx5wEd7IXCeiNOMn6epk5LLHzdvvFbRpLIUc1rXTdrFNnru_78qeeCvJdhcvrly2gsSksRg6pFRtAXdSLWtgRxNp8h_f3bDnJVhPWYDYjjCg-fjhT641sNL1WHHdgoibEtiV300mxtqyLywYyj5QLfCs_lJaJdPVQ3hAfIi4rSnJLMv0SjwTJUMjC3zR9E5AUT8JUF-cf5AcV8ABQXX-WMUMo6Wt7Pf55QDuveQ4TLoDR1u9ujq1PrQOCXjy-WisVqgG_vn28dx92vVOCmUi8KGA_rnaKcQ5pTr_WUJMTzqIfv9grcTpHnU1X2hdEP7ITeslj-UgDNBPvPiWK23Dhy0DAz3wVjI__2_EcGeuPdgCoYTxauiKdT-eyKMb8fLBs6MDl8fveiDjIks-ReD3vgX6eIVGDrO_evUihWoR8JZPyUcVlUyG4Z4eDxM86aPnXQYV9Dkn3ToJEMdIK44xQzspWVHQeuzNZ6w:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AZ_hG7r2AAEARPFOYB37knLoL1Z366nDmwx_5vABQpvU6_dp9_kTbjNK7Yx4VteuQ45KnrzVQVnXpbNfBx2N_O5Hx8jv1PdXrOlWbP9Fy4LRm0-9pQAaRjRFlUqsIH9084sMau6TYUg04ANlVE9jxtdz-A-9Zxs1iKIcPR0tsLBc1uyZ5eUgKulJWwLHHd20oUFrIhJGFrdGIu2n0ytZiNZfOuBTjQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=:AZ_hG7r3AAEAubWVZf-6KYpVYtRDxvZqg5OjWNTUJ4lVEPV3xBn4ezHH68XW1o0623Fq5OiZLZoBGw-z1U1U9rmcGsEbK2ks4-NffOCmVwt6Ke-1eTDXH3puT1w0EL-VOw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://storefront-agent-server.shopify.ai>; rel="preconnect", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/fancybox.css?v=30466120580444283401714067187>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/styles.css?v=5821402451730318981759333439>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/base.css?v=21866005406391207421715105650>; as="style"; rel="preload", <https://cdn.shopify.com/extensions/019ef306-2759-7ade-a464-16a3c1688076/giftsy-9/assets/load-tex-wrapin.css>; as="style"; rel="preload", <https://www.harbourbookshop.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as="style"; rel="preload"; crossorigin
+etag: "page_cache:17016275:ProductDetailsController:ffcd6d4bdb76158c222afbe7f031de25"
+content-encoding: br
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+shopify-complexity-score: 0
+shopify-complexity-score-v2: 186
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+vary: Accept
+vary: accept-encoding
+alt-svc: h3=":443"; ma=86400
+content-language: en-GB
+powered-by: Shopify
+server-timing: processing;dur=190;desc="gc:2", db;dur=59, db_async;dur=3.442, render;dur=75, asn;desc="14155", edge;desc="OMA", country;desc="US", theme;desc="140075139299", pageType;desc="product", servedBy;desc="wv8j", requestID;desc="3dbeb668-bd08-4245-90b2-4c94b216b133-1786188118", _y;desc="19f17db9-63da-4b8f-8d2e-539163d39cb1", _s;desc="e6a423d9-69ef-4a0f-b611-807e8179e85a", _cmp;desc="3.AMPS_USKS_f_f_jubKAFh4Rv6FOpQ*7jZVTQ", compressionLevel;desc="5", compressionTime;dur=9.251, earlyhints
+x-permitted-cross-domain-policies: none
+server: cloudflare
+x-xss-protection: 1; mode=block
+x-request-id: 3dbeb668-bd08-4245-90b2-4c94b216b133-1786188118
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mZJWsetgLHaMdsuLTexCMM3o88q%2BZga485nMAnCXGB%2BN%2BnIMM6jeWvBZ4LFqy8wSPuo3%2FCcc%2BqBZO9BjzgNuxeNp5utQ3VZ5qDjGdslFmimBJIc19ouFS2Qz1W7pkMBlU0uzaGN6J1udMzQ%3D"}]}
+x-content-type-options: nosniff
+x-dc: gcp-us-central1,gcp-us-central1,gcp-us-central1
+cf-ray: a27e23fcfbc5c6b3-OMA

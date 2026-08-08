@@ -374,6 +374,8 @@ Capture: preserved the product HTML, response headers, Shopify product JSON, JSO
 
 Evidence handling: the title’s “FREE TO DOWNLOAD” wording did not correspond to a public PDF or page-29 file in the captured endpoint. Added SRC-522 and C-666 as a distinct trade-publication lead/source-version, without claiming the interview’s contents. Reopen only for the magazine PDF, page image, lawful mirror, or interview text.
 
+Recheck: the Harbour Bookshop home page, product page, and Shopify `.js` product endpoint were fetched on 8 August 2026. The product is listed at zero price with `requires_shipping: true` and inventory 25; the JSON and rendered page expose only the cover image and no PDF, page-29 image, download URL, or interview body. This narrows the public access boundary but does not establish whether a file could be supplied after checkout or through a private channel. The new HTML/JSON/header captures are attached to SRC-522; no new claim about the interview was promoted.
+
 # 2026-08-08 — SRC-521/C-665: UKRI Gateway identity-mismatch recheck
 
 Discovery: public indexing continued to return the official UKRI Gateway result for Jason Arday and EDICa, while the canonical direct URL had previously rendered “Kevin Wilson.”
