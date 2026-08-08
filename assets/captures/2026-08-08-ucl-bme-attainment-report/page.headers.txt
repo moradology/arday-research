@@ -1,0 +1,36 @@
+HTTP/2 302 
+date: Sat, 08 Aug 2026 08:01:00 GMT
+content-type: text/html; charset=UTF-8
+content-length: 0
+location: https://www.ucl.ac.uk/teaching-learning/user/login?destination=node/4215
+cf-ray: a27cfd944a39ef9e-OMA
+cf-cache-status: MISS
+cache-control: no-cache, must-revalidate
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=3L8qyqzPiqs7XkGTXKGJili7BoWiL7Q_d0lf3ptYk8Y-1786176059.5687656-1.0.1.1-3uYLvNjdqkVDnPgB2tqV9B1SvPRY38uHCOpbA3BY9wCp5LuiWYvAnp8y5NPfRwNrt0Fe0iorA.mEXtgYYWJ_KyxjvQDAzE0JH4LU8bWHEcUJFaJKPSZDLJwZDzCaGOxa; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Sat, 08 Aug 2026 08:31:00 GMT
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 08:01:00 GMT
+content-type: text/html; charset=utf-8
+cf-ray: a27cfd97bd03ef9e-OMA
+cf-cache-status: MISS
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=86400
+set-cookie: __cf_bm=oJzdQppp.mW.4i0h1Z5R0aZ1TrKERNPkq8mm3ZnIax8-1786176060.1152222-1.0.1.1-ZgkKsS9PnfiKAm3QGhEX.V0fn7cpWZWPuvGdSj94fMvlJroDWMV0UNpD6nsY2TrgEgAXdnTAUqMvz9m_Nrr5qzC1Z4HjtWYQLQzeMWS8wMWGoHCrjdRB22.N0pDQBbGE; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Sat, 08 Aug 2026 08:31:00 GMT
+content-language: en
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Fri, 07 Aug 2026 12:07:59 GMT
+link: <https://www.ucl.ac.uk/teaching-learning/user/login>; rel="canonical"
+server: cloudflare
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Cookie, Accept-Encoding
+x-content-type-options: nosniff
+x-content-type-options: nosniff
+etag: W/"1786104479-1"
+

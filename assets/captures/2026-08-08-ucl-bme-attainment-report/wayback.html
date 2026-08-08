@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]>
+<html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="author" content="UCL"/>
+  <meta property="og:profile_id" content="uclofficial"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://www.ucl.ac.uk/teaching-learning/sites/all/themes/indigo/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Conference launches project to ensure success for all students" />
+<meta name="ucl:audience" content="staff" />
+<link rel="canonical" href="https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" />
+<meta name="ucl:sanitized_audience" content="staff" />
+<meta name="ucl:org_unit" content="VP: Education" />
+<meta name="ucl:sanitized_org_unit" content="VP: Education" />
+<meta property="og:site_name" content="Teaching &amp; Learning" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="BME attainment gap at UCL ‘unacceptable’, says Provost" />
+<meta property="og:url" content="https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" />
+<meta name="ucl:subject" content="BME attainment, inclusion" />
+<meta name="ucl:sanitized_subject" content="BME attainment|inclusion" />
+<meta property="og:image" content="https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/bme_conference_2018_800x500.jpg" />
+<meta name="ucl:communication_type" content="News" />
+<meta name="ucl:sanitized_communication_type" content="News" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="BME attainment gap at UCL ‘unacceptable’, says Provost" />
+<meta name="twitter:url" content="https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" />
+<meta name="twitter:description" content="Conference launches project to ensure success for all students" />
+<meta name="twitter:image" content="https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/bme_conference_2018_800x500.jpg" />
+<meta property="article:published_time" content="2018-04-18T00:00:00+01:00" />
+<meta property="article:modified_time" content="2019-05-13T19:36:53+01:00" />
+  <title>BME attainment gap at UCL ‘unacceptable’, says Provost | Teaching & Learning - UCL - London's Global University</title>
+  <link href="//cdn.ucl.ac.uk/skins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="//cdn.ucl.ac.uk/indigo/css/screen.min.css"
+        media="screen, projection" rel="stylesheet" type="text/css"/>
+  <link href="//cdn.ucl.ac.uk/skins/UCLDrupalIndigoSkin/default-theme/css/print.min.css"
+        media="print" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" media="screen, projection" href="//cdn.ucl.ac.uk/skins/UCLDrupalIndigoSkin/default-theme/css/brightbluebrightgreen.min.css?pvx73e">    <link rel="stylesheet" media="screen, projection"
+        href="//cdn.ucl.ac.uk/silva/UCLDefaultLayoutV4/css/screen/uclSearch.min.css">
+  <!--[if IE]>
+  <link href="//cdn.ucl.ac.uk/indigo/css/ie.min.css"
+        rel="stylesheet"/><![endif]-->
+  <!--[if lt IE 8]>
+  <link href="//cdn.ucl.ac.uk/indigo/css/ie-old.min.css"
+        rel="stylesheet"/><![endif]-->
+  <style type="text/css" media="all">
+    .media:before {
+      display: inline;
+    }
+
+    .media:after {
+      display: inline;
+    }
+  </style>
+ <!--  fallbacks for Drupal default favicon -->
+  <link rel="apple-touch-icon-precomposed" href="//cdn.ucl.ac.uk/indigo/images/favicon-152.png"/>
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage"  href="//cdn.ucl.ac.uk/indigo/images/favicon-144.png"/>
+  <style type="text/css" media="all">
+@import url("https://www.ucl.ac.uk/teaching-learning/modules/system/system.base.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/modules/system/system.messages.css?pvx73e");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/date/date_api/date.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/modules/field/theme/field.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/modules/node/node.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/custom/ucl_feed_panes/css/ucl-culture-feed-panes.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/views/css/views.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/patched/entity_embed/css/entity_embed.css?pvx73e");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/ctools/css/ctools.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/panels/css/panels.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/features/ucl_admin_theme_config/admin_theme.css?pvx73e");
+@import url("https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?pvx73e");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.photograph--show{background-image:url('https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/banner-option1.jpg');}
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#8c8279;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#8c8279;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/google_tag/google_tag.script.js?pvx73e"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/misc/drupal.js?pvx73e"></script>
+<script type="text/javascript" src="//cdn.ucl.ac.uk/indigo/js/lib/modernizr-custom.js"></script>
+<script type="text/javascript" src="//cdn.ucl.ac.uk/indigo/js/app/cuttingTheMustard.js?pvx73e"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script type="text/javascript" src="//cdn.ucl.ac.uk/indigo/js/lib/require.min.js"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/all/modules/custom/ucl_funnelback/js/embed.js?pvx73e"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/all/modules/custom/ucl_og/og.js?pvx73e"></script>
+<script type="text/javascript" src="//cdn.ucl.ac.uk/skins/UCLDrupalIndigoSkin/default-theme/main.js"></script>
+<script type="text/javascript" defer="defer" src="//apis.google.com/js/platform.js?pvx73e"></script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/all/modules/custom/ucl_wysiwyg/js/media_wysiwyg.filter.js?pvx73e"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require(["app/general","app/tabs","app/searchWithAutoComplete","app/carousel","app/map","app/lightbox"]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/teaching-learning\/","pathPrefix":"","ajaxPageState":{"theme":"indigo","theme_token":"6u5RVxiLvySo_c6UdVts1omVdlnVSeb_9u-dO7J8W0Q","js":{"0":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.ucl.ac.uk\/indigo\/js\/lib\/modernizr-custom.js":1,"\/\/cdn.ucl.ac.uk\/indigo\/js\/app\/cuttingTheMustard.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"\/\/cdn.ucl.ac.uk\/indigo\/js\/lib\/require.min.js":1,"sites\/all\/modules\/custom\/ucl_funnelback\/js\/embed.js":1,"sites\/all\/modules\/custom\/ucl_og\/og.js":1,"\/\/cdn.ucl.ac.uk\/skins\/UCLDrupalIndigoSkin\/default-theme\/main.js":1,"\/\/apis.google.com\/js\/platform.js":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/js\/media_wysiwyg.filter.js":1,"4":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/ucl_feed_panes\/css\/ucl-culture-feed-panes.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/patched\/entity_embed\/css\/entity_embed.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/features\/ucl_admin_theme_config\/admin_theme.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"2":1,"0":1,"1":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button agree-button eu-cookie-compliance-default-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n                \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button agree-button eu-cookie-compliance-default-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n                \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.ucl.ac.uk\/legal-services\/cookies","popup_link_new_window":0,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"ucl.ac.uk","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;We use cookies on this site to enhance your user experience\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You have given your consent for us to set cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"ucl":{"environment":"live","cdnPath":"cdn.ucl.ac.uk"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4215 node-type-news layout-vertical layout-vertical--nav-2col site_teaching-learning section-news section-2018 section-apr section-bme-attainment-gap-ucl-unacceptable-says-provost"  id="bme-attainment-gap-ucl-unacceptable-says-provost">
+<div id="fb-root"></div>
+<script>
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<!--noindex--><header class="header header--desktop">
+  <a class="header__close" href="#"><img src="//cdn.ucl.ac.uk/indigo/images/close.png" alt="X" />Close</a>
+  <div class="masthead"><div class="wrapper clearfix">
+    
+    
+    
+          <div class="masthead__search">
+  <form action="//search2.ucl.ac.uk/s/search.html" method="get">
+    <div class="search-form">
+      <span class="twitter-typeahead" style="position: relative; display: inline-block; width: 100%; direction: ltr;"><input type="search" placeholder="Search UCL websites, degrees, short courses, people and more" class="search-form__input search-form__input--search tt-input" name="query" value="" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span class="tt-dropdown-menu" style="position: fixed; width: 90%; left: 5%; top: 48px; right: auto; z-index: 5050; border: 1px solid rgb(170, 170, 170); border-radius: 4px; box-shadow: rgba(51, 51, 51, 0.298039) 2px 2px 2px; display: none; background-color: rgb(255, 255, 255);"><div class="AC-result AC-result--websites"></div><div class="AC-result AC-result--degrees"></div><div class="AC-result AC-result--directory"></div><div class="AC-result AC-result--research"></div></span></span>
+    </div>
+    <input type="hidden" name="collection" value="website-meta">
+    <input type="hidden" name="profile" value="_website">
+    <input type="hidden" name="tab" value="websites">
+    <input type="submit" name="submit" value="Go" class="btn btn--primary search-form__input search-form__input--submit" />
+  </form>
+</div>
+    
+    
+    
+  <nav class="masthead__nav m-clear"  >
+
+    
+    
+    
+          <ul class="masthead__list"><li class="masthead__item"><a href="//www.ucl.ac.uk/" title="" class="masthead__link">UCL Home</a></li>
+<li class="masthead__item"><a href="//www.ucl.ac.uk/prospective-students" title="" class="masthead__link">Prospective students</a></li>
+<li class="masthead__item"><a href="//www.ucl.ac.uk/students" title="" class="masthead__link">Current students</a></li>
+<li class="masthead__item"><a href="//www.ucl.ac.uk/staff" title="" class="masthead__link">Staff</a></li>
+<li class="masthead__item"><a href="//www.ucl.ac.uk/campaign" title="" class="masthead__link give-link">Give</a></li>
+</ul>    
+    
+    
+  </nav>
+</div></div>  <div class="wrapper">
+    
+    
+    
+    
+          <div class="photograph photograph--show">
+  <div class="brand">
+    <p class="brand__heading">Teaching & Learning</p>
+    <a href="/" class="brand__link"><span class="visually-hidden">Home</span></a>
+    <img alt="UCL logo" id="logo" class="brand__logo" src="//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg">
+  </div>
+      <p class="photograph__description">Initiatives and resources supporting the objectives of UCL's Education Strategy 2016-21</p>
+    <div class=photograph__overlay></div>
+  </div>
+    
+    
+    
+
+    
+    
+    
+          <nav class="nav nav--top"><ul><li><a href="/teaching-learning/" class="navitem">Home</a></li><li><a href="/teaching-learning/about-us" class="navitem">About us</a></li><li><a href="/teaching-learning/ucl-education-strategy-2016-21" class="navitem">Education Strategy</a></li><li><a href="/teaching-learning/connected-curriculum-framework-research-based-education" class="navitem">Research-based education</a></li><li><a href="/teaching-learning/news" class="navitem">News</a></li><li><a href="/teaching-learning/events" class="navitem">Events</a></li><li><a href="/teaching-learning/professional-development" class="navitem">Professional Development</a></li><li><a href="/teaching-learning/case-studies" class="navitem">Case studies</a></li><li><a href="/teaching-learning/teaching-resources" class="navitem">Teaching resources</a></li><li><a href="/teaching-learning/student-engagement" class="navitem">Student engagement</a></li><li><a href="/teaching-learning/digital-education" class="navitem">Digital education</a></li><li><a href="/teaching-learning/teaching-excellence-framework-tef" class="navitem">Teaching Excellence Framework (TEF)</a></li><li><a href="/teaching-learning/education-initiatives/strategic-work-schools" class="navitem">Strategic work with schools</a></li></ul></nav>    
+    
+    
+    <div class="sidebar">
+      
+    
+    
+    
+          <nav class="nav nav--mobile"><nav class="breadcrumb clearfix"><ul class="breadcrumb__list"><li class="breadcrumb__item"><a href="//www.ucl.ac.uk">UCL Home</a></li><li class="breadcrumb__item"><a href="/teaching-learning/">Teaching &amp; Learning</a></li><li class="breadcrumb__item"><a href="/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" class="active">BME attainment gap at UCL ‘unacceptable’, says Provost</a></li></ul></nav><ul class="menu"><li><a href="/teaching-learning/" title="">Home</a></li>
+<li><a href="/teaching-learning/about-us" class="nav-item">About us</a></li>
+<li><a href="/teaching-learning/ucl-education-strategy-2016-21" class="nav-item">Education Strategy</a></li>
+<li><a href="/teaching-learning/connected-curriculum-framework-research-based-education" class="nav-item">Research-based education</a></li>
+<li><a href="/teaching-learning/news" title="Education news at UCL">News</a></li>
+<li><a href="/teaching-learning/events" title="Events for education at UCL">Events</a></li>
+<li><a href="/teaching-learning/professional-development" class="nav-item">Professional Development</a></li>
+<li><a href="/teaching-learning/case-studies" title="Inspiring teaching practices and projects taking place around UCL">Case studies</a></li>
+<li><a href="/teaching-learning/teaching-resources" class="nav-item">Teaching resources</a></li>
+<li><a href="/teaching-learning/student-engagement" class="nav-item">Student engagement</a></li>
+<li><a href="/teaching-learning/digital-education" class="nav-item">Digital education</a></li>
+<li><a href="/teaching-learning/teaching-excellence-framework-tef" class="nav-item">Teaching Excellence Framework (TEF)</a></li>
+<li><a href="/teaching-learning/education-initiatives/strategic-work-schools" class="nav-item">Strategic work with schools</a></li>
+</ul></nav><nav class="nav nav--left"><ul class="menu"><li><a href="/teaching-learning/" title="">Home</a></li>
+<li><a href="/teaching-learning/about-us" class="nav-item">About us</a></li>
+<li><a href="/teaching-learning/ucl-education-strategy-2016-21" class="nav-item">Education Strategy</a></li>
+<li><a href="/teaching-learning/connected-curriculum-framework-research-based-education" class="nav-item">Research-based education</a></li>
+<li><a href="/teaching-learning/news" title="Education news at UCL">News</a></li>
+<li><a href="/teaching-learning/events" title="Events for education at UCL">Events</a></li>
+<li><a href="/teaching-learning/professional-development" class="nav-item">Professional Development</a></li>
+<li><a href="/teaching-learning/case-studies" title="Inspiring teaching practices and projects taking place around UCL">Case studies</a></li>
+<li><a href="/teaching-learning/teaching-resources" class="nav-item">Teaching resources</a></li>
+<li><a href="/teaching-learning/student-engagement" class="nav-item">Student engagement</a></li>
+<li><a href="/teaching-learning/digital-education" class="nav-item">Digital education</a></li>
+<li><a href="/teaching-learning/teaching-excellence-framework-tef" class="nav-item">Teaching Excellence Framework (TEF)</a></li>
+<li><a href="/teaching-learning/education-initiatives/strategic-work-schools" class="nav-item">Strategic work with schools</a></li>
+</ul></nav>    
+    
+    
+    </div>
+    </div>
+</header><!--endnoindex-->
+
+<div class="site-content wrapper">
+ <!--noindex--> <header class="header header--mobile default-header">
+    <a class="header header__open" href="#"><img src="//cdn.ucl.ac.uk/img/blank.gif" class="lazy" data-src="//cdn.ucl.ac.uk/indigo/images/mob-nav.png" alt="Menu" /></a>
+  </header><!--endnoindex-->
+  <div class="site-content__inner clearfix">
+    <div class="site-content__body">
+      
+    
+    
+    
+          <nav class="breadcrumb clearfix"><nav class="breadcrumb clearfix"><ul class="breadcrumb__list"><li class="breadcrumb__item"><a href="//www.ucl.ac.uk">UCL Home</a></li><li class="breadcrumb__item"><a href="/teaching-learning/">Teaching &amp; Learning</a></li><li class="breadcrumb__item"><a href="/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" class="active">BME attainment gap at UCL ‘unacceptable’, says Provost</a></li></ul></nav></nav>    
+    
+    
+
+    
+    
+    
+          <div id="node-4215" class="node node-news clearfix newsitem" about="/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost" typeof="sioc:Item foaf:Document">
+
+    <h1 class="heading newsitemheading">BME attainment gap at UCL ‘unacceptable’, says Provost</h1>
+
+      <div class="newsiteminfo">
+      <p>
+        <strong class="datepublished-article">
+          18 April 2018        </strong>
+      </p>
+    </div>
+  
+      <div class="newsitemcontent site-content__main">
+                <section class="content-box news-summary">
+              <p>
+                  Conference launches project to ensure success for all students              </p>
+
+          </section>
+      
+        <img class="large-image featured-image" typeof="foaf:Image" src="https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/bme_conference_2018_800x500.jpg" width="800" height="500" alt="Workshop discussions at the UCL BME Attainment conference 2018" />
+        <p>A project to eliminate the gap in attainment between black and minority ethnic (BME) and white students were unveiled at UCL’s first BME Attainment Conference at the Institute of Education on 10 April.</p><p>Staff and student delegates from UCL and other London universities heard that analysis of UCL data shows that there is a small but statistically significant discrepancy in the rate of good degrees achieved by BME students compared with white students, despite entering UCL with the same high entry qualifications. While UCL students, whether white or BME, tend to perform well above national benchmarks, this discrepancy, known as an ‘attainment gap’, has persisted for the past few years and stood at 5.8% in 2016-17*.</p><p>Opening the conference, UCL President and Provost Professor Michael Arthur said that the BME attainment gap at UCL was ‘unacceptable’, and urged a move away from arguments about data to focus on making change happen, adding<strong> ‘I would like to see the gap disappear in three to five years time.’</strong></p><p>Guest speaker Jason Arday, Senior Lecturer in Education Studies at Roehampton University and UCL alumnus, said that 40 years of interventions designed to close the gap had failed because these interventions were based on the deficit model, <strong>focusing on the students’ perceived weaknesses, rather than on the persistent racism and institutional structures in UK higher education</strong>. Dr Arday said, ‘If you can’t see yourself reflected in the curricula, it’s going to affect attainment,'  and drew on his own experience of ten years of higher education, during which he was not once taught by a person of colour.</p><p>Delegates heard from: </p><ul><li><strong>Nona McDuff OBE about the work of Kingston University</strong> to close the attainment gap from 29% to 11% by changing the university, not the students; </li><li><strong>Professor Anthony Smith, UCL Vice-Provost (Education and Student Affairs)</strong>, who acknowledged the multiple factors behind the attainment gap and stressed the importance of working with students as partners; and </li><li><strong>Ijeoma Uchegbu, Professor of Pharmaceutical Nanoscience and Provost’s Envoy for Race Equality</strong>, who said that life is a competition and you need a small competitive edge, and that is being taken away from our BME students. ‘We will not put up with this,’ she said.</li></ul><p>The BME attainment project team, Dr Julie Evans and Paulette Williams, explored the negative impact of the attainment gap both for individuals and more broadly, and detailed the areas where work is needed to create an inclusive education at UCL, including curriculum, belonging, strategic leadership, and staff diversity.  </p><div class="box tagged box--bar-thin"><p><a href="https://www.ucl.ac.uk/teaching-learning/education-strategy/bme-attainment-project/bme-conference-2018">Access presentations and resources from the BME Attainment Conference 2018</a></p></div><h2 class="heading">Next steps</h2><p>The team outlined the next steps in the project, will work with Deans and faculty leads to analyse faculty-specific data and introduce a toolkit of interventions to close the attainment gap, including:</p><ul><li><a href="https://www.ucl.ac.uk/teaching-learning/sites/teaching-learning/files/ucl_inclusive_curriculum_healthcheck_2018.pdf">Inclusive curriculum health check</a> for all UCL programmes, as part of the Annual Student Experience Review (ASER) process;</li><li>The appointment of faculty leads to champion BME attainment;</li><li>The launch of a resource bank drawing on best practice and case studies from higher education around the world;</li><li>Unconscious bias training for staff who teach and support teaching.</li></ul><p>* Due to data discrepancies, this was figure was changed on 13 May 2019.</p>
+      
+        <div class="social-share-buttons">
+            <br /> <br />
+            <!-- Facebook -->
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, "script", "facebook-jssdk"));</script>
+
+            <div class="fb-share-button" data-layout="button" data-size="small" data-mobile-iframe="false"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+
+            <!-- LinkedIN -->
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+            <script type="IN/Share"></script>
+
+            <!-- Twitter -->
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        </div>
+          </div>
+  
+        <div class="content-sidebar">
+          <div class="site-content__sidebar">
+              <div class="clearfix">
+                                  <div class="box tagged box--bar-thin"><h3 class="heading">Further information</h3><p>Visit the <a href="https://www.ucl.ac.uk/teaching-learning/education-strategy/1-personalising-student-support/bme-attainment-project-supporting-student-success">BME Attainment project webpage</a></p><p><a href="https://www.ucl.ac.uk/teaching-learning/education-strategy/bme-attainment-project/bme-conference-2018">Access presentations and resources from the BME Attainment Conference 2018</a></p></div><div class="box tagged box--bar-thin"><p><a href="https://www.ucl.ac.uk/teaching-learning/news-events/teaching-learning-e-newsletter">Sign up to the monthly UCL education e-newsletter</a> to get the latest teaching news, events &amp; resources. </p></div><p> </p>
+              </div>
+          </div>
+      </div>
+  </div>
+    
+    
+    
+    </div>
+  </div>
+</div>
+ <!--noindex-->
+<footer class="footer wrapper">
+  <div class="footer__inner clearfix">
+    
+    
+    
+    
+          <article class="block block--col-1">
+  <h2 class="as-h5">UCL facilities</h2>
+  <ul class="footer__list list-unstyled">
+    <li class="footer__item"><a href="//www.ucl.ac.uk/departments/faculties">Faculties and departments</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/library/">Library</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/museums">Museums and Collections</a></li>
+    <li class="footer__item"><a href="//www.thebloomsbury.com/">UCL Bloomsbury Theatre</a></li>
+  </ul>
+  </article>
+<article class="block block--col-2">
+  <h2 class="as-h5">UCL locations</h2>
+  <ul class="footer__list list-unstyled">
+    <li class="footer__item"><a href="//www.ucl.ac.uk/maps">Maps and buildings</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/london">UCL and London</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/global">UCL Global</a></li>
+  </ul>
+</article>
+<article class="block block--col-3">
+  <h2 class="as-h5">Connect with UCL</h2>
+  <ul class="footer__list list-unstyled">
+    <li class="footer__item"><a href="//www.ucl.ac.uk/alumni">Alumni</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/enterprise">Businesses</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/media">Media Relations</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/hr/jobs/">Jobs</a></li>
+    <li class="footer__item"><a href="//www.ucl.ac.uk/alumni/donations-gbp-single?PROJECT_CODE=U00003">Support us</a></li>
+  </ul>
+</article>
+<div class="clear"></div>
+<ul id="social" class="list-inline footer__list list-unstyled zero-bottom">
+  <li><a href="//twitter.com/ucl"><img class="zero-bottom" alt="Twitter" src="//cdn.ucl.ac.uk/img/35x35xtwitter.png.pagespeed.ic.McFsYiTPX-.png" height="35" width="35"></a></li>
+  <li><a href="//www.facebook.com/uclofficial"><img class="zero-bottom" alt="Facebook" src="//cdn.ucl.ac.uk/img/35x35xfacebook.png.pagespeed.ic.-VUStBF1gm.png" height="35" width="35"></a></li>
+  <li><a href="//www.youtube.com/ucltv"><img class="zero-bottom" alt="YouTube" src="//cdn.ucl.ac.uk/img/35x35xyoutube-icon-square.png.pagespeed.ic.GcRcZjQawu.png" height="35" width="35"></a></li>
+  <li><a href="//soundcloud.com/uclsound"><img class="zero-bottom" alt="SoundCloud" src="//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg" height="35" width="35"></a></li>
+  <li><a href="//www.flickr.com/photos/uclnews"><img class="zero-bottom" alt="Flickr" src="//cdn.ucl.ac.uk/img/35x35xflickr.png.pagespeed.ic.KdAnMQjbrP.png" height="35" width="35"></a></li>
+  <li><a href="//www.instagram.com/ucl/"><img class="zero-bottom" alt="Instagram" src="//cdn.ucl.ac.uk/img/35x35xinstagram-badge.png.pagespeed.ic.OPAzj9OMyV.png" height="35" width="35"></a></li>
+  <li><a href="//medium.com/ucl-antenna"><img class="zero-bottom" alt="Antenna" src="//cdn.ucl.ac.uk/img/35x35xantenna.png.pagespeed.ic.1-fHvaktyk.png" height="35" width="35"></a></li>
+</ul>
+<hr class="clear">
+<ul class="footer__list list-unstyled zero-bottom">
+  <li class="footer__item small">University College London,&nbsp;Gower Street,&nbsp;London,&nbsp;WC1E 6BT&nbsp;Tel:&nbsp;+44&nbsp;(0)&nbsp;20 7679 2000</li>
+</ul>
+<ul class="list-inline footer__list list-unstyled list-inline--divided">
+  <li class="text-muted small">Copyright © 2019 UCL</li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/disclaimer">Disclaimer</a></li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/foi">Freedom of Information</a></li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/accessibility">Accessibility</a></li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/legal-services/privacy">Privacy and Cookies</a></li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/procurement/suppliers/slavery-stmt">Slavery statement</a></li>
+  <li class="text-muted small"><a href="//www.ucl.ac.uk/contact-list">Contact Us</a></li>
+  <li class="text-muted small"><a rel="nofollow" href="//cas.ucl.ac.uk/cas/login?service=https://www.ucl.ac.uk/teaching-learning/user/cas%3Fdestination%3Dnode/4215"><img class="zero-bottom lazy" height="10" width="10" alt="Edit Icon" title="Edit Content" src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" data-src="//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif" id="edit_button"></a></li>
+</ul>
+    
+    
+    
+  </div>
+</footer><!--endnoindex-->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ucl.ac.uk/teaching-learning/sites/all/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?pvx73e"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"320633c495","applicationID":"55043572","transactionName":"YgZTNUtYDxAEVEBQDFtMcAJNUA4NSkdVXgZqDlAPWF4EETpZW10GahVYBE5mEQICUg==","queueTime":0,"applicationTime":299,"atts":"TkFQQwNCHB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

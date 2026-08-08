@@ -2816,3 +2816,11 @@ Lead: UKCGE’s first-party post-event article was found as a missing narrative 
 Capture: the article HTML and headers, embedded YouTube page and headers, video thumbnail, and article hero image were preserved. The article reports Arday’s delivered keynote, summarizes its themes, records a standing ovation, and includes a later audience recollection.
 
 Decision: added SRC-572/C-747 as a distinct post-event delivery record. The programme, deck, annual report, article, and linked video remain separate manifestations; no full video binary, transcript, or unqualified quotation was added.
+
+## 2026-08-08 — SRC-573/C-748 UCL BME attainment conference report
+
+Lead: the UCL 2018 keynote PDF was already preserved, but its first-party post-event narrative had not been captured as a separate source-version.
+
+Capture: the current UCL route redirected to a login page. A 2020 Wayback replay was preserved and exposes the article’s dated account of the 10 April conference, Arday’s attributed remarks, and the planned institutional interventions. The current login-boundary HTML and headers were preserved alongside the archived article.
+
+Decision: added SRC-573/C-748 as an organizer-report record distinct from SRC-022. The article’s 5.8% figure is retained with UCL’s later data-discrepancy note; no independent data validation, transcript, or implementation outcome was added.

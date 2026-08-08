@@ -1,0 +1,63 @@
+HTTP/2 302 
+server: nginx
+date: Sat, 08 Aug 2026 08:01:19 GMT
+content-type: text/plain; charset=utf-8
+content-length: 0
+x-archive-redirect-reason: found capture at 20190821141039
+location: https://web.archive.org/web/20190821141039id_/https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost
+server-timing: captures_list;dur=0.508582, exclusion.robots;dur=0.065579, exclusion.robots.policy;dur=0.056118, esindex;dur=0.009214, cdx.remote;dur=5.055976, LoadShardBlock;dur=124.848286, PetaboxLoader3.datanode;dur=69.253417, PetaboxLoader3.resolve;dur=19.021402
+x-app-server: wwwb-app259-dc8
+x-ts: 302
+x-tr: 157
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-p-SERVER=wwwb-app259; path=/
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 08:01:19 GMT
+content-type: text/html; charset=utf-8
+content-length: 41964
+x-archive-orig-date: Tue, 20 Aug 2019 00:07:21 GMT
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-content-language: en
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-link: <https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost>; rel="canonical"
+x-archive-orig-cache-control: max-age=9600, no-cache
+x-archive-orig-age: 136998
+x-archive-orig-content-length: 41964
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-via: 1.1 www.ucl.ac.uk
+x-archive-orig-x-frontend: wwwr-d.ucl.ac.uk
+x-archive-orig-connection: close
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Wed, 21 Aug 2019 14:10:39 GMT
+link: <https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost>; rel="original", <https://web.archive.org/web/timemap/link/https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.ucl.ac.uk/teaching-learning/news/2018/apr/bme-attainment-gap-ucl-unacceptable-says-provost>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: CC-MAIN-2019-35-1566027316021.66-0004/CC-MAIN-20190821131745-20190821153745-00086.warc.gz
+server-timing: captures_list;dur=0.652395, exclusion.robots;dur=0.067671, exclusion.robots.policy;dur=0.053445, esindex;dur=0.010233, cdx.remote;dur=10.690408, LoadShardBlock;dur=94.282593, PetaboxLoader3.datanode;dur=73.418296, load_resource;dur=83.032124, PetaboxLoader3.resolve;dur=28.366804
+x-app-server: wwwb-app255-dc8
+x-ts: 200
+x-tr: 224
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-p-SERVER=wwwb-app255; path=/
+cache-control: private
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+
