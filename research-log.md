@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-210/C-931: Sage interview video promoted
+
+Audit: SRC-210 already documented the publisher page and transcript, the 27:18.56 YouTube video, automatic captions, thumbnail, metadata, and oEmbed capture, but the 64,075,107-byte MP4 and its YouTube sidecars were not tracked in Git.
+
+Archive action: checksum-validated and committed the MP4, English VTT, YouTube metadata, and thumbnail. The publisher transcript remains the canonical text layer; automatic captions remain navigation material and are not treated as verbatim.
+
+Decision: added C-931 as an archive-integrity observation. The recording is distinct media preservation of Arday interviewing Harshad Keval; no new independent biography claim or opinion attribution was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-184/C-930: *Talking Matters* full audio promoted
 
 Audit: SRC-184 already had the full *Talking Matters with Nick Halkes* MP3, ASR derivatives, and football/snooker excerpt files checksum-documented in the workspace, but the 75,598,049-byte parent audio was not tracked in Git.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest video-preservation checkpoint: on 2026-08-08 `SRC-210/C-931` promoted the 64,075,107-byte Sage *Social Science Space* interview MP4 to GitHub alongside captions, metadata, and thumbnail; the transcript-bearing publisher page and oEmbed capture remain preserved. The source supports a dated interview and Arday’s series-editor/self-description framing, not independent verification of every role or opinion. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest audio-preservation checkpoint: on 2026-08-08 `SRC-184/C-930` promoted the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 to GitHub. The ASR derivatives and football/snooker excerpts remain explicitly navigation aids; manual listening is still required, and the internal “professional club”/“not good enough to become a professional” tension remains unresolved. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest archive-boundary checkpoint: on 2026-08-08 `SRC-334/C-929` promoted Warwick’s captured conference HTML, headers, portraits, rate-limit rechecks, and caption-endpoint 404 to GitHub. The 138,726,243-byte keynote MP4 and three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit; no transcript or substantive keynote claim was added. Google Drive was not updated; GitHub remains the active publication target.

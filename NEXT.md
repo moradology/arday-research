@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh video-preservation checkpoint: SRC-210/C-931 — the 64,075,107-byte Sage *Social Science Space* interview MP4 is now committed to GitHub alongside its automatic captions, metadata, thumbnail, transcript-bearing publisher page, and oEmbed capture. The recording documents Arday as interviewer and series-editor subject-version; human listening remains required before treating caption windows as verbatim quotations.
+
 Fresh audio-preservation checkpoint: SRC-184/C-930 — the full 75,598,049-byte *Talking Matters with Nick Halkes* MP3 is now committed to GitHub alongside its source record, ASR navigation, and sports excerpts. The audio remains a first-person interview requiring manual listening before transcript-level quotation; preserve the internal football/professional-status tension and do not upgrade it to professional status without independent records.
 
 Fresh archive-boundary checkpoint: SRC-334/C-929 — Warwick’s captured conference pages, headers, portraits, rate-limit rechecks, and caption-endpoint 404 are now committed to GitHub. The 138,726,243-byte keynote MP4 and three reassembly parts remain local-only because they exceed GitHub’s 100 MiB hard limit; reopen only for a suitable lawful media host, transcript/captions, or an additional distinct artifact.
