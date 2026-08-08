@@ -2622,3 +2622,11 @@ Discovery: a current search result resurfaced the official Simon & Schuster US m
 Capture: the direct canonical URL was rechecked from the shell. It returned HTTP 403 Cloudflare challenge HTML; the 5,493-byte body and headers were byte-distinct from the 6 August challenge and were preserved under `assets/captures/2026-08-08-simon-schuster-memoir-recheck/`.
 
 Decision: updated SRC-091/C-713 and `negative-space.md` in place. No new memoir edition, publisher record, excerpt, full text, audio file, or independent biography claim was created.
+
+## 2026-08-08 — SRC-211/C-714 exact-title and host-volume search recheck
+
+Discovery: exact-title and English/French host-volume searches were repeated across the public web and known institutional/scholarly witnesses. The Durham indexed person-page result remained the only Arday-specific manifestation. The GRIP profile and Steinmetz CV continued to support the existence/project history of the Dufoix/Mosbah-Natanson volume at volume level, but neither names Arday’s chapter or supplies chapter identifiers.
+
+Evidence handling: updated SRC-211 in place and added C-714. No publisher page, DOI, ISBN, pagination, library record, repository copy, lawful full text, duplicate publication record, or chapter-content claim was created. The Springer/Information Age/La Découverte conflict remains explicitly unresolved.
+
+Next boundary: reopen only after a concrete chapter-level identifier, changed Durham/publisher/catalogue state, or archival record; do not repeat the same exact-title pass.

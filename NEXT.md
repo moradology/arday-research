@@ -118,7 +118,7 @@ Fresh podcast-manifestation checkpoint: SRC-129/C-628 — Spotify’s public cat
 
 Fresh RSC report-access checkpoint: SRC-276/C-627 — the direct report-PDF URL redirected to the RSC news route and returned HTTP 429, with no PDF bytes. Keep the existing RSC HTML report and YouTube recording canonical; reopen only after a changed downloadable report endpoint. The caption/timecoding boundary remains separate.
 
-Fresh scholarly access checkpoint: SRC-211/C-626 — the 7 August 2026 direct Durham person-page recheck returned a 5,578-byte Cloudflare challenge with no result body or chapter metadata. The exact-title web search still produced no distinct publisher, DOI, ISBN, library, or lawful full-text record. Keep the Springer/Information Age/La Découverte conflict unresolved; reopen only after a changed endpoint or concrete archival/publisher/library manifestation.
+Fresh scholarly access checkpoint: SRC-211/C-714 — the 8 August 2026 exact-title and host-volume search again produced no chapter-level publisher, DOI, ISBN, pagination, library, repository, or lawful full-text record. Keep the Springer/Information Age/La Découverte conflict unresolved; reopen only after a concrete chapter-level identifier, changed endpoint, or archival/publisher/library manifestation.
 
 Fresh UKRI boundary checkpoint: SRC-200/C-625 — the 7 August 2026 direct recheck still returned the byte-identical “Kevin Wilson” page with no Arday/EDICa content. Keep C-120’s indexed-result facts bounded to the official indexed manifestation. Reopen only after a changed Gateway response or a distinct official project/person record; do not repeat the same endpoint fetch.
 
