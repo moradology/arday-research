@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh first-party event-source checkpoint: SRC-642/C-884 — Wonkhe’s 8 July 2020 “Black Lives Matter” event page names Arday in the running order, links the already-canonical recording `-dG9SfhMYe8`, and exposes a 15-page slide deck plus event portrait/banner. Reopen only for a changed event page, a distinct recording/caption state, or a page-specific audit; do not duplicate SRC-619 or treat the deck as Arday-authored.
+
 Fresh changed-access checkpoint: SRC-319/C-883 — SnapJournal’s canonical 24 April 2026 biography URL returned HTTP 403 on 8 August 2026; the earlier HTML/API/image capture remains locally preserved. No duplicate source was created. Reopen only for a changed lawful endpoint, archived replay, correction, or primary source behind its claims; do not repeat the unchanged article search.
 
 Fresh post-event delivery checkpoint: SRC-641/C-880–C-881 — Training Magazine’s 9 May 2024 report identifies Arday as Day 1 keynoter at the February Orlando conference, describes a Day-O audience callback, and prints an attributed quotation. The HTML, headers, and source-associated award-winners collage are locally preserved. Reopen only for a complete recording, audio, transcript, event photographs showing Arday, or a corrected/changed article; do not treat the collage as an Arday portrait.

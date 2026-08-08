@@ -1,0 +1,14 @@
+HTTP/2 200 
+x-frame-options: SAMEORIGIN
+last-modified: Tue, 24 Nov 2020 17:58:27 GMT
+etag: "3e8c3-5b4de0ecc0a9b"
+accept-ranges: bytes
+content-length: 256195
+cache-control: max-age=432000, public
+expires: Sun, 08 Aug 2027 15:33:01 GMT
+x-hostname: w1
+content-type: image/jpeg
+date: Sat, 08 Aug 2026 15:33:01 GMT
+server: Apache
+vary: Accept-Encoding
+

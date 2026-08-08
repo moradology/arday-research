@@ -1,0 +1,14 @@
+HTTP/2 200 
+x-frame-options: SAMEORIGIN
+last-modified: Thu, 09 Jul 2020 08:50:39 GMT
+etag: "158bc6-5a9fe519e77b7-br"
+accept-ranges: bytes
+cache-control: max-age=86400, public
+expires: Mon, 07 Sep 2026 15:33:00 GMT
+content-encoding: br
+x-hostname: w1
+content-type: application/pdf
+date: Sat, 08 Aug 2026 15:33:00 GMT
+server: Apache
+vary: Accept-Encoding
+

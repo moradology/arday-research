@@ -1,5 +1,7 @@
 # Work state
 
+Latest first-party event-media checkpoint: on 2026-08-08 `SRC-642/C-884` captured Wonkhe’s official 8 July 2020 “Black Lives Matter” event page, its 15-page slide deck, event banner, and 230×230 Arday portrait. The page names Arday in the running order and links recording `-dG9SfhMYe8`, which remains deduplicated to SRC-619. The slide deck is event-level material, not attributed to Arday; no transcript claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest changed-access checkpoint: on 2026-08-08 `SRC-319/C-883` rechecked SnapJournal’s 24 April 2026 low-provenance biography page. The canonical URL returned HTTP 403; the original HTML, WordPress API post, image, and headers remain local, and the new recheck headers are attached to the existing source. No duplicate source was created. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest post-event checkpoint: on 2026-08-08 `SRC-641/C-880–C-881` captured Training Magazine’s 9 May 2024 report on the February Orlando conference. It identifies Arday as Day 1 keynoter, describes audience interaction, and prints an attributed quotation. The page, headers, and source-associated award-winners collage are local; no recording or transcript was recovered. Google Drive was not updated; GitHub remains the active publication target.

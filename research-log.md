@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-642/C-884: Wonkhe event page and slide deck recovered
+
+Discovery: the existing SRC-619 recording trail led to Wonkhe’s first-party event page for the 8 July 2020 “Black Lives Matter” online event.
+
+Capture: the page’s metadata dates publication to 29 June 2020 and modification to 13 January 2021. It names Arday and Paulette Williams in the running order, embeds YouTube `-dG9SfhMYe8`, links a 15-page PDF slide deck, and exposes an event portrait and banner. All are locally preserved.
+
+Decision: added SRC-642/C-884 as a distinct event-page/source-material record, not a duplicate event or recording. The recording remains under SRC-619; the slide deck is treated as event-level material led by Amatey Doku, not Arday-authored, and no new substantive quotation was promoted.
+
 ## 2026-08-08 — SRC-319/C-883: SnapJournal access-state recheck deduplicated
 
 Recheck: the canonical SnapJournal biography URL, already catalogued as SRC-319, returned HTTP 403 from an `hcdn` server. The prior page/API/image capture remains the substantive source manifestation.
