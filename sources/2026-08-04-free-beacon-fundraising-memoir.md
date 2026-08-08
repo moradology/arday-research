@@ -5,7 +5,7 @@ title: "Star Cambridge Professor Jason Arday Lied for Years About Raising Millio
 subject: ../entities/jason-arday.md
 published: 2026-08-04
 accessed: 2026-08-08
-status: article and featured image preserved; cited book proofs/CV and ASA correspondence not recovered; two cited speaker-bio snapshots preserved
+status: article and featured image preserved; cited book proofs/CV and ASA correspondence not recovered; three cited speaker-bio snapshots preserved
 evidence_class: secondary investigative journalism / local HTML, headers, image, and archived page captures
 urls:
   - https://freebeacon.com/campus/star-cambridge-professor-jason-arday-lied-for-years-about-raising-millions-for-charity-simon-schuster-scrubbed-financial-details-from-his-new-memoir-and-falsehoods-from-his-bio/
@@ -33,6 +33,8 @@ The article links two Wayback snapshots of the Simon & Schuster Speakers Bureau 
 
 The page-level change is directly verifiable from the two archived HTML captures. The article’s interpretation that the change was a quiet institutional or publisher response remains a reported journalistic characterization unless the edit history or responsible editor is independently documented.
 
+An additional 10 September 2024 Wayback snapshot is now preserved as SRC-585. It retains the specific £5.5 million, 80-charity, running-feat, WaterAid, Olympic-Torch, and homeless-drive wording and supplies an earlier baseline for the later source-version change. It remains promotional copy, not independent corroboration.
+
 The article also reports that it reviewed a university-job CV claiming just over £1.5m, and that a 2023 podcast included a claim of having been offered and declined an MBE; it says the *London Gazette* honours lists contained no such award. The CV, underlying podcast recording, correspondence, and any offer record were not recovered in this capture. These remain leads, not settled negative findings.
 
 Finally, the article reports that the U.S. proof and U.K. final edition of *Great and Unfortunate Things* differed in their treatment of specific fundraising totals and targets, and quotes a Simon & Schuster spokesperson defending the book’s editorial/legal research process. The two book proofs were not publicly downloadable from the article and are not claimed as locally preserved documents.
@@ -49,4 +51,4 @@ This record establishes the article’s publication and the exact wording differ
 - [Image response headers](../assets/captures/2026-08-08-free-beacon-arday/image.headers.txt) — SHA-256 `1dc731c0a2556d916d1950ed82a469185add7a425c6cae22bc2942e6b6a0f862`
 - [19 May 2025 Wayback HTML](../assets/captures/2026-08-08-free-beacon-arday/speaker-bio-wayback/may-2025.html) — SHA-256 `58c82dc2a6fe0dab14b883f6d8ebea504b6eed5fc8370ec9d4a7e8136b208733`
 - [24 July 2025 Wayback HTML](../assets/captures/2026-08-08-free-beacon-arday/speaker-bio-wayback/july-2025.html) — SHA-256 `fd23f98dec721cb9294500c708250bb4bcf0ee0b33dd329a3d495eda63d99e79`
-
+- [10 September 2024 Wayback HTML](../assets/captures/2026-08-08-free-beacon-arday/speaker-bio-wayback/sept-2024.html) — SHA-256 `1dc6e53993ac4ad4a85ea1ad63facdc2a6f043cfb3ebc1df6d46aaabbaf25552`
