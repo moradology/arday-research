@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-topology checkpoint: on 2026-08-08 `SRC-264/C-919` promoted the BILT 89-second teaser’s separate video-only MP4 and audio M4A, captions, metadata, and thumbnail to GitHub. The streams remain separate; the full keynote is still a distinct SharePoint-403 boundary under SRC-259, and caption-derived remarks remain pending human listening. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-integrity checkpoint: on 2026-08-08 `SRC-237/SRC-238/C-918` promoted the two Diversity Seminar “familiarity” videos to GitHub: a 67-second YouTube clip and separate 1:42 LinkedIn commentary. The LinkedIn auto-caption SRT remains unverified navigation material; the two manifestations are not merged. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media-topology checkpoint: on 2026-08-08 `SRC-112/C-917` promoted both public ITV *Black Voices* MP4s to GitHub: UCU’s 5:14 harassment clip and CLASS’s 4:49 lecturers clip. Existing thumbnail/caption assets remain preserved; the third linked clip is private and the ITV resource page remains timeout-bound. Google Drive was not updated; GitHub remains the active publication target.

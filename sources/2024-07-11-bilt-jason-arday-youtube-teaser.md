@@ -10,7 +10,7 @@ id: SRC-264
 - Upload date: 11 July 2024 (YouTube metadata)
 - Captured: 2026-08-06
 - Type: first-party institutional video
-- Status: locally preserved as separate video and audio streams
+- Status: locally preserved as separate video and audio streams; both streams and sidecars committed to GitHub on 2026-08-08
 
 ## What the source establishes
 
@@ -29,7 +29,7 @@ The BILT YouTube channel published an 89-second video titled “Jason Arday.” 
 
 The preserved video-only MP4 and audio M4A both decode cleanly through the local media tool. The archive is therefore playable at the file level; the streams remain separate and are not represented as a reconstructed mux. The English captions are still automatic and have not been checked against the audio by a human listener.
 
-The streams remain separate because local muxing was resource-killed; both public assets are retained.
+The streams remain separate because local muxing was resource-killed; both public assets are retained and committed to GitHub.
 
 ## Caption-derived extraction
 
