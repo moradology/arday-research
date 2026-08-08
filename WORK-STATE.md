@@ -1,5 +1,7 @@
 # Work state
 
+Latest scholarly/institutional sweep: on 2026-08-08, exact-name searches for recent DOI output, Cambridge pages, and 2026 events returned only canonical records and homonyms. No new scholarly, institutional, media, or post-event artifact was added; the query family is bounded in `research-log.md` and `NEXT.md`. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly-correction checkpoint: on 2026-08-08 `C-881` recorded a fresh Taylor & Francis PDF request for the existing `SRC-297` correction. The publisher again returned a Cloudflare challenge; the changed body and headers are preserved, and no duplicate source or new correction text was created. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest international-language commentary checkpoint: on 2026-08-08 `SRC-879/C-880` preserved *Libero Quotidiano*’s indexed 29 July Italian commentary and direct HTTP-403 access boundary. It is a derivative, polemical propagation witness; no numerical or evaluative claim was upgraded, and Google Drive was not updated. GitHub remains the active publication target.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly/institutional sweep boundary: the 8 August 2026 exact-name search for recent DOI output, Cambridge institutional pages, and 2026 event/workshop material returned only canonical records (OpenAlex/Crossref, BSA Annual Conference plenary, Cambridge Anti-Racism Symposium, and the Faculty profile) plus homonyms/unrelated works. No new DOI, full-text manifestation, recording, correction, appointment record, or post-event artifact was recovered. Reopen only for a changed index result, concrete title/DOI, distinct institutional page, recording/transcript, or post-event document.
+
 Fresh scholarly-correction access checkpoint: C-881 — a new 8 August 2026 Taylor & Francis PDF request for the already-catalogued correction to *Attempting to break the chain* returned another Cloudflare challenge. The body and headers are preserved under `assets/captures/2026-08-08-educational-philosophy-correction-recheck/`; no new correction, retraction, or full text was recovered. Reopen only for a lawful full correction PDF/HTML, a distinct publisher version, or a formal institutional/journal outcome.
 
 Fresh international-language commentary checkpoint: SRC-879/C-880 — *Libero Quotidiano*’s 29 July 2026 Italian commentary repeats the public thesis-overlap, fundraising, and endurance controversy; indexed text and the direct HTTP-403 boundary are preserved. It adds propagation topology, not independent corroboration or an adjudicative finding. Reopen only for a full lawful article/image capture or a distinct primary document.

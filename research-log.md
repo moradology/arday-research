@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — Scholarly/institutional-output sweep: no new node
+
+Discovery: exact-name searches for `Jason Arday 2026 publication DOI`, `Jason Arday 2025 article DOI`, Cambridge 2026 pages, and current university-event/workshop material were cross-checked against the archive. The results surfaced the already-catalogued OpenAlex/Crossref records, the BSA Annual Conference 2026 plenary, Cambridge’s 14 April 2026 Anti-Racism Symposium, and the current Faculty of Education profile.
+
+Reconciliation: the BSA abstract book and conference record are already represented by SRC-187, with delivery evidence under SRC-376; the symposium is SRC-193; and the Faculty profile/version states are already represented by the Cambridge profile records. No new DOI, full-text manifestation, recording, correction, appointment record, or post-event document was found in this pass. Search results for unrelated homonyms and non-Arday works were excluded.
+
+Boundary: this closes the captured query family for the current state. Reopen only with a changed index result, a concrete title/DOI, a distinct institutional page, a recording/transcript, or a post-event artifact. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — C-881: Taylor & Francis correction PDF recheck
 
 Discovery: the correction/retraction search lane reconfirmed the already-catalogued 2024 Taylor & Francis correction to *Attempting to break the chain*; no new correction or retraction record was found.
