@@ -2824,3 +2824,11 @@ Lead: the UCL 2018 keynote PDF was already preserved, but its first-party post-e
 Capture: the current UCL route redirected to a login page. A 2020 Wayback replay was preserved and exposes the article’s dated account of the 10 April conference, Arday’s attributed remarks, and the planned institutional interventions. The current login-boundary HTML and headers were preserved alongside the archived article.
 
 Decision: added SRC-573/C-748 as an organizer-report record distinct from SRC-022. The article’s 5.8% figure is retained with UCL’s later data-discrepancy note; no independent data validation, transcript, or implementation outcome was added.
+
+## 2026-08-08 — SRC-574/C-749 Cambridge alternate members directory
+
+Lead: search indexing continued to expose an Arday-associated Faculty of Education result after the individual Cambridge profile and paginated “Our People” directory stopped exposing him.
+
+Capture: the alternate `educ.cam.ac.uk/people/members/` directory returned HTTP 200; its full HTML and headers were preserved. No exact Arday name, username, or sociology-of-education title occurred in the body.
+
+Decision: added SRC-574/C-749 as a bounded current directory observation. It strengthens the documented indexed/live mismatch but does not establish resignation consequences, current employment, or the reason for omission.
