@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-topology checkpoint: SRC-520/C-664 — Apple Podcasts’ UK page confirms the existing *Full Disclosure with James O’Brien* episode as season 2, episode 133, published 20 April 2023, with structured duration 1:07:18 and a Captivate stream. It is deduplicated to SRC-034; do not create a second audio record. Reopen only for a transcript, materially changed episode metadata, or a distinct recording.
+
 Fresh memoir-publication checkpoint: SRC-519/C-662–C-663 — *The Bookseller*’s indexed preview supplies a distinct trade-publication manifestation of the UK edition (ISBN `9781398542747`, £20, 27 August 2026) but the direct page redirects to login. Keep its synopsis as marketing/source-version copy, not independent biography; reopen only for lawful preview access or a changed public endpoint.
 
 Fresh institutional-process checkpoint: SRC-434/C-497 — a second direct fetch of the already-canonical *Telegraph* process-review lead again returned HTTP 402/TollBit and is preserved as an access-state recapture. Reopen only for Cambridge terms of reference, a direct institutional statement, a review document, or a final report; do not create another source for the same report.

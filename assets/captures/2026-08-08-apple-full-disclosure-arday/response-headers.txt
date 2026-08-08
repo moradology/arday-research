@@ -1,0 +1,27 @@
+HTTP/2 200 
+server: daiquiri/5
+content-type: text/html
+cache-control: public, max-age=60
+content-encoding: br
+content-security-policy: upgrade-insecure-requests; default-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data: blob: artwork:; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com 'unsafe-eval'; connect-src 'self' https://*.apple.com https://*.mzstatic.com https://mediaservices.cdn-apple.com https://*.push.apple.com wss://*.push.apple.com https: http:; media-src 'self' https: http: blob:; child-src 'self' https://*.apple.com musics: blob: itms: itmss: itms-podcasts: itms-podcast: podcast: podcasts:; frame-ancestors 'none'; report-uri /api/csp-report
+etag: "8N3QxQ2KrpgCU99M0O4ujjmUXJWabnPaSTQcBN5lGdU="
+link: <https://is1-ssl.mzstatic.com>; rel=preconnect
+vary: accept-encoding
+x-apple-jingle-correlation-key: IAM7TWRLAIDIEKVKJY7N4VCDUY
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-original-content-length: 150051
+x-responding-instance: amp-web-podcasts-server:amp-web-podcasts-server-main-67c8cc8-9dw8n:7000:2632.1.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-55dc4fcb97-8frvn:7987:26HOTFIX26:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-pv4-amp-web-podcasts-prod
+x-daiquiri-debug-worker-pid: 382
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-547d47765d-cwtrv:7987:26HOTFIX26:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 3600
+content-length: 15496
+date: Sat, 08 Aug 2026 03:23:14 GMT
+x-cache: TCP_MISS from a23-208-24-102.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (-)
+x-cache-remote: TCP_REFRESH_MISS from a23-208-24-110.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (S)
+set-cookie: geo=US; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+

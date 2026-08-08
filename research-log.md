@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-520/C-664: Apple Podcasts manifestation of *Full Disclosure*
+
+Discovery: an episode-catalogue search found Apple Podcasts’ UK page for the already-canonical 20 April 2023 *Full Disclosure with James O’Brien* interview. The page identifies season 2, episode 133, Global as producer, and a structured duration of 4,038 seconds.
+
+Capture: preserved the Apple HTML and response headers. The page exposes a Captivate stream URL, but the episode’s audio is already locally preserved under SRC-034; no second MP3 was created.
+
+Evidence handling: registered SRC-520/C-664 as a platform manifestation and updated `media.md` to map both routes to one audio entity. The Apple synopsis is host copy; it adds catalogue provenance, not an independent biographical source.
+
 # 2026-08-08 — SRC-519/C-662–C-663: *The Bookseller* memoir preview
 
 Discovery: a memoir-edition search surfaced *The Bookseller*’s public preview URL for *Great and Unfortunate Things*. Its indexed synopsis exposed Simon & Schuster Ltd, £20 price, 27 August 2026 date, ISBN `9781398542747`, and the familiar biographical framing.

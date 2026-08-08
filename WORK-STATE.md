@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-topology checkpoint: on 2026-08-08 `SRC-520/C-664` captured Apple Podcasts’ UK manifestation of the existing *Full Disclosure with James O’Brien* episode (20 April 2023, season 2 episode 133, structured duration 1:07:18). The page exposes a Captivate stream but no new audio item; it is deduplicated to SRC-034, whose MP3 remains canonical. Reopen only for a transcript, changed metadata, or a distinct recording.
+
 Latest memoir-publication checkpoint: on 2026-08-08 `SRC-519/C-662–C-663` captured *The Bookseller*’s indexed preview for *Great and Unfortunate Things* (ISBN `9781398542747`, £20, 27 August 2026). The direct preview redirected to login; the local HTML/headers preserve the access boundary, while the indexed synopsis is retained as trade/publisher marketing copy rather than independent biographical corroboration. Reopen only for lawful preview access, a changed public endpoint, or a distinct edition/source version.
 
 Latest adversarial-frame checkpoint: on 2026-08-07 `adversarial-hypotheses.md` translated the user’s liar/fraud/villain framing into separate testable categories. SRC-518/C-660–C-661 preserves exact-name zero-result searches on the official ASA rulings and Gazette awards databases. The archive now records serious credibility/possible-overclaiming concerns while keeping intent, legal fraud, and moral characterization unresolved. Reopen only for a new primary artifact, changed official endpoint, named response, correction, or adjudicative finding.
