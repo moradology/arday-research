@@ -2876,3 +2876,11 @@ Discovery: a focused first-party event search surfaced the National Autistic Soc
 Capture: the announcement HTML and headers were preserved. The linked conference route now resolves to the current NAS conference page, and the 2026 insights page was captured as a current route/version witness; neither supplies a 2024 recording, transcript, deck, or attendee artifact.
 
 Decision: added SRC-578/C-753. The announcement is strong evidence of a scheduled NAS appearance and preserves a host biography version saying that Arday funded his PhD through part-time Sainsbury’s/Boots work and full-time lecturing. Those employment/funding details remain biography-level claims, not independent records; no delivery inference is made from the missing current artifact.
+
+## 2026-08-08 — SRC-316/C-754 ORIGIN current page and newsletter
+
+Discovery: the Oxford GLAM ORIGIN page appeared in current search results with a February 2026 newsletter link not present in the earlier local capture.
+
+Capture: the live page was preserved as a changed HTML/header version. The eight-page February 2026 newsletter PDF was downloaded from Oxford’s public site, with headers, extracted text, and a first-page render. It reports six work-package streams and planned papers, co-design, trial, and economic-review activity.
+
+Decision: upgraded the existing SRC-316 record and added C-754 rather than creating a duplicate ORIGIN entity. The current page continues to list Arday on the project team, but the newsletter contains no Arday-specific name or contribution. It is retained as project-output context, not individual authorship or employment evidence.

@@ -1,0 +1,15 @@
+HTTP/2 200 
+content-type: application/pdf
+content-length: 3152208
+x-drupal-cache: MISS
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-request-id: v-8b9bbe20-9305-11f1-94a7-9bd9f913a161
+x-ah-environment: prod
+x-age: 0
+accept-ranges: bytes
+cache-control: public, max-age=60
+expires: Sat, 08 Aug 2026 08:46:45 GMT
+date: Sat, 08 Aug 2026 08:45:45 GMT
+strict-transport-security: max-age=15768000
+
