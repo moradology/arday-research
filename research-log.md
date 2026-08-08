@@ -3378,3 +3378,10 @@ Discovery: the fresh YouTube search boundary returned Spiked video `OIkeRnQtXQ4`
 Capture: preserved yt-dlp metadata, English original captions, a 640×360 video/audio merge, and the 1280×720 thumbnail. The video runs 34:18.28 and is dated 7 August 2026 by its metadata.
 
 Decision: catalogued the video as political commentary. Its evaluative title, claims, and institutional-process discussion remain attributed to Spiked’s presenters; no allegation, biography claim, or investigation outcome was promoted to fact.
+## 2026-08-08 — SRC-626/C-855–C-856: Talking Matters interview preview recovered
+
+Discovery: a search for distinct interview and podcast manifestations returned Spotify episode `3KJMtYC3cs1gjNOafCQLfj`, a 1:18:00 *Talking Matters with Nick Halkes* episode dated 2 August 2024. Spotify’s description says the conversation was recorded in 2021 and repeats the delayed-speech/literacy and fundraising biography.
+
+Capture: preserved the Spotify page HTML and headers, 640×640 artwork, and a public 60.03-second, 96-kbps MP3 preview. The full interview, transcript, and exact preview content analysis remain unavailable.
+
+Decision: created a distinct podcast source-version. The description is treated as host copy/source propagation; no unrecovered interview statement or biographical claim was promoted to fact. Reopen only for the full audio, transcript, captions, or a changed Spotify/publisher access state.
