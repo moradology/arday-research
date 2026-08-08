@@ -1,5 +1,7 @@
 # Work state
 
+Latest complete-derivative checkpoint: on 2026-08-08 `SRC-015/C-945` created and promoted a 39,182,626-byte AAC derivative of the complete 1:18:58.94 Oxford/Kellogg “Academia is a Crossfire Hurricane” recording. The 225,397,461-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no lecture-content claim was added. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest complete-derivative checkpoint: on 2026-08-08 `SRC-240/C-900` created and promoted a 40,957,856-byte AAC derivative of the complete 56:08 Oxford Physics “Challenges & Changes” recording. The 123,139,640-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived lecture claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest audiovisual checkpoint: on 2026-08-08 `SRC-241/C-891` created and promoted a 69,706,601-byte 320×180 H.264/AAC cellular-video derivative of the complete 59:44 Diversity Seminar interview. The 123,444,887-byte parent MP4 remains local-only because it exceeds GitHub’s 100 MiB hard limit; no caption-derived childhood claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
