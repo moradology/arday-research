@@ -3384,7 +3384,7 @@ Discovery: a search for distinct interview and podcast manifestations returned S
 
 Capture: preserved the Spotify page HTML and headers, 640×640 artwork, and a public 60.03-second, 96-kbps MP3 preview. The full interview, transcript, and exact preview content analysis remain unavailable.
 
-Decision: created a distinct podcast source-version. The description is treated as host copy/source propagation; no unrecovered interview statement or biographical claim was promoted to fact. Reopen only for the full audio, transcript, captions, or a changed Spotify/publisher access state.
+Decision: created a distinct Spotify platform manifestation and deduplicated it to the pre-existing full-interview record SRC-184. The description is treated as host copy/source propagation; the locally preserved full MP3 and ASR navigation remain under SRC-184. No new unrecovered interview statement or biographical claim was promoted to fact.
 ## 2026-08-08 — SRC-627/C-857–C-858: QUB research-misconduct procedure boundary
 
 Discovery: the BBC-reported QUB review of *Attempting to break the chain* made QUB’s institutional research-integrity procedure a relevant primary context source. Public indexing exposes QUB’s Research Misconduct page and a linked Version 8.0, October 2021 regulations PDF.
