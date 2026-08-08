@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-881/C-883: SnapJournal low-provenance biography
+
+Discovery: a current exact-name search surfaced SnapJournal’s 24 April 2026 “Career Milestones and Educational Impact 2025–2026” page.
+
+Capture: the public HTML and response headers are preserved. The page has no named author, citations, interview attribution, or primary-document links. It repeats familiar childhood, Cambridge, project, fundraising, WaterAid, and affiliation language and adds generic future-facing claims.
+
+Decision: added SRC-881/C-883 as a source-propagation/reliability node. Its prose and claims remain attributed to SnapJournal; stale or unsupported present-tense assertions are explicitly not promoted to facts. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-880/C-882: Target US memoir-edition manifestation
 
 Discovery: an exact-title retailer sweep surfaced Target’s US product page for *Great and Unfortunate Things*, distinct from the Simon & Schuster publisher page and the Google Books catalogue records already in the archive.

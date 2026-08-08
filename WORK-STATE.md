@@ -1,5 +1,7 @@
 # Work state
 
+Latest source-reliability checkpoint: on 2026-08-08 `SRC-881/C-883` captured SnapJournal’s 24 April 2026 SEO-style biography. It is retained as low-provenance propagation evidence only; no repeated claim was upgraded, and stale/unsupported role and fundraising language remains attributed. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-edition checkpoint: on 2026-08-08 `SRC-880/C-882` captured Target’s US hardcover manifestation for *Great and Unfortunate Things* (A-1007422036/TCIN 1007422036; 288 pages; 11 August 2026 street date) and its cover image. It is deduplicated to SRC-091; Target copy is promotional and not independent biography. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly/institutional sweep: on 2026-08-08, exact-name searches for recent DOI output, Cambridge pages, and 2026 events returned only canonical records and homonyms. No new scholarly, institutional, media, or post-event artifact was added; the query family is bounded in `research-log.md` and `NEXT.md`. Google Drive was not updated; GitHub remains the active publication target.

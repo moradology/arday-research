@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh source-reliability checkpoint: SRC-881/C-883 — SnapJournal’s 24 April 2026 biography-style article is preserved as low-provenance propagation evidence. It supplies no named author, citations, or primary documents and repeats unsupported/stale claims about roles, fundraising, WaterAid, and childhood. Reopen only for a correction, cited source list, or linked primary artifact; do not count it as corroboration.
+
 Fresh memoir-edition checkpoint: SRC-880/C-882 — Target’s US hardcover listing for *Great and Unfortunate Things* is locally preserved with product ID A-1007422036/TCIN 1007422036, 11 August 2026 street date, 288 pages, and a 1200×1200 cover. It is deduplicated to SRC-091 and adds an edition/source-version node, not independent corroboration. Reopen only for a changed Target state, distinct edition/SKU, lawful preview/full text, or rights-cleared image need.
 
 Fresh scholarly/institutional sweep boundary: the 8 August 2026 exact-name search for recent DOI output, Cambridge institutional pages, and 2026 event/workshop material returned only canonical records (OpenAlex/Crossref, BSA Annual Conference plenary, Cambridge Anti-Racism Symposium, and the Faculty profile) plus homonyms/unrelated works. No new DOI, full-text manifestation, recording, correction, appointment record, or post-event artifact was recovered. Reopen only for a changed index result, concrete title/DOI, distinct institutional page, recording/transcript, or post-event document.
