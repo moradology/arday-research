@@ -1,0 +1,34 @@
+HTTP/2 200
+server: CloudFront
+content-type: image/jpeg
+content-length: 292496
+date: Fri, 07 Aug 2026 10:58:42 GMT
+cache-control: max-age=31536000, stale-while-revalidate=86400, stale-if-error=86400, immutable
+etag: c6e9b59b82ae62d13bf59896866f4db4
+expires: Tue, 06 Oct 2026 10:58:42 UTC
+x-svc-build-time: Tue Aug  4 10:04:37 UTC 2026
+x-svc-env: prod
+x-svc-go-version: 1.22.12
+x-svc-name: kodiak-svc
+x-svc-version: latest
+xkey: /proof/jtMVrRXTs2CwGqHvkSfFd.jpg
+x-backend: default
+x-ftr-cache-status: MISS
+x-served-by: kodiak-varnish-6b55c77fc4-6s5x7
+accept-ranges: bytes
+access-control-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-methods: GET, OPTIONS
+access-control-allow-headers: DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization
+access-control-max-age: 1728000
+x-ftr-request-id: 00000000000000000000FFFF40FC521E:CB08_00000000000000000000FFFFB9711939:01BB_6A75BA62_A62F8B:0287
+x-ftr-balancer: bulk-proxy-prod-01
+x-ftr-backend: proof-mos-kodiak
+x-ftr-backend-server: sse-prod:kodiak
+via: 1.1 353563bd4534834030d1edef7ff0e512.cloudfront.net (CloudFront)
+alt-svc: h3=":443"; ma=86400
+age: 89372
+content-security-policy: upgrade-insecure-requests
+x-cache: Hit from cloudfront
+x-amz-cf-pop: DFW57-P6
+x-amz-cf-id: g2w6GnRVpO8NDWvbQwdMFquSr-OZwE3pim-d__pIZEthWg5D6QUrPA==

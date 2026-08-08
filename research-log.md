@@ -3184,3 +3184,11 @@ Discovery: QUB’s Research Portal exposed the canonical record for *Attempting 
 Capture: preserved the repository HTML, response headers, PDF, and extracted text. The record gives DOI, journal, pagination, authorship, and early-online metadata. The repository labels the file “Accepted author manuscript”; the PDF front matter calls it the “Peer reviewed version.”
 
 Decision: added a source-version record linked to canonical `SRC-045`, not a duplicate publication. The file strengthens the primary-text/version topology but does not validate the article’s methods or imply an outcome for QUB’s investigation.
+
+## 2026-08-08 — SRC-613/C-826–C-827: *The Week* controversy synthesis
+
+Discovery: a distinct public *The Week* analysis published 7 August 2026 mapped the controversy to Telegraph, New York Times, Daily Mail, Independent, and Guardian coverage.
+
+Capture: preserved the complete public HTML, extracted text, response headers, and the 2000×1125 lead image.
+
+Decision: catalogued it as a source-propagation witness. Its “officially cleared” wording is retained as an attributed lead only; the underlying decision/report was not present in the article and no adjudicative claim was promoted.
