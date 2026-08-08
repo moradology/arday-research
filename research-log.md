@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-878/C-879: Ruling Passions migrated host and Amazon Music manifestation
+
+Discovery: a fresh exact-title search surfaced the project’s migrated `ruling-passions.com` URL and an Amazon Music episode page for “Ruling Passions: 2. A discussion with Jason Arday.”
+
+Capture: the migrated project page returned the Episode 2 transcript, existing Spotify embed, Padlet embed, and project description. Amazon Music returned an application shell, while indexed metadata supplied a separate episode identifier, 19 March 2022 date, and displayed 51-minute duration. No full audio or new transcript was recovered.
+
+Decision: added SRC-878/C-879 as a source-version/platform-topology record linked to canonical SRC-158. The two manifestations do not create a second appearance or independently verify the interview’s autobiographical content. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-877/C-878: AGCAS UKCGE interview lead and PDF boundary
 
 Discovery: independent podcast/index searching surfaced search-indexed text from AGCAS’s July 2021 *Researchers Matter* bulletin. Its resources section points to an interview with Jason Arday from UKCGE concerning the BME doctoral-student academic-career project.

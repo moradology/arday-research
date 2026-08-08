@@ -1,0 +1,27 @@
+HTTP/2 301 
+server: nginx
+date: Sat, 08 Aug 2026 23:06:27 GMT
+content-type: text/html; charset=utf-8
+location: https://rulingpassions.wordpress.com/2022/03/22/podcast-launch-episode-2/
+strict-transport-security: max-age=31536000
+vary: Cookie
+x-ac: 1.den _dfw MISS
+alt-svc: clear
+server-timing: a8c-cdn, dc;desc=den, cache;desc=MISS;dur=24.0
+
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 23:06:27 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+link: <https://public-api.wordpress.com/wp-json/?rest_route=/sites/rulingpassions.wordpress.com>; rel="https://api.w.org/"
+vary: accept, content-type, cookie
+x-pingback: https://rulingpassions.wordpress.com/xmlrpc.php
+link: <https://wp.me/pdciJt-9x>; rel=shortlink
+x-ac: 2.den _dfw STALE
+alt-svc: clear
+strict-transport-security: max-age=31536000
+server-timing: a8c-cdn, dc;desc=den, cache;desc=STALE;dur=2.0
+

@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-topology checkpoint: on 2026-08-08 `SRC-878/C-879` captured the migrated Ruling Passions project page and Amazon Music manifestation for the canonical Episode 2 interview. The migrated page retains the full transcript; Amazon’s direct route is a JavaScript shell with indexed episode metadata only. No second interview or full audio was created. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest professional-bulletin checkpoint: on 2026-08-08 `SRC-877/C-878` preserved the AGCAS indexed lead to a UKCGE interview with Arday about the BME doctoral-student academic-career project. The source PDF is no longer served and the interview artifact remains unresolved. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest podcast-profile checkpoint: on 2026-08-08 `SRC-876/C-877` preserved the current Surviving Society SoundCloud profile and visible `/tracks` inventory. It includes canonical E188 and no other Arday-named title among ten visible tracks; older/private/deleted/playlist-only history remains unresolved. Google Drive was not updated; GitHub remains the active publication target.

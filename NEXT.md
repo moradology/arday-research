@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-topology checkpoint: SRC-878/C-879 — the migrated Ruling Passions project URL retains the canonical Episode 2 transcript and embeds; Amazon Music exposes episode ID `e8465482-92dd-477c-8999-4bffacbd515a` and indexed 19 March 2022/51-minute metadata but direct capture is only a JavaScript shell. Deduplicated to SRC-158. Reopen only for a lawful full-audio file, transcript/captions, or a materially changed platform state.
+
 Fresh professional-bulletin checkpoint: SRC-877/C-878 — AGCAS’s indexed July 2021 *Researchers Matter* text points to a UKCGE interview with Arday about the BME doctoral-student academic-career project. The original PDF route now redirects to fallback HTML; no bulletin or interview artifact was recovered. Reopen only for a lawful PDF/archive replay, UKCGE interview page, transcript, or recording.
 
 Fresh podcast-profile boundary: SRC-876/C-877 — the current Surviving Society SoundCloud profile and `/tracks` route expose ten visible tracks, including canonical E188 and no other Arday-named title. This closes the current-profile route but not older, private, deleted, or playlist-only inventory. Reopen only for a complete host export, changed pagination, direct historical track lead, or distinct Arday media.
