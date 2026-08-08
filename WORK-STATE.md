@@ -1,5 +1,7 @@
 # Work state
 
+Latest conference-programme checkpoint: on 2026-08-08 `SRC-639/C-875–C-876` preserved the BSA’s 110-page 2026 Annual Conference abstract book. Printed page 69 schedules Arday’s “Wanted Dead or Alive: The Playbook” plenary for 8 April 2026 and includes a dated biography. The archive records this as a scheduled appearance and host biography only; no delivery, recording, transcript, or post-event report was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest governance-filing checkpoint: on 2026-08-08 `SRC-638/C-874` recovered the Charity Commission’s original 28-page chairman’s report for Autism Centre of Excellence’s year ended 30 June 2023. The report says the board unanimously agreed at its 26 March 2024 meeting to appoint Jason Arday as trustee, with duties pending paperwork. This is distinct from the current regulator/Companies House appointment records, which show 30 March 2024; the report’s unusual filing chronology is preserved rather than reconciled. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest advisory-role checkpoint: on 2026-08-08 `SRC-637/C-872–C-873` preserved the Nuffield Foundation’s 27 March 2025 announcement and linked programme page. Arday is named as an external advisor to “Grown up? Journeys to adulthood”; the archive records the foundation’s stated advisory functions but not attendance, remuneration, individual contribution, or continuation. Google Drive was not updated; GitHub remains the active publication target.

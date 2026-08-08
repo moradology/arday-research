@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-639/C-875–C-876: BSA 2026 plenary programme recovered
+
+Discovery: a fresh 2026 event search surfaced the British Sociological Association’s official abstract book for its annual conference at the University of Manchester. The 110-page PDF schedules Jason Arday’s plenary “Wanted Dead or Alive: The Playbook” for 14:00–15:00 on 8 April 2026 and names Angharad Beckett as chair.
+
+Capture: the BSA PDF, response headers, and `pdftotext -layout` extraction were retrieved and preserved under `assets/captures/2026-04-08-bsa-annual-conference/`. The event page states “Abstract to come”; no recording, transcript, or post-event report was found in the search pass.
+
+Decision: added SRC-639/C-875–C-876 as a distinct programme/source-version record. The page 69 biography is retained as dated host copy, including its “presently” BSA and Autism Action trustee wording, and is not upgraded to legal/current-status evidence. The conference appearance remains scheduled/listed only.
+
 ## 2026-08-08 — SRC-638/C-874: Autism Centre trustee appointment report recovered
 
 Discovery: a Charity Commission annual-report search surfaced the Autism Centre of Excellence chairman’s report for the year ended 30 June 2023. Its biography section says the board unanimously agreed at a 26 March 2024 meeting to appoint Jason Arday to the Board of Trustees, with duties to begin after paperwork was finalised during March 2024.
