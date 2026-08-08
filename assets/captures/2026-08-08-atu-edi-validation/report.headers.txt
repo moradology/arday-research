@@ -1,0 +1,14 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 08 Aug 2026 07:50:18 GMT
+content-type: application/pdf
+content-length: 177759
+last-modified: Tue, 19 Nov 2024 17:22:56 GMT
+etag: "673cc970-2b65f"
+cache-control: store, must-revalidate, post-check=0, pre-check=0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+set-cookie: SERVERID=atu-web01-prd; path=/; HttpOnly; Secure
+

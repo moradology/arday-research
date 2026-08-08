@@ -2784,3 +2784,11 @@ Lead: the live LJMU Research Online record for the doctoral thesis was identifie
 Capture: the repository HTML and response headers were preserved. The record supplies the title, author form, doctoral-thesis classification, “Published Version” file label, direct PDF link, and a detailed abstract describing the four-phase qualitative study of four student teachers.
 
 Decision: added SRC-569/C-743 as a source-version record and deduplicated it to SRC-087. The abstract is retained as repository metadata; it does not validate the thesis’s findings or resolve any later allegation.
+
+## 2026-08-08 — SRC-570/C-744 ATU EDI programme validation report
+
+Lead: a search for dated institutional service records surfaced ATU’s validation report for its Transformative Practices in EDI programme.
+
+Capture: the official seven-page PDF, response headers, extracted text, and a rendered first page were preserved. Printed p. 1 records the 5 December 2022 review date, the panel membership, and Arday’s then-described Glasgow professorship.
+
+Decision: added SRC-570/C-744 as a distinct service-record source. It is not merged with Glasgow affiliation records or treated as proof of any visiting role, employment beyond the dated description, or programme outcome.

@@ -181,6 +181,7 @@ The chapter/artefact continuation adds [The Fire Now](sources/2018-fire-now-raci
 The remaining older/newer output slice adds the 2015 [School Report](sources/2015-school-report-race-education-inequality.md), the 2021 [BME participation synthesis](sources/2021-bme-participation-uk-higher-education.md), the 2021 [response on equality of educational outcomes](sources/2021-response-equality-educational-outcomes.md), and the 2024 [elite schools and slavery article](sources/2024-05-05-elite-schools-slavery-uk.md). DOI and repository records are kept distinct from reports and manuscripts.
 
 - [LJMU thesis repository record](sources/2026-08-08-ljmu-thesis-repository-record.md) — current first-party metadata and abstract for the 2015 doctoral thesis; a source-version record deduplicated to the canonical thesis PDF (SRC-087).
+- [ATU EDI programme validation report](sources/2026-08-08-atu-edi-programme-validation-report.md) — 2022 dated academic-service record naming Arday on the validation panel for a Transformative Practices in EDI programme; not a separate publication or employment record (SRC-570).
 
 The page-level audit also recovered an early, non-DOI journal record: [Developing Professional Learning in Higher Education](sources/2013-professional-learning-peer-mentoring.md), published in *Innovations in practice* in 2013. It is retained as a verified bibliographic record, with the publisher issue link preserved separately from the Durham deposit record.
 

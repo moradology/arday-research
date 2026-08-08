@@ -439,6 +439,7 @@ Work from top to bottom. Check an item only after its records and indexes are up
 - [x] Enumerate and capture chapters 4–6 and the afterword in the same DOI family (`10.1515/9780691263946-008` through `-010`, and `-012`) as SRC-496–SRC-499/C-603–C-607; deduplicate all manifestations to SRC-053 and preserve the publisher access boundaries.
 - [ ] Keep SRC-477 as provenance context only. Reopen the Cofnas/Cambridge context trail only for the underlying inquiry report, a direct institutional explanation, or a changed official statement; do not use the 2025 Cofnas inquiry as evidence for or against the Arday allegations.
 - [ ] Revisit SRC-569 only if the LJMU repository exposes a changed record, a distinct thesis version, or a direct institutional statement about the later review; the current record is a provenance/abstract manifestation deduplicated to SRC-087 and does not resolve research-integrity allegations.
+- [ ] Revisit SRC-570 only if ATU publishes a changed validation report, implementation record, or direct clarification of Arday’s panel role; the current PDF is a dated 2022 service record and does not establish later affiliation or programme outcomes.
 
 ## Latest checkpoint — 2026-08-07
 
