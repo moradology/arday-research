@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh access-state recheck: SRC-318/C-707 — OpenLearn’s course page now exposes the `UNI_1` printable-PDF route in indexed/current page material, but the direct endpoint still returns HTTP 403 and no PDF binary was recovered. Keep the signed URL as a discovery lead only; reopen for a lawful stable download or changed endpoint.
+
 Fresh policy-output capture: SRC-548/C-705–C-706 — the official British Science Association/APPG *Inquiry into Equity in the STEM Workforce* PDF and page are now locally preserved. Arday is listed in the policy group and among critical reviewers; keep this as a dated participation record and APPG policy artifact, not as proof of authorship or independent empirical validation. Reopen only for a distinct evidence submission, roundtable record, later implementation report, or materially changed BSA source.
 
 Fresh publisher abstract/access boundary: SRC-175/C-704 — Springer’s current chapter page now preserves the auto-ethnographic/counter-narrative description and subscription gate for “Being Black, Male and Academic.” Keep this chapter’s autobiographical claims separate from independent biography; reopen only for lawful full text, an author manuscript, or a changed publisher access state.

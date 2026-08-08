@@ -154,7 +154,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 ## 6. Scholarly publications and article-level records
 
-The Open University’s separate public educational course [*Introducing Union Black*](sources/2024-10-31-openlearn-union-black.md) was first published on 31 October 2024 and names Arday as one of four course authors. It is catalogued as an open educational resource, not as a scholarly article or book chapter.
+The Open University’s separate public educational course [*Introducing Union Black*](sources/2024-10-31-openlearn-union-black.md) was first published on 31 October 2024 and names Arday as one of four course authors. It is catalogued as an open educational resource, not as a scholarly article or book chapter. The page exposes a printable-PDF route, but the latest direct capture remains HTTP 403 and no PDF binary is claimed.
 
 The most reliable discovery points are the [ORCID record](https://orcid.org/0000-0002-9822-1068), [Cambridge selected-publications list](https://faculty.educ.cam.ac.uk/people/staff/arday/), and [Durham repository outputs](https://durham-repository.worktribe.com/person/303473/jason-arday/outputs). The following are key items with DOI links:
 

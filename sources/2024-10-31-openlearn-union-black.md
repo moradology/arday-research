@@ -5,8 +5,8 @@ title: "Introducing Union Black"
 subject: ../entities/jason-arday.md
 published: 2024-10-31
 updated: 2025-12-09 (printable version observed in indexed/browser capture)
-accessed: 2026-08-06
-status: official OpenLearn course and author credit verified in browser; printable PDF shell access returned HTTP 403
+accessed: 2026-08-08
+status: official OpenLearn course and author credit verified; printable PDF lead exposed by indexed/browser text but direct 8 August recheck returned HTTP 403
 evidence_class: first-party Open University course page / course-author credit / local image and access-boundary captures
 urls:
   - https://www.open.edu/openlearn/education-development/introducing-union-black/content-section-0?intro=1
@@ -26,7 +26,11 @@ The Open University’s OpenLearn course page identifies *Introducing Union Blac
 
 The browser-visible introduction identifies the four course authors, from left to right, as Professor Marcia Wilson, Professor Jason Arday, Lurraine Jones, and Dr Dave Thomas. The acknowledgements page separately thanks Wilson, Arday, and Thomas for their work in creating the course and identifies Lurraine Jones as the course author. This is a distinct public educational output/course-author credit, not a duplicate of Arday’s 2021 edited-volume chapter with Wilson and Thomas.
 
-The indexed printable version is labelled `UNI_1` and carries a 9 December 2025 date in the recovered search representation. A direct shell request for the printable endpoint returned an HTTP 403 challenge; no PDF binary is claimed. The browser-visible HTML course remains the stronger content witness, while the local course-author photograph and course thumbnail preserve the associated visual manifestations.
+The indexed printable version is labelled `UNI_1` and carries a 9 December 2025 date in the recovered search representation. The current course page exposes a PDF download control, and search indexing exposes the printable PDF’s signed download manifestation, but a direct request to the printable endpoint on 8 August 2026 returned an HTTP 403 Cloudflare challenge. No PDF binary is claimed. The browser-visible HTML course remains the stronger content witness, while the local course-author photograph and course thumbnail preserve the associated visual manifestations.
+
+## 8 August 2026 access-state recheck
+
+The direct printable endpoint was rechecked after the indexed signed-PDF lead appeared. The response remained HTTP 403 and included an expired/short-lived signed-object route inside the challenge body; the signed URL was not treated as a recovered document. This is a changed discovery/access state, not successful binary capture.
 
 ## Evidence boundary
 
@@ -39,5 +43,7 @@ This record establishes the Open University’s public course page, its publicat
 - [Course-page response headers](../assets/captures/openlearn-union-black/page.headers.txt) — SHA-256 `0916c0d1be9198270b8dcf63b445b5b47082f4eddfb4b0e2862fbc6ea9ec3c08`
 - [Printable-endpoint response headers](../assets/captures/openlearn-union-black/pdf.headers.txt) — SHA-256 `7e68180511a4ef46d0488b7533606cfa282aaafface260cff256cc3685ba0139`
 - [Printable-endpoint 403 body](../assets/captures/openlearn-union-black/printable-403.html) — SHA-256 `266d2eecedd120d9e488402aca8326e39d80d3b096604db0907ea4a5060d6f84`
+- [8 August printable-endpoint 403 body](../assets/captures/openlearn-union-black-2026-08-08/printable.html) — SHA-256 `aeba3467e93076f0a2476812edc879a8126534d8e873046129eeaad56955e184`
+- [8 August printable-endpoint response headers](../assets/captures/openlearn-union-black-2026-08-08/printable.headers.txt) — SHA-256 `481e508f1067a35b94964961d475164af82956fdc4af4be6077e90ac9c3939`
 
 Image rights and reuse permissions remain unresolved; local preservation is for research provenance.

@@ -6,6 +6,10 @@ Discovery: a report search surfaced the British Science Association’s current 
 
 Evidence handling: the report’s appendix lists “Dr Jason Arday, Durham University” in the policy group that shaped recommendations through a 13 May 2021 session and lists him among critical reviewers (PDF pp. 80–81). The report says its inquiry used more than 85 written submissions, four roundtables with more than 40 attendees, and desk research covering more than 150 sources. This is a dated contributor/reviewer and policy-output record, not proof of report authorship, a particular evidence submission, or independent validation of the report’s findings.
 
+# 2026-08-08 — SRC-318/C-707: OpenLearn printable access-state recheck
+
+The current OpenLearn course page exposes a PDF download control, and indexed text exposes the `UNI_1` printable manifestation dated 9 December 2025. A direct request to the printable endpoint still returned HTTP 403 Cloudflare HTML; the short-lived signed-object route embedded in the challenge was not treated as a recovered PDF. Updated SRC-318 and preserved the new 8 August response and headers as a changed access-state record.
+
 # 2026-08-08 — SRC-175/C-704: Springer chapter abstract/access boundary
 
 The current Springer chapter page for “Being Black, Male and Academic: Navigating the White Academy” was captured as a distinct source-version. Its official abstract explicitly calls the chapter auto-ethnographic and a counter-narrative about personal experiences of racism, employment opportunities, staff/student perceptions, Whiteness, and racial microaggressions. The page confirms first-online 1 September 2018 and pp. 161–174, but keeps the chapter body subscription-gated. Recorded this as an author/publisher scope description, not independent corroboration.
