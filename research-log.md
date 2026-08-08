@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-638/C-874: Autism Centre trustee appointment report recovered
+
+Discovery: a Charity Commission annual-report search surfaced the Autism Centre of Excellence chairman’s report for the year ended 30 June 2023. Its biography section says the board unanimously agreed at a 26 March 2024 meeting to appoint Jason Arday to the Board of Trustees, with duties to begin after paperwork was finalised during March 2024.
+
+Capture: the Charity Commission’s accounts-resource endpoint returned the original 28-page PDF with HTTP 200. The PDF, response headers, and a `pdftotext -layout` extraction are preserved under `assets/captures/2026-08-08-autism-centre-2023-report/`. The PDF’s creation date is 29 April 2024.
+
+Decision: added SRC-638/C-874 as the underlying filed-report manifestation, separate from the current regulator trustee table (`SRC-333`), Companies House officers (`SRC-299`), and later annual accounts (`SRC-253`). The report’s chronology is preserved as written: its 30 June 2023 year-end precedes the March 2024 appointment discussion, and its wording differs slightly from the separate 30 March 2024 appointment date. No duties, remuneration, or continuation are inferred.
+
 ## 2026-08-08 — SRC-637/C-872–C-873: Nuffield “Grown up?” advisory role
 
 Discovery: the institutional/advisory search surfaced the Nuffield Foundation’s 27 March 2025 announcement naming Professor Jason Arday as an external advisor to “Grown up? Journeys to adulthood.”

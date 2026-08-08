@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 15:09:20 GMT
+content-type: application/pdf;charset=UTF-8
+content-length: 9389825
+set-cookie: ApplicationGatewayAffinityCORS=66e54c38dee9829e2951732ceed843a9; Path=/; SameSite=None; Secure
+set-cookie: ApplicationGatewayAffinity=66e54c38dee9829e2951732ceed843a9; Path=/
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+set-cookie: JSESSIONID=ECE26D61DF402296B915F36EE06A8EE7.liferay-6c9754bbb4-9fd5t; Path=/; HttpOnly
+set-cookie: GUEST_LANGUAGE_ID=en_GB; Max-Age=31536000; Expires=Sun, 08 Aug 2027 15:09:18 GMT; Path=/; HttpOnly
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: private
+pragma: no-cache
+set-cookie: COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sun, 08 Aug 2027 15:09:18 GMT; Path=/; HttpOnly
+content-disposition: inline; filename="report.pdf"
+

@@ -1,5 +1,7 @@
 # Work state
 
+Latest governance-filing checkpoint: on 2026-08-08 `SRC-638/C-874` recovered the Charity Commission’s original 28-page chairman’s report for Autism Centre of Excellence’s year ended 30 June 2023. The report says the board unanimously agreed at its 26 March 2024 meeting to appoint Jason Arday as trustee, with duties pending paperwork. This is distinct from the current regulator/Companies House appointment records, which show 30 March 2024; the report’s unusual filing chronology is preserved rather than reconciled. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest advisory-role checkpoint: on 2026-08-08 `SRC-637/C-872–C-873` preserved the Nuffield Foundation’s 27 March 2025 announcement and linked programme page. Arday is named as an external advisor to “Grown up? Journeys to adulthood”; the archive records the foundation’s stated advisory functions but not attendance, remuneration, individual contribution, or continuation. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest institutional service-role checkpoint: on 2026-08-08 `SRC-636/C-871` preserved Wellcome Sanger’s live Sanger Excellence Fellowship page listing Arday in the Advisory Group with Glasgow title wording. This is a first-party service-role/source-version record; dates, terms, contribution, remuneration, and continuation are unresolved. Google Drive was not updated; GitHub remains the active publication target.
