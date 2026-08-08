@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-640/C-877–C-879: UEL Ethnicity Pay Gap Conference media topology
+
+Discovery: a fresh 2025 conference search surfaced the University of East London Office for Institutional Equity’s “Bridging the Gap: Closing Ethnicity Pay Gap in UK” conference page and an indexed UEL conference-report PDF.
+
+Capture: the first-party OIE page and Conference Media page were retrieved as HTML. The event page schedules Arday on the 14:50–15:45 intersectionality/pay-gap panel. The media page exposes three Wix VideoObjects; Part 3 is 44:08 and includes that panel in its metadata. The organizer’s Arday portrait and Part 3 poster were downloaded. The signed HLS URL returned HTTP 401 `invalid token`; no video binary was recovered. The UEL report URL returned an Akamai HTTP 403 and its 449-byte error response/headers are preserved.
+
+Decision: added SRC-640/C-877–C-879 as a distinct conference/media/report-access record. The indexed report lead is not treated as recovered report text, and the structured video metadata is not upgraded to proof of attendance or remarks. This is separate from the SRA and BSA conference records.
+
 ## 2026-08-08 — SRC-188 recheck: SRA report deduplicated
 
 Discovery: the current-event search rediscovered the SRA’s 23 July 2026 post-event report for the “Message in a Bottle” conference session, already canonicalized as SRC-188.

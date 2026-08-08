@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 53615
+server: openresty/1.31.1.1
+date: Sat, 08 Aug 2026 15:18:14 GMT
+access-control-allow-origin: *
+cache-control: public, max-age=2592000, immutable
+x-seen-by: image-manipulator-755f4b94d4-9zw9c
+x-wixmp-trace: projects/wix-media-infrastructure/traces/3HdeIffEZjgk3mYrpt6vhRhUlij
+timing-allow-origin: *
+via: 1.1 google, 1.1 b2ba542a917451d9d85e07dba0cfd9a4.cloudfront.net (CloudFront)
+vary: Accept
+x-cache: Miss from cloudfront
+x-amz-cf-pop: DFW57-P2
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: TZAZC7GdSlmyLvJNMmwbzcauhRNMq_jO_hS3oCOu-5tYfoYcgx3vfA==
+

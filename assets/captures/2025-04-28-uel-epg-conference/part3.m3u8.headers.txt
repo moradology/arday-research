@@ -1,0 +1,10 @@
+HTTP/2 401 
+server: openresty/1.21.4.1
+date: Sat, 08 Aug 2026 15:18:24 GMT
+content-type: text/plain; charset=utf-8
+content-length: 13
+cache-control: public, max-age=86400, immutable
+x-wixmp-trace: projects/wix-media-infrastructure/traces/3HdeJvTrwiRYUxRjnPFFwd1hfa6
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000
+

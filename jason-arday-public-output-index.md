@@ -4,6 +4,8 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 
 ## 1. Current institutional profiles and records
 
+- [UEL/OIE Ethnicity Pay Gap Conference](sources/2025-04-28-uel-ethnicity-pay-gap-conference.md) — 28 April 2025 conference page schedules Arday on an intersectionality/pay-gap panel; public media metadata and the report/video access boundaries are preserved.
+
 - [Autistic VOICES study](sources/2026-03-11-autistic-voices-study-arday.md) — Autism Research Centre project page (published March 2026, modified June 2026) listing Arday on the Steering Committee; project plan, participant information, and consent form locally preserved; results anticipated in 2027.
 
 - [Autism Centre of Excellence Companies House officers record](sources/2026-08-06-companies-house-autism-centre-officers.md) — current public legal-register manifestation listing Arday as an active director appointed 30 March 2024; no end date shown.

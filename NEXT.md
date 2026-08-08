@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh conference/media checkpoint: SRC-640/C-877–C-879 — UEL/OIE’s 28 April 2025 Ethnicity Pay Gap Conference page schedules Arday on a 14:50–15:45 panel; its media page exposes three recordings, including a 44:08 Part 3 containing that panel in metadata. The HLS token returned 401 and the UEL report PDF returned Akamai 403. Reopen only for a refreshed Wix token, lawful video binary/captions/transcript, the report PDF, or a post-event text artifact; do not infer delivery or remarks from the listing.
+
 Fresh deduplication checkpoint: `SRC-188/C-104` — an 8 August fetch of the SRA’s 23 July 2026 post-event report produced a new dynamic HTML/headers state but no substantive body change; a generic conference banner was also preserved. No duplicate source was created. Reopen only for a changed article body, official recording, transcript, or post-event artifact; do not repeat the same fetch unchanged.
 
 Fresh conference-programme checkpoint: SRC-639/C-875–C-876 — the BSA’s official 110-page 2026 abstract book schedules Arday’s 8 April plenary “Wanted Dead or Alive: The Playbook” and prints a dated biography. The abstract is “to come”; delivery, recording, transcript, and post-event report remain unresolved. Reopen only for a BSA event report, recording, transcript, photographs, or a corrected programme; treat the programme’s “presently” role wording as source-version copy, not current legal status.

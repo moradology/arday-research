@@ -1,5 +1,7 @@
 # Work state
 
+Latest conference/media checkpoint: on 2026-08-08 `SRC-640/C-877–C-879` captured UEL/OIE’s 2025 Ethnicity Pay Gap Conference page, its structured media page, Arday portrait, Part 3 poster, and access-boundary artifacts. The page schedules him on the intersectionality/pay-gap panel; the 44:08 Part 3 metadata includes the panel, but the HLS token returned 401 and no recording was recovered. The indexed UEL report lead returned a direct 403. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest deduplication checkpoint: on 2026-08-08 the SRA’s 23 July 2026 post-event report (`SRC-188/C-104`) was re-fetched. Its substantive text remains unchanged; dynamic HTML/headers and the linked conference banner are preserved as a new retrieval state under `assets/captures/2026-07-23-sra-conference-report/`. No duplicate source was created. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest conference-programme checkpoint: on 2026-08-08 `SRC-639/C-875–C-876` preserved the BSA’s 110-page 2026 Annual Conference abstract book. Printed page 69 schedules Arday’s “Wanted Dead or Alive: The Playbook” plenary for 8 April 2026 and includes a dated biography. The archive records this as a scheduled appearance and host biography only; no delivery, recording, transcript, or post-event report was recovered. Google Drive was not updated; GitHub remains the active publication target.
