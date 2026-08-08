@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-268/C-946 — the complete 57:39.98 *Neurodivergent Show* interview is now available as a 28,794,329-byte AAC derivative on GitHub. The 175,067,296-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and automatic-caption childhood/diagnosis/literacy passages remain unverified.
+
 Fresh complete-derivative checkpoint: SRC-015/C-945 — the complete 1:18:58.94 Oxford/Kellogg “Academia is a Crossfire Hurricane” recording is now available as a 39,182,626-byte AAC derivative on GitHub. The 225,397,461-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and the Glasgow event remains a separate source.
 
 Fresh complete-derivative checkpoint: SRC-240/C-900 — the complete 56:08 Oxford Physics “Challenges & Changes” recording is now available as a 40,957,856-byte AAC derivative on GitHub. The 123,139,640-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and captions remain unverified.
