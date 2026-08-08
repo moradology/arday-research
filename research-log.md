@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-033/C-904: ABC News childhood-profile video promoted to GitHub
+
+Audit: the canonical ABC News source record already contained the HLS-derived MP4, official thumbnail, and capture metadata, but the 2:47.36 video binary remained only in the working tree.
+
+Capture decision: validated the MP4 checksum (`a0a7dde1cef26aa8766aba24b37fc5461e925abf9205e4de340edbf5c3351e75`) against the capture metadata and committed the video. No subtitle stream was exposed; the segment remains a broadcast/self-report source version rather than independent clinical or biographical evidence.
+
 ## 2026-08-08 — SRC-270/C-903: OpenLearn educational video promoted to GitHub
 
 Audit: the canonical OpenLearn record already contained the progressive MP4, captions, thumbnail, metadata, YouTube snapshot, and page/transcript 403 responses, but the 6:14 video binary remained only in the working tree.
