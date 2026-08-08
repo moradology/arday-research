@@ -1,0 +1,14 @@
+HTTP/2 200 
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+vary: Accept,Accept-Encoding
+last-modified: Sat, 08 Aug 2026 10:27:02 GMT
+etag: "17a73-658868fd87a07"
+accept-ranges: bytes
+content-length: 96883
+x-clacks-overhead: GNU Terry Pratchett
+cache-control: private, must-revalidate
+content-type: text/html; charset=UTF-8
+date: Sat, 08 Aug 2026 12:17:38 GMT
+server: Apache/2.4.67 (Debian)
+

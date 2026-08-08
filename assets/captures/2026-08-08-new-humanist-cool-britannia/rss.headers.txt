@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 12:17:38 GMT
+content-type: text/xml; charset=utf-8
+content-length: 94026
+x-amz-meta-podcast-etag: affe2e566be999da279e2b2aa3e82441
+last-modified: Sun, 31 May 2026 16:14:00 GMT
+etag: "d8ff0c81147fc9eca5850f3e9b92f856"
+server: cloudflare
+x-cache: Miss from cloudfront
+via: 1.1 25613905b0a903d6371e53d7485e0cb0.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P14
+x-amz-cf-id: 9QX9e0ToDx0ZFc08Lkm_PVKlf2j4lNG-v6m8vAQaNUdI15IH-H0QRg==
+cache-control: max-age=21600, public, stale-while-revalidating=600
+vary: Origin
+accept-ranges: bytes
+age: 2238
+cf-cache-status: HIT
+cf-ray: a27e758ab97fd3d3-OMA
+

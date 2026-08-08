@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh recovered-audio checkpoint: SRC-223/C-838 — the existing New Humanist *With Reason* transcript now has a locally preserved public Buzzsprout MP3, RSS episode metadata, and current page/transcript capture. Reopen for a manual audio/transcript audit or a distinct video/archived feed manifestation; do not create a duplicate interview record or promote unverified transcript wording as manually checked.
+
 Fresh publisher-access checkpoint: SRC-616/C-833 — *The Times*’ 31 July 2026 article teaser is locally preserved with headline, byline, standfirst, publisher dates, and explicit subscription boundary; the full body and media were not recovered. Reopen only for a lawful full-text state, correction, public interview artifact, or primary institutional record; do not reconstruct the article from secondary quotations.
 
 Fresh biography/source-version checkpoint: SRC-617/C-834 — *Hindustan Times*’ 28 February 2023 profile and lead image are locally preserved. It adds a dated secondary manifestation of the football/professional-snooker aspiration and delayed-literacy narrative, but no independent sporting or clinical evidence. Reopen only for a named club/tour record, primary interview artifact, correction, or changed article state; do not count repeated biography wording again.

@@ -1,0 +1,40 @@
+HTTP/2 302 
+date: Sat, 08 Aug 2026 12:17:48 GMT
+content-type: audio/mpeg; charset=utf-8
+content-length: 0
+location: https://audio.buzzsprout.com/cvbcvskhfdj8jffnksws7v56w5a9?response-content-disposition=inline
+cache-control: no-cache
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=63072000; includeSubDomains
+vary: Sec-Fetch-Site, Origin
+x-cache: miss
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-request-id: a451a09e-0e2e-4509-98f6-f9cd05a22258
+x-runtime: 0.007008
+x-xss-protection: 0
+cf-cache-status: BYPASS
+server: cloudflare
+cf-ray: a27e75c4787ac6b3-OMA
+
+HTTP/2 200 
+date: Sat, 08 Aug 2026 12:17:48 GMT
+content-type: audio/mpeg
+content-length: 27834412
+last-modified: Fri, 27 Oct 2023 04:03:23 GMT
+etag: "ca36b07cfbb902d8d23755b7ee9b0686"
+x-amz-storage-class: INTELLIGENT_TIERING
+x-amz-server-side-encryption: AES256
+content-disposition: inline
+x-amz-version-id: I4QMhsUiw9nH9MQaBYy10v3iCzCHmILy
+accept-ranges: bytes
+server: cloudflare
+x-cache: Miss from cloudfront
+via: 1.1 df1213036b8ba705e2df6c775680892e.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD58-P15
+x-amz-cf-id: Gojb-VXPVyNDHGg138ARrKMy5ASBnGQJN-d3TtMIFaKutMi-D-rMWg==
+cf-cache-status: REVALIDATED
+cf-ray: a27e75c54b785877-OMA
+

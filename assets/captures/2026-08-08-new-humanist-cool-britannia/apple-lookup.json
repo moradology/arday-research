@@ -1,0 +1,10 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"podcast", "collectionId":1540797061, "trackId":1540797061, "artistName":"New Humanist magazine | The RA", "collectionName":"With Reason", "trackName":"With Reason", "collectionCensoredName":"With Reason", "trackCensoredName":"With Reason", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/with-reason/id1540797061?uo=4", "feedUrl":"https://rss.buzzsprout.com/1480300.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/with-reason/id1540797061?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/04/01/8c0401f8-0c67-8510-0661-4feb7b56e010/mza_4113655704993294230.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/04/01/8c0401f8-0c67-8510-0661-4feb7b56e010/mza_4113655704993294230.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/04/01/8c0401f8-0c67-8510-0661-4feb7b56e010/mza_4113655704993294230.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "collectionHdPrice":0, "releaseDate":"2021-10-26T05:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"cleaned", "trackCount":20, "trackTimeMillis":2388, "country":"USA", "currency":"USD", "primaryGenreName":"Society & Culture", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/04/01/8c0401f8-0c67-8510-0661-4feb7b56e010/mza_4113655704993294230.jpg/600x600bb.jpg", "genreIds":["1324", "26", "1533", "1535"], "genres":["Society & Culture", "Podcasts", "Science", "Social Sciences"]}]
+}
+
+

@@ -3252,3 +3252,11 @@ Decision: added the report as a distinct source. Student complaints, grade effec
 Audit: compared the existing BILT teaser extraction with the locally preserved `JWNqOrsUU7A.en-GB.vtt` file and replaced broad approximate windows with the caption cue ranges.
 
 Decision: retained the extraction as automatic-caption evidence and kept manual listening verification pending. The update improves timecode provenance without upgrading caption text into a manually verified quotation or treating Bristol association as employment.
+
+## 2026-08-08 — SRC-223/C-838: New Humanist audio recovered through podcast feed
+
+Discovery: the existing New Humanist *With Reason* transcript record was rechecked against the show’s public Buzzsprout RSS feed. The feed’s episode item identifies the 15 December 2020 Jason Arday episode and exposes a public MP3 enclosure.
+
+Capture: preserved a current New Humanist HTML page and extracted transcript, the Buzzsprout RSS item, Apple’s public podcast lookup response, response headers, and the 27,834,412-byte MP3. The audio is 2,316.54 seconds by local inspection.
+
+Decision: upgraded SRC-223’s access state rather than creating a duplicate source. The transcript remains the auditable text layer; the MP3 is the recoverable primary audio manifestation. Manual listening and transcript comparison remain open, so no new verbatim quotations were promoted.
