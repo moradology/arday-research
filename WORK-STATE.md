@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-edition checkpoint: on 2026-08-08 `SRC-880/C-882` captured Target’s US hardcover manifestation for *Great and Unfortunate Things* (A-1007422036/TCIN 1007422036; 288 pages; 11 August 2026 street date) and its cover image. It is deduplicated to SRC-091; Target copy is promotional and not independent biography. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly/institutional sweep: on 2026-08-08, exact-name searches for recent DOI output, Cambridge pages, and 2026 events returned only canonical records and homonyms. No new scholarly, institutional, media, or post-event artifact was added; the query family is bounded in `research-log.md` and `NEXT.md`. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly-correction checkpoint: on 2026-08-08 `C-881` recorded a fresh Taylor & Francis PDF request for the existing `SRC-297` correction. The publisher again returned a Cloudflare challenge; the changed body and headers are preserved, and no duplicate source or new correction text was created. Google Drive was not updated; GitHub remains the active publication target.

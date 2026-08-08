@@ -69,6 +69,8 @@
 
 ## Images
 
+- [Target US hardcover cover](assets/captures/2026-08-08-target-memoir-us-edition/cover.jpg) — 1200×1200 product-image manifestation for *Great and Unfortunate Things*, captured with the Target listing under SRC-880/C-882; deduplicated as an edition-level cover, not independent biography.
+
 - **BBC article image — Cambridge senior-hiring review report** | 2026-08-07 | BBC / Aleks Phillips / ITV-Shutterstock credit | editorial article image | [Source record](sources/2026-08-07-bbc-cambridge-hiring-review.md) · [Local JPEG](assets/captures/2026-08-08-bbc-cambridge-hiring-review/portrait.jpg) · [Image headers](assets/captures/2026-08-08-bbc-cambridge-hiring-review/image.headers.txt) | 1200×675 public article image; reuse rights and underlying photo provenance not independently assessed
 
 - **BBC News NI article image — QUB investigation report** | 2026-08-08 | BBC News NI / Robbie Meredith | editorial article image | [Source record](sources/2026-08-08-bbc-qub-arday-investigation.md) · [Local JPEG](assets/captures/2026-08-08-bbc-qub-arday-investigation/portrait.jpg) · [Image headers](assets/captures/2026-08-08-bbc-qub-arday-investigation/image.headers.txt) | 1200×675 public article image; reuse rights not assessed

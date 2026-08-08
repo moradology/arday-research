@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-880/C-882: Target US memoir-edition manifestation
+
+Discovery: an exact-title retailer sweep surfaced Target’s US product page for *Great and Unfortunate Things*, distinct from the Simon & Schuster publisher page and the Google Books catalogue records already in the archive.
+
+Capture: Target’s public page identifies product ID `A-1007422036`/TCIN `1007422036`, an 11 August 2026 street date, and a 288-page hardcover. The page HTML, headers, and a 1200×1200 Target Scene7 cover image are locally preserved.
+
+Decision: added SRC-880/C-882 as a retailer edition/source-version record and linked it to canonical SRC-091. The listing’s childhood and Cambridge language remains promotional copy; it is not independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — Scholarly/institutional-output sweep: no new node
 
 Discovery: exact-name searches for `Jason Arday 2026 publication DOI`, `Jason Arday 2025 article DOI`, Cambridge 2026 pages, and current university-event/workshop material were cross-checked against the archive. The results surfaced the already-catalogued OpenAlex/Crossref records, the BSA Annual Conference 2026 plenary, Cambridge’s 14 April 2026 Anti-Racism Symposium, and the current Faculty of Education profile.

@@ -1,0 +1,27 @@
+HTTP/2 200 
+referrer-policy: no-referrer-when-downgrade
+etag: "16o2keog312693a"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+accept-ranges: bytes
+content-type: text/html; charset=utf-8
+cache-control: private, no-cache
+date: Sat, 08 Aug 2026 23:19:15 GMT
+vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' https://*.target.com;
+strict-transport-security: max-age=31536000; includeSubDomains
+set-cookie: idToken=eyJraWQiOiJlYXMyIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiI1MmJkNzQ1OC1jOTdjLTRiNDAtYjE0ZC03MGI0ODgyYWQyZjciLCJpc3MiOiJNSTYiLCJleHAiOjE3ODYzMTc1NTUsImlhdCI6MTc4NjIzMTE1NSwiYXNzIjoiTCIsInN1dCI6IkciLCJjbGkiOiJlY29tLXdlYi0xLjAuMCIsInBybyI6eyJmbiI6bnVsbCwiZm51IjpudWxsLCJlbSI6bnVsbCwicGgiOmZhbHNlLCJsZWQiOm51bGwsImx0eSI6ZmFsc2UsInN0IjoiS1MiLCJzbiI6bnVsbH19.O3AM9z8KvhpKGzBfAy1DBD2xlvdTVOpDutAf0pmUq2mPTqwzfZ48eaIVSxtgXnqj5CxOGlaGETSTBIDecr7-rXcJk_xhTBMHpkGBXM-BFMJXfyHtXD08UE0Y9TL4xddKWB_gKK_QLgX3xHFuRT9SDRo4ITWsk0iY3c57F9NFxR9brPB4WCPkGdp4RU2PqsCD8Oc-6P9qz_KipupwIBmqaCHCxR_PlZVw6ooNTYcvHMbgio-TdLcyCZedcnMtHdCqTGnz6jdRDIl53oHxPjpFOZnYmVNGPaE94afMnAeAISbhTpSryJeb2O_Ds884xvV5Z6X8__kF5PXZSaZqsDt8zg; Domain=target.com; Path=/; SameSite=Lax; Secure;
+set-cookie: adScriptData=KS; Domain=target.com; Path=/; SameSite=Lax; Secure; Max-Age=86400;
+set-cookie: refreshToken=tUYGBkCYefJaZHXlq6xbSgHZHVFx93L7zxijLxtjscrRSgf3L1cPX3EpogMz-bmiC610XvxzXra2QN4-IlnMeA; Domain=target.com; Path=/; SameSite=Lax; Secure; HttpOnly; Max-Age=15552000;
+set-cookie: sapphire=1; Max-Age=2629746; Expires=Tue, 08 Sep 2026 09:48:20 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
+set-cookie: onboardingGuest=timestamp=1786231155108; Domain=.target.com; Path=/; Secure; SameSite=Lax
+set-cookie: fiatsCookie=DSI_905|DSN_Salina|DSZ_67401|server; Domain=.target.com; Path=/; Secure; SameSite=Lax
+set-cookie: sddStore=DSI_905|DSN_Salina|DSZ_67401|server; Domain=.target.com; Path=/
+set-cookie: TealeafAkaSid=rxqNA2z3qqpXUtTPLWVpEZxA422zjFMg; Expires=Mon, 07 Sep 2026 23:19:15 GMT; Path=/; Domain=target.com;
+set-cookie: GuestLocation=67601|38.820|-99.410|KS|US;Path=/; Secure; Max-Age=86400
+set-cookie: visitorId=019FE3AC691C0200AA40D57606EAD130; Max-Age=63072000; Expires=Mon, 07 Aug 2028 23:19:14 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
+set-cookie: accessToken=eyJraWQiOiJlYXMyIiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI1MmJkNzQ1OC1jOTdjLTRiNDAtYjE0ZC03MGI0ODgyYWQyZjciLCJpc3MiOiJNSTYiLCJleHAiOjE3ODYzMTc1NTUsImlhdCI6MTc4NjIzMTE1NSwianRpIjoiVEdULjFjZGQwYzA1NzMwNzQwY2Y4MzU0ZTVjZmExY2JhYjhkLWwiLCJza3kiOiJlYXMyIiwic3V0IjoiRyIsImRpZCI6IjEwODgyNDg0ZjNmZWNiMTRhY2NjNTU4OGI4Y2ZjNTc3MGRkZjgyYjc2YTQ0YjNkNmJiYmViYmIyZDVkNzNjZjIiLCJzY28iOiJlY29tLm5vbmUsb3BlbmlkIiwiY2xpIjoiZWNvbS13ZWItMS4wLjAiLCJhc2wiOiJMIn0.qWtrD_rMaUjlW1qshWFufidVOoIjO2KOmW9bK3hvwSTjqt50Jg850UoVi0mTKYMyqGCobp5mTPTJYUSvmYEkYxeJiIC30SzPQk9qdqEZIjX2EZtJ0OcVdX9y6vdoAC_nemuK_CBIAri10EnmhHwsfL8iWbyElWOZZPQAQvYGrAiA_1Sus6_5G8NR0ZYb78L-ZKBW3a-rsYM93m9_ZRcblFW-x11wf2YoIc1IIwYPfMStJuiva8ccXKs3Nn0XHZ9kN1mh2c4F9mtLYtvji0DxoX2C1cXGFtk8hJ0YD9z7Vrvaf9OqzaCjy8TS4FkmFjb0I8Sy_xFHWQz0TKSowGxQlQ; Domain=target.com; Path=/; SameSite=Lax; Secure; HttpOnly;
+set-cookie: egsSessionId=373f5873-7a74-4318-a706-28a9820e290b; Domain=target.com; Path=/; SameSite=none; Secure; HttpOnly; Max-Age=3600;
+set-cookie: _pxhd=3ff9348a1affb81f31e792a687271a30ced1eebf348228e16e1ef7a8b01414aa:92429c67-937f-11f1-bb50-f15c9de6568f; Max-Age=31536000; SameSite=Lax; Path=/; Domain=.target.com
+content-length: 291737
+
