@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh sidecar-preservation checkpoint: SRC-268/C-942 — the *Neurodivergent Show* automatic English captions, yt-dlp metadata, and thumbnail are now committed to GitHub alongside the two review clips. The 175,067,296-byte parent remains local-only; captions remain machine-generated navigation material and require audiovisual verification.
+
 Fresh complete-derivative checkpoint: SRC-276/C-941 — the complete 13:24 RSC Inclusion and Diversity Forum recording is now available as a 26,236,081-byte cellular `.m4v` derivative on GitHub. The 111,253,519-byte master remains local-only; the caption endpoint is still zero-byte and Arday’s segment remains untimecoded.
 
 Fresh review-clip checkpoint: SRC-057/C-940 — a 25,980,033-byte opening clip from the Bristol/British Academy “Story of Graceland” lecture is now committed to GitHub. The 183,882,527-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; the clip is a bounded event-review derivative, not a separate source.

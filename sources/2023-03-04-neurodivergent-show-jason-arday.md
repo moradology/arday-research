@@ -11,7 +11,7 @@ id: SRC-268
 - Captured: 2026-08-06
 - Type: interviewer-hosted video interview
 - Duration: 57:40
-- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved; two reproducibility clips committed to GitHub
+- Status: complete progressive MP4, thumbnail, metadata, page snapshot, and automatic English captions locally preserved; sidecars and two reproducibility clips committed to GitHub
 
 ## What the source establishes
 
@@ -22,9 +22,9 @@ The automatic captions contain navigable first-person passages. At approximately
 ## Local preservation
 
 - MP4: `assets/videos/TaxZ_1-GJqI.mp4` — SHA-256 `ae9f50b22c0daa16267321c3fb8c595d9342d9755796f2ae1cc66a345419da8e`; 175,067,296 bytes and remains local-only because it exceeds GitHub’s 100 MiB hard limit.
-- Automatic English captions: `assets/videos/TaxZ_1-GJqI.en.vtt` — SHA-256 `60520390f068ce550fd0c503ca13f593e17670ff30393ed54ea19fe4989d6040`; not human-verified.
-- Metadata: `assets/videos/TaxZ_1-GJqI.info.json` — SHA-256 `5c9effc5c9c44358577f0cd3df4ead2fb22ae380fb29355e0a26635ebb737732`
-- Thumbnail: `assets/videos/TaxZ_1-GJqI.webp`
+- Automatic English captions: `assets/videos/TaxZ_1-GJqI.en.vtt` — SHA-256 `60520390f068ce550fd0c503ca13f593e17670ff30393ed54ea19fe4989d6040`; not human-verified; committed to GitHub.
+- Metadata: `assets/videos/TaxZ_1-GJqI.info.json` — SHA-256 `5c9effc5c9c44358577f0cd3df4ead2fb22ae380fb29355e0a26635ebb737732`; committed to GitHub.
+- Thumbnail: `assets/videos/TaxZ_1-GJqI.webp` — SHA-256 `9a1eedee51a91afb3f6abe01125afba11b3488bdf025ef8e1887642d1dc0e626`; committed to GitHub.
 - YouTube page snapshot: `assets/documents/TaxZ_1-GJqI-youtube.html`
 - Response headers: `assets/documents/TaxZ_1-GJqI-youtube.headers.txt`
 
