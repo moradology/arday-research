@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh complete-derivative checkpoint: SRC-241/C-890 — the complete 59:44 Diversity Seminar interview is now available as a 43,502,939-byte AAC derivative on GitHub. The 123,444,887-byte parent MP4 remains local-only; the derivative is a review copy, not a transcript, and the 05:10–08:30 childhood/literacy captions still require audiovisual verification.
+
 Fresh complete-derivative checkpoint: SRC-198/C-882 — the complete 44:47.53 Research Cast UK interview is now available as a 32,420,279-byte AAC derivative on GitHub. The 107,519,809-byte parent MP3 remains local-only; the derivative is a review copy, not a transcript, and C-117–C-119 still require manual listening.
 
 Fresh review-clip sidecar checkpoint: SRC-263/C-944 — the Cambridge “Black Men On The Couch” record now has its automatic-caption copies, metadata JSON, thumbnail, and bounded 01:11:00–01:31:30 Arday-segment review clip committed to GitHub. The 287,422,026-byte parent remains local-only because it exceeds GitHub’s 100 MiB hard limit; captions remain navigation-only until human verification.

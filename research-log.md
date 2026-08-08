@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-241/C-890: complete Diversity Seminar audio derivative created
+
+Archive action: extracted and transcoded the complete 123,444,887-byte Diversity Seminar parent MP4 to a 43,502,939-byte AAC `.m4a` derivative at 96 kb/s. The derivative runs 59:44.34 and passed an FFmpeg decode validation; its SHA-256 is `94b86fb5e2224ca53cdb423cbca9b6e1fefc202135e33e830efbc801ecdef2fb`.
+
+Decision: added C-890 as an archive-integrity observation. This closes the GitHub handoff gap for the complete interview while retaining the parent MP4 hash as the integrity anchor. The derivative is not a transcript and the existing automatic-caption windows remain unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-198/C-882: complete Research Cast derivative created
 
 Archive action: transcoded the 107,519,809-byte parent MP3 to a complete 32,420,279-byte AAC `.m4a` derivative at 96 kb/s. The derivative runs 44:47.53 and passed an FFmpeg decode validation; its SHA-256 is `b2ffe32d9f4c0fc3008de509b5955a521e9263713724348fbf7399419fc84b70`.
