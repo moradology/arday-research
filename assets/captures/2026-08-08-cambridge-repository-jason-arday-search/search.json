@@ -1,0 +1,3000 @@
+{
+  "id" : null,
+  "scope" : null,
+  "query" : "\"Jason Arday\"",
+  "appliedFilters" : null,
+  "sort" : null,
+  "configuration" : null,
+  "type" : "discover",
+  "_links" : {
+    "self" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522"
+    }
+  },
+  "_embedded" : {
+    "searchResult" : {
+      "_embedded" : {
+        "objects" : [ {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "04e5bfb5-87cf-430e-93b9-fe70d5b8f705",
+              "uuid" : "04e5bfb5-87cf-430e-93b9-fe70d5b8f705",
+              "name" : "Correction: Arday, Jason (2018). Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University? Social Sciences 7: 196",
+              "handle" : "1810/363173",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Arday, Jason",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2024-01-10T08:44:38Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2023-12-06",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2023-09-20",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.updated" : [ {
+                  "value" : "2024-01-10T08:44:37Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Peer reviewed: True",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Publication status: Published",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "2076-0760",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.other" : [ {
+                  "value" : "socsci-12-00672",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/363173",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "MDPI",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Correction: Arday, Jason (2018). Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University? Social Sciences 7: 196",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2023-10-20",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.issueIdentifier" : [ {
+                  "value" : "12",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.number" : [ {
+                  "value" : "672",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "Social Sciences",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.volume" : [ {
+                  "value" : "12",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "VoR",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.3390/socsci12120672",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-12-19T18:50:38.857+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/04e5bfb5-87cf-430e-93b9-fe70d5b8f705"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "9e38fb35-0ad2-4eac-bfee-570b11ee97e3",
+              "uuid" : "9e38fb35-0ad2-4eac-bfee-570b11ee97e3",
+              "name" : "Experience-based Investigation and Co-design of Psychosis Centred Integrated Care Services for Ethnically Diverse People with Multimorbidity (CoPICS): study protocol.",
+              "handle" : "1810/365385",
+              "metadata" : {
+                "cam.issuedOnline" : [ {
+                  "value" : "2024-02-28",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Bhui, Kamaldeep",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Joseph, Doreen",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Khan, Nimra",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Morrey, Tara",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Mooney, Roisin",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Zahid, Uzma",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Mackay, Tanya",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Larkin, Michael",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Keating, Frank",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "McCrone, Paul",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                }, {
+                  "value" : "Upthegrove, Rachel",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 10
+                }, {
+                  "value" : "Griffiths, Sian Lowri",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 11
+                }, {
+                  "value" : "Edge, Dawn",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 12
+                }, {
+                  "value" : "Coventry, Peter A",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 13
+                }, {
+                  "value" : "Arday, Jason",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 14
+                }, {
+                  "value" : "Hosang, Georgina M",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 15
+                } ],
+                "dc.contributor.orcid" : [ {
+                  "value" : "Bhui, Kamaldeep [0000-0002-9205-2144]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Mooney, Roisin [0000-0001-5792-3314]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "McCrone, Paul [0000-0001-7001-4502]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2024-03-05T18:47:45Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2024-02-28",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2024-01-09",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.updated" : [ {
+                  "value" : "2024-03-05T18:47:44Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Peer reviewed: True",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "INTRODUCTION: Ethnic minorities (also called racialised groups) are more likely to experience severe mental illness (SMI). People with SMI are more likely to experience multimorbidity (MM), making psychosis among racialised groups more likely to lead to MM, poor outcomes, disability and premature mortality. METHODS AND ANALYSIS: This National Institute for Health and Care Research-funded study (151887) seeks to use innovative participatory methods including photovoice and biographical narrative interviews in urban and rural areas of England to assemble experience data. These data will be subjected to polytextual thematic analysis, and alongside pictures and captions, will inform an experienced-based co-design of interventions, the implementation of which will be evaluated. There will be an economic analysis and a process evaluation of the implementation. ETHICS AND DISSEMINATION: This programme of work has received ethical (IRAS 322421; Newcastle North Tyneside Research Ethics Committee 23/NE/0143) and sponsor approval. The findings will be disseminated in galleries showing the creative work, as lay and academic summaries and infographics; as practice briefings for practitioners, commissioners and policy makers; peer-reviewed publications. TRIAL REGISTRATION NUMBER: https://www.researchregistry.com/browse-the-registry%23home/registrationdetails/649c08111c037d0027b17d17/.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "2044-6055",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "2044-6055",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.other" : [ {
+                  "value" : "bmjopen-2024-084121",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/365385",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "BMJ",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.url" : [ {
+                  "value" : "https://doi.org/10.1136/bmjopen-2024-084121",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "chronic disease",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "health services",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "schizophrenia & psychotic disorders",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Humans",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Multimorbidity",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Psychotic Disorders",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "England",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Research Design",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Delivery of Health Care, Integrated",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                } ],
+                "dc.title" : [ {
+                  "value" : "Experience-based Investigation and Co-design of Psychosis Centred Integrated Care Services for Ethnically Diverse People with Multimorbidity (CoPICS): study protocol.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2024-01-25",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.issueIdentifier" : [ {
+                  "value" : "2",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.number" : [ {
+                  "value" : "e084121",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "BMJ Open",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.volume" : [ {
+                  "value" : "14",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.funder-project-id" : [ {
+                  "value" : "NIHR (151887)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.freetoread.startdate" : [ {
+                  "value" : "2024-02-28",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.startdate" : [ {
+                  "value" : "2024-02-28",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "VoR",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.1136/bmjopen-2024-084121",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-12-19T08:05:18.662+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9e38fb35-0ad2-4eac-bfee-570b11ee97e3"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "700346cb-cef7-4aaa-8f0d-6e0e08567398",
+              "uuid" : "700346cb-cef7-4aaa-8f0d-6e0e08567398",
+              "name" : "Exploring experiences of mental health challenges in under-represented young people (aged 16-24 years) in England: a narrative inquiry protocol.",
+              "handle" : "1810/402683",
+              "metadata" : {
+                "cam.issuedOnline" : [ {
+                  "value" : "2025-11-26",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Syed Sheriff, Rebecca",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Arday, Jason",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Shankar, Rohit",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Mooney, Roisin",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Chandler, Louise",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Adams, Helen",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Nagy, Lili Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Farrell, Roger",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Fancourt, Daisy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "Weich, Scott",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                }, {
+                  "value" : "Henderson, Catherine",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 10
+                }, {
+                  "value" : "Hassan, Shaima",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 11
+                }, {
+                  "value" : "Langley, Joe",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 12
+                }, {
+                  "value" : "Bhui, Kamaldeep",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 13
+                } ],
+                "dc.contributor.orcid" : [ {
+                  "value" : "Syed Sheriff, Rebecca [0000-0002-5934-6722]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Shankar, Rohit [0000-0002-1183-6933]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Mooney, Roisin [0000-0001-5792-3314]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Nagy, Lili Z [0009-0000-1937-8335]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Farrell, Roger [0000-0002-8485-7559]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Fancourt, Daisy [0000-0002-6952-334X]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Weich, Scott [0000-0002-7552-7697]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Langley, Joe [0000-0002-9770-8720]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Bhui, Kamaldeep [0000-0002-9205-2144]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2026-05-06T10:43:01Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2025-11-26",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2024-12-19",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.updated" : [ {
+                  "value" : "2026-05-06T10:43:00Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Peer reviewed: True",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Acknowledgements: We would like to thank young people from McPin, Young People Cornwall and young people from the O-ACE project for their valuable advice and feedback on the proposed research.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Publication status: Published",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "INTRODUCTION: Three-quarters of mental health problems start before the age of 25. However, young people are the least likely to receive mental healthcare. Some young people (such as those from ethnic minorities) are even less likely to receive mental healthcare than others. Long-term impacts of mental health problems include poorer physical health, relationships, education and employment. We aim to elicit the views, experiences and needs of diverse young people (aged 16-24 years), to better understand (1) their experiences of under-representation, mental health and coping, (2) mechanisms that shape mental health trajectories and (3) how online arts and culture might be made engaging and useful for young people's mental health. We also aim to do this with autistic young people. METHODS AND ANALYSIS: Narrative inquiry will be employed as a tool for gathering young people's perspectives for an iterative analysis. The narrative method proposes that critical insights and knowledge are distributed across social systems and can be discovered in personal stories and that knowledge can be relayed, stored and retrieved through these stories. Data will be transcribed and explored using a combination of thematic and intersectional analysis. Young people will be core members of the research team, shape the research and be involved in the coding of data and interpretation of the findings. ETHICS AND DISSEMINATION: This study (IRAS project ID 340259) has received ethical approval from the HRA and Health and Care Research Wales (REC reference 24/SC/0083). The outputs will identify touch points and refine the logic model of how online arts and culture might support the mental health of those from under-represented backgrounds. We will share knowledge with young people, policy makers, health professionals, carers, teachers, social workers and people who work in arts and culture. We will produce research papers, blogs, newsletters, webinars, videos and podcasts.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "2044-6055",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "2044-6055",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.other" : [ {
+                  "value" : "bmjopen-2024-098223",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/402683",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "BMJ",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.publisher.url" : [ {
+                  "value" : "https://doi.org/10.1136/bmjopen-2024-098223",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Adolescents",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Health",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "MENTAL HEALTH",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Humans",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Adolescent",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Young Adult",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "England",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Mental Health",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Narration",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "Mental Health Services",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                }, {
+                  "value" : "Qualitative Research",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 10
+                }, {
+                  "value" : "Mental Disorders",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 11
+                }, {
+                  "value" : "Male",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 12
+                }, {
+                  "value" : "Female",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 13
+                }, {
+                  "value" : "Adaptation, Psychological",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 14
+                }, {
+                  "value" : "Research Design",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 15
+                } ],
+                "dc.title" : [ {
+                  "value" : "Exploring experiences of mental health challenges in under-represented young people (aged 16-24 years) in England: a narrative inquiry protocol.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2025-11-11",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.issueIdentifier" : [ {
+                  "value" : "11",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.number" : [ {
+                  "value" : "bmjopen-2024-098223",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "BMJ Open",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.volume" : [ {
+                  "value" : "15",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.funder-project-id" : [ {
+                  "value" : "National Institute for Health Research (NIHR204148)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.freetoread.startdate" : [ {
+                  "value" : "2025-11-26",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.startdate" : [ {
+                  "value" : "2025-11-26",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "VoR",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.1136/bmjopen-2024-098223",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-05-07T01:43:52.395+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/700346cb-cef7-4aaa-8f0d-6e0e08567398"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "245ca7d9-14e2-475d-8608-7f22b52409ee",
+              "uuid" : "245ca7d9-14e2-475d-8608-7f22b52409ee",
+              "name" : "Data snapshots of the access and participation of ‘women’ academics in UK universities: Questioning continued gendered, racialised and geopolitical inequalities",
+              "handle" : "1810/370571",
+              "metadata" : {
+                "cam.issuedOnline" : [ {
+                  "value" : "2024-07-04",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Belluigi, Dina Zoe",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Arday, Jason",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "O'Keeffe, Joanne",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                } ],
+                "dc.contributor.orcid" : [ {
+                  "value" : "Belluigi, Dina Zoe [0000-0003-4005-0160]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2024-07-05T07:40:29Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2024-12",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2024-03-04",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.updated" : [ {
+                  "value" : "2024-07-05T07:40:28Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Publication status: Published",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Abstract Replete with espoused discourses of equality, diversity and inclusion within public bodies, is the UK, wherein lauded initiatives reward its universities’ commitments to increasing the access and positioning of ‘women’ in higher education. This paper contributes a critical quantitative analysis of the state of representation and participation of academic staff within these universities generally, and the majority‐female discipline of education particularly. Education is important because it has a direct relation to social change and ethicality. It may maintain or reproduce the status quo; however, exercising its transformative potential is essential for the success of various international frameworks aiming to address global inequality, including most recently the Sustainable Development Goals. Sensitised by QuantCrit principles, a descriptive statistical exploration was undertaken of the staff composition and employment conditions captured within the administrative datasets reported on academic staff by all the public universities in the devolved nations of England, Northern Ireland, Scotland, and Wales from 2015 to 2020. The findings of this study confirmed: (i) the continuation of gendered inequalities across the academic hierarchy, particularly as the pyramid narrows to the assigned intellectual leadership position of ‘professor’; (ii) racialised, gendered inequalities in access to employment, and in positioning once employed; and (iii) more adverse conditions where gendered, racialised and geopolitical inequalities intersect, most extremely for Black African female academics. The study demonstrates that the centring of ‘race’ and consideration of nationality are required to challenge coloniality, and to bring to the fore the differential impacts of systems of discrimination within this globally influential sector.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "1469-3518",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "0141-1926",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.other" : [ {
+                  "value" : "berj4047",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "cber-2024-0145.r1",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/370571",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language" : [ {
+                  "value" : "en",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Wiley",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.url" : [ {
+                  "value" : "https://doi.org/10.1002/berj.4047",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Attribution 4.0 International",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "http://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "3902 Education Policy, Sociology and Philosophy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "39 Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "10 Reduced Inequalities",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "5 Gender Equality",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Data snapshots of the access and participation of ‘women’ academics in UK universities: Questioning continued gendered, racialised and geopolitical inequalities",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2024-06-25",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "British Educational Research Journal",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "http://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "VoR",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.1002/berj.4047",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-02-07T05:46:03.496+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/245ca7d9-14e2-475d-8608-7f22b52409ee"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "37633222-f987-4001-941e-c319e1499f59",
+              "uuid" : "37633222-f987-4001-941e-c319e1499f59",
+              "name" : "University Spaces through a Gendered Lens: A Photographic Autoethnography",
+              "handle" : "1810/369329",
+              "metadata" : {
+                "cam.depositDate" : [ {
+                  "value" : "2024-06-05",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.issuedOnline" : [ {
+                  "value" : "2024-05-16",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.orpheus.success" : [ {
+                  "value" : "2024-06-18: embargo set during processing based on Sherpa/RoMEO information. [embargo: 2025-11-16]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Peng, Sheng-Hsiang Lance",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.orcid" : [ {
+                  "value" : "Peng, Sheng-Hsiang Lance [0000-0003-1825-6146]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2024-06-18T23:30:43Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2024-07-02",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "In this photo essay, I use a diary-style narrative and photojournalistic images to document my experiences in gendered spaces in a UK collegiate university during the academic year 2022–2023, unveiling complexities of gender and sexual diversity in academic settings. I delineate three domains—terra firma, digital skies, and echoes of reverberation—within the context of higher education. This blend of illustrations and scholarly insights offers a valuable contribution to discourse on gendered spaces in universities.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.doi" : [ {
+                  "value" : "https://doi.org/10.17863/CAM.109178",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "1938-8098",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "0013-1725",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/369329",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Taylor & Francis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.publisher.department" : [ {
+                  "value" : "Faculty of Education Student",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.url" : [ {
+                  "value" : "https://doi.org/10.1080/00131725.2024.2340077",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by-nc/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "39 Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "University Spaces through a Gendered Lens: A Photographic Autoethnography",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2024-01-22",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.endingPage" : [ {
+                  "value" : "18",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.issueIdentifier" : [ {
+                  "value" : "ahead-of-print",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "The Educational Forum",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "prism.startingPage" : [ {
+                  "value" : "1",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.volume" : [ {
+                  "value" : "ahead-of-print",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-display-name" : [ {
+                  "value" : "Apollo Repository Deposit Licence Agreement",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-identifier" : [ {
+                  "value" : "apollo-deposit-licence-3",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by-nc/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.type" : [ {
+                  "value" : "Journal Article/Review",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "AM",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.1080/00131725.2024.2340077",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-10-25T01:45:00.639+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/37633222-f987-4001-941e-c319e1499f59"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "de5236bf-617d-4c38-b2c4-a79135145bd2",
+              "uuid" : "de5236bf-617d-4c38-b2c4-a79135145bd2",
+              "name" : "Critical knowledge-making in the age of Prevent: a collaborative auto-ethnography of Muslim female doctoral students",
+              "handle" : "1810/394750",
+              "metadata" : {
+                "cam.depositDate" : [ {
+                  "value" : "2026-01-02",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.issuedOnline" : [ {
+                  "value" : "2025-12-23",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.orpheus.success" : [ {
+                  "value" : "2026-01-07: embargo set during processing (Sherpa policy or default). [embargo: expired]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Ali, Tasnim",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Bham, Maryam",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Denmead, Tyler",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Karim, Duaa",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Shareef, Amina",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                } ],
+                "dc.contributor.orcid" : [ {
+                  "value" : "Bham, Maryam [0009-0000-1429-5493]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Denmead, Tyler [0000-0001-8583-9945]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2026-01-08T00:31:31Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2025-12-25",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "In British higher education, Muslims are often constructed as threats to the state through the process of securitisation. This framing, rooted in anti-Muslim racism, intersects with gendered and Orientalist discourses that position visibly Muslim women in contradictory ways. Such narratives have created a chilling effect on Muslim women academics and students who pursue critical scholarship challenging these securitised views. This paper draws on autoethnographic journal accounts from four British Muslim doctoral researchers and their supervisor to examine moments when perceptions of state surveillance shaped their academic decisions. The thematic analysis identifies three central dynamics: surveillance and self-censorship, the burden of representation, and the anti-Muslim politics of knowledge production. These findings highlight how securitisation policies, such as Prevent, compromise academic freedom and intellectual diversity, emphasising the need to reconsider their role in universities committed to democratic values and inclusive knowledge production.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.doi" : [ {
+                  "value" : "https://doi.org/10.17863/CAM.124541",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.eissn" : [ {
+                  "value" : "1470-109X",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "1361-3324",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/394750",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Taylor & Francis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.department" : [ {
+                  "value" : "Faculty of Education Student",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Faculty of Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.publisher.url" : [ {
+                  "value" : "https://doi.org/10.1080/13613324.2025.2599093",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Attribution 4.0 International",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "3902 Education Policy, Sociology and Philosophy",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "39 Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "3904 Specialist Studies In Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                } ],
+                "dc.title" : [ {
+                  "value" : "Critical knowledge-making in the age of Prevent: a collaborative auto-ethnography of Muslim female doctoral students",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dcterms.dateAccepted" : [ {
+                  "value" : "2025-11-02",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.endingPage" : [ {
+                  "value" : "18",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.issueIdentifier" : [ {
+                  "value" : "ahead-of-print",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.publicationName" : [ {
+                  "value" : "Race Ethnicity and Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.startingPage" : [ {
+                  "value" : "1",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "prism.volume" : [ {
+                  "value" : "ahead-of-print",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-display-name" : [ {
+                  "value" : "Apollo Repository Deposit Licence Agreement",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-identifier" : [ {
+                  "value" : "apollo-deposit-licence-3",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://creativecommons.org/licenses/by/4.0/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.type" : [ {
+                  "value" : "Journal Article/Review",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.version" : [ {
+                  "value" : "AM",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.versionofrecord" : [ {
+                  "value" : "10.1080/13613324.2025.2599093",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-04-27T15:27:38.998+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/de5236bf-617d-4c38-b2c4-a79135145bd2"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "9404f557-4dfb-409a-a013-5ade7ff1f22f",
+              "uuid" : "9404f557-4dfb-409a-a013-5ade7ff1f22f",
+              "name" : "Besieged Life: Subjecting Liberal Muslim Women in the War on Terror",
+              "handle" : "1810/365924",
+              "metadata" : {
+                "cam.depositDate" : [ {
+                  "value" : "2024-03-18",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.restriction" : [ {
+                  "value" : "thesis_access_embargoed",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.supervisor" : [ {
+                  "value" : "Denmead, Tyler",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.thesis.confidential" : [ {
+                  "value" : "sensitive_information_na",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.thesis.copyright" : [ {
+                  "value" : "copyright_na",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Shareef, Amina",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2024-04-05T13:40:13Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2024-02-05",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "This qualitative inquiry examines the subjection of young British Muslim women in a northern, post-industrial city in Britain. Research has established that Muslim women are constructed by security policy, popular media, film, television, and the news as abnormal, suspicious, and lacking agency. This racialised and gendered construction limits their access to, for example, employment and educational opportunities, and subjects them to verbal and physical violence on the street. Research has also shown that Muslim women are responding to anti-Muslim racism by modifying their sartorial practices and crafting their amiability, sociability, and respectability. While crucial for understanding the centrality of gender in the production of anti-Muslim racism and its impacts on Muslim women, the existing research has two tendencies that this dissertation seeks to redress. First, this scholarship tends to take a liberal perspective of racism and approaches anti-Muslim racism as a relationship between perpetrators and victims. And second, this scholarship tends to interpret Muslim women’s response to anti-Muslim racism as the creative identity work of affirming, managing, and navigating their Muslim identities. These tendencies mean that a view of anti-Muslim racism as a biopolitical project that exposes Muslim populations to premature death is missing. By premature death, I not only mean the uneven distribution of the loss of life as a result of racism, but also the unmaking of Muslim women as tawhidic subjects—subjects who are forged in relation to an Islamic worldview in which there is no god but God. Put otherwise, this view of anti-Muslim racism recognizes how it threatens Muslim people’s lives as tawhidic subjects. Tawhidic subjects become liberal subjects to protect themselves from actual violent threats to their lives as a result of extreme and everyday acts of anti-Muslim racism. This qualitative study with 76 young British Muslim women between the ages of 12-18 illustrates young British Muslim women’s subjection as liberal Muslim women. Muslim women in my study report self-regulating their Muslimness by conforming to secular and normative models of femininity, citizenship, and religiosity. My study allows me to offer a conception of a figure that I am calling besieged life. Besieged life is a biopolitical subject that faces death on two fronts: a biopolitical front characterized by exclusion from education, employment, housing, healthcare, and so forth and a subjective front characterized by the devitalization of her tawhidic subjectivity. More than just facing death, besieged life is life that faces a deathly dilemma: biopolitical death or death of the tawhidic self.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.doi" : [ {
+                  "value" : "https://doi.org/10.17863/CAM.106985",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/365924",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "eng",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.department" : [ {
+                  "value" : "Faculty of Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.institution" : [ {
+                  "value" : "University of Cambridge",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "https://www.rioxx.net/licenses/all-rights-reserved/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "War on terror",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Anti-Muslim racism",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Muslim women",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Hijab",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Racialisation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Subjection",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Bare life",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Biopolitics",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                } ],
+                "dc.title" : [ {
+                  "value" : "Besieged Life: Subjecting Liberal Muslim Women in the War on Terror",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type.qualificationlevel" : [ {
+                  "value" : "Doctoral",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type.qualificationname" : [ {
+                  "value" : "Doctor of Philosophy (PhD)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-display-name" : [ {
+                  "value" : "Apollo Repository Deposit Licence Agreement",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-identifier" : [ {
+                  "value" : "apollo-deposit-licence-3",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "https://www.rioxx.net/licenses/all-rights-reserved/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.type" : [ {
+                  "value" : "Thesis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-08-06T07:13:38.389+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/9404f557-4dfb-409a-a013-5ade7ff1f22f"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "47ddc55a-a855-40b7-84c5-ef6a7bc0df49",
+              "uuid" : "47ddc55a-a855-40b7-84c5-ef6a7bc0df49",
+              "name" : "Of, but not in: A poetic exploration of how Black women students respond to the coloniality of Oxbridge",
+              "handle" : "1810/386185",
+              "metadata" : {
+                "cam.depositDate" : [ {
+                  "value" : "2025-06-27",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.restriction" : [ {
+                  "value" : "thesis_access_embargoed",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.supervisor" : [ {
+                  "value" : "Denmead, Tyler",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.supervisor.orcid" : [ {
+                  "value" : "Denmead, Tyler [0000-0001-8583-9945]",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.thesis.confidential" : [ {
+                  "value" : "sensitive_information_cleared",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "cam.thesis.copyright" : [ {
+                  "value" : "copyright_cleared",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Folayan, Damilola",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-07-10T07:34:21Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.submitted" : [ {
+                  "value" : "2024-11-26",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "What would we give to be free again?\nTo live in these spaces unbound by the clasps of our skin.\n\nTo love and laugh as though our melanin were the very thing that brought us freedom,\nThe thing that taught us to be true and remain within the unbounded nature of Love.\n\nWhat would we give to be free again?\nOr should we ask,\n\nWhat have we given?\n\nMy project was inspired by Kwakye and Ogunbiyi’s 2019 publication, Taking Up Space, which occurred at a time when new and significant attention was given to the experiences of Black women at elite universities. Media and publications exploring the experiences of Black women at Oxbridge have since emphasised the process of taking up space, which often entails occupying spaces Black women have been historically discounted from or silenced in. The taking-up-space model generally requires a level of self-sacrifice from Black women. Like trends across elite HEIs, Black women at Oxbridge often feel isolated and forced to consider “what they must ‘give up’ of themselves to belong” (Arday and Mirza, 2018:180). As an alternative to the taking up space model, I theorise Black women’s navigation of Oxbridge as marronage, which involves escaping the logic of slavery and coloniality that are pervasive in UK HEIs. This mode of marronage is necessitated by the racialised and gendered discrimination present with Oxbridge (Bledsoe, 2018).\n\nMarronage facilitates the creation of a community through which we can refuse to relinquish any\nfacet of who we are and revolt against coloniality’s epistemic and ontological alienation (Bell, 2018). Instead, we carve out “a space for shared empathy” (Stockfelt, 2018:1017). Different from taking up space, marronage involves taking flight from oppressive environments and forging communities unbounded by the clasp of coloniality. My research highlights that marronage is not the only choice for Black women students at Oxbridge. There is also great power in staying and taking up space since~ “the actual physical [Black] body can interrogate and potentially disrupt the [racialised] status quo” (Cox, 2014:5). Hence, both taking up space and marronage emerge as counter-practices employed by Black women at Oxbridge.\n\nMy research theorises the marronage counter-practices through which Black women navigate\nOxbridge. Exploring Black women's current and historical experiences at Oxbridge, my PhD research project asks How do Black women students respond to the coloniality of Oxbridge? I highlight London as the Foothill of Black women, theorising how marronage operates as a transformative praxis that challenges the dehumanising agenda of slavery and colonial logic (Bledsoe, 2018) present within Oxbridge. I also highlight Potlucks as Marronage, theorising potlucks as acts of culinary and cultural sustenance which seek to meet the needs of Black women students in a way that is neglected by the institutions of Oxbridge. Through potlucks, I theorise how Black women’s eating rituals in Oxbridge operate to create and preserve cultures and identities (see Dacin et al., 2010 and Sperry, 2021).\n\nMy research explores the experiences of Black women in the elite Higher Education Institutions\n(HEIs) of Oxford and Cambridge. My question is premised on the understanding that coloniality\noutlasts periods of colonial governance and transcends colonial localities through its pervasive logic. I explore how the histories of Oxbridge are intrinsically linked with colonialism and detail the manifestations of coloniality at Oxbridge, like racism, in the present day.\n\nMy research employs Critical Poetic Inquiry and draws on Black women’s literary trends of breaking from traditional form and prose through storying and poetry writing. Critical Poetic Inquiry is distinct from other forms of qualitative inquiry in that it prioritises justice. Drawing on Black Feminist and Womanist traditions, in a fashion exemplied by Kafayat Okanlawon in her 2019 book This Is Us: Black British Women and Girls, my research and writing become “a lament, a war cry, a chant and a belly laugh” they are “a joyful, painful rupture, a disruption, a deliberate transgression, a ri, and a drum beat... a prayer for all we have lost and for all that we can be” (6). Ultimately, my PhD research is a justice-centred project aimed at celebrating and memorialising the\nlives and experiences of Black women students of Oxbridge, past and present.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.sponsorship" : [ {
+                  "value" : "Niyo Group",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.doi" : [ {
+                  "value" : "https://doi.org/10.17863/CAM.119514",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://www.repository.cam.ac.uk/handle/1810/386185",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.department" : [ {
+                  "value" : "Faculty of Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher.institution" : [ {
+                  "value" : "University of Cambridge",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All rights reserved",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights.uri" : [ {
+                  "value" : "http://purl.org/NET/rdflicense/allrightsreserved",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Critical Poetic Inquiry",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Decolonisation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Gender",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Higher Education",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Race",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "UK",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Womanism",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                } ],
+                "dc.title" : [ {
+                  "value" : "Of, but not in: A poetic exploration of how Black women students respond to the coloniality of Oxbridge",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type.qualificationlevel" : [ {
+                  "value" : "Doctoral",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type.qualificationname" : [ {
+                  "value" : "Doctor of Philosophy (PhD)",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-display-name" : [ {
+                  "value" : "Apollo Repository Deposit Licence Agreement",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "pubs.licence-identifier" : [ {
+                  "value" : "apollo-deposit-licence-3",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.licenseref.uri" : [ {
+                  "value" : "http://purl.org/NET/rdflicense/allrightsreserved",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "rioxxterms.type" : [ {
+                  "value" : "Thesis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2026-08-04T00:40:38.337+00:00",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/bundles"
+                },
+                "citationInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/citationInformation"
+                },
+                "embargoInformation" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/embargoInformation"
+                },
+                "identifiers" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/relationships"
+                },
+                "version" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49/thumbnail"
+                },
+                "self" : {
+                  "href" : "https://api.repository.cam.ac.uk/server/api/core/items/47ddc55a-a855-40b7-84c5-ef6a7bc0df49"
+                }
+              }
+            }
+          }
+        } ]
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 100,
+        "totalPages" : 1,
+        "totalElements" : 8
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%22Jason%20Arday%22&size=100"
+        }
+      }
+    },
+    "facets" : [ {
+      "name" : "author",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "minValue" : "'Aho, Tevita",
+      "maxValue" : "黃士桓",
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/author?query=%22Jason%20Arday%22&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/author?query=%22Jason%20Arday%22&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Arday, Jason",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.author=Arday,%20Jason,equals"
+            }
+          }
+        }, {
+          "label" : "Bhui, Kamaldeep",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.author=Bhui,%20Kamaldeep,equals"
+            }
+          }
+        }, {
+          "label" : "Mooney, Roisin",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.author=Mooney,%20Roisin,equals"
+            }
+          }
+        }, {
+          "label" : "Shareef, Amina",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.author=Shareef,%20Amina,equals"
+            }
+          }
+        }, {
+          "label" : "Adams, Helen",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.author=Adams,%20Helen,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "subject",
+      "facetType" : "hierarchical",
+      "facetLimit" : 5,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/subject?query=%22Jason%20Arday%22&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/subject?query=%22Jason%20Arday%22&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "39 Education",
+          "count" : 3,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.subject=39%20Education,equals"
+            }
+          }
+        }, {
+          "label" : "3902 Education Policy, Sociology and Philosophy",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.subject=3902%20Education%20Policy,%20Sociology%20and%20Philosophy,equals"
+            }
+          }
+        }, {
+          "label" : "England",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.subject=England,equals"
+            }
+          }
+        }, {
+          "label" : "Humans",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.subject=Humans,equals"
+            }
+          }
+        }, {
+          "label" : "Research Design",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.subject=Research%20Design,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "organisationalGroup",
+      "facetType" : "hierarchical",
+      "facetLimit" : 10,
+      "page" : {
+        "number" : 0,
+        "size" : 10
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/organisationalGroup?query=%22Jason%20Arday%22&size=10"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Faculty of Education Student",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.organisationalGroup=Faculty%20of%20Education%20Student,equals"
+            }
+          }
+        }, {
+          "label" : "Faculty of Education",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.organisationalGroup=Faculty%20of%20Education,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "dc.publisher.college",
+      "facetType" : "text",
+      "facetLimit" : 10,
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/dc.publisher.college?query=%22Jason%20Arday%22"
+        }
+      },
+      "_embedded" : {
+        "values" : [ ]
+      }
+    }, {
+      "name" : "dateIssued",
+      "facetType" : "date",
+      "facetLimit" : 5,
+      "minValue" : "01/02/2026",
+      "maxValue" : "January 2010",
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/dateIssued?query=%22Jason%20Arday%22&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "1980 - 2027",
+          "count" : 6,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.dateIssued=%5B1980%20TO%202027%5D,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "has_content_in_original_bundle",
+      "facetType" : "standard",
+      "facetLimit" : 2,
+      "page" : {
+        "number" : 0,
+        "size" : 2
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/has_content_in_original_bundle?query=%22Jason%20Arday%22&size=2"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "true",
+          "count" : 8,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.has_content_in_original_bundle=true,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "itemtype",
+      "facetType" : "text",
+      "facetLimit" : 10,
+      "page" : {
+        "number" : 0,
+        "size" : 10
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/itemtype?query=%22Jason%20Arday%22&size=10"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Article",
+          "count" : 5,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.itemtype=Article,equals"
+            }
+          }
+        }, {
+          "label" : "Thesis",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.itemtype=Thesis,equals"
+            }
+          }
+        }, {
+          "label" : "Other",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.itemtype=Other,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "entityType",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/entityType?query=%22Jason%20Arday%22"
+        }
+      },
+      "_embedded" : {
+        "values" : [ ]
+      }
+    }, {
+      "name" : "access_status",
+      "facetType" : "text",
+      "facetLimit" : 10,
+      "page" : {
+        "number" : 0,
+        "size" : 10
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://api.repository.cam.ac.uk/server/api/discover/facets/access_status?query=%22Jason%20Arday%22&size=10"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "open.access",
+          "count" : 5,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.access_status=open.access,equals"
+            }
+          }
+        }, {
+          "label" : "embargo",
+          "count" : 3,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=%2522Jason%2520Arday%2522&f.access_status=embargo,equals"
+            }
+          }
+        } ]
+      }
+    } ]
+  }
+}

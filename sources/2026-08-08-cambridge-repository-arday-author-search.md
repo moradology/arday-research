@@ -28,3 +28,9 @@ The remaining 25 search hits are not promoted to Arday publications: they contai
 - [Response headers](../assets/documents/repositories/cambridge-arday-search-2026-08-08/response-headers.txt) — SHA-256 `03dbd9a1598a8ff9686748a6159f48cb10ec037bc8c11538b62869c6a6b9847a`
 - Query endpoint: `https://api.repository.cam.ac.uk/server/api/discover/search/objects?query=Arday&size=100`
 
+## Exact-phrase follow-up — 8 August 2026
+
+The Discover API was queried again with the exact phrase `"Jason Arday"` and `size=100`. It returned eight item records: the four already-known Arday-authored repository manifestations (the 2023 correction, CoPICS protocol, under-represented-young-people protocol, and women-academics article) plus four other Cambridge theses/articles where the phrase occurs in full text or citation context. None of the additional records identifies Arday as an author or supervisor in repository metadata. The separate Henriques thesis supervision record is retained as SRC-594 because its repository item was located through a concrete title/role lead and directly inspected.
+
+- [Exact-phrase API response](../assets/captures/2026-08-08-cambridge-repository-jason-arday-search/search.json) — SHA-256 `cdb7d0bbd53eb63b3bfba4271fd45b15f196857b326f668abc544059da48ff38`.
+- [Response headers](../assets/captures/2026-08-08-cambridge-repository-jason-arday-search/search.headers.txt) — SHA-256 `1ea43b7bd2d8c03c39383a48d54334ce05ff9a3cce2df677faf38adebd3eb8e3`.

@@ -4,8 +4,8 @@ type: doctoral thesis / public acknowledgement witness
 title: "What's the story: Exploring inequality in outcomes through the narratives of part-time racially minoritised students in online learning"
 subject: ../entities/jason-arday.md
 published: 2025-06-09
-accessed: 2026-08-08
-status: official Open University profile and repository record captured; thesis PDF access currently Cloudflare-blocked; acknowledgement wording preserved only through indexed text witness
+accessed: 2026-08-08 (current-state recheck)
+status: official Open University profile and repository record captured; thesis PDF remains Cloudflare-blocked; acknowledgement wording preserved only through indexed text witness
 evidence_class: first-party institutional profile/repository metadata plus search-indexed thesis excerpt; not a formal supervision record
 urls:
   - https://profiles.open.ac.uk/rehana-awan
@@ -15,6 +15,8 @@ assets:
   - ../assets/documents/awi-thesis-2025/awan-profile.html
   - ../assets/documents/awi-thesis-2025/awan-profile.headers.txt
   - ../assets/documents/awi-thesis-2025/awan-thesis.headers.txt
+  - ../assets/captures/2026-08-08-open-university-awan-thesis-recheck/thesis.html
+  - ../assets/captures/2026-08-08-open-university-awan-thesis-recheck/thesis.headers.txt
 related:
   - sources/2025-11-26-underrepresented-young-people-protocol.md
 ---
@@ -24,6 +26,13 @@ related:
 The Open University’s public profile for Rehana Awan lists her thesis, **“What’s the story: Exploring inequality in outcomes through the narratives of part-time racially minoritised students in online learning,”** and links to Open Research Online record 109232. The repository’s indexed PDF text exposes an acknowledgement in which Awan thanks Professor Jason Arday for “sage advice” and knowledge of the academy and the challenges faced by scholars of race.
 
 This is useful evidence of a public academic relationship or contribution, but it is not treated as a formal supervisory, examining, employment, or co-authorship record. The direct repository landing page and PDF returned Cloudflare HTTP 403 during capture, so the acknowledgement is recorded as an indexed-text witness rather than as a locally verified page quotation. The Open University profile and repository URL are preserved as the primary retrieval targets.
+
+## Current-state recheck — 8 August 2026
+
+The exact PDF URL was rechecked after a search-index result exposed the direct document again. It still returned a Cloudflare challenge rather than a PDF: the response is 6,212 bytes of HTML and contains no thesis text. No attempt was made to bypass the challenge. The acknowledgement therefore remains an indexed-text witness and the role remains unresolved beyond public advice/contribution.
+
+- [Challenge HTML](../assets/captures/2026-08-08-open-university-awan-thesis-recheck/thesis.html) — SHA-256 `e68b36f4c7431d0aff1eac0dc2a73db1b2086664ce19e94715a0988705e27ff2`.
+- [Response headers](../assets/captures/2026-08-08-open-university-awan-thesis-recheck/thesis.headers.txt) — SHA-256 `01b6ce0f297497402c7c3496c3b191eb0518ba8019f191e6a4dcbf78a4ea4f78`.
 
 ## Local preservation
 

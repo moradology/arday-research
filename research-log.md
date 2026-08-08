@@ -1,5 +1,19 @@
 # Research log
 
+# 2026-08-08 — SRC-429/C-489–C-490: Open University Awan thesis access-state recheck
+
+Discovery: a current search-index result exposed the exact Open Research Online PDF URL previously recorded as a Cloudflare-bound lead. A direct recheck still returned a 6,212-byte Cloudflare challenge HTML response rather than the thesis PDF.
+
+Capture: preserved the current challenge body and response headers under `assets/captures/2026-08-08-open-university-awan-thesis-recheck/`. No bypass or authenticated retrieval was attempted.
+
+Decision: keep the acknowledgement thanking Professor Jason Arday for “sage advice” as indexed-text evidence only. It does not establish formal supervision, examining, employment, or co-authorship. Reopen only after a changed lawful access state or a distinct institutional role record.
+
+# 2026-08-08 — SRC-440: Cambridge Repository exact-phrase follow-up
+
+Discovery: the Cambridge Repository Discover API was queried for the exact phrase `"Jason Arday"` with `size=100`. It returned eight item records. Four were already-canonical Arday-authored manifestations; four additional items contained the phrase in citation/full-text context but did not identify Arday as an author or supervisor in their repository metadata.
+
+Decision: no new publication or role node was created from the four non-author hits. The Henriques thesis remains a distinct SRC-594 record because its role evidence was directly located and page-checked. The exact-phrase query is now a closed, reproducible boundary until the API result changes or a concrete lead appears.
+
 # 2026-08-08 — SRC-594/C-791: Cambridge Repository supervision-role record
 
 Discovery: a current Cambridge Repository search surfaced Sasha Louise May Henriques’s thesis, *Ancestry in the Margins: Justice, Genomics, and the Ethics of Human Classification*. The repository record gives a 9 July 2026 publication date, a January 2026 thesis date, DOI `10.17863/CAM.132081`, and a public 401-page PDF.
