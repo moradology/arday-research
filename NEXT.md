@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh review-clip checkpoint: SRC-058/C-937 — two MMU LEED keynote clips are now committed to GitHub: 00:06:30–00:07:10 (PE-teacher route) and 00:42:25–00:43:00 (PE-teacher/pedagogy framing). The 847 MB parent remains local-only; the official SRT reports 81% accuracy and the clips remain self-report review aids, not independent employment evidence.
+
 Fresh review-clip checkpoint: SRC-241/C-936 — an 8,618,819-byte review clip covering source interval 05:00–09:00 of the Diversity Seminar interview is now committed to GitHub. It contains the documented diagnosis, speech, literacy, and Sandro/tutor caption windows; the 123,444,887-byte parent remains local-only and automatic captions require human verification.
 
 Fresh review-clip checkpoint: SRC-271/C-935 — a 38,308,300-byte opening clip covering source interval 00:00–10:00 of UCU’s “Decolonising our institutions” webinar is now committed to GitHub. The captions identify Jason and the Black Members Standing Committee near 00:11–00:19 and begin his contribution around 00:31; the 187,205,146-byte parent remains local-only and substantive captions remain unverified.

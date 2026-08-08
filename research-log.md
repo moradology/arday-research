@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-058/C-937: MMU PE-teacher review clips created
+
+Audit: SRC-058 documented the MMU LEED keynote, its official English (British) SRT, and two PE-teacher self-description windows, but the 847 MB parent MP4 is above GitHub’s 100 MiB hard limit. FFmpeg extraction was killed on the large parent; macOS `avconvert` successfully produced bounded derivatives.
+
+Archive action: created and checksum-verified clips for source intervals 00:06:30–00:07:10 and 00:42:25–00:43:00. The parent MP4 hash remains the integrity anchor and the full parent remains local-only.
+
+Decision: added C-937 as an archive-integrity observation. The clips make the existing PE-teacher self-description reproducible; they do not establish independent employment records or upgrade the 81%-accuracy caption track to a verified transcript. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-241/C-936: Diversity Seminar childhood/literacy clip created
 
 Audit: SRC-241 documented a 59:44 first-person interview, automatic captions, and navigation points at approximately 05:22–08:20, but the 123,444,887-byte parent MP4 is above GitHub’s 100 MiB hard limit.
