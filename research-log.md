@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-307/C-925: BME ECR promotional video promoted
+
+Audit: the canonical 10th BME ECR Conference record already preserved the event listing, organizer LinkedIn post, poster, banner, unchanged 7 August pre-event recheck, and a 3.2 MB promotional MP4, but the binary was not tracked in Git.
+
+Archive action: checksum-validated and committed the LinkedIn promotional MP4. No keynote-content claim was added; the event’s delivery and attendance remain unresolved.
+
+Decision: added C-925 as an archive-integrity observation. This is distinct from the committed 2023 BME ECR keynote recording under SRC-243 and is not evidence that the 2026 keynote occurred. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-186/C-924: *Allyship in Action* episode audio promoted
 
 Audit: the canonical Libsyn/Apple/Amazon record already documented the first-party 31:09.84 MP3, catalogue topology, artwork, page captures, and checksum, but the audio binary was not tracked in Git.

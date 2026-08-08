@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event-media checkpoint: SRC-307/C-925 — the 3.2 MB BME ECR Network promotional MP4 for the scheduled 10 July 2026 keynote is now committed to GitHub. It is not a keynote recording and does not establish delivery or attendance; reopen only for a post-event report, final programme, attendee account, transcript, recording, or changed organizer page.
+
 Fresh audio-integrity checkpoint: SRC-186/C-924 — the 31:09.84 *Allyship in Action* episode MP3 is now committed to GitHub with its Libsyn/Apple/Amazon topology and artwork captures. No transcript or captions were exposed; listening/transcription remains open before making timecoded claims.
 
 Fresh audio-access checkpoint: SRC-245/C-923 — the public 60-second Spotify preview for Sheffield Hallam’s *SoTL Spotlight* episode is now committed to GitHub. The full 20:17 episode remains a player-only/access-boundary item; no transcript or preview quotation is claimed without listening. Reopen only for a full audio route, transcript, or changed player state.

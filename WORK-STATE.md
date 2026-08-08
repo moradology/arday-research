@@ -1,5 +1,7 @@
 # Work state
 
+Latest event-media checkpoint: on 2026-08-08 `SRC-307/C-925` promoted the BME ECR Network’s 3.2 MB organizer promotional MP4 to GitHub. The event page remains byte-identical pre-event language after recheck; the MP4 is not a keynote recording and delivery/attendance remain unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest audio-integrity checkpoint: on 2026-08-08 `SRC-186/C-924` promoted the 31:09.84 *Allyship in Action* MP3 to GitHub. The Libsyn/Apple/Amazon catalogue topology and artwork remain preserved; no transcript or caption file was exposed, so no untranscribed interview claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest audio-access checkpoint: on 2026-08-08 `SRC-245/C-923` promoted Sheffield Hallam’s 60-second Spotify preview MP3 to GitHub. The institutional/Spotify pages and image remain preserved; the full 20:17 episode is still not locally downloadable and no substantive preview claim was added. Google Drive was not updated; GitHub remains the active publication target.
