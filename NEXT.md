@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly-correction access checkpoint: C-881 — a new 8 August 2026 Taylor & Francis PDF request for the already-catalogued correction to *Attempting to break the chain* returned another Cloudflare challenge. The body and headers are preserved under `assets/captures/2026-08-08-educational-philosophy-correction-recheck/`; no new correction, retraction, or full text was recovered. Reopen only for a lawful full correction PDF/HTML, a distinct publisher version, or a formal institutional/journal outcome.
+
 Fresh international-language commentary checkpoint: SRC-879/C-880 — *Libero Quotidiano*’s 29 July 2026 Italian commentary repeats the public thesis-overlap, fundraising, and endurance controversy; indexed text and the direct HTTP-403 boundary are preserved. It adds propagation topology, not independent corroboration or an adjudicative finding. Reopen only for a full lawful article/image capture or a distinct primary document.
 
 Fresh podcast-topology checkpoint: SRC-878/C-879 — the migrated Ruling Passions project URL retains the canonical Episode 2 transcript and embeds; Amazon Music exposes episode ID `e8465482-92dd-477c-8999-4bffacbd515a` and indexed 19 March 2022/51-minute metadata but direct capture is only a JavaScript shell. Deduplicated to SRC-158. Reopen only for a lawful full-audio file, transcript/captions, or a materially changed platform state.

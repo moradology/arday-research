@@ -4,7 +4,7 @@ type: publisher correction / source-version record
 title: "Correction" to "Attempting to break the chain"
 subject: ../entities/jason-arday.md
 published: 2024-05-16
-accessed: 2026-08-06
+accessed: 2026-08-08
 status: publisher correction verified through indexed full-text result; direct HTML/PDF Cloudflare challenge preserved
 evidence_class: Taylor & Francis correction metadata and indexed publisher text
 updates: sources/2020-attempting-break-chain-inclusive-pedagogy.md
@@ -18,7 +18,7 @@ The correction clarifies the relationship between the study in that article and 
 
 ## Evidence and access boundary
 
-The publisher’s indexed full-text result exposes the correction’s relationship target, page, online publication date, amendment scope, and added references. Direct retrieval of both `/doi/full/` and `/doi/pdf/` returned HTTP 403 Cloudflare challenge HTML on 6 August 2026. Crossref metadata records the correction as pages 619–619 and gives a published date of 11 May 2024, while the publisher page states 16 May 2024; both dates are retained as a metadata discrepancy. The correction is a source-version/editorial record, not a new research article and not, by itself, an adjudication of research-integrity questions.
+The publisher’s indexed full-text result exposes the correction’s relationship target, page, online publication date, amendment scope, and added references. Direct retrieval of both `/doi/full/` and `/doi/pdf/` returned HTTP 403 Cloudflare challenge HTML on 6 August 2026. A fresh PDF request on 8 August returned another 5,563-byte Cloudflare challenge body; the new body and headers are preserved as a changed access state, not as a second correction. Crossref metadata records the correction as pages 619–619 and gives a published date of 11 May 2024, while the publisher page states 16 May 2024; both dates are retained as a metadata discrepancy. The correction is a source-version/editorial record, not a new research article and not, by itself, an adjudication of research-integrity questions.
 
 ## Links and local assets
 
@@ -29,5 +29,7 @@ The publisher’s indexed full-text result exposes the correction’s relationsh
 - HTML response headers: `assets/captures/2024-05-16-educational-philosophy-correction-arday/full-headers.txt` (SHA-256 `c19c34b899b0adedc57111b7e6ce08fabc84ecb41a1deade60507dd193403dd4`)
 - Local publisher PDF challenge: `assets/captures/2024-05-16-educational-philosophy-correction-arday/correction.pdf` (5,563-byte HTML challenge; SHA-256 `5a41210605bb38f2b5a6d456903b57cf671ee212f53843bb4c5f22cd2aef9bd7`)
 - PDF response headers: `assets/captures/2024-05-16-educational-philosophy-correction-arday/pdf-headers.txt` (SHA-256 `9b31bf5671985f6803a4555e4f4d0a9eae2600485401a922caa68c64d8d3405c`)
+- 8 August 2026 PDF recheck body: `assets/captures/2026-08-08-educational-philosophy-correction-recheck/body.pdf` (5,563-byte HTML challenge; SHA-256 `8daa2a5b4e075f49a45f2eba8a8b005134408c789c23690164b596825127ba27`)
+- 8 August 2026 PDF recheck headers: `assets/captures/2026-08-08-educational-philosophy-correction-recheck/headers.txt` (SHA-256 `e4a3f6067766e00fb8b82159d7b70affd69d1f7127faea98b627c1770e04daf8`)
 - Crossref JSON: `assets/captures/2024-05-16-educational-philosophy-correction-arday/crossref.json` (SHA-256 `6a8c9cdde679f9e21d6e6457843866fa9f23b89e1544ac2e49f6596448083057`)
 - Crossref response headers: `assets/captures/2024-05-16-educational-philosophy-correction-arday/crossref-headers.txt` (SHA-256 `bf22ccc5f89872776dc538f60f734ea51f21f80d6095e1dacec6c51ed7f7e47a`)

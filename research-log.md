@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — C-881: Taylor & Francis correction PDF recheck
+
+Discovery: the correction/retraction search lane reconfirmed the already-catalogued 2024 Taylor & Francis correction to *Attempting to break the chain*; no new correction or retraction record was found.
+
+Capture: a fresh direct request for the publisher PDF returned a 5,563-byte Cloudflare challenge. The body and response headers are preserved under `assets/captures/2026-08-08-educational-philosophy-correction-recheck/`.
+
+Decision: updated SRC-297 in place and added C-881 as a changed access-state observation. This does not create a duplicate correction source or upgrade any allegation. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-879/C-880: *Libero Quotidiano* international commentary
 
 Discovery: a date-qualified search for new international-language Arday coverage surfaced Giovanni Longoni’s 29 July 2026 Italian commentary in *Libero Quotidiano*.
