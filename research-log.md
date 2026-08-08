@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-623/C-897: Channel 4 resignation video deduplication audit
+
+Audit: the canonical Channel 4 News record and `git log` showed that the 12:32.12 MP4, captions, metadata, and thumbnail were already committed in capture commit `74d2032`; this pass initially found the local binary but did not create a duplicate promotion.
+
+Capture decision: revalidated the MP4 checksum (`77ef423db3d8b6ee9cd5b548bc6b9ee6d9c1172e516552f911c0d08abb5a306a`) against the source record and folded the observation into SRC-623/C-897. Its allegations, institutional statements, and caption layer remain attributed/reporting evidence; no adjudicative conclusion was promoted.
+
 ## 2026-08-08 — SRC-224/C-896: Channel 4 *Ways to Change the World* paired media promoted to GitHub
 
 Audit: the canonical Channel 4 interview record already contained the podcast/video pages, captions, artwork, and checksum metadata, but both the 31:26.26 MP3 and the 32:46 progressive MP4 remained only in the working tree.

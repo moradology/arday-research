@@ -1,5 +1,7 @@
 # Work state
 
+Latest deduplication checkpoint: on 2026-08-08 an audit confirmed that the Channel 4 News resignation report (`SRC-623/C-897`) was already committed in capture commit `74d2032`; its 12:32.12 MP4, captions, metadata, and thumbnail remain present. The report remains attributed journalism and not an adjudicative finding. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest paired-media checkpoint: on 2026-08-08 the Channel 4 *Ways to Change the World* interview (`SRC-224/C-896`) had both its 45,286,877-byte MP3 and 48,461,630-byte MP4 checksum-validated and added to the GitHub archive. Captions and existing first-person claims remain source-versioned/self-report evidence; no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest binary-preservation checkpoint: on 2026-08-08 the earlier captured LJMU/SoundCloud “Harvest for the World” audio (`SRC-258/C-895`) was checksum-validated and added to the GitHub archive. The 38,994,754-byte 40:37.146 MP3 and source captures are preserved; the current LJMU page’s omission of the item remains separately recorded, and no transcript claim was added. Google Drive was not updated; GitHub remains the active publication target.
