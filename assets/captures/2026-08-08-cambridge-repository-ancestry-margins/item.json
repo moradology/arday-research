@@ -1,0 +1,289 @@
+{
+  "id" : "28f00b97-b8ad-4b43-9edb-b2a642fd08a4",
+  "uuid" : "28f00b97-b8ad-4b43-9edb-b2a642fd08a4",
+  "name" : "Ancestry in the Margins: Justice, Genomics, and the Ethics of Human Classification",
+  "handle" : "1810/405954",
+  "metadata" : {
+    "cam.depositDate" : [ {
+      "value" : "2026-07-08",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "cam.restriction" : [ {
+      "value" : "thesis_access_open",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "cam.supervisor" : [ {
+      "value" : "Milne, Richard",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Arday, Jason",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    } ],
+    "cam.supervisor.orcid" : [ {
+      "value" : "Milne, Richard [0000-0002-8770-2384]",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "cam.thesis.confidential" : [ {
+      "value" : "sensitive_information_na",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "cam.thesis.copyright" : [ {
+      "value" : "copyright_cleared",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.contributor.author" : [ {
+      "value" : "Henriques, Sasha",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.contributor.orcid" : [ {
+      "value" : "Henriques, Sasha [0009-0008-0422-6468]",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2026-07-09T12:25:39Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.submitted" : [ {
+      "value" : "2026-01-01",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description.abstract" : [ {
+      "value" : "This thesis examines how concepts of race, ethnicity, and ancestry influence categorisation in genomic research, drawing on an ethnographic study conducted at the Wellcome Sanger Institute. Positioned within critical race theory and critical realism, it explores how institutional structures shape both ethical challenges and opportunities for achieving genomic equity. Grounded in the researcher’s positionality as a Black genetic counsellor, the study critically interrogates how ideas of human difference are constructed, managed, and operationalised within scientific spaces, and how social justice might be more deeply embedded within genomic research practices.\nThe research investigates the persistence of racialised ideas despite formal scientific rejections of race as a biological category. \nFindings reveal that \"data diversity\" initiatives, while framed as mechanisms for improving patient outcomes, also confer material, reputational, and economic benefits to institutions. Scientists often navigate competing demands, balancing the pursuit of technical excellence, ethical imperatives, and the institutional structures that shape research priorities. Boundary work to produce genetic ancestry datasets enables both the reproduction of historical inequities and the creation of new forms of exclusion through standardised group-making practices.\nThrough analysis of interviews, publications, and informal aspects of campus life, the thesis shows that racial ideas are often reintroduced at key stages in the research pipeline, from participant recruitment to dataset construction and clinical application, usually without explicit reflection on their ethical or political implications.\nThis study argues that achieving equitable genomic outcomes and benefits for all populations cannot be accomplished solely through data diversification. Institutions must recognise the power and autonomy they possess to shape research practices and engage honestly with their own interests and limitations. \nBy reconfiguring data diversity efforts to focus not only on hopes for patient outcomes but also on structural accountability, transparency, and justice, this work seeks to make the social systems that shape genomic knowledge visible. It invites genomic institutions to go beyond inclusion as a symbolic act and move toward a transformative model of genomic equity.\nThe thesis makes two contributions: it demonstrates how inequities in genomic science are produced through institutional and methodological practice, and it proposes a framework for embedding justice into genomic research from the outset.",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.doi" : [ {
+      "value" : "https://doi.org/10.17863/CAM.132081",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "https://www.repository.cam.ac.uk/handle/1810/405954",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.language.iso" : [ {
+      "value" : "eng",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.publisher.department" : [ {
+      "value" : "Faculty of Education",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.publisher.institution" : [ {
+      "value" : "University of Cambridge",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights" : [ {
+      "value" : "All rights reserved",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.uri" : [ {
+      "value" : "http://purl.org/NET/rdflicense/allrightsreserved",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "Critical Race Theory",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Genetics",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Genomics",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    }, {
+      "value" : "Equity",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 3
+    }, {
+      "value" : "Justice",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 4
+    }, {
+      "value" : "Race",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 5
+    }, {
+      "value" : "Ethnicty",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 6
+    }, {
+      "value" : "Ancestry",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 7
+    } ],
+    "dc.title" : [ {
+      "value" : "Ancestry in the Margins: Justice, Genomics, and the Ethics of Human Classification",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "Thesis",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type.qualificationlevel" : [ {
+      "value" : "Doctoral",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type.qualificationname" : [ {
+      "value" : "Doctor of Philosophy (PhD)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "pubs.licence-display-name" : [ {
+      "value" : "Apollo Repository Deposit Licence Agreement",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "pubs.licence-identifier" : [ {
+      "value" : "apollo-deposit-licence-3",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "rioxxterms.licenseref.uri" : [ {
+      "value" : "http://purl.org/NET/rdflicense/allrightsreserved",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "rioxxterms.type" : [ {
+      "value" : "Thesis",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2026-07-10T01:42:04.768+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/bundles"
+    },
+    "citationInformation" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/citationInformation"
+    },
+    "embargoInformation" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/embargoInformation"
+    },
+    "identifiers" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/relationships"
+    },
+    "version" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4/thumbnail"
+    },
+    "self" : {
+      "href" : "https://api.repository.cam.ac.uk/server/api/core/items/28f00b97-b8ad-4b43-9edb-b2a642fd08a4"
+    }
+  }
+}

@@ -16,6 +16,8 @@ British sociologist of education and public commentator. Public records associat
 
 - The Autism Research Centre’s Autistic VOICES project page lists Arday as a Steering Committee member for a study of autistic university students’ support needs; the page and public study documents are preserved as a dated research-role source-version. [Autistic VOICES record](../sources/2026-03-11-autistic-voices-study-arday.md)
 
+- A January 2026 Cambridge PhD thesis by Sasha Henriques names Arday as one of two PhD supervisors in participant-information appendices on PDF pages 308 and 312. This is a dated project-role record, not proof of current Cambridge employment or role continuation. [Henriques thesis](../sources/2026-07-09-cambridge-repository-henriques-thesis.md)
+
 - [University of Cambridge Faculty of Education profile](https://faculty.educ.cam.ac.uk/people/staff/arday/)
 - [ORCID: 0000-0002-9822-1068](https://orcid.org/0000-0002-9822-1068)
 - [Durham University research repository](https://durham-repository.worktribe.com/person/303473/jason-arday/outputs)
@@ -30,6 +32,8 @@ A 7 August 2026 EDICa newsletter profile preserves a project-host version of bro
 PASSHE’s 8 August 2026 speaker page likewise preserves stale present-tense Cambridge/Jesus wording in event-host copy; it is retained as a source-version, not a current-affiliation assertion. [PASSHE record](../sources/2026-08-08-passhe-speakers-page.md)
 
 The alternate Cambridge Faculty of Education “Faculty members” directory returned HTTP 200 on 8 August 2026 but contained no Arday entry, while search indexing still surfaced an Arday-associated result. This is a current directory/version boundary, not proof that every Cambridge relationship ended or that the omission has a known cause. [Directory record](../sources/2026-08-08-cambridge-faculty-members-directory.md)
+
+The migrated Faculty host adds the same boundary: the indexed profile route redirects to the Faculty home page, while the current “Our people” response contains no Arday occurrence. The indexed profile’s qualifications, project, and role wording remain a source-version rather than current-status evidence. [Migrated-host boundary](../sources/2026-08-08-cambridge-faculty-migrated-profile-boundary.md)
 
 The July–August 2026 *Booktime Magazine* listing is preserved as a trade-publication lead for a memoir interview on p. 29; the product endpoint did not expose the magazine or interview text. [Booktime record](../sources/2026-07-14-booktime-magazine-jason-arday.md)
 

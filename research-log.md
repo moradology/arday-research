@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-594/C-791: Cambridge Repository supervision-role record
+
+Discovery: a current Cambridge Repository search surfaced Sasha Louise May Henriques’s thesis, *Ancestry in the Margins: Justice, Genomics, and the Ethics of Human Classification*. The repository record gives a 9 July 2026 publication date, a January 2026 thesis date, DOI `10.17863/CAM.132081`, and a public 401-page PDF.
+
+Capture: preserved the repository HTML, item JSON, response headers, full PDF, and extracted text. The participant-information appendices name Professor Anna Middleton and Professor Jason Arday as the two PhD supervisors; the wording appears on PDF pages 308 and 312.
+
+Decision: add this as direct first-party supervision-role evidence, distinct from repeated biography pages and current-status records. It does not establish the appointment date, examination outcome, full supervision scope, or post-resignation employment status. The repository marks the thesis all rights reserved; the publicly exposed binary is retained for provenance and citation.
+
 # 2026-08-08 — SRC-235/C-194: BBC *Today* media-state recheck
 
 Discovery: a current-state check of the canonical BBC programme version `m002xp5h` and podcast version `p0nsry2l` was run after the previous 7 August boundary. Both BBC Sounds routes still returned HTTP 404, while the programme JSON remained available at HTTP 200. The canonical episode and date metadata are unchanged; no audio, transcript, captions, or segment-level evidence was exposed.

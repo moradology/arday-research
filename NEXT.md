@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh supervision-role checkpoint: SRC-594/C-791 — the Cambridge Repository’s public January 2026 Henriques thesis names Jason Arday and Anna Middleton as the two PhD supervisors in participant-information appendices on PDF pp. 308 and 312. The 401-page PDF and extracted text are local. Reopen only for a distinct Cambridge supervision record, thesis examination outcome, or later project-status document; do not infer current employment from the thesis.
+
 Fresh BBC media-state checkpoint: SRC-235/C-194 — the 8 August 2026 recheck confirms that the canonical *Today* version `m002xp5h` and podcast version `p0nsry2l` still return HTTP 404, while the BBC programme JSON remains live. No audio, transcript, captions, or exact segment timecode was recovered. Reopen only after a changed BBC media state or a lawful transcript/recording appears; do not repeat the same route checks without a changed endpoint.
 
 Fresh interpretive-source checkpoint: SRC-592/C-789 — Penny Rabiger’s 25 July 2026 *tenpencemore* essay is preserved with full HTML, headers, and attached image. It supplies a racialized-scrutiny/Black-excellence framing while explicitly distinguishing anti-racist critique from exemption from academic standards. Reopen only for a correction or new primary/institutional evidence; do not count the analysis as adjudication.
