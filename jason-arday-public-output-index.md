@@ -141,7 +141,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [UK Black Stars 2026 listing](sources/2026-08-08-uk-black-stars-listing.md) — organization-maintained list entry naming Prof Jason Arday among its “100 Influential British-Ghanaians,” with the associated portrait preserved locally.
 - [Runnymede Trust current team page](sources/2026-08-08-runnymede-current-team-page.md) — current Team/Trustees page preserved as a bounded no-exact-name observation for role reconciliation.
 
-- [*The Black Curriculum: Black British History in the National Curriculum Report*](https://niromp.org/wp-content/uploads/2020/11/19588-tbc2021report.pdf) — authored by Jason Arday; argues that Black British history is systematically underrepresented in England’s curriculum.
+- [*The Black Curriculum: Black British History in the National Curriculum Report*](sources/2021-black-curriculum-report.md) — January 2021, 13-page report authored by Jason Arday; its stated method is content analysis of varied literature and commentary, and its recommendations address curriculum scope, Britishness, teacher-workforce diversity, and year-round Black History teaching. The local PDF is preserved with page-level extraction.
 - [The Black Curriculum policy and research page](https://theblackcurriculum.com/research) — organization-level research archive.
 - [*Aiming Higher* report](https://www.runnymedetrust.org/uploads/Aiming%20Higher.pdf) — report associated with Jason Arday and Claire Alexander on Black participation and progression in higher education.
 - [ThinkHigher: *The Black Experience Project*](sources/2022-thinkhigher-black-student-experience-report.md) — 2022 report authored by Jason Arday.

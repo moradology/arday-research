@@ -2483,6 +2483,12 @@ Capture: preserved the article HTML, headers, lead WebP image, and both archived
 
 Evidence handling: the page-version difference is directly observable. The article’s claims about a university-job CV, an MBE offer, advertising complaints, publisher proof comparisons, and publisher editing are retained as reported leads because the cited CV, underlying correspondence, podcast capture, and book proofs were not recovered here. Do not turn this source into a final fraud finding or conflate changing biography copy with proof of intent.
 
+# 2026-08-08 — SRC-029/C-697–C-698 Black Curriculum report extraction
+
+The preserved first-party 13-page PDF was re-read at page level. It identifies the January 2021 report as authored by Jason Arday, describes a content-analysis corpus spanning reports, policy documents, blogs, newspaper articles, podcasts, videos/vlogs, and academic papers, and explicitly acknowledges limited specific data on Black-history teaching patterns and difficulty sourcing recent data for parts of the education system (p. 7).
+
+The report’s executive summary and recommendations call for a more multicultural History National Curriculum, a broader conception of Britishness, a more diverse history-teaching workforce, and year-round, cross-disciplinary Black History teaching (pp. 4–5, 20–21). Recorded these as primary-output claims and recommendations. The report is not treated as an independently audited systematic review, a new school-level prevalence survey, or evidence of implementation.
+
 # 2026-08-08 — SRC-516/C-654–C-655 National Review Ohio State affiliation report
 
 Discovery: the Guardian podcast’s visiting-professor thread and the existing host-domain audit pointed to the unresolved Ohio State claim. A direct search recovered Abigail Anthony’s 4 August 2026 *National Review* report, which quotes Ohio State spokesperson Benjamin Johnson saying the university had no record of an employee named Jason Arday. The article also reports the announced 28 February 2025 closure of the Office of Diversity and Inclusion and says Arday did not respond to a request for comment.
