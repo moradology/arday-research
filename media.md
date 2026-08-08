@@ -280,6 +280,7 @@
 - [LinkedIn promotional poster](assets/captures/2026-07-23-aahn-jason-arday/linkedin-poster.jpg) — public promotional visual; rights/reuse status unknown.
 - [LinkedIn auto-captions](assets/captures/2026-07-23-aahn-jason-arday/linkedin-captions.vtt) — caption track preserved for navigation; human verification required before quotation.
 - [LinkedIn MP4 access boundary](assets/captures/2026-07-23-aahn-jason-arday/linkedin-video-403.html) — direct public media request returned HTTP 403; no MP4 binary claimed.
+- [Recovered LinkedIn promotional video](assets/captures/2026-08-08-aahn-video-recheck/video-720p.mp4) and [captions](assets/captures/2026-08-08-aahn-video-recheck/captions.vtt) — 3,690,670-byte 720p MP4, approximately 1:02.94; promotional clip, not the summit keynote. Earlier 403 access state remains preserved.
 
 ## SRC-307 BME ECR Conference media
 

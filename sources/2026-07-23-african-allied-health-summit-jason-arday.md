@@ -4,8 +4,8 @@ type: official event site / speaker listing / social-video manifestation
 title: "African Allied Healthcare Summit 2026 — Jason Arday keynote listing"
 subject: ../entities/jason-arday.md
 event_date: 2026-07-23/2026-07-24
-accessed: 2026-08-07
-status: earlier official speaker listing superseded by a current HTTP 403 challenge; post-event outcome remains unresolved
+accessed: 2026-08-08
+status: official speaker listing and promotional video/captions preserved; current organizer route is HTTP 403; post-event outcome remains unresolved
 evidence_class: organizer first-party pages plus LinkedIn promotional media
 urls:
   - https://africanalliedhealthnetwork.org/
@@ -32,6 +32,10 @@ assets:
   - ../assets/captures/2026-08-07-aahn-jason-arday/recheck-2026-08-07b/speakers.headers.txt
   - ../assets/captures/2026-08-07-aahn-jason-arday/recheck-2026-08-07b/schedule.html
   - ../assets/captures/2026-08-07-aahn-jason-arday/recheck-2026-08-07b/schedule.headers.txt
+  - ../assets/captures/2026-08-08-aahn-video-recheck/video-720p.mp4
+  - ../assets/captures/2026-08-08-aahn-video-recheck/captions.vtt
+  - ../assets/captures/2026-08-08-aahn-video-recheck/video.headers.txt
+  - ../assets/captures/2026-08-08-aahn-video-recheck/captions.headers.txt
   - ../assets/captures/2026-07-23-aahn-jason-arday/SHA256SUMS
 ---
 
@@ -41,7 +45,7 @@ The African Allied Health Network’s official summit site announced the African
 
 Lynn Dadzie-Yeboah’s public LinkedIn post separately promoted Arday as a keynote speaker for the Accra summit and attached a short promotional video. The locally preserved LinkedIn auto-caption file repeats the familiar childhood/literacy biography: autism diagnosis at three, not speaking until 11, and not reading or writing until 18, followed by promotional language about Cambridge and the summit. These are host/promotional claims and should not replace the stronger first-person or independently dated records already in the claims ledger.
 
-The LinkedIn page exposed a public poster and caption track, but the direct MP4 request returned HTTP 403 `deny-InvalidToken` during capture. The 403 body and headers are preserved, so this record does not claim a recovered video binary. The organizer’s linked Arday portrait is preserved as a page-linked visual asset; photographer, license, and reuse permission are unknown.
+The LinkedIn page exposed a public poster and caption track. The first direct MP4 request returned HTTP 403 `deny-InvalidToken`, but the signed media URLs embedded in the preserved public HTML were retried on 8 August 2026 and yielded a valid 3,690,670-byte 720p MP4 and the corresponding 1:02.94 WebVTT caption track. The earlier 403 remains preserved as a superseded access state. The organizer’s linked Arday portrait is preserved as a page-linked visual asset; photographer, license, and reuse permission are unknown.
 
 The summit listing establishes a public invitation/listing only. The 7 August 2026 recheck, after the advertised 23–24 July event dates, still showed the 23–24 July date, Arday’s keynote-speaker page, and generic “program soon” / “confirmed presentation details” language. A later same-day direct recheck changed to the site’s HTTP 403 browser-verification challenge on the home, speakers, and schedule routes. No post-event report, final agenda, attendance confirmation, recording, or transcript was recovered. The changed 403 state is an access boundary, not evidence that the summit or keynote did not occur.
 
@@ -55,6 +59,9 @@ The summit listing establishes a public invitation/listing only. The 7 August 20
 - [LinkedIn poster](../assets/captures/2026-07-23-aahn-jason-arday/linkedin-poster.jpg) — SHA-256 `5410ac1967ba4903ac71f097348a047c32fd4a404831a4b21c7484689753e769`
 - [Organizer portrait](../assets/captures/2026-07-23-aahn-jason-arday/summit-portrait.webp) — SHA-256 `dd60e75a53486b57b8ad371f9185cbc597095e4b5c23550637610ebf87e68835`
 - [LinkedIn MP4 access-boundary body](../assets/captures/2026-07-23-aahn-jason-arday/linkedin-video-403.html) and [headers](../assets/captures/2026-07-23-aahn-jason-arday/linkedin-video-403-headers.txt)
+- [Recovered LinkedIn 720p MP4](../assets/captures/2026-08-08-aahn-video-recheck/video-720p.mp4) — 3,690,670 bytes; SHA-256 `e7b3b110c5549544460c8ef185bc1cfe0f64066bc06785093fa912b99746a420`
+- [Recovered WebVTT captions](../assets/captures/2026-08-08-aahn-video-recheck/captions.vtt) — 1,628 bytes; SHA-256 `8eb1478e25dd9908647be19c23f805bb39eed2d282e99801ae17fd98ac512352`
+- [Recheck metadata](../assets/metadata/aahn-video-recheck-capture-2026-08-08.md)
 - 7 August recheck: home HTML SHA-256 `2cf962d24b093d66844647aec53131bf97094bcfb9ec4c1b3e2fe272d97c5f18`; speakers HTML SHA-256 `f400804c19ecbcd07ebaab30309a33e2f3d165d01cf9c031ccaf8900441a5887`; schedule HTML SHA-256 `10583cedfc388585dd5a6b860900067fe5959550a21752140df0d1565452262d`; response headers are preserved beside each file.
 - Later 7 August 2026 recheck: all three routes returned the same 6,192-byte HTTP 403 browser-verification body (`fede7a249c4505a45d17c9bf3bc5f45d351314ee15ab49b5af3091e5ac1a3b3b`). The home, speakers, and schedule headers are preserved in `../assets/captures/2026-08-07-aahn-jason-arday/recheck-2026-08-07b/`.
 

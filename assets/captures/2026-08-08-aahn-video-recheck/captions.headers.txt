@@ -1,0 +1,27 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 09:56:51 GMT
+content-type: text/vtt
+content-length: 1628
+cf-ray: a27da74e898499e6-OMA
+cf-cache-status: HIT
+accept-ranges: bytes
+cache-control: public, max-age=86400
+content-disposition: attachment; filename="c7223e94-9249-4127-b974-9dc5ec5117ad-auto-caption.vtt"
+expires: Sun, 09 Aug 2026 09:56:51 GMT
+last-modified: Tue, 05 May 2026 03:50:46 GMT
+server: cloudflare
+access-control-expose-headers: X-CDN, X-CDN-Client-IP-Version, X-CDN-Proto, X-Cache, X-CDN-RCODE
+x-content-type-options: nosniff
+x-li-proto: http/1.1
+x-li-uuid: AAZYdRHO/6FnebiYhvQC3A==
+x-li-fabric: prod-lva1
+x-li-pop: prod-lva1-x
+x-ambry-blob-size: 1628
+access-control-allow-origin: *
+timing-allow-origin: *
+x-cdn: CFLR
+x-cache: HIT
+x-cdn-client-ip-version: IPV6
+x-cdn-proto: HTTP2
+alt-svc: h3=":443"; ma=86400
+

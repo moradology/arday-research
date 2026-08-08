@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-306/C-784–C-785: African Allied Health promotional video recovery
+
+Discovery: the preserved public LinkedIn HTML for the African Allied Health Network’s Accra summit promotion retained signed 720p MP4 and WebVTT URLs even though the original direct request had returned HTTP 403 `deny-InvalidToken`.
+
+Capture: retrying those embedded URLs yielded a valid 3,690,670-byte 720p MP4 and 1,628-byte WebVTT caption track running to approximately 1:02.94. The earlier 403 body and headers remain preserved as a superseded access state.
+
+Evidence handling: the clip is promotional media. Its machine-generated captions repeat the autism/speech/literacy/Cambridge biography and include a short first-person excerpt, but do not establish clinical, educational, family, employment, attendance, or keynote-delivery facts. The summit outcome remains unresolved.
+
 # 2026-08-08 — SRC-517 follow-up: targeted MBE-podcast non-match
 
 The *Washington Free Beacon* report says that a 2023 podcast included an account of an MBE offer that Arday declined, but does not name the programme. I checked the two locally preserved 2023 interview records most likely to be confused with that lead: Channel 4’s *Ways to Change the World* episode, including its audio/video captions, and WNYC’s *The Takeaway* episode, including its publisher-hosted transcript. Neither contains an MBE, Order of the British Empire, or equivalent award passage.

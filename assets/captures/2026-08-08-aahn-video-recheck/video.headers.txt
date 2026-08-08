@@ -1,0 +1,27 @@
+HTTP/2 200 
+date: Sat, 08 Aug 2026 09:56:51 GMT
+content-type: video/mp4
+content-length: 3690670
+cf-ray: a27da74b480a089b-OMA
+cf-cache-status: MISS
+accept-ranges: bytes
+cache-control: public, max-age=86400
+content-disposition: inline; filename="output_progressive_cefe96bf-0c28-4999-a87c-3352ef0a797e.mp4"
+expires: Sun, 09 Aug 2026 09:56:51 GMT
+last-modified: Tue, 05 May 2026 03:50:22 GMT
+server: cloudflare
+access-control-expose-headers: X-CDN, X-CDN-Client-IP-Version, X-CDN-Proto, X-Cache, X-CDN-RCODE
+x-content-type-options: nosniff
+x-li-proto: http/1.1
+x-li-uuid: AAZYhiPhxBTfqoTiq+U47Q==
+x-li-fabric: prod-lva1
+x-li-pop: prod-lva1-x
+x-ambry-blob-size: 3690670
+access-control-allow-origin: *
+timing-allow-origin: *
+x-cdn: CFLR
+x-cache: MISS
+x-cdn-client-ip-version: IPV6
+x-cdn-proto: HTTP2
+alt-svc: h3=":443"; ma=86400
+
