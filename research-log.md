@@ -1743,6 +1743,12 @@ Reconciliation: Crossref’s current DOI metadata preserves 25 October 2022 as `
 
 Decision: created SRC-628/C-860, linked the recheck from the public-output index, and retained the canonical article date. Reopen only for a new ORCID DOI/title key, a materially different publisher/repository file, or a changed Crossref/ORCID date topology.
 
+# 2026-08-08 — Residual scholarly-output search boundary
+
+Discovery: exact-title searches for “The Fire Now,” “Diversifying the Ivory Tower and Closing the Student Attainment Gap,” “Understanding Racism within the Academy,” the physical-education teacher-education chapter, and the 2018/2021 educational-leadership outputs returned the already-catalogued Durham, Bloomsbury/PagePlace, Taylor & Francis, SAGE, and Liberated Library records. The results exposed no new DOI, edition, publisher record, repository file, or distinct event recording.
+
+Decision: no new publication node, claim, or binary was created. Existing records remain canonical and their previews/access boundaries remain versioned. Reopen only for a materially different file, concrete new identifier, publisher correction, or distinct recording/transcript; do not repeat this exact residual-output query family unchanged.
+
 # 2026-08-07 — RSA/CLASS direct-host recheck
 
 Discovery: fresh exact-name searches across RSA/CLASS domains and role phrases returned no direct RSA Fellow directory entry, RSA announcement, or CLASS National Advisory Panel governance page. Results were limited to already-canonical Royal Society profile/committee witnesses and repeated biography copy.
