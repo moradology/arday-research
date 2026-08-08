@@ -4,8 +4,8 @@ type: podcast/video interview
 title: "From Autism Diagnosis to University of Cambridge Professor with Jason Arday"
 subject: ../entities/jason-arday.md
 published: 2023-08-15
-accessed: 2026-08-06
-status: official Flip Your Script YouTube recording and captions locally preserved
+accessed: 2026-08-08
+status: official Flip Your Script YouTube recording and captions locally preserved and committed to GitHub
 evidence_class: interviewer-hosted video; first-person testimony; automatic caption derivative
 urls:
   - https://www.youtube.com/watch?v=nPx6jhhpirY
@@ -24,7 +24,7 @@ At approximately 04:33–07:08, he describes his mother’s encouragement and Sa
 
 ## Local preservation
 
-- [MP4](../assets/videos/flip-your-script-jason-arday-2023.mp4) — 27,602,591 bytes; 13:51; progressive MP4 format 18, H.264/AAC, 640×360, 30 fps; SHA-256 `0e136443e349aad83d7fd115a80998f16ed31a3da18fc4dc39e1ccc58cd4bff0`
+- [MP4](../assets/videos/flip-your-script-jason-arday-2023.mp4) — 27,602,591 bytes; 13:51; progressive MP4 format 18, H.264/AAC, 640×360, 30 fps; SHA-256 `0e136443e349aad83d7fd115a80998f16ed31a3da18fc4dc39e1ccc58cd4bff0`; now included in the GitHub archive
 - [Thumbnail](../assets/images/flip-your-script-jason-arday-2023.jpg) — SHA-256 `d17e4389130b4529bc90554a33f97f1762b1752f314da323deca1dc0518cb52d`
 - [YouTube page](../assets/documents/flip-your-script-jason-arday-2023.html) — SHA-256 `c345b69637438ed2fb69d24e06719212b36aeeb87c37537af0365270628da374`
 - [English automatic captions](../assets/documents/flip-your-script-jason-arday-2023.en.srt) and [English-original track](../assets/documents/flip-your-script-jason-arday-2023.en-orig.srt) — 25,345 bytes each; identical SHA-256 `36291de8bc30a677be3d7b9c3466a9ea1b72f2ad6f4620d0cee0a6eabb761e0b`

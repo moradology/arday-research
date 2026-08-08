@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-242/C-905: *Flip Your Script* video promoted to GitHub
+
+Audit: the canonical *Flip Your Script* record already contained the YouTube page, thumbnail, automatic captions, metadata, and a 13:51 progressive MP4, but the video binary remained only in the working tree.
+
+Capture decision: validated the MP4 checksum (`0e136443e349aad83d7fd115a80998f16ed31a3da18fc4dc39e1ccc58cd4bff0`) against the source record and committed the video. The goal-list and family/mentorship passages remain caption-assisted first-person testimony; no new substantive claim was promoted.
+
 ## 2026-08-08 — SRC-033/C-904: ABC News childhood-profile video promoted to GitHub
 
 Audit: the canonical ABC News source record already contained the HLS-derived MP4, official thumbnail, and capture metadata, but the 2:47.36 video binary remained only in the working tree.

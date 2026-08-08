@@ -1,5 +1,7 @@
 # Work state
 
+Latest video-preservation checkpoint: on 2026-08-08 the *Flip Your Script* interview (`SRC-242/C-905`) was checksum-validated and added to the GitHub archive. The 27,602,591-byte 13:51 MP4 and existing captions/page/thumbnail/metadata are preserved; the goal-list and mentorship passages remain first-person/caption-navigation evidence, not independent records. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest video-preservation checkpoint: on 2026-08-08 the ABC News childhood-profile MP4 (`SRC-033/C-904`) was checksum-validated and added to the GitHub archive. The 51M 2:47.36 video, official thumbnail, and capture metadata are preserved; no subtitle stream was exposed and no new substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest video-preservation checkpoint: on 2026-08-08 the complete 6:14 OpenLearn “Degree Awarding Gap” MP4 (`SRC-270/C-903`) was checksum-validated and added to the GitHub archive. Captions, metadata, thumbnail, and the OpenLearn/transcript 403 boundaries remain preserved; narrator/author attribution is unresolved and no substantive claim was added. Google Drive was not updated; GitHub remains the active publication target.

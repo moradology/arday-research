@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh video-preservation checkpoint: SRC-242/C-905 — the 13:51 *Flip Your Script* interview MP4 is now committed to GitHub alongside its automatic captions and source captures. The ~01:48–03:10 goal-list passage remains first-person testimony and requires audiovisual verification; do not infer that the surviving wall/list has been recovered.
+
 Fresh video-preservation checkpoint: SRC-033/C-904 — the 2:47.36 ABC News “He spoke his first word at 11” MP4 is now committed to GitHub alongside its official thumbnail and capture metadata. No subtitle stream was exposed; reopen only for a changed ABC media state or human audiovisual verification.
 
 Fresh video-preservation checkpoint: SRC-270/C-903 — the complete 6:14 OpenLearn “Degree Awarding Gap” MP4 is now committed to GitHub alongside captions and access-boundary captures. Narrator/author attribution and the OpenLearn transcript remain unresolved; reopen only for a changed transcript/page state or human audiovisual verification.
