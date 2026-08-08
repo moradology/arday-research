@@ -1,0 +1,548 @@
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+
+
+Annual research integrity report to Council
+2024-25
+
+Section 1. Key Contact Information
+
+ 1A Key Contact information
+
+
+ Name of organisation                        University of Cambridge
+
+
+ Type of organisation                        Higher education institution
+
+ Date statement approved by governing body
+                                             24/11/2025
+ (DD/MM/YY)
+
+ Web address of University’s research
+                                             https://www.research-integrity.admin.cam.ac.uk/
+ integrity page
+
+                                             Name: Professor Sir John Aston, PVC-Research
+ Named senior member of staff to oversee
+ research integrity
+                                             Email address: researchintegrity@admin.cam.ac.uk
+
+ Named member of staff who will act as a     Name: Professor Sir John Aston, PVC-Research
+ first point of contact for anyone wanting
+ more information on matters of research
+ integrity                                   Email address: researchintegrity@admin.cam.ac.uk
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+
+
+Section 2: Promoting high standards of research integrity and
+positive research culture
+ 2A. Description of current systems and culture
+ Drawing on Commitments 1 to 4 of the Concordat, this section summarises how the University maintains and fosters
+ high standards of research integrity in all aspects of research and embeds a research environment underpinned by a
+ culture of integrity, good governance and support for the development of researchers.
+ 2.1.1 The mission of the University of Cambridge is to contribute to society through the pursuit of
+ education, learning, and research at the highest international levels of excellence. The University
+ recognises that the pursuit of excellent research and the fulfilment of our responsibilities to
+ participants in research, research users and the wider community require the maintenance of the
+ highest standards of integrity and ethics.
+
+ 2.1. Policies and Systems
+ 2.1.2 The following structure has been put in place to facilitate and maintain a research
+ environment that develops good research practice and nurture a culture of research integrity:
+     a) The Pro-Vice-Chancellor for Research (PVC-R) is the senior academic lead on research
+         integrity matters within the University and Chair of the Research Policy Committee.
+     b) University Research Ethics Committee (UREC) is the overarching Committee at the
+         University for the consideration of ethical issues arising from research that involves human
+         participants and personal data. It also advises the PVC-R on the development and
+         implementation of policy and procedures relating to research integrity.
+     c) The Head of Policy, Governance and Integrity (HPGI) is the University Research Governance
+         and Integrity Officer. The HPGI, who is supported by a Senior Research Governance and
+         Ethics Coordinator (SRGEC) and two Research Integrity and Governance Coordinators
+         (RIGCs), is responsible for fostering a culture of research integrity across the institution,
+         including:
+             o supporting the PVC-R, Head of the Research Office and UREC to oversee the
+                  University’s research ethics and governance systems,
+             o supporting the implementation of the University’s Procedure for the Investigation
+                  of an Allegation of Research Misconduct.
+             o working with stakeholders from across the University and outside Cambridge to
+                  support research integrity and good research practice
+     d) The Animal Welfare and Ethical Review Body (AWERB) oversees the management of
+         governance and develops and implements policies relating to animal welfare at the
+         University.
+     e) Heads of Department and Faculty are responsible for research integrity and ethics matters
+         in their institution, including the implementation of the University’s research ethics and
+         integrity policies and procedures at a local level and taking initial responsibility for actions
+         under the Misconduct in Research policy.
+     f) The Head of Research Culture is responsible for driving the research culture agenda in the
+         University, including supporting Research Culture Steering Committee in setting the
+         strategy and establishing institutional priorities for research culture.
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+     g) The Office of Scholarly Communications (OSC) is responsible for promoting and supporting
+        Open Research at the University, including assisting researchers in making their
+        publications and data open, and providing advice and training.
+
+ 2.1.3 In addition, under Commitments 2 and 3 of the Concordat, the University is required to have
+ clear policies and procedures to ensure that research is conducted to the highest levels of ethics
+ and integrity. This includes:
+     a) Statement on Research Integrity
+     b) Guidelines on Good Research Practice & Checklist
+     c) Research Ethics Policies
+     d) Procedure for the Investigation of an Allegation of Research Misconduct (see section 3)
+     e) Research Data Management Policy Framework:
+
+ 2.1.4 The University’s Statement on Research Integrity, which sets out the high-level standards
+ and principles of research integrity that all those engaged in research at the University are
+ expected to follow, serves as an over-arching framework that guides the research integrity at the
+ University.
+
+ 2.1.5 The University’s Guidelines on Good Research Practice provides a detailed introduction to
+ good research practice at Cambridge and highlights links to further guidance on key issues. It
+ supports researchers to determine how to apply the baseline standards set by ordinances and
+ regulations of the University, the Research Integrity Statement and wider legal and contractual
+ requirements and ethical norms, to the concrete situations which face them in everyday practice
+ of research.
+
+ 2.1.6 The purpose of the accompanying Research Integrity and Good Research Practice Checklist is
+ to help supervisors provide research students with an introduction to issues of research integrity
+ and encourage broader dialogue about good research practice
+
+ 2.1.7 The University policies on research ethics provide a framework to ensure that all research
+ involving i) human participants and personal data or ii) animals is conducted in accordance with
+ fundamental ethical principles.
+
+ 2.1.8 Information about University research-related policies and procedures is publicly available
+ on the University research integrity webpage and also disseminated to research staff and students
+ through Departments and Faculties as detailed in 2.2.
+
+ 2.1.9 In line with Commitment 5 of the Concordat, these policies are reviewed on a regular basis in
+ light of experience and sectoral updates to ensure they are aligned to evolving expectations of
+ best practice. The periodic review of relevant policies is detailed in the table below:
+
+  Policy                                                   Date of last approval/   Next review
+                                                           review
+  Statement on Research Integrity                          2020-21                  Every 5 years
+                                                           Ongoing
+  Guidelines on Good Research Practice & Checklist         Ongoing                  2026-27
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+
+  Research Data Management Policy Framework                2021                     2026
+
+  Research Ethics Policy [Human Participants &             2020-21                  Ongoing
+  Personal data]
+  Research Ethics Policy [Animal Welfare]                  2023-2024                Every 3 years
+  Procedure for the Investigation of an Allegation of      2023-2024                2026-27
+  Research Misconduct
+  Conflict of Interest Policy                              2021                     Every 5 years
+  University’s Open Research Position Statement            2025                     Every 2 years
+
+ 2.1.10 The University is committed to the continuing and ongoing improvement of its processes
+ for supporting and strengthening the understanding of research integrity at Cambridge. Key
+ actions taken during 2024-2025 to support research integrity are reported in section 2B below.
+
+ 2.2. Communications and Engagement
+ 2.2.1 Effective communication and engagement underpin the University’s efforts to foster an
+ environment where research is conducted in accordance with good research practice and to
+ ensure that all those involved in research are made aware of these guidelines and related policies
+ and guidelines.
+
+ 2.2.2 Research-related policies are made available to staff through the University research
+ integrity website. The research integrity website, which is regularly updated by the RGI team,
+ serves as communications and engagement hub for anyone seeking information on research
+ integrity matters at Cambridge:
+     a) Providing details of the training programme on research integrity to research staff and
+         students, including introductory self-paced courses and workshops for researchers at
+         different career stages.
+     b) sharing guidance relating to good research practice and research integrity
+     c) setting out University policies and regulations that relate to research integrity and
+         misconduct matters (listed in 2.1.3 and 3.1.5)
+     d) offering sources of support, advice and guidance for researchers in need of assistance in
+         relation to:
+             ο conducting ethical research (see research ethics webpages),
+             ο legal and professional obligations (see research governance pages)
+             ο Links to external sources of support and guidance on research ethics and integrity
+             ο the best practice in research, particularly
+                       Research integrity guidance webpages,
+                       Guidelines on Good Research Practice and checklist,
+                       Research integrity advisory panel
+     e) signposting to key internal contact points for matters relating to research integrity, ethics
+         and governance including:
+             ο The Pro-Vice-Chancellor for Research, Professor John Aston, who is the first point
+                 of contact for anyone with comments, concerns or questions regarding research
+                 integrity at Cambridge
+             ο Research Integrity Advisory Panel
+             ο Data Champions programme
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+            ο School and Departmental Ethics committees
+            ο The Central research Office research governance and integrity team and Clinical
+              School’s Research Governance Team who support researchers to understand and
+              meet expected standards of research ethics and integrity, as well as legal,
+              professional, regulatory and funder obligations
+            ο The research data management facility
+
+ 2.2.3 In addition, information about the University’s research-related policies and procedures is
+ disseminated to research staff and students through several other mechanisms to target
+ researchers at all career stages and various contracts:
+     a) Research students – the Code of Practice sets out the responsibility of the research
+         supervisor to make the student aware of the University’s expectations in respect of
+         research integrity and good practice university guidance and links to the Research Integrity
+         (RI) website
+     b) Postdocs – all expected to attend a central induction Central induction run by the
+         University’s Postdoc Academy. Since 2024, new postdoctoral researchers are provided with
+         a new starter guide that highlights supports, services and policies
+     c) Visiting Staff and students – the Standard Terms and Conditions and Visitor’s letter links to
+         the good research practice guidelines that details University’s expectations and links to the
+         relevant guidance and policies
+     d) Academics – Online self-directed academic induction resources and PI Development
+         Programme set out the university policies and links to the RI website
+
+ 2.2.4 Since 2015, departments and faculties have been expected to integrate the Concordat and
+ all relevant University statements and policies, into faculty or department inductions for new
+ academic staff and PhD students.
+
+ 2.2.5 Mentoring plays a key role in building awareness and understanding of policies and
+ procedures at Cambridge (addressed below)
+
+
+ 2.3. Culture, Development and Leadership
+ 2.3.1 The University offers many courses to enable students and new researchers to understand
+ and adopt best practice in research as quickly as possible. Lists of courses are available on the
+ Personal and Professional Development web site and relevant courses are increasingly available as
+ part of the University's teaching.
+
+ 2.3.2 In addition, there are specific researcher development programmes including:
+     a) Postgraduate researcher development
+     b) Postdoctoral Academy RD Programme
+     c) Technicians’ development
+
+ 2.3.3 As a founding signatory to the National Technician Commitment, the University is committed
+ to the development of technicians. This forms part of the University’s broader research culture
+ framework to ensure that all members of the research community, including technicians, are
+ supported and appropriately acknowledged within the research environment.
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+ 2.3.4 A bespoke Cambridge online introductory research integrity module, which is provided in
+ three variations to account for disciplinary variations, provides an overview of the principles,
+ responsibilities and importance of research integrity. The training is not intended to cover every
+ aspect of Research Integrity or replace discipline-specific training and development.
+
+ 2.3.5 As a follow up offering from this module, the RGI team delivers several in-person or live
+ online workshops each academic year to facilitate further discussion of the topics introduced in
+ the online course. The University has also implemented the UKRIO Research Integrity online
+ training and made this available to anyone conducting or managing research, including early
+ career researchers, group leaders, and support staff.
+
+ 2.3.6 In addition, there is a complementary University online training module on Responsible
+ Research and Innovation. The course has been made available to all researchers on the Research
+ Integrity website.
+
+ 2.3.7 In addition to central research integrity training, many of the University’s departments and
+ Schools offer subject-specific training in research integrity issues. The approach taken to this
+ varies locally: it includes training that has been integrated into Departmental research skills
+ courses; stand-alone lectures or workshops; School-level support, such as research ethics training
+ offered by the Social Sciences’ Research Methods Centre; and courses arranged with external
+ providers.
+
+ 2.3.8 Centrally, the University offers a range of support, training provisions and initiatives to
+ support awareness and good practice in relation to equality, and inclusion including:
+     a) Online training modules for staff:
+            o Equality and Diversity Essentials
+            o Understanding Unconscious / Implicit Bias
+     b) Bespoke Training provided by ED&I team upon request
+     c) Staff and student Diversity Networks supported the University Equality Champions
+     d) the ED&I team co-ordinate a range of diversity events to celebrate Lesbian, Gay, Bisexual,
+        Transgender, Queer+ (LGBTQ+) History Month, Black History Month, International
+        Women's Day etc.
+
+ 2.3.9 The identification of training and development requirements are important components of
+ the Staff Review and Development (SRD) scheme for staff, including research staff at all career
+ stages and contracts. Postgraduate research students are expected to complete a self-evaluation
+ report and receive advice from their supervisor on planning personal skills development.
+
+ 2.3.10 The University formally requires that all its institutions make arrangements for the
+ mentoring of newly appointed staff and runs schemes for peer and developmental mentoring.
+
+ 2.3.11 The University provides the following resources to support the appropriate training and
+ direction and supervision of researchers:
+     a) Training in supervisory skills as part of the University's overall staff development
+         programme
+     b) guidance for supervisors and
+     c) the Code of Practice for Research Students clearly sets out supervisor responsibilities
+Report received by the Council of the University of Cambridge on 24 November 2025
+
+
+
+
+ 2.3.12 Supervisors are expected to encourage students and colleagues to attend relevant courses
+ as part of their overall career development.
+
+ 2.4 Monitoring and reporting
+ 2.4.1 The HPGI is tasked with ensuring that systems, practices and processes across the University
+ are periodically reviewed so that they remain fit for purpose and reflect best practice in research
+ integrity and advises the Pro-Vice-Chancellor for Research on any changes that are needed.
+
+ Research Ethics
+ 2.4.2 The University Research Ethics Committee, which oversees the University’s ethical review
+ system (excluding animal research), undertakes periodic review, monitoring and processes
+ improvement of the research ethics framework in order to maintain and strengthen the research
+ ethics polices, guidance and systems.
+
+ 2.4.3 The UREC reviews the University-wide Ethics Policy every three years in light of experience,
+ taking into consideration evolving ethical practice, sectoral updates and annual reports submitted
+ by the local ethics committees.
+
+ 2.4.4 Local ethics committees submit an annual report to the UREC, which include summary data
+ on the projects reviewed (number, discipline/ type, outcome of review process) and information
+ on any strengths, issues or trends identified), to facilitate the UREC to identify and highlight good
+ practice in research ethics to departments and Schools.
+
+ 2.4.5 Following ongoing discussion regarding the ethical consideration of research projects
+ involving harm to the environment and cultural objects requirement set out in the 2019
+ Concordat, the UREC agreed to establish a sub-committee to review and advise the UREC on the
+ existing mechanism and guidance in place across the University in order facilitate UREC to further
+ consider its remit and this will be established in 2025-2026.
+
+ Research Misconduct
+ 2.4.6 As set out in 3.3, anonymised learning points from completed research misconduct
+ investigations are made available to relevant institutional bodies (RPC, PVC-R) and, as appropriate,
+ have been included in training for research staff and students.
+
+ 2.4.7 Guidance for Departments on the informal handling of concerns relating to research practice
+ remains under development.
+2B. Changes and developments during the period under review
+Drawing on Commitment 2, and 3 of the Concordat, this section provides an update on the changes that were made
+(or ongoing) since the previous annual report to ensure that research is conducted according to appropriate ethical,
+legal and professional frameworks, obligations and standards and to embed and support a research environment that
+is underpinned by a culture of integrity, good governance and best practice.
+Policies, Practices and Procedures
+2.5.1 Fair Attribution and Publishing for Technicians Policy and Guidance, including the development and deliverance
+of training. This guidance has been co-developed with Russell Wilson and John Nicolson. The training was created with
+support of University library staff Lucy Woolhouse and Frances Marsh. The University is a signatory of the Concordat
+to Support the Development of Researchers and is working to embed sector-wide best practice using CRediT
+(Contributor role taxonomy)
+
+2.5.2 The University of Cambridge joined the UK Reproducibility Network (UKRN) in January 2025 and appointed an
+Institutional and Local lead.
+
+Training, Communications and Engagement
+2.5.3 The UREC encouraged the prioritisation of new online induction training course for new members of University
+research ethics committee. This is currently in preparation, with the intention of implementing this in the 2025-26
+academic year.
+
+2.5.4 In 2023-2024, the content and structure of the research integrity website has been reviewed and updated in
+order to provide a better user experience and optimise website content. Further updates were implemented in 2024-
+2025.
+
+2.5.5 Training:
+     • Research Ethics Committee member induction training is under development.
+     • Advanced-level Research Integrity for Group Leaders training – one session has been delivered, with more to
+         be delivered in 2025/2026.
+     • Research misconduct training for investigators is under development.
+
+2.5.6 A new informal communities-building group has been established to support community-building across several
+teams (e.g. Open Data, Open Research, Research Culture, Reproducibility and Research Integrity) working to promote
+best practice in research. The group provides a shared structure to strengthen connections between overlapping areas
+of good research practice initiatives that champion good research practices, such as the Data Champions and Research
+Integrity Advisory Panel.
+
+Culture, Development and Leadership
+
+2.5.7 A number of research culture project and initiatives are under development, including the Fair Attribution for
+technicians and the Postdoctoral mentoring scheme, detailed below.
+
+2.5.8 Work is ongoing to deliver the priorities set out in the Action Plan for Technician development at the University,
+including activities, such as the delivery of workshops on fair attribution and publishing for technicians. FAIR guidance
+is currently being developed and is expected to be implemented in 2025/2026. This guidance will include reference to
+the above-mentioned best practice, as well as outline how best to utilise tools like OrcID and Elements. Delivery of this
+guidance is dependent on future research culture funding.
+
+2.5.9 A new mentoring scheme for early-to-mid-career academic staff was launched in Easter term 2025 to increase
+access to mentoring for academic staff as a pilot to offer additional support around professional development,
+leadership skills, career confidence and wellbeing.
+
+2.5.10 In November 2024, the University approved the implementation of new reward and promotion schemes for
+academic and research staff in order to reward staff for excellence. The schemes will begin to be introduced from the
+2025–26 academic year.
+2.5.11 The Academic Career Pathways (Research) scheme introduced new roles and revised promotion and
+contribution reward processes, and includes an explicit expectation that applicants uphold the principles of research
+integrity. This approach, embedding responsible research practices into formal recognition and promotion
+frameworks, aligns with best practice set out in the UUK Concordat to Support Research Integrity and builds on
+existing practice in the Academic Career Pathway (Research and Teaching) 2024-2025 scheme that incorporated
+research integrity into the assessment criteria.
+
+
+
+2C. Reflections on progress and plans for future developments
+In accordance with commitment 5 of the concordat to strengthen the integrity of research and to
+reviewing progress regularly and openly, this section reflects on the previous year’s activity, including a review of
+progress and impact of initiatives relating to activities referenced in the previous year’s statement.
+Reflections on progress
+2.6.1 As indicated in the previous report, the University approved and implemented a new
+Procedure for the Investigation of an Allegation of Research Misconduct that applies where there
+is an allegation of Research Misconduct against any person undertaking research either as a
+member of staff or whilst connected to a University institution or using University facilities or
+funding. This Procedure replaced the University's Misconduct in Research Policy for all allegations
+received after 23 February 2024, providing clearer guidance for all involved in the process and sets
+out timelines and a new appeals process. This process has now been in place for a full academic
+year and has been implemented in the conduct of a dispute case, appeal as well as several
+investigations, and has been proved to be fit-for-purpose.
+
+2.6.2 Following the implementation of the new procedure, the previous prompt card for Heads of
+Department, which set out initial actions upon receipt of an allegation, has been updated in
+accordance with the new procedure. Initial work has been undertaken to develop role-specific
+guidance and training to support individuals appointed to investigate allegations. This is detailed
+below under ‘future plans’.
+
+2.6.3 The content and structure of the Research Integrity website have been reviewed and
+updated to provide a better user experience and optimise website content.
+
+2.6.4 New training on research integrity for senior researchers (Research Integrity for group-
+leaders: cultivating a culture of good research practice) was developed and the first session was
+delivered in 2024-25 and received positive feedback from attendees. Further sessions will be run in
+2025-2026.
+
+2.6.5 The University Research Ethics Committee (UREC) previously prioritised the implementation
+of a new online induction module for new REC members. Following a delay to incorporate the
+planned revisions to the University research ethics policy into the module, the development of the
+module is now being progressed as a goal for 2025–26 and is expected to be launched during the
+academic year.
+
+Future plans
+2.6.6 The University fully complies with the current Concordat. Work is currently underway to fully
+comply with the Revised Concordat; key future actions to reach compliance are summarised
+below.
+2.6.7 Future work will focus on ensuring that responsible research practice is embedded in the
+following forthcoming reward and progression schemes
+            o Contribution Reward Scheme (Academic and Research) and
+            o Academic Career Pathways for Promotion to Grades 10 to 12
+            o Academic Career Pathways for Promotion to Grades 6 to 9
+
+2.6.8 Actions to fulfil Commitment 4 of the Concordat:
+           o Revise the Research Misconduct Procedure to include Questionable Research
+               Practices.
+           o Develop and implement new Investigator training and resources for individuals
+               appointed to investigate allegations raised under the new Procedure for the
+               Investigation of an Allegation of Research Misconduct
+           o Prepare new guidance for Departments on the informal handling of concerns
+               relating to research practice for consideration by University Committees.
+
+2.6.9The REC induction module is being developed and is expected to be launched during the
+2025-2026 academic year.
+
+
+
+
+Section 3: Addressing research misconduct
+
+3A. Statement on processes that the University has in place for dealing with allegations of misconduct
+Drawing on Commitment 4 of the Concordat, this section provides a brief summary of the relevant University policies/
+processes for handling allegations of research misconduct, information on how the University creates and embeds a
+research environment in which all staff, researchers and students feel comfortable to report instances of misconduct
+and shares anonymised key lessons learned from investigations into allegations of misconduct.
+3.1 Summary of relevant organisation policies/ processes
+3.1.1 As required under Commitment 4 of the Concordat, the University Procedure for the
+Investigation of an Allegation of Research Misconduct sets out a transparent, robust, confidential
+and fair process for dealing with allegations of research misconduct. The procedure provides a
+clear definition of research misconduct and the responsibility of members to report incidents of
+misconduct, whether these have been witnessed or are suspected.
+
+3.1.2 The investigation procedure sets out a thorough three stage process for the handling of
+allegations through which allegations are investigated by individuals with appropriate authority,
+qualifications and experience and no conflict of interest in the case. The procedure is clearly linked
+to disciplinary procedures to ensure that appropriate action can be taken when concerns are
+upheld. The procedure also ensures that allegations are investigated in an appropriately
+confidential manner.
+
+3.1.3 Individuals seeking advice on the University’s misconduct procedure are able to contact the
+PVC-R, the Academic Secretary, the central research governance and integrity team, their Head of
+Institution and/or the relevant HR Advisor for the institution concerned.
+
+3.1.4 The Procedure for the Investigation of an Allegation of Research Misconduct, which was
+implemented in February 2024 and replaced the previous Misconduct in Research Policy, will be
+periodically reviewed in line with sectoral developments to ensure that this continues to be fit for
+purpose.
+
+3.2 Creating and embedding a research environment in which individuals feel comfortable to
+report instances of misconduct.
+3.2.1 The University recognises that it can be difficult for staff and students to report instances of
+research misconduct and has established a number of mechanisms providing support to
+researchers in need of assistance via policies, practices and procedures to support researchers
+including:
+    a) Procedure for the Investigation of an Allegation of Research Misconduct
+    b) Whistleblowing’ Policy
+    c) Animal Whistleblowing Policy
+    d) Dignity at Work Policy [Bullying and Harassment Policy and procedure]
+    e) Policy Against Bribery and Corruption
+    f) Student Complaints Procedure
+
+3.2.2 The Procedure for the Investigation of an Allegation of Research Misconduct, including
+details of the relevant contacts, is highlighted on the University research integrity website, as part
+of research integrity training, within the Good Research Practice Guidelines and accompanying
+checklist and the University Research Integrity Statement.
+
+3.2.3 In addition, advice and guidance is available from the following:
+    • The Research Governance and Integrity Team offers confidential advice for those
+        considering raising concerns.
+    • The Research Integrity Advisory Panel can provide confidential (in this case discipline
+        specific) advice for those with questions regarding research integrity or considering raising
+        concerns.
+    • The Pro-Vice-Chancellor for Research, Professor Sir John Aston, is the first point of contact
+        for anyone with comments, concerns or questions regarding research integrity at
+        Cambridge and can be contacted through the research governance and integrity team
+        using the following email address researchintegrity@admin.cam.ac.uk.
+
+
+3.3. Lessons learned
+3.3.1 The University recognises the value of using research misconduct investigations, particularly
+any recommendations highlighted in investigation reports, as important learning opportunities.
+
+3.3.2 To facilitate this, the Research Office submits an annual report to the Research Policy
+Committee (RPC) that sets out lessons that have been learnt from research misconduct
+investigations and recommends actions to be taken to address the issues identified.
+
+3.3.3 As reported in the University’s 2023-2024 research integrity report, recent ‘lessons learnt’
+reports to the RPC recommended:
+    • changes to the University’s research misconduct procedure, which were implemented as
+        part of the new procedure launched in February 2024.
+    • the development of guidance for Departments on the informal handling of concerns
+        relating to research practice. This recommendation is in the process of being implemented.
+   •   a review be undertaken to ensure that researchers have appropriate facilities and guidance
+       to ensure appropriate and reliable long-term storage of research data to enable
+       verification of image integrity. This review has been delayed but will take place during
+       2025-26.
+
+3.3.4 The 2024-25 ‘lessons learnt’ report did not make any additional recommendations for action.
+
+
+3B. Information on investigations of research misconduct that have been undertaken during 2023-
+2024
+This section provides a high-level statement on any investigations of research misconduct
+undertaken during the period under review, including preliminary investigations.
+
+Type of Allegation            Stage Reached                  Investigation Result
+Plagiarism                    Formal Investigation           Upheld (Reported as ongoing in
+                                                             2023-24)
+Plagiarism                    Formal Investigation           Ongoing (Reported as ongoing in
+                                                             2023-24)
+Plagiarism                    Formal Investigation           Ongoing (Reported as ongoing in
+                                                             2023-24)
+Falsification / Fabrication   Preliminary Investigation      Not Upheld
+Improper Dealing with         Preliminary Investigation      Not Upheld
+Allegations of Research
+Misconduct
+Misrepresentation             Preliminary Investigation      Not Upheld
+Plagiarism and Improper       Preliminary Investigation      Ongoing
+Dealing with Allegations of
+Research Misconduct
+Falsification / Fabrication   Preliminary Investigation      Ongoing
+

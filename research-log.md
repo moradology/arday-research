@@ -1,5 +1,13 @@
 # Research log
 
+# 2026-08-08 — SRC-527/C-672: Cambridge Research Integrity Report boundary
+
+Discovery: an official Cambridge research-integrity search surfaced the current reports index and its 2024–25 annual report.
+
+Capture: preserved the reports index HTML/headers, 12-page report PDF, extracted text, response headers, and a rendered copy of PDF p. 12 under `assets/captures/2026-08-08-cambridge-research-integrity/`.
+
+Evidence handling: the report’s p. 12 table gives anonymized aggregate categories/results for investigations undertaken during 2023–24. It names no people and contains no Arday occurrence. This establishes a public-reporting boundary, not evidence about the separate 2026 Cambridge investigation, its scope, or its outcome.
+
 # 2026-08-08 — SRC-526/C-671: Autism Research Centre Autistic VOICES study
 
 Discovery: an exact-name institutional research-role search surfaced the Autism Research Centre’s Autistic VOICES project page.
