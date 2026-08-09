@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1079/C-1212–C-1217: expanded Bookseller memoir-interview page audit
+
+The current *Bookseller* rendering was rechecked after the archive’s earlier excerpt/login boundary. The retained HTML and current page expose a continuation after the prior “Continues…” marker. The audit adds publishing-process details, Arday’s scrutiny account, the memoir’s interest/ability portrait, a midwife anecdote, and the “less than 1%” structural framing while preserving the BTEC/Sandro overlap as already represented.
+
+The added passages remain trade-publication reporting, memoir content, or attributed self-report. No publishing contract, birth record, sporting record, or underlying professorship statistic was recovered. SRC-1079 is linked to SRC-131 rather than counted as a new interview; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1078/C-1206–C-1211: Guardian black-history curriculum commentary audit
 
 The live Guardian page was audited as a dated authored-commentary source. The pass separates Arday’s education/anti-bigotry framing, cited Macpherson and Windrush policy references, empire and Black-contribution curriculum argument, Olive Morris/intersectionality and attainment claims, Black Curriculum description, and implementation recommendations from independent evidence.

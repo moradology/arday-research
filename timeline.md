@@ -4,6 +4,8 @@ Dates are recorded as events, not as proof of every biographical detail reported
 
 ## Childhood and education chronology
 
+| 2026-06-12 | *The Bookseller* published Caroline Sanderson’s author interview about Arday’s memoir, including memoir-attributed accounts of his education transition, family support, interests, scrutiny, and publishing process. | dated trade interview and changed page version; memoir material and self-report, not independent life records | [Expanded page audit](sources/2026-08-09-bookseller-memoir-interview-page-audit.md) |
+
 | 2020-06-13 | The Guardian published Arday’s authored commentary arguing for teaching Black history, empire, and Black contributions in British curricula, with recommendations concerning teacher support and government action. | dated authored public position; opinion article, not independent outcome evidence | [Page audit](sources/2026-08-09-guardian-black-history-curriculum-audit.md) |
 
 | 2020-11-17 | BBC Newsnight reported FOI analysis of PhD offers and attributed to Arday a first-person account of funding his degree through several jobs, inaccessible doctoral-funding information, and racialized selection barriers. | dated BBC report; statistics are reported analysis and personal passages are attributed testimony | [Canonical record](sources/2020-11-17-bbc-newsnight-black-phd-applicants.md) · [page audit](sources/2026-08-09-bbc-newsnight-phd-offers-audit.md) |

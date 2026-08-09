@@ -5,7 +5,7 @@ title: "Jason Arday on his remarkable journey from non-verbal child to Cambridge
 subject: ../entities/jason-arday.md
 published: 2026-06-12
 accessed: 2026-08-08
-status: browser-readable article excerpt and credited portrait captured 2026-08-08; visible page ends with “Continues…” and is not treated as the complete interview
+status: browser-readable article excerpt and credited portrait captured 2026-08-08; expanded continuation is audited under SRC-1079 and the article is still not treated as complete
 evidence_class: publisher/trade interview; browser-observed article and indexed excerpt
 urls:
   - https://www.thebookseller.com/books/jason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
