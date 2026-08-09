@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1085/C-1244: Eventbrite promotional-image recovery
+
+The public Eventbrite manifestation linked from the University of Liverpool’s “Even Flow” listing exposed a 1280×720 promotional JPEG through its CDN. The binary was recovered and checksum-recorded as an addition to the canonical event node. It is preserved as promotional media only: no delivery confirmation, transcript, slides, or Arday portrait was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1085/C-1241–C-1243: University of Liverpool “Even Flow” keynote
 
 A targeted Liverpool institutional search surfaced the 10 March 2023 University News page advertising Jason Arday’s 13 March keynote, “Even Flow: Understanding and Navigating Neurodiversity,” during Neurodiversity Celebration Week. The page gives a hybrid Teaching Hub/Zoom format and links Eventbrite. The current Eventbrite metadata resolves the event title, 1–2 PM time, Liverpool venue, and event ID `566383697887`, adding a distinct registration manifestation. The University page repeats biography claims about autism, speech, literacy, and Cambridge; these remain host-published biography wording rather than independent records. The event’s recording, transcript, slides, and Arday-specific image were not recovered. Google Drive was not updated; GitHub remains the active publication target.

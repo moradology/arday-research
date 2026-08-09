@@ -18,12 +18,13 @@ The page linked an Eventbrite listing whose current public metadata resolves to 
 
 The University page describes Arday as a sociologist and researcher of race, inequality, and education, and says the keynote would discuss his lived experience of growing up with autism. It repeats claims about diagnosis, speech, literacy, and Cambridge appointment chronology. Those are preserved as institutional biography wording and are not independent clinical, school, or appointment records.
 
-No recording, transcript, slides, or Arday-specific event photograph was recovered. The locally preserved page image is a generic Neurodiversity Celebration Week graphic rather than a portrait.
+No recording, transcript, or slides were recovered. The University page image is a generic Neurodiversity Celebration Week graphic rather than a portrait. The linked Eventbrite page exposed a separate 1280×720 promotional image through its public CDN; it is preserved below as an event-promotion artefact, not as proof of delivery or an Arday photograph.
 
 ## Local preservation
 
 - [University of Liverpool event page](../assets/captures/2023-03-10-liverpool-neurodiversity/page.html) — SHA-256 `fee2618ce1231e045380884bae411e8e841c7872fd93a6064f3b6dfed585f5e5` before line-ending/whitespace normalization.
 - [Event-week image](../assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg) — 585×390 JPEG; SHA-256 `8f51f9eb8cf1a640775bb3d98c117e8ec1b2e6a2c91c00be875f26c184da7ed9`.
+- [Eventbrite promotional image](../assets/captures/2023-03-10-liverpool-neurodiversity/eventbrite-primary.jpg) — 1280×720 JPEG; SHA-256 `5982d29d68db190343aea6233b6b2870c25199563a59553629dace29ff3598cd`.
 
 ## Links
 

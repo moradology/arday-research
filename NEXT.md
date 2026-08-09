@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh media-recovery checkpoint: `SRC-1085/C-1244` — the linked Eventbrite manifestation yielded a 1280×720 promotional JPEG, now preserved under the canonical Liverpool “Even Flow” keynote record. Reopen only for a recording, transcript, slides, attendee/reporting artifact, or Arday-specific image; do not treat the promotional image as delivery or participation evidence.
+
 Fresh subject-centred event checkpoint: `SRC-1085/C-1241–C-1243` — the University of Liverpool advertised Arday’s 13 March 2023 “Even Flow: Understanding and Navigating Neurodiversity” keynote, and its linked Eventbrite record preserves the title, time, venue, and event ID. Reopen only for a recording, transcript, slides, attendee/reporting artifact, or distinct event image; do not upgrade the host’s repeated childhood biography into independent evidence or infer delivery from the listing.
 
 Fresh institutional-activity checkpoint: `SRC-1084/C-1238–C-1240` — the University of Liverpool’s 12 October 2023 first-party article and photograph document Arday’s public association with “Inclusivity library exhibits,” a Henrietta Lacks exhibit in the Harold Cohen Library, and a Black Science Bootcamp reported for 55 Black Year 10 students. Reopen only for an exhibit catalogue, dated Liverpool event record, participant/evaluation material, or distinct bootcamp artifact; do not treat the article’s account as an independently audited outcome or duplicate it as a separate childhood/education source.
