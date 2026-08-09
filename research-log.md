@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-1017/C-1017: QUB blind-copy version boundary
+
+Discovery: QUB’s direct `pureadmin` route exposes a PDF whose filename identifies a blind-copy submission. The 22-page artifact labels itself “Peer reviewed version,” names *Educational Philosophy and Theory*, and preserves submission-style author/affiliation metadata.
+
+Capture: the PDF and extracted text were downloaded and checksummed under `assets/captures/2026-08-09-qub-blind-copy/`. The route was compared with the 8 August QUB manifestation and the 18-page Kent repository PDF. The QUB copies differ only in generated download date; the Kent copy has materially different repository/journal front matter, pagination, typography, and citation punctuation, while the methodology body is materially the same.
+
+Decision: register one new provenance/version record, not a second publication or independent corroborating witness. This sharpens the article-version map and preserves a primary artifact for audit; it does not resolve the QUB review, prove misconduct, or validate the study’s data. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-158/C-1014–C-1016: Ruling Passions transcript extraction
 
 The already-canonical *Ruling Passions* web transcript was reread for subject-centred content beyond the existing childhood claims. Three bounded passages were promoted: motivation/self-training and tailoring (approximately 11:08–11:53), masking and exhaustion (14:03–15:33), and music as an autistic sense-making system plus a critique of rigid academic writing (46:58–50:14).
@@ -48,7 +56,8 @@ Decision: register `SRC-1006` as a changed technical manifestation deduplicated 
 
 ## 2026-08-09 — identity-control check: United Response homonym
 
-An exact-name media search surfaced United Response’s “Jason’s life story interview,” dated September 2025. The page identifies a different Devon-based Jason: born in Penzance, raised in St John’s/Newland, associated with Mencap in Penzance, and describing a miner father and different sibling/age history. It was rejected as a homonym and not added to Arday’s ontology. Autism School International’s apparently new result was reconciled to existing canonical `SRC-330` because its page and portrait were byte-identical to the already-preserved files.
+An exact-name media search surfaced United Response’s “Jason’s life story interview,” dated September 2025. The page identifies a different Devon-based Jason: born in Penzance, raised in St John’s/Newland, associated with Mencap in Penzance, and describing a miner father and different sibling/age history. It was rejected as a homonym and not added to Arday’s ontology. Autism School International’s apparently new result was also reconciled to existing canonical `SRC-330` because the page and portrait were byte-identical to the already-preserved files.
+
 
 ## 2026-08-09 — sports-record boundary extension (no new source node)
 

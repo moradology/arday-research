@@ -219,6 +219,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 
 - [The routes to intellectual authority in a prior colonial empire](sources/2024-09-routes-intellectual-authority.md) — 2025, with Dina Zoe Belluigi and Joanne O’Keeffe; DOI `10.1080/13613324.2024.2398491` and QUB-hosted publisher PDF locally preserved.
 - [Correction to “Attempting to break the chain”](sources/2024-05-16-educational-philosophy-correction.md) — Taylor & Francis correction published online 16 May 2024, clarifying methodology/source relationships and adding two references; direct publisher binary access is currently Cloudflare-blocked.
+- [QUB blind-copy / peer-reviewed-version manifestation of “Attempting to break the chain”](sources/2026-08-09-qub-blind-copy-version.md) — 22-page primary PDF with submission-style front matter; distinct repository manifestation compared with the QUB and Kent copies, not a second publication.
 - [We’ll see things they’ll never see: Sociological reflections on race, neurodiversity and higher education](sources/2023-race-neurodiversity-higher-education.md) — 2023, with Chantelle Jessica Lewis.
 - [Same storm, different boats](sources/2022-same-storm-different-boats.md) — 2022, with Christopher Jones.
 - [“More to prove and more to lose”](sources/2022-more-to-prove-more-to-lose.md) — 2022; DOI and Glasgow published-version PDF locally preserved; repository manifestation tracked separately in [SRC-457](sources/2026-08-08-glasgow-published-version-more-to-prove.md).

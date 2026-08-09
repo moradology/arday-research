@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh primary-scholarship checkpoint: `SRC-1017/C-1017` — QUB’s direct `pureadmin` route yielded a 22-page blind-copy/peer-reviewed-version PDF for *Attempting to break the chain*. Comparison with the existing QUB and Kent manifestations adds source-version and provenance detail, while the methodology remains materially shared and no QUB finding is exposed. Reopen only for a substantive article-version difference, correction/retraction record, terms of reference, named investigator, or formal outcome; do not count this manifestation as an independent corroborating witness.
+
 Fresh transcript-extraction checkpoint: `SRC-158/C-1014–C-1016` — the full *Ruling Passions* transcript now has claim-level navigation for masking/exhaustion, intrinsic versus extrinsic motivation, tailoring, music as an autistic sense-making system, song-title paper naming, and accessible academic writing. Reopen only for a distinct audio/transcript version, manual audio comparison, or a substantive correction; do not create another interview node.
 
 Fresh library-distribution checkpoint: `SRC-1010–SRC-1012/C-1011–C-1013` — Markham Public Library’s catalogue explicitly lists *Great and Unfortunate Things* as “On order”; Blackstone Library lists Arday’s unabridged narration in library-CD formats; St. Catharines Public Library includes the title in its Spring–Summer 2026 adult nonfiction list. Reopen only for a distinct library catalogue, MARC record, circulation/hold update, library audiobook file/sample, or a materially changed acquisition state; do not treat library ordering as evidence for memoir accuracy or scholarly quality.
@@ -16,7 +18,7 @@ Subject-centred priority: work outward from Arday’s own words, dated records n
 
 Fresh institutional source-version checkpoint: `SRC-1006/C-1006` — ARU’s honorary-degree citation had byte-distinct raw HTML on 9 August, but normalized visible text was identical to `SRC-089`. No new biographical evidence or correction appeared; reopen only for substantive text change, a primary record, or a distinct ceremony artifact.
 
-Subject-centred priority: work outward from Arday’s own words, dated records naming him, and primary documents about his education, sports, appointments, publications, and controversy. Do not spend the next pass on additional catalogue manifestations unless they expose a distinct artifact or materially changed source state.
+Fresh identity-control checkpoint: the United Response “Jason’s life story” result was a rejected homonym (different Devon life history). Autism School International’s apparently new result was byte-identical to canonical `SRC-330`; do not create another biography node. Reopen only for a named source/correction or a distinct primary record.
 
 Fresh NetGalley catalog checkpoint: `SRC-938/C-1004` — current US/UK pages remain HTTP 200 but sign-in-gated; rating metadata changed to 98 US members and one UK/Australia member. No review copy was downloaded. Reopen only for a lawful public catalog revision, a distinct edition, or a provenance-bearing public review; do not bypass access controls or treat ratings/descriptions as corroboration.
 
