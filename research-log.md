@@ -24,6 +24,10 @@ The first 00:55–07:22 contribution of the locally preserved 9 October 2020 Roy
 
 The preserved 28 January 2024 Teachers Talk Radio BETT interview was checked against its automatic English VTT. Arday’s subject-specific passages were separated from the interviewer and recorded as dated source versions: academic self-description, 1990s music preferences, secondary-school-teacher self-report, classroom risk/play and metrics critique, impostor-syndrome advice, and an inclusive-education/teacher-toolkit position. No childhood or qualification claim was duplicated. Captions remain unverified against the MP4.
 
+## 2026-08-09 — SRC-1064/C-1128–C-1132: Speakers Corner interview audit
+
+The preserved 13 December 2023 Speakers Corner interview was checked against its English and original-English SRT tracks. Arday’s answers were separated from the host and expanded from the existing broad C-218 record into five dated public-position nodes covering social stagnation and motivation, constructive disagreement, media responsibility, adaptive education, and belonging/membership. No childhood or qualification claim was duplicated. The caption tracks contain overlap and recognition errors; human listening remains open.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.

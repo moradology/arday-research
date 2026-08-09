@@ -25,7 +25,7 @@ Speakers Corner published this 9:14 interview with Jason Arday on 13 December 20
 - `00:05:23–00:07:11` — adaptable education for a multicultural, multiethnic, multidiverse society.
 - `00:07:13–00:08:58` — belonging, identity, and widening membership.
 
-These are attributed first-person public comments and interview framing, not independently verified research findings or childhood evidence. The preserved English and `en-orig` tracks are automatic captions with overlap and transcription errors; listen against the MP4 before quoting.
+These are attributed first-person public comments and interview framing, not independently verified research findings or childhood evidence. The preserved English and `en-orig` tracks are automatic captions with overlap and transcription errors. A bounded audit expands the broad source claim into five subject-specific position records: [SRC-1064](2026-08-09-speakers-corner-caption-audit.md). Listen against the MP4 before quoting.
 
 ## Local preservation
 

@@ -3,6 +3,8 @@ Fresh public-position checkpoint: `SRC-1062/C-1119–C-1122` — Royal Greenwich
 
 Fresh subject-centred public-position checkpoint: `SRC-1063/C-1123–C-1127` — the BETT 2024 interview now has bounded caption navigation for Arday’s academic self-description, secondary-teacher account, classroom risk/play position, impostor-syndrome advice, and inclusive-education framing. Human-verify the MP4 before quoting; retain the employment statement as self-report and the educational propositions as attributed positions.
 
+Fresh subject-centred public-position checkpoint: `SRC-1064/C-1128–C-1132` — the Speakers Corner interview is now decomposed into five dated source-version records covering Arday’s social-stagnation diagnosis, constructive-disagreement position, media/education analysis, adaptive-education philosophy, and belonging argument. Human-verify the SRT windows against the MP4 before quoting; do not treat the social analysis as independently validated.
+
 Fresh public-position checkpoint: `SRC-1061/C-1114–C-1118` — the UCU webinar’s opening Arday segment now has bounded records for his decolonisation theory, Global South/curriculum position, captioned “Keele” initiative account, student-engagement emphasis, and anti-tokenism warning. Verify the MP4 or locate an institutional Keele/UCU artifact before treating the named programme, person, manifesto, or charter as independently established.
 
 Fresh source-version checkpoint: `SRC-1060` — the Wellcome Sanger Institute interview’s existing C-1030–C-1034 passages are now bound to precise automatic-caption windows without duplicate claim nodes. Human-verify against the MP4 if verbatim quotation or medical/qualification detail is needed; preserve the Lives Retold/Sanger tumour chronology conflict.
