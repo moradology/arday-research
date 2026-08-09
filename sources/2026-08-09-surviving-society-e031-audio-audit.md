@@ -80,6 +80,13 @@ The remainder of the window continues the panel’s discussion of policing and y
 
 The final portion of the interval returns to host discussion of political correctness and free speech; it is not added to Arday’s record.
 
+## Extended window: 45:00–50:00
+
+- **45:00–48:25** — Arday describes attending a Stone Roses tribute act at the Borderline near Tottenham Court Road with his younger brother shortly before the recording. He says a group behind them repeatedly made racist remarks, asked what he was doing there, and caused them to leave early. He says he had become accustomed to being the only person of colour at such events from about age 13, but now rejects silence because of the example it sets for children.
+- **48:25–49:40** — Arday says his concern is less his own discomfort than the effect on children, and recalls mentoring young people of different races, ethnicities, religions, genders, and sexual orientations. He argues that no one should be told they cannot be themselves or must assimilate.
+
+This is a contemporaneous first-person account and public-position statement. The venue, event, and incident were not independently verified in this pass; the surrounding host account of fear in white spaces is excluded.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
