@@ -1,0 +1,16 @@
+HTTP/2 403 
+date: Sun, 09 Aug 2026 02:28:19 GMT
+content-type: application/json
+server: cloudflare
+vary: Accept-Encoding
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type,X-Auth-Token,Authorization,Origin,x-csrf-token,x-requested-with
+access-control-allow-methods: POST,PUT
+cache-control: no-cache, private
+x-ratelimit-limit: 20
+x-ratelimit-remaining: 18
+set-cookie: XSRF-TOKEN=eyJpdiI6InJmd3hnNzg1OXRLTE5NWWxLYWw2NGc9PSIsInZhbHVlIjoiamlkZW1Xbld5TEJ6Qk0xdnNMRVFOL1BFeXk3eHpFaVhkcHhNdmtkVllmcXBNRitjS0tIbU5vS2JrS21OOXIzUS92SlVPRlN0Q0lKNW9DWUd4ZEREbU1Ec1VGUm8yRlZhTExLb0U2UzJ5UEJYRmpSUXZRMlpmOWZsRFZUaDhkOWUiLCJtYWMiOiI1ZDM0NWMyZDBmMGQ1YmQ5YTU2OTRkMWJiMmRlMDBkN2QxYTJjYWVkMzM1YTUyNDE2MTNiYTM4ZDg4Mjk0MTAxIiwidGFnIjoiIn0%3D; expires=Sun, 09-Aug-2026 04:28:19 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; samesite=lax
+set-cookie: laravel_session=eyJpdiI6ImduZ2pMaUhFbXNEYndzcFR3SmYwUVE9PSIsInZhbHVlIjoiSUVacVpjb00zT0ZEU1BUZ3pxWXZpSnBabS85R2x2enpGTjY1Y1FuQU5WUGluT0tIUThMOTVrQnUrcUhpWktacWUrKzRvcmFVcXhsaFdUbTk4RmRDTUlDWnNrb1RGWUFxRmVHS1NVc0xlVEJLZkNXMUN4KzM2N2xGSDlQeVYrNUUiLCJtYWMiOiI4Y2UxNTNmMzhjZWY4YzBkNzA3MDJlNDcxMTM4YzhkYzMzODI3MmNhMzVmNjQ2MmQ1MmMxZTAwYjYyZWMwZDI4IiwidGFnIjoiIn0%3D; expires=Sun, 09-Aug-2026 04:28:19 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; httponly; samesite=lax
+cf-cache-status: DYNAMIC
+cf-ray: a28353a5ad81e7fc-ORD
+

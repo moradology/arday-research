@@ -1,5 +1,7 @@
 # Work state
 
+Latest PubPeer checkpoint: on 2026-08-09 `SRC-925/C-991` captured the public exact-name search shell, its human-verification API response, and 404 responses for two tested Arday DOI routes. No reliable PubPeer yes/no result is claimed; the boundary remains incomplete. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest provenance checkpoint: on 2026-08-09 `SRC-924/C-990` resolved eight PubPeer links embedded in the 21percent commentary. All point to unrelated historical/migration publications, not Arday works; their comments are excluded from the Arday integrity evidence set. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly source-version checkpoint: on 2026-08-09 `SRC-923/C-989` rechecked QUB’s *Attempting to break the chain* page. The article metadata and accepted-manuscript route were unchanged, but displayed downloads rose from 1,555 to 1,734. This is volatile repository metadata, not evidence about validity or QUB’s investigation. Google Drive was not updated; GitHub remains the active publication target.

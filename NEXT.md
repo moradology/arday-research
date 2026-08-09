@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh PubPeer direct-search checkpoint: `SRC-925/C-991` — the exact-name search shell was captured, but the API required human verification and the two tested Arday DOI routes returned 404. This is an incomplete access boundary, not a no-results finding. Reopen only for a human-verifiable result, alternate PubPeer identifier, direct Arday publication page, or changed response; do not repeat the same requests unchanged.
+
 Fresh provenance-control checkpoint: `SRC-924/C-990` — eight PubPeer IDs linked from 21percent were resolved and none concerns an Arday publication. Reopen only if a direct PubPeer page for an Arday DOI appears; do not repeat the unrelated-ID audit.
 
 Fresh QUB metadata checkpoint: `SRC-923/C-989` — the article page is byte-distinct and its download counter changed, but no correction, terms of reference, named investigator, or outcome appeared. Reopen only for a substantive QUB page revision, correction, investigation document, or outcome; do not repeat metric-only fetches.

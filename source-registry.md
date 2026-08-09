@@ -722,6 +722,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-924 | `sources/2026-08-09-pubpeer-link-resolution-audit.md` | Resolution audit of eight PubPeer identifiers linked from 21percent’s Arday commentary; all resolve to unrelated migration/history publications, not Arday works | source-provenance audit / post-publication-platform resolution / local HTML and headers / corrects attribution boundary for SRC-398 | 2026-08-09 | PubPeer, 21percent, source provenance, link resolution, migration history, unrelated publications, attribution boundary, research integrity |
 
+| SRC-925 | `sources/2026-08-09-pubpeer-direct-search.md` | Direct PubPeer exact-name search shell recovered; API requires human verification and direct routes for two tested Arday DOIs returned 404, so no reliable no-results conclusion is drawn | post-publication-platform search / access-state boundary / local HTML, JSON, headers, and SHA-256 manifest | 2026-08-09 | PubPeer, Jason Arday, DOI, search, Turnstile, human verification, HTTP 404, access boundary, negative space, research integrity |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

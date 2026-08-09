@@ -4049,3 +4049,8 @@ Discovery: the archived image URLs listed in SRC-377 were retried to pursue actu
 Capture: three duplicated logo graphics were recovered from both Wayback snapshot timestamps; eight earlier personal-photo URLs returned 404 and five later-photo URLs returned connection failures. The binaries and their hashes are preserved under `assets/captures/2026-08-09-30in35-image-recheck/`.
 
 Decision: added SRC-920/C-986 as a partial recovery linked to the contemporaneous campaign blog. No portrait or marathon photograph was promoted, and no claim about completion or fundraising was upgraded.
+## 2026-08-09 — SRC-925/C-991: direct PubPeer search boundary
+
+Discovery: PubPeer’s public search shell accepted the exact-name query `Jason Arday`, but the corresponding API returned a human-verification requirement. Direct publication routes for the 2018 *Social Sciences* DOI and the 2021 *Educational Philosophy and Theory* DOI returned HTTP 404.
+
+Decision: preserve the HTML, API response, headers, and hashes as an incomplete access-state boundary. Do not treat the API challenge or the two 404s as proof that no PubPeer record exists. Reopen only for a human-verifiable result, alternate identifier, direct Arday publication page, or changed response. Google Drive was not updated; GitHub remains the active publication target.
