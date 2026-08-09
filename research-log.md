@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-935/C-1001: Goodreads author-page reception snapshot
+
+Discovery: the current Goodreads author route returned HTTP 200 and exposed an author-level catalogue/reception state: 124 ratings, 89 reviews, six distinct works, and a 4.51/82-rating, seven-edition listing for *Great and Unfortunate Things*. The same page listed *We See Things They’ll Never See* at 3.80 from 20 ratings across six editions.
+
+Decision: register the author page as a distinct manifestation from the earlier individual memoir-book record (`SRC-294`). Preserve the counts as volatile reader-platform metadata only; they are not evidence for the accuracy of memoir claims, scholarly quality, or research-integrity allegations. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-933/C-1000 and SRC-934/C-999: current Cambridge institutional records
 
 Discovery: a current search of Cambridge’s official domains surfaced two distinct records not represented by the prior profile/statement captures. The Black Advisory Hub’s 14 April 2026 symposium page names Professor Jason Arday as a practitioner-workshop leader. The Cambridge University Reporter’s 2025–26 college-fellows roster, dated 19 January 2026, lists “Arday Jason phd frsa” among Jesus College’s 2023 fellows.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh reception/edition-topology checkpoint: `SRC-935/C-1001` — Goodreads’ current author page displays 124 author-level ratings, 89 reviews, six works, and seven listed memoir editions; counts are volatile and do not corroborate biography or scholarship. Reopen only for materially changed counts, provenance-bearing review text, or a distinct edition record; do not repeat the same author-page fetch unchanged.
+
 Fresh Cambridge institutional-output checkpoint: `SRC-933/C-1000` and `SRC-934/C-999` — a 14 April 2026 Black Advisory Hub page names Arday as an anti-racism symposium workshop leader, while the 19 January 2026 University Reporter lists him among Jesus College’s 2023 fellows. Reopen only for the symposium’s event report/recording, a later Reporter issue, or a role-specific status document; do not infer delivery, current employment, or investigation outcome from these listings alone.
 
 Fresh memoir-retailer boundary: `SRC-932/C-998` — Norli indexing exposes ISBN 9781398542747 / the 336-page UK edition, but the direct product page returned HTTP 403 with no product HTML, cover, price, stock state, or excerpt. Reopen only for a changed page, lawful product image/excerpt, or distinct ISBN/format; do not repeat the same request unchanged.
