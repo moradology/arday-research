@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1126/C-1386: Southend High Gazette event audit
+
+Fresh institutional discovery found the 52-page *SHSG Gazette Summer 2024*. PDF p. 6 reports that 18 A-level sociology students attended a “Sociology in Action” conference at the Emanuel Centre and heard Arday speak. The school summarizes his educational experience, research on ethnicity and inequality, and Black-history curriculum position. The audit preserves the school’s event account and its boundaries: no conference date, organizer, recording, slides, transcript, or attendance list was exposed.
+
 ## 2026-08-09 — SRC-1125/C-1385: Drake Primary self-evaluation source-version audit
 
 The existing Drake class/visit family (`SRC-371–SRC-373`) was extended with a Wayback-recovered 21-page self-evaluation report. After the live attachment route returned HTTP 404, the 28 April 2025 replay was preserved and audited; PDF p. 4 says Arday visited when the class was named, met the children, and delivered an “inspiration speech” to SEND parents. Added only the additional source-version wording as C-1385; the class naming and prior newsletter visit claims were not duplicated. Visit date, speech content, and independent attendance evidence remain unresolved.
