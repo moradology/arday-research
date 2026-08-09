@@ -65,3 +65,9 @@ The previously indexed Reddit question about the Bath football-academy wording w
 
 - [Reddit challenge page](../assets/captures/2026-08-08-reddit-football-academy/page.html) — SHA-256 `963427e1a5ae1a45461cd1371820347e3729cfac587b88247cdb78584a2f060d`
 - [Reddit response headers](../assets/captures/2026-08-08-reddit-football-academy/page.headers.txt) — SHA-256 `ca7f98e7467064dc80d25d2d4a165e81e67c30a66e9e9a7109adaee82321786a`
+
+## Targeted sports recheck — 2026-08-09
+
+The exact-name search was extended with `"Jason Arday" footballer`, `"Jason Arday" "Battersea Park Rangers"`, `"Jason Arday" "Southern Sunday Football League"`, and `"Jason Arday" snooker -Wikipedia`. Results were limited to the existing Wikipedia/News24/Twinkl/Lives Retold propagation family, the already-catalogued Battersea Park Rangers lead, and public discussion of the Bath wording. No new named club, academy, senior appearance, contract, snooker ranking, tournament result, or governing-body record was recovered.
+
+This is an extension of the existing negative-space boundary, not a new source node. The absence of a result from these public/indexed routes does not disprove the self-reported youth-football or near-professional-snooker accounts. Reopen only for a named club/event, ranking, match record, governing-body entry, or newly accessible first-person audio/transcript.

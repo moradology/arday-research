@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — sports-record boundary extension (no new source node)
+
+Discovery: exact-name searches for `"Jason Arday" footballer`, `"Jason Arday" "Battersea Park Rangers"`, `"Jason Arday" "Southern Sunday Football League"`, and `"Jason Arday" snooker -Wikipedia` returned only the existing propagation family, the canonical Battersea Park Rangers lead, and public discussion of the already-corrected Bath wording.
+
+Decision: extend the canonical sports search boundary (`SRC-151` and linked records) without creating a duplicate source or claim. No named club, academy, contract, senior appearance, ranking, tournament result, or governing-body record was recovered. The unresolved sports claims remain self-reported/source-versioned.
+
 ## 2026-08-09 — SRC-938/C-1004: NetGalley catalog recheck
 
 Discovery: direct HTTP-200 rechecks of NetGalley’s US (`783642`) and UK/Australia (`860927`) memoir catalog pages recovered current edition/access metadata. The US page reports an average rating from 98 members; the UK/Australia page reports one member. Both retain the sign-in requirement for request/access and expose no review-copy file.
