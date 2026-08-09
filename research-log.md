@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — exact-name subject-output search continuation: no new canonical item
+
+A bounded exact-name search across 2026 video/interview/podcast results, 2026 DOI/publication results, event recordings, and childhood/sports wording returned only already-catalogued families: the *Full Disclosure* podcast, BOLD interview, Cambridge Student interview, Belluigi–Arday–O’Keeffe’s *Routes to Intellectual Authority* article, the Lives Retold/Guardian/Twinkl sports-and-childhood chain, and the existing Reddit football-academy access-boundary lead. ORCID’s record for DOI `10.1080/13613324.2024.2398491` maps to the existing scholarly-output record. No new video, audio, publication, independent sports record, or first-party childhood record was recovered. The current search lane is closed until a changed endpoint or distinct artifact appears; repeated biography wording is not counted as corroboration.
+
 ## 2026-08-09 — SRC-1018/C-1018: Springfields class-page source-version preservation
 
 The current Springfields class page was rechecked as a source-version of the existing named-class record, not a new institutional or biographical node. The raw HTML is now preserved alongside the extracted text. It exposes current term timetable and topic-web links for the class; those materials were not treated as Arday evidence and were not fetched as new biography sources. The page’s autism wording remains school representation without an identified underlying clinical source.

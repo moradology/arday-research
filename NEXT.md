@@ -1,5 +1,7 @@
 # Next actions
 
+Latest exact-name subject-output search continuation: 2026 video/interview/podcast, DOI/publication, event-recording, and childhood/sports queries returned only canonical records and the already-logged Reddit football-academy access boundary. No new artifact or independent record was recovered. Reopen only for a changed endpoint or distinct primary/publication/sports artifact; do not repeat the same query families unchanged.
+
 Latest Newcastle participant-witness check: two candidate LinkedIn URLs resolved only to the same byte-identical cache/login shell, with no recoverable post or attachment. No source or claim was created. Reopen only if the participant post becomes directly accessible, is independently archived, or a recording/transcript/participant artifact surfaces; do not repeat these URLs unchanged.
 
 Fresh event-topology checkpoint: `SRC-1127/C-1387` — Education in Action’s 2-page “Sociology in Action” programme schedules Arday’s “Race and education in today’s world” session at the Emmanuel Centre and describes its race, racism, intersectionality, and education focus. The PDF says 10 November 2025 while the page route says 10–11 November; the programme is preserved locally. Reopen only for an organizer recap, booking/event record, revised programme, recording, slides, transcript, or participant account; do not treat the organizer’s biography/superlative as independent corroboration or as proof of delivery.
