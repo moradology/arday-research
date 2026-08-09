@@ -1,0 +1,43 @@
+HTTP/2 301 
+server: CloudFront
+content-type: application/json
+content-length: 122
+location: https://www.eventbrite.co.uk/e/black-history-month-lecture-sign-o-the-times-by-professor-jason-arday-tickets-1620521697019?aff=oddtdtcreator
+date: Sun, 09 Aug 2026 11:11:55 GMT
+x-amzn-trace-id: Root=1-6a78607b-42169cf0103771300a515a4b;Parent=63195430c4909f10;Sampled=0;Lineage=2:a3d0e391:0
+x-canonical-url: https://www.eventbrite.co.uk/e/black-history-month-lecture-sign-o-the-times-by-professor-jason-arday-tickets-1620521697019
+x-amz-apigw-id: B1QDTEiOIAMEfog=
+x-opennext: 1
+cache-control: s-maxage=3600, stale-while-revalidate=86400, stale-if-error=604800
+x-upstream-source: VALKYRIE
+via: 1.1 2f743a0ca9cc9da3bb8d81eb8b012916.cloudfront.net (CloudFront)
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-amzn-requestid: 54dc443c-8def-4ab2-b26e-0b2775b2a946
+x-cache: Miss from cloudfront
+x-amz-cf-pop: MCI50-P1
+x-amz-cf-id: zccoGmN89XVsBL4DfapoMprwRyevhEixMNNN4_aBYChxEfBIIzqwgQ==
+
+HTTP/2 200 
+server: CloudFront
+content-type: text/html; charset=utf-8
+content-length: 181735
+date: Sun, 09 Aug 2026 11:11:56 GMT
+x-amzn-trace-id: Root=1-6a78607b-0ac681cf73e62d6e3042b467;Parent=792b123d4b4fd8d9;Sampled=0;Lineage=2:a3d0e391:0
+x-canonical-url: https://www.eventbrite.co.uk/e/black-history-month-lecture-sign-o-the-times-by-professor-jason-arday-tickets-1620521697019
+x-amzn-remapped-content-length: 181735
+x-amz-apigw-id: B1QDaHBNoAMEbfQ=
+x-opennext: 1
+cache-control: s-maxage=3600, stale-while-revalidate=86400, stale-if-error=604800
+etag: "cr6k81370m3w6w"
+x-powered-by: Next.js
+x-upstream-source: VALKYRIE
+via: 1.1 2f743a0ca9cc9da3bb8d81eb8b012916.cloudfront.net (CloudFront)
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+set-cookie: csrftoken=4c96e8fc81a33f25e532ced2ef86f2b1; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
+set-cookie: stableId=7bd8a425-cae7-49d5-b890-f7ca798ff3b8; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
+x-experiments-assignment: {"listings_desktop_two_rails":{"groupName":"","parameters":{}}}
+x-amzn-requestid: 3205a6b9-d532-4283-9cd5-f2083c0b2d11
+x-cache: Miss from cloudfront
+x-amz-cf-pop: MCI50-P1
+x-amz-cf-id: uCIa2rUlSy0-YyDVuAjMyFQIjmBs42V4H208tjdXAcAbooXD4yIODg==
+

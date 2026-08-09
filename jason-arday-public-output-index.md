@@ -141,7 +141,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [Association of British Insurers Annual Conference 2025](sources/2025-02-27-abi-annual-conference-jason-arday.md) — 27 February 2025 fireside-chat programme record and indexed speaker-biography version; direct ABI profile and agenda endpoints currently return 403.
 - [Springfields Academy Arday Class](sources/2026-08-06-springfields-arday-class.md) — first-party specialist-school recognition record.
 - [Cambridge Festival 2024 report](https://www.festival.cam.ac.uk/system/files/camfest_report_2024.pdf) — records a BBC Radio Cambridgeshire appearance on “Race & society.”
-- [Newcastle University “Sign o’ the times” lecture](sources/2025-10-14-newcastle-black-history-month-lecture.md) — 14 October 2025 Black History Month lecture listing; no recording, transcript, or slides exposed, and host biography retained as dated source-version wording.
+- [Newcastle University “Sign o’ the times” lecture](sources/2025-10-14-newcastle-black-history-month-lecture.md) and [Eventbrite manifestation](sources/2025-10-14-newcastle-black-history-month-lecture-eventbrite.md) — 14 October 2025 lecture/registration records with local/UTC schedule and event image; no recording, transcript, or slides exposed, and host biography retained as dated source-version wording.
 - [Podchaser creator page](https://www.podchaser.com/creators/jason-arday-107tenATJb) — index of four podcast credits/guest appearances; use as a discovery aid rather than a primary source.
 
 ## 4. Books and edited volumes
