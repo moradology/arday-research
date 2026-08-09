@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred media audit: the locally preserved 3:42 Channel 4 News racial-justice interview had no public caption track, so it was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1141/C-1401–C-1403` for bounded navigation of Arday’s apparent answers on systemic racism, post-racial framing, state structures, civil liberties, and sustained policy action. The derivative is explicitly not a verified transcript; presenter and government-spokesperson segments remain excluded.
+
 2026-08-09 — QUB institutional-host continuation: the current indexed “Education and Learning Research” campaign page still showcases *Attempting to break the chain* under “Shared and Inclusive Education” and links to the QUB-hosted manuscript. Direct shell access returned CloudFront HTTP 403. Added `SRC-1140/C-1400` as institutional-host topology only; no Arday-specific claim, study validation, review scope, or outcome was inferred.
 
 2026-08-09 — Public-filings continuation: exact-name and full-name Companies House/Charity Commission searches were reconciled against the existing eight-appointment graph and Adult Literacy Trust annual-report record. The potentially new charity-number lead `5172504` is already SRC-368; a narrower `5172504` + Adult Literacy Trust/Jason Arday search returned no additional indexed filing. No new entity, appointment, termination, or claim was created.

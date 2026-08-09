@@ -1,6 +1,8 @@
 @@
 # Media / capture additions
 
+- `SRC-1141`: [Channel 4 racial-justice interview audio audit](sources/2026-08-09-channel4-racially-just-audio-audit.md), [canonical 3:42 MP4](assets/videos/channel4-racially-just-2023.mp4), and [Whisper JSON](assets/documents/channel4-racially-just-2023/channel4-racially-just-2023.json) — subject-centred navigation for Arday’s apparent answers; ASR wording is not human-verified.
+
 - `SRC-1140`: [QUB Education and Learning Research showcase record](sources/2026-08-09-qub-education-learning-research-campaign.md) — indexed first-party page state linking QUB’s *Attempting to break the chain* manuscript; direct shell returned HTTP 403 and no local HTML or image binary was recovered.
 
 - `SRC-1138`: [African Allied Healthcare Summit speaker record](sources/2026-08-09-african-allied-health-summit-speakers.md), [home](assets/captures/2026-08-09-african-allied-health-summit/home.html), [speakers page](assets/captures/2026-08-09-african-allied-health-summit/speakers.html), [schedule](assets/captures/2026-08-09-african-allied-health-summit/schedule.html), [about page](assets/captures/2026-08-09-african-allied-health-summit/about.html), and [organizer-displayed portrait](assets/captures/2026-08-09-african-allied-health-summit/arday.webp) — first-party listing for the 23–24 July 2026 Accra summit; no detailed programme, recording, transcript, or post-event artifact recovered.

@@ -5,8 +5,8 @@ title: "Britain ‘not close’ to being ‘racially just society’ says damnin
 subject: ../entities/jason-arday.md
 published: 2023-04-10
 accessed: 2026-08-07
-status: first-party Channel 4 News page and public Brightcove video locally preserved
-evidence_class: broadcast interview/profile page; substantive video claims require timecoded listening
+status: first-party Channel 4 News page and public Brightcove video locally preserved; bounded audio audit added
+evidence_class: broadcast interview/profile page; substantive video claims remain ASR-navigated and require human listening
 urls:
   - https://www.channel4.com/news/britain-not-close-to-being-racially-just-society-says-damning-report
 assets:
@@ -23,7 +23,7 @@ Channel 4 News published this video page on 10 April 2023. The article discusses
 
 The page embeds Brightcove video ID `6324306995112` under account `1184612030`, using the public player configuration `kyfesvvck`. The public playback API exposed a clear MP4 at 1280×720 with H.264 video and AAC audio. The locally preserved file is 3:42.40 long and approximately 57 MB. The API exposed only a thumbnail WebVTT track, not captions or subtitles; no transcript was recovered. The page’s JSON-LD gives a three-minute-forty-two-second duration and a 1920×1080 thumbnail.
 
-The article and video establish Arday’s participation in this broadcast item and the subject framing. They do not, without timecoded listening, establish which propositions in the report summary were said by Arday rather than by the presenter or report authors. No detailed first-person claim is added here pending manual listening.
+The article and video establish Arday’s participation in this broadcast item and the subject framing. A bounded automatic-speech-recognition audit now maps his apparent answers and keeps the presenter, report, and government-spokesperson layers separate; the derivative is not a verified transcript. [Audio audit](2026-08-09-channel4-racially-just-audio-audit.md)
 
 ## Local preservation
 

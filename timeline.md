@@ -1,6 +1,8 @@
 @@
 # Timeline
 
+| 2023-04-10 | Channel 4 News broadcast an interview with Arday about a report on racial inequality; a bounded audio audit maps his attributed positions on systemic racism, post-racial framing, state structures, civil liberties, and sustained policy action. | first-person broadcast testimony/public position; ASR navigation not human-verified | [Parent broadcast record](sources/2023-04-10-channel4-racially-just-society.md) · [audio audit](sources/2026-08-09-channel4-racially-just-audio-audit.md) |
+
 | 2026-08-09 | QUB’s current indexed “Education and Learning Research” campaign page placed *Attempting to break the chain* in its “Shared and Inclusive Education” showcase and linked to the QUB-hosted manuscript. | first-party institutional showcase/source-version; direct page access 403; no study validation or investigation outcome | [QUB research showcase record](sources/2026-08-09-qub-education-learning-research-campaign.md) |
 
 | 2026-07-23–24 scheduled | The African Allied Healthcare Summit’s first-party site listed Jason Arday as a keynote speaker for the Accra summit at the Cedi Conference Centre, University of Ghana, with a focus description spanning education, equity, social mobility, and inclusive healthcare systems. | organizer-side future/event listing; attendance, delivery, keynote content, and post-event artifacts unresolved | [African Allied Healthcare Summit speaker record](sources/2026-08-09-african-allied-health-summit-speakers.md) |
