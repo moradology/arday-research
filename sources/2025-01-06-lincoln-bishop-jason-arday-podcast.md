@@ -5,7 +5,7 @@ title: "A conversation with Prof. Jason Arday: How learning and education has sh
 subject: ../entities/jason-arday.md
 published: 2025-01-06
 accessed: 2026-08-09
-status: public university page and direct MP3 preserved; no transcript or captions recovered
+status: public university page and direct MP3 preserved; targeted transcript/caption search through 2026-08-09 found no text manifestation
 evidence_class: first-party institutional podcast metadata and audio artifact; interview content not yet manually transcribed
 urls:
   - https://www.lincolnbishop.ac.uk/podcast-social-justice
@@ -30,6 +30,10 @@ This is a distinct interview and audio object, not another manifestation of *How
 The page establishes episode identity, host, guest, date, title, and broad topic framing. The audio is preserved for later listening and transcription, but no claims about its spoken contents are promoted here until the recording is manually reviewed. The episode portrait is a host-published media asset, not evidence of date or location beyond the page association.
 
 The MP3 exceeds GitHub’s 100 MiB file limit and is therefore local-only in the current GitHub checkpoint; the page, headers, image, and this source record are publishable. The original audio URL remains the canonical external route.
+
+## Transcript search boundary
+
+Exact-title, host/guest, filename, and institutional-domain searches found only the Lincoln Bishop episode page and its direct audio link. No transcript, caption file, show-note transcript, podcast-platform mirror, or alternate text version was recovered. The recording remains an open local listening/transcription task; until that review is done, the archive makes no spoken-content claims.
 
 ## Local capture manifest
 

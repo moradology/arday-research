@@ -6,7 +6,7 @@ Discovery: a search across institutional podcast pages surfaced Lincoln Bishop U
 
 Capture: preserved the university page and response headers, downloaded the linked S3 MP3, validated its 44:47.55 duration and 320 kb/s stereo stream, and preserved the linked 800×800 episode portrait plus headers. The audio is 107,519,809 bytes and is retained locally; it is not copied into the GitHub snapshot because GitHub’s hard file limit is 100 MiB.
 
-Decision: register SRC-896 as a distinct interview/audio artifact, not a manifestation of an existing podcast. Add only episode metadata at this stage. Manual listening/transcription is the next bounded action; no spoken claim, childhood detail, or sports claim is being inferred from the programme description.
+Decision: register SRC-896 as a distinct interview/audio artifact, not a manifestation of an existing podcast. Add only episode metadata at this stage. Targeted exact-title, host/guest, filename, and institutional-domain searches found no transcript or caption manifestation. Manual listening/transcription remains the next bounded action; no spoken claim, childhood detail, or sports claim is being inferred from the programme description.
 
 ## 2026-08-09 — SRC-481/C-909: Tapesearch transcript access recheck
 

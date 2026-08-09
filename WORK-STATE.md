@@ -1,6 +1,6 @@
 # Work state
 
-Latest distinct-media checkpoint: on 2026-08-09 `SRC-896/C-910–C-911` recovered Lincoln Bishop University’s Research Cast UK episode 3, a distinct 6 January 2025 interview with a 44:47.55 MP3 and episode portrait. The audio is local-only because it exceeds GitHub’s 100 MiB limit; manual spoken-content review remains open. Google Drive was not updated; GitHub remains the active publication target.
+Latest distinct-media checkpoint: on 2026-08-09 `SRC-896/C-910–C-912` recovered Lincoln Bishop University’s Research Cast UK episode 3, a distinct 6 January 2025 interview with a 44:47.55 MP3 and episode portrait. Targeted searches found no transcript or captions; the audio is local-only because it exceeds GitHub’s 100 MiB limit; manual spoken-content review remains open. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media access-boundary checkpoint: on 2026-08-09 `SRC-481/C-909` rechecked the Tapesearch page for the already-canonical *How Do You Cope?* episode. The direct request returned a Cloudflare challenge; no new transcript, audio, video, or independent biographical evidence was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
