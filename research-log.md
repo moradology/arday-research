@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-481/C-909: Tapesearch transcript access recheck
+
+Discovery: the unresolved media queue returned to the Tapesearch manifestation for the already-captured 26 May 2025 *How Do You Cope?* episode. The browser/indexed page still supplies the previously logged opening transcript, but no new public transcript route or distinct recording surfaced.
+
+Capture: a fresh direct request returned a Cloudflare managed-challenge page. The HTML and response headers are preserved under `assets/captures/2026-08-09-tapesearch-how-do-you-cope/`; the page contains no episode text beyond the challenge. The login-gated remainder was not accessed or bypassed.
+
+Decision: update SRC-481/C-909 as a current access-boundary recheck and keep the episode deduplicated to SRC-129. No new transcript, audio, video, or independent biographical evidence was recovered. Reopen only for a changed public transcript state, an official caption/transcript endpoint, or a distinct recording.
+
 ## 2026-08-08 — SRC-890/C-897–C-898: memoir proposal version lead
 
 Discovery: a current Reddit post surfaced a *Daily Mail* report titled “Jason Arday claimed he survived ‘unrecoverable’ car accident, locked-in syndrome and testicular cancer in newly surfaced book proposal.” The Daily Mail page was directly retrievable and its article body reports alleged differences between a 2024 proposal and the final memoir. The proposal itself was not recovered.

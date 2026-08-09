@@ -5,7 +5,7 @@ title: "Tapesearch transcript index — Professor Jason Arday: I learned to mask
 subject: ../entities/jason-arday.md
 published: 2025-05-26 episode; transcript page captured 2026-08-08
 accessed: 2026-08-08
-status: opening transcript publicly visible; remainder login-gated
+status: opening transcript publicly visible in browser/index; direct shell recheck 2026-08-09 returned Cloudflare challenge; remainder login-gated
 evidence_class: third-party transcript index / episode metadata / access boundary
 urls:
   - https://www.tapesearch.com/episode/professor-jason-arday-i-learned-to-mask-within-an-inch-of-my-life-15/iQ2xNBTCYzFrzQYyQEkfZ6
@@ -13,6 +13,8 @@ related_source: SRC-129
 assets:
   - ../assets/documents/how-do-you-cope-jason-arday-transcript-2025/tapesearch.html
   - ../assets/documents/how-do-you-cope-jason-arday-transcript-2025/tapesearch.headers.txt
+  - ../assets/captures/2026-08-09-tapesearch-how-do-you-cope/page.html
+  - ../assets/captures/2026-08-09-tapesearch-how-do-you-cope/page.headers.txt
 ---
 
 # Tapesearch transcript-index manifestation
@@ -28,3 +30,5 @@ These are host narration and episode-introduction copy, not Arday’s own words 
 ## Access boundary
 
 The direct shell request returned a Cloudflare challenge page, preserved locally. The browser-visible/indexed page exposed the opening transcript but displayed “Please login to see the full transcript” after the opening segment. No attempt was made to bypass the login wall.
+
+On 2026-08-09, a fresh direct request again returned a Cloudflare managed-challenge page rather than the transcript. The new HTML and response headers are preserved as a changed capture of the access boundary; they contain no additional episode text or transcript segment. This recheck does not reopen the episode as a source lead.

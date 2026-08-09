@@ -1,5 +1,7 @@
 # Work state
 
+Latest media access-boundary checkpoint: on 2026-08-09 `SRC-481/C-909` rechecked the Tapesearch page for the already-canonical *How Do You Cope?* episode. The direct request returned a Cloudflare challenge; no new transcript, audio, video, or independent biographical evidence was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest legal-register checkpoint: on 2026-08-09 `SRC-099/C-908` rechecked the Companies House personal-appointments page. The HTML body remained byte-identical and the eight-role display was unchanged; new response headers are preserved. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest search-boundary checkpoint: on 2026-08-09 `SRC-895/C-907` closed a focused post-checkpoint sweep across Cambridge/QUB processes, 2026 DOI output, and governance hosts. Results resolved to existing records; no new official outcome, filing, DOI, or media artifact was found. Google Drive was not updated; GitHub remains the active publication target.

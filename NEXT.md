@@ -1,5 +1,8 @@
 # Next actions
 
+Fresh media access-boundary checkpoint: `SRC-481/C-909` — a 9 August direct Tapesearch request again returned a Cloudflare managed-challenge page; the browser/indexed opening remains the previously captured partial transcript and the remainder remains login-gated. No new audio, video, transcript, or independent biography was recovered. Reopen only for a changed public transcript state, official captions/transcript, or distinct recording; do not repeat the same request unchanged.
+
+
 Fresh legal-register state checkpoint: `SRC-099/C-908` — the 9 August Companies House personal-appointments HTML is byte-identical to the 7 August capture, still showing eight appointments and the same active/resigned split; new response headers are preserved. Reopen only after a changed page body or concrete filing; do not infer operational activity from the unchanged registry display.
 
 
