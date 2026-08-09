@@ -2,6 +2,8 @@
 @@
 # Next actions
 
+Fresh subject-centred *How Do You Cope?* checkpoint: `SRC-1154/C-1441–C-1446` — the preserved 21:13.29 *Gratitude List* bonus MP3 now has corrected-mono Whisper navigation for Arday’s poverty/household-gratitude account, maternal support and age-eight apple recollection, self-conception, community support, and music/language account. Do not repeat the Apple/Tapesearch search; reopen only for human listening, a complete lawful transcript, a materially changed audio file, or a distinct source.
+
 Fresh subject-centred *Allyship in Action* checkpoint: `SRC-1153/C-1436–C-1440` — the locally preserved 31:09.84 episode now has corrected-mono Whisper navigation for Arday’s book-origin account, theory/practice self-description, workplace productivity and risk discussion, collective educational change, and compassion answer. Lewis’s separate exam-abolition remarks were not attributed to Arday. Do not repeat the episode search; reopen only for human listening, a public transcript/caption asset, a materially changed enclosure, or a distinct interview.
 
 Fresh subject-centred BBC *A Good Read* checkpoint: `SRC-1152/C-1433–C-1435` — the locally preserved 28:05 episode now has corrected-mono Whisper `small.en` navigation for Arday’s biographical reading preference, Siya Kolisi’s *Rise*, and his representation/lived-experience discussion of *Let the Great World Spin*. Human listening and any first-party transcript remain open; do not quote the ASR as settled wording or treat literary judgments as independent biography.

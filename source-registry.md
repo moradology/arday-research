@@ -1,6 +1,8 @@
 @@
 # Source registry
 
+| SRC-1154 | `sources/2026-08-09-how-do-you-cope-gratitude-list-audio-audit.md` | Bounded machine-assisted audit of the preserved *How Do You Cope?* bonus MP3; Arday-attributed first-person windows for poverty and household gratitude, maternal support and the age-eight apple recollection, self-conception, support network, and music/language | primary podcast audio / first-person self-report / ASR navigation | 2026-08-09 | Jason Arday, How Do You Cope?, The Gratitude List, poverty, family, mother, childhood, music, language, neurodivergence, self-report, ASR |
+
 | SRC-1153 | `sources/2026-08-09-allyship-in-action-audio-audit.md` | Bounded machine-assisted audit of the locally preserved *Allyship in Action* episode 314 MP3; Arday-attributed windows for book origin, theory/practice, productivity and risk, collective educational change, and compassion; Lewis’s exam-abolition remarks kept separate | primary audio audit / first-person and public-position source-version / ASR navigation | 2026-08-09 | Jason Arday, Chantelle Jessica Lewis, *We See Things They'll Never See*, neurodivergence, productivity, allyship, education, audio audit, source version |
 
 | SRC-1152 | `sources/2026-08-09-bbc-good-read-audio-audit.md` | Bounded Whisper `small.en` audit of the 2023 BBC *A Good Read* MP3; separates Arday’s book-preference, Siya Kolisi, leadership, and representation remarks from other speakers; ASR not human-verified | first-party BBC broadcast audio / self-description and literary-judgment source-version / machine-assisted navigation / local MP3 and JSON derivative | 2026-08-09 | A Good Read, Jason Arday, Janet Ellis, books, biography, Siya Kolisi, Rise, representation, Black women, literary judgment, ASR, human verification pending |

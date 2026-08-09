@@ -4,7 +4,7 @@ type: podcast episode
 title: "Jason Arday: The Gratitude List"
 published: 2025-05-29
 accessed: 2026-08-06
-status: official audio locally preserved; Apple page locally preserved; Tapesearch transcript page browser-visible but shell-403
+status: official audio locally preserved; bounded audio audit added; Apple page locally preserved; Tapesearch transcript page browser-visible but shell-403
 source_kind: bonus podcast episode / first-person testimony / local MP3 and HTML
 entities:
   - ../entities/jason-arday.md
@@ -31,3 +31,7 @@ The browser-visible Tapesearch transcript preview places Arday’s first-person 
 ## Evidence boundary
 
 The poverty and family-principle passage is first-person podcast testimony and overlaps the poverty/charity recollections in SRC-216 without independently corroborating them. The Apple page supports episode identity, date, and description; it does not provide a transcript. The Tapesearch page exposes only a partial generated transcript and is not treated as a complete transcript or independent source.
+
+## Audio audit — 2026-08-09
+
+A bounded machine-assisted pass over the MP3 now supplies navigation windows for Arday’s first-person accounts of poverty and gratitude, maternal support and an age-eight developmental recollection, his distinction between Cambridge status and personal identity, community support, and music as a language/imagination medium. The derivative is not a human-verified transcript. [Audio audit](2026-08-09-how-do-you-cope-gratitude-list-audio-audit.md)
