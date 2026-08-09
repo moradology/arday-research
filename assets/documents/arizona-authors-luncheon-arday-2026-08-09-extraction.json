@@ -1,0 +1,23 @@
+{
+  "url": "https://authorsluncheonaz.org/",
+  "retrieved": "2026-08-09",
+  "event": {
+    "name": "Friends of Erma Bombeck Authors Luncheon",
+    "dinner_date": "2026-10-23",
+    "main_date": "2026-10-24",
+    "location": "Phoenix, Arizona",
+    "times_displayed": ["10:30 a.m. VIP Book Signing Event", "11:00 a.m. Book Signing & Book Sales", "12:00 p.m. Luncheon & Program", "2:00 p.m. Book Signing & Book Sales"]
+  },
+  "indexed_state": {
+    "subject_listed": true,
+    "subject": "Jason Arday",
+    "description": "Great and Unfortunate Things memoir framing: nonverbal until eleven and illiterate until eighteen, followed by a Cambridge professorship."
+  },
+  "live_rendered_state": {
+    "subject_card_exposed": false,
+    "schedule_exposed": true,
+    "other_featured_author_cards_exposed": true
+  },
+  "classification": "first-party event listing / indexed source-version / promotional memoir copy",
+  "evidence_boundary": "No attendance, contract, ticket, programme PDF, recording, photograph, author confirmation, or delivery evidence recovered. The indexed biography is not independent corroboration."
+}

@@ -26,6 +26,14 @@ Decision: added SRC-1134/C-1394 as named commentary and an audit pointer. The re
 
 Follow-up verification: direct `pdftotext` extraction from the preserved LJMU thesis located the cited prose passages on PDF pp. 174, 176, and 181. This verifies quotation/source location only; the reported 332-error count and Dawkins’s evaluative conclusions remain unverified here.
 
+## 2026-08-09 — SRC-1135/C-1396: Arizona Authors Luncheon event-state discrepancy
+
+Discovery: a publisher/event search surfaced the Arizona Women’s Board’s 2026 Friends of Erma Bombeck Authors Luncheon page, whose indexed rendering lists Jason Arday among featured authors.
+
+Capture: the event page schedules a 23 October authors dinner and 24 October 2026 Phoenix book-signing/luncheon programme. The indexed result includes Arday and publisher-style memoir copy; the live homepage rendering inspected through the browser exposed the schedule and other author cards but not Arday’s card.
+
+Decision: added SRC-1135/C-1396 as a volatile event/source-version record. No attendance or delivery claim was created, and the memoir wording remains promotional. Reopen for a stable author page, programme PDF, ticket/organizer confirmation, recording, photograph, or post-event report.
+
 ## 2026-08-09 — Markdown ontology integrity audit
 
 The source graph was checked before continuing discovery: 760 source files carry unique `SRC-*` identifiers; the registry contains 785 unique rows; and every registry path resolves to an existing source file. The first local-link scan found six broken links: four Arasite text-derivative links used URL-encoded spaces/parentheses that the renderer did not resolve, one stale Zwozdiak-Myers filename, and one stale 30-in-35 parent-record filename. A parser-aware second scan then exposed a broader path-prefix error in eight root-level records plus one nested listening-notes file: those records used `../` for repository-root targets. All of these local links now resolve; the link repairs changed paths only, not source or claim content.
