@@ -674,6 +674,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-895 | `sources/2026-08-09-post-checkpoint-source-boundary.md` | Focused 9 August 2026 search boundary across Cambridge/QUB investigation outcomes, 2026 DOI output, charity/governance records, and named institutional hosts; all material results resolved to existing canonical records and no new artifact or outcome was recovered | bounded search/negative-space record / deduplication checkpoint / no local binary | 2026-08-09 | Cambridge, QUB, investigation, outcome, DOI, Charity Commission, Companies House, governance, search boundary, negative space, deduplication |
 
+| SRC-896 | `sources/2025-01-06-lincoln-bishop-jason-arday-podcast.md` | Lincoln Bishop University Research Cast UK episode 3, “A conversation with Prof. Jason Arday: How learning and education has shaped my being”; university page, direct 44:47.55 MP3, headers, and 800×800 episode portrait preserved; audio is local-only because it exceeds GitHub’s 100 MiB limit | first-party university podcast / distinct interview / local audio and image / metadata reviewed, spoken content pending manual review | 2026-08-09 | Lincoln Bishop University, Research Cast UK, Helen Bushell-Thornalley, podcast, education, social justice, audio, source topology |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

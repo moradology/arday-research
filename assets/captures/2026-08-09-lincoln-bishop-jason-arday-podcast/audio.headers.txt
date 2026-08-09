@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+x-amz-id-2: 5z8cBYps/Gk5YEpRg658fSFg+lUpPIUUKzuMb5zc4EWvym44tBHZMTOphim+xVA7vB4Mcg13jtg=
+x-amz-request-id: GWSNWJD5JYSVJJ6T
+Date: Sun, 09 Aug 2026 00:27:48 GMT
+Last-Modified: Fri, 26 Sep 2025 07:26:47 GMT
+ETag: "abad1cc370bba96af2aa0205681ae33f"
+x-amz-server-side-encryption: AES256
+x-amz-version-id: EJqmphED_WqAEfh1oBlb5GGNMr5ZkPa6
+Accept-Ranges: bytes
+Content-Type: audio/mpeg
+Content-Length: 107519809
+Server: AmazonS3
+

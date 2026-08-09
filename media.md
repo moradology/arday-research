@@ -1,5 +1,7 @@
 # Media index
 
+- [Research Cast UK — “How learning and education has shaped my being”](assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/social-justice-research-podcast.mp3) — 6 January 2025, Lincoln Bishop University, episode 3; [record](sources/2025-01-06-lincoln-bishop-jason-arday-podcast.md), [page capture](assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/page.html), [episode portrait](assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/jason_arday_2.jpg). Audio is 44:47.55 and local-only because it exceeds GitHub’s 100 MiB limit; transcript/manual review pending; SRC-896/C-910–C-911.
+
 - [Tapesearch 9 August access-boundary recheck](assets/captures/2026-08-09-tapesearch-how-do-you-cope/page.html) and [headers](assets/captures/2026-08-09-tapesearch-how-do-you-cope/page.headers.txt) — fresh direct request returned a Cloudflare managed challenge; no new transcript or media binary; SRC-481/C-909. The episode remains deduplicated to SRC-129.
 
 - [Companies House 9 August recheck headers](assets/captures/2026-08-09-companies-house-jason-arday-recheck/appointments.headers.txt) — changed response metadata for the unchanged eight-appointment personal registry page; no new media binary; SRC-099/C-908.

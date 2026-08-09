@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-896/C-910–C-911: Lincoln Bishop Research Cast UK episode
+
+Discovery: a search across institutional podcast pages surfaced Lincoln Bishop University’s Social Justice RKEU page. It identifies Research Cast UK episode 3 as Helen Bushell-Thornalley’s conversation with Jason Arday, dated 6 January 2025 and titled *How learning and education has shaped my being*. The host description frames the conversation around social justice, education, influential people, and navigating life when one feels they do not fit.
+
+Capture: preserved the university page and response headers, downloaded the linked S3 MP3, validated its 44:47.55 duration and 320 kb/s stereo stream, and preserved the linked 800×800 episode portrait plus headers. The audio is 107,519,809 bytes and is retained locally; it is not copied into the GitHub snapshot because GitHub’s hard file limit is 100 MiB.
+
+Decision: register SRC-896 as a distinct interview/audio artifact, not a manifestation of an existing podcast. Add only episode metadata at this stage. Manual listening/transcription is the next bounded action; no spoken claim, childhood detail, or sports claim is being inferred from the programme description.
+
 ## 2026-08-09 — SRC-481/C-909: Tapesearch transcript access recheck
 
 Discovery: the unresolved media queue returned to the Tapesearch manifestation for the already-captured 26 May 2025 *How Do You Cope?* episode. The browser/indexed page still supplies the previously logged opening transcript, but no new public transcript route or distinct recording surfaced.
