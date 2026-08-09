@@ -1,4 +1,7 @@
 # Research log
+## 2026-08-09 — SRC-1028/C-1028: page-level audit of 2018 mental-health article
+
+The open-access MDPI PDF for “Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University?” was read page by page. The audit records the stated design (32 participants, 14 UK universities, questionnaires, two focus groups, 32 individual interviews), recruitment and analysis details, reported themes, recommendations, and the article’s explicit limitations. It does not treat the article as a clinical finding or as independently reproducible beyond the public text: raw transcripts, coding files, recruitment records, and ethics documentation were not exposed. The artifact is deduplicated to canonical SRC-174. Google Drive was not updated; GitHub remains the active publication target.
 
 ## 2026-08-09 — SRC-1027/C-1027: Research Cast UK audio audit and timestamp correction
 
