@@ -1,5 +1,7 @@
 # Work state
 
+Latest authored-output extraction: on 2026-08-09 `SRC-158/C-1014–C-1016` extracted three new timecoded passages from the full *Ruling Passions* transcript: masking as exhausting, intrinsic versus externally driven motivation and tailoring, and music/song titles as an autistic sense-making and writing philosophy. These are first-person testimony/position statements, not clinical evidence or scholarship-quality findings. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest distribution checkpoint: on 2026-08-09 `SRC-1010–SRC-1012/C-1011–C-1013` captured three public-library manifestations of Arday’s memoir: Markham Public Library’s explicit “On order” state, Blackstone Library’s forthcoming library-CD audiobook catalogue with Arday as reader, and St. Catharines Public Library’s new-and-notable list. These establish distribution topology only; no memoir claim was independently corroborated. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest subject-specific access checkpoint: on 2026-08-09 `SRC-596/C-1010` rechecked the LJMU bicentenary profile route. It returned a byte-distinct HTTP 404 body with no Arday text while search indexing still exposed the older profile; no deletion, correction, or finding was inferred. The new body is local-only; Google Drive was not updated and GitHub remains the active publication target.

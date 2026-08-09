@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh transcript-extraction checkpoint: `SRC-158/C-1014–C-1016` — the full *Ruling Passions* transcript now has claim-level navigation for masking/exhaustion, intrinsic versus extrinsic motivation, tailoring, music as an autistic sense-making system, song-title paper naming, and accessible academic writing. Reopen only for a distinct audio/transcript version, manual audio comparison, or a substantive correction; do not create another interview node.
+
 Fresh library-distribution checkpoint: `SRC-1010–SRC-1012/C-1011–C-1013` — Markham Public Library’s catalogue explicitly lists *Great and Unfortunate Things* as “On order”; Blackstone Library lists Arday’s unabridged narration in library-CD formats; St. Catharines Public Library includes the title in its Spring–Summer 2026 adult nonfiction list. Reopen only for a distinct library catalogue, MARC record, circulation/hold update, library audiobook file/sample, or a materially changed acquisition state; do not treat library ordering as evidence for memoir accuracy or scholarly quality.
 
 Fresh LJMU access-state checkpoint: `SRC-596/C-1010` — the bicentenary profile URL returned another HTTP 404 on 9 August, while search indexing still exposes the older substantive biography. Reopen only for a replacement LJMU profile, a direct institutional statement, or a concrete historical record; do not infer deletion, correction, disavowal, or an investigation finding from the 404.

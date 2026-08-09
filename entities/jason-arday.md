@@ -72,4 +72,6 @@ The memoir’s public-output topology includes library acquisition and distribut
 
 ## Research notes
 
+The *Ruling Passions* transcript is a key first-person authored-output record: it preserves Arday’s descriptions of masking, intrinsic motivation, tailoring, music as an autistic sense-making lens, and his preference for accessible academic writing. These are source-layer testimony and public intellectual positions, not clinical findings or scholarship-quality adjudication. [Transcript record](../sources/2022-03-22-ruling-passions-jason-arday.md) · [claims C-1014–C-1016](../claims-ledger.md)
+
 This record is intentionally limited to identity, affiliations, and links to evidence. Biographical claims, disputes, and allegations belong in the claims ledger with their source and status.

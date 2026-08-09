@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-158/C-1014–C-1016: Ruling Passions transcript extraction
+
+The already-canonical *Ruling Passions* web transcript was reread for subject-centred content beyond the existing childhood claims. Three bounded passages were promoted: motivation/self-training and tailoring (approximately 11:08–11:53), masking and exhaustion (14:03–15:33), and music as an autistic sense-making system plus a critique of rigid academic writing (46:58–50:14).
+
+Decision: these are new claim-level extractions from an existing primary interview, not a new source node. They enrich the biography and public-output ontology while remaining first-person testimony and public intellectual position. No clinical inference or scholarship-quality conclusion was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1010–SRC-1012: library distribution and acquisition records
 
 Discovery: a focused search for public-library manifestations of *Great and Unfortunate Things* surfaced Markham Public Library’s BiblioCommons result, Blackstone Library’s audiobook-distributor catalogue, and St. Catharines Public Library’s Spring–Summer 2026 adult nonfiction PDF.
