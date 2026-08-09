@@ -4004,3 +4004,10 @@ Discovery: exact-name Charity Commission and Companies House searches were run f
 Result: all material hits reconciled to existing First Star, BSA, Adult Literacy Trust, Autism Centre of Excellence, Runnymede, B.S.A. Publications, Crosstown Traffic, and personal-appointments records. No new filing, annual report, accounts PDF, appointment, or correction appeared.
 
 Decision: added SRC-917/C-983 as a bounded public-record checkpoint; reopen only for a changed regulator page, new filing date, new annual report/accounts PDF, or named appointment/termination record.
+## 2026-08-09 — SRC-918/C-984: StoryGraph memoir-reception recheck
+
+Discovery: current review searching surfaced a StoryGraph indexed count of 12 reviews for *Great and Unfortunate Things*, compared with the single ARC review previously captured.
+
+Capture: the direct StoryGraph route returned a fresh Cloudflare challenge; HTML and headers are preserved under `assets/captures/2026-08-09-storygraph-memoir-recheck/`. No new full review body, image, audio, or book file was recovered.
+
+Decision: added SRC-918/C-984 as a changed reception/access state, deduplicated to SRC-436. Reader summaries remain reception evidence only.

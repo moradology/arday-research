@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-reception checkpoint: `SRC-918/C-984` — StoryGraph indexing now reports 12 reviews, but the direct route returned a fresh Cloudflare challenge and no new review body or media was recovered. Reopen only for lawful review text, a materially changed page, or a distinct reception artifact; do not treat the review count as biographical corroboration.
+
 Fresh public-filing checkpoint: `SRC-917/C-983` — exact-name Charity Commission and Companies House searches returned only existing appointment, termination, annual-report, accounts, and governance records. Reopen only for a changed regulator page, new filing date, new annual report/accounts PDF, or named appointment/termination record; do not repeat these searches unchanged.
 
 Fresh contested-affiliation checkpoint: `SRC-916/C-982` — Ohio State’s general search exposed no Arday-specific result, the former ODI route redirects to the university’s DEI reorganization announcement, and the Faculty Affairs route returns 404. Reopen only for a named Ohio State record, archived personnel page, appointment letter, or direct institutional response; do not treat this access gap as proof of nonexistence.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-reception checkpoint: on 2026-08-09 `SRC-918/C-984` preserved a fresh StoryGraph Cloudflare challenge and recorded the indexed increase to 12 reader reviews. No new review body or media was recovered; reception remains separate from biography evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest public-filing checkpoint: on 2026-08-09 `SRC-917/C-983` reconciled exact-name Charity Commission and Companies House searches to existing records only. No new appointment, termination, annual report, accounts, or correction was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest contested-affiliation checkpoint: on 2026-08-09 `SRC-916/C-982` rechecked Ohio State routes. No Arday-specific result appeared in the general search, the former ODI route redirected to DEI reorganization material, and the Faculty Affairs route returned 404. The historical/current visiting-role claim remains contested and no direct appointment record was recovered. Google Drive was not updated; GitHub remains the active publication target.
