@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh 30 in 35 archive-recovery checkpoint: `SRC-931/C-997` — six additional Wayback pages now preserve marathon 3–30 reports, stated times, interim fundraising totals, final-run logistics, and a campaign-side “Marathon 30” completion statement. This strengthens contemporaneous completion representation but does not replace an independent race log or charity audit. Reopen only for a stable archived page/binary, charity receipt, timing record, or distinct first-party post-event artifact; do not repeat the same six Wayback URLs unchanged.
+
 Fresh memoir-edition checkpoint: `SRC-930/C-996` — Google Books exposes a distinct UK record (ISBN 9781398542747, 336 pages) with a locally preserved cover and publisher synopsis, but no readable preview; the page says no ebook and `is_browsable:false`, while both tested API routes returned HTTP 429. Reopen only for a lawful excerpt/full text, a stable page-image route, a materially changed edition record, or a distinct publisher/library artifact; do not repeat the same API requests unchanged.
 
 Fresh Atlantic media/source-version checkpoint: `SRC-926/C-992` — the feature’s article text is substantively unchanged, but its public audio player yielded a locally preserved MP3 and a cropped lead-image manifestation. Reopen only for the underlying 2024 proposal, first-party memoir text, materially changed article body, or primary institutional/publication records; do not count the audio as independent corroboration.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-931/C-997: additional 30 in 35 Wayback pages recovered
+
+Discovery: the bounded CDX enumeration associated with `SRC-377` listed successful captures for campaign pages 2, 3, 5, 6, 7, and 8. Direct Wayback replay using the archived original host/port recovered all six pages as HTTP-200 HTML. Plain-text extraction shows marathon reports covering numbers 3–30, many stated completion times, an interim £4,520 total, a “Fundraising target smashed!” post, final-run instructions for 22 August, and a campaign-side Facebook feed statement that marathon 30 took 5 hours 57 minutes and was an “amazing end.”
+
+Decision: register `SRC-931` as an extension of the contemporaneous campaign source rather than create six duplicate event nodes or a separate Facebook source. The pages strengthen the proposition that the campaign represented the challenge as completed, but they do not independently verify route distances, race timing, every start/finish, or final accounting. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-930/C-996: distinct Google Books UK memoir record
 
 Discovery: the indexed Google Books lead resolved to an HTTP-200 edition page for volume `HWfF0QEACAAJ`, ISBN 9781398542747 / ISBN-10 1398542741. The page lists Simon & Schuster Limited, 27 August 2026, and 336 pages, exposes a cover, and repeats the memoir synopsis. Its embedded state says “No eBook available,” `has_flowing_text:false`, `has_scanned_text:false`, and `is_browsable:false`. The Google Books API returned HTTP 429 for this ID and the previously captured 368-page UK ID.

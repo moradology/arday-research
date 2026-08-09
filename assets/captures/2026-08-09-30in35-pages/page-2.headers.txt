@@ -1,0 +1,34 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 02:54:46 GMT
+content-type: text/html; charset=UTF-8
+x-archive-orig-server: nginx
+x-archive-orig-date: Wed, 25 Aug 2010 09:49:39 GMT
+x-archive-orig-connection: close
+x-archive-orig-vary: Cookie
+x-archive-orig-x-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+x-archive-orig-x-pingback: http://30in35.wordpress.com/xmlrpc.php
+x-archive-orig-link: <http://wp.me/Zd4E>; rel=shortlink
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Wed, 25 Aug 2010 09:49:39 GMT
+link: <http://30in35.wordpress.com:80/page/2/>; rel="original", <https://web.archive.org/web/timemap/link/http://30in35.wordpress.com:80/page/2/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://30in35.wordpress.com:80/page/2/>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: 51_17_20100825090641_crawl101-c/51_17_20100825094931_crawl103.arc.gz
+server-timing: captures_list;dur=0.572612, exclusion.robots;dur=0.048280, exclusion.robots.policy;dur=0.036698, esindex;dur=0.011155, cdx.remote;dur=5.201446, LoadShardBlock;dur=44.008497, PetaboxLoader3.datanode;dur=67.969616, PetaboxLoader3.resolve;dur=49.564259, load_resource;dur=82.792362
+x-app-server: wwwb-app256-dc8
+x-ts: 200
+x-tr: 163
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-p-SERVER=wwwb-app256; path=/
+cache-control: private
+x-location: All
+x-as: 35986
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: VYVE-BROADBAND
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

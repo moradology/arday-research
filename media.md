@@ -1,3 +1,7 @@
+# Media / capture additions
+
+- `SRC-931`: [six additional 30 in 35 Wayback HTML/text captures](assets/captures/2026-08-09-30in35-pages/) — page-level campaign artifacts, not video binaries. The embedded YouTube references were checked separately; the resolvable IDs were music videos or unavailable, so none is represented as Arday footage.
+
 # Media / binary capture additions
 
 - `SRC-930`: [Google Books cover capture](assets/captures/2026-08-09-google-books-memoir-recheck/HWfF0QEACAAJ.cover.jpg), returned as a 300×391 PNG from the edition-specific cover route. It is preserved as a manifestation of the 336-page UK catalog record, not assumed to be identical to other memoir covers.
