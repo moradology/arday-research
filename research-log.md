@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1099/C-1299: Apple Podcasts manifestation of *Student Sessions*
+
+Apple’s public series page and iTunes Lookup API were captured for the existing 15 December 2023 *Student Sessions* interview. The API identifies the Jason Arday episode by track ID `1000638657541`, gives a 42:04 duration and release timestamp, and points to the already preserved Buzzsprout feed/enclosure. The direct episode route returned HTTP 500; the series page rendered but did not expose the older episode in its current visible shelf. This is a platform-provenance record, not a second interview or independent biography source. No new audio or transcript was recovered.
+
 ## 2026-08-09 — SRC-1098/C-1295–C-1298: EDICa team-page capture
 
 The first-party EDICa team page was fetched directly and locally preserved. It lists Arday among the project’s co-investigators, identifies him as Professor of Sociology of Education at Cambridge, states that EDICa was funded from January 2023 through December 2026, and summarizes his associated research areas. A 167×167 page-linked portrait was also captured. The page’s present-tense biography repeats several affiliation fields that are now stale or disputed elsewhere; those are retained as host source-version wording rather than harmonized into current status. This is a distinct project-role record from the earlier EDICa newsletter profile and the UKRI Gateway mismatch.

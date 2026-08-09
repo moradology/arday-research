@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1099`: [Apple Podcasts/iTunes record](sources/2026-08-09-apple-student-sessions-jason-arday.md) — track `1000638657541`, 15 December 2023, 42:04, and Buzzsprout enclosure for the existing [Student Sessions audio](sources/2023-12-15-student-sessions-jason-arday.md); platform provenance only, no second audio binary.
+
 - `SRC-1098`: [EDICa team record](sources/2026-08-09-edica-team-jason-arday.md) and [page-linked portrait](assets/captures/2026-08-09-edica-team/jason-round.jpg) — first-party project-role page; portrait provenance and current-affiliation wording remain bounded.
 
 - `SRC-1097`: [BBC *Radical* audio audit](sources/2026-08-09-bbc-radical-audio-audit.md) and [Whisper `tiny.en` JSON](assets/documents/bbc-radical-jason-arday-2025-whisper-tiny-en.json) — durable navigation derivative for the locally preserved [official MP3](assets/audio/bbc-radical-joe-biden-ve-day-jason-arday-2025.mp3); approximate Arday-attributed windows cover youth, nostalgia, Windrush, wartime memory, Churchill, and historical complexity. No official transcript; human listening is required before quotation.

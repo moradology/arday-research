@@ -1,0 +1,23 @@
+HTTP/2 500 
+server: daiquiri/5
+content-type: text/html
+content-length: 900
+content-encoding: gzip
+content-security-policy: upgrade-insecure-requests; default-src 'self' https://*.apple.com; img-src 'self' https://*.apple.com https://*.mzstatic.com data: blob: artwork:; style-src 'self' https://*.apple.com 'unsafe-inline'; script-src 'self' https://*.apple.com 'unsafe-eval'; connect-src 'self' https://*.apple.com https://*.mzstatic.com https://mediaservices.cdn-apple.com https://*.push.apple.com wss://*.push.apple.com https: http:; media-src 'self' https: http: blob:; child-src 'self' https://*.apple.com musics: blob: itms: itmss: itms-podcasts: itms-podcast: podcast: podcasts:; frame-ancestors 'none'; report-uri /api/csp-report
+vary: accept-encoding
+x-apple-jingle-correlation-key: RN4CH6ONZCTPBKE3YQI3VSAROY
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-responding-instance: amp-web-podcasts-server:amp-web-podcasts-server-main-747f95d488-6znqt:7000:2632.1.0-external
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:10001:daiquiri-cluster-6f77ccbcdd-gg7xf:7987:26HOTFIX26:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-as4-amp-web-podcasts-prod
+x-daiquiri-debug-worker-pid: 2217
+x-daiquiri-instance: daiquiri:10001:daiquiri-all-shared-ext-bd7498468-vctq9:7987:26HOTFIX26:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+x-daiquiri-debug-worker-pid: 870667
+date: Sun, 09 Aug 2026 11:59:17 GMT
+x-cache: TCP_MISS from a23-195-81-132.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (-)
+x-cache-remote: TCP_MISS from a23-64-113-144.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (-)
+set-cookie: geo=US; domain=.apple.com
+alt-svc: h3=":443"; ma=93600
+
