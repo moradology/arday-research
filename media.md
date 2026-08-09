@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1114`: [Runnymede School Report PDF](assets/documents/runnymede-school-report-2015.pdf) and [page-level audit](sources/2026-08-09-school-report-page-audit.md) — 61-page Manchester manifestation containing 56 report pages plus a five-page repository wrapper; Arday’s co-editorial introduction and printed pp. 48–50 chapter are separately mapped.
+
 - `SRC-1102`: [BBC News NI QUB-report recheck](sources/2026-08-09-bbc-qub-arday-investigation-recheck.md), [local HTML](assets/captures/2026-08-09-qub-arday-investigation/page.html), [extracted text](assets/captures/2026-08-09-qub-arday-investigation/page.txt), and [1200×675 article portrait](assets/captures/2026-08-09-qub-arday-investigation/portrait.jpg) — byte-distinct source-version; article body substantively unchanged and no QUB finding exposed.
 
 - `SRC-1100`: [Soho Agency profile boundary](sources/2026-08-09-soho-agency-jason-arday-boundary.md) — indexed speaker-profile lead only; current route is HTTP 404 and no portrait, downloadable profile, or archived page was recovered.

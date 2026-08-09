@@ -15,6 +15,8 @@ urls:
 
 # Record
 
+Page-level audit: [SRC-1114](2026-08-09-school-report-page-audit.md)
+
 Durham’s repository identifies *The school report: Race, education and inequality in contemporary Britain* as a 2015 Runnymede Trust report by Claire Alexander, Debbie Weekes-Bernard, and Jason Arday. The University of Manchester Research Explorer record gives the fuller component title “Ethnic education and labour market position in Britain (1972–2013),” identifies the item as a commissioned report published in London on 15 September 2015, and exposes a 61-page open PDF. The visible report pages identify the collection as *The Runnymede School Report*, ISBN 978-1-909546-10-3, published by Runnymede in August 2015, edited by Alexander, Weekes-Bernard, and Arday. The repository record links to Runnymede’s project page and distinguishes the item from *Aiming Higher*. The Manchester page and its direct PDF were recaptured on 6 August 2026 as a separate source-version; its extracted text matches the earlier local PDF, while the binary checksum differs because the repository-generated PDF metadata differs.
 
 ## Evidence boundary

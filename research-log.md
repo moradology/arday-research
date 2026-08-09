@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1114/C-1357–C-1360: Runnymede School Report audit
+
+The 61-page Manchester PDF manifestation was extracted with layout preservation and visually checked across the front matter, co-authored introduction, Arday’s printed pp. 48–50 chapter, closing pages, and appended repository wrapper. The audit separates Arday’s co-editorial role and chapter from the other contributors’ chapters, records the chapter’s 15-student/4-teacher interview account and missing-methods boundary, and preserves the 56-page report versus five-page wrapper topology. No duplicate report or chapter node was created.
+
 ## 2026-08-09 — SRC-1113/C-1353–C-1356: *The Broken Pipeline* report audit
 
 The complete eight-page September 2019 Leading Routes PDF was extracted with layout preservation and visually checked across the cover, organisational context, roundtable/statistics, barriers/recommendations, follow-up commitments, and bibliography pages. The audit records the four-author identity, closed-roundtable method boundary, external HESA/UKRI statistics, policy recommendations, and planned activities without treating the report as a population study, independent statistical reanalysis, or evidence of implementation.
