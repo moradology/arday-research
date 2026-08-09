@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1103/C-1303–C-1306: 2018 race/educational-leadership article audit
+
+The locally preserved 16-page accepted author manuscript for Arday’s 2018 *Management in Education* article was audited with layout-preserving text extraction and visual review of the title, abstract, methodology, findings, and conclusion pages. The audit binds the article’s disclosed design to three anonymized BME senior leaders from three UK higher-education institutions, collective-biographical reflections, three guiding questions, reported participant narratives, and the conclusion’s policy recommendations. It also records what the manuscript does not expose: named participants/institutions, raw interviews, coding materials, supplementary data, or an intervention evaluation. This is a primary-output audit, not a new publication node and not an independent verification of the article’s empirical claims.
+
 ## 2026-08-09 — SRC-1102/C-1302: BBC News NI QUB-report source-version recheck
 
 The canonical BBC News NI article reporting QUB’s review of the 2021 Arday-co-authored paper was fetched again. The 9 August HTML was byte-distinct from the 8 August capture, but the extracted article body was substantively unchanged; only presentation/date formatting and related-link relative timestamps differed. The current page, headers, extracted text, and 1200×675 portrait are preserved. Decision: keep `SRC-610` as the canonical report and register `SRC-1102` as its changed source-version; do not infer a new QUB action or outcome.
