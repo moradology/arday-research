@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-900/C-961: Topping & Company memoir-event lead
+
+Discovery: a targeted memoir/publication-event search found search-index text for Topping & Company’s Edinburgh listing “Jason Arday for Great and Unfortunate Things,” dated 18 September 2026 at 7 p.m.
+
+Boundary: the direct `https://www.toppingbooks.co.uk/events/edinburgh/` page was captured on 8 August, but its current HTML contained no Arday occurrence, memoir title, or matching detail route. No direct ticket page, event image, recording, cancellation, or attendance evidence was recovered.
+
+Decision: register SRC-900 as an indexed event lead plus current-page negative-space observation. The event is not treated as verified or delivered. Reopen only after a direct route, changed listing, ticket/venue record, cancellation/update, recording, or post-event report appears. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-899/C-960: SRA first-party LinkedIn conference announcement
 
 Discovery: a targeted search for the unresolved 2026 SRA conference media/output lead found the Social Research Association’s own LinkedIn announcement, distinct from the already-catalogued Tina Haux repost and the SRA event/programme/report pages under SRC-188.

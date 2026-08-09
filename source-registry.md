@@ -681,6 +681,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-899 | `sources/2026-08-08-sra-linkedin-conference-announcement.md` | Social Research Association’s 5 June 2026 LinkedIn programme announcement for Arday’s 8 July “Message in a Bottle” session; four programme graphics and HTML preserved; deduplicated to SRC-188 | first-party institutional social-media announcement / event source-version / local HTML, headers, and images | 2026-08-08 | Social Research Association, SRA Conference 2026, Message in a Bottle, safer spaces, research, policy-making, programme, event, image, source-version, deduplication |
 
+| SRC-900 | `sources/2026-08-08-topping-arday-event.md` | Search-indexed Topping & Company lead for an 18 September 2026 Edinburgh memoir event; current direct events page captured without an Arday occurrence or event-detail route | bookseller event lead / changed-page negative-space observation / local HTML and headers | 2026-08-08 | Topping & Company, Edinburgh, memoir, Great and Unfortunate Things, book event, September 2026, indexed lead, negative space, access state |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

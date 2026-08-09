@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-event boundary: `SRC-900/C-961` — search indexing exposed a Topping & Company Edinburgh listing for Jason Arday’s planned 18 September 2026 memoir event, but the current direct events page captured on 8 August contained no matching occurrence or detail route. Reopen only for a direct event page, ticket/venue record, cancellation/update, recording, or post-event report; do not treat the indexed lead as evidence that the event occurred.
+
 Fresh event-source checkpoint: `SRC-899/C-960` — the Social Research Association’s own 5 June 2026 LinkedIn announcement and four programme graphics were captured for Arday’s 8 July “Message in a Bottle” session. This is a first-party source-version deduplicated to `SRC-188`; it adds announcement provenance and visual programme evidence, not a second event, recording, or transcript. Reopen only for a changed announcement, recording, transcript, or post-event primary artifact.
 
 Fresh promotional-biography checkpoint: `SRC-898/C-959` — Amfo Talent’s public booking profile and displayed portrait were captured on 8 August 2026. It repeats Cambridge/Glasgow/Durham/visiting-professorship, governance, advisory, and “youngest” wording; retain it as talent-agency propagation evidence, not independent corroboration. Reopen only for a materially changed profile, a direct role record, or a distinct agency/media artifact; do not count repeated promotional copy as a new witness.

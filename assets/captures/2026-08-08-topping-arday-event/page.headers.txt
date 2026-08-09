@@ -1,0 +1,15 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin
+date: Sun, 09 Aug 2026 00:51:19 GMT
+nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+referrer-policy: no-referrer-when-downgrade
+report-to: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=2SJ7AbZOEJOhwFijwwtqP%2FhkmuckQYPIZjIUadYhSMw%3D\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\u0026ts=1786236679"}],"max_age":3600}
+reporting-endpoints: heroku-nel="https://nel.heroku.com/reports?s=2SJ7AbZOEJOhwFijwwtqP%2FhkmuckQYPIZjIUadYhSMw%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1786236679"
+server: Heroku
+vary: Cookie
+via: 2.0 heroku-router
+x-content-type-options: nosniff
+x-frame-options: DENY
+content-length: 112728
+
