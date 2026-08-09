@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1109/C-1334–C-1340: *The Black Curriculum* report audit
+
+The complete 13-page first-party PDF was extracted with layout preservation and visually checked across its cover, executive summary, methodology, curriculum, pedagogy, year-round Black History, conclusions, quick-wins, biography, references, and back-cover pages. The audit binds the report to its stated heterogeneous content-analysis method and explicit data limitations, then separates its curriculum/pedagogy recommendations from school-level evidence and implementation evaluation. The report remains the canonical SRC-029 publication family; no duplicate report node was created. A text derivative was added beside the preserved PDF for reproducible navigation.
+
 ## 2026-08-09 — SRC-1108/C-1328–C-1333: *Fighting the tide* editorial audit
 
 The complete nine-page PESA Agora manifestation of Arday’s DOI-identified article was extracted with layout preservation and visually checked at the metadata, opening, micro-aggressions, conclusion, contributor/funding, terminology-note, and references pages. The audit confirms the explicit “EDITORIAL” classification, maps its literature/cited-statistics argument and recommendations, and preserves the dated biography/funding and BAME terminology boundaries. No original sample, dataset, interview material, statistical reanalysis, or intervention evaluation was found. Decision: retain SRC-044/SRC-471 as the canonical publication/manifestation family and add no duplicate article node.
