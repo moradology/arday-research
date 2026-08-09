@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh BBC media-state checkpoint: `SRC-235/C-367` — the 9 August programme API returned unchanged episode/original metadata and a newly queried HTTP 200 podcast-version JSON for `p0nsry2l`, but no audio, transcript, captions, segment events, or availability. The BBC Sounds/player routes remain unresolved; reopen only for a changed media selector, lawful recording, transcript, or exact segment artifact.
+
 Fresh subject-centred St Mary’s biography checkpoint: `SRC-1095/C-1277–C-1283` — the locally preserved 2020 Values Talk now has corrected-mono Whisper `small.en` navigation alongside the earlier `base.en` JSON. It sharpens the age-11/age-18 speech/literacy account, claimed Loughborough scholarship and university offers, St Mary’s football roles, fatherhood/financial context, fundraising, and student-union positions. Human listening and independent admissions, sports, family, campaign, and student-union records remain open; do not treat either derivative as a transcript or self-report as corroboration.
 
 Fresh subject-centred Warwick audio checkpoint: `SRC-1088/C-1255–C-1262` — the locally preserved 4 June 2026 keynote now has a corrected-mono Whisper `small.en` navigation JSON alongside the earlier `tiny.en` VTT. It sharpens the pedagogy, family/teaching anecdote, institutional-power, misrecognition, and intelligence/will passages but remains unverified speech. Human listening, a lawful caption file, or a first-party transcript remains open; do not quote either derivative as settled wording.
@@ -512,7 +514,7 @@ Fresh scholarly-repository checkpoint: SRC-599/C-797–C-798 — PubMed Central 
 
 Fresh preprint-topology checkpoint: SRC-600/C-799 — Sciety independently manifests the canonical OSF narrative-inquiry preprint family, listing 14 contributors, Arday’s contributor position, and abstract sample counts. It adds discovery/version provenance but no peer-review finding or independent data validation. Reopen only for a distinct version, formal review, correction, or completed-results publication.
 
-Fresh BBC media-state checkpoint: SRC-235/C-194 — the 8 August 2026 recheck confirms that the canonical *Today* version `m002xp5h` and podcast version `p0nsry2l` still return HTTP 404, while the BBC programme JSON remains live. No audio, transcript, captions, or exact segment timecode was recovered. Reopen only after a changed BBC media state or a lawful transcript/recording appears; do not repeat the same route checks without a changed endpoint.
+Fresh BBC media-state checkpoint: SRC-235/C-194 — the 8 August 2026 player-route recheck confirmed that the canonical *Today* version `m002xp5h` and podcast version `p0nsry2l` still return HTTP 404; the 9 August programme-API recheck found the episode/original metadata unchanged and the podcast-version metadata endpoint live, but still no audio, transcript, captions, or exact segment timecode. Reopen only after a changed BBC media state or a lawful transcript/recording appears; do not repeat the same route checks without a changed endpoint.
 
 Fresh interpretive-source checkpoint: SRC-592/C-789 — Penny Rabiger’s 25 July 2026 *tenpencemore* essay is preserved with full HTML, headers, and attached image. It supplies a racialized-scrutiny/Black-excellence framing while explicitly distinguishing anti-racist critique from exemption from academic standards. Reopen only for a correction or new primary/institutional evidence; do not count the analysis as adjudication.
 

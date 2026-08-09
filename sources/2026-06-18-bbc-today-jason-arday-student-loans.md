@@ -5,7 +5,7 @@ title: "BBC Radio 4 Today — student-loan English GCSE proposal"
 subject: ../entities/jason-arday.md
 published: 2026-06-23
 event_date: 2026-06-18
-accessed: 2026-08-07 (current-state recheck)
+accessed: 2026-08-09 (current-state recheck)
 status: Reported broadcast appearance; official BBC programme metadata remains live; audio not locally recovered
 evidence_class: first-party professional-association social post repeating a broadcast appearance; BBC asset unresolved
 urls:
@@ -24,6 +24,9 @@ assets:
   - ../assets/documents/bbc-today-jason-arday-2026-08-06/sounds-page.html
   - ../assets/documents/bbc-today-jason-arday-2026-08-06/linkedin.html
   - ../assets/documents/bbc-today-jason-arday-2026-08-06/SHA256SUMS
+  - ../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5j.json
+  - ../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5h.json
+  - ../assets/captures/2026-08-09-bbc-today-2026-recheck/p0nsry2l.json
 ---
 
 # BBC Radio 4 *Today* — 18 June 2026
@@ -57,6 +60,15 @@ The BBC programme JSON for `m002xp5j` remains HTTP 200 and its episode/version m
 - [Programme headers](../assets/captures/2026-08-07-bbc-today-2026-recheck/programme.json.headers.txt) — SHA-256 `78604fdc062783b634221f11b11a3eb501ef6e57ed4f10a53e81335da4b152f0`.
 - [Sounds HTML](../assets/captures/2026-08-07-bbc-today-2026-recheck/sounds.html) — 135,104 bytes; SHA-256 `5364868aa82ad57ae01dfb3002af526f4763d10d593b3ab9062eb9fd5d8a2971`.
 - [Sounds headers](../assets/captures/2026-08-07-bbc-today-2026-recheck/sounds.headers.txt) — SHA-256 `6b1a2772e23560be05478d0abf8d676bb80883cde5a08452ab1817b9b6b73df8`.
+
+## Current-state recheck — 2026-08-09
+
+The BBC programme API remains available for the episode index (`m002xp5j`) and canonical original version (`m002xp5h`), with the same episode/version metadata as the 8 August capture. A direct programme-API request for the podcast version (`p0nsry2l`) also returned HTTP 200 JSON, but exposed only version metadata (`duration: 10800`, no contributors, segment events, broadcasts, or availabilities); it did not expose audio, captions, or a transcript. The canonical Sounds and podcast player routes remain the controlling unresolved media boundary.
+
+- [Episode API JSON](../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5j.json) — SHA-256 `e2ce05e567a450a83906d03d1938187231363f2d7695b332b815cdfb14c88c15`.
+- [Original-version API JSON](../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5h.json) — SHA-256 `e4d06e1ad5349819c1e3aabdc2f9dd2b052cc0afa80f5d3ba7d6d60f159c1f96`.
+- [Podcast-version API JSON](../assets/captures/2026-08-09-bbc-today-2026-recheck/p0nsry2l.json) — SHA-256 `602569f4b0296779a06edddf53b0d84a661e97ba58e30589856756cde391fce2`.
+- [Response headers](../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5j.headers), [original version](../assets/captures/2026-08-09-bbc-today-2026-recheck/m002xp5h.headers), and [podcast version](../assets/captures/2026-08-09-bbc-today-2026-recheck/p0nsry2l.headers) — all HTTP 200 JSON responses.
 
 ## Current-state recheck — 2026-08-08
 

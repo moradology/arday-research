@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — BBC *Today* media-state continuation: queried the episode index (`m002xp5j`), canonical original version (`m002xp5h`), and podcast version (`p0nsry2l`) programme APIs. The episode/original JSON remained byte-identical to the 8 August capture; the podcast API returned HTTP 200 version metadata but no contributors, segment events, broadcasts, availabilities, audio, captions, or transcript. Updated `SRC-235/C-367` in place rather than creating a duplicate appearance record; the broadcast lead remains unresolved at segment level.
+
 2026-08-09 — Subject-centred St Mary’s biography continuation: upgraded the locally preserved 46:15 Values Talk from Whisper `base.en` to corrected-mono five-minute-window `mlx-community/whisper-small.en-mlx`. The 384,307-byte JSON sharpens the existing `C-1277–C-1283` windows for delayed speech/literacy, claimed Loughborough scholarship and offers, university football roles, fatherhood/financial context, fundraising, and student-union positions. No claims were duplicated or upgraded; both derivatives remain navigation-only and human verification/independent records remain open.
 
 2026-08-09 — Subject-centred Warwick keynote continuation: upgraded the locally preserved 4 June 2026 University of Warwick MP4 from a `tiny.en` VTT to corrected-mono five-minute-window `mlx-community/whisper-small.en-mlx` navigation. The 425,900-byte JSON has 659 absolute-offset segments and sharpens the existing `C-1255–C-1262` windows without creating new claims. It remains machine-assisted; human listening, a lawful caption file, or a first-party transcript is still required for quotation.
