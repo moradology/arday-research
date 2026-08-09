@@ -39,3 +39,5 @@ These are listing-level timestamps, not independently checked transcript quotati
 - [Direct Simplecast MP3](../assets/audio/portrait-of-a-londoner-jason-arday.mp3)
 - [Episode image](../assets/images/portrait-of-a-londoner-jason-arday.jpg)
 - [Capture metadata](../assets/metadata/portrait-of-a-londoner-jason-arday-capture-2026-08-06.md)
+
+A bounded audio audit now maps the listed childhood/development passages at approximately 24:30–32:30, including Arday’s accounts of poverty, family and caregiving, delayed speech, a Wandsworth special-needs school, Clapham, Sandro, music, speech therapy, and literacy support from his wife. These remain first-person testimony and ASR-derived navigation; see [SRC-1147](2026-08-09-portrait-of-a-londoner-audio-audit.md).

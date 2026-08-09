@@ -5,6 +5,8 @@ Fresh Ruling Passions source-version checkpoint: `SRC-1145/C-1414` — the WordP
 
 Fresh BBC *Best of Today* audio checkpoint: `SRC-1146/C-1415–C-1416` — a bounded `small.en` audit locates a likely Arday segment at 05:00–05:40 on communication, active listening, a likely “fourth R”/oracy formulation, and curriculum breadth. Human listening remains open; do not quote the ASR or treat the policy position as implementation evidence.
 
+Fresh subject-centred *Portrait of a Londoner* audio checkpoint: `SRC-1147/C-1417–C-1420` — bounded `small.en` windows at 24:30–32:30 map Arday’s first-person accounts of poverty, family/caregiving, autism and global developmental delay, delayed speech, Wandsworth schooling, Clapham, Sandro, music, speech therapy, and literacy support. Human listening and independent family, clinical, school, therapy, and relationship records remain open; do not treat ASR as a transcript.
+
 Fresh subject-centred audio checkpoint: `SRC-1144/C-1411–C-1413` — bounded Whisper `small.en` windows from the locally preserved *Now and Men* interview map Arday-attributed discussion of racial-justice momentum, institutional change, measured radicalism, and a reported racist banana incident. Human listening, a verified transcript, and independent age/incident records remain open; do not quote the ASR as settled wording.
 
 Fresh BBC media-state checkpoint: `SRC-235/C-367` — the 9 August programme API returned unchanged episode/original metadata and a newly queried HTTP 200 podcast-version JSON for `p0nsry2l`, but no audio, transcript, captions, segment events, or availability. The BBC Sounds/player routes remain unresolved; reopen only for a changed media selector, lawful recording, transcript, or exact segment artifact.
