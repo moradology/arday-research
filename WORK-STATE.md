@@ -1,5 +1,7 @@
 # Work state
 
+Latest adjacent-endpoint boundary: on 2026-08-09 `SRC-895/C-976` checked Cambridge appointment/tenure and Faculty “Our People” routes, Jesus College, and Charity Commission results. All resolved to existing records or generic material; no new official process, filing, or role-status artifact was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest Cambridge availability checkpoint: on 2026-08-09 `SRC-912/C-975` captured the official investigation statement after its canonical URL returned HTTP 200 following the prior 404 state. The 7 August last-updated timestamp and substantive process wording were unchanged; no outcome was published. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest index/media sweep extension: on 2026-08-09 `SRC-895/C-974` recorded a fresh OpenAlex 56-work result and exact title/DOI reconciliation, alongside publication/video/podcast searches. All results resolved to existing records or homonyms; no new artifact was found. Google Drive was not updated; GitHub remains the active publication target.

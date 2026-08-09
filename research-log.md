@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-895/C-976: adjacent Cambridge and regulator endpoint sweep
+
+Discovery: exact-name searches across Cambridge appointment/tenure and Jesus College routes, plus Charity Commission results, returned existing canonical process, profile, annual-report, and governance records. The direct Cambridge Faculty “Our People” page-1 body was byte-identical to the 8 August SRC-459 capture and still lacked `Jason Arday` and `jaa80`; only cache headers changed.
+
+Decision: extend SRC-895 rather than create duplicate source nodes. Generic statutes, search snippets, and existing regulator reports add no new Arday-specific process or role-status evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-912/C-975: Cambridge investigation statement availability recheck
 
 Discovery: the University of Cambridge’s canonical statement URL returned HTTP 200 on 9 August after the latest preserved fetch had returned a generic 404 page. The page carried a 7 August last-updated timestamp and the same visible investigation/process wording as the earlier live manifestation.
