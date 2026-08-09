@@ -3,6 +3,8 @@
 
 Fresh archive-integrity checkpoint: `SRC-1139` — 53 untracked local artifacts totalling 5.28 GB were reconciled to existing Arday source records. Large binaries remain local-only; clean small sidecars may be promoted, while response headers and scratch extraction material remain quarantined. Reopen only for an artifact without a canonical source, a lawful binary-storage destination, or a materially changed source version; do not repeat the inventory unchanged.
 
+Fresh Cambridge profile-state checkpoint: `SRC-576/C-751` — the 9 August exact-route recheck again redirected the indexed Faculty profile to the Faculty home page; the current “Our people” response still exposed no Arday occurrence, while search indexing continued to show the older biography. This is a changed-state observation only, not evidence about employment, resignation cause, or investigation outcome. Reopen only for a directly rendered replacement profile, formal institutional outcome, or materially changed redirect/directory state.
+
 Fresh cross-index link checkpoint: all local `sources/...` and `assets/...` citations in `timeline.md`, `media.md`, `jason-arday-public-output-index.md`, `biography.md`, and `entities/jason-arday.md` resolve in the current snapshot. No new source or claim was created; reopen only when an index citation fails or a source path is intentionally renamed.
 
 Fresh claims-link checkpoint: `C-1395` had one stale local citation (`sources/2015-07-01-ljmu-thesis.md`); it now points to the canonical `sources/2015-ljmu-phd-thesis.md`. No claim wording or evidentiary status changed. Reopen only when a claim citation fails the local-target scan.

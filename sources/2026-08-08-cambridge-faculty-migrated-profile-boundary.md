@@ -4,6 +4,8 @@ id: SRC-576
 
 # SRC-576 — Cambridge Faculty migrated-host profile and directory boundary
 
+Rechecked 2026-08-09: the indexed profile result still exposed the prior Arday biography, while opening the same profile URL redirected to the Faculty home page again. No replacement profile or Arday directory entry was exposed.
+
 ## Source identity
 
 - Jason Arday profile route: <https://faculty.educ.cam.ac.uk/people/staff/arday/>

@@ -3,6 +3,8 @@
 
 2026-08-09 — Subject-centred biography audit: compared the person record, working biography, timeline, and claims-ledger references. Removed one duplicated House of Lords testimony paragraph from `biography.md`; no evidence or claim status changed. The biography continues to separate institutional records, self-reports, source-version repetition, allegations, and unresolved negative-space observations.
 
+2026-08-09 — Fresh exact-name sweep rechecked Cambridge’s migrated Faculty profile route. Search indexing still exposed the old profile text, but the direct route redirected to the Faculty home page and the current directory exposed no Arday entry. Deduplicated to `SRC-576/C-751`; no new employment or investigation claim created.
+
 2026-08-09 — Cross-index link pass: checked local source and asset citations in the timeline, media index, public-output index, biography, and Jason Arday person record. All targets resolve; no evidentiary content changed.
 
 2026-08-09 — Claims-link integrity pass: found one stale local target in `C-1395`, corrected it from the retired `2015-07-01-ljmu-thesis.md` filename to canonical `2015-ljmu-phd-thesis.md`, and confirmed the underlying claim remains unchanged.
