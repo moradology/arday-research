@@ -12,6 +12,12 @@ last_reviewed: 2026-08-09
 
 British sociologist of education and public commentator. Public records associate him with research on race and higher education, intersectionality, mental health, neurodiversity, and cultural studies.
 
+## Current evidence posture
+
+The live research question is not whether a single label such as “fraud” can be attached to Arday, but what pattern is supported by the record. The strongest current materials are the preserved thesis/article comparisons, primary publication versions and corrections, dated institutional statements, and Arday’s own public accounts. The Times’ 31 July 2026 article records his denial of plagiarism and his characterization of the allegations as cruel and racially motivated, but only its standfirst is public; AP’s later report adds that he acknowledged some mistakes and attributed part of them to inadequate doctoral supervision. Those are attributed self-position and reported context, not exculpatory findings. [Times teaser](../sources/2026-07-31-times-arday-liar-plagiarism-teaser.md) · [AP report](../sources/2026-08-06-ap-resignation-investigation-report.md)
+
+The current record therefore supports several distinct edges rather than one totalizing conclusion: a documented public career and body of work; reproducible textual relationships in bounded primary-text comparisons; journal corrections and reported institutional reviews; unresolved questions about research practice, supervision, biography, and public claims; and an active hypothesis space around credibility and intent. The entity does not convert those edges into a diagnosis, legal conclusion, or final misconduct finding. See the [credibility controversy entity](arday-credibility-controversy.md) and [adversarial hypotheses](../adversarial-hypotheses.md).
+
 ## Known affiliations and roles
 
 - The Autism Research Centre’s Autistic VOICES project page lists Arday as a Steering Committee member for a study of autistic university students’ support needs; the page and public study documents are preserved as a dated research-role source-version. [Autistic VOICES record](../sources/2026-03-11-autistic-voices-study-arday.md)
