@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — QUB institutional-host continuation: the current indexed “Education and Learning Research” campaign page still showcases *Attempting to break the chain* under “Shared and Inclusive Education” and links to the QUB-hosted manuscript. Direct shell access returned CloudFront HTTP 403. Added `SRC-1140/C-1400` as institutional-host topology only; no Arday-specific claim, study validation, review scope, or outcome was inferred.
+
 2026-08-09 — Public-filings continuation: exact-name and full-name Companies House/Charity Commission searches were reconciled against the existing eight-appointment graph and Adult Literacy Trust annual-report record. The potentially new charity-number lead `5172504` is already SRC-368; a narrower `5172504` + Adult Literacy Trust/Jason Arday search returned no additional indexed filing. No new entity, appointment, termination, or claim was created.
 
 2026-08-09 — Subject-centred biography audit: compared the person record, working biography, timeline, and claims-ledger references. Removed one duplicated House of Lords testimony paragraph from `biography.md`; no evidence or claim status changed. The biography continues to separate institutional records, self-reports, source-version repetition, allegations, and unresolved negative-space observations.

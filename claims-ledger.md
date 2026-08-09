@@ -1,5 +1,7 @@
 # Claims ledger
 
+| C-1400 | On 9 August 2026, Queen’s University Belfast’s current indexed “Education and Learning Research” page placed *Attempting to break the chain – reimagining inclusive pedagogy and decolonising the curriculum* in its “Shared and Inclusive Education” research showcase and linked to the QUB-hosted manuscript. | verified first-party institutional showcase/source-version observation; direct shell HTTP 403; not study validation or investigation outcome | [QUB research showcase record](sources/2026-08-09-qub-education-learning-research-campaign.md) | The page does not name Arday in its visible campaign text or disclose methods, findings, review scope, investigator, or outcome. Preserve this as institutional-host topology and keep it separate from the BBC-reported QUB review.
+
 @@
 | C-1398 | On 9 August 2026, Durham’s indexed Worktribe metadata continued to list Jason Arday’s *Living Hand to Mouth* as a 24 November 2020 manuscript submitted for publication to the *British Journal of Sociology of Education*; the direct record returned HTTP 403 and exposed no full text or PDF. | verified current indexed metadata and access boundary; version relationship unresolved | [Durham manuscript recheck](sources/2026-08-09-durham-living-hand-to-mouth-recheck.md) | The record does not establish publication, title succession, authorship beyond the repository metadata, or identity with the 2022 article *More to prove and more to lose*. |
 

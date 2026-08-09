@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-1140 | `sources/2026-08-09-qub-education-learning-research-campaign.md` | QUB’s current indexed “Education and Learning Research” campaign page places *Attempting to break the chain* in its “Shared and Inclusive Education” showcase and links to the QUB-hosted manuscript; direct shell returned HTTP 403 and no new investigation outcome or local HTML binary was recovered | first-party institutional research showcase / changed access boundary / source-version topology | 2026-08-09 | Queen’s University Belfast, QUB, Education and Learning Research, Attempting to break the chain, inclusive pedagogy, decolonising curriculum, Jason Arday, investigation boundary, HTTP 403 |
+
 | SRC-1139 | `sources/2026-08-09-local-artifact-reconciliation.md` | Reconciles 53 untracked local Arday media/capture artifacts totalling 5.28 GB against existing canonical source records; promotes clean small sidecars only, excludes transient headers and scratch files, and keeps large binaries local-only | archive-integrity audit / local media provenance / binary-storage boundary / deduplication | 2026-08-09 | Jason Arday, archive integrity, local media, MP4, MP3, captions, metadata, recheck, deduplication, GitHub, storage boundary, scratch quarantine |
 
 @@

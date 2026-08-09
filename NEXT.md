@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh QUB host-topology checkpoint: `SRC-1140/C-1400` — QUB’s current indexed “Education and Learning Research” campaign page showcases *Attempting to break the chain* under “Shared and Inclusive Education” and links to the QUB-hosted manuscript, while direct shell access returns HTTP 403. This adds institutional source-version topology, not study validation or a QUB investigation outcome. Reopen only for a directly rendered page, changed link target, correction/retraction, terms of reference, or formal outcome; do not repeat the same access attempt unchanged.
+
 Fresh public-filings boundary: `SRC-917` — exact-name and full-name Companies House/Charity Commission searches reconfirm the existing eight-appointment graph and `SRC-368` Adult Literacy Trust 2025 annual-report patron listing. A narrower search for charity number `5172504` returned no additional indexed filing. Reopen only for a changed regulator page, new filing date, new annual-report/accounts PDF, or named appointment/termination record; do not repeat these query families unchanged.
 
 Fresh archive-integrity checkpoint: `SRC-1139` — 53 untracked local artifacts totalling 5.28 GB were reconciled to existing Arday source records. Large binaries remain local-only; clean small sidecars may be promoted, while response headers and scratch extraction material remain quarantined. Reopen only for an artifact without a canonical source, a lawful binary-storage destination, or a materially changed source version; do not repeat the inventory unchanged.
