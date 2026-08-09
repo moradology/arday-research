@@ -8,6 +8,14 @@ Capture: the selected JSON extraction preserves the page metadata and bounded ob
 
 Decision: added SRC-1132/C-1392 as a low-provenance propagation witness. No biographical claim was upgraded, and no separate image, video, or document binary was recovered. Reopen only if the page materially changes or an embedded primary artifact becomes available.
 
+## 2026-08-09 — SRC-1133/C-1393: Wikipedia revision source map
+
+Discovery: the fresh childhood/sports search surfaced the English Wikipedia article’s permanent revision `1368389831`, identified by the page as last edited 8 August 2026 at 19:58 UTC.
+
+Capture: the selected JSON extraction records the revision identity and bounded observations from the early-life, lead/infobox, and page-metadata sections. The article attributes the delayed-speech/literacy account to cited media and records memoir-linked snooker and pro-am nine-ball accounts, alongside a consolidated account of the 2026 controversy.
+
+Decision: added SRC-1133/C-1393 as a tertiary source-map witness. No claim was upgraded and no new binary was recovered. Reopen only for a changed revision, a citation-history question, or a primary source linked from the article that is not already represented.
+
 ## 2026-08-09 — Markdown ontology integrity audit
 
 The source graph was checked before continuing discovery: 760 source files carry unique `SRC-*` identifiers; the registry contains 785 unique rows; and every registry path resolves to an existing source file. The first local-link scan found six broken links: four Arasite text-derivative links used URL-encoded spaces/parentheses that the renderer did not resolve, one stale Zwozdiak-Myers filename, and one stale 30-in-35 parent-record filename. A parser-aware second scan then exposed a broader path-prefix error in eight root-level records plus one nested listening-notes file: those records used `../` for repository-root targets. All of these local links now resolve; the link repairs changed paths only, not source or claim content.

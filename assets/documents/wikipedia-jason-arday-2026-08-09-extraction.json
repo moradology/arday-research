@@ -1,0 +1,25 @@
+{
+  "url": "https://en.wikipedia.org/w/index.php?title=Jason_Arday&oldid=1368389831",
+  "retrieved": "2026-08-09",
+  "revision_date": "2026-08-08T19:58:00Z",
+  "title": "Jason Arday",
+  "classification": "tertiary biography / public synthesis",
+  "observations": [
+    {
+      "location": "Early life and education, rendered lines 151-155",
+      "text": "The revision attributes the diagnosis, non-verbal-until-11, and read/write-until-18 account to cited media and describes memoir-linked school absence, snooker tournaments, and pro-am nine-ball prize money.",
+      "boundary": "Tertiary synthesis; not an independent clinical, school, snooker, pool, or tournament record."
+    },
+    {
+      "location": "Infobox and lead, rendered lines 122-150",
+      "text": "The revision records the full name, date of birth, education, Cambridge 2023-26 appointment, resignation, and current controversy framing.",
+      "boundary": "Each item remains subject to the cited primary or contemporaneous source record; Wikipedia status wording is time-bounded."
+    },
+    {
+      "location": "Article metadata, rendered lines 325-373",
+      "text": "The page exposes permanent oldid 1368389831 and states that it was last edited 8 August 2026 at 19:58 UTC.",
+      "boundary": "Revision identity and page state only; no claim about the underlying subject is inferred."
+    }
+  ],
+  "evidence_boundary": "No independent fact, binary, transcript, image, sports result, or institutional finding is promoted from this tertiary page."
+}

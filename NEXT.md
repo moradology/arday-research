@@ -2,6 +2,8 @@
 
 Latest propagation checkpoint: `SRC-1132/C-1392` records Shajo Pro’s 2024/2025 public profile as a low-provenance retelling with visible source-version errors; it adds narrative topology but no independent corroboration or binary. Reopen only for a materially changed page or an embedded primary artifact; do not treat the profile as evidence for the repeated biography.
 
+Latest tertiary-source checkpoint: `SRC-1133/C-1393` preserves Wikipedia revision `1368389831` (last edited 8 August 2026) as a source map for the childhood, memoir-linked sports, career, and controversy narratives. Reopen only for a changed revision or an underlying citation not yet represented; do not count Wikipedia as corroboration.
+
 Latest ontology-integrity checkpoint: all 760 source records and 793 registry rows have unique IDs and resolve to existing source paths. Eighty broken local Markdown links were repaired across the Arasite, 30-in-35, root-level index/record, and nested listening-notes records; no evidence content changed. A parser-aware scan of 8,016 local links now reports zero broken links. Reopen only when a new source record, missing asset, or link-integrity failure appears.
 
 Latest source-registry checkpoint: eight existing front-matter source IDs were added to the registry (`SRC-635`, `636`, `637`, `638`, `639`, `641`, `642`, `1088`). Thirty-three older registry IDs remain intentionally legacy: 14 root/asset records, 17 source files without front matter, and two retired alias IDs. Reopen only when adding a new source record or migrating legacy records; do not treat the legacy count as missing evidence.

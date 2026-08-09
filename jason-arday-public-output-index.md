@@ -4,6 +4,8 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 
 - [Cambridge Festival video caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) — bounded, subject-centred timecode navigation for Arday’s first-person/public-position passages in the recovered [official recording](https://www.youtube.com/watch?v=BAFwM8mIKPk); automatic captions remain unverified.
 
+- [Wikipedia revision 1368389831](sources/2026-08-09-wikipedia-arday-revision.md) — English Wikipedia biography state last edited 8 August 2026; tertiary source map for the cited childhood, memoir-linked sports, career, and controversy narratives, not independent corroboration.
+
 - [Cambridge Festival “Race & Society” recording](sources/2024-03-27-cambridge-festival-race-society-radio.md) — official [YouTube video](https://www.youtube.com/watch?v=BAFwM8mIKPk) recovered locally with automatic English captions; speaker-level transcript verification remains open.
 
 - [University of Liverpool “Even Flow” keynote listing](sources/2023-03-10-liverpool-neurodiversity-keynote.md) — 13 March 2023 advertised keynote on neurodiversity and lived experience; [page capture](assets/captures/2023-03-10-liverpool-neurodiversity/page.html) · [event-week image](assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg).
