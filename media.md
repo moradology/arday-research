@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1089`: [PASSHE participant-witness record](sources/2026-08-09-passhe-participant-witness.md) — search-indexed LinkedIn text says a participant attended and listened to Arday and attributes a processing-speed point to his remarks; direct page fetch returned cache miss and no image, audio, video, or document binary was recovered.
+
 - `SRC-1086`: [Cambridge Festival caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) and [English automatic-caption VTT](assets/videos/cambridge-festival-race-and-society-2024/race-and-society.en.vtt) — timecoded navigation for Arday-attributed windows in the locally preserved [official 1:37:40 MP4](sources/2024-03-27-cambridge-festival-race-society-radio.md); captions are not a verified transcript.
 
 - `SRC-1085`: [University of Liverpool keynote page](assets/captures/2023-03-10-liverpool-neurodiversity/page.html), [Neurodiversity Celebration Week image](assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg), and [Eventbrite promotional image](assets/captures/2023-03-10-liverpool-neurodiversity/eventbrite-primary.jpg) — dated event listing and promotional media; no recording, transcript, slides, or Arday portrait recovered.

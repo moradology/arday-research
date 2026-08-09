@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh subject-centred event checkpoint: `SRC-1089/C-1263–C-1264` — a search-indexed participant account says she attended PASSHE’s 10 June 2026 conference, listened to Arday, and heard a point about not equating speed with excellence. The direct LinkedIn page returned cache miss, so this is witness-level corroboration with paraphrase-only claims. Reopen for the post, a named attendee artifact, recording, transcript, or slides; do not quote the indexed snippet or count it as independent first-party delivery proof.
+
 Fresh graph-integrity checkpoint: the Newcastle, BOLD, and Oxford EDB duplicate source families have now been consolidated to canonical `SRC-296`, `SRC-218`, and `SRC-622`; their historical IDs remain only in the append-only research log. Continue deduplication by provenance, not by title alone, because source-version and access-state records can legitimately share titles.
 
 Fresh subject-centred video checkpoint: `SRC-1088/C-1255–C-1262` — the recovered Warwick keynote now has a local Whisper `tiny.en` VTT and bounded approximate windows for Arday’s pedagogy, institutional-power, autobiographical, and public-position material. Reopen for human listening against the MP4, corrected captions, slides, or a second recording; do not quote the VTT or upgrade first-person institutional anecdotes into verified findings.

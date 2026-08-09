@@ -30,7 +30,7 @@ The speaker page publishes a host biography describing Arday as Professor of Soc
 
 ## Evidence boundary
 
-The pages establish that PASSHE publicly scheduled Arday as a keynote speaker for 10 June 2026 and provide the planned title and session time. They do not establish that he attended or delivered the keynote, and no recording, transcript, slides, or post-event report was recovered in this capture. The biography should be reconciled against Companies House, Charity Commission, and direct host records rather than treated as independent corroboration.
+The pages establish that PASSHE publicly scheduled Arday as a keynote speaker for 10 June 2026 and provide the planned title and session time. A later search-indexed participant account says she attended the conference and listened to him ([SRC-1089](2026-08-09-passhe-participant-witness.md)); this is participant-witness corroboration, not a first-party recording or attendance record. No recording, transcript, slides, or post-event report naming his session was recovered. The biography should be reconciled against Companies House, Charity Commission, and direct host records rather than treated as independent corroboration.
 
 ## Local preservation
 

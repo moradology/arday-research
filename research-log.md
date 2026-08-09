@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1089/C-1263–C-1264: PASSHE participant-witness lead
+
+Discovery: a web search exposed indexed text from Katrina Cochrane’s public LinkedIn post. The post says she attended the PASSHE National Conference and listened to Jason Arday, then attributes a point about rejecting “speed equals excellence” to his remarks in connection with neurodivergent processing and proofreading. Direct LinkedIn retrieval returned a cache miss; the post date, full context, metadata, attachments, and exact wording were not recovered, and no binary was captured.
+
+Decision: register this as participant-witness corroboration for the scheduled PASSHE keynote, not as a first-party delivery record or verified transcript. Add paraphrase-only claims C-1263–C-1264, link the source to the existing PASSHE event family, and keep recording/transcript/slides as open. Reopen only for a changed LinkedIn state, a named attendee artifact, or event media.
+
 ## 2026-08-09 — SRC-1088/C-1255–C-1262: Warwick keynote audio audit
 
 The locally preserved 45:25.50 Warwick Education Conference MP4 was processed with Whisper `tiny.en` to create a 66,341-byte VTT for navigation. The audit separates Arday’s keynote and responses from audience questions and records approximate windows covering pedagogy and freedom, generous assumptions and deficit framing, teaching-failure anecdotes, institutional power and fear, humility and safe failure, misrecognition, and intelligence/luck/imposter syndrome. The VTT is automatic speech recognition, not a transcript; no direct quotation is added and human listening remains the next verification step. This is a derivative of `SRC-334`, not a duplicate event node. Google Drive was not updated.
