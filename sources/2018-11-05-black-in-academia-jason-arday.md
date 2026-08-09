@@ -15,7 +15,7 @@ id: SRC-272
 
 ## What the source establishes
 
-The Black In Academia channel published a 65-second video titled “What does being Black in Academia mean to you?” The captioned response discusses the responsibility of Black academics, representation, and the importance of Black professors in higher education. It is a dated public-output item about academic identity and reception, not evidence about childhood or qualifications.
+The Black In Academia channel published a 65-second video titled “What does being Black in Academia mean to you?” The captioned response discusses the responsibility of Black academics, representation, and the importance of Black professors in higher education. A bounded audit of the response records its distinct public-position content while preserving the automatic-caption and human-verification limits: [SRC-1053](2026-08-09-black-in-academia-caption-audit.md). It is not evidence about childhood or qualifications.
 
 ## Local preservation
 

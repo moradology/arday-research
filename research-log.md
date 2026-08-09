@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1053/C-1088–C-1090: Black In Academia public-position caption audit
+
+The locally preserved 5 November 2018 Black In Academia / Leading Routes 65-second response was checked against its automatic English VTT. The short first-person statement records Arday’s account of stereotype pressure on Black men, the representational responsibility he associates with Black academics, and his view that Black presence in academia is a political statement that can reshape narratives and inspire participation. These are distinct early public-position details, not childhood or qualification evidence. The captions remain unverified against the waveform and are not used for verbatim quotation.
+
 ## 2026-08-09 — SRC-1052: Beacon College profile access/attribution boundary
 
 The locally preserved 5 September 2023 Beacon College *Difference Makers* profile was rechecked at the page/metadata level. Its description repeats known childhood speech/literacy, autism, and Cambridge-appointment framing, but no public subtitle track was exposed and the available environment had no speech-to-text runtime for a machine-assisted audio pass. The video-only MP4 and separate M4A remain playable local artifacts. No new Arday-attributed wording or biographical claim was promoted; reopen only for human listening, a changed caption/transcript endpoint, or an independently supplied transcript.
