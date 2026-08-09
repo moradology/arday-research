@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh bounded-sweep extension: `SRC-895/C-973` — 9 August searches across current events, institutional reports, interviews/podcasts/videos, BSA governance/conference pages, Cambridge appointment material, and scholarly correction routes returned only existing records, unchanged/previously captured states, or homonyms. Reopen only for a changed official endpoint, named inquiry outcome, new DOI, filing, recording/transcript, or distinct publication artifact; do not repeat these query families unchanged.
+
 Fresh scholarly access checkpoint: `SRC-911/C-972` — the Taylor & Francis PDF route for the canonical correction to *Attempting to break the chain* returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August 2026. No correction PDF or new text was recovered. Reopen only for a lawful full correction PDF/HTML, changed publisher endpoint, formal journal correction/retraction state, or institutional outcome; do not repeat the same request unchanged.
 
 Fresh programme-advisory checkpoint: `SRC-910/C-971` — the Wellcome Sanger Institute’s Sanger Excellence Fellowship page lists “Prof Jason Arday, Professor of Sociology, University of Glasgow” on its Advisory Group. Reopen only for the programme’s dated advisory roster, meeting/report artifact, changed page, or a direct Glasgow employment record; do not infer advisory terms, participation, or current Glasgow employment from the page wording.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-895/C-973: current event and institutional sweep extension
+
+Discovery: a focused sweep of current event-recording, university-event-report, interview/podcast/video, advisory-page, BSA, Cambridge, and scholarly correction searches returned only existing canonical records, byte-identical Cambridge appointment material, the already-preserved Taylor & Francis 403 state, and unrelated homonyms.
+
+Decision: extend the existing SRC-895 bounded-search record rather than create duplicate source nodes. No new recording, transcript, post-event report, DOI, filing, institutional outcome, or distinct biography artifact was recovered. Reopen only with a changed endpoint or concrete new identifier. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-911/C-972: Taylor & Francis correction access recheck
 
 Discovery: the publisher PDF route for the already-canonical correction to *Attempting to break the chain* appeared in a scholarly search result with indexed correction text, but a fresh direct request returned HTTP 403 Cloudflare challenge HTML rather than a PDF. The 5,542-byte body and headers are preserved.

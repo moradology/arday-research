@@ -1,5 +1,7 @@
 # Work state
 
+Latest search-boundary extension: on 2026-08-09 `SRC-895/C-973` recorded a focused current sweep across events, university reports, interviews/podcasts/videos, BSA/Cambridge pages, and scholarly correction routes. Results resolved to existing records, unchanged states, or homonyms; no new artifact or institutional outcome was found. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly access checkpoint: on 2026-08-09 `SRC-911/C-972` rechecked the Taylor & Francis PDF route for the canonical correction to *Attempting to break the chain*. It returned a byte-distinct HTTP 403 Cloudflare challenge; no correction PDF or new text was recovered. This is a retrieval-state update only and remains deduplicated to SRC-297. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest programme-advisory checkpoint: on 2026-08-09 `SRC-910/C-971` preserved the Wellcome Sanger Institute’s Sanger Excellence Fellowship page. It lists Arday on the programme Advisory Group and uses the title “Professor of Sociology, University of Glasgow.” This is first-party host wording; advisory terms, participation, and current Glasgow employment remain unresolved. Google Drive was not updated; GitHub remains the active publication target.
