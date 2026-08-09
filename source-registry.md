@@ -1,5 +1,11 @@
 # Source registry
 
+| SRC-1010 | `sources/2026-08-09-markham-public-library-arday-memoir.md` | Markham Public Library BiblioCommons catalogue lists *Great and Unfortunate Things* as a 2026 book “On order,” with 0 holds on 3 copies in the captured state | public-library catalogue / acquisition state / local HTML and headers | 2026-08-09 | Markham Public Library, BiblioCommons, Great and Unfortunate Things, Jason Arday, memoir, on order, library, acquisition |
+
+| SRC-1011 | `sources/2026-08-09-blackstone-library-arday-audiobook.md` | Blackstone Library catalogue lists an unabridged Arday-narrated audiobook in library-CD formats, with 11 August 2026 availability and ISBNs 9781668126547 and 9781668126530 | library audiobook distributor catalogue / local HTML and headers | 2026-08-09 | Blackstone Library, audiobook, library CD, Jason Arday, Great and Unfortunate Things, narration, ISBN, distribution |
+
+| SRC-1012 | `sources/2026-08-09-scpl-arday-memoir-listing.md` | St. Catharines Public Library Spring–Summer 2026 adult nonfiction PDF lists Jason Arday’s *Great And Unfortunate Things* | public-library reading list / local PDF, text, and headers | 2026-08-09 | St. Catharines Public Library, SCPL, Great and Unfortunate Things, Jason Arday, memoir, library, reading list |
+
 | SRC-596 | `sources/2026-08-08-ljmu-profile-current-404.md` | LJMU bicentenary Jason Arday profile route returned HTTP 404 again on 9 August; a byte-distinct 404 body is locally preserved and no Arday text appears; search indexing still exposes the prior substantive profile | first-party institutional route / current access-state recheck / negative-space observation / local HTML and headers | 2026-08-09 | LJMU, bicentenary, profile, current status, 404, indexed/live mismatch, access boundary, source version |
 
 | SRC-1009 | `sources/2020-11-03-cghe-webinar-164-transcript.md` | CGHE Webinar 164’s official “View the transcript” link yields a two-page PDF Zoom chat log for the 3 November 2020 Arday/Dorling/Westwood webinar; PDF and extracted text preserved; no Arday speech appears | first-party webinar artifact / chat-log transcript / local PDF and text / negative-space boundary | 2026-08-09 | CGHE, Centre for Global Higher Education, Jason Arday, Webinar 164, Brexit, pandemic, higher education, transcript, Zoom chat, event provenance, access boundary |

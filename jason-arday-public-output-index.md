@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [Markham Public Library catalogue](sources/2026-08-09-markham-public-library-arday-memoir.md), [Blackstone Library audiobook catalogue](sources/2026-08-09-blackstone-library-arday-audiobook.md), and [St. Catharines Public Library new-and-notable list](sources/2026-08-09-scpl-arday-memoir-listing.md) — public-library distribution records for *Great and Unfortunate Things*, including an explicit “On order” state, library-CD audiobook metadata, and a library reading-list entry.
+
 - [Taylor & Francis correction access recheck](sources/2026-08-09-educational-philosophy-correction-recheck.md) — byte-distinct 9 August 2026 Cloudflare challenge for the canonical correction PDF route; no new correction text recovered.
 
 - [Wellcome Sanger Institute Sanger Excellence Fellowship](sources/2026-08-09-sanger-excellence-fellowship.md) — current programme page lists Arday on the Advisory Group and uses “Professor of Sociology, University of Glasgow” wording; page and headers preserved.

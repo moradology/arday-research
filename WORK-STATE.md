@@ -1,5 +1,7 @@
 # Work state
 
+Latest distribution checkpoint: on 2026-08-09 `SRC-1010–SRC-1012/C-1011–C-1013` captured three public-library manifestations of Arday’s memoir: Markham Public Library’s explicit “On order” state, Blackstone Library’s forthcoming library-CD audiobook catalogue with Arday as reader, and St. Catharines Public Library’s new-and-notable list. These establish distribution topology only; no memoir claim was independently corroborated. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest subject-specific access checkpoint: on 2026-08-09 `SRC-596/C-1010` rechecked the LJMU bicentenary profile route. It returned a byte-distinct HTTP 404 body with no Arday text while search indexing still exposed the older profile; no deletion, correction, or finding was inferred. The new body is local-only; Google Drive was not updated and GitHub remains the active publication target.
 
 Latest subject-output checkpoint: on 2026-08-09 `SRC-1009/C-1009` recovered CGHE Webinar 164’s official linked PDF. It is a two-page Zoom chat log for the 3 November 2020 Arday/Dorling/Westwood webinar, not a speaker transcript; it contains no Arday speech. Google Drive was not updated; GitHub remains the active publication target.

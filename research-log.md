@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-1010–SRC-1012: library distribution and acquisition records
+
+Discovery: a focused search for public-library manifestations of *Great and Unfortunate Things* surfaced Markham Public Library’s BiblioCommons result, Blackstone Library’s audiobook-distributor catalogue, and St. Catharines Public Library’s Spring–Summer 2026 adult nonfiction PDF.
+
+Capture: the Markham HTML/headers, Blackstone HTML/headers, and SCPL PDF/text/headers were downloaded and checksummed under `assets/captures/2026-08-09-library-distribution/`.
+
+Decision: these are new distribution/topology records about Arday’s memoir, not corroboration of its personal narrative. Markham is the strongest answer to whether a library had ordered the book: its catalogue explicitly says “On order.” Blackstone documents a library audiobook format and Arday’s narration; SCPL documents a library-facing selection list. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — C-1010/SRC-596: LJMU bicentenary profile remains a live/indexed mismatch
 
 The exact LJMU bicentenary profile URL returned HTTP 404 again. Its 197,298-byte body is byte-distinct from the 8 August 404 capture and contains no Arday profile text, while public search indexing still exposes the older substantive profile. The new body is preserved locally; response headers remain local-only because they contain transient session cookies. This updates the existing route record rather than creating a duplicate biography source.

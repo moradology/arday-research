@@ -61,6 +61,8 @@ The 1 October 2024 Proposed Roll of the Regent House lists “Arday, Jason Atta 
 
 ## Related records
 
+The memoir’s public-output topology includes library acquisition and distribution records: [Markham Public Library](../sources/2026-08-09-markham-public-library-arday-memoir.md), [Blackstone Library](../sources/2026-08-09-blackstone-library-arday-audiobook.md), and [St. Catharines Public Library](../sources/2026-08-09-scpl-arday-memoir-listing.md). These records concern access infrastructure, not the truth of the memoir’s autobiographical claims.
+
 - [Credibility and public-biography controversy](arday-credibility-controversy.md)
 - [Public-output index](../jason-arday-public-output-index.md)
 - [Affiliation ledger](../affiliations.md)
