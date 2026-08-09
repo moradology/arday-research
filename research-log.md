@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1112/C-1348–C-1352: *Institutionalised* report and Arday foreword audit
+
+The complete 60-page London Metropolitan University/Centre for Equity and Inclusion report was extracted with layout preservation and visually checked across the cover, contents, forewords, methodology, data-collection, recommendations, and bibliography pages. The audit separates Arday’s page-7 foreword and dated public position from Sofia Akel’s report-level authorship and the disclosed 93-student/13-staff survey design. It records the no-qualitative-interviews limitation and single-institution boundary and does not attribute the report’s empirical findings to Arday.
+
 ## 2026-08-09 — SRC-1111/C-1343–C-1347: January 2020 Nelson Mandela CV page audit
 
 The complete eight-page Wayback-recovered CV was extracted with layout preservation and visually checked across its qualifications/employment, affiliations/service, bibliography, awards, invited-speaking, and conference-paper pages. The audit records the CV as a dated professional narrative, maps its “Present” and forthcoming-publication wording, and preserves the 2020-versus-2021 *Black Curriculum* bibliography discrepancy. It does not treat CV entries as independent HR, degree, party, publisher, or event records, and creates no duplicate biography or publication nodes.
