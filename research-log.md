@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1105/C-1311–C-1315: CGHE *No One Can See Me Cry* presentation audit
+
+The locally preserved 12-slide CGHE deck dated 2 July 2020 was audited with layout-preserving extraction and visual review of the title, study-framing, recommendations, and closing slides. It records a qualitative-study framing, five anonymized quotations, recommendations for context-sensitive psychological support, and an explicit “under review” status for the later *Higher Education* paper. It does not disclose the study’s sample, recruitment, ethics, coding, or dataset. Decision: preserve the deck as a distinct presentation/version-history artifact related to SRC-273 and SRC-049; do not count it as a second publication or independent corroboration of the underlying participant accounts.
+
 ## 2026-08-09 — SRC-1104/C-1307–C-1310: 2021 race/educational-leadership editorial audit
 
 The 21-page accepted manuscript for the Maylor–Roberts–Linton–Arday special-issue editorial was audited with layout-preserving extraction and visual review. The audit records the paper’s CRT/counter-story and quantitative-method discussion, five stated aims, six-article structure, and non-empirical editorial boundary. It also preserves the accepted manuscript’s `Author XXXX` placeholders and distinguishes the published-version metadata from the manuscript. No original sample, interview corpus, coded dataset, or intervention evaluation was found in the reviewed file. This strengthens the output ontology without treating editorial summaries as independent findings.
