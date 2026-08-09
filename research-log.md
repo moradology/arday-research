@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1080/C-1218–C-1223: 2013 peer-mentoring article page audit
+
+The complete LJMU Open Journals issue PDF was audited at article level. The pass binds the title/byline and printed page coordinates to the article’s own scope statement, distinguishes its literature-based contextual synopsis from original empirical research, maps its reflection/apprenticeship/reciprocity framework, records its discussion of mentoring risks, and captures its explicit caution against a universally superior approach.
+
+The article’s recommendations for peer-mentoring circles, institutional support, roles, trust, communication, and review remain practice arguments without reported implementation or causal outcomes. Added SRC-1080/C-1218–C-1223; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1079/C-1212–C-1217: expanded Bookseller memoir-interview page audit
 
 The current *Bookseller* rendering was rechecked after the archive’s earlier excerpt/login boundary. The retained HTML and current page expose a continuation after the prior “Continues…” marker. The audit adds publishing-process details, Arday’s scrutiny account, the memoir’s interest/ability portrait, a midwife anecdote, and the “less than 1%” structural framing while preserving the BTEC/Sandro overlap as already represented.
