@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [Wellcome Sanger Institute Sanger Excellence Fellowship](sources/2026-08-09-sanger-excellence-fellowship.md) — current programme page lists Arday on the Advisory Group and uses “Professor of Sociology, University of Glasgow” wording; page and headers preserved.
+
 - [Cambridge Faculty staff-contact route boundary](sources/2026-08-09-cambridge-staff-contact-list.md) — indexed Arday-associated route returned HTTP 404 on direct capture; generic page-not-found state preserved without inferring absence or resignation.
 
 - [British Sociological Association *Network* Issue 149](sources/2026-08-09-bsa-network-issue-149.md) — Spring 2025 first-party magazine; masthead lists “Dr Jason Arday” on the BSA Board of Trustees, with the 78-page PDF and extracted text locally preserved.

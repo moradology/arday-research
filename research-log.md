@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-910/C-971: Sanger Excellence Fellowship Advisory Group
+
+Discovery: a current Wellcome Sanger Institute programme page identifies Jason Arday in the Advisory Group for the Sanger Excellence Fellowship and labels him “Professor of Sociology, University of Glasgow.” The direct page returned HTTP 200 and its HTML/headers were preserved.
+
+Decision: register the page as SRC-910. It is a first-party programme relationship and a dated host biography/version witness, not proof of advisory appointment terms, participation, or current Glasgow employment. The title wording is kept separate from direct Glasgow records and from Cambridge current-status evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-909/C-970: Cambridge Faculty staff-contact route boundary
 
 Discovery: search indexing surfaced the University of Cambridge Faculty of Education’s “Faculty Staff Contact List” as an Arday-associated route. The direct URL returned HTTP 404 on 9 August 2026; the generic page-not-found HTML and response headers are locally preserved.

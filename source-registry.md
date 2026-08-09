@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-910 | `sources/2026-08-09-sanger-excellence-fellowship.md` | Wellcome Sanger Institute’s current Sanger Excellence Fellowship page lists “Prof Jason Arday, Professor of Sociology, University of Glasgow” on the programme Advisory Group; HTML and headers preserved | institutional programme page / advisory-group relationship / local HTML and headers | 2026-08-09 | Wellcome Sanger Institute, Sanger Excellence Fellowship, Advisory Group, Glasgow, programme governance, source-version |
+
 | SRC-909 | `sources/2026-08-09-cambridge-staff-contact-list.md` | Cambridge Faculty of Education staff-contact-list route surfaced by indexing but returned HTTP 404 on direct capture; generic page-not-found HTML and headers preserved; no live staff entry or contact record recovered | first-party institutional endpoint / negative-space observation / local HTML and headers | 2026-08-09 | Cambridge, Faculty of Education, staff contact list, HTTP 404, negative space, indexed/live mismatch, access boundary |
 
 | SRC-908 | `sources/2026-08-09-bsa-network-issue-149.md` | British Sociological Association *Network* Issue 149 (Spring 2025); 78-page first-party PDF and extracted text preserve the masthead listing “Dr Jason Arday” on the BSA Board of Trustees (printed p. 4 / PDF p. 4) | professional-association magazine / governance roster / local PDF and text | 2026-08-09 | British Sociological Association, Network, Issue 149, Spring 2025, Board of Trustees, governance, source-version, PDF |

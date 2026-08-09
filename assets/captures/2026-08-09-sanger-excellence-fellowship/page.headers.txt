@@ -1,0 +1,16 @@
+HTTP/2 200 
+vary: Accept-Encoding
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000
+date: Sun, 09 Aug 2026 01:30:10 GMT
+x-xss-protection: 1; mode=block
+x-olaf: ⛄
+accept-ranges: bytes
+x-content-type-options: nosniff
+last-modified: Thu, 06 Aug 2026 10:52:03 GMT
+x-ua-compatible: IE=edge
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+x-clacks-overhead: GNU Terry Pratchett
+content-length: 104095
+

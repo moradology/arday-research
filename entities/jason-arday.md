@@ -3,7 +3,7 @@ id: person-jason-arday
 type: Person
 name: Jason Arday
 status: active-research-subject
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 ---
 
 # Jason Arday
@@ -28,6 +28,8 @@ As of 2026-08-05, Cambridge and Jesus College affiliation status is subject to a
 Public filings document past governance roles at the Runnymede Trust and First Star Scholars UK, and a Charity Commission record lists Arday as a British Sociological Association trustee from June 2020. These are governance records, not proof of personal control over charity finances or of the broader fundraising totals reported in biographies.
 
 A 7 August 2026 EDICa newsletter profile preserves a project-host version of broader role wording; these descriptions remain source-versioned and are not converted into current affiliations. [EDICa record](../sources/2026-08-07-edica-jason-arday.md)
+
+The Wellcome Sanger Institute’s Sanger Excellence Fellowship page lists “Prof Jason Arday, Professor of Sociology, University of Glasgow” on the fellowship’s Advisory Group. This is a first-party programme-page record of advisory-group wording; it does not establish appointment terms, participation, or current Glasgow employment. [Sanger Excellence Fellowship record](../sources/2026-08-09-sanger-excellence-fellowship.md)
 
 PASSHE’s 8 August 2026 speaker page likewise preserves stale present-tense Cambridge/Jesus wording in event-host copy; it is retained as a source-version, not a current-affiliation assertion. [PASSHE record](../sources/2026-08-08-passhe-speakers-page.md)
 

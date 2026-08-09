@@ -1,5 +1,7 @@
 # Work state
 
+Latest programme-advisory checkpoint: on 2026-08-09 `SRC-910/C-971` preserved the Wellcome Sanger Institute’s Sanger Excellence Fellowship page. It lists Arday on the programme Advisory Group and uses the title “Professor of Sociology, University of Glasgow.” This is first-party host wording; advisory terms, participation, and current Glasgow employment remain unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest Cambridge endpoint checkpoint: on 2026-08-09 `SRC-909/C-970` preserved the direct response for the indexed Faculty of Education “Faculty Staff Contact List” route. The endpoint returned HTTP 404 and exposed no live Arday entry or role. This is an access/negative-space observation, not evidence of absence, falsity of the indexed lead, or resignation. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest BSA governance checkpoint: on 2026-08-09 `SRC-908/C-969` preserved the British Sociological Association’s Spring 2025 *Network* issue as a 78-page PDF and extracted text. Its masthead lists “Dr Jason Arday” among the BSA Board of Trustees (printed p. 4 / PDF p. 4). This is a dated first-party roster, not proof of appointment terms or status after the issue. Google Drive was not updated; GitHub remains the active publication target.
