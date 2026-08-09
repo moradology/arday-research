@@ -23,7 +23,7 @@ Brendan Borrell’s *Retraction Watch* investigation, published 27 July 2026 and
 ## Distinct evidence layers
 
 - The article reports a Cambridge spokesperson’s position that Arday was a victim of a campaign and had been cleared of allegations concerning his thesis and journal publications. This is a reported Cambridge statement, distinct from Cambridge’s later investigation statement and from any final institutional finding.
-- The article records a first-person remark Arday made during a British Sociological Association plenary in April 2026 about academic-misconduct emails and the perceived weaponisation of academic-integrity and wellbeing instruments. The underlying plenary recording/transcript is not recovered here.
+- The article records a first-person remark Arday made during a British Sociological Association plenary in April 2026. In the report’s quotation, he says that when told he had conducted academic misconduct he felt “on the back foot,” and that “the instruments that are designed to protect academic integrity, designed to protect our wellbeing and our intellectual property, are weaponised.” This is a short quotation reproduced by *Retraction Watch*, not a locally recovered plenary transcript; the underlying recording/transcript and full context remain unresolved.
 - The article discusses the 2018 *Social Sciences* article’s later correction and changes to its methodology/quotation wording. The correction notices and article versions remain the stronger publication records; this report is a secondary account of their significance.
 
 ## Evidence boundary

@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-282/C-265 refinement: Arday’s reported BSA-plenary response
+
+The existing *Retraction Watch* record was re-read against the locally preserved HTML. Its article body contains a short quotation attributed to Arday at an April 2026 British Sociological Association plenary: he describes feeling “on the back foot” after an academic-misconduct allegation and says that instruments intended to protect academic integrity, wellbeing, and intellectual property “are weaponised.” The quotation is now represented directly in C-265 and the biography as a reported first-person position. It is not treated as a recovered BSA transcript, an account of the full plenary, or an adjudication of the allegations. Reopen only for the BSA recording/transcript or a materially changed institutional outcome.
+
 ## 2026-08-09 — SRC-1097/C-1288–C-1293: BBC *Radical* audio audit
 
 The locally preserved 8 May 2025 BBC *Radical with Amol Rajan* MP3 was transcribed with Whisper `tiny.en` and the JSON derivative was copied into the repository with a checksum. The episode’s relevant Arday discussion occupies approximately 15:25–42:48, with subject-centred windows on young people and the present, nostalgia, postwar Britain and Windrush, Churchill and wartime memory, selective “glory days” narratives, and historical complexity. Because the recording is multi-speaker and the ASR has no diarization, claims C-1288–C-1293 are paraphrases with approximate attribution, not quotations or independent verification of the historical propositions discussed. The official transcript remains unavailable. Reopen for human listening, corrected captions, or an official transcript; do not repeat the unchanged transcript search.
