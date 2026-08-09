@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1093/C-1269–C-1274: Simon & Schuster memoir excerpt recheck
+
+The official Simon & Schuster US page rendered the memoir excerpt through the public web view on 9 August, while direct shell retrieval at 11:19:59 UTC still returned a 403 challenge. The page’s Prologue now supports precise navigation for Arday’s account of the Cambridge appointment call arriving at his Clapham home and Giff’s role; Chapter One supports bounded navigation for the “almost twelve years” language formulation, therapy-room memories, speech therapy beginning around age four three times weekly for the best part of ten years, delayed walking/feeding, fine-motor difficulty, and noise sensitivity. These are self-authored memoir claims. No clinical, school, family, therapist, or Cambridge hiring record was recovered from this recheck, and no new local HTML binary is claimed. The record is deduplicated to SRC-091 and preserves the shell/web access split.
+
 ## 2026-08-09 — SRC-1090/C-1266: Eventbrite manifestation of the 27 March 2021 conversation
 
 The public Eventbrite registration page for “Dr Jason Arday — Tackling Racial Inequality in Higher Education” was captured as a distinct manifestation of the existing Black History Month UK listing. Its structured metadata identifies KRIKRAK as organizer, gives event ID `146734225017`, and places the online event at 19:30 UTC on 27 March 2021; the current page marks it ended. The organizer description repeats delayed-speech/literacy, PhD, and platform language, which remains promotional source-version copy rather than independent corroboration. The 2180×1080 event image, HTML, headers, and checksums are locally preserved. No recording, transcript, attendance record, or post-event report was recovered.
