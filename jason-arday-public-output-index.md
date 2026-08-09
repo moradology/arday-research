@@ -54,6 +54,8 @@ Research collection assembled 2026-08-05. Links are grouped by source type. Inst
 
 ## 2. Recorded talks and video
 
+- [Manchester Metropolitan University LEED keynote](sources/2025-mmu-leed-keynote.md) — June 2025; “We Built This City: Belonging and Authenticity in Pedagogy,” with locally preserved MP4 and official captions. [Caption audit](sources/2026-08-09-mmu-leed-keynote-caption-audit.md)
+
 - [UCL keynote: “Engaging pedagogically with race and racism in higher education”](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/keynote-lecture-engaging-pedagogically-race-and-racism-higher-education) — includes the locally preserved recording and first-party 16-slide “Learning to fly” deck; topics include decolonising curricula, intersectionality, inclusive pedagogy, unconscious bias, and centring race and racism.
 - [American Sociological Association 2024 year-in-review](sources/2025-02-01-asa-year-in-review-2024.md) — official *Footnotes* Winter 2025 PDF listing Arday and Chantelle Lewis as speakers for a 2024 webinar on neurodivergent-inclusive academic policies; no recording or transcript located.
 - [Local UCL “Learning to fly” keynote deck](assets/documents/ucl-learning-to-fly-2020/learning-to-fly-keynote.pptx) — 67,699-byte PPTX captured from UCL’s download endpoint; [source record](sources/2021-03-16-ucl-keynote-media.md).

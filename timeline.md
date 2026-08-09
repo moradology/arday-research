@@ -4,6 +4,8 @@ Dates are recorded as events, not as proof of every biographical detail reported
 
 ## Childhood and education chronology
 
+| 2025-06 | Manchester Metropolitan University’s LEED Learning & Teaching Conference preserves Arday’s keynote “We Built This City: Belonging and Authenticity in Pedagogy”; his captioned contribution includes PE-teacher/Sainsbury’s self-report, Sandro Sandri recollection, and relational/pedagogical positions. | verified first-party recording and dated first-person/public-position source; captions not human-verified | [MMU keynote record](sources/2025-mmu-leed-keynote.md) · [caption audit](sources/2026-08-09-mmu-leed-keynote-caption-audit.md) |
+
 | 2026-04-14 | Cambridge’s Black Advisory Hub event page named Professor Jason Arday among the practitioner-workshop leaders for its anti-racism symposium. | verified first-party event listing; delivery and attendance unresolved | [Cambridge symposium record](sources/2026-08-09-cambridge-anti-racism-symposium.md) |
 | 2026-01-19 | Cambridge University Reporter Special No. 3 (2025–26) listed “Arday Jason phd frsa” among Jesus College’s 2023 fellows. | verified first-party roster; fellowship terms and later status unspecified | [Cambridge Reporter roster](sources/2026-08-09-cambridge-reporter-college-fellows-2025-26.md) |
 | 2025-04 | The British Sociological Association’s Spring 2025 *Network* issue lists “Dr Jason Arday” among the BSA Board of Trustees in its masthead. | verified dated association publication roster; appointment terms and later status unresolved | [BSA *Network* Issue 149](sources/2026-08-09-bsa-network-issue-149.md) |

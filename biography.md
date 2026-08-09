@@ -10,6 +10,8 @@ status: working-draft
 
 This is a source-led biography. It keeps the narrative readable while marking which details are directly documented, self-reported, repeated by institutions, or still require corroboration.
 
+The 2025 Manchester Metropolitan University LEED keynote adds a useful subject-centred source version. Arday describes a prior PE-teaching role, his mother’s activism, Sainsbury’s shift work, self-teaching sociology, Sandro Sandri’s mentoring, and having two children; he also articulates relational education, staff tolerance, and a playful, culturally responsive classroom. These details are preserved as captioned first-person testimony and public pedagogy, not independently corroborated employment, family, or outcome records. [MMU keynote audit](sources/2026-08-09-mmu-leed-keynote-caption-audit.md)
+
 The forthcoming memoir also has a small but concrete public-library distribution trail: Markham Public Library’s catalogue captured the title as “On order,” Blackstone Library lists an unabridged library-CD audiobook read by Arday, and St. Catharines Public Library includes the book in a Spring–Summer 2026 adult nonfiction list. These records establish catalogue/acquisition and narration states, not readership, critical quality, or the truth of the memoir’s autobiographical claims. [Library-distribution records](sources/2026-08-09-markham-public-library-arday-memoir.md) · [audiobook catalogue](sources/2026-08-09-blackstone-library-arday-audiobook.md) · [SCPL list](sources/2026-08-09-scpl-arday-memoir-listing.md)
 
 ## Subject-centred evidence summary

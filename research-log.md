@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1074/C-1179–C-1185: MMU LEED keynote caption audit
+
+The locally preserved Manchester Metropolitan University MMUtube keynote was audited against its official English (British) SRT. The pass binds the recording and 81%-accuracy caption boundary to timecoded passages on Arday’s PE-teacher/Sainsbury’s route, mother and social-causes recollection, relational education and hidden curriculum, Sandro Sandri memory, staff-precarity argument, play/culture pedagogy, and PE-informed teaching philosophy.
+
+These are first-person recollections and public educational positions, not independent employment, family, workload, or outcome records. The SRT remains a navigation aid rather than a verbatim transcript; human listening is still required for quotation. Added SRC-1074/C-1179–C-1185; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1071/C-1161–C-1165: under-represented young people protocol page audit
 
 The already-canonical 2025 BMJ Open protocol was audited at page level using the preserved Oxford Research Archive version-of-record PDF. The audit binds the study’s planned narrative/intersectional design, Work Package 1/2 sampling targets, youth-participation and autism-adjustment structure, ethics/data-management statements, and funding/sponsorship topology to printed pages 1–8.
