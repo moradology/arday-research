@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1090/C-1266: Eventbrite manifestation of the 27 March 2021 conversation
+
+The public Eventbrite registration page for “Dr Jason Arday — Tackling Racial Inequality in Higher Education” was captured as a distinct manifestation of the existing Black History Month UK listing. Its structured metadata identifies KRIKRAK as organizer, gives event ID `146734225017`, and places the online event at 19:30 UTC on 27 March 2021; the current page marks it ended. The organizer description repeats delayed-speech/literacy, PhD, and platform language, which remains promotional source-version copy rather than independent corroboration. The 2180×1080 event image, HTML, headers, and checksums are locally preserved. No recording, transcript, attendance record, or post-event report was recovered.
+
 ## 2026-08-09 — SRC-389/C-1265: publisher abstract recheck for Douglass comparator
 
 Discovery: a current Taylor & Francis search result for DOI `10.1080/13611267.2013.813740` exposed the version-of-record metadata and abstract for Douglass, Dennie L. Smith, and Lana J. Smith’s 2013 article. The abstract describes peer mentoring in undergraduate writing-intensive education courses and survey rankings of mentor characteristics.

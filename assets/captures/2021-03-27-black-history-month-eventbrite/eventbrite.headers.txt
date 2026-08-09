@@ -1,0 +1,25 @@
+HTTP/2 200 
+server: CloudFront
+content-type: text/html; charset=utf-8
+content-length: 166479
+date: Sun, 09 Aug 2026 11:07:09 GMT
+x-amzn-trace-id: Root=1-6a785f5d-34d781cb14f8610c3037e846;Parent=0524c30b76990edf;Sampled=0;Lineage=2:a3d0e391:0
+x-canonical-url: https://www.eventbrite.co.uk/e/dr-jason-arday-tackling-racial-inequality-in-higher-education-tickets-146734225017
+x-amzn-remapped-content-length: 166479
+x-amz-apigw-id: B1PWnHt3IAMEgvg=
+x-opennext: 1
+cache-control: s-maxage=3600, stale-while-revalidate=86400, stale-if-error=604800
+etag: "5anvnja1fd3kft"
+x-powered-by: Next.js
+x-upstream-source: VALKYRIE
+via: 1.1 82449b7d38c9033f4ad6078c031b24ea.cloudfront.net (CloudFront)
+age: 102
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+set-cookie: csrftoken=100006b262875ec42ee3f81d800a2134; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
+set-cookie: stableId=e436533b-fbd7-47ee-9190-76034df9c612; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
+x-experiments-assignment: {"listings_desktop_two_rails":{"groupName":"","parameters":{}}}
+x-amzn-requestid: 12b1b4b4-42cb-4d56-ab1c-b5c0a1ee7940
+x-cache: Hit from cloudfront
+x-amz-cf-pop: MCI50-P1
+x-amz-cf-id: Ycu0TAio5gX0RvAc0Nlo-Q7Y8fQBj8wAs64tPnIK2PgIyREYXbGQAA==
+

@@ -1,0 +1,14 @@
+HTTP/2 200 
+content-type: binary/octet-stream
+content-length: 301015
+date: Sun, 09 Aug 2026 11:09:00 GMT
+last-modified: Wed, 17 Mar 2021 11:16:10 GMT
+etag: "8c8c2c33a93c7b190d3dcf3f6be751b6"
+x-amz-version-id: null
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 2f743a0ca9cc9da3bb8d81eb8b012916.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P1
+x-amz-cf-id: BsD5y5VhwY2k2jkLhzX4evw-78sPRlNWa6J1QfJ3frjkFZqS_hje8Q==
+

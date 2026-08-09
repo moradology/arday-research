@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event-manifestation checkpoint: `SRC-1090/C-1266` — Eventbrite’s public registration page for the canonical 27 March 2021 Black History Month conversation now has local HTML, headers, organizer metadata, ended state, and event image. Reopen only for a recording, transcript, attendance/post-event record, or changed registration state; do not create a second event node or treat the promotional biography as independent evidence.
+
 Fresh comparator-provenance checkpoint: `SRC-389/C-1265` — Taylor & Francis’s current page confirms the Douglass–Smith–Smith version-of-record identity and abstract, but exposes no full text. This strengthens source topology without upgrading the HKU conference PDF to publisher-byte equivalence. Reopen only for a lawful version-of-record copy, a changed publisher access state, or a direct page-specific comparison; do not repeat the DOI metadata search unchanged.
 
 Fresh continuation-boundary checkpoint: `SRC-895` — exact-name searches for Arday’s 2026 interviews/videos/publications, memoir excerpt/audiobook/launch routes, and Cambridge/QUB/Cofnas process updates resolved to existing canonical records. No new binary, transcript, DOI/title, formal outcome, terms of reference, direct response, or primary comparison was recovered. Reopen only after a changed endpoint or concrete lead; do not repeat these query families unchanged.
