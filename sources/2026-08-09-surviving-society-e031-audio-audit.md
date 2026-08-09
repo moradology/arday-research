@@ -51,6 +51,13 @@ The remainder of the episode is not yet audited at claim level.
 
 This is a detailed first-person account. It overlaps thematically with his earlier New Humanist account of a first stop at 14 or 15, but neither recording is an independent police record and the age formulation is not silently harmonized.
 
+## Extended window: 25:00–30:00
+
+- **25:00–27:44** — Arday says his father had many cassettes and videos of Björn Borg, whose calm, controlled temperament became an object of fascination for him as an autistic child. He recalls deciding after his first police stop that, if stopped again, he would remain as collected and calm as Borg.
+- **27:44–28:23** — He reflects that this self-control was a strategy for managing a powerless situation: behaving calmly might still invite police exploitation, while resisting could produce the same treatment. This extends the earlier account from event memory into self-described coping and interpretation.
+
+At approximately 28:23 the conversation turns to a co-host’s separate stop-and-search account; it is excluded from Arday’s claims.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
