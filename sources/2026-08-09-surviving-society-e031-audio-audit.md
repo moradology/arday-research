@@ -87,6 +87,13 @@ The final portion of the interval returns to host discussion of political correc
 
 This is a contemporaneous first-person account and public-position statement. The venue, event, and incident were not independently verified in this pass; the surrounding host account of fear in white spaces is excluded.
 
+## Extended window: 50:00–55:00
+
+- **51:45–53:05** — Arday says that, when he attends Stone Roses shows, people sometimes question whether he knows the songs or has only recently discovered the band. He frames this as a presumption that a person of colour does not belong in the space or cannot be authentically attached to its music.
+- **53:05–54:20** — Arday contrasts this with his observation that Black cultural spaces are generally open to white participants, using hip-hop audiences and white figures respected within Black music culture as examples. He says that white-coded clubs and scenes more visibly signal exclusion when he enters them.
+
+The opening of this interval contains a separate speaker’s bodybuilding/genetics discussion and is excluded from Arday’s record; the final exchange about gendered threats is also not confidently attributed.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
