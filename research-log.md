@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1077/C-1200–C-1205: BBC Newsnight PhD-offers page audit
+
+The live BBC Newsnight article published 17 November 2020 was audited as a dated source-version. It records the reported FOI scope and response counts, the white/Black offer-rate comparisons, and Arday-attributed passages on being taught by no person of colour, doctoral selection, funding work, inaccessible funding information, and structural inequality.
+
+The article’s figures remain BBC-reported analysis: raw FOI returns, denominators, offer definitions, and the broadcast file are not locally available. Arday’s recollections and positions remain separate from those figures and from later HESA-based scholarship. Added SRC-1077/C-1200–C-1205; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1076/C-1194–C-1199: Social Science Space interview audit
 
 The Sage *Social Science Space* page was audited from its full publisher transcript, with the local MP4 and automatic captions retained as audiovisual source versions. The pass isolates Arday’s interviewer role and speaker-labelled passages: his race/intersection self-description, friendship and series-editor framing, attribution of the “white narcissism” term to Keval, questions about racial inequality and precarity, compassion praise, and closing endorsement. Keval’s answers were excluded from Arday’s claims.

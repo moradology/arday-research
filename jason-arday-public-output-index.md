@@ -83,6 +83,8 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 ## 3. Interviews, radio, and podcasts
 
+- [BBC Newsnight: “Black applicants least likely to be offered PhD places”](sources/2020-11-17-bbc-newsnight-black-phd-applicants.md) — 17 November 2020; reported FOI analysis and Arday interview on doctoral access, funding, selection, and structural inequality. [Page audit](sources/2026-08-09-bbc-newsnight-phd-offers-audit.md)
+
 - [Sage *Social Science Space* interview with Harshad Keval](sources/2025-04-09-social-science-space-harshad-keval-interview.md) — 9 April 2025; Arday interviews Keval about *Whiteness, Racial Trauma, and the University*. [Arday-side transcript audit](sources/2026-08-09-social-science-space-interview-audit.md)
 
 - [The Cambridge Student interview](sources/2024-12-01-cambridge-student-interview.md) — revised interview on institutional racism, Cambridge’s slavery legacies, accessibility, neurodivergence, belonging, Simon Woolley’s mentorship, and outreach. [Page/version audit](sources/2026-08-09-cambridge-student-interview-page-audit.md)
