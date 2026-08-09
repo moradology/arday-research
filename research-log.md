@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1107/C-1322–C-1327: UCU BME doctoral-student report audit
+
+The 13-page public mirror of Arday’s June 2017 UCU report was extracted with layout preservation and visually checked at the executive summary, methods/sample, theme, conclusion, and reference pages. The audit binds the disclosed 20-student/16-university qualitative design to its sample table, reported career appetite, mentoring/isolation/typecasting/teaching themes, recommendations, and explicit non-generalisability statement. It also preserves the 13-page mirror versus 11-page UCU-hosted manifestation boundary and records the absence of raw questionnaires, transcripts, coding, ethics, recruitment, and participant-level data. Decision: retain the existing report/DOI family and add no duplicate report node.
+
 ## 2026-08-09 — SRC-1106/C-1316–C-1321: *Revista História Hoje* interview page audit
 
 The complete 17-page CC BY journal PDF was extracted with layout preservation and checked against rendered pages across the opening biography, family/charity narrative, Sandro passage, later public-position discussion, and closing notes. The audit maps the interview’s first-person family and childhood material, charity narrative, praxis/community argument, strategic-composure metaphor, curriculum/meritocracy positions, and named intellectual influences. It also separates interviewer framing from Arday’s answers and records the Portuguese translation/editorial adaptation boundary. Decision: retain the existing DOI family as canonical and add no duplicate interview or biography claims; new claims are limited to distinct public positions and source structure.
