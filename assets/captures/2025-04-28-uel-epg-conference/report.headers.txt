@@ -5,7 +5,7 @@ content-length: 449
 cache-control: max-age=60
 expires: Sat, 08 Aug 2026 15:17:02 GMT
 date: Sat, 08 Aug 2026 15:16:02 GMT
-set-cookie: X-Akamai-Geo=US
+set-cookie: X-Akamai-Geo=[REDACTED]
 server-timing: cdn-cache; desc=HIT
 server-timing: edge; dur=1
 x-akamai-geo: US

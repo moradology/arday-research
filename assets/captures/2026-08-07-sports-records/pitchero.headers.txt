@@ -2,7 +2,7 @@ HTTP/2 200
 content-type: text/html; charset=utf-8
 content-length: 333284
 date: Fri, 07 Aug 2026 02:19:10 GMT
-set-cookie: connect.sid=s%3AsdpXUNHOKO9poc8ytvyT7hNUlHAd3B6a.KkUBwBvn1JH4QQmt7bsbfb9ct%2BYL8W7OJMhfBsnTKpc; Path=/; HttpOnly
+set-cookie: connect.sid=[REDACTED]; Path=/; HttpOnly
 x-frame-options: deny
 content-security-policy: frame-ancestors www.pitchero.com
 cache-control: no-cache, private

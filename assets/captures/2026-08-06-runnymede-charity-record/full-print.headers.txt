@@ -1,14 +1,14 @@
 HTTP/2 200 
 date: Fri, 07 Aug 2026 04:47:30 GMT
 content-type: text/html;charset=UTF-8
-set-cookie: ApplicationGatewayAffinityCORS=66e54c38dee9829e2951732ceed843a9; Path=/; SameSite=None; Secure
-set-cookie: ApplicationGatewayAffinity=66e54c38dee9829e2951732ceed843a9; Path=/
+set-cookie: ApplicationGatewayAffinityCORS=[REDACTED]; Path=/; SameSite=None; Secure
+set-cookie: ApplicationGatewayAffinity=[REDACTED]; Path=/
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: JSESSIONID=3AAF0756143DABBBEF4C9B128825DE31.liferay-6c9754bbb4-9fd5t; Path=/; HttpOnly
-set-cookie: GUEST_LANGUAGE_ID=en_GB; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:28 GMT; Path=/; HttpOnly
+set-cookie: JSESSIONID=[REDACTED]; Path=/; HttpOnly
+set-cookie: GUEST_LANGUAGE_ID=[REDACTED]; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:28 GMT; Path=/; HttpOnly
 expires: Thu, 01 Jan 1970 00:00:00 GMT
 cache-control: private, no-cache, no-store, must-revalidate
 pragma: no-cache
-set-cookie: COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:28 GMT; Path=/; HttpOnly
+set-cookie: COOKIE_SUPPORT=[REDACTED]; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:28 GMT; Path=/; HttpOnly
 

@@ -6,9 +6,9 @@ cache-control: no-cache, no-store
 x-content-type-options: nosniff
 expires: -1
 pragma: no-cache
-set-cookie: shell#lang=en; path=/; secure; SameSite=None
-set-cookie: ASP.NET_SessionId=ri03ipbtitmajrohsqajfacl; path=/; secure; HttpOnly; SameSite=None
-set-cookie: SC_ANALYTICS_GLOBAL_COOKIE=a6ff32b657b84662a6534add9a2e9374|False; expires=Tue, 05-Aug-2036 12:54:14 GMT; path=/; secure; HttpOnly; SameSite=None
+set-cookie: shell#lang=[REDACTED]; path=/; secure; SameSite=None
+set-cookie: ASP.NET_SessionId=[REDACTED]; path=/; secure; HttpOnly; SameSite=None
+set-cookie: SC_ANALYTICS_GLOBAL_COOKIE=[REDACTED]; expires=Tue, 05-Aug-2036 12:54:14 GMT; path=/; secure; HttpOnly; SameSite=None
 vary: Accept-Encoding
 x-powered-by: ASP.NET
 cf-cache-status: DYNAMIC

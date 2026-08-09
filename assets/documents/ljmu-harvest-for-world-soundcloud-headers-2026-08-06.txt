@@ -1,7 +1,7 @@
 HTTP/2 200 
 content-type: text/html
 content-length: 77312
-set-cookie: sc_tracking_anonymous_id=%22164ead8f-75af-4013-9c69-58826cdf617e%22; path=/; expires=Sat, 05 Aug 2028 17:11:25 GMT; domain=.soundcloud.com
+set-cookie: sc_tracking_anonymous_id=[REDACTED]; path=/; expires=Sat, 05 Aug 2028 17:11:25 GMT; domain=.soundcloud.com
 x-pants: distant-towel
 x-xss-protection: 1; mode=block
 cache-control: private, max-age=0, no-cache, no-store

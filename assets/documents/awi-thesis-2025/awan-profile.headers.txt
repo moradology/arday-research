@@ -2,8 +2,8 @@ HTTP/1.1 200 OK
 Date: Fri, 07 Aug 2026 09:43:01 GMT
 Server: Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.5
 Cache-Control: no-cache, private
-Set-Cookie: XSRF-TOKEN=eyJpdiI6InFQb0dRRkZkd212Y1pJRmdRRTVlZ2c9PSIsInZhbHVlIjoia0tzVXR3RGdiK3dWck04Z1pPRStsS0hWRjVoV091bGIwQkNqcVVEMlhHMFdjUm1uSlpQU3M2WjdjME55dUVxODU1c1pZY01TMG9VOUdnckF6T0JCYkFQcFVxZWhxS20vbExyY1JubE9heG41VDN5TzFNeU5LZmdEdWNhaExyYmgiLCJtYWMiOiI5ZDZkZWNjZDBkYjZiZWZkOWVhYzg3N2RhZWM5ZGNhNDA1NzA2MjZkY2MzYzhmMTNhOWI1MDkzMzljOGUwM2M4IiwidGFnIjoiIn0%3D; expires=Fri, 07 Aug 2026 11:43:01 GMT; Max-Age=7200; path=/; secure; samesite=lax
-Set-Cookie: oupps_open_university_people_profile_system_session=eyJpdiI6IkI0QTNhdjkzSlRyMG0rb2gzVGVaU1E9PSIsInZhbHVlIjoiWDN2aHZlNVFWMHFlU3lKbWJvVjlaNUZLc3V4UEFKZnUwUW5zMks4SG14N0NmeXdBU2g4eVhPNlM5bHd0NEtKT1paclFEM3drUEZmRkJML1BGZjA2TWRSVUg0bnZDbWxBU2Z4K2lWOXFVTDArczladmRXMDdnbHFxdkdVUm1LdnoiLCJtYWMiOiI5ZDc1ODczMDU2Yjc5ZDI3OTQ1OWUwZjViMzVjMWQzZjM2NWI4NjZmZDM4OTA3OTU3MzIwNjc0NzA2ZDYzNThkIiwidGFnIjoiIn0%3D; expires=Fri, 07 Aug 2026 11:43:01 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Set-Cookie: XSRF-TOKEN=[REDACTED]; expires=Fri, 07 Aug 2026 11:43:01 GMT; Max-Age=7200; path=/; secure; samesite=lax
+Set-Cookie: oupps_open_university_people_profile_system_session=[REDACTED]; expires=Fri, 07 Aug 2026 11:43:01 GMT; Max-Age=7200; path=/; httponly; samesite=lax
 Transfer-Encoding: chunked
 Content-Type: text/html; charset=UTF-8
 Strict-Transport-Security: max-age=157680000

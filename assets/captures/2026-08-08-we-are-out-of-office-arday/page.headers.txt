@@ -24,7 +24,7 @@ x-served-by: cache-chi-kigq8000021-CHI
 x-cache-hits: 0
 x-timer: S1786170049.860194,VS0,VE188
 vary: accept-encoding
-set-cookie: geo=US; domain=apple.com
+set-cookie: geo=[REDACTED]; domain=apple.com
 x-cache: MISS fsly
 content-length: 164215
 

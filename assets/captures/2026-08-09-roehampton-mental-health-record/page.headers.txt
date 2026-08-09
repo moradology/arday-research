@@ -4,7 +4,7 @@ location: https://pure.roehampton.ac.uk/portal/en/publications/understanding-men
 server: cloudflare
 strict-transport-security: max-age=2592000; preload
 vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
-set-cookie: __cf_bm=sDr6idw6D4vi7kSEhD82J8vB7XRjR_NKGdqFOXsL7oA-1786234723.6660182-1.0.1.1-p8gaF032RZGsVXiczhs0NLzDKUUtkMD6VlYjIGZy6pE1h9wqxPb5IuN9dpcr_GNn4rbMz63xH1pl0RRV4Smk8UqoDemu8tskfGe7CxNsPYjG6B3DxNXdzwQTMJf18Ege; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Sun, 09 Aug 2026 00:48:43 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Sun, 09 Aug 2026 00:48:43 GMT
 cf-cache-status: BYPASS
 cf-ray: a28295ceedd2f865-ORD
 alt-svc: h3=":443"; ma=86400
@@ -25,7 +25,7 @@ vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 x-product: Pure Portal
-set-cookie: __cf_bm=E.jIO00blo0gI8uPY.lcuIbTmD0lKDjrzPHv5Tuiono-1786234723.9807427-1.0.1.1-isEAHSNqFXq89BVBhlVwgUDGv3TRubbWSzpuafDFc14UdDKDcky83Tn6KEsZE6ia44.UsQB.uBqou8qWvYivUr16E04qga9KulN1cWl76N8N8U9..IIo6GA6Q3ueSE2Y; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Sun, 09 Aug 2026 00:48:44 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Sun, 09 Aug 2026 00:48:44 GMT
 cf-cache-status: EXPIRED
 cf-ray: a28295d0eb5af865-ORD
 alt-svc: h3=":443"; ma=86400

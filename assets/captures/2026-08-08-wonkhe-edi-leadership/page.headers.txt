@@ -9,5 +9,5 @@ content-type: text/html; charset=UTF-8
 date: Sat, 08 Aug 2026 09:17:24 GMT
 server: Apache
 vary: Accept-Encoding
-set-cookie: WOADC=SRV01|anb0K|anb0K; path=/; HttpOnly; Secure
+set-cookie: WOADC=[REDACTED]; path=/; HttpOnly; Secure
 

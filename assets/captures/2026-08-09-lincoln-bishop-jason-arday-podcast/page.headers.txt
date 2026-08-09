@@ -10,7 +10,7 @@ Link: <https://www.lincolnbishop.ac.uk/podcast-social-justice>; rel="canonical"
 Expires: 0
 Pragma: no-cache
 Cache-Control: no-cache, no-store, must-revalidate
-Set-Cookie: CRAFT_CSRF_TOKEN=8ae6c5b2379fc902f902cf6f28aca6cd7c120b040cd0d3100606434fd46a84eba%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22_qd2njvdWVlCPjLOBE-SiFdmAR26_ET3ElGfxFQn%22%3B%7D; path=/; secure; HttpOnly
+Set-Cookie: CRAFT_CSRF_TOKEN=[REDACTED]; path=/; secure; HttpOnly
 Vary: Accept-Encoding
 X-Content-Type-Options: nosniff
 X-Frame-Options: sameorigin

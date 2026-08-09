@@ -23,7 +23,7 @@ x-app-server: wwwb-app247-dc8
 x-ts: 200
 x-tr: 3704
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=10
-set-cookie: wb-p-SERVER=wwwb-app247; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 x-location: All
 x-as: 14155
 x-rl: 0

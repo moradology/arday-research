@@ -22,6 +22,6 @@ content-length: 15496
 date: Sat, 08 Aug 2026 03:23:14 GMT
 x-cache: TCP_MISS from a23-208-24-102.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (-)
 x-cache-remote: TCP_REFRESH_MISS from a23-208-24-110.deploy.akamaitechnologies.com (AkamaiGHost/22.6.0-69e8d3de005aa06523468d064115a58f) (S)
-set-cookie: geo=US; domain=.apple.com
+set-cookie: geo=[REDACTED]; domain=.apple.com
 alt-svc: h3=":443"; ma=93600
 

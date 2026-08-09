@@ -7,13 +7,13 @@ content-type: text/html; charset=utf-8
 content-length: 66012
 x-download-options: noopen
 cf-cache-status: DYNAMIC
-set-cookie: localization=GB; path=/; expires=Sun, 08 Aug 2027 11:21:52 GMT; SameSite=Lax
-set-cookie: cart_currency=GBP; path=/; expires=Sat, 22 Aug 2026 11:21:52 GMT; SameSite=Lax
-set-cookie: _shopify_y=0d50d2b1-9568-4b2c-8d22-1d5ce29f4a9c; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 17:21:52 GMT; SameSite=Lax
-set-cookie: _shopify_s=7b1bc52f-ac81-4df3-a68b-9bcc0cefabfd; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 11:51:52 GMT; SameSite=Lax
-set-cookie: _shopify_essential=:AZ_hG5_DAAEAkT1Spnr9SVO5YS60OhsAK6D-qP_Tpwt_UwkcKAypyn30qUqI9cWIUYQSswWGO9hER3MRgO3CVFxRsVjfY4Ni1VnrfUoWZzBbS7jLYOruJMXADzJLFlrRAPJUgSdhGNEH5TT9DLJf59cnsUowSJxGV0LNsbIPQiLp_3AfHws48yHLe3WWuDyCs9CZA6DRwU6BZFZxygaN4c3f2SYoW5e9vV_LF56q9efKyMi6ivg-9Qtnp2jfvdO2W4O4CbEBEbNOpGy_Xr1YVxvPp0GiDK9M4TtpYqf7-V5uX-bkgfw3hJD9B8n2fGauNfAdu17sLDE8KdWlhoEm1ATh90WlRs_OCwVHNErk-Njg7C_TpwQDX8SpQ6iCiLYV2qXSFqS_lHE_OGsS3X5rT8ZYTyg4IsQmNgN22TG94lkXTwNHsa19bQLvAoCEuOZiNVsZ24IQRXeB-gEvOyj6bIRGYzjqANU1N84ftBfFpj5PAEa8wH2dYM_LMClzLYEcZBtZuT31mt3MT3bLM9knG-5QfPlsXxt4cm8Z9kIOqQIvwFKDK7CeKA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
-set-cookie: _shopify_analytics=:AZ_hG6FwAAEA6V2HHxfSER9N8W91ftsiCGLtMjJtisSB0uiA9VcZnIJ3b8ufOgmZElr97VklnFFfRl2r6K2DN5Rg7wmbHvPPW51oxi_ADEUvHwZhq2p55qgixxs1oR-09wctEahDeSG3SA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
-set-cookie: _shopify_marketing=:AZ_hG6FwAAEAQuBHHOyVbxjLZeo0equ7yerw2YSk-oGNIEYIKgfJEoJ2D_ulxJ_4Fw0q98vkBRRg0jBopkFKpMKVs3SIFZo2mQk-IRBXnAQUzAdLuyTxCi3ihLLMoVmhdQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: localization=[REDACTED]; path=/; expires=Sun, 08 Aug 2027 11:21:52 GMT; SameSite=Lax
+set-cookie: cart_currency=[REDACTED]; path=/; expires=Sat, 22 Aug 2026 11:21:52 GMT; SameSite=Lax
+set-cookie: _shopify_y=[REDACTED]; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 17:21:52 GMT; SameSite=Lax
+set-cookie: _shopify_s=[REDACTED]; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 11:51:52 GMT; SameSite=Lax
+set-cookie: _shopify_essential=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
 link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://storefront-agent-server.shopify.ai>; rel="preconnect", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/fancybox.css?v=30466120580444283401714067187>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/styles.css?v=5821402451730318981759333439>; as="style"; rel="preload", <//www.harbourbookshop.co.uk/cdn/shop/t/114/assets/base.css?v=21866005406391207421715105650>; as="style"; rel="preload", <https://www.harbourbookshop.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as="style"; rel="preload"; crossorigin
 etag: "page_cache:17016275:IndexController:9ad4da4fa5ffcb8e24944e5af9c290ba"
 content-encoding: br

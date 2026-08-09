@@ -16,6 +16,6 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a26ea6125b89b979"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=6y4S8gx2QaIt31Qbhz1I.ZXnHEiJTRtuPsPDRNqk0.o-1786025674.616108-1.0.1.1-3EUl5fi_s4VLDMh1K4SQdDSjFj9wQk.fyCa0cIrhc227nzu_zdWtTnnhKRS8mQW688mqUguGTWKgamjSu5.q27BScDU_HF2y2JeImjSSF04ZTmYTbiYQth6W_jGsM5qn; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Thu, 06 Aug 2026 14:44:34 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Thu, 06 Aug 2026 14:44:34 GMT
 cf-ray: a26ea6125b89b979-OMA
 

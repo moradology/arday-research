@@ -12,8 +12,8 @@ x-content-type-options: nosniff
 x-frame-options: DENY
 x-xss-protection: 1; mode=block
 cf-cache-status: DYNAMIC
-set-cookie: JSESSIONID=19454F7A1534834398E7FF3507B1443E; Path=/ws; Secure; HttpOnly; SameSite=None
-set-cookie: __cf_bm=Jag5lMEmQ3fweOjic3b8I9c2gYIv2xLrTPOEuPQy.Qw-1786189359.3797674-1.0.1.1-PZWIRxf0lhE20zSjCi_fwscYOqltGrGCHBxXZoRe4fAhzte3sL0fsfCEBNku30kmmkeQGHNu4pXYCTd.6G1AlX9_CN6w7lczaa0RVagVAGorNx6nd_R2aEtChBJ4I6tT; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk; Expires=Sat, 08 Aug 2026 12:12:39 GMT
-set-cookie: _cfuvid=pAORy0fhgl2Yv7rHkezVevlRiVir_nkvgSdeYb9n_jM-1786189359.3797674-1.0.1.1-655INaHNLQkGFmV66D70nBxsRv5UcZqsSAfTV8bvxdw; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk
+set-cookie: JSESSIONID=[REDACTED]; Path=/ws; Secure; HttpOnly; SameSite=None
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk; Expires=Sat, 08 Aug 2026 12:12:39 GMT
+set-cookie: _cfuvid=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pureadmin.qub.ac.uk
 cf-ray: a27e424818b899e6-OMA
 alt-svc: h3=":443"; ma=86400

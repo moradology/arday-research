@@ -13,7 +13,7 @@ vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 x-product: Pure Portal
-set-cookie: __cf_bm=mHvgyI0rvA38kYa7pYoEb6yN8V8scq0sCtK5o_JSW_M-1786228211.7964706-1.0.1.1-_3C4wfulgU79kFxAAr8gksJSb_QlwAEcDu3tJem_Nfh_gJMzI08PJTnxsQjsT7EXFM1cwPGrKKji8XcCQwFUgEoP1ajC_lsWmidALCG_7PK_B9SwkDgS__.vvDH0WT02; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.qub.ac.uk; Expires=Sat, 08 Aug 2026 23:00:12 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.qub.ac.uk; Expires=Sat, 08 Aug 2026 23:00:12 GMT
 cf-cache-status: BYPASS
 content-encoding: br
 cf-ray: a281f6d3b8590043-ORD

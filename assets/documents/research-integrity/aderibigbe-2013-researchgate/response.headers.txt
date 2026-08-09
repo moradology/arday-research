@@ -7,7 +7,7 @@ referrer-policy: same-origin
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 vary: accept-encoding
-set-cookie: __cf_bm=rh.OD556NaN1vGxMXhywyz.uvBMF0ed.gdYtI6oT67k-1786113673.8752003-1.0.1.1-C.fkatHTPfn.sUoigTKBYcG7lC0I3GjC6vz0YQPv2WoAsgEyc2OwnRh7pykwingC6F7njvQK8UbTODuTsSDtT0IGIp0wpNts61aGPLVZuEcvZjKm52opmfTtKAA8pHm6; HttpOnly; SameSite=None; Secure; Path=/; Domain=researchgate.net; Expires=Fri, 07 Aug 2026 15:11:13 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=researchgate.net; Expires=Fri, 07 Aug 2026 15:11:13 GMT
 cross-origin-opener-policy: same-origin
 content-encoding: zstd
 server: cloudflare

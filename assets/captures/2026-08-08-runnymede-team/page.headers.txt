@@ -1,7 +1,7 @@
 HTTP/2 200 
 date: Sat, 08 Aug 2026 05:12:33 GMT
 content-type: text/html; charset=utf-8
-set-cookie: _cfuvid=qRSohGmOjaci4WRvWTumAm3IE9BrG0QOPP4Kc7e4dug-1786165952.4389496-1.0.1.1-bvzGIkOcLx527pNQcR3coosm3qT7HsHcNRBp10BXqz4; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.runnymedetrust.org
+set-cookie: _cfuvid=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.runnymedetrust.org
 cf-ray: a27c06d2bac0054e-OMA
 cf-cache-status: MISS
 last-modified: Sat, 08 Aug 2026 05:12:33 GMT

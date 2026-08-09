@@ -2,15 +2,15 @@ HTTP/2 200
 date: Fri, 07 Aug 2026 04:47:43 GMT
 content-type: application/pdf;charset=UTF-8
 content-length: 16762940
-set-cookie: ApplicationGatewayAffinityCORS=907e3d58bf01e2c0be1b2349eb57affd; Path=/; SameSite=None; Secure
-set-cookie: ApplicationGatewayAffinity=907e3d58bf01e2c0be1b2349eb57affd; Path=/
+set-cookie: ApplicationGatewayAffinityCORS=[REDACTED]; Path=/; SameSite=None; Secure
+set-cookie: ApplicationGatewayAffinity=[REDACTED]; Path=/
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: JSESSIONID=C3E26D26340799B7F191CF6E9BA9AF55.liferay-6c9754bbb4-tv5q7; Path=/; HttpOnly
-set-cookie: GUEST_LANGUAGE_ID=en_GB; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:41 GMT; Path=/; HttpOnly
+set-cookie: JSESSIONID=[REDACTED]; Path=/; HttpOnly
+set-cookie: GUEST_LANGUAGE_ID=[REDACTED]; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:41 GMT; Path=/; HttpOnly
 expires: Thu, 01 Jan 1970 00:00:00 GMT
 cache-control: private
 pragma: no-cache
-set-cookie: COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:41 GMT; Path=/; HttpOnly
+set-cookie: COOKIE_SUPPORT=[REDACTED]; Max-Age=31536000; Expires=Sat, 07 Aug 2027 04:47:41 GMT; Path=/; HttpOnly
 content-disposition: inline; filename="report.pdf"
 

@@ -4,7 +4,7 @@ content-type: text/html; charset=utf-8
 expires: Wed, 17 Aug 2005 00:00:00 GMT
 cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 pragma: no-cache
-set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=87363cb79186709ec8a8e1a006827388; path=/; secure; HttpOnly
+set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=[REDACTED]; path=/; secure; HttpOnly
 strict-transport-security: max-age=63072000; includeSubDomains
 access-control-allow-origin: https://southbankcolleges.ac.uk
 x-content-type-options: nosniff
@@ -19,8 +19,8 @@ content-type: application/pdf;charset=utf-8
 cache-control: no-store
 content-disposition: inline;filename*=UTF-8''SBC%20Board%20Minutes%20-%2020%20November%202024%20%28APPROVED%20%26%20PUBLISHED%29.pdf
 server-timing: tot;desc="Total";dur=437
-set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=2721d315336687de176b4aa248487b5f; path=/; secure; HttpOnly
-set-cookie: referrer_site_locked=deleted; max-age=0; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/
+set-cookie: 8a3e0c88e55d7f35692cab7acfbdeab0=[REDACTED]; path=/; secure; HttpOnly
+set-cookie: referrer_site_locked=[REDACTED]; max-age=0; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/
 strict-transport-security: max-age=63072000; includeSubDomains
 access-control-allow-origin: https://southbankcolleges.ac.uk
 x-content-type-options: nosniff

@@ -4,12 +4,12 @@ content-type: text/javascript; charset=utf-8
 content-length: 1309
 x-download-options: noopen
 cf-cache-status: DYNAMIC
-set-cookie: cart_currency=GBP; path=/; expires=Sat, 22 Aug 2026 03:35:15 GMT; SameSite=Lax
-set-cookie: _shopify_y=b0600327-b4d2-4e1a-a323-9c25fd5bf5c1; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 09:35:15 GMT; SameSite=Lax
-set-cookie: _shopify_s=5fb3834a-6eeb-4b16-9e3a-e294568af9d1; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 04:05:15 GMT; SameSite=Lax
-set-cookie: _shopify_essential=:AZ_fcG-3AAEAaY9HTP7KmbnSCoCbh_Co-ZwLBWUWaaqnvKNk6Z7JNgkq4oWE__kziEMdXD9kptA79pqzwpDRfsbtfb6mZx3C329kamfCMHVoxqdUWGUGR67OE_aX87j0fmbdGnnRcBqRn-BdVJ-EpmlKCwy4D33Be8vQi-6ZNoMPE946l7cVYrt9tPcxobhupTQtoRmlLjRCF-7TXHHGz79S7YXyomCzwz6gnH-JQ7rptiLcOUhYGnB61bq9sCp3FmHTwuHxabuvBvkpi6933KB3jq2xAxkm7Ia9C-jr-HyjSBzg_QkBAOjxIqVOkD8vuMgHcU4BCs89-uYCyGhHmLyU0Olv3M2iQxlzJRjW2zh5zkIllUXF6__7264839YspTOsGVjg_5JnZzAawB6fRoBW_rKLlkOyzsyVN7c8C_-qsEbFd6yN1efIF9EEXDtK9W9op_pxJubE2HKQGris9ha_k-WxVOa2q-uxFNm4f_xneS8u3GZFSOq04q97hdQllanGBBeTUEk:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
-set-cookie: _shopify_analytics=:AZ_fcG_TAAEAnibh9YwPr_XVQabltZ7v6ZYFPyUE_pSnJFNYhz4BjcznOHTZHOQQcXe1gPvrtWYN0eRm0Zf0Zti45jTVH6tzBwIiyCeczgUeruSnmeb-jpukkau5VvydDg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
-set-cookie: _shopify_marketing=:AZ_fcG_TAAEA0DUAaNkiIgBcip3cfucuASEoN36V6EolWberVKTyhA3KXSDqvwM1_nFCDTdooKWKsKo6klUIiddoJlSy5G8VCS7z3wCweVq6bT9DoZYLk40lKGppM4v12w:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: cart_currency=[REDACTED]; path=/; expires=Sat, 22 Aug 2026 03:35:15 GMT; SameSite=Lax
+set-cookie: _shopify_y=[REDACTED]; domain=harbourbookshop.co.uk; path=/; expires=Sun, 08 Aug 2027 09:35:15 GMT; SameSite=Lax
+set-cookie: _shopify_s=[REDACTED]; domain=harbourbookshop.co.uk; path=/; expires=Sat, 08 Aug 2026 04:05:15 GMT; SameSite=Lax
+set-cookie: _shopify_essential=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_marketing=[REDACTED]; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
 etag: "page_cache:17016275:ProductDetailsController:f97baa9f7935b12a46662fec45e29f0e"
 content-encoding: br
 nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}

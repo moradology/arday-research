@@ -17,7 +17,7 @@ server-timing: chlray;desc="a271701cdfc7c744"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=15552000; includeSubDomains; preload
-set-cookie: __cf_bm=_LuO.Lu06MO_Bnl9L5HW2fl3j3szTRz_C459cdfpNPg-1786054921.739816-1.0.1.1-PwCGILY.I8LQzsY0z6yN8m19TG7xS3SJOLZzM4ex7uIKSu7tMpF0MxrTU6ma1A7NVw00u7OTfGJYQsdhVkrDlN2iQ1n0on_hoXCzii4bRTfiUMF6HCIpKIwSXzbOjh2y; HttpOnly; SameSite=None; Secure; Path=/; Domain=open.edu; Expires=Thu, 06 Aug 2026 22:52:01 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=open.edu; Expires=Thu, 06 Aug 2026 22:52:01 GMT
 expect-ct: max-age=86400, enforce
 x-xss-protection: 1; mode=block
 cf-ray: a271701cdfc7c744-OMA

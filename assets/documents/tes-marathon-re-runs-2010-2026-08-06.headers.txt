@@ -1,6 +1,6 @@
 HTTP/2 200 
 content-type: text/html; charset=UTF-8
-set-cookie: SSESS6a207cf063c42ff9948ec180cec61f1c=Y2LSUBLADrgaRDMbh-KrzaHfnTmFuxYHhhYmsGkPMmI; expires=Sat, 29-Aug-2026 20:05:58 GMT; Max-Age=2000000; path=/; domain=.www.tes.com; secure; HttpOnly
+set-cookie: SSESS6a207cf063c42ff9948ec180cec61f1c=[REDACTED]; expires=Sat, 29-Aug-2026 20:05:58 GMT; Max-Age=2000000; path=/; domain=.www.tes.com; secure; HttpOnly
 link: <https://www.tes.com/magazine/archive/marathon-re-runs?amp> rel="amphtml"
 x-ua-compatible: IE=edge
 content-language: en
@@ -17,13 +17,13 @@ permissions-policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=()
 x-permitted-cross-domain-policies: none
 accept-ranges: bytes
 date: Thu, 06 Aug 2026 16:32:38 GMT
-set-cookie: geoCountry=US; Domain=.tes.com; Path=/; Secure
-set-cookie: siteCountry=US; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
-set-cookie: siteInternational=US; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
-set-cookie: geoCurrency=USD; Path=/; Secure
-set-cookie: siteCurrency=USD; Max-Age=31556952; Path=/; Secure
-set-cookie: csrf=94079f61aa61a2a7c0dbbc500a908be4; Domain=.tes.com; Path=/; Secure
-set-cookie: __tese=64b1b9be-0dc8-4088-a08b-1651c0c3d510; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+set-cookie: geoCountry=[REDACTED]; Domain=.tes.com; Path=/; Secure
+set-cookie: siteCountry=[REDACTED]; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+set-cookie: siteInternational=[REDACTED]; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
+set-cookie: geoCurrency=[REDACTED]; Path=/; Secure
+set-cookie: siteCurrency=[REDACTED]; Max-Age=31556952; Path=/; Secure
+set-cookie: csrf=[REDACTED]; Domain=.tes.com; Path=/; Secure
+set-cookie: __tese=[REDACTED]; Max-Age=31556952; Domain=.tes.com; Path=/; Secure
 cache-control: max-age=3600, public, s-maxage=3600, stale-if-error=43200, stale-while-revalidate=3600, no-transform
 x-served-by: cache-lhr-egwu1540060-LHR, cache-iad-kiad7000151-IAD
 x-cache: MISS, MISS

@@ -5,7 +5,7 @@ x-zm-trackingid: v=2.0;clid=aw1;rid=WEB_50721b8d2499fca8e18556f20a4e3790
 x-robots-tag: noindex, nofollow, noarchive
 x-content-type-options: nosniff
 content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: zoomzccprc: data: blob: 'self'; object-src 'none'; base-uri 'none';script-src 'self' 'wasm-unsafe-eval' 'strict-dynamic' 'nonce-XlZfUJrQQUSoyod_vpx_7A' blob: https:;
-set-cookie: _zm_feature=; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Secure; HttpOnly
+set-cookie: _zm_feature=[REDACTED]; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Secure; HttpOnly
 x-zm-zoneid: OH1
 content-language: en-US
 strict-transport-security: max-age=31536000; includeSubDomains
@@ -13,22 +13,22 @@ x-xss-protection: 1; mode=block
 referrer-policy: strict-origin-when-cross-origin
 vary: accept-encoding
 cf-cache-status: DYNAMIC
-set-cookie: zm_aid=; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: zm_haid=; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: zm_tmaid=; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: zm_htmaid=; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_ssid=aw1_c_UJng_1VZTQ-yKt0yqYDflQ; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: cred=FE0F683025489C6634EE40F561D1388F; Path=/; Secure; HttpOnly
-set-cookie: _zm_ctaid=iVtfeM8oTpeunSf2-xB-0Q.1786040184727.bd8cb9d96ce6eaf9b8e985211013ef61; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_chtaid=162; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_mtk_guid=8b3eb523f1a94c93993d4bba8165626b; Expires=Sat, 05 Aug 2028 18:16:24 GMT; Max-Age=63072000; Domain=zoom.us; Path=/; Secure
-set-cookie: _zm_ctaid=JP45x0tqRyqd8HjSgiLsyA.1786040184744.f7415e80b6123044ab1c601b76b2049e; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_chtaid=496; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_mtk_guid=1d1cbd1eba32457b9037926e71cd5cc8; Expires=Sat, 05 Aug 2028 18:16:24 GMT; Max-Age=63072000; Domain=zoom.us; Path=/; Secure
-set-cookie: _zm_csp_script_nonce=XlZfUJrQQUSoyod_vpx_7A; Domain=zoom.us; Path=/; Secure; HttpOnly
-set-cookie: _zm_currency=USD; Expires=Fri, 07 Aug 2026 18:16:24 GMT; Max-Age=86400; Domain=zoom.us; Path=/; Secure
-set-cookie: _zm_visitor_guid=3eba6736c268407c9fd256e816a882d5; Expires=Fri, 06 Aug 2027 18:16:24 GMT; Max-Age=31536000; Domain=zoom.us; Path=/; Secure
-set-cookie: __cf_bm=5TH3DPeWF_7tizKHkjkGN7sAyA3bdV_Rym7i4POpkGQ-1786040184-1.0.1.1-IX4tj5JFjYu4Vs.yvMBB7t3LE1wMeGf8zL1rex7roTtSnLLbOK74D1WlzE6xAgimywm0meJrjvbl_WycdJD6cg9CU1Ib881bdH139qhFjiM; path=/; expires=Thu, 06-Aug-26 18:46:24 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
+set-cookie: zm_aid=[REDACTED]; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_haid=[REDACTED]; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_tmaid=[REDACTED]; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_htmaid=[REDACTED]; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_ssid=[REDACTED]; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: cred=[REDACTED]; Path=/; Secure; HttpOnly
+set-cookie: _zm_ctaid=[REDACTED]; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_chtaid=[REDACTED]; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_mtk_guid=[REDACTED]; Expires=Sat, 05 Aug 2028 18:16:24 GMT; Max-Age=63072000; Domain=zoom.us; Path=/; Secure
+set-cookie: _zm_ctaid=[REDACTED]; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_chtaid=[REDACTED]; Expires=Thu, 06 Aug 2026 20:16:24 GMT; Max-Age=7200; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_mtk_guid=[REDACTED]; Expires=Sat, 05 Aug 2028 18:16:24 GMT; Max-Age=63072000; Domain=zoom.us; Path=/; Secure
+set-cookie: _zm_csp_script_nonce=[REDACTED]; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_currency=[REDACTED]; Expires=Fri, 07 Aug 2026 18:16:24 GMT; Max-Age=86400; Domain=zoom.us; Path=/; Secure
+set-cookie: _zm_visitor_guid=[REDACTED]; Expires=Fri, 06 Aug 2027 18:16:24 GMT; Max-Age=31536000; Domain=zoom.us; Path=/; Secure
+set-cookie: __cf_bm=[REDACTED]; path=/; expires=Thu, 06-Aug-26 18:46:24 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
 report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=CtLFZkkrZ8myy0mFwHrZnKyre8oaqekWCvP6ZjCe45aUVrreQQNRd7Xlhvumj%2F79eE5oFj8suoTUC2g8IKCiiRI2tNS8fkx%2FZT28c%2Fmnt5atR24zQzaqvYfdkN9TyMFj%2F%2Fimqu7Tw%2BAH0U8%3D"}],"group":"cf-nel","max_age":604800}
 nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
 server: cloudflare

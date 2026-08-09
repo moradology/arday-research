@@ -46,12 +46,12 @@ x-served-by: cache-dfw-kdfw8210092-DFW
 x-cache-hits: 0
 x-timer: S1786245143.484431,VS0,VE1584
 vary: Accept-Encoding, X-FTR-kiosq-server-side-user-status, X-FTR-kiosq-access, X-Country-Code, X-FTR-ABTest-Group
-set-cookie: ABseed=85; Path=/; Expires=Tue, 08 Sep 2026 03:12:25 +0000; httpOnly
-set-cookie: FTR_Country_Code=US; path=/; domain=theweek.com
+set-cookie: ABseed=[REDACTED]; Path=/; Expires=Tue, 08 Sep 2026 03:12:25 +0000; httpOnly
+set-cookie: FTR_Country_Code=[REDACTED]; path=/; domain=theweek.com
 x-country-code: US
 x-country-code-real: US
 strict-transport-security: max-age=31536000; includeSubDomains
-set-cookie: FTR_Cache_Status=MISS; path=/; domain=theweek.com
+set-cookie: FTR_Cache_Status=[REDACTED]; path=/; domain=theweek.com
 x-cache: MISS
 x-kiosq-info: u=anonymous
 cache-control: no-store,private

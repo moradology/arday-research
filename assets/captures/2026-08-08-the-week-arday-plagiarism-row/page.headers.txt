@@ -46,12 +46,12 @@ x-served-by: cache-mci680048-MCI
 x-cache-hits: 0
 x-timer: S1786189681.036459,VS0,VE1718
 vary: Accept-Encoding, X-FTR-kiosq-server-side-user-status, X-FTR-kiosq-access, X-Country-Code, X-FTR-ABTest-Group
-set-cookie: ABseed=36; Path=/; Expires=Mon, 07 Sep 2026 11:48:02 +0000; httpOnly
-set-cookie: FTR_Country_Code=US; path=/; domain=theweek.com
+set-cookie: ABseed=[REDACTED]; Path=/; Expires=Mon, 07 Sep 2026 11:48:02 +0000; httpOnly
+set-cookie: FTR_Country_Code=[REDACTED]; path=/; domain=theweek.com
 x-country-code: US
 x-country-code-real: US
 strict-transport-security: max-age=31536000; includeSubDomains
-set-cookie: FTR_Cache_Status=MISS; path=/; domain=theweek.com
+set-cookie: FTR_Cache_Status=[REDACTED]; path=/; domain=theweek.com
 x-cache: MISS
 x-kiosq-info: u=anonymous
 cache-control: no-store,private

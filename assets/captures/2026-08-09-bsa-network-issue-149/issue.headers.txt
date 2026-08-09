@@ -5,8 +5,8 @@ content-length: 7061085
 accept-ranges: bytes
 etag: "13a7bd8fe4a3db1:0"
 last-modified: Wed, 02 Apr 2025 15:33:19 GMT
-set-cookie: ARRAffinity=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;Secure;Domain=www.britsoc.co.uk
-set-cookie: ARRAffinitySameSite=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.britsoc.co.uk
+set-cookie: ARRAffinity=[REDACTED];Path=/;HttpOnly;Secure;Domain=www.britsoc.co.uk
+set-cookie: ARRAffinitySameSite=[REDACTED];Path=/;HttpOnly;SameSite=None;Secure;Domain=www.britsoc.co.uk
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
 x-xss-protection: 1; mode=block

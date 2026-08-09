@@ -25,7 +25,7 @@ x-app-server: wwwb-app54-dc6
 x-ts: 200
 x-tr: 5955
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
-set-cookie: wb-p-SERVER=wwwb-app54; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 cache-control: private
 x-location: All
 x-as: 35986

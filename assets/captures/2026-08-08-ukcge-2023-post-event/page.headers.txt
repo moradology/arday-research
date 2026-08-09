@@ -8,7 +8,7 @@ x-robots-tag: all
 link: <https://ukcge.ac.uk/news-and-blog/1st-ukcge-conference-on-equity-diversity-and-inclusion-in-postgraduate-research>; rel='canonical'
 referrer-policy: no-referrer-when-downgrade
 content-type: text/html; charset=UTF-8
-set-cookie: CRAFT_CSRF_TOKEN=174798b864b5a93d11878b7a183a98ddcb04141c70fb12a7c0a83e23e7a5e3ada%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22xBx14aJo6waoH3Po86VjptAfd2OOZwI-PdY9LOJE%22%3B%7D; path=/; secure; HttpOnly
+set-cookie: CRAFT_CSRF_TOKEN=[REDACTED]; path=/; secure; HttpOnly
 date: Sat, 08 Aug 2026 07:57:21 GMT
 server: LiteSpeed
 vary: User-Agent

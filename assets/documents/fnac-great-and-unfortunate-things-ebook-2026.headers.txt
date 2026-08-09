@@ -15,7 +15,7 @@ pragma: no-cache
 date: Thu, 06 Aug 2026 19:59:57 GMT
 x-reference-error: 18.4d18d017.1786046397.cfe3f870
 x-robots-tag: noindex, noarchive, nofollow
-set-cookie: datadome=INIG~NCpZfXsZRiOfWapAzvlk1u35xY9TYP~E6seqmFDIfc1LWGx1Zo2fg0gyiS86cxbju7mOjZG5M9_uAGxGCnAGVUtoyTGuorfw2ATPG_QdSgaXGBAnpaQjzmrzSIg; Max-Age=31536000; Domain=.fnac.com; Path=/; Secure; SameSite=Lax
+set-cookie: datadome=[REDACTED]; Max-Age=31536000; Domain=.fnac.com; Path=/; Secure; SameSite=Lax
 x-datadome-log: Config timeout 300 ms - Endpoint www.fnac.com
 server-timing: ak_p; desc="1786046397459_399513677_3487823984_18_95406_25_0_15";dur=1
 

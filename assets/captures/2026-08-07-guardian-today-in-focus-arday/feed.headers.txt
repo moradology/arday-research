@@ -5,9 +5,9 @@ onion-location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfo
 accept-ranges: bytes
 date: Fri, 07 Aug 2026 20:37:24 GMT
 x-robots-tag: bingbot: noarchive
-set-cookie: gu_client_ab_tests=growth-auxia-banner:variant; path=/; max-age=2592000
-set-cookie: gu_v2_mvt_id=833; path=/; max-age=7776000
-set-cookie: GU_mvt_id=441749; expires=Thu, 05 Nov 2026 20:37:24 GMT; path=/; domain=.theguardian.com; Secure
+set-cookie: gu_client_ab_tests=[REDACTED]; path=/; max-age=2592000
+set-cookie: gu_v2_mvt_id=[REDACTED]; path=/; max-age=7776000
+set-cookie: GU_mvt_id=[REDACTED]; expires=Thu, 05 Nov 2026 20:37:24 GMT; path=/; domain=.theguardian.com; Secure
 x-timer: S1786135044.357658,VS0,VE54
 strict-transport-security: max-age=63072000; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
@@ -22,7 +22,7 @@ cache-control: max-age=300, stale-while-revalidate=600, stale-if-error=86400, pr
 age: 0
 x-request-id: ad2d6bab-405b-4e53-844b-1cbe8207899a
 vary: Accept-Encoding,User-Agent
-set-cookie: GU_geo_country=US; path=/; Secure
+set-cookie: GU_geo_country=[REDACTED]; path=/; Secure
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 content-length: 679098
 

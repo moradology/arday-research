@@ -11,7 +11,7 @@ server: cloudflare
 x-cache: MISS
 x-redirect-by: redirection
 vary: accept-encoding
-set-cookie: __cf_bm=QuR94Q01xbR8X3pf29nCJxJ_BKzkuNjPe6ob06Eud9s-1786165401.7911515-1.0.1.1-iAuv9Hj0EJlNnLv9kk30wMeC3aWy3ajb9X8DGuZCQ4rh6mImP3xrmptMJlg83p3ffJG0qxh6fCcbmxr1RJMFmn_PceAtz9ODun2wemdpgSHb_U_S7R55HtshHW8Pz8lW; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
 alt-svc: h3=":443"; ma=86400
 
 HTTP/2 301 
@@ -27,7 +27,7 @@ server: cloudflare
 x-cache: MISS
 x-redirect-by: WordPress
 vary: accept-encoding
-set-cookie: __cf_bm=Q71qF9kijynBkZormS5BRf70NE22E8H.7AlkyUNrAYE-1786165402.3893535-1.0.1.1-BL9Hk7VB0UNRVOCKJKwPU8MzxOtJnKffM_vY13UaOW_RyIfPVOeZkmo.Zln_mk_co4HGB06z.svX4BADxb77zGa81Oou1Z.HZ9Q0BYZFSQEm019Cyj.mGejuKkcASkc8; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:22 GMT
 alt-svc: h3=":443"; ma=86400
 
 HTTP/2 200 
@@ -42,6 +42,6 @@ link: <https://advance-he.ac.uk/wp-json/>; rel="https://api.w.org/", <https://ad
 server: cloudflare
 vary: Accept-Encoding, Accept-Encoding
 x-cache: HIT
-set-cookie: __cf_bm=9YtqEny6RhnMBnvGqUQR.ILDf7hXfKGzqPzXf08sSTk-1786165403.0383513-1.0.1.1-GEA4i8qBjHBaa6SK_e_PWzuwsJ29PX_Bfy9prv6i0Yq1y_pNhkxt71uGJT6IJxsO_iZraVgnNJLUDj.WQKcxf.3Lvfur0_IznkbJK4f.t.HgFdCDlEPu16YRjtNgLY6e; HttpOnly; SameSite=None; Secure; Path=/; Domain=advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:23 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=advance-he.ac.uk; Expires=Sat, 08 Aug 2026 05:33:23 GMT
 alt-svc: h3=":443"; ma=86400
 

@@ -26,7 +26,7 @@ x-cache-hits: 0
 x-timer: S1786171342.062073,VS0,VS0,VE770
 vary: X-Country-Code, Accept-Encoding, X-is-US-DPA, X-is-US, X-Device, canary, X-Is-Ad-Light, is-vwo-enabled, X-is-OPT-IN-JURISDICTION, X-is-STRICT-US-DPA, x-malcolm, x-malcolm, X-is-US-DPA, X-is-OPT-IN-JURISDICTION, X-is-STRICT-US-DPA, X-is-US, X-Device, x-backend, canary, X-Is-Ad-Light, is-vwo-enabled
 x-datadome: protected
-set-cookie: datadome=QmKc~rArXtTE4EaMPcGCrCHivJ9w5t3eRE3DEQCiFaGrGuZs11iz03QebZpB54is7~ZM2fsTe1xHUdDWX~xNI4i4d0QbyzJTwjPOnli2_t_DZ_ssSfr1YDPjjaNnprPI; Max-Age=31536000; Domain=.forbes.com; Path=/; Secure; SameSite=None
+set-cookie: datadome=[REDACTED]; Max-Age=31536000; Domain=.forbes.com; Path=/; Secure; SameSite=None
 x-country-code: US
 x-postal-code: 67672
 x-region: KS
@@ -37,7 +37,7 @@ content-security-policy: upgrade-insecure-requests
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 access-control-allow-credentials: true
 x-device: doge
-set-cookie: VWO=75.200; Max-Age=34560000; Path=/;
+set-cookie: VWO=[REDACTED]; Max-Age=34560000; Path=/;
 is-vwo-enabled: false
 state: MISS-CLUSTER
 referrer-policy: strict-origin-when-cross-origin

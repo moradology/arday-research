@@ -11,7 +11,7 @@ x-xss-protection: 1; mode=block
 x-frame-options: DENY
 x-content-type-options: nosniff
 vary: accept-encoding
-set-cookie: __cf_bm=RrzzQ4ypoQChaIpwjEUJftD4U8IF_vLxE3OflmGfda0-1786197501.9605672-1.0.1.1-_VwpJw8VoCrsbtu1kvLdX6BwO8voFV1_b9BnAYRIKiohBAsim76.MyEllDVSFgIW3FEE9uPW5Bc9jWd07Qja.6k2yXBuvfot6eymJvSIU8EZf3ryFVVCaHHnbHKfREpO; HttpOnly; SameSite=None; Secure; Path=/; Domain=orcid.org; Expires=Sat, 08 Aug 2026 14:28:22 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=orcid.org; Expires=Sat, 08 Aug 2026 14:28:22 GMT
 x-target: reg-prod-papi-use2-c1
 x-via: a1-newvpc
 cf-cache-status: DYNAMIC

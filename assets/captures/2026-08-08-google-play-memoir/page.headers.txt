@@ -18,7 +18,7 @@ server: ESF
 x-xss-protection: 0
 x-frame-options: SAMEORIGIN
 x-content-type-options: nosniff
-set-cookie: NID=533=G3QkXrF9AWNsBbNnuZqSh3CZnfphu7SQJFZK8EXrYTEFU3zAa7VJILz7dplQDbRJBK4nZeRbAaTxOAmcEzeHVHKprAJ1tlDhVi5vyqf13W1QA5SENGDNgfrIVDf3eySrADNQ4gwyE8cy5PAx9jrGZ_2TG1zwVQREjT-ZabgWACynRGXUk-jgaZ0QlQttYwNA7izifMRaibg; expires=Mon, 08-Feb-2027 00:53:59 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: NID=[REDACTED]; expires=Mon, 08-Feb-2027 00:53:59 GMT; path=/; domain=.google.com; HttpOnly
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 accept-ranges: none
 vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding

@@ -17,7 +17,7 @@ server-timing: chlray;desc="a26ffdd8cee66d27"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=2592000; preload
-set-cookie: __cf_bm=YK034KOPZhVdTuPdpLcIgPt5cvk9sZfykFCOlrEYY1M-1786039755.6477547-1.0.1.1-aKfqHrrk6UXKB3F33w83IJVr9Ipmf3AY2FQNSU4iYOy11584Y4AhD04RKC.sCMUdMZj.EeGBow95m1gxvhBOBPILCfsR2ovTBqxl0UFJmXwryPn.vpt4zN.6F.uUaM7_; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Thu, 06 Aug 2026 18:39:15 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Thu, 06 Aug 2026 18:39:15 GMT
 cf-ray: a26ffdd8cee66d27-OMA
 alt-svc: h3=":443"; ma=86400
 

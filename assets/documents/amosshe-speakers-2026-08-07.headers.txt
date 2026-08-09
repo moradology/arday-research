@@ -3,9 +3,9 @@ date: Fri, 07 Aug 2026 00:25:00 GMT
 content-type: text/html;charset=UTF-8
 server: cloudflare
 vary: Accept-Encoding
-set-cookie: DEFAULTLOCALE=en;Path=/;HttpOnly;Secure;SameSite=Lax
-set-cookie: VID=3F220FA1270DD6E3F863399833A5C5C05AA17302032917450FDCA1A3F17034DE6DAA0193344BF5FFA23AB57CE25FC8AA;Path=/;Expires=Sat, 05-Aug-2056 08:16:30 GMT;HttpOnly;Secure;SameSite=Lax
-set-cookie: PSID=24bb648d-2193-4950-a017d4ad3104c69a;Path=/;HttpOnly;Secure;SameSite=Lax
+set-cookie: DEFAULTLOCALE=[REDACTED];Path=/;HttpOnly;Secure;SameSite=Lax
+set-cookie: VID=[REDACTED];Path=/;Expires=Sat, 05-Aug-2056 08:16:30 GMT;HttpOnly;Secure;SameSite=Lax
+set-cookie: PSID=[REDACTED];Path=/;HttpOnly;Secure;SameSite=Lax
 x-cache: nginx: MISS, fpc: HIT
 x-frame-options: DENY
 referrer-policy: strict-origin-when-cross-origin

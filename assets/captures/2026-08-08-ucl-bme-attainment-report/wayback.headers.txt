@@ -10,7 +10,7 @@ x-app-server: wwwb-app259-dc8
 x-ts: 302
 x-tr: 157
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
-set-cookie: wb-p-SERVER=wwwb-app259; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 x-location: All
 x-as: 14155
 x-rl: 0
@@ -49,7 +49,7 @@ x-app-server: wwwb-app255-dc8
 x-ts: 200
 x-tr: 224
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
-set-cookie: wb-p-SERVER=wwwb-app255; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 cache-control: private
 x-location: All
 x-as: 14155

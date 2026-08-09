@@ -18,7 +18,7 @@ x-frame-options: sameorigin
 x-kinsta-cache: EXPIRED
 x-robots-tag: nofollow
 x-xss-protection: 1; mode=block
-set-cookie: __cf_bm=FSVRNKb8fhoQhCs9ZoXwvIwAteJFfFpDzTtcUdj2UIg-1786201551.4612184-1.0.1.1-pGvBmDplsLsq.nKCKoU_8A_2DbaykhINQYcUPIaLE0TTKSygLDmQo1Ye422y1sH5EOI1cXkQR1g9XH1iIv3iVNl1ANjU.A9xaPs4Mutl54XRrQhNCCRqvdR.Kuv6GniK; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.nuffieldfoundation.org; Expires=Sat, 08 Aug 2026 15:35:53 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.nuffieldfoundation.org; Expires=Sat, 08 Aug 2026 15:35:53 GMT
 report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bYn2M%2BT5hfRbyqQsuGdA7ByIaYPLT4J3jcc2uXw7PegMW2dDVxlW%2BXshNiqVIEbY5bq%2BiS2unpDtjcw%2FGyYScwbbmbBufT6u6zIJsgHRuatzdb9cT3nSL0PjKp64WnCcUN3HMcOtFTOj0Tvs"}]}
 alt-svc: h3=":443"; ma=86400
 

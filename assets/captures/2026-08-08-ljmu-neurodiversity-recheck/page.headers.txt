@@ -7,9 +7,9 @@ Connection: keep-alive
 Cache-Control: no-cache, no-store
 Pragma: no-cache
 Expires: -1
-Set-Cookie: shell#lang=en; path=/; secure; SameSite=None
-Set-Cookie: ASP.NET_SessionId=lzxp0occ0o2g33uskfpic0wl; path=/; secure; HttpOnly; SameSite=None
-Set-Cookie: SC_ANALYTICS_GLOBAL_COOKIE=d7e0da98465d475a9ffc2b54a8558d61|False; domain=Ljmu; expires=Tue, 05-Aug-2036 12:02:46 GMT; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: shell#lang=[REDACTED]; path=/; secure; SameSite=None
+Set-Cookie: ASP.NET_SessionId=[REDACTED]; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: SC_ANALYTICS_GLOBAL_COOKIE=[REDACTED]; domain=Ljmu; expires=Tue, 05-Aug-2036 12:02:46 GMT; path=/; secure; HttpOnly; SameSite=None
 Accept-CH: Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness
 X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

@@ -3,8 +3,8 @@ date: Sat, 08 Aug 2026 08:28:04 GMT
 content-type: text/html;charset=UTF-8
 content-length: 45965
 location: https://www.thebookseller.com/login?Login=In&ReturnDoc=https%3A%2F%2Fwww.thebookseller.com%2Fbooks%2Fjason-arday-on-his-remarkable-journey-from-non-verbal-child-to-cambridge-professor
-set-cookie: AWSALB=MFWBbtQABPRKD4imJ5kzckuP0i8bBXxPEy6zExc41m9lp0MKt+0NaZkiPRdbiFlkQQLzjmpiZ6dwW9TotofPuynj0ZAYczVWrbpXGbTNSy6AWSgAHgA3TCSN6Xty; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/
-set-cookie: AWSALBCORS=MFWBbtQABPRKD4imJ5kzckuP0i8bBXxPEy6zExc41m9lp0MKt+0NaZkiPRdbiFlkQQLzjmpiZ6dwW9TotofPuynj0ZAYczVWrbpXGbTNSy6AWSgAHgA3TCSN6Xty; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=[REDACTED]; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/
+set-cookie: AWSALBCORS=[REDACTED]; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/; SameSite=None; Secure
 server: Apache
 content-security-policy: frame-ancestors 'self' *.affino.com;
 x-frame-options: SAMEORIGIN
@@ -13,8 +13,8 @@ x-content-type-options: nosniff
 referrer-policy: strict-origin-when-cross-origin
 permissions-policy: geolocation=(), camera=(), microphone=()
 content-language: en-GB
-set-cookie: JSESSIONID=39F3AB19654121CCA3BBCE55157CB18B; Path=/; Secure; HttpOnly; SameSite=Lax
-set-cookie: VISITOR=%7B%22PC%22%3A%226DFBC7D64E7044FBB7C51F5D33F3ED94%22%2C%22VERIFY%22%3A%22682F01E1D56C8D0D2C913C45652D12D3%22%7D;Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 16:19:34 GMT;HttpOnly;SameSite=Lax
+set-cookie: JSESSIONID=[REDACTED]; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: VISITOR=[REDACTED];Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 16:19:34 GMT;HttpOnly;SameSite=Lax
 vary: Origin
 strict-transport-security: max-age=63072000
 
@@ -22,8 +22,8 @@ HTTP/2 200
 date: Sat, 08 Aug 2026 08:28:05 GMT
 content-type: text/html;charset=UTF-8
 content-length: 68899
-set-cookie: AWSALB=lDhf+O9h84hoPo8utRs0LBKS+kySZGs2zVlUMbZu+1hPGmhC8uz9kYdRC1yULaIEsUNHA7RB3qSXdtB8HyYtr27X97fpH2rokF+rOUr2DTsGULVmwYt+sWLQJZHU; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/
-set-cookie: AWSALBCORS=lDhf+O9h84hoPo8utRs0LBKS+kySZGs2zVlUMbZu+1hPGmhC8uz9kYdRC1yULaIEsUNHA7RB3qSXdtB8HyYtr27X97fpH2rokF+rOUr2DTsGULVmwYt+sWLQJZHU; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=[REDACTED]; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/
+set-cookie: AWSALBCORS=[REDACTED]; Expires=Sat, 15 Aug 2026 08:28:04 GMT; Path=/; SameSite=None; Secure
 server: Apache
 content-security-policy: frame-ancestors 'self' *.affino.com;
 x-frame-options: SAMEORIGIN
@@ -32,8 +32,8 @@ x-content-type-options: nosniff
 referrer-policy: strict-origin-when-cross-origin
 permissions-policy: geolocation=(), camera=(), microphone=()
 content-language: en-GB
-set-cookie: JSESSIONID=50B611E0C3B8684430E3AFA5DF0FDE3A; Path=/; Secure; HttpOnly; SameSite=Lax
-set-cookie: VISITOR=%7B%22PC%22%3A%22396BD8508E284E67B35FF4A691295608%22%2C%22VERIFY%22%3A%22755DD5AF958B71C9954BB079E01E3497%22%7D;Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 16:19:34 GMT;HttpOnly;SameSite=Lax
+set-cookie: JSESSIONID=[REDACTED]; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: VISITOR=[REDACTED];Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 16:19:34 GMT;HttpOnly;SameSite=Lax
 vary: Accept-Encoding,Origin
 strict-transport-security: max-age=63072000
 

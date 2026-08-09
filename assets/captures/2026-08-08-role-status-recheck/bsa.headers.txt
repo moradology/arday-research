@@ -3,8 +3,8 @@ date: Fri, 07 Aug 2026 07:12:54 GMT
 content-type: text/html; charset=utf-8
 content-length: 40623
 cache-control: private
-set-cookie: ARRAffinity=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;Secure;Domain=www.britsoc.co.uk
-set-cookie: ARRAffinitySameSite=fd457f0d912afba846d3bb3d3b8a3c729f1b9a0393140d22a6d35e88ea56f98f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.britsoc.co.uk
+set-cookie: ARRAffinity=[REDACTED];Path=/;HttpOnly;Secure;Domain=www.britsoc.co.uk
+set-cookie: ARRAffinitySameSite=[REDACTED];Path=/;HttpOnly;SameSite=None;Secure;Domain=www.britsoc.co.uk
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
 x-xss-protection: 1; mode=block

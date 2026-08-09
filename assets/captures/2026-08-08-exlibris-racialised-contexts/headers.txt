@@ -1,5 +1,5 @@
 HTTP/2 200 
-set-cookie: ncs-S=AS9wc1KjTB7oBMX6WpIQqNsfpIyELgxRR_BjxvF2jbsbmcRK!AKDAqlPdX0u90d35jVq; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: ncs-S=[REDACTED]; Path=/; Secure; HttpOnly; SameSite=Lax
 content-length: 359625
 permissions-policy: js-profiling=*
 strict-transport-security: max-age=31536000; includeSubDomains; preload

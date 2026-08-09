@@ -15,6 +15,6 @@ permissions-policy: accelerometer=(),camera=(),clipboard-read=(),clipboard-write
 referrer-policy: same-origin
 server-timing: chlray;desc="a2769925885b0898"
 x-content-type-options: nosniff
-set-cookie: __cf_bm=a83gfW6j2zkv4z5TbDRhZsQduARE9aKEaAVDsySf.M0-1786109031.289931-1.0.1.1-NBuTSpFeUETZrehrtAuPlu2E1L6Chq7p5e5EeQNm732bvYA9UCk9qBRlyqRqhZToRa7Uk4TLxKzcbVuwrM6WyjABIholWYfzvMy.G5Ga1FI.Mw2ljBI.Xz5AikSO2BnX; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.foyles.co.uk; Expires=Fri, 07 Aug 2026 13:53:51 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.foyles.co.uk; Expires=Fri, 07 Aug 2026 13:53:51 GMT
 cf-ray: a2769925885b0898-OMA
 

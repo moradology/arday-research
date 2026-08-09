@@ -3,9 +3,9 @@ content-type: text/html; charset=utf-8
 server: Server
 date: Sun, 09 Aug 2026 03:07:12 GMT
 x-amz-rid: 5T69EP68ZWB9CCXBJTVS
-set-cookie: ccsid=320-6033447-2136386; path=/; expires=Thu, 09 Aug 2046 03:07:12 -0000
-set-cookie: locale=en; path=/
-set-cookie: _session_id2=bfc31642f9b6f55255722d40f3312e18; path=/; expires=Sun, 09 Aug 2026 09:07:12 -0000; HttpOnly
+set-cookie: ccsid=[REDACTED]; path=/; expires=Thu, 09 Aug 2046 03:07:12 -0000
+set-cookie: locale=[REDACTED]; path=/
+set-cookie: _session_id2=[REDACTED]; path=/; expires=Sun, 09 Aug 2026 09:07:12 -0000; HttpOnly
 x-frame-options: SAMEORIGIN
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff

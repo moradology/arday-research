@@ -1,9 +1,9 @@
 HTTP/2 200 
 date: Fri, 07 Aug 2026 01:17:48 GMT
 content-type: text/html; charset=UTF-8
-set-cookie: AWSALB=WcgJP+YyY7qL5y1ldfG4Z3Gf2PXh9dMqzoWYdFApnxkD79SFT1nJyhqSgG/ULAd8ieVLE7Yi1HvFlpwM6VswYWrssicVrFaJ+9QD04ZFcVxn1ZJWi754ekxYyAMp; Expires=Fri, 14 Aug 2026 01:17:47 GMT; Path=/
-set-cookie: AWSALBCORS=WcgJP+YyY7qL5y1ldfG4Z3Gf2PXh9dMqzoWYdFApnxkD79SFT1nJyhqSgG/ULAd8ieVLE7Yi1HvFlpwM6VswYWrssicVrFaJ+9QD04ZFcVxn1ZJWi754ekxYyAMp; Expires=Fri, 14 Aug 2026 01:17:47 GMT; Path=/; SameSite=None; Secure
-set-cookie: device_view=full; expires=Mon, 07 Sep 2026 01:17:48 GMT; Max-Age=2678400; path=/; httponly; samesite=lax
+set-cookie: AWSALB=[REDACTED]; Expires=Fri, 14 Aug 2026 01:17:47 GMT; Path=/
+set-cookie: AWSALBCORS=[REDACTED]; Expires=Fri, 14 Aug 2026 01:17:47 GMT; Path=/; SameSite=None; Secure
+set-cookie: device_view=[REDACTED]; expires=Mon, 07 Sep 2026 01:17:48 GMT; Max-Age=2678400; path=/; httponly; samesite=lax
 server: cloudflare
 x-powered-by: PHP/8.5.9
 cache-control: max-age=0, must-revalidate, private

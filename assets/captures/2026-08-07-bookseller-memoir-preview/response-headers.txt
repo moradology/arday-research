@@ -2,8 +2,8 @@ HTTP/2 302
 date: Sat, 08 Aug 2026 03:20:32 GMT
 content-type: text/html;charset=UTF-8
 location: https://www.thebookseller.com/login?Login=In&ReturnDoc=https%3A%2F%2Fwww.thebookseller.com%2Fpreviews%2Fgreat-and-unfortunate-things
-set-cookie: AWSALB=UouEa4S4ysduGe3sU+NizKQWvTdm7h1kogcvtek4rwJBvizIXYm0n31wrI9+xMp0L1uUbhMmXRRPVT8jdvluf2TgoMjZ9hTUY0qAsx/H5F4fsJpFdAI+aPT1+12w; Expires=Sat, 15 Aug 2026 03:20:31 GMT; Path=/
-set-cookie: AWSALBCORS=UouEa4S4ysduGe3sU+NizKQWvTdm7h1kogcvtek4rwJBvizIXYm0n31wrI9+xMp0L1uUbhMmXRRPVT8jdvluf2TgoMjZ9hTUY0qAsx/H5F4fsJpFdAI+aPT1+12w; Expires=Sat, 15 Aug 2026 03:20:31 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=[REDACTED]; Expires=Sat, 15 Aug 2026 03:20:31 GMT; Path=/
+set-cookie: AWSALBCORS=[REDACTED]; Expires=Sat, 15 Aug 2026 03:20:31 GMT; Path=/; SameSite=None; Secure
 server: Apache
 content-security-policy: frame-ancestors 'self' *.affino.com;
 x-frame-options: SAMEORIGIN
@@ -13,16 +13,16 @@ referrer-policy: strict-origin-when-cross-origin
 permissions-policy: geolocation=(), camera=(), microphone=()
 content-encoding: gzip
 content-language: en-GB
-set-cookie: JSESSIONID=AE653F14560BD638941646529BA5F0F3; Path=/; Secure; HttpOnly; SameSite=Lax
-set-cookie: VISITOR=%7B%22PC%22%3A%22EB4E4C50940B4CC09598408C9CED36BE%22%2C%22VERIFY%22%3A%22900B4EA4DC46BE7CEDA928FB9D32738A%22%7D;Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 11:12:01 GMT;HttpOnly;SameSite=Lax
+set-cookie: JSESSIONID=[REDACTED]; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: VISITOR=[REDACTED];Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 11:12:01 GMT;HttpOnly;SameSite=Lax
 vary: Origin
 strict-transport-security: max-age=63072000
 
 HTTP/2 200 
 date: Sat, 08 Aug 2026 03:20:32 GMT
 content-type: text/html;charset=UTF-8
-set-cookie: AWSALB=XjvW1XTiHsS/3+MEVwNshleMOEEgluQpuI29Y/ykhe+uSIr5O8jIEbOmiS1vfzYHZY/1h6zIJTCMG5CS4AhmZ3CIs3UMFswlJJ+h0dRCDYUy5x/YapwbcVJwRuY+; Expires=Sat, 15 Aug 2026 03:20:32 GMT; Path=/
-set-cookie: AWSALBCORS=XjvW1XTiHsS/3+MEVwNshleMOEEgluQpuI29Y/ykhe+uSIr5O8jIEbOmiS1vfzYHZY/1h6zIJTCMG5CS4AhmZ3CIs3UMFswlJJ+h0dRCDYUy5x/YapwbcVJwRuY+; Expires=Sat, 15 Aug 2026 03:20:32 GMT; Path=/; SameSite=None; Secure
+set-cookie: AWSALB=[REDACTED]; Expires=Sat, 15 Aug 2026 03:20:32 GMT; Path=/
+set-cookie: AWSALBCORS=[REDACTED]; Expires=Sat, 15 Aug 2026 03:20:32 GMT; Path=/; SameSite=None; Secure
 server: Apache
 content-security-policy: frame-ancestors 'self' *.affino.com;
 x-frame-options: SAMEORIGIN
@@ -32,8 +32,8 @@ referrer-policy: strict-origin-when-cross-origin
 permissions-policy: geolocation=(), camera=(), microphone=()
 content-encoding: gzip
 content-language: en-GB
-set-cookie: JSESSIONID=85E09C5B12D32C6DB4516FFCF76A0BF5; Path=/; Secure; HttpOnly; SameSite=Lax
-set-cookie: VISITOR=%7B%22PC%22%3A%22B0542B44B7F14D139F083E0B44E83E47%22%2C%22VERIFY%22%3A%22F94021ED1FC30B825EA64A6E579A2222%22%7D;Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 11:12:02 GMT;HttpOnly;SameSite=Lax
+set-cookie: JSESSIONID=[REDACTED]; Path=/; Secure; HttpOnly; SameSite=Lax
+set-cookie: VISITOR=[REDACTED];Path=/;Domain=.thebookseller.com;Expires=Sun, 06-Aug-2056 11:12:02 GMT;HttpOnly;SameSite=Lax
 vary: Origin
 strict-transport-security: max-age=63072000
 

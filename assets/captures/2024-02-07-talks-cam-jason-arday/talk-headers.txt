@@ -6,7 +6,7 @@ strict-transport-security: max-age=31536000; preload
 x-content-type-options: nosniff
 referrer-policy: same-origin
 cross-origin-opener-policy: same-origin
-set-cookie: csrftoken=Ixy6nqXtQ14ENK561qewlQlMpOwL0E5N; expires=Thu, 05 Aug 2027 23:10:31 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+set-cookie: csrftoken=[REDACTED]; expires=Thu, 05 Aug 2027 23:10:31 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
 x-cloud-trace-context: a84d691fd62416d0f70b1efbc0ce1753
 date: Thu, 06 Aug 2026 23:10:31 GMT
 server: Google Frontend

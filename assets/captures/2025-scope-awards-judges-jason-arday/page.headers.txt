@@ -1,10 +1,10 @@
 HTTP/2 200 
 date: Thu, 06 Aug 2026 22:40:46 GMT
 content-type: text/html; charset=utf-8
-set-cookie: TiPMix=73.90834586215223; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600; Secure; SameSite=None
-set-cookie: x-ms-routing-name=self; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600; Secure; SameSite=None
-set-cookie: TiPMix=18.073032813098887; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600
-set-cookie: x-ms-routing-name=self; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600
+set-cookie: TiPMix=[REDACTED]; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600; Secure; SameSite=None
+set-cookie: x-ms-routing-name=[REDACTED]; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600; Secure; SameSite=None
+set-cookie: TiPMix=[REDACTED]; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600
+set-cookie: x-ms-routing-name=[REDACTED]; path=/; HttpOnly; Domain=scope-prd-asphead-web.azurewebsites.net; Max-Age=3600
 strict-transport-security: max-age=2592000
 request-context: appId=cid-v1:034336c6-afdb-4f51-9456-11baeb805ac6
 x-powered-by: ASP.NET

@@ -8,9 +8,9 @@ cf-ray: a27395a08c2b764a-OMA
 cf-cache-status: HIT
 age: 1655
 cache-control: no-cache
-set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sat, 07 Aug 2027 04:37:09 GMT; HttpOnly; Secure; SameSite=Lax
-set-cookie: ab_testing_id=%22fd2c30d7-0297-4933-a802-ec1885ffa740%22; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sat, 07 Aug 2027 04:37:09 GMT; HttpOnly; Secure; SameSite=Lax
-set-cookie: __cf_bm=Z0sO.BI5QkNDK4YxlxbGT64.MP9aHHjCkPTTWAa.yvg-1786077429.8501494-1.0.1.1-wBw3hRTDkyqEv89Bo1MOK.GV5oCg7gL.cOX6DJQA9pjtcZNxIn2rjKaaXXZ5PPJ2X6HRD5Xr97K7bPi3w3uc4Tf8wbwc.mFbbbRH0SD.JraQGO6IfjLCeNgLlv3.014W; HttpOnly; SameSite=None; Secure; Path=/; Domain=ncofnas.com; Expires=Fri, 07 Aug 2026 05:07:09 GMT
+set-cookie: ab_experiment_sampled=[REDACTED]; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sat, 07 Aug 2027 04:37:09 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=[REDACTED]; Max-Age=31536000; Domain=ncofnas.com; Path=/; Expires=Sat, 07 Aug 2027 04:37:09 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=ncofnas.com; Expires=Fri, 07 Aug 2026 05:07:09 GMT
 etag: W/"a2c55-SLOx9xDT3RmgyxJCZUyEnplIqDU"
 link: <https://substackcdn.com>; rel=preconnect
 server: cloudflare

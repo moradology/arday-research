@@ -7,8 +7,8 @@ location: /rwe/10.1007/978-981-16-8679-5_396
 tracestate: gorouter=536466b9a583978e
 via: 1.1 google, 1.1 varnish
 x-vcap-request-id: f75d47e0-3b28-49d5-7fa7-bbabc2bf8399
-set-cookie: trackid="xrresyfyquwfkb3bripmf3dwa"; Domain=.springer.com; Path=/; secure; HttpOnly
-set-cookie: csrf-token="c++VzU/emgHLPrHv8Irx/kSiyemFfMJiDYBv1oMB4/E="; Expires=Sun, 09 Aug 2026 14:15:27 GMT; Domain=.springer.com; Path=/chapter/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+set-cookie: trackid=[REDACTED]; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token=[REDACTED]; Expires=Sun, 09 Aug 2026 14:15:27 GMT; Domain=.springer.com; Path=/chapter/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
 cache-control: public,max-age=600
 x-b3-sampled: 1
 x-frame-options: DENY
@@ -33,9 +33,9 @@ location: https://idp.springer.com/authorize?response_type=cookie&client_id=spri
 tracestate: gorouter=de46732c536e60f6
 via: 1.1 google, 1.1 varnish
 x-vcap-request-id: 2282f7bb-be84-4af9-72c4-1a0a719f73f1
-set-cookie: sim-inst-token=""; Domain=.springer.com; Path=/; secure; HttpOnly
-set-cookie: trackid="saundup6h2nrwvcjorzncmbst"; Domain=.springer.com; Path=/; secure; HttpOnly
-set-cookie: csrf-token="20bgV3fXdMdDCzD+BmhOP58jICCP0j11NlbLUHHp3K4="; Expires=Sun, 09 Aug 2026 14:15:27 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+set-cookie: sim-inst-token=[REDACTED]; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: trackid=[REDACTED]; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token=[REDACTED]; Expires=Sun, 09 Aug 2026 14:15:27 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
 cache-control: no-cache
 x-b3-sampled: 1
 x-frame-options: DENY
@@ -57,9 +57,9 @@ server-timing: traceparent;desc="00-12804181e78b4947766919d72d33321f-5d743a4c1bc
 strict-transport-security: max-age=31536000 ; includeSubDomains
 cache-control: no-cache, no-store, max-age=0, must-revalidate
 x-xss-protection: 1; mode=block
-set-cookie: idp_session=sVERSION_1d9e3793c-47a5-4301-b51a-5f5c85ae6b05; Domain=.springer.com; Path=/; Secure; SameSite=None; HttpOnly
-set-cookie: idp_session_http=hVERSION_1d75d1a85-a293-4bba-9d98-19443536ed27; Domain=.springer.com; Path=/; HttpOnly
-set-cookie: idp_marker=81cfff9c-dae4-4952-b990-974cf33e98f0; Domain=.springer.com; Path=/; Max-Age=34560000; HttpOnly
+set-cookie: idp_session=[REDACTED]; Domain=.springer.com; Path=/; Secure; SameSite=None; HttpOnly
+set-cookie: idp_session_http=[REDACTED]; Domain=.springer.com; Path=/; HttpOnly
+set-cookie: idp_marker=[REDACTED]; Domain=.springer.com; Path=/; Max-Age=34560000; HttpOnly
 location: https://idp.springer.com/transit?redirect_uri=https%3A%2F%2Flink.springer.com%2Frwe%2F10.1007%2F978-981-16-8679-5_396&code=4556f2a1-be27-4d71-886f-6fe717c0b2f0
 content-security-policy: frame-ancestors 'none';
 x-content-type-options: nosniff
@@ -122,10 +122,10 @@ x-vcap-request-id: 34009ad4-67c8-4947-547a-6093850d54a7
 age: 0
 via: 1.1 google, 1.1 varnish
 content-type: text/html; charset=utf-8
-set-cookie: sim-inst-token=""; Domain=.springer.com; Path=/; secure; HttpOnly
-set-cookie: trackid="zvdhu46mv4uelghhmtnt8u8dn"; Domain=.springer.com; Path=/; secure; HttpOnly
-set-cookie: csrf-token="o/6BkM2IncwolIKc50tUAMvW9PjGUJyq0Phr8MRSNaU="; Expires=Sun, 09 Aug 2026 14:15:29 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
-set-cookie: user.uuid.v2="3017a324-b976-4f6b-81e1-3199cd08373a"; Expires=Sun, 08 Nov 2026 14:15:28 GMT; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: sim-inst-token=[REDACTED]; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: trackid=[REDACTED]; Domain=.springer.com; Path=/; secure; HttpOnly
+set-cookie: csrf-token=[REDACTED]; Expires=Sun, 09 Aug 2026 14:15:29 GMT; Domain=.springer.com; Path=/rwe/10.1007/978-981-16-8679-5_396; secure; HttpOnly; SameSite=None
+set-cookie: user.uuid.v2=[REDACTED]; Expires=Sun, 08 Nov 2026 14:15:28 GMT; Domain=.springer.com; Path=/; secure; HttpOnly
 date: Sat, 08 Aug 2026 14:15:29 GMT
 x-served-by: cache-0ec18a41-internal, cache-mci680044-MCI, cache-mci680056-MCI
 x-cache: MISS, MISS, MISS

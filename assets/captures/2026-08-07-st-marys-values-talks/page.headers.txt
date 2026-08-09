@@ -2,8 +2,8 @@ HTTP/2 200
 content-type: text/html; charset=utf-8
 date: Fri, 07 Aug 2026 01:24:08 GMT
 strict-transport-security: max-age=15552000; includeSubDomains
-set-cookie: Secure;SameSite=Lax; secure
-set-cookie: _nusdigital_session=08f3e8935d8bbc3f2176f719e4bd200a; path=/; secure; HttpOnly
+set-cookie: Secure;SameSite=[REDACTED]; secure
+set-cookie: _nusdigital_session=[REDACTED]; path=/; secure; HttpOnly
 server: Apache
 x-frame-options: allow-from *
 x-content-type-options: nosniff

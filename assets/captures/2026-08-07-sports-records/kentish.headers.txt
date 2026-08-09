@@ -5,7 +5,7 @@ Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 X-UA-Compatible: IE=Edge, chrome=1
-Set-Cookie: system_session=5a1fe4a8731d1628709eb9b990a886e6fdfc187b; expires=Fri, 07-Aug-2026 12:19:09 GMT; Max-Age=36000; path=/; HttpOnly
+Set-Cookie: system_session=[REDACTED]; expires=Fri, 07-Aug-2026 12:19:09 GMT; Max-Age=36000; path=/; HttpOnly
 Vary: Accept-Encoding
 Transfer-Encoding: chunked
 Content-Type: text/html; charset=UTF-8

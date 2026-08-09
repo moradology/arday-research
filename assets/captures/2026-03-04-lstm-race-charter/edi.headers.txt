@@ -4,8 +4,8 @@ content-type: text/html; charset=UTF-8
 location: https://www.lstmed.ac.uk/archive-equality-and-diversity
 server: cloudflare
 x-robots-tag: noindex, nofollow
-set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
-set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
 x-content-type-options: nosniff
 x-redirect-id: 283
 cache-control: public, max-age=21600
@@ -24,8 +24,8 @@ content-type: text/html; charset=UTF-8
 location: https://www.lstmed.ac.uk/EDI
 server: cloudflare
 x-robots-tag: noindex, nofollow
-set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
-set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:45 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
 x-content-type-options: nosniff
 x-redirect-id: 343
 cache-control: public, max-age=21600

@@ -18,5 +18,5 @@ request-context: appId=cid-v1:41a1386f-21c5-4910-962f-f343eaf534f2
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 vary: accept-encoding
-set-cookie: __cf_bm=CRFWX2YeC9nlq8A_BawITkshS66k_LYUnTmMmwIIv5o-1786168282.746498-1.0.1.1-IR8rf7mDwOtbI2zQOQsRH5Ppz_piy03hdjFbk3fNgE7uSIEDk7IpKpk8yeRaq.juZivSiYnEpJkfU7lVeNdc0sWQVodBFyiJngjyHavM6uGS03lO7r00wyxvqa6mMtGx; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.britishscienceassociation.org; Expires=Sat, 08 Aug 2026 06:21:22 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.britishscienceassociation.org; Expires=Sat, 08 Aug 2026 06:21:22 GMT
 

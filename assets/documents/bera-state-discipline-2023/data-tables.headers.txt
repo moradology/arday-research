@@ -10,7 +10,7 @@ robots: none
 content-description: File Transfer
 content-disposition: inline; filename="BERA_State-of-the-Discipline-Staff-equality_data-tables.xlsx"
 content-transfer-encoding: binary
-set-cookie: PHPSESSID=lddplehgg2miet26ecpjorr33v; path=/
+set-cookie: PHPSESSID=[REDACTED]; path=/
 vary: Accept-Encoding,User-Agent
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}

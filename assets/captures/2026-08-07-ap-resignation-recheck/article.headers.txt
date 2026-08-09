@@ -15,7 +15,7 @@ alt-svc: h3=":443"; ma=86400
 content-security-policy: frame-ancestors 'self' https://cms.apnews.com/
 x-envoy-decorator-operation: brightspot-frontend-verify.prod-news.svc.cluster.local:80/*
 x-envoy-upstream-service-time: 260
-set-cookie: kameleoonVisitorCode=izju82hdwu10y2kc; Max-Age=31536000; Path=/
-set-cookie: RegWallAB01=control2; Path=/
-set-cookie: __cf_bm=mPK_jpnbZ0ljqIVKIhzRPITLz9fzbhfEBH6BywfgBAQ-1786068397.4563403-1.0.1.1-1St.AHgVw6M3eSSS2EIBcwzQPEyAKkxjpVlADRh2h.4HfrcfjTHkcarqm5rOJp1rhuo3V9KcREuVjAOpiBM5s4ChEH2h6aMi4Q.y4nAlxAmDOu0EqFeDG3zap3Ejt96qNvh7NIQFHQSuF7I.9zgdMg; HttpOnly; SameSite=None; Secure; Path=/; Domain=apnews.com; Expires=Fri, 07 Aug 2026 02:36:37 GMT
+set-cookie: kameleoonVisitorCode=[REDACTED]; Max-Age=31536000; Path=/
+set-cookie: RegWallAB01=[REDACTED]; Path=/
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=apnews.com; Expires=Fri, 07 Aug 2026 02:36:37 GMT
 

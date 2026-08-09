@@ -2,7 +2,7 @@ HTTP/2 200
 alt-svc: h3=":443"; ma=2592000
 cache-control: no-store
 content-type: text/html; charset=utf-8
-set-cookie: OJSSID=ldkl5ngipcfh1fqt8rs9ge16p8; path=/; domain=rhhj.emnuvens.com.br; secure; HttpOnly; SameSite=Lax
+set-cookie: OJSSID=[REDACTED]; path=/; domain=rhhj.emnuvens.com.br; secure; HttpOnly; SameSite=Lax
 via: 0.0 Caddy
 date: Thu, 06 Aug 2026 20:54:50 GMT
 

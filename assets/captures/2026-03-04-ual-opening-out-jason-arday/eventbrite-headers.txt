@@ -33,7 +33,7 @@ x-powered-by: Next.js
 x-upstream-source: VALKYRIE
 via: 1.1 7afb03828af3b7a61fd0b35f32c9822a.cloudfront.net (CloudFront)
 strict-transport-security: max-age=63072000; includeSubDomains; preload
-set-cookie: csrftoken=513df77543c6f323e8a1f84779c87e9e; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
+set-cookie: csrftoken=[REDACTED]; Max-Age=31449600; Domain=.eventbrite.co.uk; Path=/; secure; SameSite=None
 x-experiments-assignment: {}
 x-amzn-requestid: 837d1a21-0e99-4c89-8f15-8539313c5e45
 x-cache: Miss from cloudfront

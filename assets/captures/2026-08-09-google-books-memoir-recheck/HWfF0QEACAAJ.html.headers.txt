@@ -9,7 +9,7 @@ content-type: text/html; charset=ISO-8859-1
 p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
 x-content-type-options: nosniff
 server: OFE/0.1
-set-cookie: NID=533=Esr6j-0D0BIL9SdR5vuOttQRbUXJpAMFpoi7Of4c1QxVdAQqCDv6gK4Ts5rHKpykJPYCqgSiMmjHRz4Ye7WP-FLdNqQNoMJxe0a0n6Nt7j_7myURdNw5ioJUj2ZwePXZINhnW_8m8MEq0H9qtCIkZkjuTmVefJITETpnGNwEaDbbj8J5UuiPd_zRcEG8NbfSMyKG7VDHkNk3; expires=Mon, 08-Feb-2027 02:49:46 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: NID=[REDACTED]; expires=Mon, 08-Feb-2027 02:49:46 GMT; path=/; domain=.google.com; HttpOnly
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 accept-ranges: none
 vary: Accept-Encoding

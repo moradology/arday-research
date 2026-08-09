@@ -9,8 +9,8 @@ access-control-allow-methods: POST,PUT
 cache-control: no-cache, private
 x-ratelimit-limit: 40
 x-ratelimit-remaining: 28
-set-cookie: XSRF-TOKEN=eyJpdiI6IlpWU3QzVVJ6Tml4bkdMZVNhaGsrWXc9PSIsInZhbHVlIjoieDBSTGUwZjZReWxCbU93R015RmlUbldlNFlOVG9KR0dRZytZNzBneWpYWWREaWpSMUdqNVkrdnAxTE1jM3RhTlIxV2x4cjFVZFF3RGlIdk05TlltL3lBczFlS1RnTDlleS9KVis2dUJWZkQ3cXMvSU9OQ2RDUmYvS3A0Y1pUQ3AiLCJtYWMiOiI4ZWUyMjdkMTJlMWM0NmVmYWJiZTQ1ZGI1Nzk4MzA2ZjRlNmZiZGRmZDM2ZGY2ODczMGJhZWI4MmI0ZDFlYWY0IiwidGFnIjoiIn0%3D; expires=Sun, 09-Aug-2026 04:24:16 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; samesite=lax
-set-cookie: laravel_session=eyJpdiI6ImxPNjIyTTBEbTFMYlRPMTkwWFptRHc9PSIsInZhbHVlIjoia2hoUS9vMng3RlV2dTlMRlI2aFpaWFo3ZkloaFF4MGFwd1dIM281M29xRWJtZlRWUzNNc0FTd1QvdEZ4SGEva01zeWhOVU5OZ0pwRUxQVVczektvK0tVR2pVa2Uzbm15KzZMRnFQTHN5RkFoM2lQY1FIVjBCTnJIQWFyM1Nha00iLCJtYWMiOiJjOWI2MzY3MjZiNjViM2ZhZGNiYzhjNzc2NGU2ZTc3ZGNlM2Y3ODliN2NiMTAzNWNmZDc3YTlmZmZiNmRkMzMxIiwidGFnIjoiIn0%3D; expires=Sun, 09-Aug-2026 04:24:16 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; httponly; samesite=lax
+set-cookie: XSRF-TOKEN=[REDACTED]; expires=Sun, 09-Aug-2026 04:24:16 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; samesite=lax
+set-cookie: laravel_session=[REDACTED]; expires=Sun, 09-Aug-2026 04:24:16 GMT; Max-Age=7200; path=/; domain=.pubpeer.com; httponly; samesite=lax
 cf-cache-status: DYNAMIC
 cf-ray: a2834db42f0b8ce1-ORD
 

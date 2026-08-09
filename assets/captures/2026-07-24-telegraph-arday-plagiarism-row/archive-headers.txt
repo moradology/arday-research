@@ -3,7 +3,7 @@ server: nginx
 date: Thu, 06 Aug 2026 20:24:45 GMT
 content-type: text/html
 content-length: 55411
-set-cookie: qki=17250711162303753964; Max-Age=3600; Domain=.archive.ph; Path=/
+set-cookie: qki=[REDACTED]; Max-Age=3600; Domain=.archive.ph; Path=/
 referrer-policy: no-referrer
 access-control-allow-origin: *
 

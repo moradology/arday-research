@@ -15,7 +15,7 @@ x-frame-options: DENY
 x-content-type-options: nosniff
 content-security-policy: default-src 'self' metrics-api.dimensions.ai stats.addtoany.com badge.dimensions.ai *.google-analytics.com www.gstatic.com *.google.com maps.googleapis.com cdnjs.cloudflare.com; font-src 'self' data: fonts.gstatic.com use.fontawesome.com cdnjs.cloudflare.com cdn.jsdelivr.net; frame-ancestors 'self' www.google.com; frame-src 'self' www.google.com static.addtoany.com; img-src 'self' https: data:; script-src 'self' 'unsafe-eval' api.altmetric.com static.addtoany.com badge.dimensions.ai cdnjs.cloudflare.com static.cloudflareinsights.com *.cloudfront.net www.google.com www.gstatic.com maps.googleapis.com *.google-analytics.com *.googletagmanager.com cdn.jsdelivr.net 'nonce-o6lq4z0nR5yqFYJ/68fdK69Ukpd+M2fN+9n+modORgw=' 'unsafe-inline'; script-src-attr 'unsafe-hashes' 'sha256-47mKTaMaEn1L3m5DAz9muidMqw636xxw7EFAK/YnPdg='; style-src 'self' 'unsafe-inline' *.cloudfront.net fonts.googleapis.com use.fontawesome.com www.gstatic.com badge.dimensions.ai
 x-powered-by: Phusion Passenger(R) 6.1.2
-set-cookie: _orapublic_session_id=312e3f45d644f72df557bdbf95307b6d; path=/; expires=Sun, 09 Aug 2026 10:58:41 GMT; secure; httponly; SameSite=Lax;HttpOnly;Secure
+set-cookie: _orapublic_session_id=[REDACTED]; path=/; expires=Sun, 09 Aug 2026 10:58:41 GMT; secure; httponly; SameSite=Lax;HttpOnly;Secure
 speculation-rules: "/cdn-cgi/speculation"
 status: 200 OK
 cache-control: no-cache, no-store, must-revalidate

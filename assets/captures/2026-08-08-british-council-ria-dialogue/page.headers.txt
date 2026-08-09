@@ -6,8 +6,8 @@ content-length: 453
 cache-control: max-age=1800
 expires: Sat, 08 Aug 2026 10:00:25 GMT
 date: Sat, 08 Aug 2026 09:30:25 GMT
-set-cookie: akamai-geo=US; path=/
-set-cookie: trp=MVTGMMDEMIYWGYTCMM-LAYGU6LXGNJDM-GEZDCM3FGMYQ; path=/
+set-cookie: akamai-geo=[REDACTED]; path=/
+set-cookie: trp=[REDACTED]; path=/
 server-timing: cdn-cache; desc=HIT
 server-timing: edge; dur=1
 content-security-policy-report-only: report-to report; report-uri https://reportcsp.britishcouncil.org/report/www.britishcouncil.ie; worker-src blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: 'report-sample' bccdn.britishcouncil.org cdn.jsdelivr.net ba.live.ghs.britishcouncil.ba gr.live.ghs.britishcouncil.gr ssl.pstatic.net d.line-scdn.net *.yahoo.co.jp *.insightful-enterprise-intelligence.com *.yimg.jp *.adroll.com *.ads-twitter.com *.artfut.com *.clarity.ms *.doubleclick.net *.fospha.com *.go-mpulse.net *.google.com *.googleapis.com *.gstatic.com *.hotjar.com *.hs-analytics.net *.hs-banner.com *.hs-scripts.com *.hsadspixel.net *. *.hubspot.com *.optimizely.com *.qualaroo.com *.salesforceliveagent.com *.scupio.com *.sharethis.com *.shorthand.com *.shorthandstories.com *.snapchat.com *.stripe.com *.tiktok.com *.twitter.com *.usemessages.com apps-cdn.britishcouncil.org assets.app.smart-tribune.com bat.bing.com britishcouncil.github.io cdn.cookielaw.org cdnapisec.kaltura.com connect.facebook.net cookies.onetrust.com d17m68fovwmgxj.cloudfront.net https://js-eu1.hubspot.com/web-interactives-embed.js https://js-eu1.hsadspixel.net/fb.js https://js-eu1.usemessages.com/conversations-embed.js js-agent.newrelic.com player.vimeo.com s.yimg.com s3.amazonaws.com sc-static.net snap.licdn.com sui.britishcouncil.org t1.daumcdn.net ucarecdn.com vimeo.com wcs.naver.net www.googletagmanager.com www.youtube.com britishcouncil.my.site.com britishcouncil.my.salesforce-scrt.com rum-static.pingdom.net  ; frame-ancestors 'self'

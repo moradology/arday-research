@@ -10,13 +10,13 @@ x-li-fabric: prod-lva1
 x-li-pop: cf-prod-lva1-x
 x-li-proto: http/2
 x-li-uuid: AAZYceGr5h2sVnxJq+dMyg==
-set-cookie: bcookie="v=2&7e2ec551-1772-406b-8585-668bafade863"; domain=.linkedin.com; Path=/; Secure; Expires=Sat, 07-Aug-2027 09:46:41 GMT; SameSite=None
-set-cookie: bscookie="v=1&20260807094640adffe72d-eefe-498b-8d14-1b5a14c388e3AQErFWM_fv62XRx0s3235K-ClJbvY4XO"; domain=.uk.linkedin.com; Path=/; Secure; Expires=Sat, 07-Aug-2027 09:46:41 GMT; HttpOnly; SameSite=None
-set-cookie: lidc="b=VGST08:s=V:r=V:a=V:p=V:g=3483:u=1:x=1:i=1786096001:t=1786182401:v=2:sig=AQHG0vdwHZeQwf2YPKIcgQqLHtJW_yVP"; Expires=Sat, 08 Aug 2026 09:46:41 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
-set-cookie: trkCode=gf; Max-Age=5
-set-cookie: trkInfo=AQEiZUVRnKYT3gAAAZ_bnh_oWVkD1vcZBLeqOTRdvFbmM4QLs4fkEuR92RnPoGJ1tA_sB3rIHIctK7O147nZXpSvGErQT6-RRXtP1h_A-mYc0Nd4H3EdFnklDA9dJvcjLq94C2M=; Max-Age=5
-set-cookie: rtc=AQHR2wosYMJHaAAAAZ_bnh_oU1g2ZwS2hUlxO44RDhC5tVWuHv1axnccOH_DGeNHeIVJxScP6YPFf6EDhWv69rmb5lKzyrwhQ59TcWKWqrsfEU-rCfD40bWOpZgm4zMd2rBJJl37o3jEEkI1i6vCTSU8-j5wrG36yuMMh4bksJtubaTgUOkgp_vpHRFOfB4-tlV5aYHtoBDxd8Tni_zyoNMCDVT6HUG7VuNBb-tCPvVzYrHCLCNvHnFzScvgJMUW8g==; Max-Age=120; path=/; domain=.linkedin.com
-set-cookie: __cf_bm=PcUGSdqQWlSioGmp93fibLMd98dcgzjojF3oPeTVDj0-1786096000.9307876-1.0.1.1-XmDUOi2FHjSQ7or14BIcMBWeh07zFvMBpQmyWYbde4g45Fqns8KoiIDAzcyFCNvmuf4spck9_XH4lkmmimMyjV4wQHMxV8D22BiWz0.g9_ULeKi80SXktAnG1hNJOb6U; HttpOnly; SameSite=None; Secure; Path=/; Domain=linkedin.com; Expires=Fri, 07 Aug 2026 10:16:41 GMT
+set-cookie: bcookie=[REDACTED]; domain=.linkedin.com; Path=/; Secure; Expires=Sat, 07-Aug-2027 09:46:41 GMT; SameSite=None
+set-cookie: bscookie=[REDACTED]; domain=.uk.linkedin.com; Path=/; Secure; Expires=Sat, 07-Aug-2027 09:46:41 GMT; HttpOnly; SameSite=None
+set-cookie: lidc=[REDACTED]; Expires=Sat, 08 Aug 2026 09:46:41 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
+set-cookie: trkCode=[REDACTED]; Max-Age=5
+set-cookie: trkInfo=[REDACTED]; Max-Age=5
+set-cookie: rtc=[REDACTED]; Max-Age=120; path=/; domain=.linkedin.com
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=linkedin.com; Expires=Fri, 07 Aug 2026 10:16:41 GMT
 cf-cache-status: DYNAMIC
 server: cloudflare
 cf-ray: a2755b05da170b4f-OMA

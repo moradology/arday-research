@@ -5,7 +5,7 @@ Content-Type: text/html; charset=utf-8
 Content-Length: 197298
 Connection: keep-alive
 Cache-Control: private
-Set-Cookie: shell#lang=en; path=/; secure; SameSite=None
+Set-Cookie: shell#lang=[REDACTED]; path=/; secure; SameSite=None
 Accept-CH: Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness
 X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

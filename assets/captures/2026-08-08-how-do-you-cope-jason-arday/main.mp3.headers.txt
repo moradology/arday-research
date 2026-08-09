@@ -5,7 +5,7 @@ location: https://stitcher2.acast.com/livestitches/5aea2321d5dbe2214c0332e65cc95
 date: Sat, 08 Aug 2026 04:26:01 GMT
 vary: Origin
 access-control-allow-origin: *
-set-cookie: acast-listenerid=df0dc0b44d69bc68451448f94df9fb53; path=/; httponly
+set-cookie: acast-listenerid=[REDACTED]; path=/; httponly
 x-cache: Miss from cloudfront
 via: 1.1 a7d1e0c928cf48e0d4f62edd164c6b76.cloudfront.net (CloudFront)
 x-amz-cf-pop: IAD89-P4

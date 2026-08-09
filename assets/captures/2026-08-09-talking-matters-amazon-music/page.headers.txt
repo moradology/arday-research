@@ -5,7 +5,7 @@ date: Sun, 09 Aug 2026 00:38:28 GMT
 vary: Accept-Encoding,User-Agent,Accept-Encoding,User-Agent
 edge-cache-control: no-store,no-cache,stale-if-error=0,stale-while-revalidate=0
 x-amz-rid: CB4TE1FS143SN28R1H7M
-set-cookie: am-loader-experiment=CB4TE1FS143SN28R1H7M; Max-Age=3024000; Domain=.amazon.in; Path=/; Expires=Sun, 13 Sep 2026 00:38:28 GMT; HttpOnly; Secure
+set-cookie: am-loader-experiment=[REDACTED]; Max-Age=3024000; Domain=.amazon.in; Path=/; Expires=Sun, 13 Sep 2026 00:38:28 GMT; HttpOnly; Secure
 x-powered-by: Express
 x-response-region: eu-south-2
 x-ua-compatible: IE=edge,chrome=1

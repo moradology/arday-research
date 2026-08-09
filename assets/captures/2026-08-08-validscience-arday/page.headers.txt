@@ -4,9 +4,9 @@ content-type: text/html; charset=utf-8
 cf-ray: a27d5498e9250c9d-OMA
 cf-cache-status: HIT
 cache-control: no-cache
-set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 08 Aug 2027 09:00:23 GMT; HttpOnly; Secure; SameSite=Lax
-set-cookie: ab_testing_id=%22d9b9c02a-a455-4dc8-bb76-aaa5c3472047%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 08 Aug 2027 09:00:23 GMT; HttpOnly; Secure; SameSite=Lax
-set-cookie: __cf_bm=ohGOJAXD5ydq548FRczoDx0D4P2C5X.b45AOm3vDbGw-1786179623.8255992-1.0.1.1-VefWi8b_ANDJhU9KeWhiorZvOBRIYi8IsnDULSZYF0_JgOo4YVsbNxm8XCK7N5wOHR8gA04u8OBpZvUqDJew83XIethfhhaQ0LX8OFlu0NY7sm_CKVh7Ni6u9zCatNLx; HttpOnly; SameSite=None; Secure; Path=/; Domain=substack.com; Expires=Sat, 08 Aug 2026 09:30:23 GMT
+set-cookie: ab_experiment_sampled=[REDACTED]; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 08 Aug 2027 09:00:23 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=[REDACTED]; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 08 Aug 2027 09:00:23 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=substack.com; Expires=Sat, 08 Aug 2026 09:30:23 GMT
 x-service: web
 link: <https://substackcdn.com>; rel=preconnect
 server: cloudflare

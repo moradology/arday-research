@@ -16,7 +16,7 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a27868669c0ca074"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=OjvYDiSJJwu.xPhQuNrLbY.UG51bPUV30kweaOsOYu4-1786128006.17498-1.0.1.1-xAENFJzbg.MFqlffko3fgfEB4r3Q_60VDjpU_nBwFIA9uj2nB0pOKHrzAsYx4c_7fbHtPWhK1mwn_ce9ohmlh1_02snxQ9C4z3zbpe8pZ_eP5kRwo17BkVe6jkbc5cn3; HttpOnly; SameSite=None; Secure; Path=/; Domain=parliament.uk; Expires=Fri, 07 Aug 2026 19:10:06 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=parliament.uk; Expires=Fri, 07 Aug 2026 19:10:06 GMT
 cf-ray: a27868669c0ca074-OMA
 alt-svc: h3=":443"; ma=86400
 

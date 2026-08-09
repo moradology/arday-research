@@ -14,7 +14,7 @@ vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 x-product: Pure Portal
-set-cookie: __cf_bm=e6lTXDJOGjCVSd.QQjbULGXO2HV1j7y9xx_9t0rid3Q-1786039755.1444201-1.0.1.1-QujYj0TGrai1WB3fCk8MtAJDNGYe0ohqjp5GYv1deEE1kWUxS8xiKL1VrjbkfoQjc2Uf3hJ0MOTUJi7OPeJIOT4EFMy5Zl49deCX_6hEjLARxWCtXUammsAstckXeiwt; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Thu, 06 Aug 2026 18:39:15 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Thu, 06 Aug 2026 18:39:15 GMT
 cf-cache-status: EXPIRED
 cf-ray: a26ffdd5afd78df3-OMA
 alt-svc: h3=":443"; ma=86400

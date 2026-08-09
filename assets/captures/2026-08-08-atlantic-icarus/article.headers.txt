@@ -12,15 +12,15 @@ x-served-by: cache-iad-khef600073-IAD, cache-den-kden1300041-DEN
 x-cache: HIT, HIT
 x-cache-hits: 6, 1
 x-timer: S1786076630.639761,VS0,VE4
-set-cookie: atltestbucketv1=4; Domain=.theatlantic.com; Path=/; Max-Age=7776000
-set-cookie: atl_trackid=a945c711-5d4b-476d-bb3d-fdd96f459697; Max-Age=31536000; Path=/; Secure; SameSite=Lax; Domain=.theatlantic.com
-set-cookie: is_gdpr=0; Domain=.theatlantic.com; Path=/; Max-Age=3600
-set-cookie: kppid=avvunybeh5r; Path=/; Max-Age=31536000; Domain=.theatlantic.com
-set-cookie: articleViews=[688206]; Domain=.theatlantic.com; Path=/; expires=Tue, 01 Sep 2026 00:00:00 GMT
-set-cookie: atl_uuid=9f4b11cd-a424-4493-a775-41a8db3651f9; Path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Domain=.theatlantic.com
-set-cookie: blaize_session=106ffd22-c81d-47f3-bac8-6d4852ecff59; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
-set-cookie: blaize_tracking_id=106ffd22-c81d-47f3-bac8-6d4852ecff59; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
-set-cookie: __cf_bm=oA5DfvUd9kda4hZqnJ0cnyVVrW7URvGbk02uL9yqnJ4-1786076629.6317756-1.0.1.1-380LTC9Ehcv7i.5y4OtX70dIRgA0erzhN9Z8uHJxjg.6RSPy369CcoR1wCY3ammr620u8k7W3Qh4HXSCOvhgKFtvHu6xARblkghokKy5k8PjCmjFUyis4zmQp7KkuqMg; HttpOnly; SameSite=None; Secure; Path=/; Domain=theatlantic.com; Expires=Fri, 07 Aug 2026 04:53:49 GMT
+set-cookie: atltestbucketv1=[REDACTED]; Domain=.theatlantic.com; Path=/; Max-Age=7776000
+set-cookie: atl_trackid=[REDACTED]; Max-Age=31536000; Path=/; Secure; SameSite=Lax; Domain=.theatlantic.com
+set-cookie: is_gdpr=[REDACTED]; Domain=.theatlantic.com; Path=/; Max-Age=3600
+set-cookie: kppid=[REDACTED]; Path=/; Max-Age=31536000; Domain=.theatlantic.com
+set-cookie: articleViews=[REDACTED]; Domain=.theatlantic.com; Path=/; expires=Tue, 01 Sep 2026 00:00:00 GMT
+set-cookie: atl_uuid=[REDACTED]; Path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Domain=.theatlantic.com
+set-cookie: blaize_session=[REDACTED]; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
+set-cookie: blaize_tracking_id=[REDACTED]; Path=/; Max-Age=31536000; Domain=.theatlantic.com; Secure; SameSite=None
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=theatlantic.com; Expires=Fri, 07 Aug 2026 04:53:49 GMT
 vary: X-JWT-State, X-JWT-PaymeterAccess, X-JWT-AdFree, X-Socialbot, Accept-Encoding, x-is-gdpr,Origin
 x-is-gdpr: 0
 x-jwt-state: Anonymous

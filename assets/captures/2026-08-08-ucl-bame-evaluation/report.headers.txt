@@ -11,5 +11,5 @@ server: cloudflare
 strict-transport-security: max-age=31536000; includeSubDomains
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
-set-cookie: __cf_bm=q6izjOL1aBntXaSA6.mI2Aun9hiL4Zndch1LfmxOfA4-1786073124.626564-1.0.1.1-GwrdKt_3BgvgCnFaBfqRAlPIkWohDFOhSXUvHe9F827rqE_D3KTaeK71v2A65P.2jWgA.2JSl_rZMaBvOqaSqNw_AWiUIv4nR3ZIgreyCCB67EVKzIBDFOeNf5o9pCQD; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Fri, 07 Aug 2026 03:55:25 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucl.ac.uk; Expires=Fri, 07 Aug 2026 03:55:25 GMT
 

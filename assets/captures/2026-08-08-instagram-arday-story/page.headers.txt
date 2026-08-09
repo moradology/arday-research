@@ -1,6 +1,6 @@
 HTTP/2 200 
 vary: Accept-Encoding
-set-cookie: csrftoken=76hsH8ht-siuIAdCco42oo; expires=Sun, 12-Sep-2027 06:22:39 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure
+set-cookie: csrftoken=[REDACTED]; expires=Sun, 12-Sep-2027 06:22:39 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure
 accept-ch-lifetime: 4838400
 accept-ch: viewport-width,dpr,Sec-CH-Prefers-Color-Scheme,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Model
 reporting-endpoints: coop_report="https://www.facebook.com/browser_reporting/coop/?minimize=0", coep_report="https://www.facebook.com/browser_reporting/coep/?minimize=0", default="https://www.instagram.com/error/ig_web_error_reports/?device_level=unknown&brsid=7671542419956586910&comet_app_key=7&cpp=C3&cv=1044781795&st=1786170159451", permissions_policy="https://www.instagram.com/error/ig_web_error_reports/"

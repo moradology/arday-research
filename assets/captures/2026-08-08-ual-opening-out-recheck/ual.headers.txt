@@ -16,7 +16,7 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a27cdb7dee6806b5"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=NHp7Z1ol9b8dGRMzRUzKus9_qkrhnoLGYvfdiJCLEE0-1786174663.3500147-1.0.1.1-EuRr9xwr.VXG7DpHROlGutwc4WIa7Yv2.hrBDDAlxKN8Lb_BBsOc7EgKrPX8sOGEDsH1xVg.XHoinfFbiq4NslWFMeTCU9leN2sR.xGcgPUuWxJdBiwY8VU6YbmNGfj8; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.arts.ac.uk; Expires=Sat, 08 Aug 2026 08:07:43 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.arts.ac.uk; Expires=Sat, 08 Aug 2026 08:07:43 GMT
 cf-ray: a27cdb7dee6806b5-OMA
 alt-svc: h3=":443"; ma=86400
 

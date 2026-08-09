@@ -1,7 +1,7 @@
 HTTP/2 200 
 date: Thu, 06 Aug 2026 20:02:26 GMT
 content-type: text/html; charset=utf-8
-set-cookie: _cfuvid=cbsRm8zktWfHzecvqT1SZUgzY3LsF8qiI.vAEEDqtS4-1786046546.2966003-1.0.1.1-SOAliHr8xdItgsrNRWYOP.jeyZCCJaQEBYHnlJvDr1g; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.aevitascreative.com
+set-cookie: _cfuvid=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.aevitascreative.com
 cf-ray: a270a3a25fd60898-OMA
 cf-cache-status: HIT
 last-modified: Thu, 06 Aug 2026 20:02:26 GMT

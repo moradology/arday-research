@@ -9,7 +9,7 @@ x-frame-options: DENY
 x-xss-protection: 1; mode=block
 expires: Thu, 06 Aug 2026 23:49:19 GMT
 cache-control: max-age=0, must-revalidate, private
-set-cookie: NGSESSID=ccc53cf3519365d0916041e071375541; path=/; domain=netgalley.com; httponly; samesite=lax
+set-cookie: NGSESSID=[REDACTED]; path=/; domain=netgalley.com; httponly; samesite=lax
 apigw-requestid: BtGL4hI6IAMEagw=
 x-cache: Miss from cloudfront
 via: 1.1 3687dc2c690d41a17862d629e7e00b90.cloudfront.net (CloudFront)

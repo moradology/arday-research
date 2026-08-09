@@ -1,7 +1,7 @@
 HTTP/2 200 
 date: Sun, 09 Aug 2026 00:44:38 GMT
 content-type: text/html; charset=utf-8
-set-cookie: _cfuvid=QnuC1OxFS_fKgkuhWjQE7.g5hDOa_KhmKCUxD9vQ1rg-1786236278.2119968-1.0.1.1-NZh1olx4I.9E3eE1gR16Sht0IPUHzigbdxQgmFHsBPY; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.amfotalent.com
+set-cookie: _cfuvid=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.amfotalent.com
 cf-ray: a282bbc2de2b634a-ORD
 cf-cache-status: HIT
 age: 409130

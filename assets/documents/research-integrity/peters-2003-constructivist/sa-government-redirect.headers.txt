@@ -16,7 +16,7 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a278043fb8881bb9"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=5jwJ7A16gKruo4Q7.giEjLZO5k0nN6KuS5VMFdI4DkM-1786123903.957803-1.0.1.1-XP4Eb_WZMtsadREqmQv2PmN9GE6CCvs7qoAJDQbL5QqycM8c61X50t_s4oE8MFO5OX9JW0uyV0tGl4wRs2Jd874QfkhZzFNbhBBS5vbqFs1Bdm7BC89hB_EeMBNvi.bR; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.education.sa.gov.au; Expires=Fri, 07 Aug 2026 18:01:43 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.education.sa.gov.au; Expires=Fri, 07 Aug 2026 18:01:43 GMT
 cf-ray: a278043fb8881bb9-OMA
 alt-svc: h3=":443"; ma=86400
 

@@ -3,9 +3,9 @@ date: Sat, 08 Aug 2026 14:32:29 GMT
 content-type: text/plain; charset=utf-8
 content-length: 68
 cache-control: no-store, no-cache, must-revalidate
-set-cookie: aca-session=Fe26.2**01e3b1f72090fba88e61790f32b0d109c3bc8669721e762086287a6466ad66f6*E4QQjGs6i1N8OjzPRSB-mQ*qkSUSrCpQ7eibeB4BM4R_EE4fjw18hh3n_c8Xw6kB8IkSakQIoq9djCV0nO0aBiD4Yox7AakGSHgCuHWyecT4Xs9veDdBylNNgu7uynv_dY**9335513494aad2a6179544ee52a415651eca6c4c63c41bc43b40345f123038c7*xrTZUn4Aup_38HS4ebc0VZDzYLbJUMPQbEo0JI8HcJA; Secure; HttpOnly; SameSite=Lax; Path=/
-set-cookie: session=s%3AyfkM1wmTTd6vFauvBVo2QZlOkdg_l-6I.4%2FYSzj8KAUjgxFpCVM%2FMOKwwqP7NdmHWh9bAmLJlSpY; Path=/; HttpOnly; Secure
-set-cookie: __cf_bm=g4ngFFtU2Oj5WsOYUD.on49dUsn1kf.rdvpC217iBD8-1786199548.8424716-1.0.1.1-ol6BIc8m5.ME7iWj.q9OwQGvNeM9q9O1hIC3.coZty8TdjNuKYoHp.QhR4RdwQVnZBcf8tPbX3do.fpV2hzuExLQipYPLXDGrzDTFhTqVZ1_tum8oXW3blQWer.nnAk6; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
+set-cookie: aca-session=[REDACTED]; Secure; HttpOnly; SameSite=Lax; Path=/
+set-cookie: session=[REDACTED]; Path=/; HttpOnly; Secure
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
 location: /core/product/D603F9ECA65148D8C583653E40DC02EE
 pragma: no-cache
 referrer-policy: no-referrer-when-downgrade
@@ -41,9 +41,9 @@ x-frame-options: SAMEORIGIN
 x-served-by: 
 x-varnish: 957237815
 x-xss-protection: 1; mode=block
-set-cookie: aca-session=Fe26.2**893065d2ae60152e233691365b7c7da188c332f6a26742f6408e91559aaac897*0nNLaycYx9UbsFmxaBNbzQ*Pt7opC7p1KLBqVzGthFFA9gEKVMa_Gy0jO0E1Tl1HbwE5EBXPS-J_TzpQNS5dUCr19GJMLGeWbxZaqDBn6QLrAZwSscMXCGhLdWfPtHHzCE**7ce4d1ab7512174e60889d51074033b08fce8e43f24f9decada79b9e71957771*4Kg_8pMw8KDtF_52-dYjraaJJ6lxRmWwhT0lvf5VpHM; Secure; HttpOnly; SameSite=Lax; Path=/
-set-cookie: session=s%3Are6iDGRDLWnwgh6TVtmELX8C-9sQ_2l4.6invH93iUhjtrj0DcixeN0wUB%2F2JpYuqlpAw03A8m7c; Path=/; HttpOnly; Secure
-set-cookie: __cf_bm=wYK6ROy9h9rrEpbXgzj6eJKpWyc4C1YRQmzgF9vwSvs-1786199549.0679233-1.0.1.1-pnUn3FPgglZAdDYfZX5BW4rUebs6osQNcJGlr08YkEXtFuTQbjbF258RzUURHeJzPq3Df4n.tDSaa_ndMZAORz02dPNCoovtfTsGIjrIzPGkWixqtO5X4qA6HVxGlPlX; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
+set-cookie: aca-session=[REDACTED]; Secure; HttpOnly; SameSite=Lax; Path=/
+set-cookie: session=[REDACTED]; Path=/; HttpOnly; Secure
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
 cf-cache-status: DYNAMIC
 server: cloudflare
 cf-ray: a27f3b0daceca074-OMA
@@ -64,9 +64,9 @@ x-frame-options: SAMEORIGIN
 x-served-by: 
 x-varnish: 23282624
 x-xss-protection: 1; mode=block
-set-cookie: aca-session=Fe26.2**3bee898438d64f8f9dccc595ca83be06818ed1d760bb951df54f5dc02d19e02e*nDiX2DsOW8beiUNj-PI1Tg*dyy7ChIkRYdpS97GmL42l20FCerQvxmK1VIgt2JVSa0PCLpadBDxNZVLUzoAykoZAAAUstpFTCQ26ioZ0cNlXsL669AAO767EwQrP9MasF8**e00bab0754822698b7a7ce52af064418960e764e94cde5984473e195e286f824*0Ax2rJYgI1TxDyaAd71CF5jPQuj1wG9b2yvelG9BWwA; Secure; HttpOnly; SameSite=Lax; Path=/
-set-cookie: session=s%3A-8MZntx1aZi3G4_5JVBCJvCaHQz2E3S6.Ai0z3ko7Z0IDGIvty26yXArOn8a5Q8le%2FYXQ9VeyM2c; Path=/; HttpOnly; Secure
-set-cookie: __cf_bm=OKueeUNDB_qiNFUF1sNFAcSZ_aaLSLE8iyzwPE5O86s-1786199549.2667007-1.0.1.1-GNjU.oeVpjmYARQ5jzFI7nDnSzntg.qL83z0WKXwkiFW7JDrG_TSGa7Ja.qBPVKa2KZwxshW9qCmeyeSLQY15uzUD7lmNwSt3gDa8tNpkz3O4ifg89yjQLTatIvx9ard; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
+set-cookie: aca-session=[REDACTED]; Secure; HttpOnly; SameSite=Lax; Path=/
+set-cookie: session=[REDACTED]; Path=/; HttpOnly; Secure
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:29 GMT
 cf-cache-status: DYNAMIC
 server: cloudflare
 cf-ray: a27f3b0eeef0a074-OMA
@@ -76,9 +76,9 @@ date: Sat, 08 Aug 2026 14:32:30 GMT
 content-type: text/html; charset=utf-8
 cf-cache-status: DYNAMIC
 cache-control: no-cache, no-store, must-revalidate
-set-cookie: aca-session=Fe26.2**2f995b1e30dc97dbd6c39bccdf1d5549e7c5a1c044ea3cf4509ae47831182a26*f85E3grt6mB8Mvi-3ePVeA*a7qNZ6_cpMAWHd7qwud1ktDqEi5nWA8U8s_KlH8nTzIcnfNzuHyuCM3ZPT0t_SPcYdSTxt-4yOQhHay7dj6zFKKdKPa7Jv4gnTl5uqIjB4U**b860b655c71a4f379e51da1b4ef5277fdb89621b7d0c376ac3abe37f9faeb372*A3gacmEvujj-nIB6eN_pVPFHFREekf3_7rYS0GqIeN4; Secure; HttpOnly; SameSite=Lax; Path=/
-set-cookie: session=s%3A33h2XhRVmx5SCrIY8Tr7FnJR_wmK1WC5.R%2FtottwdwqyXYYdly%2BAL4L4YhHU3urobtz691h4L0m4; Path=/; HttpOnly; Secure
-set-cookie: __cf_bm=GoTd80P4524BXFsquUi6HQipiBh2nJalZF35RnlsI9Q-1786199549.7697356-1.0.1.1-hZOpAjr9y0G_CPwDHpIv8yyY025gTkfht.cFVQTMt9XRkMYaqEPIXNn4w5seEtzLfyvjme_48L3Bi5sodDGlmHVUVNbPJrZ30TFBvfHJVxuiDDsrMJOk_FRqP.FJV.40; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:30 GMT
+set-cookie: aca-session=[REDACTED]; Secure; HttpOnly; SameSite=Lax; Path=/
+set-cookie: session=[REDACTED]; Path=/; HttpOnly; Secure
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=cambridge.org; Expires=Sat, 08 Aug 2026 15:02:30 GMT
 expires: 0
 pragma: no-cache
 referrer-policy: no-referrer-when-downgrade

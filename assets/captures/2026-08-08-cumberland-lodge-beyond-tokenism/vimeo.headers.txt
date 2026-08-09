@@ -24,5 +24,5 @@ x-served-by: cache-iad-kcgs7200086-IAD, cache-den-kden1300028-DEN
 x-timer: S1786190918.235657,VS0,VE162
 x-vimeo-error: player-backend
 x-xss-protection: 1; mode=block
-set-cookie: __cf_bm=EYnLsu2ryDoWpAD4uq54PcFLvCmSVD2mF6G4ZXpq6_o-1786190918.2243178-1.0.1.1-ZzyYy6oaVKuaNU_stq63hrr_qUerFRstc9huCiz_NbRI_CwWF17X5KAPZP72Rgyt31CU51u2_NHrDFei3C51EoVToUVDDHRfcywcJoaBfLvWl.92CoZdyMUysWqhA007; HttpOnly; SameSite=None; Secure; Path=/; Domain=vimeo.com; Expires=Sat, 08 Aug 2026 12:38:38 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=vimeo.com; Expires=Sat, 08 Aug 2026 12:38:38 GMT
 alt-svc: h3=":443"; ma=86400

@@ -16,9 +16,9 @@ x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 x-frame-options: sameorigin
 content-language: en
-set-cookie: Authenticated=false; Path=/; Secure; HttpOnly
-set-cookie: JSESSIONID=""; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
-set-cookie: JSESSIONID=ZjZjYjMwM2YtMDYwMS00NjI5LTljODEtNTIxY2I5N2IxZTk4; Path=/; Secure; HttpOnly
+set-cookie: Authenticated=[REDACTED]; Path=/; Secure; HttpOnly
+set-cookie: JSESSIONID=[REDACTED]; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+set-cookie: JSESSIONID=[REDACTED]; Path=/; Secure; HttpOnly
 vary: Accept
 x-cache: Miss from cloudfront
 via: 1.1 d52d6a81a5e16b0ec84682266c071d58.cloudfront.net (CloudFront)

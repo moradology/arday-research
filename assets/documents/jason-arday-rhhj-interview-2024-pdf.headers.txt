@@ -5,7 +5,7 @@ cache-control: private
 content-disposition: attachment;filename="+14+-+Entrevista+-+RHHJ+v13+n29.pdf";filename*=UTF-8''+14+-+Entrevista+-+RHHJ+v13+n29.pdf
 content-type: application/pdf
 pragma: public
-set-cookie: OJSSID=uf4eav0uc91kgila34qu9u16f5; path=/; domain=rhhj.emnuvens.com.br; secure; HttpOnly; SameSite=Lax
+set-cookie: OJSSID=[REDACTED]; path=/; domain=rhhj.emnuvens.com.br; secure; HttpOnly; SameSite=Lax
 via: 0.0 Caddy
 content-length: 524849
 date: Thu, 06 Aug 2026 20:54:00 GMT

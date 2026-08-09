@@ -3,7 +3,7 @@ date: Fri, 07 Aug 2026 00:31:32 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 x-powered-by: PHP/8.2.30
-set-cookie: PHPSESSID=5e2imihe9kno3m459l5dl4t5mb; path=/; secure; HttpOnly
+set-cookie: PHPSESSID=[REDACTED]; path=/; secure; HttpOnly
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate
 pragma: no-cache

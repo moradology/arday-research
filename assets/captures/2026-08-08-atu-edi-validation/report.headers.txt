@@ -10,5 +10,5 @@ x-frame-options: SAMEORIGIN
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 accept-ranges: bytes
-set-cookie: SERVERID=atu-web01-prd; path=/; HttpOnly; Secure
+set-cookie: SERVERID=[REDACTED]; path=/; HttpOnly; Secure
 

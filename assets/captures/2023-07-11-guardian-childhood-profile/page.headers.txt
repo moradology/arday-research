@@ -8,9 +8,9 @@ content-type: text/html; charset=UTF-8
 accept-ranges: bytes
 date: Sat, 08 Aug 2026 07:26:37 GMT
 x-robots-tag: bingbot: noarchive
-set-cookie: gu_client_ab_tests=growth-auxia-banner:control; path=/; max-age=2592000
-set-cookie: gu_v2_mvt_id=497; path=/; max-age=7776000
-set-cookie: GU_mvt_id=587852; expires=Fri, 06 Nov 2026 07:26:37 GMT; path=/; domain=.theguardian.com; Secure
+set-cookie: gu_client_ab_tests=[REDACTED]; path=/; max-age=2592000
+set-cookie: gu_v2_mvt_id=[REDACTED]; path=/; max-age=7776000
+set-cookie: GU_mvt_id=[REDACTED]; expires=Fri, 06 Nov 2026 07:26:37 GMT; path=/; domain=.theguardian.com; Secure
 x-timer: S1786173998.586877,VS0,VE333
 strict-transport-security: max-age=63072000; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
@@ -25,7 +25,7 @@ cache-control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, priv
 age: 0
 x-request-id: b729fa96-881d-4906-be78-00b4844d3dff
 vary: Accept-Encoding,User-Agent
-set-cookie: GU_geo_country=US; path=/; Secure
+set-cookie: GU_geo_country=[REDACTED]; path=/; Secure
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 content-length: 519920
 

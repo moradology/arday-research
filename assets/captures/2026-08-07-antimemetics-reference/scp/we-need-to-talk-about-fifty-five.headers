@@ -5,7 +5,7 @@ transfer-encoding: chunked
 x-wikidot-backend: 0f33fc9c09ae91bfc
 expires: Mon, 26 Jul 1997 05:00:00 GMT
 pragma: no-cache
-set-cookie: wikidot_token7=db5a45d6bbb1e4ea97151dc149b5598e; expires=Sat, 08-Aug-2026 21:35:59 GMT; Max-Age=86400; path=/
+set-cookie: wikidot_token7=[REDACTED]; expires=Sat, 08-Aug-2026 21:35:59 GMT; Max-Age=86400; path=/
 etag: "247595960e78c1c215e25ed9fa9eea0c"
 cache-control: no-store
 x-wikidot-static-cache: MISS

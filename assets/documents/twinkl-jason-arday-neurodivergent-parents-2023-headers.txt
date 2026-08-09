@@ -20,13 +20,13 @@ reporting-endpoints: crash-reporting="/web-reports?context=eJwNzX1MVXUcx3EO70XEB
 document-policy: include-js-call-stacks-in-crash-reports
 server: ESF
 x-xss-protection: 0
-set-cookie: __Secure-YNID=20.YT=SkzkIBYBbebJPtEtC3en4ybmdPEmmdwK_A1Yslv1Ux9mcQ9Xsb16GcwDA9g5Oo1IRHSQ2IsBTkc9c1l7QdKbo7l0mgTo-tfoerc-t7m_iktXZ-ngkSbbrCUfp-wfUsdWohEe3CaMYaXsMaio4674CwzkTS-pgdj7L90nnfrI9OQU_NZU7wzTrsZS_z_JM04Uhy1PpRnaod5aiA9UkhKrWf4-9fFNFFJAdUpV52ZKTCP9PKbqrwPM2UTkcpjPqnQr6GkJxCzhP_eIu16ewM3-aUADNWLOA97dAHZMQtvJsfUUroeD0w3noYTBF7OatfkGApCAu5bSvcn9wOrs2Ogu6Q; expires=Tue, 02-Feb-2027 15:39:36 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; SameSite=none
-set-cookie: GPS=1; Domain=.youtube.com; Expires=Thu, 06-Aug-2026 16:09:36 GMT; Path=/; Secure; HttpOnly
-set-cookie: YSC=rCL0EKGxYx4; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
-set-cookie: __Secure-YEC=; Domain=.youtube.com; Expires=Fri, 10-Nov-2023 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=lax
-set-cookie: VISITOR_INFO1_LIVE=A3xYRoHGULM; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none
-set-cookie: VISITOR_PRIVACY_METADATA=CgJVUxIEGgAgNQ%3D%3D; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none
-set-cookie: __Secure-ROLLOUT_TOKEN=COPgjLjksJ_b5QEQ7OT4j6uMlgMY7OT4j6uMlgM%3D; Domain=youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+set-cookie: __Secure-YNID=[REDACTED]; expires=Tue, 02-Feb-2027 15:39:36 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; SameSite=none
+set-cookie: GPS=[REDACTED]; Domain=.youtube.com; Expires=Thu, 06-Aug-2026 16:09:36 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=[REDACTED]; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: __Secure-YEC=[REDACTED]; Domain=.youtube.com; Expires=Fri, 10-Nov-2023 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=lax
+set-cookie: VISITOR_INFO1_LIVE=[REDACTED]; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: VISITOR_PRIVACY_METADATA=[REDACTED]; Domain=.youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none
+set-cookie: __Secure-ROLLOUT_TOKEN=[REDACTED]; Domain=youtube.com; Expires=Tue, 02-Feb-2027 15:39:36 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 accept-ranges: none
 vary: Sec-CH-Viewport-Width, Sec-CH-DPR, Device-Memory,Accept-Encoding

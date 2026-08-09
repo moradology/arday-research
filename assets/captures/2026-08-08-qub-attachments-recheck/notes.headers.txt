@@ -17,7 +17,7 @@ server-timing: chlray;desc="a27cf58808dbdac2"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=2592000; preload
-set-cookie: __cf_bm=bcYeyrDF1QGWGpCb4_5N4KrgMgGAIBimIM3ueGVqqC0-1786175729.9302087-1.0.1.1-BXcN.Gs2buXa9iRjmEFsVA89fslnhTxAZ_tDJe5TmtBh8PKR8dlNHM53IhCDmj6jArb10OcHi4ofUfbdwFVeZYk75_IVkfLXnl6Pm4Nux_xuMGqJ2hf1nce_ZN.b6Iw3; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.qub.ac.uk; Expires=Sat, 08 Aug 2026 08:25:29 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.qub.ac.uk; Expires=Sat, 08 Aug 2026 08:25:29 GMT
 cf-ray: a27cf58808dbdac2-OMA
 alt-svc: h3=":443"; ma=86400
 

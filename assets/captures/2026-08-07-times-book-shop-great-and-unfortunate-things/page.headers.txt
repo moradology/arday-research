@@ -26,13 +26,13 @@ x-frame-options: deny
 x-makeswift-page-locale: en
 x-makeswift-stable-page-reference: product-462444
 x-permitted-cross-domain-policies: none
-set-cookie: SF-CSRF-TOKEN=3faeb7e7-b840-4e5e-a147-1f73c7d8c474; Path=/; Secure; SameSite=Strict
-set-cookie: fornax_anonymousId=e394b0fb-66ee-415a-8453-671135d79dba; Expires=Sun, 06 Aug 2028 20:08:55 GMT; Path=/; Secure; SameSite=None
-set-cookie: athena_short_visit_id=fe320793-f5b5-41c8-bba0-07a57acb8a48:1786133335; Expires=Fri, 07 Aug 2026 20:38:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
-set-cookie: Shopper-Pref=7A7AEDF6A391F5E7272DD1E08AC4FFDBECE6B48A-1786738135985-x%7B%22cur%22%3A%22GBP%22%2C%22funcConsent%22%3Atrue%7D; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly
-set-cookie: XSRF-TOKEN=c570f0894c99aeeab0bab189c251736d0347bea9dd64e74f74d082a55c08b3fd; path=/; Secure; SameSite=none
-set-cookie: SHOP_SESSION_TOKEN=3633d0da-b479-4ebe-a547-6bf264a61a8c; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
-set-cookie: __cf_bm=ApLZDPutb6Dja01IubjR81wmWONU4FloVVLa8ZtzFF8-1786133335.1349418-1.0.1.1-99mASewPPHqgQzPl9789EI1wAEtm.0QQnrFVRR2pds3TfRZvfp.ytCu9agFeznJv.UxELc_FMZoeuY3tIRND.Ttng0DTguP890_kOFlv.sBN5Ihtb_9NrIMO3GEimiY.; HttpOnly; SameSite=None; Secure; Path=/; Domain=timesbookshop.co.uk; Expires=Fri, 07 Aug 2026 20:38:56 GMT
+set-cookie: SF-CSRF-TOKEN=[REDACTED]; Path=/; Secure; SameSite=Strict
+set-cookie: fornax_anonymousId=[REDACTED]; Expires=Sun, 06 Aug 2028 20:08:55 GMT; Path=/; Secure; SameSite=None
+set-cookie: athena_short_visit_id=[REDACTED]; Expires=Fri, 07 Aug 2026 20:38:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
+set-cookie: Shopper-Pref=[REDACTED]; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly
+set-cookie: XSRF-TOKEN=[REDACTED]; path=/; Secure; SameSite=none
+set-cookie: SHOP_SESSION_TOKEN=[REDACTED]; Expires=Fri, 14 Aug 2026 20:08:55 GMT; Path=/; Secure; HttpOnly; SameSite=None
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=timesbookshop.co.uk; Expires=Fri, 07 Aug 2026 20:38:56 GMT
 report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pF07qSGUJq%2B9ky04UrJCXJrNicIm3IiAKZT2aMfvStZyHmPbT4phyDVIhvQnRBGID1uF8y51sOJGzIRpEkCSRcjllaLwlj7E2x93dUIKxjHCVoaZZkiIdaP9RDq2EyLGGQ8QZnU%3D"}]}
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
 content-encoding: br

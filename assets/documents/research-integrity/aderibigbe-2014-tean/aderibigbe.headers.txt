@@ -4,7 +4,7 @@ content-disposition: attachment;filename=administrator%2C+Journal+manager%2C+S2-
 cache-control: private
 pragma: public
 strict-transport-security: max-age=31536000; includeSubDomains; preload
-set-cookie: OJSSIID=4ee5d2949564e50443eb60469c8adbf4; path=/; domain=ojs.cumbria.ac.uk; secure; HttpOnly; SameSite=Lax;HttpOnly;Secure
+set-cookie: OJSSIID=[REDACTED]; path=/; domain=ojs.cumbria.ac.uk; secure; HttpOnly; SameSite=Lax;HttpOnly;Secure
 x-frame-options: sameorigin
 vary: User-Agent,Accept-Encoding
 referrer-policy: no-referrer

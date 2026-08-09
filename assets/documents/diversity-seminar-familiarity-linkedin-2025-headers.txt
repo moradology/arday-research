@@ -4,12 +4,12 @@ content-type: text/html; charset=utf-8
 vary: Accept-Encoding
 server: cloudflare
 x-fs-uuid: 00065862ba9bf43896366f29ee9c5eed
-set-cookie: JSESSIONID=ajax:2892312594180715964; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure
-set-cookie: lang=v=2&lang=en-us; SameSite=None; Path=/; Domain=linkedin.com; Secure
-set-cookie: bcookie="v=2&1aede65f-1154-42ab-8d24-3721efe0d4f0"; domain=.linkedin.com; Path=/; Secure; Expires=Fri, 06-Aug-2027 15:42:01 GMT; SameSite=None
-set-cookie: bscookie="v=1&2026080615420180413f68-7b17-4c33-8262-fc29e05af9e7AQF6vTSW8rZiERWag0TObAldX8XqGMeF"; domain=.www.linkedin.com; Path=/; Secure; Expires=Fri, 06-Aug-2027 15:42:01 GMT; HttpOnly; SameSite=None
-set-cookie: lidc="b=OGST08:s=O:r=O:a=O:p=O:g=3471:u=1:x=1:i=1786030921:t=1786117321:v=2:sig=AQF6B7nmQmEr9zByLPaabcPO2aw55SPA"; Expires=Fri, 07 Aug 2026 15:42:01 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
-set-cookie: __cf_bm=Coz3bJ69IVe4G8UcCuyhZq2lrElBDMvimylrKKI_GTU-1786030921.0548837-1.0.1.1-tXtIwOpf5nUssTIq9Nibisu_0UJJJfiVCPSvI5Ihe1YNz_nzBstGAvYqXwzBJxExchDDz1Ox0AwfAm..n9DKsc1Hjc71sl0Qkaa6ixjHgRriZVNsS2N6JJLOFtpqtRKY; HttpOnly; SameSite=None; Secure; Path=/; Domain=linkedin.com; Expires=Thu, 06 Aug 2026 16:12:01 GMT
+set-cookie: JSESSIONID=[REDACTED]; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure
+set-cookie: lang=[REDACTED]; SameSite=None; Path=/; Domain=linkedin.com; Secure
+set-cookie: bcookie=[REDACTED]; domain=.linkedin.com; Path=/; Secure; Expires=Fri, 06-Aug-2027 15:42:01 GMT; SameSite=None
+set-cookie: bscookie=[REDACTED]; domain=.www.linkedin.com; Path=/; Secure; Expires=Fri, 06-Aug-2027 15:42:01 GMT; HttpOnly; SameSite=None
+set-cookie: lidc=[REDACTED]; Expires=Fri, 07 Aug 2026 15:42:01 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=linkedin.com; Expires=Thu, 06 Aug 2026 16:12:01 GMT
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
 x-frame-options: sameorigin

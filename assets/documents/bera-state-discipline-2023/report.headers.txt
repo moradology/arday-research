@@ -10,7 +10,7 @@ robots: none
 content-description: File Transfer
 content-disposition: inline; filename="BERA_State-of-the-Discipline-Staff-equality_digital.pdf"
 content-transfer-encoding: binary
-set-cookie: PHPSESSID=hdh1n8lo8u25fn00ei14q72820; path=/
+set-cookie: PHPSESSID=[REDACTED]; path=/
 vary: Accept-Encoding,User-Agent
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}

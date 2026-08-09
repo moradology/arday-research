@@ -11,6 +11,6 @@ etag: "6a429d14-1787c"
 last-modified: Mon, 29 Jun 2026 16:28:04 GMT
 server: cloudflare
 vary: accept-encoding
-set-cookie: __cf_bm=5Dhg0fpTt5RInEymASC2iKjUxfy.iwzMTQBPCkrVsZc-1786173253.589712-1.0.1.1-hjSUXedIJVsILbeKecisEpRkQoJyJBcEEWX4ojFz1ohmCJ2FkQ2g5G6xqCzOPfUb641swDRDhwrbiPY.2mQdoSeCwNq3hT90iO1W2iwUsQSSKwQ.1n3P3tWFv_ZVQqDS; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 07:44:13 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.advance-he.ac.uk; Expires=Sat, 08 Aug 2026 07:44:13 GMT
 alt-svc: h3=":443"; ma=86400
 

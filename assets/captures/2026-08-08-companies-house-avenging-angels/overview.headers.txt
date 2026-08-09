@@ -4,8 +4,8 @@ content-type: text/html;charset=UTF-8
 content-length: 34889
 cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 pragma: no-cache
-set-cookie: sft=; path=/company
-set-cookie: __SID=qW2t5RfeRlMxstBngM20ao5pSGk6y+xfhcZb6639Nys+3V6uepjkVMc; expires=Sat, 08 Aug 2026 05:32:56 GMT; domain=company-information.service.gov.uk; path=/; secure; HttpOnly
+set-cookie: sft=[REDACTED]; path=/company
+set-cookie: __SID=[REDACTED]; expires=Sat, 08 Aug 2026 05:32:56 GMT; domain=company-information.service.gov.uk; path=/; secure; HttpOnly
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
 x-frame-options: DENY

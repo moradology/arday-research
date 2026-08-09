@@ -16,5 +16,5 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a277c803fb4a1bb9"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=_mKjf1yE1GoLMHefYCH7gB6puiLt53HlVa9fKIE5qNM-1786121436.7934551-1.0.1.1-CEiLBrkqL5aWMy_k8XBRmUmEJ9JOAQ2Nl0OptYDpta0LxpstaO04XxoCKnR4zr_SWiGBF_LjbBRnf6YqKJwZ9IdDdtCGfiWaaZBfAy_a8GPtV_T.QW9YvK4w6L5KC5B.; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucu.org.uk; Expires=Fri, 07 Aug 2026 17:20:36 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.ucu.org.uk; Expires=Fri, 07 Aug 2026 17:20:36 GMT
 cf-ray: a277c803fb4a1bb9-OMA

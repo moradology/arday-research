@@ -3,8 +3,8 @@ date: Sun, 09 Aug 2026 00:16:00 GMT
 content-length: 0
 server: cloudflare
 location: /news/
-set-cookie: ARRAffinity=56aa1dfe608995444fe6780ae3ab060252757e204fbbc224599d84d43a9aaeb3;Path=/;HttpOnly;Secure;Domain=www.roehampton.ac.uk
-set-cookie: ARRAffinitySameSite=56aa1dfe608995444fe6780ae3ab060252757e204fbbc224599d84d43a9aaeb3;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.roehampton.ac.uk
+set-cookie: ARRAffinity=[REDACTED];Path=/;HttpOnly;Secure;Domain=www.roehampton.ac.uk
+set-cookie: ARRAffinitySameSite=[REDACTED];Path=/;HttpOnly;SameSite=None;Secure;Domain=www.roehampton.ac.uk
 request-context: appId=cid-v1:9352c100-cbd6-4163-a9e5-a0b3b792a7c0
 cf-cache-status: DYNAMIC
 cf-ray: a28291d37f5ac071-ORD
@@ -14,9 +14,9 @@ HTTP/2 200
 date: Sun, 09 Aug 2026 00:16:01 GMT
 content-type: text/html; charset=utf-8
 server: cloudflare
-set-cookie: EPiStateMarker=true; path=/; secure
-set-cookie: ARRAffinity=9eb9dc150f2bea58644395e856debf7347eaffe789c6bcacc49c4e292f60982f;Path=/;HttpOnly;Secure;Domain=www.roehampton.ac.uk
-set-cookie: ARRAffinitySameSite=9eb9dc150f2bea58644395e856debf7347eaffe789c6bcacc49c4e292f60982f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.roehampton.ac.uk
+set-cookie: EPiStateMarker=[REDACTED]; path=/; secure
+set-cookie: ARRAffinity=[REDACTED];Path=/;HttpOnly;Secure;Domain=www.roehampton.ac.uk
+set-cookie: ARRAffinitySameSite=[REDACTED];Path=/;HttpOnly;SameSite=None;Secure;Domain=www.roehampton.ac.uk
 request-context: appId=cid-v1:9352c100-cbd6-4163-a9e5-a0b3b792a7c0
 cf-cache-status: DYNAMIC
 cf-ray: a28291d5ae13c071-ORD

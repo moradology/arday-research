@@ -4,7 +4,7 @@ location: https://research.manchester.ac.uk/en/publications/ethnic-education-and
 server: cloudflare
 strict-transport-security: max-age=2592000; preload
 vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
-set-cookie: __cf_bm=LiZqd8BZBBX_g9iZEqPj66xw9ETYir9gaEhiU_1KEKk-1786039617.4906573-1.0.1.1-WmeEWjRrfopkg1fm.ez3wR0KavA2xpks9WPN1WTplBWgh74plNts8MTMEPpVEA927tsTBZHxbPt4HWE_b2MRHfSY4U7wX2S6hdvtH9d.yzdLRjNlWljIVYg2DtzaKUCS; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:57 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:57 GMT
 cf-cache-status: BYPASS
 cf-ray: a26ffa794938b5fc-OMA
 alt-svc: h3=":443"; ma=86400
@@ -24,7 +24,7 @@ vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 x-product: Pure Portal
-set-cookie: __cf_bm=GtiBs5FUxP3lxzbEwBxe5b3plK6u31wUSR9LT0svKfI-1786039617.8657556-1.0.1.1-HGWM6ZLRQszzQ6cyrxZ2qHuunSAYK8t1Xjcd844QQ7a7ynwzcec1KWqasS8Asin8DMRo8PRE8z5rLyEbaXwuLrBcpbVCiKTcahUpi2fNpdvO0Ao..wh8uoUYfaftKxoH; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:58 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=research.manchester.ac.uk; Expires=Thu, 06 Aug 2026 18:36:58 GMT
 cf-cache-status: BYPASS
 cf-ray: a26ffa7bad8ab5fc-OMA
 alt-svc: h3=":443"; ma=86400

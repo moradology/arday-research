@@ -14,6 +14,6 @@ x-cache: MISS
 x-cache-group: normal
 last-modified: Sat, 08 Aug 2026 12:08:32 GMT
 cf-cache-status: MISS
-set-cookie: __cf_bm=sGF.ZsTAfxynYyYSHL4Q9oAYq0B7V6z_LKTfeKBI52E-1786190910.2938066-1.0.1.1-oIn5AmkIVSHXwo.OKkFqAf1wOGWtzgfNaNNquI2xeX7iIxvvhdEUgkISqdrbBtNDRZSbbSP.brl97H4PeIwFE.DLnDQdV9hAiINt1Wm92F8vGvWok_cHRCdUHrSlbbyY; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.cumberlandlodge.ac.uk; Expires=Sat, 08 Aug 2026 12:38:32 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.cumberlandlodge.ac.uk; Expires=Sat, 08 Aug 2026 12:38:32 GMT
 cf-ray: a27e68255bd618b6-OMA
 alt-svc: h3=":443"; ma=86400

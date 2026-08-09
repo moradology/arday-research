@@ -17,7 +17,7 @@ x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 speculation-rules: "/cdn-cgi/speculation"
 vary: accept-encoding
-set-cookie: __cf_bm=WFE..OZw33lW5Lm7hGC7P0K92Bbue5WjEAEHwpE7m6U-1786116860.7288954-1.0.1.1-__t09N.na3nF3ALFxSbVO90BZ7f.Dx.Yv121RhKEazJ14rhDY9Mnx8M61nMwHBiQkFQu8vXLAIRovi_Xq5RgoR9hJvMnhITva4lceUEKElfDCaogvtKP19ncO5FcwMD6; HttpOnly; SameSite=None; Secure; Path=/; Domain=deepdyve.com; Expires=Fri, 07 Aug 2026 16:04:20 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=deepdyve.com; Expires=Fri, 07 Aug 2026 16:04:20 GMT
 content-encoding: gzip
 cf-ray: a277584b8ba1d3d3-OMA
 alt-svc: h3=":443"; ma=86400

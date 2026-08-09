@@ -5,7 +5,7 @@ cache-control: private
 content-disposition: attachment;filename="+14+-+Entrevista+-+RHHJ+v13+n29.pdf";filename*=UTF-8''+14+-+Entrevista+-+RHHJ+v13+n29.pdf
 content-type: application/pdf
 pragma: public
-set-cookie: OJSSID=m1dlpd8q0hcomv6n0sepoas2u0; path=/; domain=rhhj.anpuh.org; secure; HttpOnly; SameSite=Lax
+set-cookie: OJSSID=[REDACTED]; path=/; domain=rhhj.anpuh.org; secure; HttpOnly; SameSite=Lax
 via: 0.0 Caddy
 content-length: 524849
 date: Fri, 07 Aug 2026 17:13:54 GMT

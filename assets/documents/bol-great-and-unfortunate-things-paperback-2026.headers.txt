@@ -6,7 +6,7 @@ ssa: sr
 vary: Accept-Encoding
 content-length: 4692
 date: Thu, 06 Aug 2026 19:32:23 GMT
-set-cookie: BUI=1efd9e2f-d856-4dc0-9e14-c8521688174d; Path=/; Domain=www.bol.com; Max-Age=94608000; Secure
+set-cookie: BUI=[REDACTED]; Path=/; Domain=www.bol.com; Max-Age=94608000; Secure
 alt-svc: h3=":443"; ma=93600
 strict-transport-security: max-age=31536000
 

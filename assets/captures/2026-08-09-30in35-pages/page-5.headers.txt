@@ -20,7 +20,7 @@ x-app-server: wwwb-app218-dc8
 x-ts: 200
 x-tr: 389
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
-set-cookie: wb-p-SERVER=wwwb-app218; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 cache-control: private
 x-location: All
 x-as: 35986

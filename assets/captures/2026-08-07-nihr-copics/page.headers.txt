@@ -12,7 +12,7 @@ X-Varnish: 152699924
 Age: 0
 Via: 1.1 varnish (Varnish/6.5)
 X-Cache: MISS
-Set-Cookie: ANONSERVERID=app-anonx-2.haiku.fry=c1; path=/
+Set-Cookie: ANONSERVERID=[REDACTED]; path=/
 Via: 1.1 www.arc-oxtv.nihr.ac.uk
 Strict-Transport-Security: max-age=15768000
 
@@ -30,7 +30,7 @@ Age: 0
 Via: 1.1 varnish (Varnish/6.5)
 X-Cache: MISS
 Accept-Ranges: bytes
-Set-Cookie: ANONSERVERID=app-anonx-1.haiku.fry=c2; path=/
+Set-Cookie: ANONSERVERID=[REDACTED]; path=/
 Via: 1.1 www.arc-oxtv.nihr.ac.uk
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=15768000

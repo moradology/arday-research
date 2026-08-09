@@ -10,7 +10,7 @@ x-content-type-options: nosniff
 referrer-policy: same-origin
 cross-origin-opener-policy: same-origin
 x-envoy-upstream-service-time: 5
-set-cookie: ncbi_sid=9F5A63B3A77071F3_2265SID; Domain=.nih.gov; expires=Sun, 08 Aug 2027 10:41:24 GMT; Max-Age=31536000; Path=/
+set-cookie: ncbi_sid=[REDACTED]; Domain=.nih.gov; expires=Sun, 08 Aug 2027 10:41:24 GMT; Max-Age=31536000; Path=/
 x-ua-compatible: IE=Edge
 x-xss-protection: 1; mode=block
 via: 1.1 google

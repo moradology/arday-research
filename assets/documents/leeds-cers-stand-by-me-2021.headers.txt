@@ -16,7 +16,7 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a270081a2ebc06b5"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=oAXwydF_Dx.c.BV0jLPcVvUPFMVoB9SfoP3aX2VY7Jg-1786040175.7009666-1.0.1.1-w_GTa0gTLAzvlFS38SGXJEkTrap5uC7GWsjsJdbw1rstYEVSJGDYcLQuf1RC17Ss_W_1Y0p62gOaL3HfdruMMBBnZHq_N1vWB2GUvbLOEq0s5MLox917k_AAm3iS5zxj; HttpOnly; SameSite=None; Secure; Path=/; Domain=cers.leeds.ac.uk; Expires=Thu, 06 Aug 2026 18:46:15 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=cers.leeds.ac.uk; Expires=Thu, 06 Aug 2026 18:46:15 GMT
 cf-ray: a270081a2ebc06b5-OMA
 alt-svc: h3=":443"; ma=86400
 

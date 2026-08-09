@@ -6,7 +6,7 @@ expires: Thu, 01 Jan 1970 00:00:01 GMT
 referrer-policy: same-origin
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=31536000; includeSubDomains; preload
-set-cookie: __cf_bm=.QsZroHIJGWoWgrGd4VxuXd3G9TSYnu9biIZ7OJtshg-1786068256.4054196-1.0.1.1-nlQuV1J6kp1T.y5tY6jU7I8b7bn1SPqLL_QYyTg5u3sIRjmD8AJA8cCE_EskP.ezGeoaMN3TIBuQsAAzv31gKJ4J2kvvHhxo9yotS2fcH64.hLRolF6yD_ZIZ6JtlGQT; HttpOnly; SameSite=None; Secure; Path=/; Domain=researchgate.net; Expires=Fri, 07 Aug 2026 02:34:16 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=researchgate.net; Expires=Fri, 07 Aug 2026 02:34:16 GMT
 cross-origin-opener-policy: same-origin
 server: cloudflare
 cf-ray: a272b5aa8a91ef9e-OMA

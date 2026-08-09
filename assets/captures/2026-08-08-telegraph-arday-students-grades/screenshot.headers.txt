@@ -9,5 +9,5 @@ etag: 4fcf082-6458-6f2a5c6a
 last-modified: Sat, 08 Aug 2026 03:48:04 GMT
 cache-control: maxage=3600
 expires: Sat, 08 Aug 2026 12:53:04 GMT
-set-cookie: qki=17553888732528352915; Max-Age=3600; Domain=.archive.ph; Path=/
+set-cookie: qki=[REDACTED]; Max-Age=3600; Domain=.archive.ph; Path=/
 accept-ranges: bytes

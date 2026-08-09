@@ -8,7 +8,7 @@ Content-Security-Policy: default-src https: 'unsafe-inline' 'unsafe-eval'; conne
 Content-Type: text/html; charset=utf-8
 Date: Thu, 06 Aug 2026 18:25:44 GMT
 Server: nginx
-set-cookie: ember_simple_auth-session=%7B%22authenticated%22%3A%7B%7D%7D; path=/
+set-cookie: ember_simple_auth-session=[REDACTED]; path=/
 Strict-Transport-Security: max-age=31536000; includeSubdomains;
 Vary: Accept-Encoding, Origin, x-wnyc-ember
 Via: 1.1 varnish-v4

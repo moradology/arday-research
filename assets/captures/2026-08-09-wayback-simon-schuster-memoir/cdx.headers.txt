@@ -7,7 +7,7 @@ x-app-server: wwwb-app217-dc8
 x-ts: 200
 x-tr: 1376
 server-timing: TR;dur=0,Tw;dur=4814,Tc;dur=0
-set-cookie: wb-cdx-nomatch-SERVER=wwwb-app217; path=/
+set-cookie: wb-cdx-nomatch-SERVER=[REDACTED]; path=/
 x-location: cdx
 x-rl: 0
 x-na: 0

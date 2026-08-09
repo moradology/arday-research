@@ -18,8 +18,8 @@ x-frame-options: SAMEORIGIN
 x-runtime: 0.233343
 x-content-type-options: nosniff
 x-content-type-options: nosniff
-set-cookie: _holos_session=h0EdSB7zczW%2Ffm1qWI2JomtCsrqLv%2FvR3r%2B5eudpQekwU9%2FEeMx7dVNEYblM3Sc6RB3%2BnoG1GukiTaZfUXFnkpgriljW5R74xRMFCxsFD4agVW1t8wbRobh%2FDPHXNFanzoa5x5tpE004OkEHYOWKRjQOTRDNZlZRv35UOSGObWqRxyg%2BrUnmqoJovql1fXCESqMQ9W04pivoS5cnm3yj8ENHW5Wcp0NNejbZb5SDM2N%2BnE4kPi%2FW%2B4OZ2F5LRcBkPaEmLLsB4%2FEP%2BivttEKxu0mkvu9W8A%3D%3D--m7bpdTjO3DexRokI--iqoQYbNFan4bN7vU6cdzvA%3D%3D; path=/; HttpOnly; SameSite=Lax
-set-cookie: __cf_bm=PuOtr3UZuWcEb0QLLMHZE0s9q0R4pvQe57oX0u7wR28-1786237669.572152-1.0.1.1-I6j8gHpXpqb7NOkREGodKZJvfdMdL9i793WBhzzjt6bjvEVAoR568vROd9.__PevbwxjjCLXkKLYB6ezb_d59_Xj5DP.zuCyBUODDtpGsiqRkVc6k1IlXCspE.rt43yB; HttpOnly; SameSite=None; Secure; Path=/; Domain=simonandschuster.net; Expires=Sun, 09 Aug 2026 01:37:49 GMT
+set-cookie: _holos_session=[REDACTED]; path=/; HttpOnly; SameSite=Lax
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=simonandschuster.net; Expires=Sun, 09 Aug 2026 01:37:49 GMT
 content-security-policy: default-src * data: blob: 'unsafe-eval' 'unsafe-inline'
 strict-transport-security: max-age=31536000; includeSubDomains
 cf-cache-status: DYNAMIC

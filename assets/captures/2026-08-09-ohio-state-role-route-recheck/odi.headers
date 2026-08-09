@@ -22,7 +22,7 @@ date: Sun, 09 Aug 2026 01:57:37 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 x-frame-options: SAMEORIGIN
-set-cookie: PPSESSION=3gh89c615hlam5febshq0t0ihi; path=/; samesite=lax; secure; HttpOnly
+set-cookie: PPSESSION=[REDACTED]; path=/; samesite=lax; secure; HttpOnly
 cache-control: no-store, no-cache, must-revalidate
 pragma: no-cache
 last-modified: Sun, 09 Aug 2026 01:40:07 GMT

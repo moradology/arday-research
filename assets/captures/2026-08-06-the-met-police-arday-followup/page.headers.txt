@@ -16,8 +16,8 @@ via: 1.1 varnish, 1.1 varnish
 accept-ranges: bytes
 age: 11279
 date: Sat, 08 Aug 2026 23:37:02 GMT
-set-cookie: geoCountry=US; Domain=.timeshighereducation.com; Path=/
-set-cookie: siteCountry=GB; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
+set-cookie: geoCountry=[REDACTED]; Domain=.timeshighereducation.com; Path=/
+set-cookie: siteCountry=[REDACTED]; Max-Age=63072000; Domain=.timeshighereducation.com; Path=/
 x-served-by: cache-lcy-egml8630036-LCY, cache-dfw-kdfw8210084-DFW
 x-cache: HIT, MISS
 x-cache-hits: 3, 0

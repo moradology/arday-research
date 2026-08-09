@@ -11,7 +11,7 @@ strict-transport-security: max-age=2592000; preload
 vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
 x-content-type-options: nosniff
 x-frame-options: DENY
-set-cookie: __cf_bm=fSl9_V0cAR3w3T88TUDLR1NktUbexOGu5pfuQOEp58c-1786092975.4571178-1.0.1.1-TuVVspBXscJCRpdJSwRr0vDgMZpj_2SPlaT15FxD0PhWaiWlkjXFdXoEZPkcuaNC0Ztc3wT0crUbGHypCRMuVnwgNeIKfbxjTy3cQQQXBLeqmxjKXYLkz.bg7wA13aFP; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.coventry.ac.uk; Expires=Fri, 07 Aug 2026 09:26:15 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.coventry.ac.uk; Expires=Fri, 07 Aug 2026 09:26:15 GMT
 age: 0
 last-modified: Fri, 07 Aug 2026 08:56:14 GMT
 expires: Fri, 07 Aug 2026 12:56:15 GMT

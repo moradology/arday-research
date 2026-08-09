@@ -33,7 +33,7 @@ x-app-server: wwwb-app244-dc8
 x-ts: 200
 x-tr: 417
 server-timing: TR;dur=0,Tw;dur=0,Tc;dur=3
-set-cookie: wb-p-SERVER=wwwb-app244; path=/
+set-cookie: wb-p-SERVER=[REDACTED]; path=/
 cache-control: private
 x-rl: 0
 x-na: 0

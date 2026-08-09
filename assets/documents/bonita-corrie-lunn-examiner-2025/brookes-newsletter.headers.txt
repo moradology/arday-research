@@ -9,8 +9,8 @@ cache-control: public, must-revalidate,no-cache
 etag: "638949916652785051"
 expires: Fri, 07 Aug 2026 09:51:13 GMT
 last-modified: Thu, 02 Oct 2025 07:47:45 GMT
-set-cookie: ARRAffinity=9d7c7f91697d0127cf62a671604c0105a87a17711ef5caf56fe8a4941fca5dbf;Path=/;HttpOnly;Secure;Domain=www.brookes.ac.uk
-set-cookie: ARRAffinitySameSite=9d7c7f91697d0127cf62a671604c0105a87a17711ef5caf56fe8a4941fca5dbf;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.brookes.ac.uk
+set-cookie: ARRAffinity=[REDACTED];Path=/;HttpOnly;Secure;Domain=www.brookes.ac.uk
+set-cookie: ARRAffinitySameSite=[REDACTED];Path=/;HttpOnly;SameSite=None;Secure;Domain=www.brookes.ac.uk
 request-context: appId=cid-v1:1657d33c-0149-47cb-a696-10bd7908020a
 content-security-policy: frame-ancestors 'self' *.brookes.ac.uk;
 x-xss-protection: 1; mode=block

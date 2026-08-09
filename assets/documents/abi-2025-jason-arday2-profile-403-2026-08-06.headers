@@ -16,7 +16,7 @@ referrer-policy: same-origin
 server-timing: chlray;desc="a26ed8f6e800d18c"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=au9TOT5OCp7lA5lwOFo34OEK0DJWKEBEYYXgpjSl5xk-1786027759.183377-1.0.1.1-TAvbU1NUonfiT.uqvI4QCVoUxkMRImen_rE3fI5UzQHKExp7uQkdZ2FIqUAJytpvNYU7ZkAKOmxWKp97gysV2idt6v4NChdUGEWBBjmP2gImlg0o7zv7GvBcBnDO0s4I; HttpOnly; SameSite=None; Secure; Path=/; Domain=abi.org.uk; Expires=Thu, 06 Aug 2026 15:19:19 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=abi.org.uk; Expires=Thu, 06 Aug 2026 15:19:19 GMT
 cf-ray: a26ed8f6e800d18c-OMA
 alt-svc: h3=":443"; ma=86400
 

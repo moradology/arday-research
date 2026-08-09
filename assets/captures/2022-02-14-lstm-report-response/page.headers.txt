@@ -5,8 +5,8 @@ server: cloudflare
 x-robots-tag: noindex, nofollow
 vary: Accept-Encoding
 vary: Cookie
-set-cookie: device=3; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
-set-cookie: device_type=0; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
+set-cookie: device_type=[REDACTED]; expires=Sat, 08-Aug-2026 06:58:44 GMT; Max-Age=7200; path=/; domain=.lstmed.ac.uk; secure; HttpOnly
 x-xss-protection: 1
 x-xss-protection: 0
 x-frame-options: SAMEORIGIN

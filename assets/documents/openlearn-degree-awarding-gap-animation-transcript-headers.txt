@@ -17,7 +17,7 @@ server-timing: chlray;desc="a26ff04c89ecb5fc"
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
 strict-transport-security: max-age=15552000; includeSubDomains; preload
-set-cookie: __cf_bm=Ici6wNj_IKddnjANPhJB10ILKGp4luL00zjtCp98__I-1786039200.7235992-1.0.1.1-JNJcxSvwLjuqteAnGbzwdfhzC4K1RCeTl3iB6NTF6mfvhRTDsVWLZWz0D.b7CnEjaZySQTEy8eIF3dIHFPlRiTIjO5YIBn1udwjdvNVuDxxfP265OQslZZbqwnoHdXDp; HttpOnly; SameSite=None; Secure; Path=/; Domain=open.ac.uk; Expires=Thu, 06 Aug 2026 18:30:00 GMT
+set-cookie: __cf_bm=[REDACTED]; HttpOnly; SameSite=None; Secure; Path=/; Domain=open.ac.uk; Expires=Thu, 06 Aug 2026 18:30:00 GMT
 expect-ct: max-age=86400, enforce
 x-xss-protection: 1; mode=block
 cf-ray: a26ff04c89ecb5fc-OMA
