@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1101/C-1301: scholarly/library and subject-centred output boundary
+
+Exact-name searches across library catalogues, ISBN/book-chapter results, publisher records, repositories, interviews, childhood profiles, and football/snooker terms were reconciled against the existing source graph. *Cool Britannia*, *The Black PhD Experience*, *We See Things They'll Never See*, and *Great and Unfortunate Things* all returned already-canonical manifestations. A public educational-exam PDF reproduced familiar biography but supplied no independent provenance. Crossref's 2026 exact-author results likewise reduced to the already-canonical OSF v1/v2 records. No new Arday-authored work, full text, interview/video artifact, or independent childhood/sports record was recovered. Reopen only on a concrete new bibliographic key, primary artifact, or independent record; do not rerun the unchanged catalogue queries.
+
 ## 2026-08-09 — SRC-1100/C-1300: Soho Agency profile disappearance boundary
 
 The honors/profile search surfaced a Soho Agency expert-page lead for Jason Arday. The canonical route was fetched directly and returned HTTP 404 with a “Page not found” body. A direct WordPress REST search for `Jason Arday` returned an empty array, and an exact-route Wayback CDX request returned no HTTP-200 HTML snapshot. Search indexing still exposes agency-side biography snippets, but no recoverable profile body, portrait, speaker-booking record, or archive replay was found.
