@@ -1,5 +1,8 @@
 # Next actions
 
+Fresh scholarly-manifestation checkpoint: `SRC-894/C-905–C-906` — Roehampton’s Research Explorer now has a locally preserved metadata page and “Final published version” PDF for Arday’s 2018 mental-health article. The PDF is byte-distinct but text-identical to SRC-174’s MDPI copy and remains deduplicated by DOI. Reopen only for a materially different article text, correction, retraction, metadata change, or page-specific audit.
+
+
 Fresh institutional teaching checkpoint: `SRC-893/C-903–C-904` — Roehampton’s indexed February 2023 profile describes Arday as a former School of Education lecturer and 2018 senior lecturer, while the current canonical route redirects to `/news/`. HTML and headers are preserved. Reopen only for a lawful archived page, first-party replacement/correction, contemporaneous module records, or named institutional response; do not infer deletion motive or treat the indexed text as module-specific corroboration.
 
 

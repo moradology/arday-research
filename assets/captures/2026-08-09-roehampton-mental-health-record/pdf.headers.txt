@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Sun, 09 Aug 2026 00:18:45 GMT
+content-type: application/pdf
+cache-control: max-age=14400
+content-security-policy: script-src 'none'
+pragma: public
+referrer-policy: origin
+server: cloudflare
+strict-transport-security: max-age=2592000; preload
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+last-modified: Sun, 09 Aug 2026 00:18:45 GMT
+cf-cache-status: EXPIRED
+set-cookie: __cf_bm=OVJuyzY4ppUmOEuiOQ0lbWTUqfKYd8MQJmlzEDMaJ.8-1786234724.720353-1.0.1.1-B1O4DmonFla80sQSXYsOiJBDX098h5xLj8IZ6ZboMj8Kww6FiVnHgzMe6vBw8eKDFsT8iep6FMSx0OLgvi2G2V6I.BYYT7Uv9OAm_W6uFpd8q9gN_64nBGlPoAkWzjL6; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk; Expires=Sun, 09 Aug 2026 00:48:45 GMT
+set-cookie: _cfuvid=JDuRq2Y8q_1RkscvnffP40a9o1kDd2TkKz8HEbt5E9k-1786234724.720353-1.0.1.1-BZOcZMSC.Za77fdTkyD274xmEmrJ_3VkEPWoMadbw5U; HttpOnly; SameSite=None; Secure; Path=/; Domain=pure.roehampton.ac.uk
+cf-ray: a28295d57ac8e7fa-ORD
+alt-svc: h3=":443"; ma=86400
+

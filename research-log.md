@@ -3799,3 +3799,10 @@ Discovery: searching the new Roehampton teaching lead surfaced a University of R
 Capture: the historical canonical route was fetched directly. It now returns HTTP 301 to the general `/news/` landing page; the resulting HTML and headers are preserved. The current page contains no Arday article text, image, or replacement record.
 
 Decision: added a distinct institutional source-version/boundary record. The indexed wording is evidence of what Roehampton publicly said in 2023, while the redirect documents only current route state. It corroborates a broad institutional teaching role but does not validate the anonymous Roehampton teaching allegations, any module assignment, or any reason for the route change.
+## 2026-08-09 — SRC-894/C-905–C-906: Roehampton repository manifestation
+
+Discovery: a current search for primary Roehampton records surfaced the Research Explorer page for Arday’s 2018 *Social Sciences* article on mental health and BME university students.
+
+Capture: preserved the live metadata HTML, response headers, linked “Final published version” PDF, and PDF headers. The repository PDF is byte-distinct from the existing MDPI file under SRC-174; extracted article text is identical.
+
+Decision: added a distinct host/version manifestation while retaining DOI deduplication. The page provides first-party publication metadata, School of Education association, CC BY wording, and a second public PDF route. It does not constitute a second publication, independent corroboration of the study’s participant narratives, or resolution of the later correction/ethics questions.
