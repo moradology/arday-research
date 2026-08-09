@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — C-1010/SRC-596: LJMU bicentenary profile remains a live/indexed mismatch
+
+The exact LJMU bicentenary profile URL returned HTTP 404 again. Its 197,298-byte body is byte-distinct from the 8 August 404 capture and contains no Arday profile text, while public search indexing still exposes the older substantive profile. The new body is preserved locally; response headers remain local-only because they contain transient session cookies. This updates the existing route record rather than creating a duplicate biography source.
+
 ## 2026-08-09 — subject-output recheck: Newcastle lecture route remains an unchanged listing
 
 The current Newcastle University archive route for Jason Arday’s 14 October 2025 “Sign o’ the times” lecture returned HTTP 200. The 51,815-byte HTML is byte-identical to the existing capture under `SRC-296`; no recording, transcript, captions, slides, or media endpoint was exposed. The route is closed for this checkpoint and remains a single event record.

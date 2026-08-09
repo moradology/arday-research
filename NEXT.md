@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh LJMU access-state checkpoint: `SRC-596/C-1010` — the bicentenary profile URL returned another HTTP 404 on 9 August, while search indexing still exposes the older substantive biography. Reopen only for a replacement LJMU profile, a direct institutional statement, or a concrete historical record; do not infer deletion, correction, disavowal, or an investigation finding from the 404.
+
 Fresh event-transcript boundary: `SRC-1009/C-1009` — CGHE Webinar 164’s official transcript link is only a two-page Zoom chat log and contains no Arday speech. Reopen only for the webinar recording, captions, or a genuine speaker transcript; do not repeat the same PDF fetch or call the chat log a transcript of his remarks.
 
 Fresh public-position source: `SRC-1008/C-1008` — Cumberland Lodge’s 5 January 2022 retrospective adds attributed Arday remarks to the existing “Beyond Tokenism” webinar record. Reopen only for the webinar transcript/video, a correction, or a changed host page; do not repeat the same retrospective fetch or treat it as verbatim audio.

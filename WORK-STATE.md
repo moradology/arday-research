@@ -1,5 +1,7 @@
 # Work state
 
+Latest subject-specific access checkpoint: on 2026-08-09 `SRC-596/C-1010` rechecked the LJMU bicentenary profile route. It returned a byte-distinct HTTP 404 body with no Arday text while search indexing still exposed the older profile; no deletion, correction, or finding was inferred. The new body is local-only; Google Drive was not updated and GitHub remains the active publication target.
+
 Latest subject-output checkpoint: on 2026-08-09 `SRC-1009/C-1009` recovered CGHE Webinar 164’s official linked PDF. It is a two-page Zoom chat log for the 3 November 2020 Arday/Dorling/Westwood webinar, not a speaker transcript; it contains no Arday speech. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest subject-output checkpoint: on 2026-08-09 `SRC-1008/C-1008` captured Cumberland Lodge’s 5 January 2022 retrospective of the “Beyond Tokenism” webinar. It adds attributed remarks on diversity, tokenism, meritocracy, positive action, and inclusion, while remaining a host-written summary rather than a transcript. Google Drive was not updated; GitHub remains the active publication target.
