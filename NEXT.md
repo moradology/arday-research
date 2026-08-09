@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh public-filings boundary: `SRC-917` — exact-name and full-name Companies House/Charity Commission searches reconfirm the existing eight-appointment graph and `SRC-368` Adult Literacy Trust 2025 annual-report patron listing. A narrower search for charity number `5172504` returned no additional indexed filing. Reopen only for a changed regulator page, new filing date, new annual-report/accounts PDF, or named appointment/termination record; do not repeat these query families unchanged.
+
 Fresh archive-integrity checkpoint: `SRC-1139` — 53 untracked local artifacts totalling 5.28 GB were reconciled to existing Arday source records. Large binaries remain local-only; clean small sidecars may be promoted, while response headers and scratch extraction material remain quarantined. Reopen only for an artifact without a canonical source, a lawful binary-storage destination, or a materially changed source version; do not repeat the inventory unchanged.
 
 Fresh Cambridge profile-state checkpoint: `SRC-576/C-751` — the 9 August exact-route recheck again redirected the indexed Faculty profile to the Faculty home page; the current “Our people” response still exposed no Arday occurrence, while search indexing continued to show the older biography. This is a changed-state observation only, not evidence about employment, resignation cause, or investigation outcome. Reopen only for a directly rendered replacement profile, formal institutional outcome, or materially changed redirect/directory state.

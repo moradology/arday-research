@@ -26,6 +26,7 @@ Material results were already represented in the archive:
 - [First Star Scholars UK 2024–25 accounts](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5114189/full-print) record Arday’s resignation as a trustee/director on 16 May 2025; this is SRC-252, not a new filing.
 - [BSA trustee record](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/1080235/full-print) continues to list Arday as trustee appointed 9 June 2020; this is SRC-331 and does not show an end date.
 - [Adult Literacy Trust 2025 annual report](https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5172504/full-print) lists Arday among patrons; this is SRC-368 and is not a new appointment record.
+- A narrower follow-up search for charity number `5172504` and the combined terms `Adult Literacy Trust` / `Jason Arday` returned no additional indexed filing. The earlier annual-report lead is therefore closed as the existing SRC-368 snapshot, not promoted to a second charity or appointment node.
 - Companies House exact-name results reconcile to the eight-appointment snapshot and the already-captured Runnymede, First Star, Autism Centre of Excellence, B.S.A. Publications, Crosstown Traffic, and related records under SRC-099/SRC-101/SRC-167/SRC-342/SRC-531 and associated sources.
 
 No new appointment, termination, annual report, accounts, remuneration record, or correction was recovered. Search-result repetitions are not independent corroboration.
