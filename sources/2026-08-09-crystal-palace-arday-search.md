@@ -11,6 +11,7 @@ urls:
   - https://www.cpfc.co.uk/information/academy/
   - https://www.cpfc.co.uk/information/academy-mission-statement/
 assets:
+  - ../assets/captures/2026-08-09-crystal-palace-arday-search/academy-graduates.html
   - ../assets/captures/2026-08-09-crystal-palace-arday-search/academy-graduates.txt
 ---
 
@@ -26,6 +27,7 @@ This closes one named-club search route for the current public web. It does not 
 
 ## Local preservation
 
+- [Raw academy-graduates HTML](../assets/captures/2026-08-09-crystal-palace-arday-search/academy-graduates.html) — SHA-256 `0c4991d504fefe803b255bb4578a5afb96e217268dc06da09abf5b3392775d7b`.
 - [Extracted roster text](../assets/captures/2026-08-09-crystal-palace-arday-search/academy-graduates.txt) — SHA-256 `5b63349ef46b06f9ac4a985fe85a453903bdfa370a7a2658e2a3586fcb7e77a8`.
 
 Raw response headers remain local-only because the response contains transient cookies.

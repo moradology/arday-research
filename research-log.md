@@ -481,6 +481,8 @@ Decision: retain as machine-assisted primary-audio navigation/wording evidence, 
 
 ## 2026-08-09 — SRC-1019/C-1019: Crystal Palace sports-search boundary
 
+The official Academy Graduates roster is now preserved as raw HTML as well as extracted text. The byte-level page contains no Arday occurrence; its only Jason match is Jason Lokilo. This strengthens preservation of the negative-space observation without changing its scope: the page is a modern senior-debut roster, not a complete historical youth-registration archive.
+
 Discovery: exact-name searches targeted Crystal Palace’s official domain for Arday, academy, youth, graduate, football, and contract combinations. The club’s current Academy Graduates roster was captured and contains no `Arday` occurrence; the only Jason entry is a different player, Jason Lokilo.
 
 Decision: record this as a bounded negative-space result in the football evidence map. It narrows the named-club hypothesis but cannot disprove an historical or unindexed youth association, identify the club intended by the first-person account, or establish professional status. Google Drive was not updated; GitHub remains the active publication target.
