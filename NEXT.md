@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh subject-centred video checkpoint: `SRC-1088/C-1255–C-1262` — the recovered Warwick keynote now has a local Whisper `tiny.en` VTT and bounded approximate windows for Arday’s pedagogy, institutional-power, autobiographical, and public-position material. Reopen for human listening against the MP4, corrected captions, slides, or a second recording; do not quote the VTT or upgrade first-person institutional anecdotes into verified findings.
+
 Fresh scholarly-index checkpoint: `SRC-607/C-808` — the 9 August direct OpenAlex recheck again returned 56 works and no new DOI/title key; the newest unique records remain the canonical January 2026 OSF preprint versions. Reopen only after a changed work set or a concrete publisher/repository/full-text lead; do not repeat this exact endpoint unchanged.
 
 Fresh caption-audit checkpoint: `SRC-1086/C-1247–C-1251` — bounded windows from the recovered Cambridge Festival video now isolate Arday-attributed first-person/public-position material while excluding the host biography as independent evidence. Reopen for human listening, verified transcript wording, speaker-boundary checks, or Cambridge 105 audio; do not quote the automatic captions or repeat the event search.

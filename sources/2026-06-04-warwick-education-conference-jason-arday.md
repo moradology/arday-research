@@ -3,8 +3,8 @@ id: SRC-334
 type: post-event conference media
 title: "We Dream the Same Dream: Collective Empowerment in Pedagogy"
 date: 2026-06-04
-accessed: 2026-08-08
-status: earlier official Warwick post-event page and MP4 locally preserved; caption-track endpoint recheck returned HTTP 404; later live page recheck returned HTTP 429
+accessed: 2026-08-09
+status: earlier official Warwick post-event page and MP4 locally preserved; bounded automatic-audio audit added; caption-track endpoint recheck returned HTTP 404; later live page recheck returned HTTP 429
 source_kind: university conference page / direct video
 entities:
   - ../entities/jason-arday.md
@@ -20,13 +20,14 @@ assets:
   - ../assets/captures/2026-warwick-education-conference-jason-arday/recheck-2026-08-07/highlights.headers.txt
   - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.html
   - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.headers.txt
+  - ../assets/videos/warwick-education-conference-2026/arday-session.tiny-en.vtt
 ---
 
 # Warwick Education Conference 2026 — Jason Arday keynote
 
 The University of Warwick’s Education Conference page records a conference held on Thursday 4 June 2026 at the Ramphal Building. The post-event highlights page identifies Professor Jason Arday as a keynote speaker from the University of Cambridge and gives his keynote title as **“We Dream the Same Dream: Collective Empowerment in Pedagogy.”** The conference theme was “Learning for a Complex and Hopeful Future: Pedagogies of Empowerment, Equity, and Global Readiness.”
 
-The highlights page exposes a direct MP4 for Arday’s session. The page’s video markup also advertises a captions track, but no separately retrievable caption file was recovered in this capture; no transcript or timecoded claims are promoted here.
+The highlights page exposes a direct MP4 for Arday’s session. The page’s video markup also advertises a captions track, but no separately retrievable caption file was recovered in this capture. A later machine-audio pass produced a navigation-only VTT and a bounded audit; it is not a verified transcript and should not be quoted as exact speech. [Warwick keynote audio audit](2026-08-09-warwick-keynote-audio-audit.md)
 
 ## Local preservation
 
@@ -39,10 +40,11 @@ The highlights page exposes a direct MP4 for Arday’s session. The page’s vid
 - [MP4 response headers](../assets/captures/2026-warwick-education-conference-jason-arday/arday-video-headers.txt) — server-declared length 138,726,243 bytes; the local file matches that length.
 - [Page-linked portrait, JPEG](../assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.jpg) — page-linked 170×204 image; SHA-256 `e87bf6e6d7c2f759025945a9a2abb680426bdaca705651445719400d742b9744`.
 - [Highlights portrait, WebP](../assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.webp) — 170×204 image; SHA-256 `54d46cc0eb1ea804ab95a324610e8868612b679d98664c70b6a847df6b960998`.
+- [Whisper tiny.en navigation VTT](../assets/videos/warwick-education-conference-2026/arday-session.tiny-en.vtt) — 66,341 bytes; SHA-256 `9d3dc9f2e9aae93638fbcc1ec02bc14b534f29a3b589b4444c573b690f7b8b9e`; automatic speech recognition, not human-verified.
 
 ## Evidence boundary
 
-The Warwick highlights page establishes that the university presented the event as post-event material and labels Arday’s session and keynote title. The local MP4 establishes a publicly retrievable video manifestation of that session. The record does not yet contain a human-verified transcript, captions, or extracted substantive claims; those should be added only after listening or a lawful caption file is independently checked.
+The Warwick highlights page establishes that the university presented the event as post-event material and labels Arday’s session and keynote title. The local MP4 establishes a publicly retrievable video manifestation of that session. The companion audit contains only approximate machine-navigation summaries; it does not contain a human-verified transcript, and its remarks require listening before quotation or fine-grained attribution.
 
 On 8 August 2026, the relative English caption-track endpoint advertised in the highlights page (`1`) redirected to a trailing-slash route and returned HTTP 404 HTML. No caption file or transcript was recovered; the MP4 remains the controlling media artifact.
 

@@ -76,6 +76,8 @@ The memoir’s public-output topology includes library acquisition and distribut
 
 ## Research notes
 
+The recovered Warwick keynote is a subject-centred first-party audiovisual record. Its bounded machine-audio audit maps Arday’s public positions on pedagogy, institutional power, hierarchy, belonging, and collective empowerment alongside first-person anecdotes about teaching, misrecognition, luck, and imposter syndrome. These remain attributable speech and self-report until human listening and, where appropriate, independent corroboration. [Warwick audio audit](../sources/2026-08-09-warwick-keynote-audio-audit.md)
+
 The *Ruling Passions* transcript is a key first-person authored-output record: it preserves Arday’s descriptions of masking, intrinsic motivation, tailoring, music as an autistic sense-making lens, and his preference for accessible academic writing. These are source-layer testimony and public intellectual positions, not clinical findings or scholarship-quality adjudication. [Transcript record](../sources/2022-03-22-ruling-passions-jason-arday.md) · [claims C-1014–C-1016](../claims-ledger.md)
 
 The Springfields Academy’s current “Arday Class” page adds a distinct institutional-reception edge: a specialist-school class is named after him and the school describes him as a sociologist, writer, fundraiser, and autistic person. This is a naming/representation record, not independent diagnosis or childhood corroboration. [Springfields record](../sources/2026-08-09-springfields-arday-class.md)

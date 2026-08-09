@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1088/C-1255–C-1262: Warwick keynote audio audit
+
+The locally preserved 45:25.50 Warwick Education Conference MP4 was processed with Whisper `tiny.en` to create a 66,341-byte VTT for navigation. The audit separates Arday’s keynote and responses from audience questions and records approximate windows covering pedagogy and freedom, generous assumptions and deficit framing, teaching-failure anecdotes, institutional power and fear, humility and safe failure, misrecognition, and intelligence/luck/imposter syndrome. The VTT is automatic speech recognition, not a transcript; no direct quotation is added and human listening remains the next verification step. This is a derivative of `SRC-334`, not a duplicate event node. Google Drive was not updated.
+
 ## 2026-08-09 — SRC-607/C-808: OpenAlex scholarly-output recheck
 
 The exact OpenAlex author/work endpoint for `A5048886069` was rechecked directly after a broader 2026 publication sweep. It returned 56 works; the newest unique entries remained the already-canonical OSF v1/v2 narrative-inquiry preprints dated 21 and 23 January 2026. No new DOI/title candidate was found. The raw works JSON and response headers are preserved under `assets/captures/2026-08-09-scholarly-index-audit/`. This is a changed-state recheck of `SRC-607`, not a new publication record.
