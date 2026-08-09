@@ -1,0 +1,13 @@
+HTTP/2 200 
+date: Sun, 09 Aug 2026 16:59:35 GMT
+content-type: text/html
+server: cloudflare
+last-modified: Sun, 09 Aug 2026 16:45:18 GMT
+vary: accept-encoding
+set-cookie: __cf_bm=0AGWUM2tNKph_M5yILsWDoxnMm.9KaWkgyJGKUTinqM-1786294774.8699472-1.0.1.1-LIOm3bBYGZoapP7.F9Gi2l5rrgb81fRkqawULNpwrKKyly5wzfbyY2H4WQkSuP1XWoaDmxbAwJvJvxTcQw7uxtHs5m65JDi_8nXkEngSL5BDvoIxjcZYnDoDd1DKjR0m; HttpOnly; SameSite=None; Secure; Path=/; Domain=simonandschuster.net; Expires=Sun, 09 Aug 2026 17:29:35 GMT
+expires: Sun, 09 Aug 2026 17:59:35 GMT
+cache-control: max-age=3600
+cache-control: public, max-age=3600
+cf-cache-status: DYNAMIC
+cf-ray: a2884fe6e83ab5fc-OMA
+

@@ -2,6 +2,8 @@
 @@
 # Research log
 
+2026-08-09 — Simon & Schuster audiobook source-version recheck: the current `.net` publisher page returned HTTP 200 and lists Jason Arday as author/reader, ISBN `9781668126523`, 11 August 2026 release, and an 8h41 runtime. The earlier preserved `.net` manifestation listed 9h30. The exact `.com` route returned HTTP 403. Current HTML and headers were preserved under `assets/captures/2026-08-09-simon-schuster-audiobook-current/`; no public audio sample, downloadable file, or transcript was exposed. Updated SRC-189/SRC-929 and C-105/C-995 in place; no duplicate audiobook node was created.
+
 2026-08-09 — Cambridge appointment announcement media recovery: the surviving Faculty announcement returned HTTP 200 on a current recheck with the same historical body. Four Arday-specific JPEGs exposed by the page were downloaded and visually checked: a portrait, an appointment image, a PhD-ceremony image whose alt text identifies Liverpool John Moores University and 2016, and a third article image. Added the binaries and response-boundary capture to `SRC-114` and `media.md`; no new biographical claim or appointment node was created, and the images are not treated as independent corroboration.
 
 2026-08-09 — ABC News video audit: the locally preserved 2:46 MP4 was converted to corrected-mono 16 kHz audio and transcribed with `mlx-community/whisper-small.en-mlx`. Added `SRC-1155/C-1450–C-1451` for Arday’s recollection of three ambitions written on his parents’ bedroom wall at 27 and his aspiration for ordinary Black-professor representation; linked the repeated first-word passage to existing C-044 rather than duplicating it. The JSON is navigation-only and human listening remains open.
