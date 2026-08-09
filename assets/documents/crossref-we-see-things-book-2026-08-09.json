@@ -1,0 +1,16 @@
+{
+  "DOI": "10.2307/jj.26932075",
+  "title": ["We See Things They’ll Never See"],
+  "author": [
+    {"given": "CHANTELLE JESSICA", "family": "LEWIS", "sequence": "first"},
+    {"given": "JASON", "family": "ARDAY", "sequence": "additional"}
+  ],
+  "publisher": "Princeton University Press",
+  "published": {"date-parts": [[2025, 9, 16]]},
+  "issued": {"date-parts": [[2025, 9, 16]]},
+  "type": "monograph",
+  "ISBN": ["9780691263946", "0691263949"],
+  "URL": "https://doi.org/10.2307/jj.26932075",
+  "relation": {"is-identical-to": [{"id-type": "doi", "id": "10.1515/9780691263946", "asserted-by": "object"}]},
+  "resource": {"primary": {"URL": "http://www.jstor.org/stable/10.2307/jj.26932075"}}
+}
