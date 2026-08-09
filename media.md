@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1045`: [Cumberland Lodge audio audit](sources/2026-08-09-cumberland-lodge-audio-audit.md) — targeted navigation of the locally preserved [59:10.38 SoundCloud MP3](assets/audio/cumberland-lodge/beyond-tokenism-jason-arday.mp3), with an approximate Arday-attributed tokenism/whiteness window; machine-assisted and not a verbatim transcript.
+
 - `SRC-1009`: [CGHE Webinar 164 transcript PDF](assets/documents/cghe-webinar-164/transcript.pdf) and [extracted text](assets/documents/cghe-webinar-164/transcript.txt) — official linked artifact for the 3 November 2020 Arday/Dorling/Westwood webinar, but only a two-page Zoom chat log; no Arday speech or remarks appear.
 
 - `SRC-1008`: [Cumberland Lodge retrospective HTML](assets/captures/2022-01-05-cumberland-lodge-tokenism-retrospective/page.html) — 5 January 2022 host-written retrospective with attributed Arday remarks; distinct from the webinar audio/listing, not a transcript. Response headers remain local-only because they contain transient cookies.

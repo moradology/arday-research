@@ -1,4 +1,8 @@
 # Research log
+
+## 2026-08-09 — SRC-1045/C-1045: Cumberland Lodge audio audit
+
+The locally preserved 59:10.38 SoundCloud MP3 for the 3 November 2021 “Beyond Tokenism” panel was audited with bounded ASR windows. The host introduction places Arday on the panel, and an approximately 05:00–07:00 segment contains an Arday-attributed response on tokenism, structural whiteness, personal experience, and the distribution of benefit to people of colour, especially women of colour. The host’s immediate hand-off supports the attribution, but this remains a machine-assisted navigation result from multi-speaker audio, not a manually verified transcript. It adds a source-layer public-position record to SRC-618 and SRC-1008 without creating a duplicate webinar node. Google Drive was not updated; GitHub remains the active publication target.
 ## 2026-08-09 — SRC-1028/C-1028: page-level audit of 2018 mental-health article
 
 The open-access MDPI PDF for “Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University?” was read page by page. The audit records the stated design (32 participants, 14 UK universities, questionnaires, two focus groups, 32 individual interviews), recruitment and analysis details, reported themes, recommendations, and the article’s explicit limitations. It does not treat the article as a clinical finding or as independently reproducible beyond the public text: raw transcripts, coding files, recruitment records, and ethics documentation were not exposed. The artifact is deduplicated to canonical SRC-174. Google Drive was not updated; GitHub remains the active publication target.
