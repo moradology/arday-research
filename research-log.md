@@ -4564,6 +4564,12 @@ The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum 
 The Wayback-recovered 11-page PDF of Arday’s 20 March 2021 BBC Radio 4 Lent Talk was audited by printed/page location. It adds bounded self-report on one-sided deafness, speech/literacy, football/snooker, endurance chronology, fundraising, the April 2019 Durham interview, and a statement that two benign brain tumours were diagnosed after the PhD. The latter materially conflicts with the Sanger interview’s account of a brain tumour removed two weeks before the viva and a post-viva stroke. Both source versions are preserved without medical inference or harmonization. Google Drive was not updated; GitHub remains the active publication target.
 # Research log
 
+## 2026-08-09 — SRC-1095/C-1277–C-1283: St Mary's Values Talk audio audit
+
+The official 46:15 St Mary's Students' Union video was already locally preserved, but its advertised YouTube caption response was zero-byte. A Whisper `base.en` pass over the 640×360 MP4 created a durable JSON navigation derivative. The subject-centred windows cover Arday’s childhood/literacy self-report, claimed university admissions and football scholarship, financial hardship and fatherhood, St Mary's football roles, a specific just-over-£300,000 fundraising account, and public positions on charity and student-union inclusion.
+
+Decision: added SRC-1095 and C-1277–C-1283 without treating ASR as a transcript or any self-report as independent corroboration. The video and derivative JSON are preserved; human listening, corrected captions, and independent admissions/sports/fundraising records remain the next verification layer. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1092/C-1268: Newcastle AllEvents aggregator boundary
 
 The AllEvents page for the 14 October 2025 Newcastle “Sign o’ the times” lecture was fetched after the university and Eventbrite records had already been preserved. It agrees on title, venue, date, local start time, and ended state, and displayed “303+ Interested.” No recording, transcript, slides, named attendee account, or recoverable attendee photograph was exposed. The page is retained as a reception/source-version artifact and deduplicated to the canonical Newcastle event; the counter is not treated as attendance or delivery evidence.
