@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1094/C-1275–C-1276: Royal Society profile recheck
+
+The Royal Society’s public web-rendered profile was rechecked after the Cambridge resignation. It still presents Arday as a Cambridge Professor and Runnymede/BSA trustee and retains the Diversity and Inclusion Committee term through October 2026. Direct shell retrieval returned the same 1,644-byte HTTP 403 body as the prior capture; only response headers changed, and the new headers are preserved. The profile is retained as a dated institutional biography/source-version and explicitly kept separate from the Companies House/Runnymede termination record, Charity Commission pages, BSA governance page, and Cambridge resignation record. No correction or role-status update was exposed.
+
 ## 2026-08-09 — SRC-1093/C-1269–C-1274: Simon & Schuster memoir excerpt recheck
 
 The official Simon & Schuster US page rendered the memoir excerpt through the public web view on 9 August, while direct shell retrieval at 11:19:59 UTC still returned a 403 challenge. The page’s Prologue now supports precise navigation for Arday’s account of the Cambridge appointment call arriving at his Clapham home and Giff’s role; Chapter One supports bounded navigation for the “almost twelve years” language formulation, therapy-room memories, speech therapy beginning around age four three times weekly for the best part of ten years, delayed walking/feeding, fine-motor difficulty, and noise sensitivity. These are self-authored memoir claims. No clinical, school, family, therapist, or Cambridge hiring record was recovered from this recheck, and no new local HTML binary is claimed. The record is deduplicated to SRC-091 and preserves the shell/web access split.
