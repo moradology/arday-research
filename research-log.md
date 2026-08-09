@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1007/C-1007: STCG Merton profile changed-state recheck
+
+Discovery: a targeted South Thames Colleges Group search for `site:stcg.ac.uk "Jason Arday"` returned only the canonical former-Merton-student profile. A direct recheck of its URL returned HTTP 200, but the body was an anti-bot/cookie challenge rather than the substantive profile captured on 6 August.
+
+Decision: register `SRC-1007` as a changed access-state manifestation deduplicated to `SRC-159`. No new education, qualification, enrolment, or childhood claim was added. The challenge body remains local; transient response cookies are excluded from public publication.
+
 ## 2026-08-09 — SRC-1006/C-1006: ARU citation changed-page recheck
 
 Discovery: the current Anglia Ruskin University honorary-degree citation returned HTTP 200. The raw HTML was byte-distinct from the 6 August capture, but normalized visible text was identical at 10,001 characters; no substantive wording, correction, award detail, or new evidence appeared.

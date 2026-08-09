@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1007`: STCG Merton profile recheck — local-only HTTP-200 anti-bot challenge; no new image or biographical content. Response headers and challenge body are omitted from the public snapshot because they contain transient cookies.
+
 - `SRC-1006`: [ARU citation recheck HTML and headers](assets/captures/2026-08-09-aru-honorary-citation-recheck/) — raw page changed on 9 August 2026, normalized visible text identical to `SRC-089`; no new media artifact or biography evidence.
 
 - `SRC-931`: [six additional 30 in 35 Wayback HTML/text captures](assets/captures/2026-08-09-30in35-pages/) — page-level campaign artifacts, not video binaries. The embedded YouTube references were checked separately; the resolvable IDs were music videos or unavailable, so none is represented as Arday footage.

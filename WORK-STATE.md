@@ -1,5 +1,7 @@
 # Work state
 
+Latest subject-centred education checkpoint: on 2026-08-09 `SRC-1007/C-1007` rechecked South Thames Colleges Group’s former-Merton-student profile URL. It returned HTTP 200 with an anti-bot challenge rather than the substantive profile body; no new education, qualification, or enrollment evidence was recovered. The challenge body and headers remain local-only, and the source is deduplicated to SRC-159. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest Atlantic media checkpoint: on 2026-08-09 `SRC-926/C-992` preserved a byte-distinct manifestation of The Atlantic’s feature, its extracted text, a public 18.4 MB article-audio MP3, and a cropped lead image. The feature’s article text is substantively unchanged; all allegations and memoir/proposal discrepancies remain attributed journalism. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest PubPeer checkpoint: on 2026-08-09 `SRC-925/C-991` captured the public exact-name search shell, its human-verification API response, and 404 responses for two tested Arday DOI routes. No reliable PubPeer yes/no result is claimed; the boundary remains incomplete. Google Drive was not updated; GitHub remains the active publication target.
