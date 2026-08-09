@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-901 | `sources/2026-08-08-google-play-great-and-unfortunate-things.md` | Google Play Books storefront manifestation for volume `84edEQAAQBAJ`; identifies the 368-page Simon and Schuster ebook, preserves the visible publisher catalogue copy, cover, and “isn't available in your country” access state; deduplicated to SRC-145 | storefront catalogue / memoir edition source-version / local HTML, headers, and cover / access boundary | 2026-08-08 | Google Play Books, memoir, Great and Unfortunate Things, ebook, 368 pages, volume ID, cover, country availability, source-version, deduplication |
+
 This is the deduplication ledger. One URL or document should appear once here, even if it is relevant to several claims.
 
 | ID | Canonical record | Source | Kind | Reviewed | Related records |

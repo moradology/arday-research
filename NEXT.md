@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-storefront checkpoint: `SRC-901/C-962` — Google Play Books directly exposed the same 368-page UK ebook volume already catalogued as SRC-145, with a locally preserved cover, publisher-facing synopsis/excerpt, and “isn't available in your country” access state. Reopen only after a changed availability state, lawful preview/file, or distinct edition identifier appears; do not repeat the same Google Play/Google Books metadata search.
+
 Fresh memoir-event boundary: `SRC-900/C-961` — search indexing exposed a Topping & Company Edinburgh listing for Jason Arday’s planned 18 September 2026 memoir event, but the current direct events page captured on 8 August contained no matching occurrence or detail route. Reopen only for a direct event page, ticket/venue record, cancellation/update, recording, or post-event report; do not treat the indexed lead as evidence that the event occurred.
 
 Fresh event-source checkpoint: `SRC-899/C-960` — the Social Research Association’s own 5 June 2026 LinkedIn announcement and four programme graphics were captured for Arday’s 8 July “Message in a Bottle” session. This is a first-party source-version deduplicated to `SRC-188`; it adds announcement provenance and visual programme evidence, not a second event, recording, or transcript. Reopen only for a changed announcement, recording, transcript, or post-event primary artifact.

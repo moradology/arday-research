@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-901/C-962: Google Play Books memoir storefront
+
+Discovery: a direct Google Play Books page for *Great and Unfortunate Things* exposed volume `84edEQAAQBAJ`, identifying an August 2026 Simon and Schuster ebook at 368 pages. The visible page included publisher-facing catalogue copy, a short opening excerpt, a 585×900 cover, and the warning “This item isn't available in your country.”
+
+Decision: register the page as a distinct storefront/access manifestation deduplicated to SRC-145, not as a new edition or independent biography witness. No ebook file, page image, or downloadable full-text preview was exposed. Reopen only after a changed availability state, lawful preview/file, or distinct volume identifier appears. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-900/C-961: Topping & Company memoir-event lead
 
 Discovery: a targeted memoir/publication-event search found search-index text for Topping & Company’s Edinburgh listing “Jason Arday for Great and Unfortunate Things,” dated 18 September 2026 at 7 p.m.

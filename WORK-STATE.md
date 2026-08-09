@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-edition checkpoint: on 2026-08-08 `SRC-901/C-962` preserved Google Play Books’ direct storefront manifestation of volume `84edEQAAQBAJ`, matching the existing 368-page UK ebook record `SRC-145`. The page adds a cover, visible publisher catalogue copy, and a country-availability restriction, but no ebook file or full-text preview. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest event-access checkpoint: on 2026-08-08 `SRC-900/C-961` preserved a Topping & Company Edinburgh events-page capture after search indexing exposed a planned 18 September 2026 Arday memoir event. The live page contained no matching event or detail route, so the item remains an indexed lead/negative-space observation rather than a verified event. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest event-provenance checkpoint: on 2026-08-08 `SRC-899/C-960` captured the Social Research Association’s first-party LinkedIn programme announcement and four graphics for Arday’s 8 July 2026 session. The event remains canonical under SRC-188; no new delivery, recording, transcript, or substantive remark was inferred. Google Drive was not updated; GitHub remains the active publication target.
