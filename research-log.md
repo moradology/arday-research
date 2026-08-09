@@ -8,6 +8,10 @@ The locally preserved 45:25.50 Warwick Education Conference MP4 was processed wi
 
 The Newcastle “Sign o’ the times” event had two active source rows (`SRC-232` and `SRC-296`) and two duplicate claims (`C-191` and `C-278`). Their page and portrait checksums are identical. `SRC-296` is retained as the canonical, richer event record because it contains the current-route recheck and complete asset manifest; `SRC-232` and `C-191` were retired from the active graph. Historical log entries retain the earlier ID as provenance of the discovery sequence.
 
+## 2026-08-09 — BOLD and Oxford EDB duplicate consolidation
+
+The active source graph contained two records for the same 25 June 2024 BOLD interview (`SRC-056`/`SRC-218`) and two records for the same 29 October 2025 Oxford EDB lecture (`SRC-185`/`SRC-622`). The richer records already carried the complete local asset or changed-access manifests and were the records used by the current media/claims topology. `SRC-218` and `SRC-622` are now canonical; the older duplicate files and registry rows were retired, while historical research-log entries retain the earlier IDs as provenance. No claims were duplicated or upgraded by this cleanup.
+
 ## 2026-08-09 — SRC-607/C-808: OpenAlex scholarly-output recheck
 
 The exact OpenAlex author/work endpoint for `A5048886069` was rechecked directly after a broader 2026 publication sweep. It returned 56 works; the newest unique entries remained the already-canonical OSF v1/v2 narrative-inquiry preprints dated 21 and 23 January 2026. No new DOI/title candidate was found. The raw works JSON and response headers are preserved under `assets/captures/2026-08-09-scholarly-index-audit/`. This is a changed-state recheck of `SRC-607`, not a new publication record.

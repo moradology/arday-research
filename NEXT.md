@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh graph-integrity checkpoint: the Newcastle, BOLD, and Oxford EDB duplicate source families have now been consolidated to canonical `SRC-296`, `SRC-218`, and `SRC-622`; their historical IDs remain only in the append-only research log. Continue deduplication by provenance, not by title alone, because source-version and access-state records can legitimately share titles.
+
 Fresh subject-centred video checkpoint: `SRC-1088/C-1255–C-1262` — the recovered Warwick keynote now has a local Whisper `tiny.en` VTT and bounded approximate windows for Arday’s pedagogy, institutional-power, autobiographical, and public-position material. Reopen for human listening against the MP4, corrected captions, slides, or a second recording; do not quote the VTT or upgrade first-person institutional anecdotes into verified findings.
 
 Fresh scholarly-index checkpoint: `SRC-607/C-808` — the 9 August direct OpenAlex recheck again returned 56 works and no new DOI/title key; the newest unique records remain the canonical January 2026 OSF preprint versions. Reopen only after a changed work set or a concrete publisher/repository/full-text lead; do not repeat this exact endpoint unchanged.

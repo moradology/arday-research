@@ -4,8 +4,8 @@ type: university lecture / public video manifestation
 title: "EDB Lecture – This is a Low: Advice for Difficult Times"
 subject: ../entities/jason-arday.md
 published: 2025-10-29
-accessed: 2026-08-08
-status: Vimeo recording metadata and thumbnail preserved; Oxford event route currently returns a generic 404 page; video binary not recovered
+accessed: 2026-08-09
+status: Canonical Vimeo recording metadata and thumbnail preserved; Oxford event route currently returns a generic 404 page; video binary not recovered; duplicate SRC-185 retired
 evidence_class: first-party university event record plus Vimeo-hosted recording metadata; substantive lecture content not yet audited
 urls:
   - https://www.education.ox.ac.uk/event/edb-lecture-this-is-a-low-advice-for-difficult-times-soon/

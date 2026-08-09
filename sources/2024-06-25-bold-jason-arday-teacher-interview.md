@@ -3,7 +3,7 @@ id: SRC-218
 type: interview
 title: "Being a teacher was the best job I ever had"
 date: 2024-06-25
-accessed: 2026-08-06
+accessed: 2026-08-09
 status: BOLD page and associated portrait locally preserved
 source_kind: published interview / first-person testimony / local HTML and image
 entities:
