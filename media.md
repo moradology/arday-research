@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1097`: [BBC *Radical* audio audit](sources/2026-08-09-bbc-radical-audio-audit.md) and [Whisper `tiny.en` JSON](assets/documents/bbc-radical-jason-arday-2025-whisper-tiny-en.json) — durable navigation derivative for the locally preserved [official MP3](assets/audio/bbc-radical-joe-biden-ve-day-jason-arday-2025.mp3); approximate Arday-attributed windows cover youth, nostalgia, Windrush, wartime memory, Churchill, and historical complexity. No official transcript; human listening is required before quotation.
+
 - `SRC-1089`: [PASSHE participant-witness record](sources/2026-08-09-passhe-participant-witness.md) — search-indexed LinkedIn text says a participant attended and listened to Arday and attributes a processing-speed point to his remarks; direct page fetch returned cache miss and no image, audio, video, or document binary was recovered.
 
 - `SRC-1086`: [Cambridge Festival caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) and [English automatic-caption VTT](assets/videos/cambridge-festival-race-and-society-2024/race-and-society.en.vtt) — timecoded navigation for Arday-attributed windows in the locally preserved [official 1:37:40 MP4](sources/2024-03-27-cambridge-festival-race-society-radio.md); captions are not a verified transcript.

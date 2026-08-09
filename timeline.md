@@ -1,5 +1,7 @@
 # Timeline
 
+| 2025-05-08 | BBC *Radical with Amol Rajan* broadcast a multi-speaker discussion featuring Arday and Lucy Noakes on wartime memory, nostalgia, youth, Windrush, Churchill, and historical complexity; the local MP3 now has a bounded ASR navigation audit. | first-party audio; approximate speaker attribution and machine-transcript wording require human verification | [BBC *Radical* audio audit](sources/2026-08-09-bbc-radical-audio-audit.md) |
+
 | 2024-03-27 | The Cambridge Festival “Race and society” discussion with Jason Arday, Claire Hynes, and Darren Lewis was publicly recorded and uploaded by Cambridge Festival; a local MP4 and automatic-caption track are preserved. | first-party video; caption wording and substantive remarks require human verification | [Cambridge Festival record](sources/2024-03-27-cambridge-festival-race-society-radio.md) |
 
 | 2023-03-10 listing / 2023-03-13 scheduled | The University of Liverpool advertised Arday’s “Even Flow: Understanding and Navigating Neurodiversity” keynote during Neurodiversity Celebration Week, with hybrid Teaching Hub/Zoom access. | first-party event listing and Eventbrite registration manifestation; delivery and remarks unresolved | [Liverpool keynote record](sources/2023-03-10-liverpool-neurodiversity-keynote.md) |

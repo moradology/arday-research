@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1097/C-1288–C-1293: BBC *Radical* audio audit
+
+The locally preserved 8 May 2025 BBC *Radical with Amol Rajan* MP3 was transcribed with Whisper `tiny.en` and the JSON derivative was copied into the repository with a checksum. The episode’s relevant Arday discussion occupies approximately 15:25–42:48, with subject-centred windows on young people and the present, nostalgia, postwar Britain and Windrush, Churchill and wartime memory, selective “glory days” narratives, and historical complexity. Because the recording is multi-speaker and the ASR has no diarization, claims C-1288–C-1293 are paraphrases with approximate attribution, not quotations or independent verification of the historical propositions discussed. The official transcript remains unavailable. Reopen for human listening, corrected captions, or an official transcript; do not repeat the unchanged transcript search.
+
 ## 2026-08-09 — SRC-1094/C-1275–C-1276: Royal Society profile recheck
 
 The Royal Society’s public web-rendered profile was rechecked after the Cambridge resignation. It still presents Arday as a Cambridge Professor and Runnymede/BSA trustee and retains the Diversity and Inclusion Committee term through October 2026. Direct shell retrieval returned the same 1,644-byte HTTP 403 body as the prior capture; only response headers changed, and the new headers are preserved. The profile is retained as a dated institutional biography/source-version and explicitly kept separate from the Companies House/Runnymede termination record, Charity Commission pages, BSA governance page, and Cambridge resignation record. No correction or role-status update was exposed.
