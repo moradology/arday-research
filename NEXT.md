@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh changed-state checkpoint: `SRC-903/C-964` — the African Allied Health Network speakers page returned HTTP 200 after the earlier site-wide 403 and still listed Arday as a keynote for the July 2026 Accra summit. The page adds current speaker-page provenance; its portrait is byte-identical to SRC-306. Reopen only for a post-event report, final programme, recording, transcript, attendance artifact, or another changed organizer state.
+
 Fresh event-provenance checkpoint: `SRC-902/C-963` — a public LinkedIn announcement by Dr Yaz Iyabo Osho named Arday as a keynote for Westminster’s 16 April 2026 *Holding the Space* conference. It is deduplicated to the existing post-event record `SRC-317`; the captured portrait is of Osho, not Arday. Reopen only for a recording, transcript, slides, correction, or changed organizer artifact; do not repeat the same announcement search.
 
 Fresh memoir-storefront checkpoint: `SRC-901/C-962` — Google Play Books directly exposed the same 368-page UK ebook volume already catalogued as SRC-145, with a locally preserved cover, publisher-facing synopsis/excerpt, and “isn't available in your country” access state. Reopen only after a changed availability state, lawful preview/file, or distinct edition identifier appears; do not repeat the same Google Play/Google Books metadata search.

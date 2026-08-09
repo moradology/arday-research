@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-903/C-964: African Allied Health speakers-page recovery
+
+Discovery: the African Allied Health Network’s `/speakers/` route returned HTTP 200 on a fresh direct request after the earlier 403/browser-verification state. It again listed Professor Jason Arday as a keynote speaker and exposed a current organizer biography and portrait.
+
+Decision: register the response as a changed first-party page/source-version linked to SRC-306. The portrait is byte-identical to the earlier SRC-306 image and is not a new media object. The recovered page does not establish delivery of the 23–24 July summit or Arday’s keynote. Reopen only for a post-event report, final programme, recording, transcript, attendance artifact, or another changed organizer state. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-902/C-963: Holding the Space LinkedIn announcement
 
 Discovery: a targeted event search surfaced Dr Yaz Iyabo Osho’s public LinkedIn announcement naming Jason Arday as a keynote for *Holding the Space 2026* at the University of Westminster on 16 April 2026, 09:30–16:30, at Regent Street Campus.

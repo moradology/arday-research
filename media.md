@@ -1,5 +1,7 @@
 # Media index
 
+- [African Allied Health Network speakers-page recheck](assets/captures/2026-08-08-aahn-speakers-recheck/page.html) and [speaker portrait](assets/captures/2026-08-08-aahn-speakers-recheck/arday-portrait.webp) — route recovered to HTTP 200 on 8 August after the earlier site-wide 403; portrait is byte-identical to SRC-306’s existing image; SRC-903/C-964. No post-event recording or transcript recovered.
+
 - [Holding the Space 2026 LinkedIn announcement](assets/captures/2026-08-08-holding-space-linkedin/page.html) and [displayed portrait](assets/captures/2026-08-08-holding-space-linkedin/post-image.jpg) — public pre-event announcement naming Arday as a Westminster keynote; portrait is of post author Yaz Iyabo Osho, not Arday; SRC-902/C-963. No recording or transcript recovered.
 
 - [*Great and Unfortunate Things* Google Play cover](assets/captures/2026-08-08-google-play-memoir/cover.jpg) and [storefront HTML](assets/captures/2026-08-08-google-play-memoir/page.html) — direct 8 August 2026 Google Play manifestation of the 368-page ebook already catalogued under SRC-145; cover and country-availability state preserved; SRC-901/C-962. No ebook file or full-text preview exposed.

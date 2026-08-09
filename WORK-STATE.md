@@ -1,5 +1,7 @@
 # Work state
 
+Latest event-access checkpoint: on 2026-08-08 `SRC-903/C-964` captured the African Allied Health Network speakers route after it recovered from HTTP 403 to HTTP 200. Arday remains listed as a keynote, and the page exposes a current organizer biography; no delivery, attendance, recording, or post-event outcome was established. The portrait is byte-identical to SRC-306. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest event-provenance checkpoint: on 2026-08-08 `SRC-902/C-963` captured a public LinkedIn announcement naming Arday as a keynote for the 16 April 2026 Westminster *Holding the Space* conference. It is a pre-event source-version deduplicated to `SRC-317`; the displayed 800×830 portrait is of organizer Yaz Iyabo Osho, not Arday. No recording, transcript, or slides were exposed. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-edition checkpoint: on 2026-08-08 `SRC-901/C-962` preserved Google Play Books’ direct storefront manifestation of volume `84edEQAAQBAJ`, matching the existing 368-page UK ebook record `SRC-145`. The page adds a cover, visible publisher catalogue copy, and a country-availability restriction, but no ebook file or full-text preview. Google Drive was not updated; GitHub remains the active publication target.
