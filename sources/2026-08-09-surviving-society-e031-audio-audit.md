@@ -94,6 +94,14 @@ This is a contemporaneous first-person account and public-position statement. Th
 
 The opening of this interval contains a separate speaker’s bodybuilding/genetics discussion and is excluded from Arday’s record; the final exchange about gendered threats is also not confidently attributed.
 
+## Extended window: 55:00–60:00
+
+- **56:07–57:12** — Arday says he has three brothers and describes his close relationship with his younger brother, who accompanied him to gigs partly to keep an eye on him and provide “safety in numbers.” This is family testimony and a continuation of the recent music-event account.
+- **57:12–58:14** — Arday identifies rock and roll as his favorite music and emphasizes its Black origins, naming Little Richard, Jimi Hendrix, and Buddy Miles. He argues that white audiences and bands reappropriated and resold Black R&B, and says that white-coded music spaces can still signal that Black attendees are foreign bodies.
+- **58:14–59:15** — Arday says racist incidents on public transport are a recurring concern and describes “the stare,” people moving away, or avoiding sitting next to someone, particularly in relation to Muslim women and men. He then discusses how even food can become racialized, using chicken and watermelon as examples. This is public analysis and self-observation, not a quantified transport or racism study.
+
+The final minute was not claim-audited. E031 now has bounded navigation through approximately 59:15 of its 1:11:45.64 runtime; the remaining tail is open for a later pass.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.

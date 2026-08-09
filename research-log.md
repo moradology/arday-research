@@ -22,6 +22,8 @@ The audit was extended through approximately 50:00. Arday recounts a recent 2019
 
 The audit was extended through approximately 55:00. After excluding mixed speaker material, the Arday-attributed passage records his account of being challenged at Stone Roses shows and his comparison of inclusion in Black cultural spaces with exclusion signaled by white-coded music scenes. Google Drive was not updated; GitHub remains the active publication target.
 
+The audit was extended through approximately 59:15. Arday describes his younger brother accompanying him to gigs for safety, identifies rock and roll and its Black origins as central to his music identity, and discusses public-transport racism and the racialization of food. The final minute and earlier mixed-speaker material remain outside the claim ledger. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1045/C-1045: Cumberland Lodge audio audit
 
 The locally preserved 59:10.38 SoundCloud MP3 for the 3 November 2021 “Beyond Tokenism” panel was audited with bounded ASR windows. The host introduction places Arday on the panel, and an approximately 05:00–07:00 segment contains an Arday-attributed response on tokenism, structural whiteness, personal experience, and the distribution of benefit to people of colour, especially women of colour. The host’s immediate hand-off supports the attribution, but this remains a machine-assisted navigation result from multi-speaker audio, not a manually verified transcript. It adds a source-layer public-position record to SRC-618 and SRC-1008 without creating a duplicate webinar node. Google Drive was not updated; GitHub remains the active publication target.
