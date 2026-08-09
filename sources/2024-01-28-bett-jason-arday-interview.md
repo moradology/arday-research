@@ -16,7 +16,7 @@ id: SRC-267
 
 ## What the source establishes
 
-Teachers Talk Radio published a video titled “Jason Arday interview - BETT 2024,” describing it as an interview with Arday at the education technology event. The recording is a distinct media manifestation from the written BETT family-member reflection (SRC-217). Its automatic captions provide navigation for the interview, but no substantive claim is promoted here until the recording is human-verified.
+Teachers Talk Radio published a video titled “Jason Arday interview - BETT 2024,” describing it as an interview with Arday at the education technology event. The recording is a distinct media manifestation from the written BETT family-member reflection (SRC-217). Its automatic captions provide navigation for the interview. A bounded audit isolates Arday’s self-description, cultural preferences, teaching philosophy, impostor-syndrome advice, and inclusion position while retaining the caption and human-verification limits: [SRC-1063](2026-08-09-bett-interview-caption-audit.md).
 
 ## Local preservation
 

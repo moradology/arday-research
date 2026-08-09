@@ -143,6 +143,8 @@ Sources: [Guardian profile](sources/2023-07-11-guardian-childhood-profile.md), [
 
 The locally preserved 2021-recorded *Talking Matters* audio adds a first-person schooling version: its ASR says he attended a special-needs school until year 3 or 4, then a mainstream school in South London (approx. 00:07:11–00:07:25). This is an unverified source version and is retained alongside, rather than reconciled with, the Bath wording.
 
+In a January 2024 BETT interview, Arday describes his academic remit as teaching social-justice issues, particularly in education and society. He says he was previously a secondary-school teacher and presents a consistent pedagogical position: teachers should have room to take risks, use play, and treat classrooms as experimental spaces rather than operating only under metrics and pressure. He also offers public advice about impostor syndrome and frames inclusive education as requiring teachers to help pupils navigate a complex, multicultural, multi-ethnic society. These are dated first-person statements from automatic captions, not independent employment or educational-outcome records. [BETT caption audit](sources/2026-08-09-bett-interview-caption-audit.md)
+
 ## Literacy and education
 
 The locally preserved 25 July 2023 *Pride Magazine* profile is another dated public version of the transition narrative: it repeats the two-GCSE report, BTEC route, part-time Boots/Sainsbury’s work, and the Oxford/Cambridge bedroom-wall goal. These details overlap existing accounts and remain profile testimony rather than school, employment, examination, or personal records. [Pride Magazine profile](sources/2023-07-25-pride-magazine-jason-arday-profile.md)
