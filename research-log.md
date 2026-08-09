@@ -8,6 +8,10 @@ The locally preserved 2 September 2023 PBS segment was checked against its offic
 
 The locally preserved 4 March 2023 interview was checked against its automatic English VTT. It adds a source-version detail about removing a hearing aid during exercises, a fuller first-word scene in which Arday says his mother prompted him to repeat “hello,” an interpreted perseverance/“unfavourable odds” framing, and a more granular account of being 18 with a reported reading age of eight before Sandro Sandri encouraged a university path. The captioned diagnostic wording is retained as remembered testimony and is not modernized or treated as a clinical record. The machine-rendered mentor name/dialogue and all substantive details remain pending human verification against the MP4.
 
+## 2026-08-09 — SRC-1060: Wellcome Sanger interview source-version audit
+
+The existing Wellcome Sanger Institute interview record was checked against its locally preserved automatic English captions. The audit binds the already-recorded PhD/medical, career, research/counselling, and Black-history-curriculum passages to precise navigation windows and existing claims `C-1030–C-1034`. It creates no duplicate claims and does not upgrade any self-report, host description, medical account, qualification, employment chronology, or educational argument into an independently verified fact. Human audiovisual verification remains open.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.

@@ -24,6 +24,8 @@ The Wellcome Sanger Institute’s public YouTube channel published a 9:09 interv
 
 The video is a direct audiovisual source for Arday’s own answers, but the statements below remain self-report. The recovered English captions are YouTube automatic captions and should be checked against the picture and sound before use as verbatim quotations.
 
+A bounded caption audit binds the existing subject-centred passages to `C-1030–C-1034` without creating duplicate claims: [SRC-1060](2026-08-09-sanger-interview-caption-audit.md).
+
 ## Subject-centred passages
 
 - **00:39–01:08:** Arday says he completed his PhD in two and a half years while working full-time. He says he had a brain tumour at the time, had it removed two weeks before his viva, and had a stroke immediately afterwards. He describes passing the viva as significant because he did not know how far he had got across the line.

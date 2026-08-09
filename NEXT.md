@@ -1,4 +1,6 @@
 # Next actions
+Fresh source-version checkpoint: `SRC-1060` — the Wellcome Sanger Institute interview’s existing C-1030–C-1034 passages are now bound to precise automatic-caption windows without duplicate claim nodes. Human-verify against the MP4 if verbatim quotation or medical/qualification detail is needed; preserve the Lives Retold/Sanger tumour chronology conflict.
+
 Fresh subject-centred caption checkpoint: `SRC-1059/C-1111–C-1113` — the *Neurodivergent Show* interview now has bounded source-version records for the hearing-aid/one-ear-hearing detail, repeated first-word scene, perseverance framing, eight-year-old reading-age claim at 18, and Sandro Sandri’s university encouragement. Human-verify against the MP4 before quoting; keep diagnostic wording, hearing, literacy, and mentor dialogue separated from independent records.
 
 Fresh subject-centred caption checkpoint: `SRC-1058/C-1107–C-1110` — PBS’s 2023 interview now has bounded records for continued language work, non-verbal observation, writing practice, and the Sandri PhD anecdote. Human-verify against the MP4 before quoting; keep reading-age, therapy, writing-log, and host-superlative claims source-versioned.
