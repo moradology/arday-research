@@ -4,8 +4,8 @@ type: podcast interview
 title: "A conversation with Prof. Jason Arday: How learning and education has shaped my being"
 subject: ../entities/jason-arday.md
 published: 2025-01-06
-accessed: 2026-08-06
-status: verified institutional podcast page / local MP3 preserved
+accessed: 2026-08-09
+status: verified institutional podcast page / direct MP3 and image preserved; fresh 9 August capture is byte-identical to the canonical local media objects; no public transcript or captions found
 evidence_class: University of Lincoln/Bishop Grosseteste Research Cast page and direct audio
 ---
 
@@ -28,3 +28,9 @@ The three claim windows now also have short local listening clips cut from the c
 - [C-117 listening clip, 05:35–06:40](../assets/audio/research-cast-uk-clips/c117-bob-education-values.mp3) — SHA-256 `ad07e505de8ca0d58dccf6d0cc40b95548aa59be2fd3cfb1a3f4e9ad0f5f63d1`
 - [C-118 listening clip, 26:50–27:25](../assets/audio/research-cast-uk-clips/c118-family-nhs-mental-health.mp3) — SHA-256 `93beda29efc58eab4d7ab5107fa413cf495f4aedc2563c4fbe22e668dd00da20`
 - [C-119 listening clip, 27:48–29:45](../assets/audio/research-cast-uk-clips/c119-sport-community-belonging.mp3) — SHA-256 `61a7e21414ffc4dd8667a629f9445dad7ff22e157f1cd39a27a399e94f25e6d0`
+
+## 2026-08-09 source-state recheck
+
+The current Lincoln Bishop University page and direct S3 MP3 were re-fetched on 9 August 2026. The new MP3 is byte-identical to the canonical local file above; the newly captured 800×800 image is byte-identical to the canonical episode image. The [new page capture](../assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/page.html), [page headers](../assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/page.headers.txt), [audio headers](../assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/audio.headers.txt), [portrait](../assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/jason_arday_2.jpg), and [image headers](../assets/captures/2026-08-09-lincoln-bishop-jason-arday-podcast/image.headers.txt) are preserved as a fresh host/access manifestation, not a second episode.
+
+Exact-title, host/guest, filename, and institutional-domain searches found no public transcript, caption file, show-note transcript, podcast-platform mirror, or alternate text manifestation. The locally preserved Whisper JSON remains a derivative navigation aid, not a public transcript or human-verified quotation source.

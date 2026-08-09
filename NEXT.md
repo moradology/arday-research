@@ -1,6 +1,6 @@
 # Next actions
 
-Fresh distinct-media checkpoint: `SRC-896/C-910–C-912` — Lincoln Bishop University’s Research Cast UK episode 3 is a newly recovered 6 January 2025 interview with a public 44:47.55 MP3 and 800×800 portrait. Exact-title, host/guest, filename, and institutional-domain searches found no transcript or captions. The MP3 is preserved locally but exceeds GitHub’s 100 MiB limit; spoken content remains pending manual listening/transcription. Next: review the audio for timecoded first-person claims, then preserve only verified navigation notes; do not infer content from the host description.
+Fresh canonical-source correction: `SRC-198/C-912` — the 9 August Lincoln Bishop page, headers, and portrait are new captures of the already-canonical Research Cast UK episode; the MP3 and image are byte-identical to existing local objects. Exact-title, host/guest, filename, and institutional-domain searches found no public transcript or captions; the local Whisper JSON and listening clips remain derivative navigation aids. Do not create another source node for this episode.
 
 Fresh media access-boundary checkpoint: `SRC-481/C-909` — a 9 August direct Tapesearch request again returned a Cloudflare managed-challenge page; the browser/indexed opening remains the previously captured partial transcript and the remainder remains login-gated. No new audio, video, transcript, or independent biography was recovered. Reopen only for a changed public transcript state, official captions/transcript, or distinct recording; do not repeat the same request unchanged.
 

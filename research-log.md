@@ -1,12 +1,12 @@
 # Research log
 
-## 2026-08-09 — SRC-896/C-910–C-911: Lincoln Bishop Research Cast UK episode
+## 2026-08-09 — SRC-198/C-912: Research Cast UK canonical-source correction
 
-Discovery: a search across institutional podcast pages surfaced Lincoln Bishop University’s Social Justice RKEU page. It identifies Research Cast UK episode 3 as Helen Bushell-Thornalley’s conversation with Jason Arday, dated 6 January 2025 and titled *How learning and education has shaped my being*. The host description frames the conversation around social justice, education, influential people, and navigating life when one feels they do not fit.
+Audit: the fresh Lincoln Bishop page, direct MP3, and episode portrait were initially mistaken for an uncatalogued podcast. The worktree already contained SRC-198, the canonical Research Cast UK record, the same 107,519,809-byte MP3, derivative Whisper JSON, and three timestamp-focused listening clips.
 
-Capture: preserved the university page and response headers, downloaded the linked S3 MP3, validated its 44:47.55 duration and 320 kb/s stereo stream, and preserved the linked 800×800 episode portrait plus headers. The audio is 107,519,809 bytes and is retained locally; it is not copied into the GitHub snapshot because GitHub’s hard file limit is 100 MiB.
+Correction: deleted the duplicate source node and folded the new page/headers/portrait capture into SRC-198. Hash comparison confirms that the fresh MP3 and portrait are byte-identical to the existing canonical local objects. Exact-title, host/guest, filename, and institutional-domain searches found no public transcript or captions; the local ASR remains derivative and unverified.
 
-Decision: register SRC-896 as a distinct interview/audio artifact, not a manifestation of an existing podcast. Add only episode metadata at this stage. Targeted exact-title, host/guest, filename, and institutional-domain searches found no transcript or caption manifestation. Manual listening/transcription remains the next bounded action; no spoken claim, childhood detail, or sports claim is being inferred from the programme description.
+Decision: retain C-912 as a bounded public-text search result and preserve the episode as SRC-198 only. This is a deduplication correction, not a new interview or new biography evidence.
 
 ## 2026-08-09 — SRC-481/C-909: Tapesearch transcript access recheck
 
