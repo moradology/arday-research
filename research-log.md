@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1116/C-1364–C-1368: UCL 2018 keynote audit
+
+The complete 16-page PowerPoint-derived UCL keynote PDF was extracted with layout preservation and visually checked across the title, framing, statistic, structural-challenges, staff-diversification, quotation, recommendations, UCL-statement, and references slides. The audit records the deck as a cited, authored public presentation rather than a new empirical study, separates its two reused anonymised doctoral-study quotations, and preserves the distinct relationship to the later UCL keynote and post-event report.
+
 ## 2026-08-09 — SRC-1115/C-1361–C-1363: *Aiming Higher* report audit
 
 The complete 50-page public mirror was extracted with layout preservation and visually checked across the cover/front matter, co-authored introduction, Arday’s printed pp. 40–41 chapter, and closing contributor pages. The audit records the six-university/12-academic qualitative account, its themes and recommendations, and the original Runnymede-404 versus mirror-manifestation boundary. It does not attribute other chapters to Arday or treat the chapter as representative or causally evaluated research.

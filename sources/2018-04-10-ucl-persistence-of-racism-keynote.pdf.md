@@ -4,6 +4,8 @@ id: SRC-022
 
 # The Persistence of Racism in Higher Education: Understanding the BME Attainment Gap
 
+Page-level audit: [SRC-1116](2026-08-09-ucl-persistence-keynote-audit.md)
+
 - Source ID: SRC-022
 - Type: keynote paper / PDF
 - Date: 2018-04-10

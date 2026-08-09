@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1116`: [UCL 2018 keynote PDF](assets/documents/ucl-keynote.pdf) and [page-level audit](sources/2026-08-09-ucl-persistence-keynote-audit.md) — 16-page PowerPoint-derived deck for the 10 April 2018 BME Attainment Conference; cited statistics, framework, anonymised reused quotations, and recommendations mapped; distinct from the later UCL deck/video.
+
 - `SRC-1115`: [*Aiming Higher* mirror PDF](assets/captures/2015-aiming-higher-report/mirror.pdf), [source record](sources/2015-aiming-higher-report.md), and [page-level audit](sources/2026-08-09-aiming-higher-page-audit.md) — 50-page public institutional mirror; original Runnymede PDF route remains 404; Arday’s introduction and pp. 40–41 chapter are separately mapped.
 
 - `SRC-1114`: [Runnymede School Report PDF](assets/documents/runnymede-school-report-2015.pdf) and [page-level audit](sources/2026-08-09-school-report-page-audit.md) — 61-page Manchester manifestation containing 56 report pages plus a five-page repository wrapper; Arday’s co-editorial introduction and printed pp. 48–50 chapter are separately mapped.
