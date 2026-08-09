@@ -5,7 +5,7 @@ title: "Effective practices of peer mentors in an undergraduate writing intensiv
 subject: ../entities/jason-arday.md
 published: unknown; public conference PDF retrieved from HKU 2010 conference archive
 accessed: 2026-08-07
-status: public PDF preserved; corresponding published article separately indexed
+status: public PDF preserved; corresponding published article separately indexed; publisher abstract rechecked 2026-08-09
 evidence_class: primary public source-version used to test a research-integrity dossier
 urls:
   - https://www.cetl.hku.hk/conference2010/pdf/Douglass.pdf
@@ -44,6 +44,8 @@ This is a substantially stronger direct textual-overlap observation than a share
 ## Published-record topology
 
 Crossref identifies the version of record as “An Exploration of the Characteristics of Effective Undergraduate Peer-Mentoring Relationships,” by April G. Douglass, Dennie L. Smith, and Lana J. Smith, *Mentoring & Tutoring* 21(2), pp. 219–234. Crossref dates the published record 15 August 2013; the publisher landing-page result gives online publication as 9 July 2013. OpenAlex marks the DOI closed with no repository full text, and Semantic Scholar reports no open-access PDF. The public HKU PDF therefore remains a source-version/precursor, not a silently substituted version of record.
+
+The publisher’s current bibliographic page independently exposes the same title, authors, DOI, pages, online-publication date, and an abstract describing peer mentoring in undergraduate education writing-intensive courses, including survey rankings of mentor characteristics. This corroborates the published-record identity and broad subject matter, but it does not expose the article body or establish that the conference precursor is textually identical to the version of record. The Arday thesis comparison remains bounded to the locally preserved precursor unless a lawful full-text manifestation appears.
 
 ## Preservation
 

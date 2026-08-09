@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-389/C-1265: publisher abstract recheck for Douglass comparator
+
+Discovery: a current Taylor & Francis search result for DOI `10.1080/13611267.2013.813740` exposed the version-of-record metadata and abstract for Douglass, Dennie L. Smith, and Lana J. Smith’s 2013 article. The abstract describes peer mentoring in undergraduate writing-intensive education courses and survey rankings of mentor characteristics.
+
+Decision: update the existing canonical comparator record and add C-1265 as provenance metadata, not as a new publication node. The publisher page does not expose the full article; the Arday p. 311 “complementarity” row remains open.
+
 ## 2026-08-09 — Continuation sweep appended to SRC-895
 
 Subject-centred exact-name searches for 2026 interviews, videos, publications, memoir excerpts, audiobook samples, launch events, Cambridge/QUB process updates, and Cofnas-related responses were rechecked. The publisher result for *Great and Unfortunate Things* exposed the same canonical excerpt already recorded under `SRC-091`; the news and institutional results resolved to existing source families. No new binary, transcript, DOI/title, formal outcome, terms of reference, direct response, or distinct primary comparison was recovered.

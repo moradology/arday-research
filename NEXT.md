@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh comparator-provenance checkpoint: `SRC-389/C-1265` — Taylor & Francis’s current page confirms the Douglass–Smith–Smith version-of-record identity and abstract, but exposes no full text. This strengthens source topology without upgrading the HKU conference PDF to publisher-byte equivalence. Reopen only for a lawful version-of-record copy, a changed publisher access state, or a direct page-specific comparison; do not repeat the DOI metadata search unchanged.
+
 Fresh continuation-boundary checkpoint: `SRC-895` — exact-name searches for Arday’s 2026 interviews/videos/publications, memoir excerpt/audiobook/launch routes, and Cambridge/QUB/Cofnas process updates resolved to existing canonical records. No new binary, transcript, DOI/title, formal outcome, terms of reference, direct response, or primary comparison was recovered. Reopen only after a changed endpoint or concrete lead; do not repeat these query families unchanged.
 
 Fresh subject-centred event checkpoint: `SRC-1089/C-1263–C-1264` — a search-indexed participant account says she attended PASSHE’s 10 June 2026 conference, listened to Arday, and heard a point about not equating speed with excellence. The direct LinkedIn page returned cache miss, so this is witness-level corroboration with paraphrase-only claims. Reopen for the post, a named attendee artifact, recording, transcript, or slides; do not quote the indexed snippet or count it as independent first-party delivery proof.
