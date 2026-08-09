@@ -1,5 +1,7 @@
 # Work state
 
+Latest institutional-reception checkpoint: on 2026-08-09 `SRC-1018/C-1018` captured The Springfields Academy’s dedicated “Arday Class” page. It records a named-class association and the school’s public representation of Arday, but does not independently verify diagnosis or biography. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest primary-scholarship checkpoint: on 2026-08-09 `SRC-1017/C-1017` captured QUB’s direct 22-page blind-copy/peer-reviewed-version PDF for *Attempting to break the chain*. It adds a submission-style provenance artifact and a version comparison against the QUB and Kent copies; it is not a second publication, independent corroboration, or QUB finding. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest authored-output extraction: on 2026-08-09 `SRC-158/C-1014–C-1016` extracted three new timecoded passages from the full *Ruling Passions* transcript: masking as exhausting, intrinsic versus externally driven motivation and tailoring, and music/song titles as an autistic sense-making and writing philosophy. These are first-person testimony/position statements, not clinical evidence or scholarship-quality findings. Google Drive was not updated; GitHub remains the active publication target.

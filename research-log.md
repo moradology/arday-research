@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1018/C-1018: Springfields Academy naming record
+
+Discovery: the current Springfields Academy site lists an “Arday Class” among its Explorer classes and links a dedicated class page. The page names Jason Arday, describes him as a sociologist, writer, and fundraiser, and states that he has an autism diagnosis.
+
+Decision: classify this as a first-party specialist-school reception/naming record. It adds a concrete public legacy association but no independent evidence about diagnosis, childhood, schooling, qualifications, or career. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1017/C-1017: QUB blind-copy version boundary
 
 Discovery: QUB’s direct `pureadmin` route exposes a PDF whose filename identifies a blind-copy submission. The 22-page artifact labels itself “Peer reviewed version,” names *Educational Philosophy and Theory*, and preserves submission-style author/affiliation metadata.
