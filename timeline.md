@@ -1,5 +1,7 @@
 # Timeline
 
+| 2026 (summit date not exposed) | The African Allied Health Network’s 2026 summit site names Arday as a keynote speaker for an Accra healthcare/inclusion event and publishes a dedicated speaker image; detailed agenda, delivery, remarks, and recording remain unresolved. | first-party event listing and promotional image; host biography contains stale/contested current-affiliation wording | [African Allied Health Summit record](sources/2026-08-09-african-allied-health-summit-arday.md) |
+
 | 2024-03-27 | The Cambridge Festival “Race and society” discussion with Jason Arday, Claire Hynes, and Darren Lewis was publicly recorded and uploaded by Cambridge Festival; a local MP4 and automatic-caption track are preserved. | first-party video; caption wording and substantive remarks require human verification | [Cambridge Festival record](sources/2024-03-27-cambridge-festival-race-society-radio.md) |
 
 | 2023-03-10 listing / 2023-03-13 scheduled | The University of Liverpool advertised Arday’s “Even Flow: Understanding and Navigating Neurodiversity” keynote during Neurodiversity Celebration Week, with hybrid Teaching Hub/Zoom access. | first-party event listing and Eventbrite registration manifestation; delivery and remarks unresolved | [Liverpool keynote record](sources/2023-03-10-liverpool-neurodiversity-keynote.md) |

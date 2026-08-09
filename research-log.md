@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1087/C-1252–C-1254: African Allied Health Summit speaker listing
+
+A targeted 2026 event search surfaced the African Allied Health Network’s official speakers page. It names Arday as a keynote speaker for the African Allied Health Summit, publishes a dedicated speaker image, and frames his work around education, equity, social mobility, lived experience, and healthcare inclusion. The related schedule page says the detailed agenda will be released later. The organizer’s present-tense Cambridge wording is preserved as a stale/contested biography version after the Cambridge process, not as current appointment evidence. Delivery, date, remarks, and recording remain unresolved. Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1086/C-1247–C-1251: Cambridge Festival caption audit
 
 The recovered 1:37:40 Cambridge Festival video was mined for subject-centred, attributable windows. The audit separates the host’s biography introduction from Arday’s first-person/public-position passages and records approximate windows on work and opportunity, compassion/restraint, education and multicultural society, political representation, and academic hypersurveillance. YouTube’s English automatic captions contain progressive/duplicated cues and remain navigation only; no direct quotation was added. The audit is a derivative of `SRC-062`, not a second event node. Google Drive was not updated.

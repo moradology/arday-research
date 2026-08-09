@@ -33,6 +33,8 @@ The Wellcome Sanger Institute’s Sanger Excellence Fellowship page lists “Pro
 
 PASSHE’s 8 August 2026 speaker page likewise preserves stale present-tense Cambridge/Jesus wording in event-host copy; it is retained as a source-version, not a current-affiliation assertion. [PASSHE record](../sources/2026-08-08-passhe-speakers-page.md)
 
+The African Allied Health Network’s 2026 summit speakers page names Arday as a keynote speaker and publishes a dedicated speaker image. The page adds an international event edge and healthcare-inclusion framing, but the schedule, delivery, recording, and current-affiliation wording remain unresolved. [African Allied Health Summit record](../sources/2026-08-09-african-allied-health-summit-arday.md)
+
 The alternate Cambridge Faculty of Education “Faculty members” directory returned HTTP 200 on 8 August 2026 but contained no Arday entry, while search indexing still surfaced an Arday-associated result. This is a current directory/version boundary, not proof that every Cambridge relationship ended or that the omission has a known cause. [Directory record](../sources/2026-08-08-cambridge-faculty-members-directory.md)
 
 The migrated Faculty host adds the same boundary: the indexed profile route redirects to the Faculty home page, while the current “Our people” response contains no Arday occurrence. The indexed profile’s qualifications, project, and role wording remain a source-version rather than current-status evidence. [Migrated-host boundary](../sources/2026-08-08-cambridge-faculty-migrated-profile-boundary.md)
