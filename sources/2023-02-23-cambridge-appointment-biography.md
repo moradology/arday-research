@@ -36,3 +36,5 @@ Both the legacy Faculty URL and the `news.educ.cam.ac.uk` manifestation returned
 - [Current Faculty announcement headers](../assets/captures/2026-08-07-cambridge-appointment-recheck/faculty-announcement.headers.txt) — SHA-256 `74d7028e1c4fe29d0e5238b5044520cf8939dcf5b32cf9ab626d95fe45f6dc23`.
 - [Current news announcement HTML](../assets/captures/2026-08-07-cambridge-appointment-recheck/news-announcement.html) — 453,805 bytes; SHA-256 `427ec34078b75979b736fbd91486d9464987907934737a5cd5f905a5d9c179dc`.
 - [Current news announcement headers](../assets/captures/2026-08-07-cambridge-appointment-recheck/news-announcement.headers.txt) — SHA-256 `83949a37c670c727d54c6d742801460f8a7deecb41af2064c01f50497c7d6`.
+
+See the [2026-08-09 page-level audit](2026-08-09-cambridge-appointment-biography-page-audit.md) for the announcement’s page map, attributed-biography boundary, academic-formation context, and split current-page state.

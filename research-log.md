@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1123: Cambridge appointment announcement page audit
+
+The surviving Faculty and news manifestations of Cambridge’s 23 February 2023 appointment announcement were audited as one historical source family. The audit maps the appointment/date text, institutional superlative framing, attributed biography, public mission, academic-formation passage, career references, and the split state in which the announcement remained live while the separate Faculty profile was 404. Existing C-001/C-027/C-366/C-540 were linked conceptually rather than duplicated.
+
 ## 2026-08-09 — SRC-1122/C-1383: Merton College profile page audit
 
 The complete preserved South Thames Colleges Group profile was audited as a dated institutional biography. The audit separates the host’s direct former-student and Sandro Sandri wording from its reproduced developmental, educational, and career narrative, records the 6 March 2023 Cambridge start-date version, and links the later anti-bot recheck. Existing education/mentor claims were retained rather than duplicated.
