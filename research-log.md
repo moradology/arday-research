@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-905/C-966: Simon & Schuster `.net` memoir manifestation
+
+Discovery: a fresh publisher-locale search surfaced `simonandschuster.net/books/Great-and-Unfortunate-Things/Jason-Arday/9781668085578`. The direct request returned HTTP 200 and a 122,009-byte HTML page with JSON-LD edition metadata, publisher synopsis, author/contributor links, and CloudFront cover URLs.
+
+Decision: register the page as a first-party locale/source-version deduplicated to SRC-091. It confirms the US hardcover metadata (ISBN `9781668085578`, 37 Ink, 288 pages, 11 August 2026) and preserves a separately downloaded 593×900 cover, but the page’s childhood and career narrative is publisher/memoir marketing copy rather than independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-904/C-965: Amazon Music *A Good Read* manifestation
 
 Discovery: a podcast-platform search surfaced Amazon Music’s dedicated route for the 21 November 2023 BBC *A Good Read* episode featuring Janet Ellis and Jason Arday. The direct capture exposed show UUID `391a33d1-48ae-4a23-b4a5-28fe1337f3cd` and episode UUID `56c9195a-9289-49c5-b418-44c95058f143` in its deep-link metadata.

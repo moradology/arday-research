@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-publisher checkpoint: `SRC-905/C-966` — Simon & Schuster’s `.net` locale returned a full HTTP-200 publisher page for *Great and Unfortunate Things*, with structured US edition metadata and a locally preserved 593×900 cover. It canonicalizes to `SRC-091`; the synopsis is still publisher/memoir copy, not independent corroboration. Reopen only for a changed first-party page, lawful excerpt/full text, distinct edition, correction, or substantive publisher artifact; do not repeat the same locale fetch.
+
 Fresh podcast-topology checkpoint: `SRC-904/C-965` — Amazon Music exposes the canonical *A Good Read* episode under episode UUID `56c9195a-9289-49c5-b418-44c95058f143`, but the direct route is only a JavaScript shell. Reopen only for a rendered transcript, captions, artwork, or audio endpoint; do not repeat the same shell fetch.
 
 Fresh changed-state checkpoint: `SRC-903/C-964` — the African Allied Health Network speakers page returned HTTP 200 after the earlier site-wide 403 and still listed Arday as a keynote for the July 2026 Accra summit. The page adds current speaker-page provenance; its portrait is byte-identical to SRC-306. Reopen only for a post-event report, final programme, recording, transcript, attendance artifact, or another changed organizer state.

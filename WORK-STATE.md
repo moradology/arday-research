@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-publisher checkpoint: on 2026-08-08 `SRC-905/C-966` captured Simon & Schuster’s `.net` locale as a full HTTP-200 page with JSON-LD metadata, publisher synopsis, author/contributor links, and a 593×900 cover for the US memoir edition. The route canonicalizes to SRC-091, and its biographical synopsis remains promotional/memoir copy rather than independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest podcast-topology checkpoint: on 2026-08-08 `SRC-904/C-965` captured Amazon Music’s direct JavaScript-shell manifestation of the canonical BBC *A Good Read* episode. The episode UUID is preserved, but no rendered content, audio, transcript, captions, or artwork was exposed. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest event-access checkpoint: on 2026-08-08 `SRC-903/C-964` captured the African Allied Health Network speakers route after it recovered from HTTP 403 to HTTP 200. Arday remains listed as a keynote, and the page exposes a current organizer biography; no delivery, attendance, recording, or post-event outcome was established. The portrait is byte-identical to SRC-306. Google Drive was not updated; GitHub remains the active publication target.

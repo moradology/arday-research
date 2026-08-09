@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [Simon & Schuster `.net` memoir manifestation](sources/2026-08-08-simon-schuster-net-memoir.md) — recovered first-party locale page for *Great and Unfortunate Things*, with structured US edition metadata and locally preserved cover; deduplicated to the canonical publisher record SRC-091.
+
 ## 1. Current institutional profiles and records
 
 - [Autistic VOICES study](sources/2026-03-11-autistic-voices-study-arday.md) — Autism Research Centre project page (published March 2026, modified June 2026) listing Arday on the Steering Committee; project plan, participant information, and consent form locally preserved; results anticipated in 2027.

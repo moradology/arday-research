@@ -1,5 +1,7 @@
 # Media index
 
+- [Simon & Schuster `.net` memoir page](assets/captures/2026-08-08-simon-schuster-net-memoir/page.html), [headers](assets/captures/2026-08-08-simon-schuster-net-memoir/page.headers.txt), and [cover](assets/captures/2026-08-08-simon-schuster-net-memoir/cover-xlg.jpg) — recovered 8 August 2026 first-party locale manifestation for the 288-page US hardcover; canonicalized to SRC-091; SRC-905/C-966. The page adds publisher metadata and a binary cover, not independent biography evidence.
+
 - [Amazon Music *A Good Read* shell](assets/captures/2026-08-08-amazon-good-read/page.html) and [headers](assets/captures/2026-08-08-amazon-good-read/page.headers.txt) — distinct platform manifestation of the canonical 21 November 2023 BBC episode; episode UUID preserved, but no rendered metadata, transcript, or audio endpoint; SRC-904/C-965.
 
 - [African Allied Health Network speakers-page recheck](assets/captures/2026-08-08-aahn-speakers-recheck/page.html) and [speaker portrait](assets/captures/2026-08-08-aahn-speakers-recheck/arday-portrait.webp) — route recovered to HTTP 200 on 8 August after the earlier site-wide 403; portrait is byte-identical to SRC-306’s existing image; SRC-903/C-964. No post-event recording or transcript recovered.
