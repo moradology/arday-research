@@ -1,5 +1,7 @@
 # Work state
 
+Latest event-provenance checkpoint: on 2026-08-08 `SRC-899/C-960` captured the Social Research Association’s first-party LinkedIn programme announcement and four graphics for Arday’s 8 July 2026 session. The event remains canonical under SRC-188; no new delivery, recording, transcript, or substantive remark was inferred. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest biography-propagation checkpoint: on 2026-08-08 `SRC-898/C-959` captured Amfo Talent’s public booking profile and 800×800 displayed portrait. The page adds a distinct commercial source-version for speaker positioning and affiliation wording, but no independent childhood, sports, employment, or appointment evidence. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest recent-source sweep: on 2026-08-09 exact-name searches for August news, memoir reviews, Cambridge process updates, and interviews returned existing canonical records; no formal outcome or new primary artifact appeared. SRC-897 is the only new platform manifestation promoted from that pass. Google Drive was not updated; GitHub remains the active publication target.

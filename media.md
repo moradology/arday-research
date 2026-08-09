@@ -14,6 +14,8 @@
 
 - [Amfo Talent profile image](assets/captures/2026-08-08-amfo-talent-jason-arday/JA1.jpg) — 800×800 JPEG displayed on a commercial booking profile; source-version portrait with embedded Graeme Robertson copyright metadata; SRC-898/C-959. Reuse rights are not established.
 
+- [SRA Conference 2026 — Arday session graphic](assets/captures/2026-08-08-sra-conference-2026/image-2.jpg) and [announcement HTML](assets/captures/2026-08-08-sra-conference-2026/page.html) — official 5 June 2026 LinkedIn programme announcement for the 8 July session; four graphics preserved; deduplicated to SRC-188; SRC-899/C-960. Reuse rights follow LinkedIn/SRA terms.
+
 ## Video
 
 | PASSHE National Conference 2026 — “We are where we are…” | 2026-06-10 | PASSHE | keynote/Q&A listing | [Record](sources/2026-06-10-passhe-national-conference-jason-arday.md) · [Current event-state record](sources/2026-08-08-passhe-events-index.md) · [PASSHE timetable](https://passhe.org.uk/conference-2026/passhe-national-conference-2026-full-day-timetable-and-workshops/) · [Local HTML](assets/captures/2026-06-10-passhe-jason-arday/page.html) | conference host says event was delivered in hybrid format; Arday’s keynote delivery, recording, transcript, and slides remain unresolved |

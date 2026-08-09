@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-899/C-960: SRA first-party LinkedIn conference announcement
+
+Discovery: a targeted search for the unresolved 2026 SRA conference media/output lead found the Social Research Association’s own LinkedIn announcement, distinct from the already-catalogued Tina Haux repost and the SRA event/programme/report pages under SRC-188.
+
+Capture: the 5 June 2026 post names Arday’s 8 July session, “Message in a Bottle: Creating safer spaces for marginalised voices in research and policy-making,” and exposes four programme graphics. HTML, headers, and images are preserved under `assets/captures/2026-08-08-sra-conference-2026/`.
+
+Decision: register SRC-899 as a first-party social-media source-version deduplicated to SRC-188. It strengthens announcement provenance and visual programme evidence but does not establish attendance, delivery, a recording, transcript, or substantive remarks. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — recent-source sweep: no new canonical record
 
 Exact-name searches for August 2026 news, memoir reviews, Cambridge process updates, and new interviews returned AP, *The Atlantic*, *The Week*, *Publishers Weekly*, StoryGraph, Retraction Watch, Good Law Project, Guardian, and already-catalogued publisher records. No new formal outcome, primary institutional document, distinct interview, or uncatalogued memoir manifestation was recovered in this pass; Amazon Music’s Talking Matters route is the only new source-version promoted as SRC-897.

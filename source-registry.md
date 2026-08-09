@@ -679,6 +679,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-898 | `sources/2026-08-08-amfo-talent-jason-arday.md` | Amfo Talent public booking profile presenting Arday’s professional biography, affiliations, speaking topics, and an 800×800 portrait; promotional source-version with stale/contested role wording preserved | talent-agency biography / professional booking profile / local HTML, headers, and image | 2026-08-08 | Amfo Talent, biography, speaker profile, Cambridge, Glasgow, Durham, Ohio State, Coventry, Nelson Mandela University, Runnymede, BSA, RSA, CLASS, NHS Race and Health Observatory, image, source-version |
 
+| SRC-899 | `sources/2026-08-08-sra-linkedin-conference-announcement.md` | Social Research Association’s 5 June 2026 LinkedIn programme announcement for Arday’s 8 July “Message in a Bottle” session; four programme graphics and HTML preserved; deduplicated to SRC-188 | first-party institutional social-media announcement / event source-version / local HTML, headers, and images | 2026-08-08 | Social Research Association, SRA Conference 2026, Message in a Bottle, safer spaces, research, policy-making, programme, event, image, source-version, deduplication |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

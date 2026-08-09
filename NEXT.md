@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event-source checkpoint: `SRC-899/C-960` — the Social Research Association’s own 5 June 2026 LinkedIn announcement and four programme graphics were captured for Arday’s 8 July “Message in a Bottle” session. This is a first-party source-version deduplicated to `SRC-188`; it adds announcement provenance and visual programme evidence, not a second event, recording, or transcript. Reopen only for a changed announcement, recording, transcript, or post-event primary artifact.
+
 Fresh promotional-biography checkpoint: `SRC-898/C-959` — Amfo Talent’s public booking profile and displayed portrait were captured on 8 August 2026. It repeats Cambridge/Glasgow/Durham/visiting-professorship, governance, advisory, and “youngest” wording; retain it as talent-agency propagation evidence, not independent corroboration. Reopen only for a materially changed profile, a direct role record, or a distinct agency/media artifact; do not count repeated promotional copy as a new witness.
 
 Fresh recent-source sweep boundary: exact-name searches for August 2026 news, memoir reviews, Cambridge process updates, and interviews returned only existing canonical records plus SRC-897’s Amazon Music manifestation. Reopen only for a formal institutional outcome, changed primary statement, distinct recording/transcript, or uncatalogued publisher artifact; do not repeat the same broad queries unchanged.
