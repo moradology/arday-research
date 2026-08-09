@@ -3,8 +3,8 @@ id: SRC-607
 type: bibliographic index / API snapshot
 title: "OpenAlex current Jason Arday author/work snapshot"
 subject: ../entities/jason-arday.md
-accessed: 2026-08-08
-status: unchanged 56-work set; no new DOI/title key identified
+accessed: 2026-08-09
+status: unchanged 56-work set on 8–9 August recheck; no new DOI/title key identified
 evidence_class: bibliographic index metadata, not publisher verification
 updates: sources/2026-08-06-openalex-author-works-recheck.md
 urls:
@@ -31,3 +31,12 @@ This is a point-in-time discovery-index result, not independent authorship or pu
 - Author search headers: `assets/captures/2026-08-08-scholarly-index-audit/openalex.headers.txt` — SHA-256 `24271b966f84ebc81169aff51a0979daec957aeca46277dbfeed5e672ea71170`.
 - Works JSON: `assets/captures/2026-08-08-scholarly-index-audit/openalex-works.json` — SHA-256 `726b02536de505db4fb85f4f3dadd4060808074717e4b94a036c50ed4157804c`.
 - Works headers: `assets/captures/2026-08-08-scholarly-index-audit/openalex-works.headers.txt` — SHA-256 `0ac0c4a966e73830d2dbf4e0c2af57795bdd39eca12a8d5fb60d13d60d685264`.
+
+## 2026-08-09 recheck
+
+The same filtered works endpoint returned 56 records. The newest unique entries remained the two OSF preprint versions dated 21 and 23 January 2026, already represented by `SRC-178`; no new DOI/title candidate was promoted. The raw response and headers are preserved as a new point-in-time state.
+
+- [9 August works JSON](../assets/captures/2026-08-09-scholarly-index-audit.json) — SHA-256 `4263ff3a49fe08799feb62834651c0c5818884164c4525a38cefdf60321571fb`.
+- [9 August response headers](../assets/captures/2026-08-09-scholarly-index-audit.headers) — SHA-256 `78712188e2334b5abd613a775d59c9404bf2d08016682e1c590e1d9e441fd241`.
+
+This closes the exact OpenAlex author/work query for the current pass. Reopen only after a changed work set or a concrete publisher/repository lead.

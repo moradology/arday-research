@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-607/C-808: OpenAlex scholarly-output recheck
+
+The exact OpenAlex author/work endpoint for `A5048886069` was rechecked directly after a broader 2026 publication sweep. It returned 56 works; the newest unique entries remained the already-canonical OSF v1/v2 narrative-inquiry preprints dated 21 and 23 January 2026. No new DOI/title candidate was found. The raw works JSON and response headers are preserved under `assets/captures/2026-08-09-scholarly-index-audit/`. This is a changed-state recheck of `SRC-607`, not a new publication record.
+
 ## 2026-08-09 — SRC-1086/C-1247–C-1251: Cambridge Festival caption audit
 
 The recovered 1:37:40 Cambridge Festival video was mined for subject-centred, attributable windows. The audit separates the host’s biography introduction from Arday’s first-person/public-position passages and records approximate windows on work and opportunity, compassion/restraint, education and multicultural society, political representation, and academic hypersurveillance. YouTube’s English automatic captions contain progressive/duplicated cues and remain navigation only; no direct quotation was added. The audit is a derivative of `SRC-062`, not a second event node. Google Drive was not updated.
