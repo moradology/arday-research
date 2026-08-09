@@ -34,4 +34,6 @@ An interview with James O’Brien for Global’s *Full Disclosure*. The episode 
 - [Local MP3](../assets/audio/full-disclosure-jason-arday.mp3)
 - [Capture metadata](../assets/metadata/full-disclosure-jason-arday-capture-2026-08-06.md)
 
+A bounded audio audit now maps the guest’s opening responses at approximately 03:04–07:00, including his account of autism/global developmental delay, his professional mission around access to higher education, and his interpretation of non-speaking childhood. Host narration remains separated from these self-reports. See [SRC-1148](2026-08-09-full-disclosure-audio-audit.md).
+
 The audio remains an interview asset; the page description is host metadata and should not be treated as an independent record of childhood or education.
