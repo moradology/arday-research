@@ -714,6 +714,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-920 | `sources/2026-08-09-30in35-image-recheck.md` | Wayback image recheck for the 30 in 35 campaign; three duplicated campaign-logo binaries recovered, while all listed personal marathon photographs returned 404 or connection failures | archived campaign-image recheck / partial binary recovery / local JPEG binaries / deduplicated to SRC-377 | 2026-08-09 | 30 in 35, Wayback, campaign images, Facebook, Compress Yourself, JustGiving, marathon photographs, binary recovery, access boundary, deduplication |
 
+| SRC-921 | `sources/2026-08-09-lives-retold-wayback-recovery.md` | Wayback CDX recovered an 11-page HTTP-200 PDF manifestation of the BBC/Lives Retold transcript, captured 28 June 2023; PDF, extracted text, and headers preserved locally; live Squarespace route remains 404 | archived self-authored transcript manifestation / recovered binary / local PDF, text, and headers / deduplicated to SRC-036 | 2026-08-09 | Lives Retold, BBC Radio 4, Lent Talk, Wayback, recovered PDF, autobiography, childhood, literacy, football, snooker, fundraising, source version |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

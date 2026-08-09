@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-921/C-987: Lives Retold PDF recovered from Wayback
+
+Discovery: Wayback CDX exposed a 28 June 2023 HTTP-200 capture of the previously unavailable Lives Retold/BBC Lent Talk PDF. The 11-page binary was downloaded, hashed, and text-extracted locally.
+
+Decision: register SRC-921 as a recovered manifestation deduplicated to SRC-036. Preserve its page-level autobiographical wording, including the age-11 speech, age-18 literacy, sports, endurance, and April 2019 interview passages, without upgrading any of those claims to independent fact. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-913/C-978: Foyles memoir-reviews access recheck
 
 Discovery: the direct Foyles reader-reviews route returned HTTP 403 with a 215,038-byte Cloudflare challenge, byte-distinct from the prior 8 August challenge. Indexed review text was not newly recovered and no book/audio file was exposed.

@@ -1,0 +1,45 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 02:10:28 GMT
+content-type: application/pdf
+content-length: 376273
+x-archive-orig-connection: keep-alive
+x-archive-orig-content-length: 376273
+x-archive-orig-cache-control: public, max-age=94608000
+x-archive-orig-pragma: cache
+x-archive-orig-server: Squarespace
+x-archive-orig-timing-allow-origin: *
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-x-contextid: 1uFuchPX/mzvBU71H
+x-archive-orig-via: 1.1 varnish, 1.1 varnish
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-date: Wed, 28 Jun 2023 12:23:05 GMT
+x-archive-orig-age: 178826
+x-archive-orig-x-served-by: cache-dfw-kdfw8210121-DFW, cache-fra-eddf8230058-FRA
+x-archive-orig-x-cache: HIT, MISS
+x-archive-orig-x-cache-hits: 1, 0
+x-archive-orig-x-timer: S1687954986.633591,VS0,VE126
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-tracepoint: Fastly
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Wed, 28 Jun 2023 12:23:05 GMT
+link: <https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives+retold+arday+jason.pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives+retold+arday+jason.pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives+retold+arday+jason.pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20230628122504_ce3664b2/urls_20230628122504_ce3664b2.1650286618.megawarc.warc.zst
+server-timing: captures_list;dur=0.601420, exclusion.robots;dur=0.086254, exclusion.robots.policy;dur=0.075642, esindex;dur=0.010166, cdx.remote;dur=5.400475, LoadShardBlock;dur=95.569699, PetaboxLoader3.datanode;dur=119.485478, load_resource;dur=146.054614, PetaboxLoader3.resolve;dur=29.800389, loaddict;dur=84.772519
+x-app-server: wwwb-app258-dc8
+x-ts: 200
+x-tr: 278
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app258; path=/
+cache-control: private
+x-rl: 0
+x-na: 0
+x-page-cache: BYPASS
+server-timing: BYPASS
+x-nid: VYVE-BROADBAND
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-location: _pdf
+

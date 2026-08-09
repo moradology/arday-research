@@ -1,5 +1,7 @@
 # Work state
 
+Latest binary-recovery checkpoint: on 2026-08-09 `SRC-921/C-987` recovered an 11-page Wayback PDF manifestation of the BBC/Lives Retold transcript, with extracted text and headers. Page-level childhood, literacy, sports, endurance, and career wording is now locally inspectable but remains self-report. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest 30 in 35 media checkpoint: on 2026-08-09 `SRC-920/C-986` recovered three duplicated campaign-logo binaries from the archived image manifest; personal marathon photographs remained unavailable. No image or fundraising claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest Cambridge process checkpoint: on 2026-08-09 `SRC-919/C-985` preserved a later HTTP 404 response for the canonical investigation-statement URL after the same-day HTTP 200 capture. No statement text or outcome was available in the 404 response; page disappearance is not treated as adjudication. Google Drive was not updated; GitHub remains the active publication target.

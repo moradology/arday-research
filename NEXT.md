@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Lives Retold binary checkpoint: `SRC-921/C-987` — the 2023 Wayback HTTP-200 PDF is locally preserved with extracted text and headers after the live route returned 404. Reopen only for BBC audio, a first-party transcript revision, or an independent club/charity/employment record; do not count the recovered PDF as corroboration.
+
 Fresh 30 in 35 image checkpoint: `SRC-920/C-986` — three duplicated campaign-logo binaries were recovered from the Wayback image manifest; personal marathon photographs still return 404 or connection failures. Reopen only for a recoverable personal photograph, stable archived binary, or distinct public mirror; do not treat logos as portraits or completion evidence.
 
 Fresh Cambridge availability reversal: `SRC-919/C-985` — the canonical investigation-statement URL returned HTTP 404 on a later 9 August fetch after the same-day HTTP 200 capture. Reopen only through a changed official page, archived replay, formal outcome, or other primary institutional record; do not infer a finding from the route disappearance.

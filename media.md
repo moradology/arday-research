@@ -1,5 +1,7 @@
 # Media index
 
+- [Recovered Lives Retold/BBC Lent Talk PDF](assets/captures/2026-08-09-lives-retold-wayback/transcript.pdf), [extracted text](assets/captures/2026-08-09-lives-retold-wayback/transcript.txt), and [headers](assets/captures/2026-08-09-lives-retold-wayback/transcript.headers) — 11-page autobiographical transcript captured by Wayback on 28 June 2023; local binary recovered after the live Squarespace PDF returned 404; SRC-921/C-987. Self-report, not independent corroboration.
+
 - [Taylor & Francis correction-route challenge HTML](assets/captures/2026-08-09-educational-philosophy-correction-recheck/challenge.html) and [headers](assets/captures/2026-08-09-educational-philosophy-correction-recheck/challenge.headers.txt) — 9 August 2026 HTTP 403 response for the canonical correction PDF route; byte-distinct from the 8 August challenge, no correction PDF recovered; SRC-911/C-972.
 
 - [Sanger Excellence Fellowship programme HTML](assets/captures/2026-08-09-sanger-excellence-fellowship/page.html) and [headers](assets/captures/2026-08-09-sanger-excellence-fellowship/page.headers.txt) — current Wellcome Sanger Institute page lists Arday on the Advisory Group and uses Glasgow title wording; SRC-910/C-971. No separate programme report or meeting artifact recovered.
