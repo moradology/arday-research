@@ -1,5 +1,7 @@
 # Next actions
 
+Subject-centred priority: work outward from Arday’s own words, dated records naming him, and primary documents about his education, sports, appointments, publications, and controversy. Do not spend the next pass on additional catalogue manifestations unless they expose a distinct artifact or materially changed source state.
+
 Fresh NetGalley catalog checkpoint: `SRC-938/C-1004` — current US/UK pages remain HTTP 200 but sign-in-gated; rating metadata changed to 98 US members and one UK/Australia member. No review copy was downloaded. Reopen only for a lawful public catalog revision, a distinct edition, or a provenance-bearing public review; do not bypass access controls or treat ratings/descriptions as corroboration.
 
 Fresh StoryGraph access-boundary checkpoint: `SRC-937/C-1003` — a second 9 August direct request returned a byte-distinct HTTP 403 Cloudflare challenge while indexing continued to report 12 reviews. No review body or media was recovered; this is deduplicated to `SRC-918`. Reopen only for lawful review text, a materially changed page, or a distinct edition/reception artifact; do not repeat the same route unchanged.
