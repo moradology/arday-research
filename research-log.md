@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1078/C-1206–C-1211: Guardian black-history curriculum commentary audit
+
+The live Guardian page was audited as a dated authored-commentary source. The pass separates Arday’s education/anti-bigotry framing, cited Macpherson and Windrush policy references, empire and Black-contribution curriculum argument, Olive Morris/intersectionality and attainment claims, Black Curriculum description, and implementation recommendations from independent evidence.
+
+The page is opinion rather than peer-reviewed research; its 15 June 2020 modification date and Durham assistant-professor biography are retained as source-version metadata. The underlying policy reports, curriculum outcomes, and implementation effects remain open research boundaries. Added SRC-1078/C-1206–C-1211; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1077/C-1200–C-1205: BBC Newsnight PhD-offers page audit
 
 The live BBC Newsnight article published 17 November 2020 was audited as a dated source-version. It records the reported FOI scope and response counts, the white/Black offer-rate comparisons, and Arday-attributed passages on being taught by no person of colour, doctoral selection, funding work, inaccessible funding information, and structural inequality.

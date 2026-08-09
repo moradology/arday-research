@@ -245,6 +245,7 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 
 ## 7. Journalism and public commentary
 
+- [Guardian: “If we want a more equal Britain, we must teach its true black history”](sources/2026-08-09-guardian-black-history-curriculum-audit.md) — 13 June 2020 authored commentary on empire, Black contributions, curriculum, intersectionality, and policy recommendations; page-level audit preserves its 15 June modification and opinion-source boundary.
 - [Guardian author page](https://www.theguardian.com/profile/jason-arday) — includes “If we want a more equal Britain, we must teach its true black history.”
 - [Guardian: “Real change is needed”](https://www.theguardian.com/education/2021/feb/16/real-change-is-needed-addressing-the-bame-postgrad-attainment-gap) — postgraduate attainment gap.
 - [Guardian: Home Office colonialism training module](https://www.theguardian.com/politics/2022/jun/10/home-office-tried-to-sanitise-staff-education-module-on-colonialism) — comments on a government training module.
