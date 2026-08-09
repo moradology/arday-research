@@ -30,3 +30,5 @@ The linked CBS video is 6:39.49 and was captured from the page’s public HLS st
 ## Evidence boundary
 
 The childhood and family material is interview testimony reported by CBS, not an independent clinical, school, or civil record. The article’s descriptions of Arday’s later education and employment are retained as interview/profile material and should remain distinct from the CV and institutional records.
+
+See the [2026-08-09 page-and-media audit](2026-08-09-cbs-arday-interview-media-audit.md) for the interview topology, media stream details, and caption-access boundary.

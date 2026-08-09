@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1121/C-1382: CBS News interview page/media audit
+
+The locally preserved CBS article and linked MP4 were audited as one 2 March 2023 interview event. The audit records the byline, London-home caption, attributed first-person material, technical MP4 properties, and the distinction between a container closed-caption flag and an actually recoverable caption track. Existing C-097–C-098 were retained as the substantive claims; no duplicate biography witness was created.
+
 ## 2026-08-09 — SRC-1120/C-1381: Adult Literacy Trust patron record audit
 
 The Trust’s governance page and 2 May 2024 appointment announcement were audited as one role-source family. The audit separates patronage from trusteeship/employment, records the attributed literacy statement and portrait, preserves the current Cambridge wording as host copy, and links later regulator-hosted annual reports as dated continuity witnesses. The repeated supporters-page wording was not counted as independent corroboration.
