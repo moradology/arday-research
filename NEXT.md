@@ -10,6 +10,8 @@ Latest OpenAlex checkpoint: `SRC-1129/C-1389` rechecked author `A5048886069`; 56
 
 Latest Semantic Scholar checkpoint: `SRC-1130/C-1390` found four same-name author profiles and one new-to-the-corpus thesis DOI, `10.24377/ljmu.t.00004552`, reconciled to the existing LJMU thesis. Reopen only for a changed profile split/merge, new identifier, or primary thesis record.
 
+Latest catalogue checkpoint: `SRC-1131/C-1391` tested WorldCat, British Library Explore, Library Hub Jisc, and Library of Congress routes; no new record was recovered, and the JS/Cloudflare, HTTP 400, DNS, and HTTP 403 boundaries are preserved. Reopen only for a changed endpoint or direct catalogue identifier.
+
 Latest workspace-artifact audit: candidate files were reconciled as one unrelated DOI, a zero-byte ITV response, a repeated OpenLearn Cloudflare challenge, a byte-identical UEL page, and duplicate Booktime product assets. No new Arday evidence was promoted. Reopen only for a real ITV document, lawful OpenLearn PDF, changed UEL page, or distinct Booktime magazine/interview artifact; do not repeat these captures unchanged.
 
 Latest controversy-lineage checkpoint: named downstream coverage and institutional routes were rechecked; no new primary text, terms of reference, formal finding, correction, or independent sports record surfaced. The New York Times route remains robots-blocked, while Cambridge/QUB process records remain outcome-free. Reopen only for a primary institutional document, formal outcome, source correction, or named club/governing-body record; do not repeat the same article and search routes unchanged.

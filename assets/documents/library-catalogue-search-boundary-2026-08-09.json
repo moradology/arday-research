@@ -1,0 +1,35 @@
+{
+  "retrieved": "2026-08-09",
+  "query": "Jason Arday",
+  "routes": [
+    {
+      "name": "WorldCat Search",
+      "url": "https://search.worldcat.org/search?q=%22Jason%20Arday%22",
+      "http_status": 200,
+      "bytes": 262638,
+      "state": "JavaScript-required/Cloudflare shell; no parsed catalogue result"
+    },
+    {
+      "name": "British Library Explore",
+      "url": "https://explore.bl.uk/primo-explore/search?query=any,contains,Jason%20Arday&vid=BLVU1",
+      "http_status": 400,
+      "bytes": 0,
+      "state": "empty error response"
+    },
+    {
+      "name": "Library Hub Jisc",
+      "url": "https://www.libraryhub.jisc.ac.uk/search?query=Jason%20Arday",
+      "http_status": 0,
+      "bytes": 0,
+      "state": "hostname resolution failure"
+    },
+    {
+      "name": "Library of Congress books API",
+      "url": "https://www.loc.gov/books/?q=%22Jason+Arday%22&fo=json&c=100",
+      "http_status": 403,
+      "bytes": 0,
+      "state": "direct scripted request blocked; no exact catalogue result claimed"
+    }
+  ],
+  "result": "No new catalogue record, edition, or thesis manifestation promoted."
+}

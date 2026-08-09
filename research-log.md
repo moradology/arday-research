@@ -34,6 +34,14 @@ Capture: the profile/paper JSON preserves the four author IDs, reported counts, 
 
 Decision: added `SRC-1130/C-1390` and linked the DOI to the existing thesis record. The four profiles are treated as index fragmentation, not four distinct people; no Semantic Scholar count or attribution was upgraded to verified authorship.
 
+## 2026-08-09 — SRC-1131/C-1391: library-catalogue boundary
+
+Discovery: exact-name catalogue routes were tested across WorldCat, British Library Explore, Library Hub Jisc, and the Library of Congress books API.
+
+Capture: WorldCat returned a 262,638-byte JavaScript/Cloudflare shell; British Library Explore returned HTTP 400 with zero bytes; the tested Library Hub hostname failed DNS resolution; and the Library of Congress scripted exact-query route returned HTTP 403. Selected route states and URLs are preserved in JSON.
+
+Decision: no new catalogue item was promoted. Existing memoir, thesis, and publication-library records remain canonical. Reopen only for a changed endpoint or a direct, lawful catalogue result.
+
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 
 The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.
