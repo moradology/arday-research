@@ -24,3 +24,7 @@ The event biography presents Arday as Professor of Sociology of Education at Cam
 - Response headers: `assets/captures/newcastle-black-history-month-lecture-2025-10-14/headers.txt` (SHA-256 `d1d219a8fd0d071a88ff473161ee1a87b0846b3f407509dc44af4d0aa4c5148d`)
 - Page-linked portrait: `assets/images/newcastle-jason-arday-2025.jpg` (1,315×882 JPEG; SHA-256 `b70ae417704353d69d2928953603ab09ba8ee37c556a9eb959e55284191fe0d9`)
 - Portrait response headers: `assets/metadata/newcastle-jason-arday-2025-image-headers-2026-08-06.txt` (SHA-256 `ecdae866067ccc0ff0b872510ded7d993a040c9b540b4ea23589e7df0ed80d72`)
+
+## Current page recheck — 2026-08-09
+
+The canonical Newcastle archive route returned HTTP 200. Its 51,815-byte HTML is byte-identical to the preserved 6 August capture (`0f867f8c27a77574d05e1397a2ef982be1c85b516ee753924ff0db60bcd9a834`); no YouTube/Vimeo link, recording, transcript, caption track, or slide deck is exposed. This closes the unchanged event-page route for the current checkpoint without creating a source-version duplicate.
