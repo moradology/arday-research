@@ -2,6 +2,8 @@
 @@
 # Research log
 
+2026-08-09 — Cambridge appointment announcement media recovery: the surviving Faculty announcement returned HTTP 200 on a current recheck with the same historical body. Four Arday-specific JPEGs exposed by the page were downloaded and visually checked: a portrait, an appointment image, a PhD-ceremony image whose alt text identifies Liverpool John Moores University and 2016, and a third article image. Added the binaries and response-boundary capture to `SRC-114` and `media.md`; no new biographical claim or appointment node was created, and the images are not treated as independent corroboration.
+
 2026-08-09 — ABC News video audit: the locally preserved 2:46 MP4 was converted to corrected-mono 16 kHz audio and transcribed with `mlx-community/whisper-small.en-mlx`. Added `SRC-1155/C-1450–C-1451` for Arday’s recollection of three ambitions written on his parents’ bedroom wall at 27 and his aspiration for ordinary Black-professor representation; linked the repeated first-word passage to existing C-044 rather than duplicating it. The JSON is navigation-only and human listening remains open.
 
 2026-08-09 — *How Do You Cope? — The Gratitude List* audio audit: the locally preserved 21:13.29 bonus MP3 was converted to corrected-mono 16 kHz WAV and transcribed in three absolute-offset windows with `mlx-community/whisper-small.en-mlx`. Added `SRC-1154/C-1441–C-1446` for Arday-attributed first-person passages on poverty and household gratitude, maternal support and an age-eight apple recollection, his distinction between Cambridge status and personal identity, community support, and music/language/imagination. The JSON is navigation-only; human listening remains required before quotation, and all biographical details remain self-report.

@@ -312,6 +312,7 @@ Ruling Passions continuation: the current WordPress transcript page recheck (SRC
 - [BBC “youngest black professor” profile](sources/2023-02-23-bbc-youngest-black-professor.md) — 23 February 2023; BBC canonical URL retained, school-hosted witness page and two image derivatives locally preserved.
 - [Guardian 11 July 2023 childhood profile](assets/captures/2023-07-11-guardian-childhood-profile/page.html), [portrait](assets/captures/2023-07-11-guardian-childhood-profile/portrait.jpg), and [PhD-ceremony photograph](assets/captures/2023-07-11-guardian-childhood-profile/phd-ceremony.jpg) — local capture upgrade for SRC-088.
 - [Guardian 23 February 2023 Cambridge-appointment profile](assets/captures/2023-02-23-guardian-cambridge-appointment/page.html) and [portrait](assets/captures/2023-02-23-guardian-cambridge-appointment/portrait.jpg) — local capture upgrade for SRC-128.
+- [Cambridge Faculty appointment announcement image set](assets/images/cambridge-appointment-2023/) — four first-party JPEGs preserved from the surviving 23 February 2023 announcement: portrait, appointment image, PhD-ceremony image, and third article image; [canonical source record](sources/2023-02-23-cambridge-appointment-biography.md) and [9 August page/image response headers](assets/captures/2026-08-09-cambridge-appointment-image-recheck/).
 - [Open Culture sports/mentor feature](sources/2023-10-18-open-culture-jason-arday.md) — 18 October 2023; editorial repost locally preserved; Great Big Story video remains the canonical underlying recording.
 
 ## Image and document leads

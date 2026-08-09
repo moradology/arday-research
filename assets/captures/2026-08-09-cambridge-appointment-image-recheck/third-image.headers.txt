@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Aug 2026 16:56:28 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Last-Modified: Thu, 11 Jul 2024 15:44:12 GMT
+ETag: "6ae7-61cfaa2620b00"
+Accept-Ranges: bytes
+Content-Length: 27367
+Content-Type: image/jpeg
+

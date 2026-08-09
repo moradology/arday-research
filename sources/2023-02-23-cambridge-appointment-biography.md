@@ -3,8 +3,8 @@ id: SRC-114
 type: Source
 title: "Jason Arday appointed Professor of Sociology of Education at University of Cambridge"
 date: 2023-02-23
-accessed: 2026-08-07 (current URL recheck)
-status: verified historical institutional page; current announcement URLs remain live after profile removal
+accessed: 2026-08-09 (current URL and image recheck)
+status: verified historical institutional page; four first-party image binaries preserved; current announcement URLs remain live after profile removal
 source_kind: institutional appointment announcement
 entities:
   - ../entities/jason-arday.md
@@ -27,6 +27,17 @@ The same announcement records Arday’s account of learning academic work with l
 ## Evidence boundary
 
 This record verifies what Cambridge publicly published in 2023. It does not independently verify the underlying autobiographical details.
+
+## First-party image preservation — 2026-08-09
+
+The surviving Faculty announcement exposes four image assets. They are preserved locally as source-linked media; the page’s captions/alt text are the controlling identification layer, and the images do not independently verify the event, date, identity, or biographical claims shown or described around them.
+
+- [Portrait](../assets/images/cambridge-appointment-2023/jason-arday-portrait.jpg) — 1200×1600 JPEG; SHA-256 `7a1ebad5b203d93c4844d19302d726ac1847bbeddc26467f6b93d9668cfd0417`.
+- [Appointment image](../assets/images/cambridge-appointment-2023/jason-arday-appointed.jpg) — 987×556 JPEG; SHA-256 `8c3b116b16ffc0d3b65a513bcbd7b2585318594a82d051f417ff2739e122d7fa`.
+- [PhD-ceremony image](../assets/images/cambridge-appointment-2023/jason-arday-phd-ceremony.jpg) — 1000×1333 JPEG; Cambridge’s alt text identifies it as Arday at his Liverpool John Moores University PhD ceremony in 2016; SHA-256 `3ed62f6ee0d2a27b2e8fa212735cf2aa370afc7d4a205ece8e356892db9ebe0b`.
+- [Third article image](../assets/images/cambridge-appointment-2023/jason-arday-third-image.jpg) — 600×337 JPEG; SHA-256 `9eff0319e2d7f185b1685117049fe6e44a17312800d9bd5ad0c35fa8e0c61abe`.
+
+The 9 August page recheck returned HTTP 200 with the same historical announcement body; the page and image response headers are preserved under [the recheck capture](../assets/captures/2026-08-09-cambridge-appointment-image-recheck/). The rechecked HTML has SHA-256 `78921d2ab8040c6d5e8a1cce8660a3ae18a432d76b944bbd98e24029d5792830`, and the page-response headers have SHA-256 `db9a97794e905d67ce8701609cf8a965bff5fca38bfb47ea11590479797dcde3`.
 
 ## Current URL-state recheck — 2026-08-07
 
