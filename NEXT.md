@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh subject-audio checkpoint: `SRC-1025/C-1025` — targeted windows of the preserved *How Do You Cope?* MP3 now cover Arday’s maternal diagnosis account, speech-therapy/non-verbal reflection, and snooker self-description. Reopen only for human listening, a full lawful transcript/caption track, or a materially different audio manifestation; do not count ASR or the repeated snooker statement as independent corroboration.
+
 Fresh audio-audit checkpoint: `SRC-1024/C-1024` — the preserved *New Humanist* MP3 now has targeted timecoded checks for childhood and adolescence. The audio supports “three, four, five times in a year,” correcting the transcript’s ambiguous “345 times a year” rendering, but remains self-report and machine-assisted. Reopen only for human listening, a first-party corrected transcript, or an independent police record; do not treat the count as verified.
 
 Fresh teaching-reception checkpoint: `SRC-1023/C-1023` — an anonymous Reddit commenter alleges an Autumn 2018 Roehampton student experience involving attendance, preparation, pedagogy, feedback, and a complaint. Reopen only for a named first-hand account or independently checkable Roehampton module/staff/complaint/assessment record; do not treat anonymous testimony as verified fact or repeat the thread unchanged.

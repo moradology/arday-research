@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1025/C-1025: How Do You Cope? audio audit
+
+The locally preserved 26 May 2025 *How Do You Cope?* MP3 was sampled with `mlx-community/whisper-small.en-mlx`. Targeted windows recovered Arday’s first-person discussion of his mother not explicitly naming his autism diagnosis to him until less than five years earlier, his extensive speech-therapy and educational-psychology support, learning through non-verbal communication, and his statement that he would have been a professional snooker player.
+
+Decision: preserve these as timecoded first-person audio testimony and keep the episode deduplicated to SRC-129. The host introduction is not promoted as new corroboration; the snooker passage overlaps existing sports claims and does not establish professional status. The full transcript remains inaccessible, and ASR remains a navigation aid pending human listening. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1024/C-1024: New Humanist audio audit
 
 The preserved 2,316.54-second *With Reason* MP3 was audited with `mlx-community/whisper-small.en-mlx` in targeted windows covering the childhood, music, protest, and police-stop passages. The audio broadly matches the host transcript: Clapham and council-estate upbringing; delayed speech/literacy; music, guitar, and movement out of signing; childhood picket lines; and the adolescent police-stop account.
