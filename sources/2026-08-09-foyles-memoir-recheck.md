@@ -24,4 +24,3 @@ This record preserves a changed retrieval state only. Foyles’ reviews remain b
 
 - [Challenge HTML](../assets/captures/2026-08-09-foyles-memoir-recheck/page.html) — 215,038 bytes; SHA-256 `e4f637ddaae322e64430e36bcff5403cad15e9b406bdb27abe04a70eb8b4d0b8`.
 - [Response headers](../assets/captures/2026-08-09-foyles-memoir-recheck/page.headers.txt) — SHA-256 `4c76109e0150584dc5cbd70381825b853c9acae13f8c01b6f00320a3d82650a9`.
-
