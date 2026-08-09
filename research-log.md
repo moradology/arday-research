@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred biography audit: compared the person record, working biography, timeline, and claims-ledger references. Removed one duplicated House of Lords testimony paragraph from `biography.md`; no evidence or claim status changed. The biography continues to separate institutional records, self-reports, source-version repetition, allegations, and unresolved negative-space observations.
+
 2026-08-09 — Archive-integrity pass: reconciled 53 untracked local artifacts (5.28 GB) to existing Jason Arday source records. No new claim or source subject was created from the binaries. Large media remains local-only; clean sidecars can be versioned, while headers and scratch files are excluded to avoid credential leakage and provenance drift. See `SRC-1139`.
 
 ## 2026-08-09 — SRC-1138/C-1399: African Allied Healthcare Summit keynote listing
