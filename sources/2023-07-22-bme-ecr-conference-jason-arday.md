@@ -21,7 +21,7 @@ The BME ECR Network’s public channel published a 50:15 recording titled “7TH
 - 01:42–18:00: keynote content and discussion concerning Black women, race, higher education, and institutional change.
 - 18:00 onward: audience questions and responses, including discussion of academic careers and the barriers facing Black researchers.
 
-The recording is a distinct conference appearance, not the Oxford Physics, Oxford/Kellogg, or other keynote records. It does not add new childhood chronology. Captions are automatic and require human verification before quotation.
+The recording is a distinct conference appearance, not the Oxford Physics, Oxford/Kellogg, or other keynote records. It does not add new childhood chronology. A bounded audit separates the error-prone host biography from Arday’s keynote and records six dated public-position/source-version windows: [SRC-1065](2026-08-09-bme-ecr-keynote-caption-audit.md). Captions are automatic and require human verification before quotation.
 
 ## Local preservation
 
