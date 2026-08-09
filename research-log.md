@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1117/C-1369–C-1373: Youth Unemployment Committee testimony audit
+
+The official corrected web transcript for the 29 June 2021 House of Lords hearing was reviewed at question level. The audit separates Arday’s Q195–Q207 evidence from Dr Gurleen Popli and committee speakers, records policy proposals about mentoring, role models, positive action, labour-market literacy, and data skills, and preserves the ex-PE-teacher and two-African-parents statements as first-person testimony. The full local transcript binary remains inaccessible behind the Parliament/Cloudflare challenge; no new transcript source was created.
+
 ## 2026-08-09 — SRC-1116/C-1364–C-1368: UCL 2018 keynote audit
 
 The complete 16-page PowerPoint-derived UCL keynote PDF was extracted with layout preservation and visually checked across the title, framing, statistic, structural-challenges, staff-diversification, quotation, recommendations, UCL-statement, and references slides. The audit records the deck as a cited, authored public presentation rather than a new empirical study, separates its two reused anonymised doctoral-study quotations, and preserves the distinct relationship to the later UCL keynote and post-event report.

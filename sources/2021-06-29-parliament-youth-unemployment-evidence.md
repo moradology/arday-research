@@ -27,6 +27,8 @@ assets:
 
 # Youth Unemployment Committee — corrected oral evidence
 
+Question-level audit: [SRC-1117](2026-08-09-youth-unemployment-transcript-audit.md)
+
 The House of Lords Youth Unemployment Committee published corrected oral evidence from its 29 June 2021 virtual session. Jason Arday appeared with Dr Gurleen Popli in questions 195–207. The official transcript identifies him as a Trustee of the Runnymede Trust and records his then self-introduction as Associate Professor of Sociology and Deputy Executive Dean for People and Culture at Durham University (transcript PDF p. 1; Q195).
 
 ## Extracted evidence

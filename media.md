@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1117`: [Youth Unemployment Committee testimony audit](sources/2026-08-09-youth-unemployment-transcript-audit.md) and [official corrected transcript](https://committees.parliament.uk/oralevidence/2482/html/) — question-level record for Q195–Q207; full local PDF/HTML binary remains blocked by Parliament/Cloudflare challenge, with access-state captures preserved.
+
 - `SRC-1116`: [UCL 2018 keynote PDF](assets/documents/ucl-keynote.pdf) and [page-level audit](sources/2026-08-09-ucl-persistence-keynote-audit.md) — 16-page PowerPoint-derived deck for the 10 April 2018 BME Attainment Conference; cited statistics, framework, anonymised reused quotations, and recommendations mapped; distinct from the later UCL deck/video.
 
 - `SRC-1115`: [*Aiming Higher* mirror PDF](assets/captures/2015-aiming-higher-report/mirror.pdf), [source record](sources/2015-aiming-higher-report.md), and [page-level audit](sources/2026-08-09-aiming-higher-page-audit.md) — 50-page public institutional mirror; original Runnymede PDF route remains 404; Arday’s introduction and pp. 40–41 chapter are separately mapped.
