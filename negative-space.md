@@ -8,6 +8,10 @@ status: active
 
 # Jason Arday — negative-space and changed-state ledger
 
+## 2026-08-09 — Post-checkpoint institutional/scholarly sweep
+
+Focused searches for Cambridge and QUB investigation outcomes, new 2026 DOI output, and current charity/governance records returned only already-canonical AP/BBC/*Guardian*/*Telegraph*/institutional-process records, existing DOI/title records, and existing First Star, Autism Centre of Excellence, BSA, and patron records. No new official outcome, terms of reference, filing, DOI, or distinct media artifact was recovered. This boundary is recorded under [SRC-895](sources/2026-08-09-post-checkpoint-source-boundary.md); reopen only after a changed endpoint or concrete lead.
+
 ## 2026-08-06 — Autism Centre of Excellence legal-role boundary
 
 The Companies House officers page for company 12435820 was directly retrievable and listed Arday as an active director appointed 30 March 2024. No resignation date was shown. This current registry snapshot corroborates the Charity Commission trustee record but does not establish ongoing operational activity, remuneration, or what changed after Arday’s Cambridge resignation. Recheck only after a new filing or changed officer state.

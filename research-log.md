@@ -3806,3 +3806,10 @@ Discovery: a current search for primary Roehampton records surfaced the Research
 Capture: preserved the live metadata HTML, response headers, linked “Final published version” PDF, and PDF headers. The repository PDF is byte-distinct from the existing MDPI file under SRC-174; extracted article text is identical.
 
 Decision: added a distinct host/version manifestation while retaining DOI deduplication. The page provides first-party publication metadata, School of Education association, CC BY wording, and a second public PDF route. It does not constitute a second publication, independent corroboration of the study’s participant narratives, or resolution of the later correction/ethics questions.
+## 2026-08-09 — SRC-895/C-907: post-checkpoint source boundary
+
+Discovery: a focused search was run after the Roehampton repository capture across Cambridge and QUB investigation outcomes, new 2026 DOI output, and current charity/governance records.
+
+Result: the material hits were already canonical AP, BBC, *Guardian*, *Telegraph*, Cambridge/QUB procedure and statement records, First Star, Autism Centre of Excellence, BSA, and patron/governance records. No final finding, terms of reference, new DOI/title key, new filing, or distinct recording/transcript was exposed.
+
+Decision: closed the exact query family as a negative-space checkpoint. Reopen only for a changed official endpoint, named inquiry document/outcome, new DOI, new filing, or distinct media/publication artifact; do not repeat unchanged broad queries.

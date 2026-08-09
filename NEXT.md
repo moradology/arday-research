@@ -1,5 +1,8 @@
 # Next actions
 
+Fresh search-boundary checkpoint: `SRC-895/C-907` — focused 9 August searches across Cambridge/QUB outcomes, 2026 DOI output, Companies House, Charity Commission, Runnymede, and Adult Literacy Trust records returned only canonical sources. No new outcome, DOI, filing, or distinct media artifact was recovered. Reopen only with a changed endpoint or concrete lead; do not repeat these broad queries unchanged.
+
+
 Fresh scholarly-manifestation checkpoint: `SRC-894/C-905–C-906` — Roehampton’s Research Explorer now has a locally preserved metadata page and “Final published version” PDF for Arday’s 2018 mental-health article. The PDF is byte-distinct but text-identical to SRC-174’s MDPI copy and remains deduplicated by DOI. Reopen only for a materially different article text, correction, retraction, metadata change, or page-specific audit.
 
 

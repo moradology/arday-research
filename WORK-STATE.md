@@ -1,5 +1,7 @@
 # Work state
 
+Latest search-boundary checkpoint: on 2026-08-09 `SRC-895/C-907` closed a focused post-checkpoint sweep across Cambridge/QUB processes, 2026 DOI output, and governance hosts. Results resolved to existing records; no new official outcome, filing, DOI, or media artifact was found. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly-manifestation checkpoint: on 2026-08-09 `SRC-894/C-905–C-906` preserved Roehampton’s Research Explorer metadata and “Final published version” PDF for Arday’s 2018 mental-health article. The repository PDF is byte-distinct but text-identical to SRC-174’s MDPI copy, so it is a host/version manifestation rather than a second publication. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest institutional teaching checkpoint: on 2026-08-08 `SRC-893/C-903–C-904` preserved the current Roehampton profile route’s 301-to-`/news/` boundary and the indexed historical wording describing Arday as a former School of Education lecturer/senior lecturer in 2018. This supports a broad dated role record, not the Reddit account’s module-specific allegations. Google Drive was not updated; GitHub remains the active publication target.

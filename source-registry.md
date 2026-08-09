@@ -672,6 +672,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-894 | `sources/2026-08-09-roehampton-mental-health-repository.md` | University of Roehampton Research Explorer record for Arday’s 2018 *Social Sciences* article; live metadata page and “Final published version” PDF preserved; PDF is byte-distinct but text-identical to canonical MDPI copy SRC-174 | first-party repository manifestation / final published-version host copy / local HTML, headers, and PDF / deduplicated by DOI | 2026-08-09 | Roehampton, Research Explorer, mental health, BME students, Social Sciences, DOI 10.3390/socsci7100196, final published version, CC BY, source-version, deduplication |
 
+| SRC-895 | `sources/2026-08-09-post-checkpoint-source-boundary.md` | Focused 9 August 2026 search boundary across Cambridge/QUB investigation outcomes, 2026 DOI output, charity/governance records, and named institutional hosts; all material results resolved to existing canonical records and no new artifact or outcome was recovered | bounded search/negative-space record / deduplication checkpoint / no local binary | 2026-08-09 | Cambridge, QUB, investigation, outcome, DOI, Charity Commission, Companies House, governance, search boundary, negative space, deduplication |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.
