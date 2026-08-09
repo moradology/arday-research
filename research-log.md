@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Archive-integrity pass: reconciled 53 untracked local artifacts (5.28 GB) to existing Jason Arday source records. No new claim or source subject was created from the binaries. Large media remains local-only; clean sidecars can be versioned, while headers and scratch files are excluded to avoid credential leakage and provenance drift. See `SRC-1139`.
+
 ## 2026-08-09 — SRC-1138/C-1399: African Allied Healthcare Summit keynote listing
 
 Discovery: a 2026 event search surfaced the African Allied Healthcare Network’s first-party summit site. The home page dates the African Allied Healthcare Summit to 23–24 July 2026 and places it at the Cedi Conference Centre, University of Ghana, Legon, Accra; the speakers page names Jason Arday as a keynote speaker.

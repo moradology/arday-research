@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-1139 | `sources/2026-08-09-local-artifact-reconciliation.md` | Reconciles 53 untracked local Arday media/capture artifacts totalling 5.28 GB against existing canonical source records; promotes clean small sidecars only, excludes transient headers and scratch files, and keeps large binaries local-only | archive-integrity audit / local media provenance / binary-storage boundary / deduplication | 2026-08-09 | Jason Arday, archive integrity, local media, MP4, MP3, captions, metadata, recheck, deduplication, GitHub, storage boundary, scratch quarantine |
+
 @@
 | SRC-1137 | `sources/2026-08-09-durham-living-hand-to-mouth-recheck.md` | Current Durham Worktribe indexed metadata continues to list the 24 November 2020 *Living Hand to Mouth* submitted manuscript; direct record returned HTTP 403 and no full text/PDF was recovered; relationship to 2022 *More to prove and more to lose* remains provisional | repository metadata / changed access boundary / publication-version lead / selected JSON recheck | 2026-08-09 | Durham repository, Living Hand to Mouth, precarious employment, British Journal of Sociology of Education, manuscript, version lineage, HTTP 403, full text unresolved |
 
