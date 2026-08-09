@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1027/C-1027: Research Cast UK audio audit and timestamp correction
+
+The canonical 44:47.54 Research Cast UK MP3 was re-audited with `mlx-community/whisper-small.en-mlx` using streamed windows with explicit offsets. The pass sharpens the educator-values passage at 05:30–07:10, the NHS-family/mental-health-nurse passage at 26:50–27:45, and the sport/community/belonging passage at 27:48–29:50. These remain first-person audio evidence and do not add independent records.
+
+Method note: an earlier file-path clipping attempt could double-count window starts in displayed timestamps. The corrected audit uses absolute file times and records the issue so future derivatives do not inherit it. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1026/C-1026: Student Sessions audio audit
 
 The preserved 42:04.46 *Student Sessions* MP3 was sampled with `mlx-community/whisper-small.en-mlx`. Targeted windows recovered Arday’s account of Sandro Sandri’s repeated phonics and literacy support, his statement that at 21 his reading age was 11, and a remembered Sandri framing of a PhD within 12 years of learning to read and write.

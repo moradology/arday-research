@@ -18,9 +18,9 @@ The preserved 42:04.46 *Student Sessions* MP3 was sampled with `mlx-community/wh
 ## First-person passages recovered
 
 - **01:12–02:09:** Arday describes being diagnosed with autism spectrum disorder and global developmental delay, and describes delayed literacy and his route from college into Glasgow and Cambridge. The ASR renders one sentence as saying he learned to “read” at 11, which conflicts with the surrounding public source family’s speech-at-11 formulation; this ambiguity is preserved, not resolved or promoted as a new claim.
-- **10:29–13:08:** He attributes a major part of his literacy development to college tutor Sandro Sandri, describing hours of phonics and reading-and-writing exercises and saying he would not have gone on to do what he did without meeting Sandri. This is first-person attribution, not an independently checked tutoring or college record.
-- **21:21–21:34:** He says that at age 21 his reading age was that of an 11-year-old.
-- **22:25–22:37:** He recalls Sandri framing it as remarkable that someone who learned to read and write at 18 could obtain a PhD within 12 years. This is a remembered quotation/biographical framing and remains subject to the same source-version and self-report caveats.
+- **05:38–07:54:** He attributes a major part of his literacy development to college tutor Sandro Sandri, describing hours of phonics and reading-and-writing exercises and saying he would not have gone on to do what he did without meeting Sandri. This is first-person attribution, not an independently checked tutoring or college record.
+- **11:21–11:33:** He says that at age 21 his reading age was that of an 11-year-old.
+- **12:25–12:37:** He recalls Sandri framing it as remarkable that someone who learned to read and write at 18 could obtain a PhD within 12 years. This is a remembered quotation/biographical framing and remains subject to the same source-version and self-report caveats.
 
 ## Evidence boundary
 
@@ -28,4 +28,4 @@ The audit verifies that the sampled audio contains these passages and supplies a
 
 ## Reproduction
 
-Audio: [canonical MP3](../assets/audio/student-sessions-jason-arday-2023-12-15.mp3), SHA-256 `69354937c70aa066afd46245780b6276f8d9c406daa32715203a2de393181a0b`. Model: `mlx-community/whisper-small.en-mlx`; targeted 300-second windows across the 42:04.46 file.
+Audio: [canonical MP3](../assets/audio/student-sessions-jason-arday-2023-12-15.mp3), SHA-256 `69354937c70aa066afd46245780b6276f8d9c406daa32715203a2de393181a0b`. Model: `mlx-community/whisper-small.en-mlx`; targeted 300-second windows across the 42:04.46 file. `mlx_whisper` returned absolute segment times for file-path clipping; the initial draft incorrectly added each window start a second time, and the ranges above are corrected.

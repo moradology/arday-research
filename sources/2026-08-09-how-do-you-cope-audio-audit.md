@@ -18,9 +18,9 @@ The locally preserved MP3 for episode 15 of *How Do You Cope?* was sampled with 
 
 ## First-person passages recovered
 
-- **20:05–20:44:** In a discussion of autism and global developmental delay, Arday says that until less than five years earlier his mother had never explicitly told him, “Jason, you are autistic.” He says she did not want him to be defined by autism and describes her as having resisted reducing him to the diagnosis.
-- **21:39–24:00:** He describes spending extensive time with speech therapists and educational psychologists, and reflects on learning from observation, touch, gestures, and other forms of human connection during what he calls a “paralysis of speech.” This is his retrospective account of communication and therapy, not a clinical record.
-- **24:16–24:43:** Asked about snooker, he says he would have been a professional snooker player, then qualifies the account by saying he did not excel in the way he might have. This is a distinct first-person sports statement but overlaps the already-canonical *Talking Matters* sports narrative; it is not independent proof of professional status.
+- **10:09–10:43:** In a discussion of autism and global developmental delay, Arday says that until less than five years earlier his mother had never explicitly told him, “Jason, you are autistic.” He says she did not want him to be defined by autism and describes her as having resisted reducing him to the diagnosis.
+- **11:40–13:35:** He describes spending extensive time with speech therapists and educational psychologists, and reflects on learning from observation, touch, gestures, and other forms of human connection during what he calls a “paralysis of speech.” This is his retrospective account of communication and therapy, not a clinical record.
+- **14:18–14:29:** Asked about snooker, he says he would have been a professional snooker player, then qualifies the account by saying he did not excel in the way he might have. This is a distinct first-person sports statement but overlaps the already-canonical *Talking Matters* sports narrative; it is not independent proof of professional status.
 
 The episode’s opening host narration (approximately **03:14–04:08**) repeats the public biography of delayed speech/literacy and the 2010 marathon fundraiser. Those lines are host framing, not Arday’s testimony, and are not promoted as new corroboration here.
 

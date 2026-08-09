@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-method checkpoint: `SRC-1027/C-1027` — Research Cast UK’s existing C-117–C-119 windows were re-audited with explicit absolute offsets, correcting the timecode method and sharpening wording. Reopen only for human listening, a public transcript/caption track, or independent teacher/family/sports records; do not create another interview node.
+
 Fresh subject-audio checkpoint: `SRC-1026/C-1026` — the preserved *Student Sessions* MP3 now has targeted timecodes for Sandro Sandri’s literacy support, the reported reading age at 21, and the remembered “PhD within 12 years” framing. Reopen only for human listening, a full lawful transcript/caption track, or an independent reading-age/tutoring record; do not resolve the ambiguous ASR sentence as a new literacy milestone.
 
 Fresh subject-audio checkpoint: `SRC-1025/C-1025` — targeted windows of the preserved *How Do You Cope?* MP3 now cover Arday’s maternal diagnosis account, speech-therapy/non-verbal reflection, and snooker self-description. Reopen only for human listening, a full lawful transcript/caption track, or a materially different audio manifestation; do not count ASR or the repeated snooker statement as independent corroboration.
