@@ -1,0 +1,15 @@
+{
+  "url": "https://unherd.com/2026/08/jason-arday-a-question-of-academic-standards/",
+  "retrieved": "2026-08-09",
+  "published": "2026-08-08",
+  "author": "Richard Dawkins",
+  "title": "Jason Arday: a question of academic standards",
+  "classification": "named third-party commentary / thesis-critique source version",
+  "observations": [
+    "The article critiques the clarity and register of Arday's 2015 LJMU thesis and reproduces several passages for discussion.",
+    "It reports a count of 332 instances in which a plural noun's terminal s is followed by an apostrophe, including one in the thesis title.",
+    "It links the thesis-style critique to the Cambridge appointment and resignation, but supplies commentary rather than an institutional or publisher finding.",
+    "The public lead-image URL returned a cache-miss failure when followed; no image binary was recovered."
+  ],
+  "evidence_boundary": "Preserve the article as a reception and allegation record. Verify the reported count and all textual similarities against the thesis and comparator corpus; do not treat Dawkins's judgments as adjudication."
+}
