@@ -12,6 +12,10 @@ The locally preserved 4 March 2023 interview was checked against its automatic E
 
 The existing Wellcome Sanger Institute interview record was checked against its locally preserved automatic English captions. The audit binds the already-recorded PhD/medical, career, research/counselling, and Black-history-curriculum passages to precise navigation windows and existing claims `C-1030–C-1034`. It creates no duplicate claims and does not upgrade any self-report, host description, medical account, qualification, employment chronology, or educational argument into an independently verified fact. Human audiovisual verification remains open.
 
+## 2026-08-09 — SRC-1061/C-1114–C-1118: UCU decolonisation webinar audit
+
+The opening 00:29–09:40 contribution of the locally preserved 22 July 2020 UCU webinar was checked against its automatic English VTT. It adds a coherent public-position record: decolonisation as changing what institutions teach, learn, and research; Global South knowledge and disciplinary-canon critique; student-led activity and a captioned “Keele” manifesto/events/race-charter account; and an explicit warning against symbolic management-led tick-box work. Later speakers were excluded. The institution/name spellings and implementation claims remain source-versioned pending audiovisual or independent institutional verification.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.

@@ -17,6 +17,8 @@ id: SRC-271
 
 UCU published a recording titled “Decolonising our institutions.” The UCU description frames it around the relationship between an imperial past and a corporatist present. The captions identify “Jason” as one of three members of a Black members group near the beginning of the recording and provide a navigable discussion of decolonisation, higher education, curriculum, and institutional change. The recording is retained as a dated public-output manifestation; no detailed speaker attribution is promoted without human verification of the video.
 
+A bounded audit now isolates the opening contribution and records its attributable public-position and institutional-activity passages as `C-1114–C-1118`, while keeping later panel speech separate: [SRC-1061](2026-08-09-ucu-decolonising-caption-audit.md).
+
 ## Local preservation
 
 - MP4: `assets/videos/TpiO_0n9fgQ.mp4` — SHA-256 `871ed9b87fe4e8581736f63b374f00f1e4683adf41aed6ef9b4c15ae99159ccc`
