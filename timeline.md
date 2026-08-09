@@ -4,6 +4,8 @@ Dates are recorded as events, not as proof of every biographical detail reported
 
 ## Childhood and education chronology
 
+| 2025-04 | The British Sociological Association’s Spring 2025 *Network* issue lists “Dr Jason Arday” among the BSA Board of Trustees in its masthead. | verified dated association publication roster; appointment terms and later status unresolved | [BSA *Network* Issue 149](sources/2026-08-09-bsa-network-issue-149.md) |
+
 The dates below distinguish reported life history from documentary education records. Ages are approximate unless a source gives a dated record.
 
 | Approximate date | Event | Status | Sources |

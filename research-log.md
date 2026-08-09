@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-908/C-969: BSA *Network* governance roster
+
+Discovery: a BSA governance/source-version search located the British Sociological Association’s Spring 2025 *Network* issue as a public 78-page PDF. Its masthead (printed p. 4 / PDF p. 4) lists “Dr Jason Arday” among the Board of Trustees.
+
+Decision: register the issue as SRC-908 and preserve the PDF, extracted text, and response headers. This is a dated first-party association roster and establishes what BSA published in that issue; it does not establish appointment terms, attendance, or continuing status after Spring 2025. It is separate from the BSA annual-report and directory records. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-906/C-967 and SRC-907/C-968: The Sociological Review author and book-review records
 
 Discovery: a learned-society search surfaced The Sociological Review’s author profile for Jason Arday and its linked full review of *We See Things They’ll Never See*. Both direct routes returned HTTP 200. The author page contains dated biography/role copy and a 155×240 book image; the review page is a 39,885-byte full HTML article by Alexa MacDermot, dated 9 September 2025, with book and review DOI metadata and a 240×370 cover.

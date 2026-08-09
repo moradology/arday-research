@@ -1,5 +1,7 @@
 # Work state
 
+Latest BSA governance checkpoint: on 2026-08-09 `SRC-908/C-969` preserved the British Sociological Association’s Spring 2025 *Network* issue as a 78-page PDF and extracted text. Its masthead lists “Dr Jason Arday” among the BSA Board of Trustees (printed p. 4 / PDF p. 4). This is a dated first-party roster, not proof of appointment terms or status after the issue. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest learned-society checkpoint: on 2026-08-08 `SRC-906/C-967` captured The Sociological Review’s author profile for Arday and `SRC-907/C-968` captured its full 9 September 2025 review of *We See Things They’ll Never See*. The pages add a dated host biography, book/review DOI metadata, full reception text, and two cover-size image manifestations; they do not independently corroborate the book’s autobiographical claims. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-publisher checkpoint: on 2026-08-08 `SRC-905/C-966` captured Simon & Schuster’s `.net` locale as a full HTTP-200 page with JSON-LD metadata, publisher synopsis, author/contributor links, and a 593×900 cover for the US memoir edition. The route canonicalizes to SRC-091, and its biographical synopsis remains promotional/memoir copy rather than independent corroboration. Google Drive was not updated; GitHub remains the active publication target.

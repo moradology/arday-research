@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [British Sociological Association *Network* Issue 149](sources/2026-08-09-bsa-network-issue-149.md) — Spring 2025 first-party magazine; masthead lists “Dr Jason Arday” on the BSA Board of Trustees, with the 78-page PDF and extracted text locally preserved.
+
 - [The Sociological Review author profile](sources/2026-08-08-sociological-review-arday-author-profile.md) and [Alexa MacDermot’s review of *We See Things They’ll Never See*](sources/2026-08-08-sociological-review-we-see-things-review.md) — first-party learned-society profile and 9 September 2025 book review, with DOI metadata, full HTML, and cover manifestations locally preserved.
 - [Simon & Schuster `.net` memoir manifestation](sources/2026-08-08-simon-schuster-net-memoir.md) — recovered first-party locale page for *Great and Unfortunate Things*, with structured US edition metadata and locally preserved cover; deduplicated to the canonical publisher record SRC-091.
 

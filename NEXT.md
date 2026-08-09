@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh BSA governance-source checkpoint: `SRC-908/C-969` — the British Sociological Association’s Spring 2025 *Network* issue is locally preserved as a 78-page PDF and text extraction. Its masthead lists “Dr Jason Arday” on the BSA Board of Trustees (printed p. 4 / PDF p. 4). Reopen only for a distinct appointment/termination record, later issue or directory state, annual report, or changed governance artifact; do not infer service duration or continuing status from this roster alone.
+
 Fresh learned-society checkpoint: `SRC-906/C-967` and `SRC-907/C-968` — The Sociological Review’s author profile and full September 2025 review of *We See Things They’ll Never See* are now locally preserved, including review/book DOI metadata and cover images. The profile’s role wording is a dated host source-version; the review is reception, not independent biographical corroboration. Reopen only for a changed review/profile, correction, author response, or distinct full-text/publication artifact; do not repeat the same page fetch.
 
 Fresh memoir-publisher checkpoint: `SRC-905/C-966` — Simon & Schuster’s `.net` locale returned a full HTTP-200 publisher page for *Great and Unfortunate Things*, with structured US edition metadata and a locally preserved 593×900 cover. It canonicalizes to `SRC-091`; the synopsis is still publisher/memoir copy, not independent corroboration. Reopen only for a changed first-party page, lawful excerpt/full text, distinct edition, correction, or substantive publisher artifact; do not repeat the same locale fetch.
