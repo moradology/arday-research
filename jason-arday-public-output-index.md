@@ -2,6 +2,7 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [The Sociological Review author profile](sources/2026-08-08-sociological-review-arday-author-profile.md) and [Alexa MacDermot’s review of *We See Things They’ll Never See*](sources/2026-08-08-sociological-review-we-see-things-review.md) — first-party learned-society profile and 9 September 2025 book review, with DOI metadata, full HTML, and cover manifestations locally preserved.
 - [Simon & Schuster `.net` memoir manifestation](sources/2026-08-08-simon-schuster-net-memoir.md) — recovered first-party locale page for *Great and Unfortunate Things*, with structured US edition metadata and locally preserved cover; deduplicated to the canonical publisher record SRC-091.
 
 ## 1. Current institutional profiles and records
@@ -136,6 +137,7 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 - [Chapter 6: “Everything Is Everything”](sources/2025-12-31-we-see-things-chapter-6.md) — pp. 158–184, DOI 10.1515/9780691263946-010; Crossref/publisher metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
 - [Afterword](sources/2025-12-31-we-see-things-afterword.md) — pp. 207–214, DOI 10.1515/9780691263946-012; component metadata preserved and deduplicated to the canonical book record, with direct text access challenged.
 - [2026 *British Journal of Educational Studies* review](sources/2026-02-04-white-rose-we-see-things-book-review.md) — Charlotte White and Jessica Bradley’s five-page accepted manuscript reviewing *We See Things They’ll Never See*; White Rose Research Online preserves the CC BY 4.0 repository copy.
+- [The Sociological Review Magazine review](sources/2026-08-08-sociological-review-we-see-things-review.md) — Alexa MacDermot’s 9 September 2025 full-text review of *We See Things They’ll Never See*, a distinct reception record from the *British Journal of Educational Studies* review.
 - [Foreword to *We See Things They’ll Never See*](sources/2025-we-see-things-foreword.md) — DOI 10.2307/jj.26932075.3, pages ix–xii; publisher shell access boundary retained.
 - [*The Fire Now* chapter](sources/2018-fire-now-racism-academy-chapter.md) — “Understanding Racism within the Academy,” pp. 26–37, DOI 10.5040/9781350225480.ch-003; public preview PDF preserved.
 - [Liberated Library 2018 roundtable](sources/2018-liberated-library-roundtable.md) — one presentation under two DOI aliases; DataCite metadata preserved, Humanities Commons landing-page access boundary recorded.

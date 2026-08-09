@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh learned-society checkpoint: `SRC-906/C-967` and `SRC-907/C-968` — The Sociological Review’s author profile and full September 2025 review of *We See Things They’ll Never See* are now locally preserved, including review/book DOI metadata and cover images. The profile’s role wording is a dated host source-version; the review is reception, not independent biographical corroboration. Reopen only for a changed review/profile, correction, author response, or distinct full-text/publication artifact; do not repeat the same page fetch.
+
 Fresh memoir-publisher checkpoint: `SRC-905/C-966` — Simon & Schuster’s `.net` locale returned a full HTTP-200 publisher page for *Great and Unfortunate Things*, with structured US edition metadata and a locally preserved 593×900 cover. It canonicalizes to `SRC-091`; the synopsis is still publisher/memoir copy, not independent corroboration. Reopen only for a changed first-party page, lawful excerpt/full text, distinct edition, correction, or substantive publisher artifact; do not repeat the same locale fetch.
 
 Fresh podcast-topology checkpoint: `SRC-904/C-965` — Amazon Music exposes the canonical *A Good Read* episode under episode UUID `56c9195a-9289-49c5-b418-44c95058f143`, but the direct route is only a JavaScript shell. Reopen only for a rendered transcript, captions, artwork, or audio endpoint; do not repeat the same shell fetch.

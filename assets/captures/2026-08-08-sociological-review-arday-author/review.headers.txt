@@ -1,0 +1,12 @@
+HTTP/2 200 
+server: nginx/1.22.1
+date: Sun, 09 Aug 2026 01:15:25 GMT
+content-type: text/html; charset=utf-8
+content-length: 39885
+x-content-type-options: nosniff
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+x-frame-options: SAMEORIGIN
+vary: Accept-Language, Cookie
+content-language: en-gb
+

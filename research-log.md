@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-906/C-967 and SRC-907/C-968: The Sociological Review author and book-review records
+
+Discovery: a learned-society search surfaced The Sociological Review’s author profile for Jason Arday and its linked full review of *We See Things They’ll Never See*. Both direct routes returned HTTP 200. The author page contains dated biography/role copy and a 155×240 book image; the review page is a 39,885-byte full HTML article by Alexa MacDermot, dated 9 September 2025, with book and review DOI metadata and a 240×370 cover.
+
+Decision: register the author page as SRC-906 and the review as SRC-907. The profile is a source-version witness for circulated professional roles; the review is a reception and bibliographic record that discusses the book’s autoethnographic, musical, Black-feminist, decolonial, and neurodiversity framing. Neither source independently verifies the memoir/book’s autobiographical claims. The review’s stated Free Access Licence and permission condition are preserved; its full text is not reproduced in Markdown. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-905/C-966: Simon & Schuster `.net` memoir manifestation
 
 Discovery: a fresh publisher-locale search surfaced `simonandschuster.net/books/Great-and-Unfortunate-Things/Jason-Arday/9781668085578`. The direct request returned HTTP 200 and a 122,009-byte HTML page with JSON-LD edition metadata, publisher synopsis, author/contributor links, and CloudFront cover URLs.
