@@ -6,6 +6,12 @@ The already-canonical 2025 BMJ Open protocol was audited at page level using the
 
 Most importantly for the subject record, the contributor statement on PDF p. 8 says “JA leads work package 1 with KB” and substantially contributed to writing the application, while also stating that all authors substantially contributed to the protocol. This is direct contribution evidence, not an inference from author order. It does not establish principal-investigator status, Oxford employment, study completion, recruitment, or results. Added SRC-1071/C-1161–C-1165; Google Drive was not updated and GitHub remains the active publication target.
 
+## 2026-08-09 — SRC-1072/C-1166–C-1171: *The black professoriate* page audit
+
+The six-page *On Education* article already had a canonical publication record and local PDF, but its substantive pages had not been audited. The page-level pass classifies it as a succinct synthesis rather than an original empirical study, binds its dated HESA/UK-professor and Black-women figures to pp. 1–3, maps its mental-health argument and recommendations across pp. 2–5, and preserves the final-page 2022 biography as a source-version.
+
+The article is therefore useful for reconstructing Arday’s published public-intellectual position and the evidence he cited, but not as an independently verified dataset or as proof of implementation. Added SRC-1072/C-1166–C-1171; no second publication node was created.
+
 ## 2026-08-09 — Repository publication/link-integrity closure for SRC-036/SRC-921
 
 The canonical root-level records for the 20 March 2021 BBC/Lives Retold transcript and its 28 June 2023 Wayback PDF recovery were present in the working tree but not yet tracked by Git, despite being referenced by the claims ledger, timeline, biography, media index, and source registry. Their provenance and claim bindings were rechecked; root-level `assets/` and `sources/` links were corrected, and the two Markdown records are now included in the published repository. The recovered PDF, extracted text, headers, and live-404 boundary were already tracked and were not duplicated.

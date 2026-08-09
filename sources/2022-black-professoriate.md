@@ -15,6 +15,8 @@ id: SRC-041
 
 ## What this source is
 
+The article’s page-level text and dated author-biography layer are audited in [SRC-1072](2026-08-09-black-professoriate-page-audit.md).
+
 Jason Arday’s six-page article in *On Education: Journal for Research and Debate*, volume 5, issue 13. It synthesises evidence about the under-representation and progression of Black professors in UK higher education.
 
 ## Evidence boundary
