@@ -1,5 +1,7 @@
 # Timeline
 
+| 2023-early / 2023-10-12 report | A University of Liverpool article reported Arday’s “Inclusivity library exhibits,” a Henrietta Lacks exhibit in the Harold Cohen Library, and a Black Science Bootcamp with Amal Abdulkadir for 55 Black Year 10 students from Liverpool schools. | first-party institutional activity report and photograph; exhibit, attendance, and outcomes not independently audited | [Liverpool race-equity record](sources/2023-10-12-liverpool-race-equity.md) |
+
 | 2024-09-25 listing / 2024-10-30 scheduled | University of Manchester StaffNet scheduled Arday for the “Black History Month, The Bicentenary and Beyond” panel. | first-party university programme; attendance, delivery, and remarks unresolved | [Manchester event record](sources/2024-09-25-manchester-black-history-month-arday.md) |
 | 2025-04-28 | UEL’s Ethnicity Pay Gap Conference scheduled Arday on a panel about intersectionality and overlapping inequities; current indexed text for the later conference report lists him among contributors. | first-party event listing and indexed report metadata; attendance, remarks, and contribution scope unresolved | [UEL conference record](sources/2025-04-28-uel-ethnicity-pay-gap-conference.md) |
 

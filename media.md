@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1084`: [University of Liverpool article](assets/captures/2023-10-12-liverpool-race-equity/page.html) and [photograph of Arday and Carl Larsen](assets/captures/2023-10-12-liverpool-race-equity/Prof-Jason-Arday-and-Carl-Larsen.jpg) — first-party institutional activity record; no exhibit catalogue, bootcamp evaluation, video, or participant register recovered.
+
 - `SRC-1083`: [University of Manchester StaffNet page](assets/captures/2024-manchester-black-history-month-arday/page.html), [generic programme image](assets/captures/2024-manchester-black-history-month-arday/black-history-month-2024.jpg), and [TicketSource challenge](assets/captures/2024-manchester-black-history-month-arday/ticket.html) — dated event-listing media; no recording, transcript, or Arday portrait recovered.
 
 - `SRC-640` recheck: [UEL report 403 HTML](assets/captures/2025-04-28-uel-epg-conference/report-recheck-2026-08-09.html), [headers](assets/captures/2025-04-28-uel-epg-conference/report-recheck-2026-08-09.headers.txt), [FlippingBook unavailable page](assets/captures/2025-04-28-uel-epg-conference/flippingbook-recheck-2026-08-09.html), and [headers](assets/captures/2025-04-28-uel-epg-conference/flippingbook-recheck-2026-08-09.headers.txt) — changed access-state artifacts; no report binary or recording recovered.

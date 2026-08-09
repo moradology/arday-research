@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1084/C-1238–C-1240: University of Liverpool race-equity activities
+
+The University of Liverpool Faculty of Health and Life Sciences page “Advancing Race Equity and Celebrating Black History Month: A relay race, not a marathon” was fetched from the first-party site and preserved with its response headers. Published 12 October 2023 and written by Carl Larsen, it includes a photograph captioned “Prof Jason Arday and Carl Larsen.” The article reports Arday’s Liverpool work on “Inclusivity library exhibits,” including a Henrietta Lacks exhibit in the Harold Cohen Library, and a Black Science Bootcamp with Amal Abdulkadir for 55 Black Year 10 students from Liverpool schools. The source is useful evidence of named institutional activities and public-facing race-equity work, but it does not provide an exhibit catalogue, participant register, evaluation, or recording. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1083/C-1235–C-1237: University of Manchester Black History Month listing
 
 Discovery: a targeted institutional-event search surfaced the University of Manchester’s 25 September 2024 StaffNet programme. It schedules Arday for a 30 October panel, “Black History Month, The Bicentenary and Beyond,” with named Manchester academics and a topic frame covering Black contributions, the Race Equality Charter, inclusive teaching, career development, student initiatives, and legacies.

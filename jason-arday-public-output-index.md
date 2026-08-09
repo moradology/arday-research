@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [University of Liverpool Faculty of Health and Life Sciences article](sources/2023-10-12-liverpool-race-equity.md) — 12 October 2023 institutional account of Arday’s race-equity initiatives, Henrietta Lacks library exhibit, and Black Science Bootcamp; [page capture](assets/captures/2023-10-12-liverpool-race-equity/page.html) · [photograph](assets/captures/2023-10-12-liverpool-race-equity/Prof-Jason-Arday-and-Carl-Larsen.jpg).
+
 - [Markham Public Library catalogue](sources/2026-08-09-markham-public-library-arday-memoir.md), [Blackstone Library audiobook catalogue](sources/2026-08-09-blackstone-library-arday-audiobook.md), and [St. Catharines Public Library new-and-notable list](sources/2026-08-09-scpl-arday-memoir-listing.md) — public-library distribution records for *Great and Unfortunate Things*, including an explicit “On order” state, library-CD audiobook metadata, and a library reading-list entry.
 
 - [Taylor & Francis correction access recheck](sources/2026-08-09-educational-philosophy-correction-recheck.md) — byte-distinct 9 August 2026 Cloudflare challenge for the canonical correction PDF route; no new correction text recovered.
