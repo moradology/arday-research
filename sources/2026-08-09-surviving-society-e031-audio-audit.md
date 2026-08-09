@@ -58,6 +58,13 @@ This is a detailed first-person account. It overlaps thematically with his earli
 
 At approximately 28:23 the conversation turns to a co-host’s separate stop-and-search account; it is excluded from Arday’s claims.
 
+## Extended window: 30:00–35:00
+
+- **31:35–33:25** — In a clearly Arday-attributed discussion, he says that as a Black male academic he recognizes a form of “currency” attached to being an educated Black man. He contrasts this with the disproportionate racial harassment experienced by Black women in higher education and says that the status he describes is not afforded to women of colour in the same way.
+- **33:25–33:45** — He qualifies the point as an observation informed by research and conversations, not a claim that all Black men experience university as privileged; he says some Black men occupy highly racialized and discriminatory spaces as well.
+
+The surrounding 30:00–35:00 material alternates with host testimony. Only the passages above are retained as Arday’s claims.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
