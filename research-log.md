@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1056/C-1099–C-1103: Channel 4 resignation-report caption audit
+
+The locally preserved 6 August 2026 Channel 4 report was checked against its English VTT. The audit separates Cofnas’s attributed dissertation allegation, Channel 4’s report of the LJMU/PhD-status and journal-correction positions, Cambridge/Jesus process reporting, Arday’s response and academic-standards defence, and the pig-head/Glasgow/Ohio State disputes. Nothing is promoted as an adjudicated finding: the captions are machine-generated, the report is mediated broadcast journalism, and the underlying analysis, procedure files, police record, correspondence, and historical appointment records remain unavailable or unresolved.
+
 ## 2026-08-09 — SRC-1055/C-1095–C-1098: Oxford Challenges & Changes caption audit
 
 The locally preserved 25 March 2021 Oxford Physics recording was checked against its automatic English SRT for Arday-attributed passages. He names the Leading Routes collaborators behind the *Broken Pipeline* work, describes presenting it to the Office for Students, presents doctoral-funding and Russell Group pay figures, and states that lived accounts of racism should not be neutralized merely because they are not statistical. The funding figures are preserved as a talk-version alongside the separate 2019 report, whose denominators differ; no figures, OfS response, or BBC-study method are upgraded without the underlying records. Captions remain unverified against the waveform.

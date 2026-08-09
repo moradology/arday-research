@@ -25,7 +25,7 @@ The uploader’s captions provide an auditable map of the report. At approximate
 
 ## Evidence boundary
 
-This record establishes a dated broadcast-video manifestation and what the report says. It does not establish the truth of the allegations, the accuracy of every caption, the outcome of Cambridge’s investigation, or the underlying institutional and police records. It is distinct from Channel 4’s 2023 *Ways to Change the World* interview and from the BBC/Guardian written reports.
+This record establishes a dated broadcast-video manifestation and what the report says. A bounded caption audit now separates the allegation, institutional-response, Arday-response, and affiliation-dispute passages as [SRC-1056](2026-08-09-channel4-resignation-caption-audit.md). It does not establish the truth of the allegations, the accuracy of every caption, the outcome of Cambridge’s investigation, or the underlying institutional and police records. It is distinct from Channel 4’s 2023 *Ways to Change the World* interview and from the BBC/Guardian written reports.
 
 ## Local preservation
 
