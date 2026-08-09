@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1100/C-1300: Soho Agency profile disappearance boundary
+
+The honors/profile search surfaced a Soho Agency expert-page lead for Jason Arday. The canonical route was fetched directly and returned HTTP 404 with a “Page not found” body. A direct WordPress REST search for `Jason Arday` returned an empty array, and an exact-route Wayback CDX request returned no HTTP-200 HTML snapshot. Search indexing still exposes agency-side biography snippets, but no recoverable profile body, portrait, speaker-booking record, or archive replay was found.
+
+Decision: preserve the route as an access/disappearance boundary and do not promote indexed agency copy into the biography. Reopen only after a changed route, lawful archived replay, or concrete cached/print artifact.
+
 ## 2026-08-09 — SRC-1099/C-1299: Apple Podcasts manifestation of *Student Sessions*
 
 Apple’s public series page and iTunes Lookup API were captured for the existing 15 December 2023 *Student Sessions* interview. The API identifies the Jason Arday episode by track ID `1000638657541`, gives a 42:04 duration and release timestamp, and points to the already preserved Buzzsprout feed/enclosure. The direct episode route returned HTTP 500; the series page rendered but did not expose the older episode in its current visible shelf. This is a platform-provenance record, not a second interview or independent biography source. No new audio or transcript was recovered.

@@ -1,0 +1,14 @@
+HTTP/2 404 
+server: nginx
+date: Sun, 09 Aug 2026 12:02:22 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+cache-control: no-cache, must-revalidate, max-age=0, no-store, private
+x-cache-enabled: False
+link: <https://thesohoagency.co.uk/wp-json/>; rel="https://api.w.org/"
+x-httpd: 1
+host-header: 6b7412fb82ca5edfd0917e3957f05d89
+x-proxy-cache: MISS
+x-proxy-cache-info: W NC:000000 UP:
+
