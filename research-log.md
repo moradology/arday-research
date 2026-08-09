@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1115/C-1361–C-1363: *Aiming Higher* report audit
+
+The complete 50-page public mirror was extracted with layout preservation and visually checked across the cover/front matter, co-authored introduction, Arday’s printed pp. 40–41 chapter, and closing contributor pages. The audit records the six-university/12-academic qualitative account, its themes and recommendations, and the original Runnymede-404 versus mirror-manifestation boundary. It does not attribute other chapters to Arday or treat the chapter as representative or causally evaluated research.
+
 ## 2026-08-09 — SRC-1114/C-1357–C-1360: Runnymede School Report audit
 
 The 61-page Manchester PDF manifestation was extracted with layout preservation and visually checked across the front matter, co-authored introduction, Arday’s printed pp. 48–50 chapter, closing pages, and appended repository wrapper. The audit separates Arday’s co-editorial role and chapter from the other contributors’ chapters, records the chapter’s 15-student/4-teacher interview account and missing-methods boundary, and preserves the 56-page report versus five-page wrapper topology. No duplicate report or chapter node was created.

@@ -4,6 +4,8 @@ id: SRC-028
 
 # Aiming Higher: Race, Inequality and Diversity in the Academy
 
+Page-level audit: [SRC-1115](2026-08-09-aiming-higher-page-audit.md)
+
 - Source ID: SRC-028
 - Type: edited report / Runnymede Perspectives
 - Date: 2015
