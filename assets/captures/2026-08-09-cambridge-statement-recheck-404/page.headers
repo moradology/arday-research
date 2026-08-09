@@ -1,0 +1,31 @@
+HTTP/2 404 
+cache-control: max-age=300, public
+content-language: en
+content-security-policy: report-uri /report-csp-violation; upgrade-insecure-requests
+content-type: text/html; charset=UTF-8
+etag: W/"1786241016"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Sun, 09 Aug 2026 02:03:36 GMT
+permissions-policy: autoplay=*, camera=self, fullscreen=*, geolocation=*, microphone=self, picture-in-picture=*, web-share=self
+referrer-policy: strict-origin-when-cross-origin
+server: nginx
+strict-transport-security: max-age=2592000
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-drupal-dynamic-cache: UNCACHEABLE (poor cacheability)
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 10 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-eu-a-6975d949c6-kjscd
+x-styx-req-id: 87f272ca-9396-11f1-9c13-5e0b9b6dcce5
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Sun, 09 Aug 2026 02:03:36 GMT
+x-served-by: cache-ams-eham8680084-AMS, cache-dfw-kdfw8210113-DFW, cache-dfw-kdfw8210133-DFW, cache-dfw-kdfw8210133-DFW
+x-cache: MISS, MISS, MISS, MISS
+x-cache-hits: 0, 0, 0, 0
+x-timer: S1786241016.969423,VS0,VE479
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 103424
+

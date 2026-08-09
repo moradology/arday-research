@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Cambridge availability reversal: `SRC-919/C-985` — the canonical investigation-statement URL returned HTTP 404 on a later 9 August fetch after the same-day HTTP 200 capture. Reopen only through a changed official page, archived replay, formal outcome, or other primary institutional record; do not infer a finding from the route disappearance.
+
 Fresh memoir-reception checkpoint: `SRC-918/C-984` — StoryGraph indexing now reports 12 reviews, but the direct route returned a fresh Cloudflare challenge and no new review body or media was recovered. Reopen only for lawful review text, a materially changed page, or a distinct reception artifact; do not treat the review count as biographical corroboration.
 
 Fresh public-filing checkpoint: `SRC-917/C-983` — exact-name Charity Commission and Companies House searches returned only existing appointment, termination, annual-report, accounts, and governance records. Reopen only for a changed regulator page, new filing date, new annual report/accounts PDF, or named appointment/termination record; do not repeat these searches unchanged.

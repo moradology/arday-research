@@ -4011,3 +4011,10 @@ Discovery: current review searching surfaced a StoryGraph indexed count of 12 re
 Capture: the direct StoryGraph route returned a fresh Cloudflare challenge; HTML and headers are preserved under `assets/captures/2026-08-09-storygraph-memoir-recheck/`. No new full review body, image, audio, or book file was recovered.
 
 Decision: added SRC-918/C-984 as a changed reception/access state, deduplicated to SRC-436. Reader summaries remain reception evidence only.
+## 2026-08-09 — SRC-919/C-985: Cambridge statement availability reversal
+
+Discovery: the canonical Cambridge investigation-statement URL was fetched again after its same-day HTTP 200 reappearance.
+
+Capture: the later response returned HTTP 404 with a generic not-found shell, fresh response metadata, and no statement text or outcome. HTML and headers are preserved under `assets/captures/2026-08-09-cambridge-statement-recheck-404/`.
+
+Decision: added SRC-919/C-985 as a volatile missing-source state linked to SRC-912. The page’s disappearance is not interpreted as a finding, withdrawal rationale, or conclusion.

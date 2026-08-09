@@ -710,6 +710,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-918 | `sources/2026-08-09-storygraph-memoir-recheck.md` | StoryGraph reader-review route returned a fresh Cloudflare challenge; public indexing now reports 12 reviews versus the single indexed ARC review previously preserved under SRC-436; no new review body or media recovered | reader-review platform recheck / changed access and index state / local HTML and headers / deduplicated reception | 2026-08-09 | StoryGraph, memoir, reader reviews, ARC, Cloudflare, reception, source-version, access boundary, deduplication |
 
+| SRC-919 | `sources/2026-08-09-cambridge-investigation-statement-recheck-404.md` | Cambridge’s canonical investigation-statement URL returned HTTP 404 on a later 9 August fetch after the same-day HTTP 200 capture; generic 404 HTML and headers preserved, with no statement text or outcome available | first-party institutional route recheck / volatile missing-source state / local HTML and headers / source-version linked to SRC-912 | 2026-08-09 | Cambridge, investigation, statement, HTTP 404, missing source, changed state, outcome unknown, access boundary |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

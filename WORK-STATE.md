@@ -1,5 +1,7 @@
 # Work state
 
+Latest Cambridge process checkpoint: on 2026-08-09 `SRC-919/C-985` preserved a later HTTP 404 response for the canonical investigation-statement URL after the same-day HTTP 200 capture. No statement text or outcome was available in the 404 response; page disappearance is not treated as adjudication. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-reception checkpoint: on 2026-08-09 `SRC-918/C-984` preserved a fresh StoryGraph Cloudflare challenge and recorded the indexed increase to 12 reader reviews. No new review body or media was recovered; reception remains separate from biography evidence. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest public-filing checkpoint: on 2026-08-09 `SRC-917/C-983` reconciled exact-name Charity Commission and Companies House searches to existing records only. No new appointment, termination, annual report, accounts, or correction was recovered. Google Drive was not updated; GitHub remains the active publication target.
