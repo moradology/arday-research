@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1067/C-1144–C-1147: LSTM report page-level audit
+
+The locally preserved 21-page LSTM report was read through its substantive pages rather than treated as a single broad source summary. The report says its framework centres lived experience, allows local themes to emerge, and is intended to expose the gap between institutional principles and implementation. Its p. 12 “key points of note” say only a fraction of interviewed staff of colour joined focus groups, suggesting distrust and/or fear of speaking out; the same page notes a gender imbalance across groups and a mismatch between desk-review material and participant experience.
+
+The audit maps pp. 13–19 recommendations across culture, recruitment/progression/promotion, student experience, leadership/communication, academic/professional services, and reporting processes. The conclusion on pp. 20–21 foregrounds exclusion, progression, racism reporting/management, and intersectionality—especially Black women and other women of colour—and says these findings informed an LSTM-specific standards/indicators framework. Added C-1144–C-1147 and SRC-1067. These remain commissioned-report analysis and recommendations, not independently re-audited participant evidence, implementation proof, or evidence about Arday’s personal biography. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1058/C-1107–C-1110: PBS early-intervention caption audit
 
 The locally preserved 2 September 2023 PBS segment was checked against its official English VTT. The audit adds subject-centred details about continued speech/language work from roughly ages 11–16, Arday’s retrospective interpretation of the non-verbal period as observational, a reported reading age of 12 at university, a 500-words-a-day writing practice over roughly 15 years, and the Sandro Sandri PhD anecdote. These are preserved as first-person testimony and caption-derived source-version claims. PBS host narration and superlatives remain separate from Arday’s account; no therapy, assessment, writing log, or independent mentorship record was found in this pass. The MP4 remains locally available for later human waveform verification before verbatim quotation.
