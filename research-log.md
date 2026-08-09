@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1106/C-1316–C-1321: *Revista História Hoje* interview page audit
+
+The complete 17-page CC BY journal PDF was extracted with layout preservation and checked against rendered pages across the opening biography, family/charity narrative, Sandro passage, later public-position discussion, and closing notes. The audit maps the interview’s first-person family and childhood material, charity narrative, praxis/community argument, strategic-composure metaphor, curriculum/meritocracy positions, and named intellectual influences. It also separates interviewer framing from Arday’s answers and records the Portuguese translation/editorial adaptation boundary. Decision: retain the existing DOI family as canonical and add no duplicate interview or biography claims; new claims are limited to distinct public positions and source structure.
+
 ## 2026-08-09 — SRC-1105/C-1311–C-1315: CGHE *No One Can See Me Cry* presentation audit
 
 The locally preserved 12-slide CGHE deck dated 2 July 2020 was audited with layout-preserving extraction and visual review of the title, study-framing, recommendations, and closing slides. It records a qualitative-study framing, five anonymized quotations, recommendations for context-sensitive psychological support, and an explicit “under review” status for the later *Higher Education* paper. It does not disclose the study’s sample, recruitment, ethics, coding, or dataset. Decision: preserve the deck as a distinct presentation/version-history artifact related to SRC-273 and SRC-049; do not count it as a second publication or independent corroboration of the underlying participant accounts.
