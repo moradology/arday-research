@@ -1,5 +1,7 @@
 # Claims ledger
 
+| C-1023 | An anonymous Reddit commenter says they were a student on a Roehampton module taught by Arday in Autumn 2018 and alleges problems with punctuality, preparation, pedagogical guidance, feedback, and a later complaint to a course leader. | low-provenance anonymous first-person testimony; browser-visible but unverified | [Reddit teaching-reception record](sources/2026-08-09-reddit-roehampton-teaching-testimony.md) | No identity, enrollment, module, complaint, marking, recording, or institutional record was recovered. Preserve as a lead, not as evidence that the alleged conduct occurred or was improper. |
+
 | C-1022 | On 9 August 2026, search indexing for Cambridge’s unavailable Faculty profile exposed a qualification snippet listing a PhD from LJMU, an “MA Education Studies” from LJMU, an MA in Education and Pedagogy from St Mary’s, and a Surrey BA. The profile URL itself returned HTTP 404, so this is an indexed source-version observation rather than proof of an additional LJMU master’s degree. | verified indexed/live split; underlying profile unavailable | [Cambridge profile changed-state record](sources/2026-08-06-cambridge-profile-post-resignation-404.md), [qualification audit](sources/2015-ljmu-phd-thesis.md) | The snippet differs from the recovered January 2020 CV and 2022 Cambridge Reporter credential wording. Preserve the discrepancy without inferring fabrication, clerical error, or an additional award. |
 
 

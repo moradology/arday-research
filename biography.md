@@ -159,6 +159,8 @@ The BBC profile preserved through a Walthamstow School for Girls witness page ad
 
 The January 2025 Research Cast UK episode “How learning and education has shaped my being” is locally preserved as a 44:47.54 MP3. Three short timestamp-focused listening clips have now been extracted for the existing C-117–C-119 leads; they improve reproducibility but do not replace human listening or convert ASR into a verified transcript. Its host page describes discussion of social justice, influential relationships, and the experience of people who feel they do not fit; those page-level descriptions remain editorial metadata.
 
+An anonymous public Reddit account alleges a negative student experience on a Roehampton module taught by Arday in Autumn 2018, including claims about punctuality, preparation, teaching method, feedback, and a complaint. The account is retained as low-provenance reception testimony only: no identity, enrollment, module, complaint, marking, recording, or institutional response was recovered. [Reddit teaching-reception record](sources/2026-08-09-reddit-roehampton-teaching-testimony.md)
+
 The audio adds a timestamped first-person account of an early educator’s influence: at approximately 05:41–06:31, Arday says that the educator’s values and formulation of education as preparation for taking one’s place in society became foundational to his own thinking. A Whisper-derived segment transcript is preserved, but names and wording remain subject to manual listening; this is not treated as an independent record.
 
 ## Academic career

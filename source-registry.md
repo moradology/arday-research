@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-1023 | `sources/2026-08-09-reddit-roehampton-teaching-testimony.md` | Anonymous Reddit commenter’s alleged Autumn 2018 Roehampton student account about Arday’s teaching and marking; browser rendering visible, direct shell/JSON routes HTTP 403, no identity or institutional corroboration | low-provenance public forum testimony / reception lead / access boundary | 2026-08-09 | Reddit, UniUK, Roehampton, teaching, student account, marking, complaint, anonymous testimony, access boundary |
+
 
 | SRC-1020 | `sources/2026-08-09-talking-matters-snooker-audio-audit.md` | Reproducible 100-second re-transcription of the canonical *Talking Matters* sports exchange using mlx-whisper small.en; recovers non-league football duration, professional-snooker/Pro-Am/Pontins claims, and comparative break details; not human-verified | primary audio audit / machine transcript derivative / deduplicated to SRC-184 | 2026-08-09 | Talking Matters, snooker, Pontins, Prestatyn, Pro-Am, football, ASR, audio audit, machine transcript, source version |
 

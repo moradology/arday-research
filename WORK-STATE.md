@@ -1,5 +1,7 @@
 # Work state
 
+Latest teaching-reception checkpoint: on 2026-08-09 `SRC-1023/C-1023` logged an anonymous browser-visible Reddit account alleging an Autumn 2018 Roehampton student experience. Direct shell capture returned HTTP 403 and no corroborating record was found; the account remains low-provenance and unverified. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest qualification-discrepancy checkpoint: on 2026-08-09 the Cambridge Faculty profile remained HTTP 404, while its indexed snippet listed an LJMU MA Education Studies not stated in the recovered CV or Cambridge Reporter credential transcription. This is preserved as C-1022/source-version tension, not as proof of an additional degree or error. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest qualification checkpoint: on 2026-08-09 the LJMU/Surrey/St Mary’s search found no new award certificate or registrar record. The existing LJMU thesis (July 2015, 401 pages) remains the strongest primary qualification artifact; earlier degree and certificate dates remain CV/institutional-biography claims. Google Drive was not updated; GitHub remains the active publication target.

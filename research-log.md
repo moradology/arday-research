@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1023/C-1023: anonymous Roehampton teaching-reception lead
+
+Discovery: browser rendering exposed an anonymous `r/UniUK` account alleging an Autumn 2018 student experience on a Roehampton module taught by Arday, including punctuality, preparation, teaching method, feedback, and a complaint to a course leader.
+
+Decision: retain as low-provenance, unverified first-person reception testimony. Direct `www.reddit.com` and `old.reddit.com` shell/JSON requests returned HTTP 403, and no identity, enrollment, module, complaint, marking, recording, or institutional response was recovered. Do not repeat the thread as fact; reopen only for independently checkable records or a named first-hand account. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — C-1022: Cambridge indexed qualification snippet versus recovered records
 
 The Cambridge Faculty profile remained HTTP 404, but search indexing exposed a later qualification snippet listing an LJMU MA Education Studies alongside the St Mary’s MA, Surrey BA, and LJMU PhD. This differs from the January 2020 CV’s MEd/PGCertLTHE formulation and the 2022 Cambridge Reporter’s credential wording.

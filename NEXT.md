@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh teaching-reception checkpoint: `SRC-1023/C-1023` — an anonymous Reddit commenter alleges an Autumn 2018 Roehampton student experience involving attendance, preparation, pedagogy, feedback, and a complaint. Reopen only for a named first-hand account or independently checkable Roehampton module/staff/complaint/assessment record; do not treat anonymous testimony as verified fact or repeat the thread unchanged.
+
 Fresh qualification discrepancy checkpoint: `SRC-208/C-1022` — Cambridge’s unavailable profile is indexed with “MA Education Studies (Liverpool John Moores University)” alongside the St Mary’s MA, while the recovered CV says MEd/PGCertLTHE and the Cambridge Reporter prints the St Mary’s M.A./LJMU Ph.D. Treat the snippet as cached source-version text only; reopen for a restored profile, registrar/certificate record, or direct institutional clarification.
 
 Fresh qualification checkpoint: the LJMU thesis and repository record are already canonical (`SRC-087/SRC-569`); the 401-page PDF establishes the July 2015 PhD submission and title, while the 2008 Surrey BA, 2011 St Mary’s MA/PGCE, and 2013 LJMU MEd/PGCertLTHE remain CV/institutional-biography evidence. Reopen only for an awarding-body certificate, registrar/alumni record, or changed repository artifact; do not repeat the same thesis fetch.
