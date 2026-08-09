@@ -287,6 +287,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 
 ## 8. Current controversy — keep separate from the historical archive
 
+- [Shajo Pro profile](sources/2026-08-09-shajo-pro-arday.md) — 30 March 2024, modified 3 July 2025; low-provenance public biography repeating the circulating childhood, literacy, neurodivergence, Sandro Sandri, and Black Curriculum narrative; retained as propagation topology, not corroboration.
+
 - [Roehampton institutional profile/version boundary](sources/2026-08-08-roehampton-arday-profile.md) — indexed February 2023 first-party wording about Arday’s former School of Education lecturership and 2018 senior lecturership; current canonical route redirects to `/news/`.
 
 - [Reddit r/UniUK teaching discussion](sources/2026-08-08-reddit-arday-teaching.md) — public discussion containing a pseudonymous first-person account about a claimed 2018 Roehampton teaching experience; preserved as an unverified lead/public-reception record, not corroboration.
