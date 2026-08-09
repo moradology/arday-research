@@ -3,6 +3,10 @@
 
 The open-access MDPI PDF for “Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University?” was read page by page. The audit records the stated design (32 participants, 14 UK universities, questionnaires, two focus groups, 32 individual interviews), recruitment and analysis details, reported themes, recommendations, and the article’s explicit limitations. It does not treat the article as a clinical finding or as independently reproducible beyond the public text: raw transcripts, coding files, recruitment records, and ethics documentation were not exposed. The artifact is deduplicated to canonical SRC-174. Google Drive was not updated; GitHub remains the active publication target.
 
+## 2026-08-09 — SRC-1029/C-1029: page-level audit of LJMU doctoral thesis
+
+The 401-page LJMU repository PDF of Arday’s 2015 PhD thesis was audited at its abstract, methods, sample-recruitment, epistemology, findings, conclusion, and limitations pages. The thesis reports a four-phase qualitative case study of four intervention participants, drawn from 46 invited final-year PE students and 24 returned questionnaires, with twelve workshops and several qualitative instruments. It explicitly acknowledges the lack of comparison between the 24 questionnaire respondents and four intervention participants and says the design cannot establish causal impact. The raw recordings, questionnaires, coding, and ethics file are not exposed. This is a primary scholarly artifact and a methodology record, not an independent verification of every procedure or a finding about later publications. Google Drive remains the active publication target.
+
 ## 2026-08-09 — SRC-1027/C-1027: Research Cast UK audio audit and timestamp correction
 
 The canonical 44:47.54 Research Cast UK MP3 was re-audited with `mlx-community/whisper-small.en-mlx` using streamed windows with explicit offsets. The pass sharpens the educator-values passage at 05:30–07:10, the NHS-family/mental-health-nurse passage at 26:50–27:45, and the sport/community/belonging passage at 27:48–29:50. These remain first-person audio evidence and do not add independent records.

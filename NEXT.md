@@ -1,6 +1,8 @@
 # Next actions
 Fresh scholarly-output checkpoint: `SRC-1028/C-1028` — the 2018 open-access mental-health article received a page-level audit of its design, sample, methods, reported themes, recommendations, and explicit limitations. Reopen only for raw/archived transcripts, coding materials, ethics/recruitment records, a correction/retraction, or a materially different article version; do not create a second publication node.
 
+Fresh primary-thesis checkpoint: `SRC-1029/C-1029` — Arday’s 401-page 2015 LJMU thesis now has page-level navigation for its design, sample funnel, ethics, epistemology, findings, and self-stated limitations. Reopen only for the repository record, a materially different thesis version, an institutional examination/award record, or lawful raw research materials; do not create a second thesis node.
+
 Fresh audio-method checkpoint: `SRC-1027/C-1027` — Research Cast UK’s existing C-117–C-119 windows were re-audited with explicit absolute offsets, correcting the timecode method and sharpening wording. Reopen only for human listening, a public transcript/caption track, or independent teacher/family/sports records; do not create another interview node.
 
 Fresh subject-audio checkpoint: `SRC-1026/C-1026` — the preserved *Student Sessions* MP3 now has targeted timecodes for Sandro Sandri’s literacy support, the reported reading age at 21, and the remembered “PhD within 12 years” framing. Reopen only for human listening, a full lawful transcript/caption track, or an independent reading-age/tutoring record; do not resolve the ambiguous ASR sentence as a new literacy milestone.

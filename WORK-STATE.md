@@ -1,6 +1,8 @@
 # Work state
 Latest scholarly-output checkpoint: on 2026-08-09 `SRC-1028/C-1028` audited Arday’s 2018 open-access mental-health article at page level. The article reports a 32-participant qualitative study across 14 UK universities with two focus groups, 32 individual interviews, thematic analysis, and a second-coder check; its claims remain bounded by convenience sampling, interpretation, and unavailable raw research materials. Google Drive was not updated; GitHub remains the active publication target.
 
+Latest primary-thesis checkpoint: on 2026-08-09 `SRC-1029/C-1029` audited Arday’s 401-page 2015 LJMU thesis at page level. It records a four-part qualitative case study with a four-person intervention sample, a 46-invite/24-response recruitment funnel, twelve workshops, and explicit limitations around causation, small purposive sampling, and researcher interpretation. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest audio-method checkpoint: on 2026-08-09 `SRC-1027/C-1027` corrected the Research Cast UK timecode workflow and sharpened existing educator-values, NHS-family, and sport/community passages. The audit remains machine-assisted first-person evidence; no independent record was added. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest subject-audio checkpoint: on 2026-08-09 `SRC-1026/C-1026` sampled the canonical *Student Sessions* MP3. It adds timecoded first-person material about Sandro Sandri’s literacy support, a reported reading age at 21, and a remembered PhD-progression framing; an ambiguous ASR sentence remains explicitly unresolved. Google Drive was not updated; GitHub remains the active publication target.
