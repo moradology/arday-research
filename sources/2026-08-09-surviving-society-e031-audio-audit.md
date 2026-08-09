@@ -29,9 +29,17 @@ This is a targeted navigation audit of the 1:11:45.64 HLS AAC recording already 
 
 The episode’s wider themes include music, raving, gigging, racism, and the social meaning of 1990s popular culture. Only the opening-window passages above were timecoded in this pass.
 
+## Extended window: 05:00–15:00
+
+- **05:00–06:00** — In discussing the 1990s, Arday identifies the Stephen Lawrence murder, New Labour’s arrival, and the Macpherson Report as three particularly important reference points. He says he had done his undergraduate dissertation on the 1993 Millwall by-election and the BNP, and says he “grew up with the BNP.” These are first-person intellectual/biographical statements embedded in a broader cultural discussion; the ASR wording around some proper names is retained as approximate.
+- **11:37–12:24** — Arday recalls his mother listening to Blur, Radiohead, and Oasis, and says both white and Black schoolmates told him that this was “not your music.” This is a first-person memory about music, race, and belonging.
+- **13:38–14:59** — Arday says he went to his first rave in 1993 and describes cross-racial friendships emerging in that setting. He contrasts house music as then coded for white audiences with garage as coded for Black audiences, and discusses the role of rave/drug culture in crossing those boundaries. Venue and event names in this passage are not normalized from ASR.
+
+The 10:00–15:00 window also contains a co-host’s separate account of childhood racialization; it is excluded from Arday’s claims here.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
-- The 300-second opening was transcribed with word timestamps; the second 300-second window was used for broader navigation only. Timing is approximate at sentence boundaries.
+- The first three 300-second windows were transcribed with word timestamps. Timing is approximate at sentence boundaries, and the third window contains a co-host segment that was not attributed to Arday.
 - Names, institutions, ages, amounts, and wording remain subject to human listening. Do not treat the ASR as a published transcript or use the anecdote as independent evidence.
 - Reopen for a human-checked transcript, a first-party text version of the proposed book, or a distinct recording/caption manifestation.
