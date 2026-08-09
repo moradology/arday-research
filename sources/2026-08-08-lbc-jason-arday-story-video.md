@@ -25,7 +25,7 @@ The public YouTube manifestation provides English captions and a locally merged 
 
 ## Evidence boundary
 
-This is a distinct LBC video manifestation, not a duplicate of the Channel 4 report. It is useful for source propagation, named-quote provenance, and the chronology of the 8 August Cambridge process reporting. It does not establish the truth of allegations, the accuracy of the reported institutional positions, or the eventual investigation outcome. Caption text is preserved as a transcript layer pending manual audiovisual verification.
+This is a distinct LBC video manifestation, not a duplicate of the Channel 4 report. A bounded audit records its source-propagation and commentary layer as [SRC-1057](2026-08-09-lbc-arday-story-commentary-audit.md). It is useful for editorial framing and named-quote provenance, but it adds no new primary evidence. It does not establish the truth of allegations, the accuracy of the reported institutional positions, or the eventual investigation outcome. Caption text is preserved as a transcript layer pending manual audiovisual verification.
 
 ## Local preservation
 

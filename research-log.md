@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
+
+The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.
+
 ## 2026-08-09 — SRC-1056/C-1099–C-1103: Channel 4 resignation-report caption audit
 
 The locally preserved 6 August 2026 Channel 4 report was checked against its English VTT. The audit separates Cofnas’s attributed dissertation allegation, Channel 4’s report of the LJMU/PhD-status and journal-correction positions, Cambridge/Jesus process reporting, Arday’s response and academic-standards defence, and the pig-head/Glasgow/Ohio State disputes. Nothing is promoted as an adjudicated finding: the captions are machine-generated, the report is mediated broadcast journalism, and the underlying analysis, procedure files, police record, correspondence, and historical appointment records remain unavailable or unresolved.
