@@ -4,7 +4,7 @@ type: institutional event listing
 title: "Sign o’ the times" Black History Month Lecture
 subject: ../entities/jason-arday.md
 published: 2025-10-14
-accessed: 2026-08-06
+accessed: 2026-08-09
 status: dated first-party event listing; delivery and recording unresolved
 evidence_class: host-published event metadata and biography
 ---
