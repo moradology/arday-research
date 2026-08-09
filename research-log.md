@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1052: Beacon College profile access/attribution boundary
+
+The locally preserved 5 September 2023 Beacon College *Difference Makers* profile was rechecked at the page/metadata level. Its description repeats known childhood speech/literacy, autism, and Cambridge-appointment framing, but no public subtitle track was exposed and the available environment had no speech-to-text runtime for a machine-assisted audio pass. The video-only MP4 and separate M4A remain playable local artifacts. No new Arday-attributed wording or biographical claim was promoted; reopen only for human listening, a changed caption/transcript endpoint, or an independently supplied transcript.
+
 ## 2026-08-09 — SRC-1051/C-1084–C-1087: St Mary’s address family/mentor caption audit
 
 The locally preserved 26 July 2024 St Mary’s honorary-doctorate address was checked against its automatic English SRT. The captions attribute to Arday a first visit to St Mary’s at 15 during a school-arranged sports day, a major age-18 intervention from a person rendered as “Andrew Sandry,” parents named Gifty and Joseph Addai, and a memory of his mother reading *Invictus* daily until age 18. The mentor name conflicts with the Sandro Sandri rendering in other institutional and interview records; it is preserved as a source-version discrepancy rather than normalized. The claims remain ceremonial first-person testimony and the captions remain unverified against the waveform.
