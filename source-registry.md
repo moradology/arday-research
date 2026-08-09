@@ -1,6 +1,9 @@
 # Source registry
 
+@@
 | SRC-1137 | `sources/2026-08-09-durham-living-hand-to-mouth-recheck.md` | Current Durham Worktribe indexed metadata continues to list the 24 November 2020 *Living Hand to Mouth* submitted manuscript; direct record returned HTTP 403 and no full text/PDF was recovered; relationship to 2022 *More to prove and more to lose* remains provisional | repository metadata / changed access boundary / publication-version lead / selected JSON recheck | 2026-08-09 | Durham repository, Living Hand to Mouth, precarious employment, British Journal of Sociology of Education, manuscript, version lineage, HTTP 403, full text unresolved |
+
+| SRC-1138 | `sources/2026-08-09-african-allied-health-summit-speakers.md` | African Allied Healthcare Summit first-party 2026 site schedules the 23–24 July Accra summit and names Jason Arday as a keynote speaker; home, speakers, schedule, and about HTML plus organizer-displayed portrait preserved; detailed agenda, delivery, recording, and transcript unresolved | first-party event listing / speaker profile / local HTML and portrait / future-event source-version | 2026-08-09 | African Allied Healthcare Summit, African Allied Healthcare Network, Accra, Ghana, University of Ghana, keynote, Jason Arday, healthcare equity, event listing, portrait, delivery unresolved |
 
 | SRC-1136 | `sources/2026-08-09-cofnas-substack-reception-recheck.md` | 9 August 2026 recheck of Nathan Cofnas’s public Substack article: substantive text appeared unchanged while visible engagement rose from 1,404/286/169 to 1,428/292/178; no new exhibit, correction, response, inquiry document, or adjudicative finding | self-published commentary / volatile reception metadata / selected JSON source-version recheck | 2026-08-09 | Nathan Cofnas, Jason Arday, Substack, research integrity, plagiarism allegations, reception, engagement, source version, deduplication |
 

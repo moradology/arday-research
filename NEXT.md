@@ -1,4 +1,7 @@
+@@
 # Next actions
+
+Fresh event-source checkpoint: `SRC-1138/C-1399` — the African Allied Healthcare Summit’s first-party 2026 site lists Jason Arday as a keynote speaker for the 23–24 July summit at the University of Ghana, Accra. Home, speakers, schedule, about HTML, and organizer portrait are preserved; the detailed agenda, attendance/delivery evidence, recording, transcript, slides, and post-event report remain unresolved. Reopen only for those concrete artifacts or a changed organizer page; treat the Cambridge wording as dated promotional copy.
 
 Latest scholarly-version checkpoint: `SRC-1137/C-1398` — Durham’s current indexed metadata still lists the 24 November 2020 *Living Hand to Mouth* submitted manuscript, but the canonical route remains HTTP 403 with no PDF or full text. Its relationship to the 2022 *More to prove and more to lose* article remains provisional. Reopen only for the manuscript, a stable attachment, a corrected version, or an explicit publisher/repository successor record; do not repeat the same metadata query unchanged.
 

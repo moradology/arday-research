@@ -1,4 +1,7 @@
+@@
 # Media / capture additions
+
+- `SRC-1138`: [African Allied Healthcare Summit speaker record](sources/2026-08-09-african-allied-health-summit-speakers.md), [home](assets/captures/2026-08-09-african-allied-health-summit/home.html), [speakers page](assets/captures/2026-08-09-african-allied-health-summit/speakers.html), [schedule](assets/captures/2026-08-09-african-allied-health-summit/schedule.html), [about page](assets/captures/2026-08-09-african-allied-health-summit/about.html), and [organizer-displayed portrait](assets/captures/2026-08-09-african-allied-health-summit/arday.webp) — first-party listing for the 23–24 July 2026 Accra summit; no detailed programme, recording, transcript, or post-event artifact recovered.
 
 - `SRC-1018`: [Springfields Arday Class record](sources/2026-08-09-springfields-arday-class.md) now includes the [raw current HTML](assets/captures/2026-08-09-springfields-arday-class/arday.html) and extracted text; the page’s timetable/topic-web links are logged as school curriculum boundaries, not Arday media.
 

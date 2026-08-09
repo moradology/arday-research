@@ -1,6 +1,9 @@
 # Jason Arday — public-output index
 
+@@
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
+
+- [African Allied Healthcare Summit keynote listing](sources/2026-08-09-african-allied-health-summit-speakers.md) — first-party 2026 event site listing Arday as a keynote speaker for the 23–24 July Accra summit; locally preserved pages and organizer portrait; delivery and media artifacts unresolved.
 
 - [Cambridge Festival video caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) — bounded, subject-centred timecode navigation for Arday’s first-person/public-position passages in the recovered [official recording](https://www.youtube.com/watch?v=BAFwM8mIKPk); automatic captions remain unverified.
 

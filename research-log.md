@@ -1,4 +1,11 @@
+@@
 # Research log
+
+## 2026-08-09 — SRC-1138/C-1399: African Allied Healthcare Summit keynote listing
+
+Discovery: a 2026 event search surfaced the African Allied Healthcare Network’s first-party summit site. The home page dates the African Allied Healthcare Summit to 23–24 July 2026 and places it at the Cedi Conference Centre, University of Ghana, Legon, Accra; the speakers page names Jason Arday as a keynote speaker.
+
+Capture and reconciliation: home, about, speakers, and schedule HTML were locally preserved, along with the organizer-displayed 417×458 WebP portrait. The schedule page says the detailed agenda will be released later. No recording, transcript, slides, programme PDF, or post-event report was recovered. Added SRC-1138/C-1399 as an organizer-side event listing, not as proof of attendance or delivery. The site’s present-tense Cambridge wording is retained as dated promotional biography copy. Google Drive was not updated; GitHub remains the active publication target.
 
 ## 2026-08-09 — SRC-1137/C-1398: *Living Hand to Mouth* repository recheck
 

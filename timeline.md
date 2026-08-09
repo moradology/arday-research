@@ -1,4 +1,7 @@
+@@
 # Timeline
+
+| 2026-07-23–24 scheduled | The African Allied Healthcare Summit’s first-party site listed Jason Arday as a keynote speaker for the Accra summit at the Cedi Conference Centre, University of Ghana, with a focus description spanning education, equity, social mobility, and inclusive healthcare systems. | organizer-side future/event listing; attendance, delivery, keynote content, and post-event artifacts unresolved | [African Allied Healthcare Summit speaker record](sources/2026-08-09-african-allied-health-summit-speakers.md) |
 
 | 2025-11-10 programme / page route 2025-11-10–11 | Education in Action’s “Sociology in Action” programme scheduled Arday’s session “Race and education in today’s world” at the Emmanuel Centre, London, describing a focus on sociology, intersectionality, race, racism, and the education system. | first-party organizer programme; PDF/page date discrepancy, delivery, attendance, and recording unresolved | [Education in Action programme audit](sources/2026-08-09-education-in-action-sociology-programme-audit.md) |
 
