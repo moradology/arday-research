@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1110/C-1341–C-1342: Arasite evidence-files provenance audit
+
+The four preserved ZIP archives and their extracted DOCX/text derivatives were inspected as one coordinated dossier family. The audit records the public host’s September 2025 submission claim, the one-DOCX-per-ZIP structure, July 2026 internal timestamps, comparison-label boundary, broken relation-diagram path, and absence of institutional receipts, reports, raw code, or formal outcomes. It adds no new plagiarism conclusion and does not re-count the existing page-level primary-text audits.
+
 ## 2026-08-09 — SRC-1109/C-1334–C-1340: *The Black Curriculum* report audit
 
 The complete 13-page first-party PDF was extracted with layout preservation and visually checked across its cover, executive summary, methodology, curriculum, pedagogy, year-round Black History, conclusions, quick-wins, biography, references, and back-cover pages. The audit binds the report to its stated heterogeneous content-analysis method and explicit data limitations, then separates its curriculum/pedagogy recommendations from school-level evidence and implementation evaluation. The report remains the canonical SRC-029 publication family; no duplicate report node was created. A text derivative was added beside the preserved PDF for reproducible navigation.

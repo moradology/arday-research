@@ -4,6 +4,8 @@ id: SRC-928
 
 # Arasite evidence files submitted to Cambridge and Liverpool John Moores
 
+Page-level provenance and scope audit: [SRC-1110](2026-08-09-arasite-evidence-files-audit.md)
+
 - Source ID: SRC-928
 - Type: public evidence dossier / self-published source-comparison files / primary artifact capture
 - Accessed: 2026-08-09
