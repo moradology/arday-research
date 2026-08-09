@@ -16,9 +16,9 @@ assets:
 
 The image URLs extracted from the two preserved 2010 Wayback blog snapshots were retried on 9 August 2026. Three non-personal campaign graphics were recovered successfully from both snapshots:
 
-- `01.bin` / `12.bin` — Facebook logo, 200×66 JPEG, SHA-256 `6dbea2c52b3e6ef4c1c5e889d5ff31d32166c6f1fdb7cfc2d46bf5e23e052649`.
-- `02.bin` / `13.bin` — Compress Yourself logo, 164×57 JPEG, SHA-256 `0d7e571bc9982bda7edb326b946e17d58fd6f768ac081e6933fbfca14e0372c3`.
-- `03.bin` / `14.bin` — JustGiving logo, 508×118 JPEG, SHA-256 `605a2aab3b883a7743bb2013fe91e48b16345db8ef10dc9e0883f85e4dab3d44`.
+- `facebook-logo-20100820.jpg` / `facebook-logo-20100825.jpg` — Facebook logo, 200×66 JPEG, SHA-256 `6dbea2c52b3e6ef4c1c5e889d5ff31d32166c6f1fdb7cfc2d46bf5e23e052649`.
+- `compress-yourself-logo-20100820.jpg` / `compress-yourself-logo-20100825.jpg` — Compress Yourself logo, 164×57 JPEG, SHA-256 `0d7e571bc9982bda7edb326b946e17d58fd6f768ac081e6933fbfca14e0372c3`.
+- `justgiving-logo-20100820.jpg` / `justgiving-logo-20100825.jpg` — JustGiving logo, 508×118 JPEG, SHA-256 `605a2aab3b883a7743bb2013fe91e48b16345db8ef10dc9e0883f85e4dab3d44`.
 
 The recovered files are duplicate manifestations across the two snapshot timestamps. The personal campaign photographs (`016.jpg`, `29.jpg`, `cy_back.jpg`, `cy_front.jpg`, `foot.jpg`, `ja2.jpg`, `p1000225.jpg`, `two-left.jpg`, and the later `070810-image-1`, `080810photo`, `090810`, `100810`, and `jason-shorts` files) did not yield binaries: the first group returned 404, and the later group returned connection failures during this pass.
 
