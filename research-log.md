@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — identity-control check: United Response homonym
+
+An exact-name media search surfaced United Response’s “Jason’s life story interview,” dated September 2025. The page identifies a different Devon-based Jason: born in Penzance, raised in St John’s/Newland, associated with Mencap in Penzance, and describing a miner father and different sibling/age history. It was rejected as a homonym and not added to Arday’s ontology. Autism School International’s apparently new result was reconciled to existing canonical `SRC-330` because its page and portrait were byte-identical to the already-preserved files.
+
 ## 2026-08-09 — sports-record boundary extension (no new source node)
 
 Discovery: exact-name searches for `"Jason Arday" footballer`, `"Jason Arday" "Battersea Park Rangers"`, `"Jason Arday" "Southern Sunday Football League"`, and `"Jason Arday" snooker -Wikipedia` returned only the existing propagation family, the canonical Battersea Park Rangers lead, and public discussion of the already-corrected Bath wording.
