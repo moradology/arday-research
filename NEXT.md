@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh aggregator-boundary checkpoint: `SRC-1092/C-1268` — AllEvents’ Newcastle page confirms the same 14 October 2025 event metadata and preserves a “303+ Interested” counter, but no recording, transcript, slides, named attendee account, or attendee image. Treat this as platform reception metadata only; do not infer attendance or delivery. Reopen only for a concrete post-event artifact or changed page state, then return to Arday-specific biography, output, and institutional-source gaps.
+
 Fresh event-manifestation checkpoint: `SRC-1090/C-1266` — Eventbrite’s public registration page for the canonical 27 March 2021 Black History Month conversation now has local HTML, headers, organizer metadata, ended state, and event image. Reopen only for a recording, transcript, attendance/post-event record, or changed registration state; do not create a second event node or treat the promotional biography as independent evidence.
 
 Fresh event-manifestation checkpoint: `SRC-1091/C-1267` — Newcastle’s 14 October 2025 lecture now has a preserved Eventbrite registration page with organizer, exact local/UTC times, venue, ended/sales-ended state, and event image. Reopen only for a recording, transcript, attendance/post-event record, or changed registration state; do not create a second event node or infer delivery from registration.

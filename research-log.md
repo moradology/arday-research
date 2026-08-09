@@ -4554,3 +4554,8 @@ The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum 
 ## 2026-08-09 — SRC-1038/C-1038–C-1042: Lives Retold page-level audit
 
 The Wayback-recovered 11-page PDF of Arday’s 20 March 2021 BBC Radio 4 Lent Talk was audited by printed/page location. It adds bounded self-report on one-sided deafness, speech/literacy, football/snooker, endurance chronology, fundraising, the April 2019 Durham interview, and a statement that two benign brain tumours were diagnosed after the PhD. The latter materially conflicts with the Sanger interview’s account of a brain tumour removed two weeks before the viva and a post-viva stroke. Both source versions are preserved without medical inference or harmonization. Google Drive was not updated; GitHub remains the active publication target.
+# Research log
+
+## 2026-08-09 — SRC-1092/C-1268: Newcastle AllEvents aggregator boundary
+
+The AllEvents page for the 14 October 2025 Newcastle “Sign o’ the times” lecture was fetched after the university and Eventbrite records had already been preserved. It agrees on title, venue, date, local start time, and ended state, and displayed “303+ Interested.” No recording, transcript, slides, named attendee account, or recoverable attendee photograph was exposed. The page is retained as a reception/source-version artifact and deduplicated to the canonical Newcastle event; the counter is not treated as attendance or delivery evidence.

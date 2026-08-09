@@ -1,0 +1,31 @@
+HTTP/2 301 
+date: Sun, 09 Aug 2026 11:15:49 GMT
+content-type: text/html; charset=UTF-8
+location: https://allevents.in/newcastle-upon-tyne/black-history-month-lecture-sign-o-the-times-by-professor-jason-arday/100001620521697019
+server: cloudflare
+strict-transport-security: max-age=2592000
+set-cookie: PHPSESSID=qvi4n5ncap2ifq1fgc1forn5r7; expires=Sun, 16-Aug-2026 11:15:49 GMT; Max-Age=604800; path=/; secure; HttpOnly; SameSite=Lax
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+access-control-allow-credentials: true
+cf-cache-status: DYNAMIC
+cf-ray: a28658578c0e6d2d-OMA
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Sun, 09 Aug 2026 11:15:49 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+strict-transport-security: max-age=2592000
+vary: Accept-Encoding
+set-cookie: PHPSESSID=ve9va0ffe9ibqtucpeaqsi1f0q; expires=Sun, 16-Aug-2026 11:15:49 GMT; Max-Age=604800; path=/; secure; HttpOnly; SameSite=Lax
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+cache-control: max-age=2592000
+x-frame-options: DENY
+access-control-allow-credentials: true
+cf-cache-status: DYNAMIC
+cf-ray: a28658584c2e6d2d-OMA
+alt-svc: h3=":443"; ma=86400
+
