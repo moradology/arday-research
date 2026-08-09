@@ -1,5 +1,7 @@
 # Next actions
 
+Latest workspace-artifact audit: candidate files were reconciled as one unrelated DOI, a zero-byte ITV response, a repeated OpenLearn Cloudflare challenge, a byte-identical UEL page, and duplicate Booktime product assets. No new Arday evidence was promoted. Reopen only for a real ITV document, lawful OpenLearn PDF, changed UEL page, or distinct Booktime magazine/interview artifact; do not repeat these captures unchanged.
+
 Latest controversy-lineage checkpoint: named downstream coverage and institutional routes were rechecked; no new primary text, terms of reference, formal finding, correction, or independent sports record surfaced. The New York Times route remains robots-blocked, while Cambridge/QUB process records remain outcome-free. Reopen only for a primary institutional document, formal outcome, source correction, or named club/governing-body record; do not repeat the same article and search routes unchanged.
 
 Latest full-name/mentor/sports search boundary: exact-name queries combining “Jason Atta Kwei Arday” with Merton College, Sandro Sandri, Battersea Park Rangers, and the Shooting Star tournament returned only canonical institutional, legal, interview, and sports-boundary records. No new club registration, match report, independent snooker result, mentor record, or primary childhood artifact surfaced. People-finder material was excluded as privacy-sensitive and non-probative. Reopen only for a named sporting record, mentor correspondence/record, or distinct primary artifact; do not repeat these queries unchanged.

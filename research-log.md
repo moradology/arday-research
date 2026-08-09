@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — workspace artifact audit: false positives and duplicates
+
+The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.
+
 ## 2026-08-09 — controversy-source lineage and adjudication boundary
 
 The named-source chain behind the current controversy coverage was rechecked: *The New York Times* route was robots-blocked; the available *Independent* results were unrelated or already represented; *The Telegraph*, *The Atlantic*, *Daily Mail*, *Guardian*, *The Week*, AP, QUB/BBC, and Cambridge statement records are already canonical. Cambridge’s official statement still supplies process wording rather than a finding, and no terms of reference, named investigator, report, correction, or outcome was recovered in this pass. Targeted sports follow-up returned only recycled self-report/photo-caption material and no club registration, governing-body record, contract, or match result. No new source or claim node was created; the unresolved targets remain primary institutional documents and independent sports records.
