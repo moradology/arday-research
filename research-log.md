@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — controversy-source lineage and adjudication boundary
+
+The named-source chain behind the current controversy coverage was rechecked: *The New York Times* route was robots-blocked; the available *Independent* results were unrelated or already represented; *The Telegraph*, *The Atlantic*, *Daily Mail*, *Guardian*, *The Week*, AP, QUB/BBC, and Cambridge statement records are already canonical. Cambridge’s official statement still supplies process wording rather than a finding, and no terms of reference, named investigator, report, correction, or outcome was recovered in this pass. Targeted sports follow-up returned only recycled self-report/photo-caption material and no club registration, governing-body record, contract, or match result. No new source or claim node was created; the unresolved targets remain primary institutional documents and independent sports records.
+
 ## 2026-08-09 — full-name, mentor, and sports-verification search boundary
 
 A distinct exact-name search using “Jason Atta Kwei Arday” and targeted combinations with Merton College, Sandro Sandri, Battersea Park Rangers, and the Shooting Star football tournament was reconciled against the archive. Results resolved to existing canonical records: Cambridge’s current Faculty directory and Regent House material; the Companies House personal-appointments page; the Black Advisory Hub 2026 symposium; St Mary’s *Simmarian* issue 21; Get Further’s patron announcement and annual report; the Merton College profile; ARU’s honorary-degree citation; Guardian and other interview/profile families; and the existing sports-record search boundary. No named club registration, contract, match report, independent snooker result, new mentor record, or distinct primary childhood artifact was recovered. People-finder results were excluded because they add privacy-sensitive household/address material without provenance relevant to the subject ontology.
