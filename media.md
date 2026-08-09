@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1085`: [University of Liverpool keynote page](assets/captures/2023-03-10-liverpool-neurodiversity/page.html) and [Neurodiversity Celebration Week image](assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg) — dated event listing; Eventbrite registration link preserved in the source record; no recording, transcript, slides, or Arday portrait recovered.
+
 - `SRC-1084`: [University of Liverpool article](assets/captures/2023-10-12-liverpool-race-equity/page.html) and [photograph of Arday and Carl Larsen](assets/captures/2023-10-12-liverpool-race-equity/Prof-Jason-Arday-and-Carl-Larsen.jpg) — first-party institutional activity record; no exhibit catalogue, bootcamp evaluation, video, or participant register recovered.
 
 - `SRC-1083`: [University of Manchester StaffNet page](assets/captures/2024-manchester-black-history-month-arday/page.html), [generic programme image](assets/captures/2024-manchester-black-history-month-arday/black-history-month-2024.jpg), and [TicketSource challenge](assets/captures/2024-manchester-black-history-month-arday/ticket.html) — dated event-listing media; no recording, transcript, or Arday portrait recovered.

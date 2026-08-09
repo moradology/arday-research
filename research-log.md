@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1085/C-1241–C-1243: University of Liverpool “Even Flow” keynote
+
+A targeted Liverpool institutional search surfaced the 10 March 2023 University News page advertising Jason Arday’s 13 March keynote, “Even Flow: Understanding and Navigating Neurodiversity,” during Neurodiversity Celebration Week. The page gives a hybrid Teaching Hub/Zoom format and links Eventbrite. The current Eventbrite metadata resolves the event title, 1–2 PM time, Liverpool venue, and event ID `566383697887`, adding a distinct registration manifestation. The University page repeats biography claims about autism, speech, literacy, and Cambridge; these remain host-published biography wording rather than independent records. The event’s recording, transcript, slides, and Arday-specific image were not recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1084/C-1238–C-1240: University of Liverpool race-equity activities
 
 The University of Liverpool Faculty of Health and Life Sciences page “Advancing Race Equity and Celebrating Black History Month: A relay race, not a marathon” was fetched from the first-party site and preserved with its response headers. Published 12 October 2023 and written by Carl Larsen, it includes a photograph captioned “Prof Jason Arday and Carl Larsen.” The article reports Arday’s Liverpool work on “Inclusivity library exhibits,” including a Henrietta Lacks exhibit in the Harold Cohen Library, and a Black Science Bootcamp with Amal Abdulkadir for 55 Black Year 10 students from Liverpool schools. The source is useful evidence of named institutional activities and public-facing race-equity work, but it does not provide an exhibit catalogue, participant register, evaluation, or recording. Google Drive was not updated; GitHub remains the active publication target.
