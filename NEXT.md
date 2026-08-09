@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-platform checkpoint: `SRC-897/C-913` — Amazon Music now has a locally captured catalogue-shell manifestation of the canonical *Talking Matters* episode, with browser/indexed metadata and episode ID `0f794b62-c24e-4e23-9ff1-8e55efc03d18`; the direct shell exposes no audio, transcript, or captions. Reopen only for a changed rendered route, public transcript/captions, or distinct audio endpoint; do not create a second interview node.
+
 Fresh archive-integrity checkpoint: the 9 August read-only audit found 614 ID-bearing source files, no duplicate front-matter IDs, 629 unique registry paths, and no missing registry-referenced source file. Continue selective binary publication only from explicit source records; do not assume that every local capture is already on GitHub.
 
 Fresh canonical-source correction: `SRC-198/C-912` — the 9 August Lincoln Bishop page, headers, and portrait are new captures of the already-canonical Research Cast UK episode; the MP3 and image are byte-identical to existing local objects. Exact-title, host/guest, filename, and institutional-domain searches found no public transcript or captions; the local Whisper JSON and listening clips remain derivative navigation aids. Do not create another source node for this episode.

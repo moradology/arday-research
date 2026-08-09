@@ -675,6 +675,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 | SRC-895 | `sources/2026-08-09-post-checkpoint-source-boundary.md` | Focused 9 August 2026 search boundary across Cambridge/QUB investigation outcomes, 2026 DOI output, charity/governance records, and named institutional hosts; all material results resolved to existing canonical records and no new artifact or outcome was recovered | bounded search/negative-space record / deduplication checkpoint / no local binary | 2026-08-09 | Cambridge, QUB, investigation, outcome, DOI, Charity Commission, Companies House, governance, search boundary, negative space, deduplication |
 
 
+| SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

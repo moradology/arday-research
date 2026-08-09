@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-897/C-913: Amazon Music Talking Matters manifestation
+
+Discovery: an exact-name podcast search surfaced Amazon Music’s catalogue route for the already-canonical *Talking Matters with Nick Halkes* episode. Browser/indexed metadata identifies the 2 August 2024 catalogue date, approximately 1 hour 18 minute duration, episode and show IDs, and the statement that the conversation was recorded in 2021 while Arday was an associate professor at Durham.
+
+Capture: the direct request returned an 8,504-byte JavaScript application shell containing the deep-link path but no rendered episode text, audio URL, transcript, or captions. The HTML and response headers are preserved under `assets/captures/2026-08-09-talking-matters-amazon-music/`.
+
+Decision: register SRC-897 as a platform source-version deduplicated to SRC-184. It adds catalogue topology and a durable platform ID, not a second interview or independent corroboration. Reopen only for a changed rendered page, public transcript/captions, or a distinct audio endpoint.
+
 ## 2026-08-09 — archive consistency audit
 
 Read-only audit of the current worktree found 614 source Markdown files with front-matter IDs, no duplicate IDs, 629 unique source paths referenced by the registry, and no registry-referenced source file missing from disk. This validates the canonical-file layer after the Research Cast UK deduplication correction; it does not certify that every local media capture is already published to GitHub.
