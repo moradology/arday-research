@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1054/C-1091–C-1094: Cambridge Neurodiversity Week caption audit
+
+The locally preserved 22 March 2024 Cambridge film was checked against its automatic English SRT. The bounded passage adds Arday’s fluid, experience-sensitive framing of neurodiversity; a retrospective account linking inclusive-curriculum work to school ostracization and opposition to one-size-fits-all pedagogy; a description of his collaboration with Chantelle Lewis on love, compassion, and empathy in learning spaces; and a dated observation of Cambridge interventions for neurodivergent learners. These are distinct professional/public-position details, not new childhood or clinical evidence. Captions remain unverified against the waveform.
+
 ## 2026-08-09 — SRC-1053/C-1088–C-1090: Black In Academia public-position caption audit
 
 The locally preserved 5 November 2018 Black In Academia / Leading Routes 65-second response was checked against its automatic English VTT. The short first-person statement records Arday’s account of stereotype pressure on Black men, the representational responsibility he associates with Black academics, and his view that Black presence in academia is a political statement that can reshape narratives and inspire participation. These are distinct early public-position details, not childhood or qualification evidence. The captions remain unverified against the waveform and are not used for verbatim quotation.

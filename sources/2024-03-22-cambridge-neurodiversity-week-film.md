@@ -26,7 +26,7 @@ This is a new institutional media manifestation, not a duplicate of the PBS, Cha
 - 02:59–03:55: He says his and Chantelle Lewis’s experiences as neurodivergent people inform their book/research on love, compassion, empathy, and learning spaces for neurodivergent children.
 - 03:56–04:47: He describes observing Cambridge interventions and adaptations supporting neurodivergent learners.
 
-The English captions are automatic, overlapping, and occasionally imperfect. They are retained for navigation and must be checked against the MP4 before verbatim quotation.
+The English captions are automatic, overlapping, and occasionally imperfect. A bounded audit records the distinct conceptual and educational-position material at [SRC-1054](2026-08-09-cambridge-neurodiversity-week-caption-audit.md). The captions must be checked against the MP4 before verbatim quotation.
 
 ## Local preservation
 
