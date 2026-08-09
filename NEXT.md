@@ -1,5 +1,7 @@
 # Next actions
 
+Latest scholarly-version checkpoint: `SRC-1137/C-1398` — Durham’s current indexed metadata still lists the 24 November 2020 *Living Hand to Mouth* submitted manuscript, but the canonical route remains HTTP 403 with no PDF or full text. Its relationship to the 2022 *More to prove and more to lose* article remains provisional. Reopen only for the manuscript, a stable attachment, a corrected version, or an explicit publisher/repository successor record; do not repeat the same metadata query unchanged.
+
 Latest research-integrity source-version checkpoint: `SRC-1136/C-1397` — the 9 August public Cofnas article recheck found unchanged visible substantive text and increased engagement counters (1,428 likes, 292 comments, 178 restacks). No new exhibit, correction, direct response, inquiry document, or finding appeared. Reopen only for substantive article edits, a new primary comparison, institutional evidence, or a formal outcome; do not treat engagement as corroboration.
 
 Latest propagation checkpoint: `SRC-1132/C-1392` records Shajo Pro’s 2024/2025 public profile as a low-provenance retelling with visible source-version errors; it adds narrative topology but no independent corroboration or binary. Reopen only for a materially changed page or an embedded primary artifact; do not treat the profile as evidence for the repeated biography.

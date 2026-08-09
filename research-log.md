@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1137/C-1398: *Living Hand to Mouth* repository recheck
+
+Discovery: exact-title searching surfaced current Durham Worktribe index entries for *Living Hand to Mouth*, including the canonical output route and Jason Arday’s author-output page. The indexed metadata continues to identify a 24 November 2020 deposit marked “Manuscript submitted for publication” to the *British Journal of Sociology of Education*.
+
+Capture and boundary: opening the canonical output route returned HTTP 403; no manuscript attachment, PDF, or full text was recovered. The related author-output page repeats the record and lists the 2022 *More to prove and more to lose* article, but does not establish that the two records are the same work. Added SRC-1137/C-1398 as a current metadata/access-state update to SRC-067. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1136/C-1397: Cofnas Substack reception recheck
 
 Discovery: a current public fetch of Nathan Cofnas’s 21 July 2026 article exposed the same visible article body and title, with engagement counters at 1,428 likes, 292 comments, and 178 restacks.
