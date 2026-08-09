@@ -4059,3 +4059,10 @@ Decision: preserve the HTML, API response, headers, and hashes as an incomplete 
 Discovery: the Atlantic feature’s current HTML was byte-distinct from the 8 August capture but substantively unchanged in the compared article text. The page exposed a public Megaphone audio URL; the 18.4 MB MP3 and a cropped/resized lead-image manifestation were recovered.
 
 Decision: register a source-version node deduplicated to SRC-335 and add the audio as a media derivative, not as independent corroboration. The article’s reported memoir/proposal discrepancies and conditional discussion of possible interview-data fraud remain attributed journalism; the proposal and primary case records remain unrecovered. Google Drive was not updated; GitHub remains the active publication target.
+## 2026-08-09 — SRC-927/C-993: Wayback memoir-publisher checkpoint
+
+Discovery: the strongest unresolved memoir lead remained the unpublished 2024 proposal discussed by *The Atlantic* and the *Daily Mail*. Exact-title web searches surfaced no proposal binary. Internet Archive advanced search for the exact title with `Arday` returned zero items; the tested Common Crawl route returned no capture. A correct Wayback CDX query for the Simon & Schuster URL family located one HTTP-200 capture dated 26 July 2026.
+
+Capture: recovered the replayed publisher page, its compressed response body, decoded HTML, headers, CDX JSON/headers, extracted text, and SHA-256 manifest. The page preserves first-party metadata for the US hardcover edition (ISBN `9781668085578`, 288 pages, 11 August 2026 publication date, 37 Ink) and the publisher’s promotional childhood synopsis. It is a historical source-version and not independent corroboration of the synopsis.
+
+Decision: no proposal source was created because no proposal or manuscript was recovered. The archive result is recorded as `SRC-927/C-993`; the proposal remains an explicit unresolved documentary target, and the Atlantic/Daily Mail descriptions remain attributed secondary reports. Google Drive was not updated; GitHub remains the active publication target.

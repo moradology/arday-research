@@ -8,6 +8,10 @@ status: active
 
 # Jason Arday — negative-space and changed-state ledger
 
+## 2026-08-09 — memoir-proposal archive checkpoint
+
+The tested Internet Archive exact-title search returned zero items, the tested Common Crawl route returned no capture, and Wayback CDX located one HTTP-200 capture: Simon & Schuster’s publisher page at 2026-07-26 15:04:48 UTC. The replay is preserved as [SRC-927](sources/2026-08-09-wayback-simon-schuster-memoir.md). It supplies a distinct pre-resignation publisher source-version, not the unpublished 2024 proposal or a manuscript. Reopen only for a concrete proposal/preview artifact, new archived proposal URL, direct response, or changed first-party record.
+
 ## Additional unresolved sports lead
 
 The indexed June 2026 Reddit discussion about which academy or professional club underlies the original Bath wording is preserved as [SRC-922](sources/2026-08-09-reddit-football-academy-access-boundary.md). The direct request returned an anti-bot challenge, so no answer or underlying sports record was recovered. This is a lead/access boundary, not corroboration or falsification.

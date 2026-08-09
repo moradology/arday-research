@@ -1,0 +1,39 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 02:37:37 GMT
+content-type: text/html
+x-archive-orig-date: Sun, 26 Jul 2026 15:04:49 GMT
+x-archive-orig-transfer-encoding: chunked
+x-archive-orig-connection: close
+x-archive-orig-server: cloudflare
+x-archive-orig-last-modified: Sun, 26 Jul 2026 12:08:51 GMT
+x-archive-orig-vary: accept-encoding
+x-archive-orig-expires: Sun, 26 Jul 2026 16:04:48 GMT
+x-archive-orig-cache-control: max-age=3600
+x-archive-orig-cache-control: public, max-age=3600
+x-archive-orig-cf-cache-status: DYNAMIC
+content-encoding: gzip
+x-archive-orig-cf-ray: a2144c89dfab763a-SEA
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Sun, 26 Jul 2026 15:04:48 GMT
+link: <https://www.simonandschuster.com/books/Great-and-Unfortunate-Things/Jason-Arday/9781668085578>; rel="original", <https://web.archive.org/web/timemap/link/https://www.simonandschuster.com/books/Great-and-Unfortunate-Things/Jason-Arday/9781668085578>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.simonandschuster.com/books/Great-and-Unfortunate-Things/Jason-Arday/9781668085578>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: SPNOUTLINKS-20260726073555347-00028-zeno-k8s-spn-outlinks-91/SPNOUTLINKS-20260726135253177-00033-zeno-k8s-spn-outlinks-crawl.warc.gz
+server-timing: captures_list;dur=0.942558, exclusion.robots;dur=0.126997, exclusion.robots.policy;dur=0.109400, esindex;dur=0.015118, cdx.remote;dur=34.101858, LoadShardBlock;dur=230.455471, PetaboxLoader3.datanode;dur=136.033923, PetaboxLoader3.resolve;dur=167.469518, load_resource;dur=5628.063959
+x-app-server: wwwb-app54-dc6
+x-ts: 200
+x-tr: 5955
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app54; path=/
+cache-control: private
+x-location: All
+x-as: 35986
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: VYVE-BROADBAND
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+
