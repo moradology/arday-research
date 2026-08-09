@@ -18,3 +18,7 @@ The ARU Unlearn page lists the Lightbulb session “I Guess I’m Doing Fine, I 
 ## Capture note
 
 The page and video were downloaded on 2026-08-06. The current recheck page has SHA-256 `5b0da490c849ae284d71d5d45fd43019828e3a566c8a1c1862ce3d6c74cc231d` and its headers have SHA-256 `2640fc35a1c6e3696879b020e5786ca154a17a24878d7250733a310b6b594d92`. Checksums and technical metadata for the original capture are in [capture metadata](../assets/metadata/aru-unlearn-jason-arday-capture-2026-08-06.md).
+
+## Content audit
+
+[Bounded video audit](2026-08-09-aru-unlearn-video-audit.md) — approximate navigation for Arday’s opening keynote segment, with host-biography and ASR boundaries preserved.
