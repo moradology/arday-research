@@ -22,3 +22,5 @@ The episode is a scholarly/public conversation record, not a childhood interview
 - [Local MP3](../assets/audio/surviving-society-social-science-for-social-justice-jason-arday-2024.mp3) — 37,451,376 bytes; SHA-256 `bedf6e5c32052790de96137ab4a6945565e746c95dad046a81d3bbeb8fc13d15`; estimated duration 2,193.319 seconds
 - [Source page](https://podcasts.apple.com/gb/podcast/s1-e1-delayna-spencer-meredith-clark-jason-arday-social/id1291679351?i=1000647167507)
 - [Capture metadata](../assets/metadata/surviving-society-capture-2026-08-06.md)
+
+A bounded audio audit now maps Arday-attributed responses at approximately 24:00–30:00 on academic-writing surveillance, agency, publishing access for Black academics, and accessible scholarship. The recording is multi-speaker and the JSON remains navigation-only; see [SRC-1149](2026-08-09-surviving-society-social-science-audio-audit.md).

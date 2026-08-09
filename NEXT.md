@@ -9,6 +9,8 @@ Fresh subject-centred *Portrait of a Londoner* audio checkpoint: `SRC-1147/C-141
 
 Fresh subject-centred *Full Disclosure* audio checkpoint: `SRC-1148/C-1421–C-1423` — bounded `small.en` navigation at 03:04–07:00 separates Arday’s guest speech from host framing and maps his education mission, separate autism/global-developmental-delay account, and non-speaking observation. Human listening and independent medical, employment, and outcome records remain open; do not quote the ASR as settled wording.
 
+Fresh Surviving Society public-position checkpoint: `SRC-1149/C-1424–C-1426` — bounded `small.en` navigation at 24:00–30:00 maps Arday-attributed discussion of academic-writing surveillance, agency, publishing access for Black academics, and accessible scholarship. Human listening and independent project-outcome evidence remain open; do not treat the multi-speaker ASR as a transcript.
+
 Fresh subject-centred audio checkpoint: `SRC-1144/C-1411–C-1413` — bounded Whisper `small.en` windows from the locally preserved *Now and Men* interview map Arday-attributed discussion of racial-justice momentum, institutional change, measured radicalism, and a reported racist banana incident. Human listening, a verified transcript, and independent age/incident records remain open; do not quote the ASR as settled wording.
 
 Fresh BBC media-state checkpoint: `SRC-235/C-367` — the 9 August programme API returned unchanged episode/original metadata and a newly queried HTTP 200 podcast-version JSON for `p0nsry2l`, but no audio, transcript, captions, segment events, or availability. The BBC Sounds/player routes remain unresolved; reopen only for a changed media selector, lawful recording, transcript, or exact segment artifact.
