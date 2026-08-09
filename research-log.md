@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred Warwick keynote continuation: upgraded the locally preserved 4 June 2026 University of Warwick MP4 from a `tiny.en` VTT to corrected-mono five-minute-window `mlx-community/whisper-small.en-mlx` navigation. The 425,900-byte JSON has 659 absolute-offset segments and sharpens the existing `C-1255–C-1262` windows without creating new claims. It remains machine-assisted; human listening, a lawful caption file, or a first-party transcript is still required for quotation.
+
 2026-08-09 — Subject-centred audiovisual audit: the locally preserved 40:37.146 LJMU/SoundCloud “Harvest for the World” MP3 was transcribed in corrected mono five-minute windows with `mlx-community/whisper-small.en-mlx`. Added `SRC-1143/C-1408–C-1410` for Arday-attributed PhD/Sandro Sandri self-report, agency/autonomy advice, and academic collectivism/community commentary. The JSON is navigation-only; human listening and a first-party transcript remain open.
 
 2026-08-09 — Subject-centred discovery continuation: exact-name searches for 2026 interviews/publications, childhood football/snooker material, YouTube recordings, and memoir-proposal terms returned only canonical Great Big Story/Open Culture, Twinkl, Guardian, Lives Retold, memoir-edition, Atlantic, Daily Mail, and existing media records. No new primary artifact, DOI/title key, proposal file, or direct publisher response was recovered; the boundary was extended in `SRC-895` without duplicate nodes.
@@ -317,7 +319,7 @@ Decision: register this as participant-witness corroboration for the scheduled P
 
 ## 2026-08-09 — SRC-1088/C-1255–C-1262: Warwick keynote audio audit
 
-The locally preserved 45:25.50 Warwick Education Conference MP4 was processed with Whisper `tiny.en` to create a 66,341-byte VTT for navigation. The audit separates Arday’s keynote and responses from audience questions and records approximate windows covering pedagogy and freedom, generous assumptions and deficit framing, teaching-failure anecdotes, institutional power and fear, humility and safe failure, misrecognition, and intelligence/luck/imposter syndrome. The VTT is automatic speech recognition, not a transcript; no direct quotation is added and human listening remains the next verification step. This is a derivative of `SRC-334`, not a duplicate event node. Google Drive was not updated.
+The locally preserved 45:25.50 Warwick Education Conference MP4 was first processed with Whisper `tiny.en` to create a 66,341-byte VTT, then upgraded with corrected-mono five-minute-window Whisper `small.en` navigation. The audit separates Arday’s keynote and responses from audience questions and records approximate windows covering pedagogy and freedom, generous assumptions and deficit framing, teaching-failure anecdotes, institutional power and fear, humility and safe failure, misrecognition, and intelligence/luck/imposter syndrome. Both derivatives are automatic speech recognition, not a transcript; no direct quotation is added and human listening remains the next verification step. This is a derivative of `SRC-334`, not a duplicate event node. Google Drive was not updated.
 
 ## 2026-08-09 — Newcastle lecture duplicate consolidation
 

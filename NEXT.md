@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh subject-centred Warwick audio checkpoint: `SRC-1088/C-1255–C-1262` — the locally preserved 4 June 2026 keynote now has a corrected-mono Whisper `small.en` navigation JSON alongside the earlier `tiny.en` VTT. It sharpens the pedagogy, family/teaching anecdote, institutional-power, misrecognition, and intelligence/will passages but remains unverified speech. Human listening, a lawful caption file, or a first-party transcript remains open; do not quote either derivative as settled wording.
+
 Fresh subject-centred discovery boundary: `SRC-895` — 9 August exact-name searches for current interviews/publications, childhood football/snooker material, YouTube recordings, and memoir-proposal terms reconciled to canonical records and recovered no new primary artifact, DOI/title key, proposal file, or direct publisher response. Reopen only for a distinct primary recording, new publication identifier/file, proposal itself, or changed endpoint; do not repeat these query families unchanged.
 
 Fresh subject-centred audio checkpoint: `SRC-1143/C-1408–C-1410` — the canonical LJMU “Harvest for the World” MP3 now has a bounded ASR audit covering a PhD/Sandro Sandri self-report, agency/autonomy advice, and academic collectivism/community commentary. Human listening and any first-party transcript remain open; do not quote the ASR as settled speech.
@@ -149,7 +151,7 @@ Fresh subject-centred event checkpoint: `SRC-1089/C-1263–C-1264` — a search-
 
 Fresh graph-integrity checkpoint: the Newcastle, BOLD, and Oxford EDB duplicate source families have now been consolidated to canonical `SRC-296`, `SRC-218`, and `SRC-622`; their historical IDs remain only in the append-only research log. Continue deduplication by provenance, not by title alone, because source-version and access-state records can legitimately share titles.
 
-Fresh subject-centred video checkpoint: `SRC-1088/C-1255–C-1262` — the recovered Warwick keynote now has a local Whisper `tiny.en` VTT and bounded approximate windows for Arday’s pedagogy, institutional-power, autobiographical, and public-position material. Reopen for human listening against the MP4, corrected captions, slides, or a second recording; do not quote the VTT or upgrade first-person institutional anecdotes into verified findings.
+Fresh subject-centred video checkpoint: `SRC-1088/C-1255–C-1262` — the recovered Warwick keynote now has both the original Whisper `tiny.en` VTT and a corrected-mono `small.en` JSON navigation derivative. Reopen for human listening against the MP4, corrected captions, slides, or a second recording; do not quote either derivative or upgrade first-person institutional anecdotes into verified findings.
 
 Fresh scholarly-index checkpoint: `SRC-607/C-808` — the 9 August direct OpenAlex recheck again returned 56 works and no new DOI/title key; the newest unique records remain the canonical January 2026 OSF preprint versions. Reopen only after a changed work set or a concrete publisher/repository/full-text lead; do not repeat this exact endpoint unchanged.
 

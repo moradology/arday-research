@@ -4,19 +4,20 @@ type: first-party video audio audit
 title: "Warwick Education Conference 2026 — Jason Arday keynote audio audit"
 date: 2026-06-04
 audited: 2026-08-09
-status: bounded machine-transcript navigation; human listening pending
+status: bounded machine-transcript navigation upgraded to Whisper small.en; human listening pending
 evidence_class: first-party university video / machine ASR derivative / first-person testimony and public position
 source: 2026-06-04-warwick-education-conference-jason-arday.md
 subject: ../entities/jason-arday.md
 assets:
   - ../assets/videos/warwick-education-conference-2026/arday-session.tiny-en.vtt
+  - ../assets/documents/warwick-education-conference-2026-arday-session-whisper-small-en.json
 ---
 
 # Warwick keynote audio audit
 
 This audit covers the locally preserved official Warwick MP4 recorded for the 4 June 2026 Education Conference. The file is 45:25.50 long, 426×240 H.264/AAC, 138,726,243 bytes, SHA-256 `aa76c9208637513b416c0adb37751a50ebcadb542fc0ab42b84ea2a6b549034c`.
 
-The linked 66,341-byte VTT is a Whisper `tiny.en` automatic speech-recognition derivative, retained for navigation only. Timestamps are approximate; wording, speaker attribution, and segmentation require human listening against the MP4. The audience-question windows are excluded from the claims below. No automatic-caption wording is treated as a quotation.
+The linked 66,341-byte VTT is a Whisper `tiny.en` automatic speech-recognition derivative, retained for navigation only. A second pass was run in corrected mono 16 kHz five-minute windows with `mlx-community/whisper-small.en-mlx`; the resulting JSON is also navigation-only. Timestamps remain approximate, and wording, speaker attribution, and segmentation require human listening against the MP4. The audience-question windows are excluded from the claims below. No automatic-caption wording is treated as a quotation.
 
 ## Approximate subject windows
 
@@ -32,3 +33,7 @@ The linked 66,341-byte VTT is a Whisper `tiny.en` automatic speech-recognition d
 ## Boundary
 
 The recording establishes that these remarks were publicly delivered in the captured event. It does not independently establish the truth of autobiographical details, institutional examples, psychological claims, or generalisations. Reopen for human listening, a lawful verified caption file, slides, or a second independent recording.
+
+## Derivative checksum
+
+- [Whisper `small.en` JSON](../assets/documents/warwick-education-conference-2026-arday-session-whisper-small-en.json) — 425,900 bytes; SHA-256 `5e09e26c64b416c1bbb838c661eed9eb73d5243986fe487429684a81b39a9b70`; 659 segments with absolute offsets across ten five-minute windows.

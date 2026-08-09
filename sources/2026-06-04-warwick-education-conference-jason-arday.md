@@ -21,6 +21,7 @@ assets:
   - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.html
   - ../assets/captures/2026-08-08-warwick-keynote-caption-recheck/captions.headers.txt
   - ../assets/videos/warwick-education-conference-2026/arday-session.tiny-en.vtt
+  - ../assets/documents/warwick-education-conference-2026-arday-session-whisper-small-en.json
 ---
 
 # Warwick Education Conference 2026 — Jason Arday keynote
@@ -41,6 +42,7 @@ The highlights page exposes a direct MP4 for Arday’s session. The page’s vid
 - [Page-linked portrait, JPEG](../assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.jpg) — page-linked 170×204 image; SHA-256 `e87bf6e6d7c2f759025945a9a2abb680426bdaca705651445719400d742b9744`.
 - [Highlights portrait, WebP](../assets/captures/2026-warwick-education-conference-jason-arday/arday_jason.webp) — 170×204 image; SHA-256 `54d46cc0eb1ea804ab95a324610e8868612b679d98664c70b6a847df6b960998`.
 - [Whisper tiny.en navigation VTT](../assets/videos/warwick-education-conference-2026/arday-session.tiny-en.vtt) — 66,341 bytes; SHA-256 `9d3dc9f2e9aae93638fbcc1ec02bc14b534f29a3b589b4444c573b690f7b8b9e`; automatic speech recognition, not human-verified.
+- [Whisper small.en navigation JSON](../assets/documents/warwick-education-conference-2026-arday-session-whisper-small-en.json) — 425,900 bytes; SHA-256 `5e09e26c64b416c1bbb838c661eed9eb73d5243986fe487429684a81b39a9b70`; corrected-mono five-minute windows, not human-verified.
 
 ## Evidence boundary
 
