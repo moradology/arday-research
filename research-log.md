@@ -3976,3 +3976,10 @@ Discovery: a fresh public ORCID works request and an exact-name Crossref Works q
 Result: ORCID returned the same 11 grouped works already indexed. Crossref returned 100 ranked records from 353,692 broad results; 46 contained an exact Jason Arday author match, and every DOI/title reconciled to an existing canonical output, duplicate chapter/book manifestation, or already captured OSF preprint version. No new full text or repository manifestation was recovered.
 
 Decision: added C-979 as a bounded negative-space checkpoint. Do not repeat these unchanged API queries; reopen for a changed ORCID record, new DOI/title, distinct repository route, or full-text artifact.
+## 2026-08-09 — SRC-914/C-980: institutional-repository search boundary
+
+Discovery: exact-name repository searches were run against LJMU Research Online, White Rose Research Online, and Open Research Online as a distinct follow-up to the identifier/index reconciliation.
+
+Capture: LJMU returned three results, including Arday’s known 2015 doctoral thesis and two unrelated records. White Rose returned its search route without a new Arday record. Open Research Online returned an HTTP 403 Cloudflare challenge. HTML and response headers for all three routes are preserved under `assets/captures/2026-08-09-repository-search-boundary/`.
+
+Decision: added SRC-914 and C-980 as a bounded repository search/access record. No new publication or biography entity was created; reopen only with a changed result, direct repository item, new DOI/title, or lawful access route through the blocked host.

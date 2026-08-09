@@ -1,5 +1,7 @@
 # Work state
 
+Latest repository checkpoint: on 2026-08-09 `SRC-914/C-980` captured exact-name searches at LJMU Research Online, White Rose Research Online, and Open Research Online. LJMU returned three results including only the already-canonical Arday thesis; White Rose exposed no new Arday item; Open Research Online returned HTTP 403 Cloudflare. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly-index checkpoint: on 2026-08-09 `SRC-895/C-979` reconciled a fresh ORCID 11-work response and Crossref exact-name results (46 matching records within 100 ranked items) against the canonical output index. All resolved to existing works, duplicate manifestations, or known OSF versions; no new DOI, full text, or repository artifact was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-reception access checkpoint: on 2026-08-09 `SRC-913/C-978` preserved a fresh Foyles HTTP 403 Cloudflare challenge for the memoir reader-reviews route. The body is byte-distinct from the prior state; no new review text or media was recovered, and reception remains separate from biography evidence. Google Drive was not updated; GitHub remains the active publication target.

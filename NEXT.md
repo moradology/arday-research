@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh repository checkpoint: `SRC-914/C-980` — exact-name LJMU, White Rose, and Open Research Online searches on 9 August returned only the known Arday thesis, no new White Rose item, and a Cloudflare-blocked Open Research Online route. Reopen only for a changed result, direct item, new DOI/title, or lawful access route; do not repeat these unchanged searches.
+
 Fresh scholarly-index checkpoint: `SRC-895/C-979` — the 9 August ORCID/Crossref reconciliation returned only already-canonicalized works and duplicate manifestations; no new DOI, title, full text, or repository route was recovered. Reopen only after a changed identifier record, concrete DOI/title lead, distinct repository manifestation, or lawful full-text artifact; do not repeat these API queries unchanged.
 
 Fresh memoir-reception access checkpoint: `SRC-913/C-978` — Foyles’ direct reader-review route returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August; no new review text or media was recovered. Reopen only for a changed page, lawful review body, correction, or distinct edition artifact; do not repeat the same route unchanged.

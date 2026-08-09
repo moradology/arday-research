@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Aug 2026 01:54:41 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+Cache-Control: no-store, no-cache, must-revalidate
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self';
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
