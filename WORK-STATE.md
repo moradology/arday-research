@@ -1,5 +1,7 @@
 # Work state
 
+Latest subject-output checkpoint: on 2026-08-09 `SRC-1009/C-1009` recovered CGHE Webinar 164’s official linked PDF. It is a two-page Zoom chat log for the 3 November 2020 Arday/Dorling/Westwood webinar, not a speaker transcript; it contains no Arday speech. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest subject-output checkpoint: on 2026-08-09 `SRC-1008/C-1008` captured Cumberland Lodge’s 5 January 2022 retrospective of the “Beyond Tokenism” webinar. It adds attributed remarks on diversity, tokenism, meritocracy, positive action, and inclusion, while remaining a host-written summary rather than a transcript. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest subject-centred education checkpoint: on 2026-08-09 `SRC-1007/C-1007` rechecked South Thames Colleges Group’s former-Merton-student profile URL. It returned HTTP 200 with an anti-bot challenge rather than the substantive profile body; no new education, qualification, or enrollment evidence was recovered. The challenge body and headers remain local-only, and the source is deduplicated to SRC-159. Google Drive was not updated; GitHub remains the active publication target.

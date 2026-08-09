@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1009/C-1009: CGHE “transcript” recovered and classified
+
+Discovery: CGHE Webinar 164’s archived event page exposes a “View the transcript” link. The linked PDF was recovered as a two-page document titled with the 3 November 2020 event.
+
+Decision: classify the artifact as a Zoom chat-log transcript, not a speaker transcript. The extracted text contains audience questions and closing messages but no occurrence of “Arday” and no spoken contribution attributed to him. Register it as `SRC-1009`, a distinct primary event/provenance artifact and negative-space boundary related to the event page. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1008/C-1008: Cumberland Lodge retrospective adds attributed remarks
 
 Discovery: the Cumberland Lodge page “Tokenism: a barrier to inclusive diversity,” published 5 January 2022, was identified as a distinct host-written retrospective of the already-canonical 3 November 2021 webinar. Unlike the event listing, it attributes specific remarks to Arday and summarizes his positions on diversity, tolerance, tokenism, meritocracy, positive action, and inclusion.

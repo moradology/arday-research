@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event-transcript boundary: `SRC-1009/C-1009` — CGHE Webinar 164’s official transcript link is only a two-page Zoom chat log and contains no Arday speech. Reopen only for the webinar recording, captions, or a genuine speaker transcript; do not repeat the same PDF fetch or call the chat log a transcript of his remarks.
+
 Fresh public-position source: `SRC-1008/C-1008` — Cumberland Lodge’s 5 January 2022 retrospective adds attributed Arday remarks to the existing “Beyond Tokenism” webinar record. Reopen only for the webinar transcript/video, a correction, or a changed host page; do not repeat the same retrospective fetch or treat it as verbatim audio.
 
 Fresh education-source boundary: `SRC-1007/C-1007` — the South Thames Colleges Group Merton profile URL now returns an HTTP-200 anti-bot challenge rather than its substantive 2023 profile body. No new education evidence appeared; reopen only for a substantive replacement page, college archive/annual report, qualification record, or directly attributable former-student account.

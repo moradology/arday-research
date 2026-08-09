@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1009`: [CGHE Webinar 164 transcript PDF](assets/documents/cghe-webinar-164/transcript.pdf) and [extracted text](assets/documents/cghe-webinar-164/transcript.txt) — official linked artifact for the 3 November 2020 Arday/Dorling/Westwood webinar, but only a two-page Zoom chat log; no Arday speech or remarks appear.
+
 - `SRC-1008`: [Cumberland Lodge retrospective HTML](assets/captures/2022-01-05-cumberland-lodge-tokenism-retrospective/page.html) — 5 January 2022 host-written retrospective with attributed Arday remarks; distinct from the webinar audio/listing, not a transcript. Response headers remain local-only because they contain transient cookies.
 
 - `SRC-1007`: STCG Merton profile recheck — local-only HTTP-200 anti-bot challenge; no new image or biographical content. Response headers and challenge body are omitted from the public snapshot because they contain transient cookies.
