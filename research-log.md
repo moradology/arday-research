@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1104/C-1307–C-1310: 2021 race/educational-leadership editorial audit
+
+The 21-page accepted manuscript for the Maylor–Roberts–Linton–Arday special-issue editorial was audited with layout-preserving extraction and visual review. The audit records the paper’s CRT/counter-story and quantitative-method discussion, five stated aims, six-article structure, and non-empirical editorial boundary. It also preserves the accepted manuscript’s `Author XXXX` placeholders and distinguishes the published-version metadata from the manuscript. No original sample, interview corpus, coded dataset, or intervention evaluation was found in the reviewed file. This strengthens the output ontology without treating editorial summaries as independent findings.
+
 ## 2026-08-09 — SRC-1103/C-1303–C-1306: 2018 race/educational-leadership article audit
 
 The locally preserved 16-page accepted author manuscript for Arday’s 2018 *Management in Education* article was audited with layout-preserving text extraction and visual review of the title, abstract, methodology, findings, and conclusion pages. The audit binds the article’s disclosed design to three anonymized BME senior leaders from three UK higher-education institutions, collective-biographical reflections, three guiding questions, reported participant narratives, and the conclusion’s policy recommendations. It also records what the manuscript does not expose: named participants/institutions, raw interviews, coding materials, supplementary data, or an intervention evaluation. This is a primary-output audit, not a new publication node and not an independent verification of the article’s empirical claims.
