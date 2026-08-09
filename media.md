@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1008`: [Cumberland Lodge retrospective HTML](assets/captures/2022-01-05-cumberland-lodge-tokenism-retrospective/page.html) — 5 January 2022 host-written retrospective with attributed Arday remarks; distinct from the webinar audio/listing, not a transcript. Response headers remain local-only because they contain transient cookies.
+
 - `SRC-1007`: STCG Merton profile recheck — local-only HTTP-200 anti-bot challenge; no new image or biographical content. Response headers and challenge body are omitted from the public snapshot because they contain transient cookies.
 
 - `SRC-1006`: [ARU citation recheck HTML and headers](assets/captures/2026-08-09-aru-honorary-citation-recheck/) — raw page changed on 9 August 2026, normalized visible text identical to `SRC-089`; no new media artifact or biography evidence.

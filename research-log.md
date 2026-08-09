@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1008/C-1008: Cumberland Lodge retrospective adds attributed remarks
+
+Discovery: the Cumberland Lodge page “Tokenism: a barrier to inclusive diversity,” published 5 January 2022, was identified as a distinct host-written retrospective of the already-canonical 3 November 2021 webinar. Unlike the event listing, it attributes specific remarks to Arday and summarizes his positions on diversity, tolerance, tokenism, meritocracy, positive action, and inclusion.
+
+Decision: create `SRC-1008` as a distinct first-party retrospective related to `SRC-618`, not as a second webinar or transcript. Add one bounded public-position claim; do not promote the article’s summary into verbatim speech or independent policy evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1007/C-1007: STCG Merton profile changed-state recheck
 
 Discovery: a targeted South Thames Colleges Group search for `site:stcg.ac.uk "Jason Arday"` returned only the canonical former-Merton-student profile. A direct recheck of its URL returned HTTP 200, but the body was an anti-bot/cookie challenge rather than the substantive profile captured on 6 August.

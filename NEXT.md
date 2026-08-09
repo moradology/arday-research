@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh public-position source: `SRC-1008/C-1008` — Cumberland Lodge’s 5 January 2022 retrospective adds attributed Arday remarks to the existing “Beyond Tokenism” webinar record. Reopen only for the webinar transcript/video, a correction, or a changed host page; do not repeat the same retrospective fetch or treat it as verbatim audio.
+
 Fresh education-source boundary: `SRC-1007/C-1007` — the South Thames Colleges Group Merton profile URL now returns an HTTP-200 anti-bot challenge rather than its substantive 2023 profile body. No new education evidence appeared; reopen only for a substantive replacement page, college archive/annual report, qualification record, or directly attributable former-student account.
 
 Subject-centred priority: work outward from Arday’s own words, dated records naming him, and primary documents about his education, sports, appointments, publications, and controversy. Do not spend the next pass on additional catalogue manifestations unless they expose a distinct artifact or materially changed source state.
