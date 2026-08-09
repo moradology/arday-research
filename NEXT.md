@@ -1,6 +1,8 @@
 # Next actions
 
-Latest ontology-integrity checkpoint: all 760 source records and 785 registry rows have unique IDs and resolve to existing source paths. Eighty broken local Markdown links were repaired across the Arasite, 30-in-35, root-level index/record, and nested listening-notes records; no evidence content changed. A parser-aware scan of 8,016 local links now reports zero broken links. Reopen only when a new source record, missing asset, or link-integrity failure appears.
+Latest ontology-integrity checkpoint: all 760 source records and 793 registry rows have unique IDs and resolve to existing source paths. Eighty broken local Markdown links were repaired across the Arasite, 30-in-35, root-level index/record, and nested listening-notes records; no evidence content changed. A parser-aware scan of 8,016 local links now reports zero broken links. Reopen only when a new source record, missing asset, or link-integrity failure appears.
+
+Latest source-registry checkpoint: eight existing front-matter source IDs were added to the registry (`SRC-635`, `636`, `637`, `638`, `639`, `641`, `642`, `1088`). Thirty-three older registry IDs remain intentionally legacy: 14 root/asset records, 17 source files without front matter, and two retired alias IDs. Reopen only when adding a new source record or migrating legacy records; do not treat the legacy count as missing evidence.
 
 Latest workspace-artifact audit: candidate files were reconciled as one unrelated DOI, a zero-byte ITV response, a repeated OpenLearn Cloudflare challenge, a byte-identical UEL page, and duplicate Booktime product assets. No new Arday evidence was promoted. Reopen only for a real ITV document, lawful OpenLearn PDF, changed UEL page, or distinct Booktime magazine/interview artifact; do not repeat these captures unchanged.
 

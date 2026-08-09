@@ -6,6 +6,10 @@ The source graph was checked before continuing discovery: 760 source files carry
 
 The final parser-aware scan checked 8,016 local Markdown links and found zero broken local links. The simple regex checker’s remaining apparent Arasite failure was a false positive caused by a literal parenthesis in `More Z-M - summaries(1).txt`.
 
+## 2026-08-09 — Source-registry reconciliation
+
+The registry was compared against every `sources/*.md` front-matter ID. Eight existing source records (`SRC-635`, `SRC-636`, `SRC-637`, `SRC-638`, `SRC-639`, `SRC-641`, `SRC-642`, and `SRC-1088`) had no registry row; all eight were added. The remaining 33 registry IDs without a matching front-matter ID are retained as legacy topology: 14 point to root/asset records that predate source front matter, 17 point to older source files without front-matter IDs, and two (`SRC-873` and `SRC-882`) are retired alias IDs whose paths remain represented under later canonical IDs. No source file was rewritten and no claim was changed.
+
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 
 The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.
