@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred St Mary’s biography continuation: upgraded the locally preserved 46:15 Values Talk from Whisper `base.en` to corrected-mono five-minute-window `mlx-community/whisper-small.en-mlx`. The 384,307-byte JSON sharpens the existing `C-1277–C-1283` windows for delayed speech/literacy, claimed Loughborough scholarship and offers, university football roles, fatherhood/financial context, fundraising, and student-union positions. No claims were duplicated or upgraded; both derivatives remain navigation-only and human verification/independent records remain open.
+
 2026-08-09 — Subject-centred Warwick keynote continuation: upgraded the locally preserved 4 June 2026 University of Warwick MP4 from a `tiny.en` VTT to corrected-mono five-minute-window `mlx-community/whisper-small.en-mlx` navigation. The 425,900-byte JSON has 659 absolute-offset segments and sharpens the existing `C-1255–C-1262` windows without creating new claims. It remains machine-assisted; human listening, a lawful caption file, or a first-party transcript is still required for quotation.
 
 2026-08-09 — Subject-centred audiovisual audit: the locally preserved 40:37.146 LJMU/SoundCloud “Harvest for the World” MP3 was transcribed in corrected mono five-minute windows with `mlx-community/whisper-small.en-mlx`. Added `SRC-1143/C-1408–C-1410` for Arday-attributed PhD/Sandro Sandri self-report, agency/autonomy advice, and academic collectivism/community commentary. The JSON is navigation-only; human listening and a first-party transcript remain open.

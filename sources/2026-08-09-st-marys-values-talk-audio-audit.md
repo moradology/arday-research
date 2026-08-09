@@ -5,7 +5,7 @@ title: "St Mary's Values Talk — subject-centred audio audit"
 subject: ../entities/jason-arday.md
 published: 2020-11-19
 accessed: 2026-08-09
-status: local video and audio preserved; machine transcript generated; human verification pending
+status: local video and audio preserved; Whisper small.en navigation upgrade added; human verification pending
 evidence_class: first-party student-union event video with attributed first-person testimony and public positions; ASR navigation derivative
 urls:
   - https://www.stmaryssu.co.uk/valuestalks
@@ -13,11 +13,12 @@ urls:
 assets:
   - ../assets/captures/2026-08-07-st-marys-values-talks/jason-arday-values-talk-360p-progressive.mp4
   - ../assets/documents/st-marys-values-talk-2020-whisper-base-en.json
+  - ../assets/documents/st-marys-values-talk-2020-whisper-small-en.json
 ---
 
 # St Mary's Values Talk — audio audit
 
-The official 46:15 recording was transcribed with OpenAI Whisper `base.en` on the locally preserved 640×360 progressive MP4. This record supplies navigation and source-layer distinctions; it does not treat the machine transcript as a verified quotation. The official YouTube caption endpoint remains zero-byte, so the local Whisper JSON is explicitly a derivative rather than a replacement transcript.
+The official 46:15 recording was first transcribed with OpenAI Whisper `base.en` and was upgraded on 9 August 2026 with corrected-mono 16 kHz five-minute windows using `mlx-community/whisper-small.en-mlx`. These records supply navigation and source-layer distinctions; neither machine derivative is a verified quotation. The official YouTube caption endpoint remains zero-byte, so the local JSON files are explicitly derivatives rather than a replacement transcript.
 
 ## Subject-centred windows
 
@@ -37,6 +38,7 @@ The video is strong evidence that these statements were publicly attributed to A
 
 - [Progressive MP4](../assets/captures/2026-08-07-st-marys-values-talks/jason-arday-values-talk-360p-progressive.mp4) — SHA-256 `653afa99df4679eb493aac0cb391ecf8e8acf3bec2c4f6da010fab73239f193a`.
 - [Whisper JSON](../assets/documents/st-marys-values-talk-2020-whisper-base-en.json) — SHA-256 `616c68d4169c15a0fa5a71be44e25e8173a1db91738509cdb58a9aa4b7ff5f81`; machine-generated navigation derivative, not a verified transcript.
+- [Whisper `small.en` JSON](../assets/documents/st-marys-values-talk-2020-whisper-small-en.json) — 384,307 bytes; SHA-256 `e58d5fa3887bb7b23dec07375f6b6a0e8428bcb61cda48a4efbd2bf217d4ba2e`; corrected-mono five-minute-window navigation derivative, not a verified transcript.
 - [Canonical event record](2020-11-19-st-marys-values-talk.md) — page, metadata, streams, thumbnail, and failed official-caption response.
 
 Reopen for human listening, a corrected first-party transcript, a caption track, slides, or independent records for the admissions, football, family, and fundraising claims.

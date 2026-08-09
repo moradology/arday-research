@@ -21,6 +21,7 @@ assets:
   - ../assets/captures/2026-08-07-st-marys-values-talks/caption-url.txt
   - ../assets/captures/2026-08-07-st-marys-values-talks/captions.xml
   - ../assets/captures/2026-08-07-st-marys-values-talks/captions.headers.txt
+  - ../assets/documents/st-marys-values-talk-2020-whisper-small-en.json
 ---
 
 # St Mary's Students' Union — “Jason Arday - A St Mary's Values Talk”
@@ -39,3 +40,5 @@ The St Mary's Students' Union Values Talks page links an official-channel record
 ## Evidence boundary
 
 The host biography is institutional promotional copy and repeats fundraising and career claims already represented elsewhere; it is not an audited charity record or employment register. The high-quality adaptive streams are preserved separately because the attempted container merge was not reliable under the capture environment; a playable 640×360 progressive MP4 is also preserved. YouTube advertises an English auto-generated caption track, but the current timed-text response is zero-byte, so no transcript or timecoded quotation is claimed.
+
+The later bounded audit has been upgraded from `base.en` to corrected-mono `small.en` navigation; it does not change the event’s evidence class or convert the self-reports into independent records.
