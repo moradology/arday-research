@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 42743
+date: Sat, 08 Aug 2026 14:28:04 GMT
+last-modified: Sun, 08 Feb 2026 05:48:40 GMT
+etag: "1c2fdbcb2e5a61ef69ac635a7189a4ce"
+x-amz-server-side-encryption: AES256
+cache-control: max-age=31556926, public
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Hit from cloudfront
+via: 1.1 da92b92fa64883e21c6bcf07d52fa890.cloudfront.net (CloudFront)
+x-amz-cf-pop: DEN53-P5
+x-amz-cf-id: mRKbJtgS-24gMoU49CXxLulYjZ5jDZZ5NNZk9w73mN9w3urfcPFTag==
+age: 44394
+
