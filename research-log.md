@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-08 — SRC-890/C-897–C-898: memoir proposal version lead
+
+Discovery: a current Reddit post surfaced a *Daily Mail* report titled “Jason Arday claimed he survived ‘unrecoverable’ car accident, locked-in syndrome and testicular cancer in newly surfaced book proposal.” The Daily Mail page was directly retrievable and its article body reports alleged differences between a 2024 proposal and the final memoir. The proposal itself was not recovered.
+
+Capture: preserved the Daily Mail HTML and headers, 1200×675 lead image, and embedded 39-second commentary MP4. Reddit was browser-readable through the web research surface but returned HTTP 403 to direct shell/API retrieval; the blocked responses are preserved. The Daily Mail’s Atlantic reference was reconciled to canonical SRC-335.
+
+Classification: secondary source-version reporting and publisher commentary, not medical or autobiographical verification. Reopen only for the proposal/manuscript, a changed SRC-335 version, a correction, or direct author/publisher response. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-889/C-896: Companies House AP01 appointment filing
 
 Discovery: the Companies House filing-history search for Autism Centre of Excellence (company 12435820) exposed a distinct AP01 filing that was not represented by the annual-report or Charity Commission records.

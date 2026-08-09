@@ -1,4 +1,5 @@
 # Work state
+Latest memoir-version checkpoint: on 2026-08-08 `SRC-890/C-897–C-898` preserved the *Daily Mail* report and embedded commentary video alleging differences between a 2024 memoir proposal and the published memoir. The proposal itself was not recovered; its *Atlantic* reference was reconciled to canonical `SRC-335`. These are reported source-version discrepancies, not verified medical or autobiographical facts.
 
 Latest legal-governance checkpoint: on 2026-08-08 `SRC-889/C-896` captured the Companies House AP01 filing received 12 April 2024, which records Prof Jason Atta Kwei Arday’s director appointment at Autism Centre of Excellence on 30 March 2024 and his consent to act. This legally pins the filed appointment date but does not establish current service, operational activity, remuneration, or an end date. Google Drive was not updated; GitHub remains the active publication target.
 

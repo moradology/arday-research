@@ -1,4 +1,5 @@
 # Next actions
+Fresh memoir-version controversy checkpoint: `SRC-890/C-897–C-898` — *Daily Mail* reports alleged differences between a 2024 memoir proposal and the final *Great and Unfortunate Things*, including medical/trauma anecdotes and a Brazil prophecy; the article HTML, image, and embedded commentary MP4 are preserved. The proposal itself remains unrecovered; the referenced *Atlantic* feature is already canonical as `SRC-335`. Reopen only for the proposal, a changed Atlantic version, a correction, or a direct author/publisher response; do not treat the report as medical or autobiographical verification.
 
 Fresh legal-governance checkpoint: `SRC-889/C-896` — Companies House AP01 filing received 12 April 2024 records Prof Jason Atta Kwei Arday’s director appointment at Autism Centre of Excellence on 30 March 2024 and states that he consented to act. The filing PDF, extracted text, filing-history HTML, headers, and rendered first page are preserved. Reopen only for a changed filing history, a termination filing, or a later governance document; do not infer continued service from the absence of an end date.
 

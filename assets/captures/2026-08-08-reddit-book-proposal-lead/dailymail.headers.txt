@@ -1,0 +1,39 @@
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.dailymail.com/news/article-16036797/Jason-Arday-claimed-survived-unrecoverable-car-accident.html
+date: Sat, 08 Aug 2026 23:59:36 GMT
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=8000
+x-robots-tag: noarchive
+content-security-policy-report-only: block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly
+vary: User-Agent
+set-cookie: gab=ef8e00ddc690426bb96df218e1b281b3; path=/; domain=.www.dailymail.co.uk; Secure
+set-cookie: bm_s=YAAQIEjIFxl/X6+fAQAA4lzR4wUl60IhhUfGCJ4DUrKKR8OcDgkWlHj5KQwmPhEpdBnnhOVqiWEYWhn6ynSKCH/QnZN6XmsZoHxu0DorR6oQICJh6bdCNf0WfZnVBCBl5AfB5U7izuvchTPpNwrVMqVMnHiwg9E7ILM8E9ot9lhl4hbcOsPoBaAza/t1f7Wv2n4+4AiaaADuRoTjRw/it11bUnrbfiW8Vco80jbt5A9uYkFsPk2LXIryiuteZnNq85E58qq2z5+pF4oH9uONbSNZ+fhbW7ZivA3/fl0Typzlp14FTNNTWNR8GO2LeflkzpSC74RjoKk7XuLGI3vAWjgoSDL0tfPoIm579NjlJt0KyDikKuZGyvRrKSdDa7EESSdFILExMBojjhKTAgjeEzEGEof8a8YcMyt4ZGmck3zrCE5E8NQWwQqoPzH6rrWBA2WrqzHCSvTgbuBBSC93Rb7ItidbeKPikQMJ+xWXKiRiZZlji0OrPx1WT9RZ4AC4niHfZ+oSTo/xiSfnGxFcxZm076WXKOC/nbUkNEJBa55s93Uf+3XBSZD9t3IR8ulkWZn4UMcIFM9oaJV9z/p0XT2Pr0aCyxnRwKEA+8q1rn/4WUs=; Domain=.dailymail.co.uk; Path=/; Expires=Tue, 08 Sep 2026 23:59:36 GMT; Max-Age=2678400; Secure; HttpOnly
+set-cookie: bm_so=6FCB0EC4C615A3878038466E70A0B7D390D78D0F691140BC763C90831E5854C5~YAAQIEjIFxp/X6+fAQAA4lzR4wgCr4I/X8MwBTvr9R+SUK/NLvMkRbz1lMNbRJDGKa32oAeRp5y2imYBAKgQLdw8nyZrP4KKe+k2gAT/Hiou1e5ZDWxkpB3pyoc9lFDFW/GEkkcIJlp0F2CogO3qOBpmaCSatR5fOrqG+jtfYl0Tfjeb1HIxo2w+KvHbBD9BpKBSaYdRiknhJnFVbBhqgg3jCv1pqQkfz0FZYz7YXvNHkR1OCO8ocGsaJ5fXw3y0/xxfbyIXDbJlhu4FqYaiJ9FA3SK4EtwRnaxOMc+apVg6/KmbFnk8cMWNG+7QdrRmZvGh4QDohxSTpFmnn+N/S6mW/Lsi9KV5F2yV1heDWX/ORyBMr8iZmYGaiHgd0hrP9pmHh8mUs1HNLP31ZYg6fmcmnlf8M/nEpAbRLEbhNkMy/4N2QSM5oeK+pQLcLoGEODsmOMG7vY4QzJlcibsuoiT768Nd4k4X; Domain=.dailymail.co.uk; Path=/; Expires=Sun, 09 Aug 2026 23:59:36 GMT; Max-Age=86400; Secure
+server-timing: ak_p; desc="1786233568590_399001632_293794430_799824_18453_55_66_15";dur=1
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+set-cookie: gab=35f6a3a15fd54808b9006dda825dd5eb; path=/; domain=.www.dailymail.com; Secure
+edge-cache-tag: env|prod|article|16036797
+vary: User-Agent
+content-security-policy-report-only: block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly
+x-robots-tag: noarchive
+server-timing: origin; dur=0
+server-timing: edge; dur=9252
+server-timing: cdn-cache; desc=HIT
+x-mol-georesp: us
+x-rs-ben-time: Sat, 08 Aug 2026 23-46-15 GMT
+x-rs-time: Sat, 08 Aug 2026 23-46-15 GMT
+x-rs-ops: varnish6-web-a03-fe:6081
+x-rs-ben: cljfe-a5:8181
+x-storage: newarticles
+x-rs-ctime: 240
+x-akamai-transformed: 9 941856 0 pmb=mTOE,1mRUM,3
+cache-control: max-age=27
+date: Sat, 08 Aug 2026 23:59:46 GMT
+set-cookie: bm_s=YAAQEkjIF9zNSKWfAQAAj4TR4wUyJY219mAkSqeleogO7n0QeyLj5qYhv3tbhMiz4axo+9sTHDl8Nd5cOHFRbfSVV7ueXiHmq5zFo4GEMLVm59VJiklxVQfeSDS1XzTA2pzlYLMqI4jn/p0G9GJYxYjkU89sYq+gWyiz6L2vaxzcwqCczvxQdFKTSlyH4JrUyhOrfpNvJfzaV2WR59SdclCU0LjMKOOxnP7eTMKouYeF5hnKj1SiIY6glQDJbhAwej1dEk6Fv2IetRffRI69ustoo5vqKCdX6Jnz+EXzIP0/piOHj5hgh5tF2o0H+ynUboCLd8UnMDs1y/zwNNa5QgrlDOB39zzrw1/ZCnm2MX396WbZRwQSIUyMmc1Oo4B/WPh9mQkrBLb9WGl5nbq4ID+DwJ9T4Om7zzrCuif+NsY8Ck8924QT142K7dTQH8PKPDLwOBiT4N3aYSttGx+tyQXsrQq7HMcoPZF3UmUXNpeW5f8nJeYSMRK2bUgt0CBGRrH24SIEcnpNDetOnXoeLanvoM5zLY2rVcjaE5SgM3S1zaQ5YhJkFuOpTXIRfbndgrak1CaWO9jZeOBJ8tS9kIiYj39HxW7bt8eBEtUhq+eV; Domain=.dailymail.com; Path=/; Expires=Tue, 08 Sep 2026 23:59:46 GMT; Max-Age=2678400; Secure; HttpOnly
+set-cookie: bm_so=2A3432B37A9FB5E6D6F7748F17E73FAD7369F0C79194281D48D0516507F57FF4~YAAQEkjIF93NSKWfAQAAj4TR4wgncDZOMPLhcbYC0SAoTf1cYsfs3GbpIC9cNCHxSJFYfVj9uTHzrYdjU3tZHn4UwmbfIg9J44sza3L6hnjH3EGXliFQmPlhh78rACWWU6RAd3bLhFkaNdoZSzLu1C6ZO0YzPW2y63q4pq9c/an4/Q/z2r9F9dUjWh6qcs9QTwuawjoeYU0qeGs2cZqmtWxGQ5m3WNBVX2oN8EKbhlv13WZ5PuQ4p5i5uT7NT6pFuwH5zPH09dEtQfXLPjqO3LSDIRX2L21X9bOxOu/Z23fz0zF3HyXwl+IHw6lnwlYjLc4NRs3Qlf7Zb0RpgAo20+uE4pRBrdy+lDI6qpnQ2z6gyEtqNG5lzzRFQDZhMOc8TlzCt7iGcjIvxQtgUgA8TtMtSFr2IKmPK8w6HMY1xbEm11ibxicHTTASkdKAThPa5Ix0sadVrxwUET8ye6OWebwKDSdBNw==; Domain=.dailymail.com; Path=/; Expires=Sun, 09 Aug 2026 23:59:46 GMT; Max-Age=86400; Secure
+server-timing: ak_p; desc="1786233576921_399001618_265226978_925259_15509_51_90_15";dur=1
+

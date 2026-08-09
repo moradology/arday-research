@@ -26,6 +26,7 @@ The controversy is the mechanism through which otherwise separate records became
 | Childhood and disability narrative | [Childhood evidence map](../childhood-evidence.md), memoir and interview source family | Many repeated self-reports and source-version discrepancies; independent clinical, school, and civil records generally unavailable |
 | QUB co-authored-publication review | [QUB research-misconduct procedure](../sources/2021-10-qub-research-misconduct-regulations.md), [BBC report](../sources/2026-08-08-bbc-qub-arday-investigation.md) | QUB’s general procedure and the BBC-reported review status are documented; scope, investigator, stage, findings, and outcome remain unknown |
 | Formal honours/regulator trail | [Official ASA/Gazette search](../sources/2026-08-07-official-asa-gazette-searches.md) | Tested exact-name public databases returned no matching result; private correspondence and informal claims unresolved |
+| Memoir proposal and source-version discrepancies | [Atlantic feature](../sources/2026-08-06-atlantic-icarus-in-the-faculty-lounge.md), [Daily Mail proposal-version report](../sources/2026-08-07-dailymail-memoir-proposal-versions.md), [Simon & Schuster publisher page](../sources/2026-08-11-simon-schuster-great-and-unfortunate-things.md) | Two reported manifestations describe differences between an unpublished 2024 proposal and the final memoir; the proposal itself remains unavailable, so medical and autobiographical truth is unresolved |
 
 ## Public-salience chronology
 
@@ -44,6 +45,7 @@ The controversy is the mechanism through which otherwise separate records became
 | 2026-08-08 | A public r/sociology thread gathered conflicting anonymous reactions to Arday’s scholarship and repeated unverified methodological/fabrication allegations. | Public-reception/source-propagation evidence only; no consensus or adjudication |
 | 2026-08-08 | The locally preserved 2018 *Social Sciences* article was audited against the thread’s concrete methods lead: it reports 14 universities, 32 participants, two approximately three-hour focus groups, 32 interviews, and informed consent; no explicit ethics-approval wording was found in the audited text. | Primary-text/version evidence; bounded absence only, not proof of non-approval or fabrication |
 | 2026-08-08 | Retraction Watch’s current page recheck preserved the same 5 August article update but showed 93 comments, including newly loaded anonymous comments repeating or expanding biography, sports, fundraising, endurance, affiliation, and thesis-review allegations. | Volatile public-reception/source-propagation evidence only; comments are not named-source evidence or adjudication |
+| 2026-08-07–08 | *Daily Mail* published a version-comparison report alleging that a 2024 memoir proposal contained additional or differently timed medical, trauma, and prophecy anecdotes not present in the final memoir. | Secondary reporting; proposal not recovered and no independent medical verification |
 
 ## Amplification channels
 
