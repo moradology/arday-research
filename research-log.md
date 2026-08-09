@@ -4702,6 +4702,10 @@ The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum 
 The Wayback-recovered 11-page PDF of Arday’s 20 March 2021 BBC Radio 4 Lent Talk was audited by printed/page location. It adds bounded self-report on one-sided deafness, speech/literacy, football/snooker, endurance chronology, fundraising, the April 2019 Durham interview, and a statement that two benign brain tumours were diagnosed after the PhD. The latter materially conflicts with the Sanger interview’s account of a brain tumour removed two weeks before the viva and a post-viva stroke. Both source versions are preserved without medical inference or harmonization. Google Drive was not updated; GitHub remains the active publication target.
 # Research log
 
+## 2026-08-09 — Newcastle participant-witness lead: access boundary
+
+Two candidate LinkedIn URLs associated with a search-indexed Newcastle 14 October 2025 lecture participant were fetched as `teaganhd.html` and `umbereen-moir.html`. Both responses are byte-identical LinkedIn cache/login shells (SHA-256 `644031a68bde879af85bcc9cb3e6fa1e9a6b0f61d49307581974b5dbc09d3de8`); neither exposes the post text, author identity, event reference, image, audio, video, or document attachment. The response headers contain ordinary LinkedIn/Cloudflare cookies but no bearer token or API credential; they are not retained. No claim or source node is created. The Newcastle event remains supported by its institutional listing, Eventbrite registration, and AllEvents manifestation, with participant corroboration unresolved.
+
 ## 2026-08-09 — SRC-1096/C-1284–C-1287: fundraising chronology reconciliation
 
 The campaign-specific statement in the St Mary's Values Talk was compared with the canonical 2009 St Mary's alumni record, the 2010 JustGiving display, the contemporaneous *Tes* report, the archived 30-in-35 blog, the 2011 JustGiving retrospective, and the 2024 St Mary's/Anglia Ruskin institutional aggregates.
