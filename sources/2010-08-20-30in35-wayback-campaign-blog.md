@@ -20,7 +20,8 @@ id: SRC-377
   - `page-4.html` — 2010-08-25 snapshot of page 4, including the 9–10 August posts and marathon numbers 21–22
   - `page-4.headers.txt`
   - `cdx-2010-2011.json` and `cdx.headers.txt` — bounded Wayback CDX enumeration and response headers for the campaign domain
-  - `image-urls.txt` — extracted linked-image archive URLs
+- `image-urls.txt` — extracted linked-image archive URLs
+- Partial image recovery is recorded under [SRC-920](2026-08-09-30in35-image-recheck.md): three duplicated campaign-logo binaries were recovered on 9 August 2026, while the personal marathon photographs remained unavailable.
 
 Drive preservation: [source record](https://drive.google.com/file/d/1JyDTI8nS3vDQeJpBdrr4lvtLPLIPESAL/view), [home HTML](https://drive.google.com/file/d/1kdVOQK8eLDP_nzkGButNJAunga-rH1HJ/view), [home headers](https://drive.google.com/file/d/1tdfeEDpfh9ZcpDt0wTGl6lfrvAKurZK0/view), [page 4 HTML](https://drive.google.com/file/d/1AeRjdopjODgMEAqqs0rB1iPjormfze5y/view), [page 4 headers](https://drive.google.com/file/d/1UujEBnsls7LxrUTezB1OwmGLBk_2zi0_/view), [CDX enumeration](https://drive.google.com/file/d/1cES9jKX_bKe6G8XZOiGKpqeICbwgYhHY/view), [CDX headers](https://drive.google.com/file/d/12ERREn4Ss1fd3MnMVLXePSD2QC_BnnNl/view), and [embedded-image URL manifest](https://drive.google.com/file/d/1kz33Wj_zK_WgGMYb1dtyIYmT7K1Lv2sv/view).
 

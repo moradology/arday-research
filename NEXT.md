@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh 30 in 35 image checkpoint: `SRC-920/C-986` — three duplicated campaign-logo binaries were recovered from the Wayback image manifest; personal marathon photographs still return 404 or connection failures. Reopen only for a recoverable personal photograph, stable archived binary, or distinct public mirror; do not treat logos as portraits or completion evidence.
+
 Fresh Cambridge availability reversal: `SRC-919/C-985` — the canonical investigation-statement URL returned HTTP 404 on a later 9 August fetch after the same-day HTTP 200 capture. Reopen only through a changed official page, archived replay, formal outcome, or other primary institutional record; do not infer a finding from the route disappearance.
 
 Fresh memoir-reception checkpoint: `SRC-918/C-984` — StoryGraph indexing now reports 12 reviews, but the direct route returned a fresh Cloudflare challenge and no new review body or media was recovered. Reopen only for lawful review text, a materially changed page, or a distinct reception artifact; do not treat the review count as biographical corroboration.

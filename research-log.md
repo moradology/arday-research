@@ -4018,3 +4018,10 @@ Discovery: the canonical Cambridge investigation-statement URL was fetched again
 Capture: the later response returned HTTP 404 with a generic not-found shell, fresh response metadata, and no statement text or outcome. HTML and headers are preserved under `assets/captures/2026-08-09-cambridge-statement-recheck-404/`.
 
 Decision: added SRC-919/C-985 as a volatile missing-source state linked to SRC-912. The page’s disappearance is not interpreted as a finding, withdrawal rationale, or conclusion.
+## 2026-08-09 — SRC-920/C-986: 30 in 35 image partial recovery
+
+Discovery: the archived image URLs listed in SRC-377 were retried to pursue actual campaign binaries.
+
+Capture: three duplicated logo graphics were recovered from both Wayback snapshot timestamps; eight earlier personal-photo URLs returned 404 and five later-photo URLs returned connection failures. The binaries and their hashes are preserved under `assets/captures/2026-08-09-30in35-image-recheck/`.
+
+Decision: added SRC-920/C-986 as a partial recovery linked to the contemporaneous campaign blog. No portrait or marathon photograph was promoted, and no claim about completion or fundraising was upgraded.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest 30 in 35 media checkpoint: on 2026-08-09 `SRC-920/C-986` recovered three duplicated campaign-logo binaries from the archived image manifest; personal marathon photographs remained unavailable. No image or fundraising claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest Cambridge process checkpoint: on 2026-08-09 `SRC-919/C-985` preserved a later HTTP 404 response for the canonical investigation-statement URL after the same-day HTTP 200 capture. No statement text or outcome was available in the 404 response; page disappearance is not treated as adjudication. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-reception checkpoint: on 2026-08-09 `SRC-918/C-984` preserved a fresh StoryGraph Cloudflare challenge and recorded the indexed increase to 12 reader reviews. No new review body or media was recovered; reception remains separate from biography evidence. Google Drive was not updated; GitHub remains the active publication target.
