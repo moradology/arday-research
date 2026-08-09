@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly-index checkpoint: `SRC-895/C-979` — the 9 August ORCID/Crossref reconciliation returned only already-canonicalized works and duplicate manifestations; no new DOI, title, full text, or repository route was recovered. Reopen only after a changed identifier record, concrete DOI/title lead, distinct repository manifestation, or lawful full-text artifact; do not repeat these API queries unchanged.
+
 Fresh memoir-reception access checkpoint: `SRC-913/C-978` — Foyles’ direct reader-review route returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August; no new review text or media was recovered. Reopen only for a changed page, lawful review body, correction, or distinct edition artifact; do not repeat the same route unchanged.
 
 Fresh media-caption checkpoint: `SRC-276/C-977` — RSC YouTube timed-text routes for `JbyQlddjUJ8` again returned zero-byte `en`/`en-GB` responses on 9 August. Keep the local 13:24 MP4 as the canonical artifact; reopen only for a real caption body, transcript, or changed recording endpoint, and do not repeat these routes unchanged.

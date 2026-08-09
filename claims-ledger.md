@@ -964,3 +964,4 @@ For new claims, record:
 - status and confidence;
 - response or contradiction;
 - what evidence would resolve it.
+| C-979 | A 9 August 2026 ORCID public-API recheck returned 11 grouped works for `0000-0002-9822-1068`, and a Crossref Works query for `query.author=Jason Arday` returned 100 ranked records from 353,692 broad results; all exact-name matches reconciled to existing DOI/title records or duplicate manifestations, with no new publication candidate. | verified bibliographic-index search observation; completeness bounded by ORCID registration and Crossref ranking/API limits | [Post-checkpoint source boundary](sources/2026-08-09-post-checkpoint-source-boundary.md) | This closes the ORCID/Crossref route for the capture date. Reopen only after a changed identifier record, new DOI/title lead, full-text route, or distinct repository manifestation. |

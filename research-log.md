@@ -3969,3 +3969,10 @@ Search family: childhood, literacy, football, and snooker claims; professional b
 Searches for exact-name sports phrases, club references, and named childhood details returned the existing BBC/Lives Retold, Twinkl, News24, Bath correction, COXA, Lewisham, and Pitchero records. No new named professional club, contract, ranking, tournament result, or independent childhood record was located. The uncatalogued Amfo Talent booking profile was captured because it is a distinct public professional biography and image manifestation.
 
 The profile markets Arday as a Cambridge professor and speaker and repeats a broad set of academic, governance, and advisory affiliations, including several stale or contested present-tense labels. It is recorded as promotional propagation evidence; no role or biographical claim was upgraded. The 800×800 portrait is preserved with its displayed EXIF credit. Google Drive was not updated; GitHub remains the active publication target.
+## 2026-08-09 — SRC-895/C-979: ORCID/Crossref scholarly-output reconciliation
+
+Discovery: a fresh public ORCID works request and an exact-name Crossref Works query were used as a distinct scholarly discovery surface after the OpenAlex checkpoint.
+
+Result: ORCID returned the same 11 grouped works already indexed. Crossref returned 100 ranked records from 353,692 broad results; 46 contained an exact Jason Arday author match, and every DOI/title reconciled to an existing canonical output, duplicate chapter/book manifestation, or already captured OSF preprint version. No new full text or repository manifestation was recovered.
+
+Decision: added C-979 as a bounded negative-space checkpoint. Do not repeat these unchanged API queries; reopen for a changed ORCID record, new DOI/title, distinct repository route, or full-text artifact.
