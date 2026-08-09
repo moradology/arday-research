@@ -102,6 +102,22 @@ The opening of this interval contains a separate speaker’s bodybuilding/geneti
 
 The final minute was not claim-audited. E031 now has bounded navigation through approximately 59:15 of its 1:11:45.64 runtime; the remaining tail is open for a later pass.
 
+## Extended window: 60:00–65:00
+
+- **62:23–63:18** — Asked what role he would take in challenging racism, Arday says he has few “strings” but considers clarity and a good temperament to be strengths. He describes remaining collected and calm in the face of provocation as a way of disrupting expectations about Black men.
+- **63:18–64:58** — Arday says women of colour have historically done much of the “heavy lifting” against racism in institutions. He argues that Black men should engage more and recognize the forms of privilege and commodification that can attach to getting through academic, educational, fashion, sporting, or musical systems, rather than leaving women of colour to carry the burden.
+
+The earlier 60:00–62:23 discussion is mixed-speaker material and is not assigned to Arday. The recording tail after this window remains open.
+
+## Extended window: 65:00–71:37
+
+- **65:00–66:39** — Arday says rooms doing anti-racist work are often 70–80% women of colour on the front line, while “champagne moments” are predominantly white and Black men may be present. He says he would ask women of colour what support would be useful, and that when work succeeds, “we benefit massively.”
+- **66:03–66:39** — He says he is tired of always being on the front line and wants to do more behind-the-scenes work, using social capital acquired through institutions to elevate marginalized people. He refers to the “violence of whiteness” in institutions and policing. These are dated public-position statements and intentions, not evidence of completed interventions.
+- **67:25–69:30** — In a discussion of clothing, Arday says he loves tailoring and clothes and that he used to be able to make clothes. The remainder concerns academic dress, colour, socks, and footwear. This is a first-person interest/self-report.
+- **70:55–71:37** — The episode closes with sign-off and a reference to the Surviving Society bonus episode and BSA conference. No additional attributable biographical claim is retained.
+
+The recording is now navigated through its substantive close; the final 8–9 seconds are outro/silence. Human verification and a verbatim transcript remain open.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.

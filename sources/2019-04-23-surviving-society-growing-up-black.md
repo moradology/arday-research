@@ -5,7 +5,7 @@ title: "E031 Jason Arday: Growing up Black in the 90s"
 subject: ../entities/jason-arday.md
 published: 2019-04-23
 accessed: 2026-08-08
-status: verified SoundCloud episode / HLS AAC audio locally preserved
+status: verified SoundCloud episode / HLS AAC audio locally preserved / targeted ASR audit through substantive close
 evidence_class: first-party podcast-host page, SoundCloud metadata, recovered audio, local artwork
 ---
 
@@ -13,7 +13,7 @@ evidence_class: first-party podcast-host page, SoundCloud metadata, recovered au
 
 Surviving Society’s 23 April 2019 bonus episode “E031 Jason Arday: Growing up Black in the 90s” describes a conversation with Arday about growing up Black in 1990s Britain, popular culture, music, raving, gigging, and racism. SoundCloud metadata identifies the public track as 1:11:45.64 (with a full-duration value of 1:11:46.06) and marks it downloadable/streamable.
 
-This is a direct episode record and a useful first-person cultural/early-life lead. The SoundCloud page’s current hydration data exposes the track’s public HLS transcodings and a 4,305.636-second displayed duration (full-duration value 4,306.061 seconds). A local AAC HLS manifestation was recovered with yt-dlp; no transcript or timecoded content has yet been audited.
+This is a direct episode record and a useful first-person cultural/early-life lead. The SoundCloud page’s current hydration data exposes the track’s public HLS transcodings and a 4,305.636-second displayed duration (full-duration value 4,306.061 seconds). A local AAC HLS manifestation was recovered with yt-dlp. A targeted machine-assisted audit now navigates the recording through its substantive close under `SRC-1048`; it is not a human-verified transcript and does not independently corroborate the autobiographical claims.
 
 ## Local preservation
 
