@@ -2,7 +2,7 @@
 id: bio-jason-arday
 type: Biography
 subject: entities/jason-arday.md
-last_reviewed: 2026-08-08
+last_reviewed: 2026-08-09
 status: working-draft
 ---
 
@@ -11,6 +11,12 @@ status: working-draft
 This is a source-led biography. It keeps the narrative readable while marking which details are directly documented, self-reported, repeated by institutions, or still require corroboration.
 
 The forthcoming memoir also has a small but concrete public-library distribution trail: Markham Public Library’s catalogue captured the title as “On order,” Blackstone Library lists an unabridged library-CD audiobook read by Arday, and St. Catharines Public Library includes the book in a Spring–Summer 2026 adult nonfiction list. These records establish catalogue/acquisition and narration states, not readership, critical quality, or the truth of the memoir’s autobiographical claims. [Library-distribution records](sources/2026-08-09-markham-public-library-arday-memoir.md) · [audiobook catalogue](sources/2026-08-09-blackstone-library-arday-audiobook.md) · [SCPL list](sources/2026-08-09-scpl-arday-memoir-listing.md)
+
+## Subject-centred evidence summary
+
+The most defensible account of Arday at this stage is layered rather than singular. His public identity, appointments, publications, media appearances, and several community/club records are directly documentable. The childhood, disability, literacy, family, fundraising, and sports narratives are unusually rich but mostly come from Arday’s own interviews, memoir-related material, or institutional biographies repeating those accounts. Repetition increases the evidence that this is the biography he has publicly presented; it does not turn self-report into an independent medical, school, financial, or sporting record.
+
+The sports claims show why the archive preserves source versions instead of choosing the most dramatic wording. Contemporary and near-contemporary records place a Jason Arday in grassroots football settings, while the *Talking Matters* exchange names Crystal Palace but also says he did not become a professional footballer; the University of Bath subsequently corrected its stronger “professional” football and snooker-tour wording to semi-professional football and non-professional snooker. No public club contract, senior appearance, snooker ranking, tour record, or tournament result has yet been recovered. The current biography therefore describes substantial participation and ambition, not a settled professional career. [Sports claims ledger](claims-ledger.md#c-008) · [Bath correction](sources/2026-08-06-bath-interview-correction.md) · [sports search boundary](sources/2026-08-06-sports-record-search.md)
 
 
 

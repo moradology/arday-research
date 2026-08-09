@@ -59,6 +59,10 @@ The 1 October 2024 Proposed Roll of the Regent House lists “Arday, Jason Atta 
 
 `race-and-higher-education` · `neurodiversity` · `mental-health` · `decolonising-curriculum` · `social-mobility` · `intersectionality`
 
+## Subject-centred evidence posture
+
+The person record distinguishes independently documented roles and outputs from autobiographical claims repeated across institutional and media biographies. The delayed-speech/literacy, family, poverty, disability, fundraising, football, and snooker narratives are important parts of Arday’s public self-presentation, but are not silently upgraded through repetition. In particular, the sports record supports substantial football and snooker involvement while leaving professional status, named club history, rankings, contracts, and tournament results unresolved. See the [working biography](../biography.md#subject-centred-evidence-summary) and claims C-008, C-009, C-011, C-014, C-062, C-145, C-149, C-150, C-221, C-330, C-349, C-363, and C-421.
+
 ## Related records
 
 The memoir’s public-output topology includes library acquisition and distribution records: [Markham Public Library](../sources/2026-08-09-markham-public-library-arday-memoir.md), [Blackstone Library](../sources/2026-08-09-blackstone-library-arday-audiobook.md), and [St. Catharines Public Library](../sources/2026-08-09-scpl-arday-memoir-listing.md). These records concern access infrastructure, not the truth of the memoir’s autobiographical claims.
