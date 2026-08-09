@@ -14,7 +14,7 @@ urls:
 
 # Liverpool John Moores doctoral thesis
 
-The LJMU repository hosts a 2015 thesis by Jason A. K. Arday titled “An exploration of peer-mentoring among student teachers’ to inform reflective practice within action research.” The record identifies it as a PhD thesis submitted to Liverpool John Moores University.
+The LJMU repository hosts a 2015 thesis by Jason A. K. Arday titled “An exploration of peer-mentoring among student teachers’ to inform reflective practice within action research.” The record identifies it as a PhD thesis submitted to Liverpool John Moores University. Semantic Scholar supplies the DOI `10.24377/ljmu.t.00004552` as a bibliographic identifier for this same thesis; it is recorded as a manifestation edge, not as a second work.
 
 ## Evidence boundary
 

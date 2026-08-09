@@ -26,6 +26,14 @@ Capture: the author record displayed 58 works and 1,139 citations; the filtered 
 
 Decision: normalized comparison found no new DOI/title key. The two no-DOI records remain the already-canonical 2015 labour-market item and 2026 narrative-inquiry study. Added `SRC-1129/C-1389` as a changed negative-space index state; no publication or authorship claim was upgraded.
 
+## 2026-08-09 — SRC-1130/C-1390: Semantic Scholar author reconciliation
+
+Discovery: Semantic Scholar’s exact-name author search returned four profiles named Jason Arday. The principal profile lists 30 papers; three fragmented profiles list one, one, and five papers.
+
+Capture: the profile/paper JSON preserves the four author IDs, reported counts, and paper-level DOI/title/year metadata. The lists mostly map to existing canonical works, but expose DOI `10.24377/ljmu.t.00004552` for the 2015 LJMU thesis.
+
+Decision: added `SRC-1130/C-1390` and linked the DOI to the existing thesis record. The four profiles are treated as index fragmentation, not four distinct people; no Semantic Scholar count or attribution was upgraded to verified authorship.
+
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 
 The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.

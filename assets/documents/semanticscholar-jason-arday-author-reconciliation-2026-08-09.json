@@ -1,0 +1,25 @@
+{
+  "retrieved": "2026-08-09",
+  "source": "Semantic Scholar Graph API",
+  "author_search": {
+    "query": "Jason Arday",
+    "total": 4,
+    "profiles": [
+      {"authorId": "118040777", "name": "Jason Arday", "paperCount": 30, "citationCount": 728, "hIndex": 12},
+      {"authorId": "2273134908", "name": "Jason Arday", "paperCount": 1, "citationCount": 0, "hIndex": 0},
+      {"authorId": "2270388304", "name": "Jason Arday", "paperCount": 1, "citationCount": 5, "hIndex": 1},
+      {"authorId": "2288194599", "name": "Jason Arday", "paperCount": 5, "citationCount": 13, "hIndex": 2}
+    ]
+  },
+  "paper_reconciliation": {
+    "paper_counts_by_profile": {"118040777": 30, "2273134908": 1, "2270388304": 1, "2288194599": 5},
+    "new_identifier_edge": {
+      "doi": "10.24377/ljmu.t.00004552",
+      "title": "An exploration of peer-mentoring among student teachers to inform reflective practice within the context of action research",
+      "year": 2015,
+      "canonical_target": "sources/2015-ljmu-phd-thesis.md"
+    },
+    "other_records": "The remaining returned DOI/title keys reconcile to existing canonical works, editions, corrections, or chapters in the archive."
+  },
+  "note": "This is a manually normalized derivative of the successful 9 August API observations; it is not a complete raw API dump. Counts and profile linkage are volatile index metadata."
+}
