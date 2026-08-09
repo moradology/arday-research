@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [Taylor & Francis correction access recheck](sources/2026-08-09-educational-philosophy-correction-recheck.md) — byte-distinct 9 August 2026 Cloudflare challenge for the canonical correction PDF route; no new correction text recovered.
+
 - [Wellcome Sanger Institute Sanger Excellence Fellowship](sources/2026-08-09-sanger-excellence-fellowship.md) — current programme page lists Arday on the Advisory Group and uses “Professor of Sociology, University of Glasgow” wording; page and headers preserved.
 
 - [Cambridge Faculty staff-contact route boundary](sources/2026-08-09-cambridge-staff-contact-list.md) — indexed Arday-associated route returned HTTP 404 on direct capture; generic page-not-found state preserved without inferring absence or resignation.

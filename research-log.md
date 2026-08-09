@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-911/C-972: Taylor & Francis correction access recheck
+
+Discovery: the publisher PDF route for the already-canonical correction to *Attempting to break the chain* appeared in a scholarly search result with indexed correction text, but a fresh direct request returned HTTP 403 Cloudflare challenge HTML rather than a PDF. The 5,542-byte body and headers are preserved.
+
+Decision: register SRC-911 as a changed access-state manifestation deduplicated to SRC-297. The body is byte-distinct from the 8 August challenge, so the retrieval history is retained; no new correction text, retraction, or integrity finding is claimed. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-910/C-971: Sanger Excellence Fellowship Advisory Group
 
 Discovery: a current Wellcome Sanger Institute programme page identifies Jason Arday in the Advisory Group for the Sanger Excellence Fellowship and labels him “Professor of Sociology, University of Glasgow.” The direct page returned HTTP 200 and its HTML/headers were preserved.

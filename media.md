@@ -1,5 +1,7 @@
 # Media index
 
+- [Taylor & Francis correction-route challenge HTML](assets/captures/2026-08-09-educational-philosophy-correction-recheck/challenge.html) and [headers](assets/captures/2026-08-09-educational-philosophy-correction-recheck/challenge.headers.txt) — 9 August 2026 HTTP 403 response for the canonical correction PDF route; byte-distinct from the 8 August challenge, no correction PDF recovered; SRC-911/C-972.
+
 - [Sanger Excellence Fellowship programme HTML](assets/captures/2026-08-09-sanger-excellence-fellowship/page.html) and [headers](assets/captures/2026-08-09-sanger-excellence-fellowship/page.headers.txt) — current Wellcome Sanger Institute page lists Arday on the Advisory Group and uses Glasgow title wording; SRC-910/C-971. No separate programme report or meeting artifact recovered.
 
 - [Cambridge Faculty staff-contact route HTML](assets/captures/2026-08-09-cambridge-staff-contact-list/page.html) and [headers](assets/captures/2026-08-09-cambridge-staff-contact-list/page.headers.txt) — indexed route returned HTTP 404 on 9 August 2026; generic page-not-found state preserved; no live staff entry or personal contact details added; SRC-909/C-970.

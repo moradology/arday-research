@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh scholarly access checkpoint: `SRC-911/C-972` — the Taylor & Francis PDF route for the canonical correction to *Attempting to break the chain* returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August 2026. No correction PDF or new text was recovered. Reopen only for a lawful full correction PDF/HTML, changed publisher endpoint, formal journal correction/retraction state, or institutional outcome; do not repeat the same request unchanged.
+
 Fresh programme-advisory checkpoint: `SRC-910/C-971` — the Wellcome Sanger Institute’s Sanger Excellence Fellowship page lists “Prof Jason Arday, Professor of Sociology, University of Glasgow” on its Advisory Group. Reopen only for the programme’s dated advisory roster, meeting/report artifact, changed page, or a direct Glasgow employment record; do not infer advisory terms, participation, or current Glasgow employment from the page wording.
 
 Fresh Cambridge endpoint boundary: `SRC-909/C-970` — the indexed Faculty of Education “Faculty Staff Contact List” route returned HTTP 404 on direct capture; no live Arday entry, role, or contact record was recovered. Reopen only for a lawful archived replay, a stable replacement endpoint, a directly rendered entry, or a formal Cambridge process record; do not treat the 404 as evidence of absence or resignation.
