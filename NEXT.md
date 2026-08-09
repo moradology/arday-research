@@ -1,7 +1,5 @@
 # Next actions
 
-Fresh international-event checkpoint: `SRC-1087/C-1252–C-1254` — the African Allied Health Network names Arday as a 2026 keynote speaker and preserves a dedicated event image, but the detailed schedule, event date, delivery, recording, and remarks remain unresolved. Reopen only for a post-event artifact, detailed agenda, or changed organizer page; do not treat the host’s present-tense Cambridge wording as current appointment evidence.
-
 Fresh caption-audit checkpoint: `SRC-1086/C-1247–C-1251` — bounded windows from the recovered Cambridge Festival video now isolate Arday-attributed first-person/public-position material while excluding the host biography as independent evidence. Reopen for human listening, verified transcript wording, speaker-boundary checks, or Cambridge 105 audio; do not quote the automatic captions or repeat the event search.
 
 Fresh binary-recovery checkpoint: `SRC-062/C-1245–C-1246` — Cambridge Festival’s official 27 March 2024 “Race and society” YouTube recording is now locally preserved as a 1:37:40 MP4 with an English automatic-caption VTT. Reopen for human transcript verification, speaker/timecode claim extraction, corrected captions, or a distinct Cambridge 105 audio recovery; do not quote the automatic captions as settled speech.

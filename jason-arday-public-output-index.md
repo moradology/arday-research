@@ -2,8 +2,6 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
-- [African Allied Health Summit 2026 speaker listing](sources/2026-08-09-african-allied-health-summit-arday.md) — official organizer page names Arday as a keynote speaker and preserves a dedicated image; event delivery, date, recording, and remarks remain unresolved.
-
 - [Cambridge Festival video caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) — bounded, subject-centred timecode navigation for Arday’s first-person/public-position passages in the recovered [official recording](https://www.youtube.com/watch?v=BAFwM8mIKPk); automatic captions remain unverified.
 
 - [Cambridge Festival “Race & Society” recording](sources/2024-03-27-cambridge-festival-race-society-radio.md) — official [YouTube video](https://www.youtube.com/watch?v=BAFwM8mIKPk) recovered locally with automatic English captions; speaker-level transcript verification remains open.
