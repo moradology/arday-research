@@ -1,0 +1,20 @@
+HTTP/2 403 
+date: Sun, 09 Aug 2026 01:49:22 GMT
+content-type: text/html; charset=UTF-8
+content-length: 215038
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cf-mitigated: challenge
+x-frame-options: SAMEORIGIN
+server: cloudflare
+critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cross-origin-embedder-policy: require-corp
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+origin-agent-cluster: ?1
+permissions-policy: accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*
+referrer-policy: same-origin
+server-timing: chlray;desc="a2831a96ba8efa21"
+x-content-type-options: nosniff
+set-cookie: __cf_bm=Rztr2ZFrI_CJqZVRcKeyMK.6sK3sc.eynvG__.flGm0-1786240162.3556457-1.0.1.1-E0BwuEWhNFechbY6hwORCvi232OlqC3deTCx5o_sfEKyfSY.ENV48fUYGHd6ZDNp0zQh4kUs0zpFcDUAti4l0sBleSBPiahwdEnBCmYLQnbo3GxquNxNx5lGZMPdxXO1; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.foyles.co.uk; Expires=Sun, 09 Aug 2026 02:19:22 GMT
+cf-ray: a2831a96ba8efa21-ORD
+

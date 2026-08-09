@@ -1,5 +1,7 @@
 # Work state
 
+Latest memoir-reception access checkpoint: on 2026-08-09 `SRC-913/C-978` preserved a fresh Foyles HTTP 403 Cloudflare challenge for the memoir reader-reviews route. The body is byte-distinct from the prior state; no new review text or media was recovered, and reception remains separate from biography evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media-caption checkpoint: on 2026-08-09 `SRC-276/C-977` rechecked the public YouTube timed-text routes for the RSC Inclusion and Diversity Forum 2025 recording. Both tested language routes returned zero bytes; no transcript was recovered, and the existing 13:24 MP4 remains the canonical local media artifact. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest adjacent-endpoint boundary: on 2026-08-09 `SRC-895/C-976` checked Cambridge appointment/tenure and Faculty “Our People” routes, Jesus College, and Charity Commission results. All resolved to existing records or generic material; no new official process, filing, or role-status artifact was recovered. Google Drive was not updated; GitHub remains the active publication target.

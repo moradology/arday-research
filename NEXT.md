@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-reception access checkpoint: `SRC-913/C-978` — Foyles’ direct reader-review route returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August; no new review text or media was recovered. Reopen only for a changed page, lawful review body, correction, or distinct edition artifact; do not repeat the same route unchanged.
+
 Fresh media-caption checkpoint: `SRC-276/C-977` — RSC YouTube timed-text routes for `JbyQlddjUJ8` again returned zero-byte `en`/`en-GB` responses on 9 August. Keep the local 13:24 MP4 as the canonical artifact; reopen only for a real caption body, transcript, or changed recording endpoint, and do not repeat these routes unchanged.
 
 Fresh adjacent-endpoint boundary: `SRC-895/C-976` — Cambridge appointment/tenure, Jesus College, Charity Commission, and Faculty “Our People” searches on 9 August returned only existing records or generic material; the page-1 body matched SRC-459 exactly and still had no Arday entry. Reopen only for a concrete new official process document, filing, named role record, or changed page body; do not repeat these queries unchanged.

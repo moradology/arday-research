@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-913/C-978: Foyles memoir-reviews access recheck
+
+Discovery: the direct Foyles reader-reviews route returned HTTP 403 with a 215,038-byte Cloudflare challenge, byte-distinct from the prior 8 August challenge. Indexed review text was not newly recovered and no book/audio file was exposed.
+
+Decision: register SRC-913 as a changed access-state manifestation deduplicated to SRC-437. Preserve the reviews as reception topology only; no autobiographical claim is upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-276/C-977: RSC caption-route recheck
 
 Discovery: direct public timed-text requests for the RSC Inclusion and Diversity Forum 2025 YouTube recording (`JbyQlddjUJ8`) returned zero-byte responses for `en` and `en-GB`, matching the previously preserved empty-caption response.
