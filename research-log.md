@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1108/C-1328–C-1333: *Fighting the tide* editorial audit
+
+The complete nine-page PESA Agora manifestation of Arday’s DOI-identified article was extracted with layout preservation and visually checked at the metadata, opening, micro-aggressions, conclusion, contributor/funding, terminology-note, and references pages. The audit confirms the explicit “EDITORIAL” classification, maps its literature/cited-statistics argument and recommendations, and preserves the dated biography/funding and BAME terminology boundaries. No original sample, dataset, interview material, statistical reanalysis, or intervention evaluation was found. Decision: retain SRC-044/SRC-471 as the canonical publication/manifestation family and add no duplicate article node.
+
 ## 2026-08-09 — SRC-1107/C-1322–C-1327: UCU BME doctoral-student report audit
 
 The 13-page public mirror of Arday’s June 2017 UCU report was extracted with layout preservation and visually checked at the executive summary, methods/sample, theme, conclusion, and reference pages. The audit binds the disclosed 20-student/16-university qualitative design to its sample table, reported career appetite, mentoring/isolation/typecasting/teaching themes, recommendations, and explicit non-generalisability statement. It also preserves the 13-page mirror versus 11-page UCU-hosted manifestation boundary and records the absence of raw questionnaires, transcripts, coding, ethics, recruitment, and participant-level data. Decision: retain the existing report/DOI family and add no duplicate report node.
