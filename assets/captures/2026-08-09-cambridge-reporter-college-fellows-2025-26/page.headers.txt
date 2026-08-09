@@ -1,0 +1,7 @@
+HTTP/2 200 
+server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_ucam_webauth/2.0.5
+content-type: text/html; charset=UTF-8
+date: Sun, 09 Aug 2026 03:03:03 GMT
+accept-ranges: bytes
+content-length: 2084716
+

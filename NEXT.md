@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Cambridge institutional-output checkpoint: `SRC-933/C-1000` and `SRC-934/C-999` — a 14 April 2026 Black Advisory Hub page names Arday as an anti-racism symposium workshop leader, while the 19 January 2026 University Reporter lists him among Jesus College’s 2023 fellows. Reopen only for the symposium’s event report/recording, a later Reporter issue, or a role-specific status document; do not infer delivery, current employment, or investigation outcome from these listings alone.
+
 Fresh memoir-retailer boundary: `SRC-932/C-998` — Norli indexing exposes ISBN 9781398542747 / the 336-page UK edition, but the direct product page returned HTTP 403 with no product HTML, cover, price, stock state, or excerpt. Reopen only for a changed page, lawful product image/excerpt, or distinct ISBN/format; do not repeat the same request unchanged.
 
 Fresh 30 in 35 archive-recovery checkpoint: `SRC-931/C-997` — six additional Wayback pages now preserve marathon 3–30 reports, stated times, interim fundraising totals, final-run logistics, and a campaign-side “Marathon 30” completion statement. This strengthens contemporaneous completion representation but does not replace an independent race log or charity audit. Reopen only for a stable archived page/binary, charity receipt, timing record, or distinct first-party post-event artifact; do not repeat the same six Wayback URLs unchanged.

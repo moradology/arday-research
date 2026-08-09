@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-933/C-1000 and SRC-934/C-999: current Cambridge institutional records
+
+Discovery: a current search of Cambridge’s official domains surfaced two distinct records not represented by the prior profile/statement captures. The Black Advisory Hub’s 14 April 2026 symposium page names Professor Jason Arday as a practitioner-workshop leader. The Cambridge University Reporter’s 2025–26 college-fellows roster, dated 19 January 2026, lists “Arday Jason phd frsa” among Jesus College’s 2023 fellows.
+
+Decision: register both as first-party institutional witnesses, keeping the event listing separate from the governance roster. They support dated public association with Cambridge professional and college activity, but do not establish event delivery, fellowship terms, current employment, or an investigation outcome. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-932/C-998: Norli memoir-edition access boundary
 
 Discovery: search indexing surfaced a Norli bookseller listing for *Great and Unfortunate Things* under ISBN 9781398542747, matching the distinct 336-page UK edition captured as `SRC-930`. The indexed result exposes catalog-level title, author, format/date, and synopsis snippets.
