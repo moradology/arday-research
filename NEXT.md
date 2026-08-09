@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh caption-audit checkpoint: `SRC-1086/C-1247–C-1251` — bounded windows from the recovered Cambridge Festival video now isolate Arday-attributed first-person/public-position material while excluding the host biography as independent evidence. Reopen for human listening, verified transcript wording, speaker-boundary checks, or Cambridge 105 audio; do not quote the automatic captions or repeat the event search.
+
 Fresh binary-recovery checkpoint: `SRC-062/C-1245–C-1246` — Cambridge Festival’s official 27 March 2024 “Race and society” YouTube recording is now locally preserved as a 1:37:40 MP4 with an English automatic-caption VTT. Reopen for human transcript verification, speaker/timecode claim extraction, corrected captions, or a distinct Cambridge 105 audio recovery; do not quote the automatic captions as settled speech.
 
 Fresh media-recovery checkpoint: `SRC-1085/C-1244` — the linked Eventbrite manifestation yielded a 1280×720 promotional JPEG, now preserved under the canonical Liverpool “Even Flow” keynote record. Reopen only for a recording, transcript, slides, attendee/reporting artifact, or Arday-specific image; do not treat the promotional image as delivery or participation evidence.

@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1086`: [Cambridge Festival caption audit](sources/2026-08-09-cambridge-festival-video-caption-audit.md) and [English automatic-caption VTT](assets/videos/cambridge-festival-race-and-society-2024/race-and-society.en.vtt) — timecoded navigation for Arday-attributed windows in the locally preserved [official 1:37:40 MP4](sources/2024-03-27-cambridge-festival-race-society-radio.md); captions are not a verified transcript.
+
 - `SRC-1085`: [University of Liverpool keynote page](assets/captures/2023-03-10-liverpool-neurodiversity/page.html), [Neurodiversity Celebration Week image](assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg), and [Eventbrite promotional image](assets/captures/2023-03-10-liverpool-neurodiversity/eventbrite-primary.jpg) — dated event listing and promotional media; no recording, transcript, slides, or Arday portrait recovered.
 
 - `SRC-1084`: [University of Liverpool article](assets/captures/2023-10-12-liverpool-race-equity/page.html) and [photograph of Arday and Carl Larsen](assets/captures/2023-10-12-liverpool-race-equity/Prof-Jason-Arday-and-Carl-Larsen.jpg) — first-party institutional activity record; no exhibit catalogue, bootcamp evaluation, video, or participant register recovered.
