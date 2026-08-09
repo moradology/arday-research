@@ -37,6 +37,13 @@ The episode’s wider themes include music, raving, gigging, racism, and the soc
 
 The 10:00–15:00 window also contains a co-host’s separate account of childhood racialization; it is excluded from Arday’s claims here.
 
+## Extended window: 15:00–20:00
+
+- **15:57–16:06** — In discussing his relationship to Oasis and 1990s popular culture, Arday says the first album he bought was *Definitely Maybe*, when he was about 13. This is a first-person memory; the album title and age are machine-assisted.
+- **18:38–19:48** — Arday explicitly invokes Stuart Hall’s cultural analysis and argues that culture matters to politics and interpersonal life because it shows how society is working—or failing to work. He then worries that elevating culture can emphasize difference and make solidarity harder to find. This is a dated public-position statement, not a biographical fact.
+
+The remainder of the episode is not yet audited at claim level.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
