@@ -5,7 +5,7 @@ title: "From Autistic Child to University Youngest Professor: Jason Arday [In En
 subject: ../entities/jason-arday.md
 published: 2025-02-04
 accessed: 2026-08-06
-status: official Diversity Seminar YouTube recording and captions locally preserved
+status: official Diversity Seminar YouTube recording and captions locally preserved; bounded childhood caption audit added
 evidence_class: interviewer-hosted video; first-person interview testimony; automatic caption derivative
 urls:
   - https://www.youtube.com/watch?v=zxbJJ97BeEs
@@ -17,7 +17,7 @@ The Diversity Seminar published a 59:44 interview with Arday on 4 February 2025.
 
 ## Childhood and education passage
 
-In the 05:10–08:30 personal-story segment, Arday says he was diagnosed with autism (captioned with the historical term “Asperger syndrome”) and global developmental delay at three; says he could not speak until 11; says he learned to read and write at 18; and credits his college tutor Sandro with helping propel his learning. He frames the absence of speech as allowing him to observe human interaction and explicitly credits his mother. These are first-person interview statements, not independent clinical, school, or examination records. The machine captions contain transcription errors, including the spelling of Sandro’s name, so the MP4 must be checked before quotation.
+In the 05:10–08:30 personal-story segment, Arday says he was diagnosed with autism (captioned with the historical term “Asperger syndrome”) and global developmental delay at three; says he could not speak until 11; says he learned to read and write at 18; and credits his college tutor Sandro with helping propel his learning. He frames the absence of speech as allowing him to observe human interaction and explicitly credits his mother. These are first-person interview statements, not independent clinical, school, or examination records. The machine captions contain transcription errors, including the spelling of Sandro’s name, so the MP4 must be checked before quotation. A bounded audit is now preserved under [SRC-1050](2026-08-09-diversity-seminar-childhood-caption-audit.md).
 
 ## Local preservation
 

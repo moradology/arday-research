@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1050/C-1080–C-1083: Diversity Seminar childhood-caption audit
+
+The locally preserved 4 February 2025 Diversity Seminar interview was checked against its automatic English SRT for the 05:10–08:55 personal-story passage. Arday gives the “3, 11, 18 and 37” sequence, describes diagnosis/global developmental delay, speech and literacy timing, credits his mother and college tutor Sandro Sandri, and gives a dated Glasgow-at-35/Cambridge-at-37 professorship chronology. The passage is a distinct first-person source-version that materially links the recurring childhood narrative to his own interpretation of observation, learning, and mentorship. Captions contain recognition errors and remain unverified against the waveform; no clinical, school, or appointment claim is independently upgraded. The source is deduplicated to SRC-241.
+
 ## 2026-08-09 — SRC-1049/C-1076–C-1079: Cambridge panel childhood-caption audit
 
 The locally preserved Cambridge “Black Men On The Couch” recording was checked against its automatic English VTT for a bounded Arday passage. Between approximately 01:16:24 and 01:20:30, the captions attribute to Arday his age-three diagnosis of global developmental delay and autism, non-speaking until age eleven, and a description of observing the world before speech rather than having ordinary internal dialogue. An earlier passage records his self-description of nighttime stillness and insomnia. These claims are useful subject-centred biography evidence, but the VTT is an imperfect automatic caption track and has not been human-verified against the waveform; no clinical or developmental fact is upgraded from it. The material is deduplicated to SRC-263, with SRC-1049 providing the bounded audit.
