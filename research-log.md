@@ -1,5 +1,10 @@
 # Research log
 
+## 2026-08-09 — SRC-938/C-1004: NetGalley catalog recheck
+
+Discovery: direct HTTP-200 rechecks of NetGalley’s US (`783642`) and UK/Australia (`860927`) memoir catalog pages recovered current edition/access metadata. The US page reports an average rating from 98 members; the UK/Australia page reports one member. Both retain the sign-in requirement for request/access and expose no review-copy file.
+
+Decision: register `SRC-938` as a changed source-version of `SRC-337`, preserving the catalog rating state and edition topology without creating a new edition or review node. Cookie values in the response headers were redacted before publication. Google Drive was not updated; GitHub remains the active publication target.
 ## 2026-08-09 — SRC-937/C-1003: second StoryGraph access recheck
 
 Discovery: a second direct request to the canonical StoryGraph review route returned HTTP 403 with a Cloudflare challenge at 03:19:54 UTC. The challenge is byte-distinct from `SRC-918`; public indexing continued to report 12 reviews and snippets, but no review body, image, audio, or book file was recovered.

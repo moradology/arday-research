@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh NetGalley catalog checkpoint: `SRC-938/C-1004` — current US/UK pages remain HTTP 200 but sign-in-gated; rating metadata changed to 98 US members and one UK/Australia member. No review copy was downloaded. Reopen only for a lawful public catalog revision, a distinct edition, or a provenance-bearing public review; do not bypass access controls or treat ratings/descriptions as corroboration.
+
 Fresh StoryGraph access-boundary checkpoint: `SRC-937/C-1003` — a second 9 August direct request returned a byte-distinct HTTP 403 Cloudflare challenge while indexing continued to report 12 reviews. No review body or media was recovered; this is deduplicated to `SRC-918`. Reopen only for lawful review text, a materially changed page, or a distinct edition/reception artifact; do not repeat the same route unchanged.
 
 Fresh secondary-source lineage checkpoint: `SRC-936/C-1002` — *The Week*’s 7 August 2026 roundup attributes its account to five named publications and adds no independent adjudication. Follow each material proposition to the named source or primary record; reopen only for a cited source not already represented, a correction, or a changed article.

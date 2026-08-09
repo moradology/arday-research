@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+content-length: 84225
+date: Sun, 09 Aug 2026 03:21:26 GMT
+apigw-requestid: B0LIiijqIAMEYlw=
+strict-transport-security: max-age=31536000;
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+expires: Sun, 09 Aug 2026 03:21:26 GMT
+cache-control: max-age=0, must-revalidate, private
+set-cookie: NGSESSID=[REDACTED]; path=/; domain=netgalley.com; httponly; samesite=lax
+x-cache: Miss from cloudfront
+via: 1.1 8df77e01b229d5d8502d6471c086aeb2.cloudfront.net (CloudFront)
+x-amz-cf-pop: DEN53-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: PxLd9rRH5ZevtVYj7iR5QEz5SjlofUrJfR4EtMCjWKpqeXeJMlVo1Q==
+
