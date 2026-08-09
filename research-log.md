@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1055/C-1095–C-1098: Oxford Challenges & Changes caption audit
+
+The locally preserved 25 March 2021 Oxford Physics recording was checked against its automatic English SRT for Arday-attributed passages. He names the Leading Routes collaborators behind the *Broken Pipeline* work, describes presenting it to the Office for Students, presents doctoral-funding and Russell Group pay figures, and states that lived accounts of racism should not be neutralized merely because they are not statistical. The funding figures are preserved as a talk-version alongside the separate 2019 report, whose denominators differ; no figures, OfS response, or BBC-study method are upgraded without the underlying records. Captions remain unverified against the waveform.
+
 ## 2026-08-09 — SRC-1054/C-1091–C-1094: Cambridge Neurodiversity Week caption audit
 
 The locally preserved 22 March 2024 Cambridge film was checked against its automatic English SRT. The bounded passage adds Arday’s fluid, experience-sensitive framing of neurodiversity; a retrospective account linking inclusive-curriculum work to school ostracization and opposition to one-size-fits-all pedagogy; a description of his collaboration with Chantelle Lewis on love, compassion, and empathy in learning spaces; and a dated observation of Cambridge interventions for neurodivergent learners. These are distinct professional/public-position details, not new childhood or clinical evidence. Captions remain unverified against the waveform.

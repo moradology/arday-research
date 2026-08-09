@@ -26,4 +26,4 @@ This is a distinct Oxford-hosted recording, not the separately captured Oxford/K
 - [yt-dlp metadata](../assets/documents/oxford-challenges-changes-jason-arday-2021-ytdlp.json) — SHA-256 `52f8757640932f37e0ed02423b7e3ade6019fa103108dd78848c58d3c4161e29`
 - [Headers](../assets/documents/oxford-challenges-changes-jason-arday-2021-headers.txt) — SHA-256 `ea7b26a235088f381fdf34adeb363ac18c2fa1dc061bf86443143efc8265cd83`
 
-The captions are automatic and may contain errors; they are retained for navigation, not as a human-verified transcript.
+The captions are automatic and may contain errors; they are retained for navigation, not as a human-verified transcript. A bounded audit of Arday’s research and epistemic-position passages is preserved as [SRC-1055](2026-08-09-oxford-challenges-changes-caption-audit.md), with the underlying *Broken Pipeline* report kept as a separate controlling source for its own statistics and methods.
