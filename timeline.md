@@ -4,6 +4,8 @@ Dates are recorded as events, not as proof of every biographical detail reported
 
 ## Childhood and education chronology
 
+| 2024-12-01 | *The Cambridge Student* published a revised interview with Arday on institutional racism, Cambridge’s slavery legacies, accessibility, neurodivergence, belonging, Simon Woolley’s mentorship, and outreach; the page records later editorial revision and archived source-version boundaries. | dated student-journalism interview; revised page, attributed positions, and pre-revision text unavailable | [Canonical interview](sources/2024-12-01-cambridge-student-interview.md) · [page audit](sources/2026-08-09-cambridge-student-interview-page-audit.md) |
+
 | 2025-06 | Manchester Metropolitan University’s LEED Learning & Teaching Conference preserves Arday’s keynote “We Built This City: Belonging and Authenticity in Pedagogy”; his captioned contribution includes PE-teacher/Sainsbury’s self-report, Sandro Sandri recollection, and relational/pedagogical positions. | verified first-party recording and dated first-person/public-position source; captions not human-verified | [MMU keynote record](sources/2025-mmu-leed-keynote.md) · [caption audit](sources/2026-08-09-mmu-leed-keynote-caption-audit.md) |
 
 | 2026-04-14 | Cambridge’s Black Advisory Hub event page named Professor Jason Arday among the practitioner-workshop leaders for its anti-racism symposium. | verified first-party event listing; delivery and attendance unresolved | [Cambridge symposium record](sources/2026-08-09-cambridge-anti-racism-symposium.md) |

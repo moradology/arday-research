@@ -83,6 +83,8 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 ## 3. Interviews, radio, and podcasts
 
+- [The Cambridge Student interview](sources/2024-12-01-cambridge-student-interview.md) — revised interview on institutional racism, Cambridge’s slavery legacies, accessibility, neurodivergence, belonging, Simon Woolley’s mentorship, and outreach. [Page/version audit](sources/2026-08-09-cambridge-student-interview-page-audit.md)
+
 - [The Guardian: “Jason Arday: he learned to talk at 11 and read at 18…”](https://www.theguardian.com/society/2023/jul/11/jason-arday-cambridge-university-youngest-black-professor) — long-form 2023 profile and interview.
 - [BBC News: “Cambridge University's Jason Arday becomes youngest black professor”](sources/2023-02-23-bbc-youngest-black-professor.md) — 23 February 2023 profile; canonical BBC HTML, headers, portrait, and graduation image directly captured, with a separate Walthamstow institutional repost retained as a witness.
 - [Global Player: *Full Disclosure with James O’Brien*](https://www.globalplayer.com/podcasts/episodes/7DrfQkN/) — 20 April 2023, approximately 67 minutes; biography, perseverance, community, and education.

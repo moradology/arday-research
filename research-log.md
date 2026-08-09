@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1075/C-1186–C-1193: Cambridge Student interview page audit
+
+The revised *Cambridge Student* interview was audited as a source-version rather than a new interview. The current page’s revision notice and three archived replays establish that revised wording was already present in the earliest recovered snapshots; the pre-revision text was not recovered. The audit extracts Arday’s modernisation/accessibility agenda, slavery-legacies and reparative-acts position, Simon Woolley parliamentary-scheme narrative, anti-assimilation/belonging position, Foundation Year/outreach view, appointment/Black-women selection critique, and an unverified 45% survey statistic.
+
+Repeated childhood, charity, and appointment biography material was not duplicated. The page’s historical “incoming Fellow” wording remains a source-version, not current appointment evidence. Added SRC-1075/C-1186–C-1193; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1074/C-1179–C-1185: MMU LEED keynote caption audit
 
 The locally preserved Manchester Metropolitan University MMUtube keynote was audited against its official English (British) SRT. The pass binds the recording and 81%-accuracy caption boundary to timecoded passages on Arday’s PE-teacher/Sainsbury’s route, mother and social-causes recollection, relational education and hidden curriculum, Sandro Sandri memory, staff-precarity argument, play/culture pedagogy, and PE-informed teaching philosophy.
