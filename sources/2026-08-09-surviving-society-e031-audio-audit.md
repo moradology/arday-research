@@ -65,6 +65,13 @@ At approximately 28:23 the conversation turns to a co-host’s separate stop-and
 
 The surrounding 30:00–35:00 material alternates with host testimony. Only the passages above are retained as Arday’s claims.
 
+## Extended window: 35:00–40:00
+
+- **35:00–37:02** — Arday says he welcomes opportunities to remain calm during police encounters as a way of taking back control, then describes a more recent practice: when he sees police patting down children, he approaches, asks the child whether they are all right, and offers to wait with them. He says he had done this more than ten times in the previous month. This is a contemporaneous self-report within a 2019 recording; no incident log or independent witness is available.
+- **37:02–39:48** — Responding to the idea that young Black boys “do it to themselves,” Arday rejects that framing as a highly racialized trope. He contrasts the treatment of Black and white working-class boys and argues that class and racialization shape how police interpret young people. The surrounding discussion invokes media statistics and knife crime; those claims are not adopted or independently verified here.
+
+The remainder of the window continues the panel’s discussion of policing and youth culture; speaker turns remain mixed.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
