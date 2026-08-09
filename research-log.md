@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-902/C-963: Holding the Space LinkedIn announcement
+
+Discovery: a targeted event search surfaced Dr Yaz Iyabo Osho’s public LinkedIn announcement naming Jason Arday as a keynote for *Holding the Space 2026* at the University of Westminster on 16 April 2026, 09:30–16:30, at Regent Street Campus.
+
+Decision: register the post as a distinct pre-event announcement/source-version deduplicated to the canonical Westminster post-event report `SRC-317`. Preserve the organizer-side role list as promotional copy only. The displayed portrait is Osho’s, not Arday’s; no recording, transcript, or slides were recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-901/C-962: Google Play Books memoir storefront
 
 Discovery: a direct Google Play Books page for *Great and Unfortunate Things* exposed volume `84edEQAAQBAJ`, identifying an August 2026 Simon and Schuster ebook at 368 pages. The visible page included publisher-facing catalogue copy, a short opening excerpt, a 585×900 cover, and the warning “This item isn't available in your country.”

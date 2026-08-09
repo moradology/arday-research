@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh event-provenance checkpoint: `SRC-902/C-963` — a public LinkedIn announcement by Dr Yaz Iyabo Osho named Arday as a keynote for Westminster’s 16 April 2026 *Holding the Space* conference. It is deduplicated to the existing post-event record `SRC-317`; the captured portrait is of Osho, not Arday. Reopen only for a recording, transcript, slides, correction, or changed organizer artifact; do not repeat the same announcement search.
+
 Fresh memoir-storefront checkpoint: `SRC-901/C-962` — Google Play Books directly exposed the same 368-page UK ebook volume already catalogued as SRC-145, with a locally preserved cover, publisher-facing synopsis/excerpt, and “isn't available in your country” access state. Reopen only after a changed availability state, lawful preview/file, or distinct edition identifier appears; do not repeat the same Google Play/Google Books metadata search.
 
 Fresh memoir-event boundary: `SRC-900/C-961` — search indexing exposed a Topping & Company Edinburgh listing for Jason Arday’s planned 18 September 2026 memoir event, but the current direct events page captured on 8 August contained no matching occurrence or detail route. Reopen only for a direct event page, ticket/venue record, cancellation/update, recording, or post-event report; do not treat the indexed lead as evidence that the event occurred.

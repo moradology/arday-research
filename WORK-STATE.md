@@ -1,5 +1,7 @@
 # Work state
 
+Latest event-provenance checkpoint: on 2026-08-08 `SRC-902/C-963` captured a public LinkedIn announcement naming Arday as a keynote for the 16 April 2026 Westminster *Holding the Space* conference. It is a pre-event source-version deduplicated to `SRC-317`; the displayed 800×830 portrait is of organizer Yaz Iyabo Osho, not Arday. No recording, transcript, or slides were exposed. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-edition checkpoint: on 2026-08-08 `SRC-901/C-962` preserved Google Play Books’ direct storefront manifestation of volume `84edEQAAQBAJ`, matching the existing 368-page UK ebook record `SRC-145`. The page adds a cover, visible publisher catalogue copy, and a country-availability restriction, but no ebook file or full-text preview. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest event-access checkpoint: on 2026-08-08 `SRC-900/C-961` preserved a Topping & Company Edinburgh events-page capture after search indexing exposed a planned 18 September 2026 Arday memoir event. The live page contained no matching event or detail route, so the item remains an indexed lead/negative-space observation rather than a verified event. Google Drive was not updated; GitHub remains the active publication target.

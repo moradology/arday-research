@@ -1,5 +1,7 @@
 # Media index
 
+- [Holding the Space 2026 LinkedIn announcement](assets/captures/2026-08-08-holding-space-linkedin/page.html) and [displayed portrait](assets/captures/2026-08-08-holding-space-linkedin/post-image.jpg) — public pre-event announcement naming Arday as a Westminster keynote; portrait is of post author Yaz Iyabo Osho, not Arday; SRC-902/C-963. No recording or transcript recovered.
+
 - [*Great and Unfortunate Things* Google Play cover](assets/captures/2026-08-08-google-play-memoir/cover.jpg) and [storefront HTML](assets/captures/2026-08-08-google-play-memoir/page.html) — direct 8 August 2026 Google Play manifestation of the 368-page ebook already catalogued under SRC-145; cover and country-availability state preserved; SRC-901/C-962. No ebook file or full-text preview exposed.
 
 - [Research Cast UK — “How learning and education has shaped my being”](assets/audio/research-cast-uk-jason-arday-2025.mp3) — 6 January 2025, canonical record [SRC-198](sources/2025-01-06-research-cast-uk-jason-arday.md); fresh 9 August page, headers, and portrait capture are byte-identical manifestations of the existing episode; no public transcript or captions; C-912.
