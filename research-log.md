@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1026/C-1026: Student Sessions audio audit
+
+The preserved 42:04.46 *Student Sessions* MP3 was sampled with `mlx-community/whisper-small.en-mlx`. Targeted windows recovered Arday’s account of Sandro Sandri’s repeated phonics and literacy support, his statement that at 21 his reading age was 11, and a remembered Sandri framing of a PhD within 12 years of learning to read and write.
+
+Decision: add timecoded first-person testimony to the existing SRC-156 interview without creating a new media node. The ASR’s 01:34 rendering appears to say he learned to “read” at 11, conflicting with the surrounding speech-at-11 source family; preserve the ambiguity and require human listening before quotation. No reading-age assessment, tutoring record, or qualification chronology was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1025/C-1025: How Do You Cope? audio audit
 
 The locally preserved 26 May 2025 *How Do You Cope?* MP3 was sampled with `mlx-community/whisper-small.en-mlx`. Targeted windows recovered Arday’s first-person discussion of his mother not explicitly naming his autism diagnosis to him until less than five years earlier, his extensive speech-therapy and educational-psychology support, learning through non-verbal communication, and his statement that he would have been a professional snooker player.

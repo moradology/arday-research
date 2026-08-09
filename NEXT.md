@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh subject-audio checkpoint: `SRC-1026/C-1026` — the preserved *Student Sessions* MP3 now has targeted timecodes for Sandro Sandri’s literacy support, the reported reading age at 21, and the remembered “PhD within 12 years” framing. Reopen only for human listening, a full lawful transcript/caption track, or an independent reading-age/tutoring record; do not resolve the ambiguous ASR sentence as a new literacy milestone.
+
 Fresh subject-audio checkpoint: `SRC-1025/C-1025` — targeted windows of the preserved *How Do You Cope?* MP3 now cover Arday’s maternal diagnosis account, speech-therapy/non-verbal reflection, and snooker self-description. Reopen only for human listening, a full lawful transcript/caption track, or a materially different audio manifestation; do not count ASR or the repeated snooker statement as independent corroboration.
 
 Fresh audio-audit checkpoint: `SRC-1024/C-1024` — the preserved *New Humanist* MP3 now has targeted timecoded checks for childhood and adolescence. The audio supports “three, four, five times in a year,” correcting the transcript’s ambiguous “345 times a year” rendering, but remains self-report and machine-assisted. Reopen only for human listening, a first-party corrected transcript, or an independent police record; do not treat the count as verified.

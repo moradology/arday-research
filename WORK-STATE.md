@@ -1,5 +1,7 @@
 # Work state
 
+Latest subject-audio checkpoint: on 2026-08-09 `SRC-1026/C-1026` sampled the canonical *Student Sessions* MP3. It adds timecoded first-person material about Sandro Sandri’s literacy support, a reported reading age at 21, and a remembered PhD-progression framing; an ambiguous ASR sentence remains explicitly unresolved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest subject-audio checkpoint: on 2026-08-09 `SRC-1025/C-1025` sampled the canonical *How Do You Cope?* MP3. It adds timecoded first-person passages about maternal handling of diagnosis, speech therapy/non-verbal communication, and the snooker self-description; the full transcript remains inaccessible and no sports status was upgraded. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest subject-audio checkpoint: on 2026-08-09 `SRC-1024/C-1024` audited targeted windows of the canonical *New Humanist* MP3. The audio confirms the childhood/adolescence passages and resolves the transcript’s “345 times a year” ambiguity as “three, four, five times in a year.” This is still machine-assisted first-person evidence, not an independent police or clinical record. Google Drive was not updated; GitHub remains the active publication target.

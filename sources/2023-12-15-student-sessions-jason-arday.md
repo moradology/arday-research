@@ -12,7 +12,7 @@ id: SRC-156
 
 ## What is established
 
-The official Student Sessions episode page identifies Jason Arday as the guest and describes the episode as “Overcoming barriers and self-celebration.” The page exposes a public Buzzsprout MP3, captured locally. The episode is a first-person interview and should be mined for biographical claims with timestamps from the audio; the episode page itself does not independently verify those claims.
+The official Student Sessions episode page identifies Jason Arday as the guest and describes the episode as “Overcoming barriers and self-celebration.” The page exposes a public Buzzsprout MP3, captured locally. A targeted audit now extracts timecoded passages about Sandro Sandri’s literacy support, Arday’s reported reading age at 21, and his remembered “PhD within 12 years” framing; the episode page itself does not independently verify those claims. The audit is recorded in [SRC-1026](2026-08-09-student-sessions-audio-audit.md).
 
 ## Capture note
 
