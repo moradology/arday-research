@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-audit checkpoint: `SRC-1024/C-1024` — the preserved *New Humanist* MP3 now has targeted timecoded checks for childhood and adolescence. The audio supports “three, four, five times in a year,” correcting the transcript’s ambiguous “345 times a year” rendering, but remains self-report and machine-assisted. Reopen only for human listening, a first-party corrected transcript, or an independent police record; do not treat the count as verified.
+
 Fresh teaching-reception checkpoint: `SRC-1023/C-1023` — an anonymous Reddit commenter alleges an Autumn 2018 Roehampton student experience involving attendance, preparation, pedagogy, feedback, and a complaint. Reopen only for a named first-hand account or independently checkable Roehampton module/staff/complaint/assessment record; do not treat anonymous testimony as verified fact or repeat the thread unchanged.
 
 Fresh qualification discrepancy checkpoint: `SRC-208/C-1022` — Cambridge’s unavailable profile is indexed with “MA Education Studies (Liverpool John Moores University)” alongside the St Mary’s MA, while the recovered CV says MEd/PGCertLTHE and the Cambridge Reporter prints the St Mary’s M.A./LJMU Ph.D. Treat the snippet as cached source-version text only; reopen for a restored profile, registrar/certificate record, or direct institutional clarification.

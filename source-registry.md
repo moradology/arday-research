@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-1024 | `sources/2026-08-09-new-humanist-audio-audit.md` | Targeted ASR audit of the canonical 15 December 2020 *With Reason* MP3; confirms childhood/adolescence passages and resolves the transcript’s “345 times a year” ambiguity as audible “three, four, five times in a year”; deduplicated to SRC-223 | primary audio audit / machine transcript derivative / first-person testimony / source-version correction | 2026-08-09 | New Humanist, With Reason, Cool Britannia, childhood, Clapham, literacy, speech, music, police stops, audio audit, ASR, source version |
+
 | SRC-1023 | `sources/2026-08-09-reddit-roehampton-teaching-testimony.md` | Anonymous Reddit commenter’s alleged Autumn 2018 Roehampton student account about Arday’s teaching and marking; browser rendering visible, direct shell/JSON routes HTTP 403, no identity or institutional corroboration | low-provenance public forum testimony / reception lead / access boundary | 2026-08-09 | Reddit, UniUK, Roehampton, teaching, student account, marking, complaint, anonymous testimony, access boundary |
 
 

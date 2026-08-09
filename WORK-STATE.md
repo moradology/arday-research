@@ -1,5 +1,7 @@
 # Work state
 
+Latest subject-audio checkpoint: on 2026-08-09 `SRC-1024/C-1024` audited targeted windows of the canonical *New Humanist* MP3. The audio confirms the childhood/adolescence passages and resolves the transcript’s “345 times a year” ambiguity as “three, four, five times in a year.” This is still machine-assisted first-person evidence, not an independent police or clinical record. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest teaching-reception checkpoint: on 2026-08-09 `SRC-1023/C-1023` logged an anonymous browser-visible Reddit account alleging an Autumn 2018 Roehampton student experience. Direct shell capture returned HTTP 403 and no corroborating record was found; the account remains low-provenance and unverified. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest qualification-discrepancy checkpoint: on 2026-08-09 the Cambridge Faculty profile remained HTTP 404, while its indexed snippet listed an LJMU MA Education Studies not stated in the recovered CV or Cambridge Reporter credential transcription. This is preserved as C-1022/source-version tension, not as proof of an additional degree or error. Google Drive was not updated; GitHub remains the active publication target.

@@ -28,7 +28,7 @@ He also says his father spoke to him and his brothers at 11 about the possibilit
 
 ## Evidence boundary
 
-This is a dated, host-published transcript and a valuable first-person source version. It does not independently establish clinical diagnosis, school attendance, family composition, police encounters, or the frequency of stops. A later feed audit recovered the public Buzzsprout enclosure: the 15 December 2020 RSS item identifies this as season 1, episode 6, gives a 2,316-second duration, and exposes a 27,834,412-byte MP3. The audio is preserved locally, but no manual transcript audit has yet been performed.
+This is a dated, host-published transcript and a valuable first-person source version. It does not independently establish clinical diagnosis, school attendance, family composition, police encounters, or the frequency of stops. A targeted audit of the preserved audio confirms the childhood and adolescence passages and corrects one transcript ambiguity: the audio says “three, four, five times in a year,” not “345 times a year.” The audit remains machine-assisted and is recorded separately in [SRC-1024](2026-08-09-new-humanist-audio-audit.md).
 
 ## Preservation
 

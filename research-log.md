@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1024/C-1024: New Humanist audio audit
+
+The preserved 2,316.54-second *With Reason* MP3 was audited with `mlx-community/whisper-small.en-mlx` in targeted windows covering the childhood, music, protest, and police-stop passages. The audio broadly matches the host transcript: Clapham and council-estate upbringing; delayed speech/literacy; music, guitar, and movement out of signing; childhood picket lines; and the adolescent police-stop account.
+
+The audit resolves one important ambiguity. The host transcript renders Arday’s statement as “sometimes it can be 345 times a year”; the audible passage at approximately 14:36–14:40 is “three, four, five times in a year.” This is a wording correction, not verification of the underlying police-stop frequency. Decision: preserve the audio as first-person evidence and keep the source deduplicated to SRC-223. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1023/C-1023: anonymous Roehampton teaching-reception lead
 
 Discovery: browser rendering exposed an anonymous `r/UniUK` account alleging an Autumn 2018 student experience on a Roehampton module taught by Arday, including punctuality, preparation, teaching method, feedback, and a complaint to a course leader.
