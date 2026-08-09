@@ -724,6 +724,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-925 | `sources/2026-08-09-pubpeer-direct-search.md` | Direct PubPeer exact-name search shell recovered; API requires human verification and direct routes for two tested Arday DOIs returned 404, so no reliable no-results conclusion is drawn | post-publication-platform search / access-state boundary / local HTML, JSON, headers, and SHA-256 manifest | 2026-08-09 | PubPeer, Jason Arday, DOI, search, Turnstile, human verification, HTTP 404, access boundary, negative space, research integrity |
 
+| SRC-926 | `sources/2026-08-09-atlantic-icarus-recheck.md` | Byte-distinct 9 August manifestation of The Atlantic’s “Icarus in the Faculty Lounge”; article text is substantively unchanged, while a public article-audio MP3 and cropped lead-image manifestation were recovered | long-form journalism / changed source-version / article audio / local HTML, text, headers, MP3, and image / deduplicated to SRC-335 | 2026-08-09 | Atlantic, Daniel Engber, source version, article audio, memoir, proposal, interview quotations, fraud allegation, access recovery, media |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Atlantic media/source-version checkpoint: `SRC-926/C-992` — the feature’s article text is substantively unchanged, but its public audio player yielded a locally preserved MP3 and a cropped lead-image manifestation. Reopen only for the underlying 2024 proposal, first-party memoir text, materially changed article body, or primary institutional/publication records; do not count the audio as independent corroboration.
+
 Fresh PubPeer direct-search checkpoint: `SRC-925/C-991` — the exact-name search shell was captured, but the API required human verification and the two tested Arday DOI routes returned 404. This is an incomplete access boundary, not a no-results finding. Reopen only for a human-verifiable result, alternate PubPeer identifier, direct Arday publication page, or changed response; do not repeat the same requests unchanged.
 
 Fresh provenance-control checkpoint: `SRC-924/C-990` — eight PubPeer IDs linked from 21percent were resolved and none concerns an Arday publication. Reopen only if a direct PubPeer page for an Arday DOI appears; do not repeat the unrelated-ID audit.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest Atlantic media checkpoint: on 2026-08-09 `SRC-926/C-992` preserved a byte-distinct manifestation of The Atlantic’s feature, its extracted text, a public 18.4 MB article-audio MP3, and a cropped lead image. The feature’s article text is substantively unchanged; all allegations and memoir/proposal discrepancies remain attributed journalism. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest PubPeer checkpoint: on 2026-08-09 `SRC-925/C-991` captured the public exact-name search shell, its human-verification API response, and 404 responses for two tested Arday DOI routes. No reliable PubPeer yes/no result is claimed; the boundary remains incomplete. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest provenance checkpoint: on 2026-08-09 `SRC-924/C-990` resolved eight PubPeer links embedded in the 21percent commentary. All point to unrelated historical/migration publications, not Arday works; their comments are excluded from the Arday integrity evidence set. Google Drive was not updated; GitHub remains the active publication target.

@@ -4054,3 +4054,8 @@ Decision: added SRC-920/C-986 as a partial recovery linked to the contemporaneou
 Discovery: PubPeer’s public search shell accepted the exact-name query `Jason Arday`, but the corresponding API returned a human-verification requirement. Direct publication routes for the 2018 *Social Sciences* DOI and the 2021 *Educational Philosophy and Theory* DOI returned HTTP 404.
 
 Decision: preserve the HTML, API response, headers, and hashes as an incomplete access-state boundary. Do not treat the API challenge or the two 404s as proof that no PubPeer record exists. Reopen only for a human-verifiable result, alternate identifier, direct Arday publication page, or changed response. Google Drive was not updated; GitHub remains the active publication target.
+## 2026-08-09 — SRC-926/C-992: Atlantic source-version and audio recovery
+
+Discovery: the Atlantic feature’s current HTML was byte-distinct from the 8 August capture but substantively unchanged in the compared article text. The page exposed a public Megaphone audio URL; the 18.4 MB MP3 and a cropped/resized lead-image manifestation were recovered.
+
+Decision: register a source-version node deduplicated to SRC-335 and add the audio as a media derivative, not as independent corroboration. The article’s reported memoir/proposal discrepancies and conditional discussion of possible interview-data fraud remain attributed journalism; the proposal and primary case records remain unrecovered. Google Drive was not updated; GitHub remains the active publication target.

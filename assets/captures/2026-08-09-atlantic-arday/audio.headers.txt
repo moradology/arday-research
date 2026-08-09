@@ -1,0 +1,34 @@
+HTTP/2 302 
+access-control-allow-headers: Origin, Content-Type, Accept, Authorization, Token
+access-control-allow-methods: GET, OPTIONS, POST
+access-control-allow-origin: *
+access-control-max-age: 604800
+content-type: text/html; charset=utf-8
+has-ads: 1
+location: https://dcs-spotify.megaphone.fm/ATL9688913497.mp3?key=29c844b1c3348129ff64d48febe25c2a&request_event_id=60eedcdb-c56b-4557-8c65-327257206001&session_id=60eedcdb-c56b-4557-8c65-327257206001&timetoken=1786249978_F7C94E3E71DC8EFF5B21F83532451789
+date: Sun, 09 Aug 2026 02:32:58 GMT
+content-length: 278
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+vary: Accept-Encoding
+server: envoy
+via: HTTP/2 edgeproxy, 1.1 google
+
+HTTP/2 200 
+accept-ranges: bytes
+content-type: audio/mpeg
+x-megaphone-payload: @ea458f26-928a-11f1-bb57-af3e1063be05
+x-megaphone-payload-2: #497609#pre#1#16122##true#true,#18399634#post#1#17969974##true#true@ea458f26-928a-11f1-bb57-af3e1063be05#128000#16122
+x-content-type-options: nosniff
+server: envoy
+content-length: 18399635
+expires: Sun, 09 Aug 2026 02:32:58 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 09 Aug 2026 02:32:58 GMT
+alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+access-control-allow-origin: *
+strict-transport-security: max-age=15768000
+
