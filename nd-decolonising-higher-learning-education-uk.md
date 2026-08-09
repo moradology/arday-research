@@ -35,7 +35,7 @@ The Durham book-chapter index returned HTTP 403/Cloudflare protection during dir
 
 The exact final-volume title *Une histoire mondiale de la sociologie* was queried through the public BnF SRU and Sudoc SRU catalogue endpoints. Both returned zero records for the exact title string. These negative results narrow the public catalogue boundary but do not prove that the volume is absent from all catalogue indexes, represented under a variant title, or unavailable through a publisher/library interface not covered by these endpoints.
 
-Local captures: [BnF XML](../assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/bnf.xml) and [headers](../assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/bnf.headers.txt); [Sudoc XML](../assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/sudoc.xml) and [headers](../assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/sudoc.headers.txt).
+Local captures: [BnF XML](assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/bnf.xml) and [headers](assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/bnf.headers.txt); [Sudoc XML](assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/sudoc.xml) and [headers](assets/captures/2026-08-06-world-history-sociology-catalogue-recheck/sudoc.headers.txt).
 
 ## Publisher/catalogue recheck — 2026-08-08
 
@@ -55,14 +55,14 @@ Search witnesses: [Durham indexed output](https://durham-repository.worktribe.co
 
 ## Local preservation
 
-- [Durham 403 body](../assets/documents/durham-book-chapter-page1-403-2026-08-06.html) — SHA-256 `af687e0e419c32c078ca3464c0d2949d9c1713edff07a4aeaea0815bccd9419b`
-- [Durham 403 headers](../assets/documents/durham-book-chapter-page1-403-2026-08-06-headers.txt) — SHA-256 `634dab3a5e6776820182dd521db26d6c865446971f68218a5655e8a2a8e257ff`
-- [Open Library exact-title response](../assets/documents/openlibrary-une-histoire-mondiale-sociologie-2026-08-06.json) — zero results; SHA-256 `a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069`
-- [Crossref title-query response](../assets/documents/crossref-une-histoire-mondiale-sociologie-2026-08-06.json) — no exact title among returned ranked results; SHA-256 `698235fe9063591629683de5d6c5383dd9b3b27d2bc1067d13ad6ea1844e3764`
-- [Google Books API response](../assets/documents/google-books-une-histoire-mondiale-sociologie-429-2026-08-06.json) — HTTP 429 quota boundary; SHA-256 `3391b214f23873e9d8542b810691e46d861c5cef8c580613d2405cbfbbf45618`
-- [Durham department-of-sociology 403 body](../assets/documents/durham-book-chapter-orgunit-page1-403-2026-08-06.html) — 5,843-byte Cloudflare challenge for the alternate indexed endpoint; SHA-256 `6c176559b79eebec4cda6578bae5f4edb34418d853932e9d5dd3f8f0d2c8d627`
-- [Durham department-of-sociology 403 headers](../assets/documents/durham-book-chapter-orgunit-page1-403-2026-08-06.headers) — SHA-256 `5135dbce4ad47c8b356158a6f39f19d7ca14167bb20c6b3e2471468d37838c18`
-- [Crossref English-title query](../assets/documents/crossref-a-world-history-of-sociology-2026-08-06.json) — 38,174-byte response; no exact host volume in the returned ranked items; SHA-256 `3697a05d9e88704224b755ab124d8875072cf1ecd26f963e4e2fc7fb4cd45768`
-- [OpenAlex English-title query](../assets/documents/openalex-a-world-history-of-sociology-2026-08-06.json) — 301,230-byte response; related works only in the first 20 results; SHA-256 `2279fe8e4170621890d209247d0f1ad89a675b4d04a068259a8aa13496289787`
-- [7 August Durham person-page response](../assets/captures/2026-08-07-src211-recheck/page.html) — 5,578-byte Cloudflare challenge; SHA-256 `204cbfad17fb22d7fd1782d51fec7da60fb64f9ac917ae1fc36ba387accba294`
-- [7 August Durham response headers](../assets/captures/2026-08-07-src211-recheck/page.headers.txt) — direct-fetch headers for the changed retrieval state
+- [Durham 403 body](assets/documents/durham-book-chapter-page1-403-2026-08-06.html) — SHA-256 `af687e0e419c32c078ca3464c0d2949d9c1713edff07a4aeaea0815bccd9419b`
+- [Durham 403 headers](assets/documents/durham-book-chapter-page1-403-2026-08-06-headers.txt) — SHA-256 `634dab3a5e6776820182dd521db26d6c865446971f68218a5655e8a2a8e257ff`
+- [Open Library exact-title response](assets/documents/openlibrary-une-histoire-mondiale-sociologie-2026-08-06.json) — zero results; SHA-256 `a68a51a345fbaef76433e2dc9c3af3f7f73ee9f366a07aa6e9eec27944a0f069`
+- [Crossref title-query response](assets/documents/crossref-une-histoire-mondiale-sociologie-2026-08-06.json) — no exact title among returned ranked results; SHA-256 `698235fe9063591629683de5d6c5383dd9b3b27d2bc1067d13ad6ea1844e3764`
+- [Google Books API response](assets/documents/google-books-une-histoire-mondiale-sociologie-429-2026-08-06.json) — HTTP 429 quota boundary; SHA-256 `3391b214f23873e9d8542b810691e46d861c5cef8c580613d2405cbfbbf45618`
+- [Durham department-of-sociology 403 body](assets/documents/durham-book-chapter-orgunit-page1-403-2026-08-06.html) — 5,843-byte Cloudflare challenge for the alternate indexed endpoint; SHA-256 `6c176559b79eebec4cda6578bae5f4edb34418d853932e9d5dd3f8f0d2c8d627`
+- [Durham department-of-sociology 403 headers](assets/documents/durham-book-chapter-orgunit-page1-403-2026-08-06.headers) — SHA-256 `5135dbce4ad47c8b356158a6f39f19d7ca14167bb20c6b3e2471468d37838c18`
+- [Crossref English-title query](assets/documents/crossref-a-world-history-of-sociology-2026-08-06.json) — 38,174-byte response; no exact host volume in the returned ranked items; SHA-256 `3697a05d9e88704224b755ab124d8875072cf1ecd26f963e4e2fc7fb4cd45768`
+- [OpenAlex English-title query](assets/documents/openalex-a-world-history-of-sociology-2026-08-06.json) — 301,230-byte response; related works only in the first 20 results; SHA-256 `2279fe8e4170621890d209247d0f1ad89a675b4d04a068259a8aa13496289787`
+- [7 August Durham person-page response](assets/captures/2026-08-07-src211-recheck/page.html) — 5,578-byte Cloudflare challenge; SHA-256 `204cbfad17fb22d7fd1782d51fec7da60fb64f9ac917ae1fc36ba387accba294`
+- [7 August Durham response headers](assets/captures/2026-08-07-src211-recheck/page.headers.txt) — direct-fetch headers for the changed retrieval state

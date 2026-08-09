@@ -2,7 +2,9 @@
 
 ## 2026-08-09 — Markdown ontology integrity audit
 
-The source graph was checked before continuing discovery: 760 source files carry unique `SRC-*` identifiers; the registry contains 785 unique rows; and every registry path resolves to an existing source file. A local-link scan found six broken links: four Arasite text-derivative links used URL-encoded spaces/parentheses that the renderer did not resolve, one stale Zwozdiak-Myers filename, and one stale 30-in-35 parent-record filename. The Arasite links now use angle-bracket paths with the actual filenames, the comparator link points to the canonical thesis-overlap analysis, and the 30-in-35 link points to the existing parent record. No source or claim content was changed.
+The source graph was checked before continuing discovery: 760 source files carry unique `SRC-*` identifiers; the registry contains 785 unique rows; and every registry path resolves to an existing source file. The first local-link scan found six broken links: four Arasite text-derivative links used URL-encoded spaces/parentheses that the renderer did not resolve, one stale Zwozdiak-Myers filename, and one stale 30-in-35 parent-record filename. A parser-aware second scan then exposed a broader path-prefix error in eight root-level records plus one nested listening-notes file: those records used `../` for repository-root targets. All of these local links now resolve; the link repairs changed paths only, not source or claim content.
+
+The final parser-aware scan checked 8,016 local Markdown links and found zero broken local links. The simple regex checker’s remaining apparent Arasite failure was a false positive caused by a literal parenthesis in `More Z-M - summaries(1).txt`.
 
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 

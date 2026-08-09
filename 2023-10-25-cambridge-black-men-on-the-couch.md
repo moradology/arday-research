@@ -27,13 +27,13 @@ This source verifies the event, participants, institutional host, public recordi
 
 ## Local preservation
 
-- [MP4 recording](../assets/videos/cambridge-black-men-on-the-couch-2023.mp4) — 287,422,026 bytes, 640×360, 2:13:48, SHA-256 `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500`
-- [Automatic English VTT](../assets/videos/cambridge-black-men-on-the-couch-2023.en-orig.vtt) — SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
-- [Normalized English VTT](../assets/videos/cambridge-black-men-on-the-couch-2023.en.vtt) — byte-identical navigation copy; SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
-- [yt-dlp metadata JSON](../assets/videos/cambridge-black-men-on-the-couch-2023.info.json) — SHA-256 `419efc5b0fd311d6dbad037b198248c4f9317044ce83c8bbdd2b9a43b57bee46`
-- [YouTube thumbnail](../assets/videos/cambridge-black-men-on-the-couch-2023.webp) — 640×480 WebP, SHA-256 `38f58465d38a5d2fea16c6dee8f7719b875a9ac8c70b7064ca6152d31740c7d7`
-- [Arday segment review clip](../assets/videos/clips/cambridge-black-men-on-the-couch-2023/jason-arday-segment-01h11m00-01h31m30.mp4) — source interval 01:11:00–01:31:30, 48,473,641 bytes, SHA-256 `c210776addcd6f62f9903c00ecfa8cdf537e4fe0502d61818ba0ecb106332e9a`
-- [Cambridge announcement HTML](../assets/documents/cambridge-black-history-month-2023-page-2026-08-06.html) — SHA-256 `69ed4014e81689f7dd9c0a0ff08cdbe4dd75602f48e96a9fe1b470a4b18b6364`
-- [Cambridge announcement headers](../assets/documents/cambridge-black-history-month-2023-page-2026-08-06-headers.txt) — SHA-256 `49f19c51894e1bb7e7a66e1247326c90a0a17abb790bf3c6b033a27a2d7b5049`
-- [YouTube page HTML](../assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06.html) — SHA-256 `a2785cecda2fbdefbe06dd25d3de1f2145530062aea90d02b0e6f375fd7c4564`
-- [YouTube response headers](../assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06-headers.txt) — SHA-256 `19aa40a3fb3d12aa0b7b895c13176df3f10ffc4108899be5403aa8483a52d23c`
+- [MP4 recording](assets/videos/cambridge-black-men-on-the-couch-2023.mp4) — 287,422,026 bytes, 640×360, 2:13:48, SHA-256 `518a28e8cc87f8c8cd84a8f6e07222c89823e142434557e9105839f9b094a500`
+- [Automatic English VTT](assets/videos/cambridge-black-men-on-the-couch-2023.en-orig.vtt) — SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
+- [Normalized English VTT](assets/videos/cambridge-black-men-on-the-couch-2023.en.vtt) — byte-identical navigation copy; SHA-256 `9129d169b49afc2dd0651545946b9f393ae002005a4cb3b6b8b97163d09a5e71`
+- [yt-dlp metadata JSON](assets/videos/cambridge-black-men-on-the-couch-2023.info.json) — SHA-256 `419efc5b0fd311d6dbad037b198248c4f9317044ce83c8bbdd2b9a43b57bee46`
+- [YouTube thumbnail](assets/videos/cambridge-black-men-on-the-couch-2023.webp) — 640×480 WebP, SHA-256 `38f58465d38a5d2fea16c6dee8f7719b875a9ac8c70b7064ca6152d31740c7d7`
+- [Arday segment review clip](assets/videos/clips/cambridge-black-men-on-the-couch-2023/jason-arday-segment-01h11m00-01h31m30.mp4) — source interval 01:11:00–01:31:30, 48,473,641 bytes, SHA-256 `c210776addcd6f62f9903c00ecfa8cdf537e4fe0502d61818ba0ecb106332e9a`
+- [Cambridge announcement HTML](assets/documents/cambridge-black-history-month-2023-page-2026-08-06.html) — SHA-256 `69ed4014e81689f7dd9c0a0ff08cdbe4dd75602f48e96a9fe1b470a4b18b6364`
+- [Cambridge announcement headers](assets/documents/cambridge-black-history-month-2023-page-2026-08-06-headers.txt) — SHA-256 `49f19c51894e1bb7e7a66e1247326c90a0a17abb790bf3c6b033a27a2d7b5049`
+- [YouTube page HTML](assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06.html) — SHA-256 `a2785cecda2fbdefbe06dd25d3de1f2145530062aea90d02b0e6f375fd7c4564`
+- [YouTube response headers](assets/documents/cambridge-black-men-on-the-couch-youtube-2023-08-06-headers.txt) — SHA-256 `19aa40a3fb3d12aa0b7b895c13176df3f10ffc4108899be5403aa8483a52d23c`

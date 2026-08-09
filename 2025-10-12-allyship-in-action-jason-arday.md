@@ -26,12 +26,12 @@ Apple’s public lookup record independently maps the episode to track ID `10007
 
 ## Local preservation
 
-- [MP3](../assets/audio/allyship-in-action-314-jason-arday-2025.mp3) — 24,206,688 bytes; 31:09.84; MPEG audio, 48 kHz stereo; SHA-256 `656c6cf709e75707bc0c3ed2bdd44391e34e818d2c7f08105c0399bb8afd9b62`.
-- [Libsyn episode page](../assets/documents/allyship-in-action-314-page-2026-08-06.html) — 37,721 bytes; SHA-256 `867d133c7913058a62b35b4a19fec38561e3abd07b03e0dd9580f36a637656f3`.
-- [Apple lookup response](../assets/captures/2026-08-08-allyship-in-action-314/apple-lookup.json) — 618,692-byte podcast-catalogue response; the episode row is extracted in [episode metadata](../assets/captures/2026-08-08-allyship-in-action-314/episode-metadata.json); SHA-256 `60ec4fb73e6512ccd7e5bf7a0fdf88557407765180637036c6c670fd0322aabf`.
-- [Amazon Music page shell](../assets/captures/2026-08-08-allyship-in-action-314/amazon.html) and [headers](../assets/captures/2026-08-08-allyship-in-action-314/amazon.headers.txt) — client-rendered route; no additional body or transcript exposed.
-- [Libsyn enclosure recheck headers](../assets/captures/2026-08-08-allyship-in-action-314/audio.headers.txt) — 24,206,688-byte MPEG audio response; SHA-256 `1f54c6d71f597a6eee7b1813b36e786971e20531ec4afc5f7cb14c8c9567a025`.
-- [Episode artwork](../assets/captures/2026-08-08-allyship-in-action-314/artwork.jpg) and [headers](../assets/captures/2026-08-08-allyship-in-action-314/artwork.headers.txt) — 600×600 JPEG; SHA-256 `f7e3ca8b17b1916ed0587b9b75a9c679267521cd03a3ff3132fb97d5c7db12c7`.
+- [MP3](assets/audio/allyship-in-action-314-jason-arday-2025.mp3) — 24,206,688 bytes; 31:09.84; MPEG audio, 48 kHz stereo; SHA-256 `656c6cf709e75707bc0c3ed2bdd44391e34e818d2c7f08105c0399bb8afd9b62`.
+- [Libsyn episode page](assets/documents/allyship-in-action-314-page-2026-08-06.html) — 37,721 bytes; SHA-256 `867d133c7913058a62b35b4a19fec38561e3abd07b03e0dd9580f36a637656f3`.
+- [Apple lookup response](assets/captures/2026-08-08-allyship-in-action-314/apple-lookup.json) — 618,692-byte podcast-catalogue response; the episode row is extracted in [episode metadata](assets/captures/2026-08-08-allyship-in-action-314/episode-metadata.json); SHA-256 `60ec4fb73e6512ccd7e5bf7a0fdf88557407765180637036c6c670fd0322aabf`.
+- [Amazon Music page shell](assets/captures/2026-08-08-allyship-in-action-314/amazon.html) and [headers](assets/captures/2026-08-08-allyship-in-action-314/amazon.headers.txt) — client-rendered route; no additional body or transcript exposed.
+- [Libsyn enclosure recheck headers](assets/captures/2026-08-08-allyship-in-action-314/audio.headers.txt) — 24,206,688-byte MPEG audio response; SHA-256 `1f54c6d71f597a6eee7b1813b36e786971e20531ec4afc5f7cb14c8c9567a025`.
+- [Episode artwork](assets/captures/2026-08-08-allyship-in-action-314/artwork.jpg) and [headers](assets/captures/2026-08-08-allyship-in-action-314/artwork.headers.txt) — 600×600 JPEG; SHA-256 `f7e3ca8b17b1916ed0587b9b75a9c679267521cd03a3ff3132fb97d5c7db12c7`.
 
 ## Evidence boundary
 
