@@ -2,6 +2,8 @@
 @@
 # Next actions
 
+Fresh subject-centred *Allyship in Action* checkpoint: `SRC-1153/C-1436–C-1440` — the locally preserved 31:09.84 episode now has corrected-mono Whisper navigation for Arday’s book-origin account, theory/practice self-description, workplace productivity and risk discussion, collective educational change, and compassion answer. Lewis’s separate exam-abolition remarks were not attributed to Arday. Do not repeat the episode search; reopen only for human listening, a public transcript/caption asset, a materially changed enclosure, or a distinct interview.
+
 Fresh subject-centred BBC *A Good Read* checkpoint: `SRC-1152/C-1433–C-1435` — the locally preserved 28:05 episode now has corrected-mono Whisper `small.en` navigation for Arday’s biographical reading preference, Siya Kolisi’s *Rise*, and his representation/lived-experience discussion of *Let the Great World Spin*. Human listening and any first-party transcript remain open; do not quote the ASR as settled wording or treat literary judgments as independent biography.
 
 Fresh subject-centred BBC *Moral Maze* checkpoint: `SRC-1151/C-1428–C-1432` — the locally preserved 42:56 broadcast now has corrected-mono Whisper `small.en` navigation for Arday’s contribution on collective responsibility, curriculum implementation/framing, education, institutional racism, and sustained anti-racist work at approximately 18:06–25:28. Human listening and any first-party transcript remain open; do not quote the ASR as settled wording or treat public positions as outcome evidence.

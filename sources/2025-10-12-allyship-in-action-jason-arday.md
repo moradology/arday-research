@@ -4,7 +4,7 @@ type: podcast interview
 title: "Pushing back Against the Zeitgeist with Dr. Chantelle Jessica Lewis and Jason Arday"
 date: 2025-10-12
 accessed: 2026-08-08
-status: Libsyn episode page and public MP3 verified; audio locally preserved; transcript not exposed
+status: Libsyn episode page and public MP3 verified; audio locally preserved; bounded audio audit added; transcript not exposed
 source_kind: podcast interview / local audio capture
 entities:
   - ../entities/jason-arday.md
@@ -35,4 +35,4 @@ Apple’s public lookup record independently maps the episode to track ID `10007
 
 ## Evidence boundary
 
-The episode description is podcast metadata and editorial summary. The MP3 is the primary preserved interview artifact; no public transcript or caption file was exposed, so the archive does not assert timecoded claims from the audio without a later listening/transcription pass.
+The episode description is podcast metadata and editorial summary. The MP3 is the primary preserved interview artifact; no public transcript or caption file was exposed. A bounded, machine-assisted audio audit now supplies navigation windows, but exact wording remains subject to human listening. [Audio audit](2026-08-09-allyship-in-action-audio-audit.md)

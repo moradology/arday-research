@@ -2,6 +2,8 @@
 @@
 # Research log
 
+2026-08-09 — *Allyship in Action* audio audit: the locally preserved 31:09.84 episode 314 was converted to corrected-mono 16 kHz WAV and transcribed in three absolute-offset windows with `mlx-community/whisper-small.en-mlx`. The episode is multi-speaker, so the pass separated host, Chantelle Jessica Lewis, and Jason Arday where the handoffs were recoverable. Added `SRC-1153/C-1436–C-1440` for Arday-attributed remarks on the book’s origin and intersectional purpose, theory/practice, neurodivergent “superhuman” productivity and risk, collective/practice-oriented educational change, and compassion. Lewis’s separate abolition-of-exams formulation was explicitly excluded from Arday’s claim set. The JSON is navigation-only and human listening remains open.
+
 2026-08-09 — BBC *A Good Read* audio audit: sampled the locally preserved 28:05 MP3 in corrected-mono windows and mapped Arday-attributed remarks at approximately 09:43–12:28 and 23:16–24:54. Added `SRC-1152/C-1433–C-1435` for his biographical reading preference, interpretation of Siya Kolisi’s *Rise*, and representation/lived-experience discussion of *Let the Great World Spin*. The JSON is navigation-only; human listening remains required before quotation.
 
 2026-08-09 — BBC *Moral Maze: Racial Justice* audio audit: sampled the locally preserved 42:56 MP3 in corrected-mono 10-minute windows and located Arday’s contribution at approximately 18:06–25:28. Added `SRC-1151/C-1428–C-1432` for attributed public positions on collective responsibility, curriculum framing, education, institutional racism, and sustained anti-racist work. The JSON is navigation-only; human listening remains required before quotation.
