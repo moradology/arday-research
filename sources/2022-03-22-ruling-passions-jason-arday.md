@@ -31,3 +31,5 @@ On the same date, a direct fetch of the embedded Padlet URL (`https://shu.padlet
 - [Padlet response headers](../assets/documents/ruling-passions-padlet-login-2026-08-06-headers.txt) — SHA-256 `896f375f016c75526ff61c628bd8ce414bff8175c80cac0ad25761a2c11e6919`
 - [Spotify page snapshot](../assets/captures/2026-08-08-ruling-passions-spotify.html) — SHA-256 `2617da85085e3a7927f6aba5b79068669f46f1b79d348f9c5265acf8667cd04b`
 - [Spotify preview clip](../assets/audio/ruling-passions/ruling-passions-jason-arday-spotify-clip.mp3) — 60.03 seconds, 96 kbps MP3, SHA-256 `bb5de28f13f9be45d9b23911f3e49f6f62fd22a4090c146dd687f90112ed36f3`
+
+The current WordPress transcript page was rechecked on 9 August 2026. Its raw HTML changed, but normalized text was byte-identical to the canonical capture; see [SRC-1145](2026-08-09-ruling-passions-page-recheck.md). No full recording or new transcript manifestation was recovered.

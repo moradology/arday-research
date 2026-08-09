@@ -1,0 +1,15 @@
+HTTP/2 200
+server: nginx
+date: Sun, 09 Aug 2026 15:55:56 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+link: <https://public-api.wordpress.com/wp-json/?rest_route=/sites/rulingpassions.wordpress.com>; rel="https://api.w.org/"
+vary: accept, content-type, cookie
+x-pingback: https://rulingpassions.wordpress.com/xmlrpc.php
+link: <https://wp.me/pdciJt-9x>; rel=shortlink
+x-ac: 2.den _dfw STALE
+alt-svc: clear
+strict-transport-security: max-age=31536000
+server-timing: a8c-cdn, dc;desc=den, cache;desc=STALE;dur=2.0

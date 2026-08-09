@@ -213,6 +213,8 @@
 
 Library-distribution media state: Blackstone Library’s catalogue lists an unabridged *Great and Unfortunate Things* audiobook read by Jason Arday in library-CD formats (SRC-1011). No audio binary or sample was exposed; this is a distribution record, not a recovered recording.
 
+Ruling Passions continuation: the current WordPress transcript page recheck (SRC-1145) is preserved under [the source-version record](sources/2026-08-09-ruling-passions-page-recheck.md); normalized text is unchanged and the full episode audio remains unresolved.
+
 
 | Corrected oral evidence: Youth unemployment | 2021-06-29 | House of Lords Youth Unemployment Committee | parliamentary transcript / webcast evidence | [Record](sources/2021-06-29-parliament-youth-unemployment-evidence.md) · [Official HTML](https://committees.parliament.uk/oralevidence/2482/html/) · [Official PDF](https://committees.parliament.uk/oralevidence/2482/pdf/) | 20-page corrected transcript, Questions 195–207; browser-visible official text and metadata verified; 7 August shell/PDF recheck returned Cloudflare 403 and no local transcript binary is claimed |
 
