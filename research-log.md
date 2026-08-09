@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1111/C-1343–C-1347: January 2020 Nelson Mandela CV page audit
+
+The complete eight-page Wayback-recovered CV was extracted with layout preservation and visually checked across its qualifications/employment, affiliations/service, bibliography, awards, invited-speaking, and conference-paper pages. The audit records the CV as a dated professional narrative, maps its “Present” and forthcoming-publication wording, and preserves the 2020-versus-2021 *Black Curriculum* bibliography discrepancy. It does not treat CV entries as independent HR, degree, party, publisher, or event records, and creates no duplicate biography or publication nodes.
+
 ## 2026-08-09 — SRC-1110/C-1341–C-1342: Arasite evidence-files provenance audit
 
 The four preserved ZIP archives and their extracted DOCX/text derivatives were inspected as one coordinated dossier family. The audit records the public host’s September 2025 submission claim, the one-DOCX-per-ZIP structure, July 2026 internal timestamps, comparison-label boundary, broken relation-diagram path, and absence of institutional receipts, reports, raw code, or formal outcomes. It adds no new plagiarism conclusion and does not re-count the existing page-level primary-text audits.
