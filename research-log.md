@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-895/C-974: OpenAlex and public-media sweep extension
+
+Discovery: the current OpenAlex author identifier `A5048886069` returned 56 works when queried with a 100-result page sorted by publication date; the newest DOI-bearing entries were the already-preserved OSF preprint versions. Exact title/DOI comparison and concurrent searches for publications, 2026 DOI output, YouTube/video, and podcasts returned existing records such as the Oxford EDB lecture and *How Do You Cope?* episode, plus homonyms.
+
+Decision: extend SRC-895 with the query and result boundary rather than create duplicate publication or media nodes. No new DOI, full text, recording, transcript, or distinct event artifact was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-895/C-973: current event and institutional sweep extension
 
 Discovery: a focused sweep of current event-recording, university-event-report, interview/podcast/video, advisory-page, BSA, Cambridge, and scholarly correction searches returned only existing canonical records, byte-identical Cambridge appointment material, the already-preserved Taylor & Francis 403 state, and unrelated homonyms.

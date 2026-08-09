@@ -1,5 +1,7 @@
 # Work state
 
+Latest index/media sweep extension: on 2026-08-09 `SRC-895/C-974` recorded a fresh OpenAlex 56-work result and exact title/DOI reconciliation, alongside publication/video/podcast searches. All results resolved to existing records or homonyms; no new artifact was found. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest search-boundary extension: on 2026-08-09 `SRC-895/C-973` recorded a focused current sweep across events, university reports, interviews/podcasts/videos, BSA/Cambridge pages, and scholarly correction routes. Results resolved to existing records, unchanged states, or homonyms; no new artifact or institutional outcome was found. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly access checkpoint: on 2026-08-09 `SRC-911/C-972` rechecked the Taylor & Francis PDF route for the canonical correction to *Attempting to break the chain*. It returned a byte-distinct HTTP 403 Cloudflare challenge; no correction PDF or new text was recovered. This is a retrieval-state update only and remains deduplicated to SRC-297. Google Drive was not updated; GitHub remains the active publication target.

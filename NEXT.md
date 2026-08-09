@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh index/media sweep extension: `SRC-895/C-974` — on 9 August 2026 the OpenAlex author query returned 56 works and no new title/DOI candidate; current publication, video, and podcast searches resolved to existing records or homonyms. Reopen only after a changed index result, concrete DOI/title, public recording/transcript, or distinct event artifact; do not repeat these queries unchanged.
+
 Fresh bounded-sweep extension: `SRC-895/C-973` — 9 August searches across current events, institutional reports, interviews/podcasts/videos, BSA governance/conference pages, Cambridge appointment material, and scholarly correction routes returned only existing records, unchanged/previously captured states, or homonyms. Reopen only for a changed official endpoint, named inquiry outcome, new DOI, filing, recording/transcript, or distinct publication artifact; do not repeat these query families unchanged.
 
 Fresh scholarly access checkpoint: `SRC-911/C-972` — the Taylor & Francis PDF route for the canonical correction to *Attempting to break the chain* returned a byte-distinct HTTP 403 Cloudflare challenge on 9 August 2026. No correction PDF or new text was recovered. Reopen only for a lawful full correction PDF/HTML, changed publisher endpoint, formal journal correction/retraction state, or institutional outcome; do not repeat the same request unchanged.
