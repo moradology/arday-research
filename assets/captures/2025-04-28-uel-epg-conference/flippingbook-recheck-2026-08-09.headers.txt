@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 10:02:36 GMT
+content-type: text/html
+x-request-id: 7+WDZUWmvv8NGisAAAAAAA==
+x-service-version: ea72d5e84bb95f49e0e074698554775afd2bca64
+content-security-policy: default-src 'self' 'nonce-ap9G3AIm9dc2lF7Y0ALlaYZ6iczFT3P4jPbGsAFQ/A==' flippingbook.com html5shiv.googlecode.com www.google-analytics.com stats.g.doubleclick.net d33i2vgywgme2s.cloudfront.net; script-src flippingbook.com html5shiv.googlecode.com www.google-analytics.com stats.g.doubleclick.net d33i2vgywgme2s.cloudfront.net 'nonce-ap9G3AIm9dc2lF7Y0ALlaYZ6iczFT3P4jPbGsAFQ/A==' d2acn53ctcwkeb.cloudfront.net 'strict-dynamic' 'unsafe-eval'; img-src flippingbook.com html5shiv.googlecode.com www.google-analytics.com stats.g.doubleclick.net d33i2vgywgme2s.cloudfront.net blob: data:
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+

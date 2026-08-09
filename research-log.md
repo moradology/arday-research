@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-640/C-1229–C-1232: UEL ethnicity-pay-gap report recheck
+
+Discovery: a targeted report search surfaced current indexed text for UEL’s *Bridging the Gap: Closing the Ethnicity Pay Gap in the UK*, which names Arday among contributors and directs readers to Appendix G, page 40. The same indexed text identifies the Office for Institutional Equity as producer and Samson Olagbami as writer/collator.
+
+Capture: the UEL PDF route returned a byte-distinct Akamai 403 response; the linked FlippingBook route returned a publication-unavailable page. Both rechecks are preserved under the existing conference source family. No PDF body, page image, recording, transcript, or speaker-attributed Arday passage was recovered.
+
+Decision: update SRC-640 in place rather than create a duplicate report node. Add only the contributor-listing, report-method framing, and changed-access claims. Keep Arday’s panel role and the report’s general recommendations separate from any verified account of what he said.
+
 ## 2026-08-09 — SRC-1081–SRC-1082/C-1224–C-1228: Invesco race/neurodiversity conversation
 
 Discovery: targeted 2024 event/interview searches surfaced Invesco’s report, syndicated by London South East, on a Black History Month conversation with Jason Arday. A separate search surfaced Invesco’s 2023 UK Stewardship Code report, whose Cambridge Judge Business School case study records a Black History Month session with Arday on the same subject.

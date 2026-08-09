@@ -1,0 +1,14 @@
+HTTP/2 403 
+mime-version: 1.0
+content-type: text/html
+content-length: 449
+cache-control: max-age=60
+expires: Sun, 09 Aug 2026 10:03:18 GMT
+date: Sun, 09 Aug 2026 10:02:18 GMT
+set-cookie: X-Akamai-Geo=US
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=1
+x-akamai-geo: US
+strict-transport-security: max-age=63072000 ; includeSubDomains
+server-timing: ak_p; desc="1786269738735_398676383_2621065607_15_4070_25_29_15";dur=1
+
