@@ -1,5 +1,7 @@
 # Timeline
 
+| 2023 / report published 2024-06-04 | Invesco’s stewardship report and a related event summary document one Black History Month session with Arday on the intersectionality of race and neurodiversity, held with Invesco/Goldman Sachs and described in the report as jointly hosted with J.P. Morgan. | first-party corporate event/report witnesses; no recording or transcript; attributed biography and public-position claims remain bounded | [Conversation report](sources/2026-08-09-invesco-arday-conversation.md) · [Stewardship report](sources/2026-08-09-invesco-stewardship-report.md) |
+
 Dates are recorded as events, not as proof of every biographical detail reported around them.
 
 ## Childhood and education chronology

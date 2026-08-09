@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-1081–SRC-1082/C-1224–C-1228: Invesco race/neurodiversity conversation
+
+Discovery: targeted 2024 event/interview searches surfaced Invesco’s report, syndicated by London South East, on a Black History Month conversation with Jason Arday. A separate search surfaced Invesco’s 2023 UK Stewardship Code report, whose Cambridge Judge Business School case study records a Black History Month session with Arday on the same subject.
+
+Capture: the LSE route returned a Cloudflare 403 challenge, which is preserved locally. The indexed article text was read through the public search/open result. The current Invesco PDF route returned 404, while indexed PDF text exposes the relevant printed p. 25 passage; no recording, slides, image, or attendee register was recovered.
+
+Decision: add two documentary source-version records but one event family. Claims are limited to event context, Arday-attributed accounts of Gifty and Sandro Sandri, masking/microaggressions/agency themes, and the report’s fundraising wording. The corporate reports are promotional/documentary witnesses, not independent corroboration or verbatim transcripts. Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1080/C-1218–C-1223: 2013 peer-mentoring article page audit
 
 The complete LJMU Open Journals issue PDF was audited at article level. The pass binds the title/byline and printed page coordinates to the article’s own scope statement, distinguishes its literature-based contextual synopsis from original empirical research, maps its reflection/apprenticeship/reciprocity framework, records its discussion of mentoring risks, and captures its explicit caution against a universally superior approach.

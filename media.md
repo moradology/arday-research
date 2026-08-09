@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1081–SRC-1082`: [Invesco/London South East conversation report](sources/2026-08-09-invesco-arday-conversation.md), [local 403 challenge](assets/captures/2026-08-09-invesco-arday/), and [Invesco stewardship-report link](https://www.invesco.com/content/dam/invesco/emea/en/pdf/UK_Stewardship_Code_Report_2023.pdf) — corporate documentation of the same Black History Month session on race/neurodiversity; no recording, transcript, or image recovered.
+
 - `SRC-1045`: [Cumberland Lodge audio audit](sources/2026-08-09-cumberland-lodge-audio-audit.md) — targeted navigation of the locally preserved [59:10.38 SoundCloud MP3](assets/audio/cumberland-lodge/beyond-tokenism-jason-arday.mp3), with an approximate Arday-attributed tokenism/whiteness window; machine-assisted and not a verbatim transcript.
 - `SRC-1048`: [Surviving Society E031 audio audit](sources/2026-08-09-surviving-society-e031-audio-audit.md) — opening-window navigation of the locally preserved [1:11:45.64 HLS AAC](assets/audio/surviving-society-e031-jason-arday-2019.m4a), adding approximate timecodes for childhood/cultural-memory passages; machine-assisted and not a verbatim transcript.
 
