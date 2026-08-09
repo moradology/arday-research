@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1058/C-1107–C-1110: PBS early-intervention caption audit
+
+The locally preserved 2 September 2023 PBS segment was checked against its official English VTT. The audit adds subject-centred details about continued speech/language work from roughly ages 11–16, Arday’s retrospective interpretation of the non-verbal period as observational, a reported reading age of 12 at university, a 500-words-a-day writing practice over roughly 15 years, and the Sandro Sandri PhD anecdote. These are preserved as first-person testimony and caption-derived source-version claims. PBS host narration and superlatives remain separate from Arday’s account; no therapy, assessment, writing log, or independent mentorship record was found in this pass. The MP4 remains locally available for later human waveform verification before verbatim quotation.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.

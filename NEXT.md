@@ -1,4 +1,6 @@
 # Next actions
+Fresh subject-centred caption checkpoint: `SRC-1058/C-1107–C-1110` — PBS’s 2023 interview now has bounded records for continued language work, non-verbal observation, writing practice, and the Sandri PhD anecdote. Human-verify against the MP4 before quoting; keep reading-age, therapy, writing-log, and host-superlative claims source-versioned.
+
 Fresh scholarly-output checkpoint: `SRC-1028/C-1028` — the 2018 open-access mental-health article received a page-level audit of its design, sample, methods, reported themes, recommendations, and explicit limitations. Reopen only for raw/archived transcripts, coding materials, ethics/recruitment records, a correction/retraction, or a materially different article version; do not create a second publication node.
 
 Fresh primary-thesis checkpoint: `SRC-1029/C-1029` — Arday’s 401-page 2015 LJMU thesis now has page-level navigation for its design, sample funnel, ethics, epistemology, findings, and self-stated limitations. Reopen only for the repository record, a materially different thesis version, an institutional examination/award record, or lawful raw research materials; do not create a second thesis node.

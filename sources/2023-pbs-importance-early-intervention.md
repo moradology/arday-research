@@ -41,6 +41,8 @@ Episode 1 of PBS’s *A World of Difference: Embracing Neurodiversity*. The epis
 
 ## Timecoded caption evidence
 
+A bounded subject-centred audit of the Arday segment is preserved as [SRC-1058](2026-08-09-pbs-early-intervention-caption-audit.md). It separates his testimony from PBS narration and preserves the official-caption verification boundary.
+
 The official English VTT track identifies the following segments. These are records of what the programme says or attributes, not independent verification of the underlying life history:
 
 - 20:05–20:20: programme narration describes autism and difficulty speaking until 11 and reading/writing until 18.
