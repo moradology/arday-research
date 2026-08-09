@@ -1,6 +1,8 @@
 # Work state
 Latest memoir-version checkpoint: on 2026-08-08 `SRC-890/C-897–C-898` preserved the *Daily Mail* report and embedded commentary video alleging differences between a 2024 memoir proposal and the published memoir. The proposal itself was not recovered; its *Atlantic* reference was reconciled to canonical `SRC-335`. These are reported source-version discrepancies, not verified medical or autobiographical facts.
 
+Latest political-commentary checkpoint: on 2026-08-08 `SRC-891/C-899–C-900` preserved Boris Johnson’s *Daily Mail* opinion column, lead image, and embedded 32-second video. It is a named political intervention arguing for scrutiny of Cambridge’s appointment process; its judgments and repeated allegations remain attributed opinion, not adjudication.
+
 Latest legal-governance checkpoint: on 2026-08-08 `SRC-889/C-896` captured the Companies House AP01 filing received 12 April 2024, which records Prof Jason Atta Kwei Arday’s director appointment at Autism Centre of Excellence on 30 March 2024 and his consent to act. This legally pins the filed appointment date but does not establish current service, operational activity, remuneration, or an end date. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest Jesus College primary-record checkpoint: on 2026-08-08 `SRC-887/C-894` captured the 2024 Annual Report and Accounts, whose printed p. 3 lists “Professor J. Arday (from 1 October 2023)” among the Fellows. This is dated first-party roster evidence; post-resignation status and any investigation outcome remain unresolved. Google Drive was not updated; GitHub remains the active publication target.

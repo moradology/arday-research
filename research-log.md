@@ -8,6 +8,14 @@ Capture: preserved the Daily Mail HTML and headers, 1200×675 lead image, and em
 
 Classification: secondary source-version reporting and publisher commentary, not medical or autobiographical verification. Reopen only for the proposal/manuscript, a changed SRC-335 version, a correction, or direct author/publisher response. Google Drive was not updated; GitHub remains the active publication target.
 
+## 2026-08-08 — SRC-891/C-899–C-900: Boris Johnson commentary
+
+Discovery: the Daily Mail article page for the memoir-proposal report linked to Boris Johnson’s separate 7 August 2026 opinion column about the Arday appointment and Cambridge’s institutional incentives.
+
+Capture: preserved the full column HTML and headers, its 1200×675 lead image, and its embedded 32-second video. The item is catalogued as a named political opinion/source-propagation record, distinct from SRC-890’s news report but not independent corroboration.
+
+Classification: the column’s judgments about merit, biography, racism, and institutional responsibility remain attributed to Johnson. Its call for an independent inquiry is a public argument, not evidence that such an inquiry has occurred. Reopen only for a correction, response, changed page, or direct institutional record.
+
 ## 2026-08-08 — SRC-889/C-896: Companies House AP01 appointment filing
 
 Discovery: the Companies House filing-history search for Autism Centre of Excellence (company 12435820) exposed a distinct AP01 filing that was not represented by the annual-report or Charity Commission records.

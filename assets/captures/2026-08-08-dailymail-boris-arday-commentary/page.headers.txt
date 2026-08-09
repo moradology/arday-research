@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+set-cookie: gab=8e5f6bea926f4f839262134781b941c6; path=/; domain=.www.dailymail.com; Secure
+edge-cache-tag: env|prod|article|16037181
+vary: User-Agent
+content-security-policy-report-only: block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly
+x-robots-tag: noarchive
+server-timing: origin; dur=134
+server-timing: edge; dur=8163
+server-timing: cdn-cache; desc=REVALIDATE
+x-mol-georesp: us
+x-rs-ben-time: Sun, 09 Aug 2026 00-07-00 GMT
+x-rs-time: Sun, 09 Aug 2026 00-07-00 GMT
+x-rs-ops: varnish6-web-a02-fe:6081
+x-rs-ben: cljfe-a4:8181
+x-storage: newarticles
+x-rs-ctime: 240
+x-akamai-transformed: 9 775088 0 pmb=mTOE,1mRUM,3
+cache-control: max-age=20
+date: Sun, 09 Aug 2026 00:07:01 GMT
+set-cookie: bm_s=YAAQ7TovF1D7+6afAQAA4CfY4wWnPK5B+YX8aPA9OsrHsMiglq7s8pykZdpRSQxOSotjJaxFp8Ga1iPy8V7UvJgsWYFwPzx4m3P1kQ8DPQcNIOycBH+r9HibWF2OpyRyo8cvc1xGscQEVXSGYXxdKOKQti1fbtuPPOavIjoYG2zk5i8rPHBORen/LC6wQGsAh6siI4b7skeIYYjRpNHCOuUwkxKjUXGSqxUr224sE3XYea5S1D7yDuZZ5FuGoesH8B3UGAI+CCM58hVYnrnNj+7N65KQEf41rjunnJoVk6O36aeHL6w7zMIz3XYD+3X7f1pTvOq8/vMcWnfBznjDkj0zDxXuGdsHlBsMzXLm5Y37s3Eo4tQZxMrZ9Yj6xvuqXMiVI7GqHxd/0B8Nnw9jltClrer9NLeV6k1a4mMqcf2K1Vf64mDFRfr5Bnq7SuViMEhY3ifyI7zi/lN8dDIoGuM+/M0NyL1BncoKxyLOO7grSm6jQKnLyEB7JTacyhZ1gpbcbAGpxgmNM+ANTm/A71e5E6pYLgrgBt3G3vso9FGfBYB+fJr2KneK3epe4JBsYJ/yO/NG/SJhkVVQ4vJ0H8d+mStPZPvkISMvmePyy116; Domain=.dailymail.com; Path=/; Expires=Wed, 09 Sep 2026 00:07:01 GMT; Max-Age=2678400; Secure; HttpOnly
+set-cookie: bm_so=A5552EEA28455BBF475D8FA9670648D88A555C353A9EC219D5BB5A853F31E36C~YAAQ7TovF1H7+6afAQAA4CfY4wic4+XRSnJH5TIiZZoEdzsR+va+mVpJz+ghGC7XRsSFJBDGGbe3ZU6VhM12LbhbawnJCfkZwJbXo7PJb0Zvz04XiBvyd2TdpS4EgjEfdSOILVRKy8l4dJTVfrPPa7vWkz8p1u+dpnFP4gRziVx2ZvRi4d+w9P9ewU+mK1rEekiKjjQpFBkMRnjR2gKQN4lGWDcYtac9B0u9nJy5FkUqOU0pfaXd/LvwDzaxAg3vL/nAUDyANIsLlX3IBj3zynygenZD6nY5HKmzM601VLuQhNz4gOx57/yVOE8YG4eowLoS+qWKsTVVu86wqCTD4ZVAnR3az6Opa6aqnWTU0i4eu1oVVY0dwWkulTtE1jRkpHnelxNM4pgmp0cGPOkoWthTzo7E5jzLp38k03uIB/iYim1Nk3QIQ0IfO39SkQgYbPTRRhkhG9vTTSeCeR2QiBfNSb7YIA==; Domain=.dailymail.com; Path=/; Expires=Mon, 10 Aug 2026 00:07:00 GMT; Max-Age=86399; Secure
+server-timing: ak_p; desc="1786234012281_388971245_2510115568_829722_17450_50_80_15";dur=1
+

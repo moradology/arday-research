@@ -27,6 +27,7 @@ The controversy is the mechanism through which otherwise separate records became
 | QUB co-authored-publication review | [QUB research-misconduct procedure](../sources/2021-10-qub-research-misconduct-regulations.md), [BBC report](../sources/2026-08-08-bbc-qub-arday-investigation.md) | QUB’s general procedure and the BBC-reported review status are documented; scope, investigator, stage, findings, and outcome remain unknown |
 | Formal honours/regulator trail | [Official ASA/Gazette search](../sources/2026-08-07-official-asa-gazette-searches.md) | Tested exact-name public databases returned no matching result; private correspondence and informal claims unresolved |
 | Memoir proposal and source-version discrepancies | [Atlantic feature](../sources/2026-08-06-atlantic-icarus-in-the-faculty-lounge.md), [Daily Mail proposal-version report](../sources/2026-08-07-dailymail-memoir-proposal-versions.md), [Simon & Schuster publisher page](../sources/2026-08-11-simon-schuster-great-and-unfortunate-things.md) | Two reported manifestations describe differences between an unpublished 2024 proposal and the final memoir; the proposal itself remains unavailable, so medical and autobiographical truth is unresolved |
+| Political/institutional accountability framing | [Boris Johnson commentary](../sources/2026-08-07-dailymail-boris-johnson-arday-commentary.md) | A named political commentator calls for scrutiny of Cambridge’s appointment process; this is public opinion and controversy amplification, not an institutional finding |
 
 ## Public-salience chronology
 
