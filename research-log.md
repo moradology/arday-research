@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1124/C-1384: Cambridge University Reporter election notice audit
+
+The complete 14-page Reporter No 6680 PDF was extracted and visually checked. The audit locates Arday’s formal election notice on PDF page 9/printed page 213, records the exact printed title/credential/effective-date wording and issue metadata, and separates governance evidence from qualification validation and later employment status.
+
 ## 2026-08-09 — SRC-1123: Cambridge appointment announcement page audit
 
 The surviving Faculty and news manifestations of Cambridge’s 23 February 2023 appointment announcement were audited as one historical source family. The audit maps the appointment/date text, institutional superlative framing, attributed biography, public mission, academic-formation passage, career references, and the split state in which the announcement remained live while the separate Faculty profile was 404. Existing C-001/C-027/C-366/C-540 were linked conceptually rather than duplicated.

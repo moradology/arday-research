@@ -25,3 +25,5 @@ This is an official university governance notice and therefore a stronger appoin
 - PDF: [Cambridge University Reporter No 6680](../assets/documents/cambridge-university-reporter-6680-2022/6680.pdf) — SHA-256 `4b0541368dc40cc486693079b34fe0c40b8662819b8d699eb3b67da50014d9ab`.
 - Response headers: [capture headers](../assets/documents/cambridge-university-reporter-6680-2022/6680.headers.txt) — SHA-256 `38d743511c2379ec34f1424e930b91d0c50c1633c7edb57ffbf613ea7e9a6468`.
 - The PDF has 14 pages; the notice is on PDF page 9 and printed page 213.
+
+See the [2026-08-09 page-level audit](2026-08-09-cambridge-reporter-election-page-audit.md) for the exact notice location, metadata, and governance/qualification boundaries.
