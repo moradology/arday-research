@@ -1,5 +1,7 @@
 # Work state
 
+Latest recent-source sweep: on 2026-08-09 exact-name searches for August news, memoir reviews, Cambridge process updates, and interviews returned existing canonical records; no formal outcome or new primary artifact appeared. SRC-897 is the only new platform manifestation promoted from that pass. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest podcast-platform checkpoint: on 2026-08-09 `SRC-897/C-913` captured Amazon Music’s catalogue-shell manifestation of the canonical *Talking Matters* episode. It adds episode/show IDs and indexed metadata but no audio, transcript, or captions; it remains deduplicated to SRC-184. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest archive-integrity audit: on 2026-08-09 the worktree contained 614 ID-bearing source records with no duplicate front-matter IDs; the registry referenced 629 unique source paths and all were present on disk. This checks canonical-file integrity only; many binary captures remain local or selectively published. Google Drive was not updated; GitHub remains the active publication target.

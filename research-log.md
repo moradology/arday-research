@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — recent-source sweep: no new canonical record
+
+Exact-name searches for August 2026 news, memoir reviews, Cambridge process updates, and new interviews returned AP, *The Atlantic*, *The Week*, *Publishers Weekly*, StoryGraph, Retraction Watch, Good Law Project, Guardian, and already-catalogued publisher records. No new formal outcome, primary institutional document, distinct interview, or uncatalogued memoir manifestation was recovered in this pass; Amazon Music’s Talking Matters route is the only new source-version promoted as SRC-897.
+
 ## 2026-08-09 — SRC-897/C-913: Amazon Music Talking Matters manifestation
 
 Discovery: an exact-name podcast search surfaced Amazon Music’s catalogue route for the already-canonical *Talking Matters with Nick Halkes* episode. Browser/indexed metadata identifies the 2 August 2024 catalogue date, approximately 1 hour 18 minute duration, episode and show IDs, and the statement that the conversation was recorded in 2021 while Arday was an associate professor at Durham.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh recent-source sweep boundary: exact-name searches for August 2026 news, memoir reviews, Cambridge process updates, and interviews returned only existing canonical records plus SRC-897’s Amazon Music manifestation. Reopen only for a formal institutional outcome, changed primary statement, distinct recording/transcript, or uncatalogued publisher artifact; do not repeat the same broad queries unchanged.
+
 Fresh podcast-platform checkpoint: `SRC-897/C-913` — Amazon Music now has a locally captured catalogue-shell manifestation of the canonical *Talking Matters* episode, with browser/indexed metadata and episode ID `0f794b62-c24e-4e23-9ff1-8e55efc03d18`; the direct shell exposes no audio, transcript, or captions. Reopen only for a changed rendered route, public transcript/captions, or distinct audio endpoint; do not create a second interview node.
 
 Fresh archive-integrity checkpoint: the 9 August read-only audit found 614 ID-bearing source files, no duplicate front-matter IDs, 629 unique registry paths, and no missing registry-referenced source file. Continue selective binary publication only from explicit source records; do not assume that every local capture is already on GitHub.
