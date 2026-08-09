@@ -1,3 +1,7 @@
+# Media / binary capture additions
+
+- `SRC-930`: [Google Books cover capture](assets/captures/2026-08-09-google-books-memoir-recheck/HWfF0QEACAAJ.cover.jpg), returned as a 300×391 PNG from the edition-specific cover route. It is preserved as a manifestation of the 336-page UK catalog record, not assumed to be identical to other memoir covers.
+
 # Media index
 
 - [The Atlantic “Icarus in the Faculty Lounge” article audio](assets/captures/2026-08-09-atlantic-arday/article-audio.mp3), [current HTML](assets/captures/2026-08-09-atlantic-arday/page.html), [extracted text](assets/captures/2026-08-09-atlantic-arday/page.txt), and [cropped lead image](assets/captures/2026-08-09-atlantic-arday/hero.jpg) — 9 August source-version capture of the 6 August feature; article text substantively unchanged, audio recovered from the public player; SRC-926/C-992, deduplicated to SRC-335. Secondary journalism, not independent corroboration.

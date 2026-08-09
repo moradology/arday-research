@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-edition checkpoint: `SRC-930/C-996` — Google Books exposes a distinct UK record (ISBN 9781398542747, 336 pages) with a locally preserved cover and publisher synopsis, but no readable preview; the page says no ebook and `is_browsable:false`, while both tested API routes returned HTTP 429. Reopen only for a lawful excerpt/full text, a stable page-image route, a materially changed edition record, or a distinct publisher/library artifact; do not repeat the same API requests unchanged.
+
 Fresh Atlantic media/source-version checkpoint: `SRC-926/C-992` — the feature’s article text is substantively unchanged, but its public audio player yielded a locally preserved MP3 and a cropped lead-image manifestation. Reopen only for the underlying 2024 proposal, first-party memoir text, materially changed article body, or primary institutional/publication records; do not count the audio as independent corroboration.
 
 Fresh PubPeer direct-search checkpoint: `SRC-925/C-991` — the exact-name search shell was captured, but the API required human verification and the two tested Arday DOI routes returned 404. This is an incomplete access boundary, not a no-results finding. Reopen only for a human-verifiable result, alternate PubPeer identifier, direct Arday publication page, or changed response; do not repeat the same requests unchanged.

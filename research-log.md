@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-930/C-996: distinct Google Books UK memoir record
+
+Discovery: the indexed Google Books lead resolved to an HTTP-200 edition page for volume `HWfF0QEACAAJ`, ISBN 9781398542747 / ISBN-10 1398542741. The page lists Simon & Schuster Limited, 27 August 2026, and 336 pages, exposes a cover, and repeats the memoir synopsis. Its embedded state says “No eBook available,” `has_flowing_text:false`, `has_scanned_text:false`, and `is_browsable:false`. The Google Books API returned HTTP 429 for this ID and the previously captured 368-page UK ID.
+
+Decision: register a distinct edition-level source linked to the memoir family rather than merge it into `SRC-145`. Preserve the synopsis as publisher/catalog copy and the page’s family-count wording as another witness, without upgrading it to independent corroboration. The record expands edition topology but yields no readable memoir text. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-922/C-988: football-academy lead remains inaccessible
 
 Discovery: current search indexing surfaced a June 2026 Reddit discussion explicitly asking which academy or professional club was meant by the original Bath wording. A direct request returned Reddit’s anti-bot challenge, with no thread body or comments available.
