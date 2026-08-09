@@ -78,6 +78,8 @@ The Springfields Academy’s current “Arday Class” page adds a distinct inst
 
 The Crystal Palace official-domain search adds a bounded negative-space edge to the football claim: the current academy-graduate roster contains no Arday entry, and no Arday-specific official club record was found. This does not disprove an older or unindexed youth association. [Crystal Palace search boundary](../sources/2026-08-09-crystal-palace-arday-search.md)
 
+A June 2019 Academic Libraries North biography PDF remains an indexed but inaccessible source-version: its endpoint now returns HTTP 404, so its apparent Durham, governance, and research-role wording is not treated as verified evidence. [Academic Libraries North boundary](../sources/2026-08-09-academic-libraries-north-biography-boundary.md)
+
 A reproducible larger-model audit of the preserved *Talking Matters* window (00:20:00–00:21:40) improves the navigation wording: it hears “professional snooker player,” “Pro-Am,” “Pontins in Prestatyn,” ages 11–19, roughly seven hours daily, and the 50–60 versus 87 break comparison. This remains machine-assisted first-person audio evidence, not a human-verified transcript or independent record. [Snooker audio audit](../sources/2026-08-09-talking-matters-snooker-audio-audit.md)
 
 This record is intentionally limited to identity, affiliations, and links to evidence. Biographical claims, disputes, and allegations belong in the claims ledger with their source and status.

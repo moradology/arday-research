@@ -1,5 +1,7 @@
 # Work state
 
+Latest childhood/education checkpoint: on 2026-08-09 `SRC-1021/C-1021` logged a distinct June 2019 Academic Libraries North biography PDF as an indexed but inaccessible source-version. Both URL forms returned HTTP 404; no artifact was recovered and no snippet-level claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest audio-verification checkpoint: on 2026-08-09 `SRC-1020/C-1020` re-transcribed the preserved *Talking Matters* snooker exchange with `mlx-whisper` small.en. It recovers the professional-snooker/Pro-Am/Pontins-in-Prestatyn wording, ages 11–19 and roughly seven hours daily, plus the 50–60 versus 87 break comparison. This remains machine-assisted first-person evidence, not human-verified or independently corroborated. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest sports-verification checkpoint: on 2026-08-09 `SRC-1019/C-1019` captured Crystal Palace’s current academy-graduate roster after exact-name official-domain searches. No Arday-specific record appeared; this narrows one named-club route but does not disprove a historical youth association. Google Drive was not updated; GitHub remains the active publication target.

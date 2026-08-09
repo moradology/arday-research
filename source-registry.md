@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-1021 | `sources/2026-08-09-academic-libraries-north-biography-boundary.md` | Search-indexed June 2019 Academic Libraries North biography PDF lead; direct `www` and apex-domain retrievals now end in identical HTTP 404 responses, so the underlying PDF was not recovered | indexed biography lead / inaccessible institutional source-version / access boundary | 2026-08-09 | Academic Libraries North, Jason Arday, Durham, biography, 2019, source boundary, HTTP 404, inaccessible |
+
 | SRC-1020 | `sources/2026-08-09-talking-matters-snooker-audio-audit.md` | Reproducible 100-second re-transcription of the canonical *Talking Matters* sports exchange using mlx-whisper small.en; recovers non-league football duration, professional-snooker/Pro-Am/Pontins claims, and comparative break details; not human-verified | primary audio audit / machine transcript derivative / deduplicated to SRC-184 | 2026-08-09 | Talking Matters, snooker, Pontins, Prestatyn, Pro-Am, football, ASR, audio audit, machine transcript, source version |
 
 | SRC-1019 | `sources/2026-08-09-crystal-palace-arday-search.md` | Exact-name search across Crystal Palace’s official domain found no Arday-specific public record; the current Academy Graduates roster contains no `Arday` occurrence and only a different Jason player; preserved as a bounded negative-space result | official football-club roster / named-club search boundary / local extracted text | 2026-08-09 | Crystal Palace, academy, academy graduates, Jason Arday, football, youth player, negative space, sports verification |

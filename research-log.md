@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1021/C-1021: Academic Libraries North biography access boundary
+
+The childhood/education pass surfaced a distinct June 2019 PDF biography under Academic Libraries North. Search indexing exposes role and affiliation wording, but both the original `www` URL and its redirected apex-domain URL returned the same HTTP 404 on direct retrieval; no PDF or text was recovered.
+
+Decision: preserve the indexed lead and access boundary without promoting its snippet to verified biography evidence. Reopen only for a lawful archive copy, a restored PDF, or a replacement institutional record. Google Drive not updated; GitHub active.
+
 ## 2026-08-09 — SRC-1020/C-1020: Talking Matters snooker audio audit
 
 The canonical local MP3 was re-transcribed for 00:20:00–00:21:40 using `mlx-whisper` small.en after the earlier Whisper-small navigation pass. The larger model recovers closer-to-professional snooker, age 11–19 / roughly seven hours daily, Pro-Am, Pontins in Prestatyn, a 50–60 versus 87 break comparison, and 12–13 years of non-league football.

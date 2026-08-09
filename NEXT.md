@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh childhood/education source boundary: `SRC-1021/C-1021` — a distinct June 2019 Academic Libraries North biography PDF is indexed but its `www` and redirected apex-domain endpoints now return HTTP 404. Reopen only for a lawful archive copy, restored PDF, or replacement institutional record; do not treat the search snippet as verified biography evidence.
+
 Fresh audio-audit checkpoint: `SRC-1020/C-1020` — a larger-model transcript improves the wording of the preserved *Talking Matters* snooker passage. Reopen only for human listening, a first-party caption/transcript, named Pontins result, ranking, or governing-body record; do not count this derivative as independent corroboration.
 
 Fresh sports-verification checkpoint: `SRC-1019/C-1019` — Crystal Palace’s official-domain search and current academy-graduate roster expose no Arday-specific record. Reopen only for a named club, academy-era roster, youth-team programme, contract/registration record, match report, or direct correction; do not repeat the same modern roster search or treat this negative space as disproof.
