@@ -702,6 +702,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-914 | `sources/2026-08-09-repository-search-boundary.md` | Exact-name searches of LJMU Research Online, White Rose Research Online, and Open Research Online; LJMU returned three results including only the known Arday thesis, White Rose exposed no new Arday record, and Open Research Online returned HTTP 403 Cloudflare | institutional-repository search result / negative-space observation / access boundary / local HTML and headers | 2026-08-09 | LJMU, White Rose, Open Research Online, repository, search boundary, thesis, deduplication, Cloudflare, access state |
 
+| SRC-915 | `sources/2026-08-09-media-event-search-boundary.md` | Targeted exact-name searches for 2025–26 videos, podcasts, lecture recordings, and event programmes; material results reconciled to existing UCL, ARU, Newcastle, BSA, Oxford, Bath, Crick, RSC, and Broken Vessel records, with no new media artifact recovered | media/event search boundary / result reconciliation / negative-space record / no local binary | 2026-08-09 | media, video, audio, podcast, lecture, event, programme, transcript, captions, search boundary, deduplication |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

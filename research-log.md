@@ -3983,3 +3983,10 @@ Discovery: exact-name repository searches were run against LJMU Research Online,
 Capture: LJMU returned three results, including Arday’s known 2015 doctoral thesis and two unrelated records. White Rose returned its search route without a new Arday record. Open Research Online returned an HTTP 403 Cloudflare challenge. HTML and response headers for all three routes are preserved under `assets/captures/2026-08-09-repository-search-boundary/`.
 
 Decision: added SRC-914 and C-980 as a bounded repository search/access record. No new publication or biography entity was created; reopen only with a changed result, direct repository item, new DOI/title, or lawful access route through the blocked host.
+## 2026-08-09 — SRC-915/C-981: media and event discovery boundary
+
+Discovery: targeted exact-name searches were run for 2025–26 videos, podcasts, lecture recordings, and event programmes.
+
+Result: UCL, ARU, Newcastle, BSA, Oxford, Bath, Crick, RSC, and Broken Vessel hits all reconciled to existing records or known access gaps. No new recording, audio file, caption track, transcript, programme, or post-event report was found.
+
+Decision: added SRC-915/C-981 as a bounded media-search record. Reopen only with a concrete recording URL, caption/transcript body, downloadable programme or slide deck, post-event report, or materially changed host page.
