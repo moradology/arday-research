@@ -17,6 +17,8 @@ id: SRC-269
 
 Royal Greenwich published a recording titled “Panel presentations | Shaping our future: Black history month panel discussion.” The description identifies Jason Arday as an Assistant Professor of Sociology at Durham University and lists him as the first panel presenter, alongside Cllr Ivis Williams, Martha Holder, Dr Suhraiya Jivraj, and Caroline Ukoumunne. The automatic captions show Arday’s opening presentation addressing Black history, education, racism, and institutional inequality. This is a dated institutional media record, not a childhood biography source.
 
+A bounded caption audit isolates Arday’s opening 00:55–07:22 contribution and records the public-position/statistical source versions as `C-1119–C-1122`; later panelists are excluded: [SRC-1062](2026-08-09-royal-greenwich-panel-caption-audit.md).
+
 ## Local preservation
 
 - MP4: `assets/videos/c1qCBb9eDL0.mp4` — SHA-256 `abec8049ad03f96b419eaafdf4b61ec91250bda0e70f99d46bc1a72c4b01a204`

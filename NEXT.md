@@ -1,4 +1,6 @@
 # Next actions
+Fresh public-position checkpoint: `SRC-1062/C-1119–C-1122` — Royal Greenwich’s 2020 panel now has a bounded Arday opening audit covering British history, curriculum/belonging, the cited 23-percent attainment-gap figure, 2011 Census references, and the education-to-prison framing. Identify the underlying reports/datasets and human-verify the MP4 before treating the statistics or causal claims as established.
+
 Fresh public-position checkpoint: `SRC-1061/C-1114–C-1118` — the UCU webinar’s opening Arday segment now has bounded records for his decolonisation theory, Global South/curriculum position, captioned “Keele” initiative account, student-engagement emphasis, and anti-tokenism warning. Verify the MP4 or locate an institutional Keele/UCU artifact before treating the named programme, person, manifesto, or charter as independently established.
 
 Fresh source-version checkpoint: `SRC-1060` — the Wellcome Sanger Institute interview’s existing C-1030–C-1034 passages are now bound to precise automatic-caption windows without duplicate claim nodes. Human-verify against the MP4 if verbatim quotation or medical/qualification detail is needed; preserve the Lives Retold/Sanger tumour chronology conflict.

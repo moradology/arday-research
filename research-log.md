@@ -16,6 +16,10 @@ The existing Wellcome Sanger Institute interview record was checked against its 
 
 The opening 00:29–09:40 contribution of the locally preserved 22 July 2020 UCU webinar was checked against its automatic English VTT. It adds a coherent public-position record: decolonisation as changing what institutions teach, learn, and research; Global South knowledge and disciplinary-canon critique; student-led activity and a captioned “Keele” manifesto/events/race-charter account; and an explicit warning against symbolic management-led tick-box work. Later speakers were excluded. The institution/name spellings and implementation claims remain source-versioned pending audiovisual or independent institutional verification.
 
+## 2026-08-09 — SRC-1062/C-1119–C-1122: Royal Greenwich panel audit
+
+The first 00:55–07:22 contribution of the locally preserved 9 October 2020 Royal Greenwich Black History Month panel was checked against its automatic English VTT. Arday’s segment adds a dated public-position record on historical amnesia, Black history as British history, classroom belonging, cited attainment-gap/Census figures, and an education-to-prison “pipeline” framing. The later panelists were excluded. Numerical and causal propositions remain attributed source versions pending identification of the underlying reports or human audiovisual verification.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.
