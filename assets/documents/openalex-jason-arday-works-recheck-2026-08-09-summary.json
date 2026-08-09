@@ -1,0 +1,363 @@
+{
+  "query": "https://api.openalex.org/works?filter=author.id:A5048886069&per-page=200&select=id,doi,title,publication_year",
+  "retrieved": "2026-08-09",
+  "meta": {
+    "count": 56,
+    "db_response_time_ms": 20,
+    "page": 1,
+    "per_page": 200,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where author is (A5048886069)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "authorships.author.id",
+            "value": "A5048886069"
+          }
+        ]
+      },
+      "url": "/works?filter=authorships.author.id:A5048886069&per_page=200"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3031456414",
+      "doi": "https://doi.org/10.1080/00131857.2020.1773257",
+      "title": "Attempting to break the chain: reimaging inclusive pedagogy and decolonising the curriculum within the academy",
+      "publication_year": 2020
+    },
+    {
+      "id": "https://openalex.org/W2897799392",
+      "doi": "https://doi.org/10.3390/socsci7100196",
+      "title": "Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University?",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W2912365194",
+      "doi": "https://doi.org/10.1080/23793406.2019.1574211",
+      "title": "Dismantling power and privilege through reflexivity: negotiating normative Whiteness, the Eurocentric curriculum and racial micro-aggressions within the Academy",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W4200619728",
+      "doi": "https://doi.org/10.1017/s1474746421000579",
+      "title": "What Do We Know About Black and Minority Ethnic (BAME) Participation in UK Higher Education?",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W3037234291",
+      "doi": "https://doi.org/10.1080/00131857.2020.1777640",
+      "title": "Fighting the tide: Understanding the difficulties facing Black, Asian and Minority Ethnic (BAME) Doctoral Students’ pursuing a career in Academia",
+      "publication_year": 2020
+    },
+    {
+      "id": "https://openalex.org/W3118364777",
+      "doi": "https://doi.org/10.1007/s10734-020-00636-w",
+      "title": "No one can see me cry: understanding mental health issues for Black and minority ethnic staff in higher education",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W4283520652",
+      "doi": "https://doi.org/10.1080/01425692.2022.2074375",
+      "title": "‘More to prove and more to lose’: race, racism and precarious employment in higher education",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4384525284",
+      "doi": "https://doi.org/10.1177/00380261231184357",
+      "title": "We’ll see things they’ll never see: Sociological reflections on race, neurodiversity and higher education",
+      "publication_year": 2023
+    },
+    {
+      "id": "https://openalex.org/W2892239360",
+      "doi": "https://doi.org/10.1177/0892020618791002",
+      "title": "Understanding race and educational leadership in higher education",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W4307968452",
+      "doi": "https://doi.org/10.1007/s10734-022-00939-0",
+      "title": "Same storm, different boats: the impact of COVID-19 on Black students and academic staff in UK and US higher education",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4281727912",
+      "doi": "https://doi.org/10.1080/00131911.2022.2076462",
+      "title": "Covid-19 and higher education: The Times They Are A’Changin",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4400341577",
+      "doi": "https://doi.org/10.1002/berj.4047",
+      "title": "Data snapshots of the access and participation of ‘women’ academics in <scp>UK</scp> universities: Questioning continued gendered, racialised and geopolitical inequalities",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W3037136539",
+      "doi": "https://doi.org/10.1080/00131857.2020.1777642",
+      "title": "Race, education and social mobility: We all need to dream the same dream and want the same thing",
+      "publication_year": 2020
+    },
+    {
+      "id": "https://openalex.org/W2889184523",
+      "doi": "https://doi.org/10.1007/978-3-319-60261-5_9",
+      "title": "Being Black, Male and Academic: Navigating the White Academy",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W3174231213",
+      "doi": "https://doi.org/10.1007/978-3-030-65668-3",
+      "title": "Doing Equity and Diversity for Success in Higher Education",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W4280566225",
+      "doi": "https://doi.org/10.17899/on_ed.2022.13.4",
+      "title": "The Black Professoriate: Assessing the Landscape Within British Higher Education",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4396675619",
+      "doi": "https://doi.org/10.1080/01596306.2024.2335002",
+      "title": "Elite schools and slavery in the UK – capital, violence and extractivism",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W3176788621",
+      "doi": "https://doi.org/10.1007/978-3-030-65668-3_25",
+      "title": "Sowing the Seeds: Embracing and Re-imaging a More Racially Inclusive Academy",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W3176505230",
+      "doi": "https://doi.org/10.1007/978-3-030-65668-3_23",
+      "title": "Many Rivers to Cross: The Challenges and Barriers Facing Aspiring Black, Asian and Minority Ethnic (BAME) Leaders in the Academy",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W4232526797",
+      "doi": "https://doi.org/10.4324/9781315440644",
+      "title": "Cool Britannia and Multi-Ethnic Britain",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W3216748129",
+      "doi": "https://doi.org/10.1136/bmjopen-2021-051818",
+      "title": "Protocol for black student well-being study: a multi-site qualitative study on the mental health and well-being experiences of black UK university students",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4402410572",
+      "doi": "https://doi.org/10.1080/13613324.2024.2398491",
+      "title": "The routes to intellectual authority in a prior colonial empire: continued racialised, geopolitical inequalities in the academic staff composition and employment conditions of UK universities",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4225292469",
+      "doi": "https://doi.org/10.4324/9781003160526-2",
+      "title": "Black Pupils, Mental Wellbeing, and Resilience",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W3037225052",
+      "doi": "https://doi.org/10.1080/00131857.2020.1782722",
+      "title": "It’s the end of the World as we know it: Racism as a global killer of Black people and their emancipatory freedoms",
+      "publication_year": 2020
+    },
+    {
+      "id": "https://openalex.org/W4315840494",
+      "doi": "https://doi.org/10.53841/bpsper.2021.45.2.46",
+      "title": "A response to ‘Seeking equality of educational outcomes for Black students: a personal account’ - A sociological perspective",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W4392300808",
+      "doi": "https://doi.org/10.1136/bmjopen-2024-084121",
+      "title": "Experience-based Investigation and Co-design of Psychosis Centred Integrated Care Services for Ethnically Diverse People with Multimorbidity (CoPICS): study protocol",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W2940533388",
+      "doi": "https://doi.org/10.5040/9781350068629.ch-008",
+      "title": "Understanding race and educational leadership in higher education: Exploring the black, minority ethnic (BME) experience",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W3176196794",
+      "doi": "https://doi.org/10.1007/978-3-319-60261-5",
+      "title": "Dismantling Race in Higher Education: Racism, Whiteness and Decolonising the Academy.",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W3174960400",
+      "doi": "https://doi.org/10.1177/17411432211022770",
+      "title": "Race and educational leadership: The influence of research methods and critical theorising in understanding representation, roles and ethnic disparities",
+      "publication_year": 2021
+    },
+    {
+      "id": "https://openalex.org/W2969437569",
+      "doi": "https://doi.org/10.4324/9781315440644",
+      "title": "Cool Britannia and Multi-Ethnic Britain: Uncorking the Champagne Supernova",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W3186195725",
+      "doi": "https://doi.org/10.5040/9781350225480.ch-003",
+      "title": "Understanding Racism within the Academy: The Persistence of Racism within Higher Education",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W2199999774",
+      "doi": null,
+      "title": "Ethnic education and labour market position in Britain (1972-2013)",
+      "publication_year": 2015
+    },
+    {
+      "id": "https://openalex.org/W4240182412",
+      "doi": "https://doi.org/10.1007/978-981-13-1179-6_396-1",
+      "title": "Mental Health Issues of Black and Minority Ethnic Staff in Higher Education",
+      "publication_year": 2020
+    },
+    {
+      "id": "https://openalex.org/W4389398046",
+      "doi": "https://doi.org/10.3390/socsci12120672",
+      "title": "Correction: Arday, Jason (2018). Understanding Mental Health: What Are the Issues for Black and Ethnic Minority Students at University? Social Sciences 7: 196",
+      "publication_year": 2023
+    },
+    {
+      "id": "https://openalex.org/W2982683251",
+      "doi": "https://doi.org/10.4324/9781315440644-3",
+      "title": "Don’t look back in anger",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W4240899072",
+      "doi": "https://doi.org/10.4324/9781315440644-1",
+      "title": "Introduction",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W4246149166",
+      "doi": "https://doi.org/10.4324/9781315440644-4",
+      "title": "Bittersweet symphony",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W4251018403",
+      "doi": "https://doi.org/10.4324/9781315440644-2",
+      "title": "Love spreads",
+      "publication_year": 2019
+    },
+    {
+      "id": "https://openalex.org/W4293110915",
+      "doi": "https://doi.org/10.1007/978-981-16-8679-5_396",
+      "title": "Mental Health Issues of Black and Minority Ethnic Staff in Higher Education",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4310539804",
+      "doi": "https://doi.org/10.4324/9781003253990-17",
+      "title": "The Racialised Construction of Black Professional Footballers in Engl(ish) Football",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W4401736903",
+      "doi": "https://doi.org/10.2307/jj.12348180.6",
+      "title": "Foreword",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4402302647",
+      "doi": "https://doi.org/10.56687/9781447370000-004",
+      "title": "Foreword",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4402347610",
+      "doi": "https://doi.org/10.51952/9781447370000.fm002",
+      "title": "Foreword",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4407792679",
+      "doi": "https://doi.org/10.46692/9781447370000.001",
+      "title": "Foreword",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4407792750",
+      "doi": "https://doi.org/10.46692/9781447370000",
+      "title": "The Black PhD Experience",
+      "publication_year": 2024
+    },
+    {
+      "id": "https://openalex.org/W4414225517",
+      "doi": "https://doi.org/10.2307/jj.26932075",
+      "title": "We See Things They’ll Never See",
+      "publication_year": 2025
+    },
+    {
+      "id": "https://openalex.org/W4414225833",
+      "doi": "https://doi.org/10.2307/jj.26932075.3",
+      "title": "FOREWORD",
+      "publication_year": 2025
+    },
+    {
+      "id": "https://openalex.org/W4414910485",
+      "doi": "https://doi.org/10.1515/9780691263946",
+      "title": "We See Things They’ll Never See",
+      "publication_year": 2025
+    },
+    {
+      "id": "https://openalex.org/W4416786685",
+      "doi": "https://doi.org/10.1136/bmjopen-2024-098223",
+      "title": "Exploring experiences of mental health challenges in under-represented young people (aged 16–24 years) in England: a narrative inquiry protocol",
+      "publication_year": 2025
+    },
+    {
+      "id": "https://openalex.org/W7125461546",
+      "doi": null,
+      "title": "Understanding the experiences related to mental health amongst 16 – 24 year olds who feel under represented; a narrative inquiry study",
+      "publication_year": 2026
+    },
+    {
+      "id": "https://openalex.org/W7125489236",
+      "doi": "https://doi.org/10.31234/osf.io/h8ezv_v1",
+      "title": "Understanding the experiences related to mental health amongst 16 – 24 year olds who feel under represented; a narrative inquiry study",
+      "publication_year": 2026
+    },
+    {
+      "id": "https://openalex.org/W7125541543",
+      "doi": "https://doi.org/10.31234/osf.io/h8ezv_v2",
+      "title": "Understanding the experiences related to mental health amongst 16 – 24 year olds who feel under represented; a narrative inquiry study",
+      "publication_year": 2026
+    },
+    {
+      "id": "https://openalex.org/W7127617818",
+      "doi": "https://doi.org/10.17613/dc03s-05j04",
+      "title": "Diversifying the Ivory Tower and Closing the Student Attainment Gap: A Roundtable for the Liberated Library 2018 Launch",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W7127639534",
+      "doi": "https://doi.org/10.17613/635kx-wb026",
+      "title": "Diversifying the Ivory Tower and Closing the Student Attainment Gap: A Roundtable for the Liberated Library 2018 Launch",
+      "publication_year": 2018
+    },
+    {
+      "id": "https://openalex.org/W7148273288",
+      "doi": "https://doi.org/10.25656/01:29933",
+      "title": "The black professoriate. Assessing the landscape within British higher education",
+      "publication_year": 2022
+    },
+    {
+      "id": "https://openalex.org/W7162679092",
+      "doi": "https://doi.org/10.1108/978-1-64113-721-820251018",
+      "title": "Equality and Diversity in Teacher Education",
+      "publication_year": 2019
+    }
+  ]
+}

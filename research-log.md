@@ -18,6 +18,14 @@ Capture: the public Crossref work record identifies *We See Things They’ll Nev
 
 Decision: added `SRC-1128/C-1388` as a bibliographic identifier/provenance edge and linked it to the existing co-authored book entity. No second work, edition, full text, cover, excerpt, or biographical claim was created.
 
+## 2026-08-09 — SRC-1129/C-1389: OpenAlex author-ID recheck
+
+Discovery: the exact OpenAlex author-ID route `A5048886069` was queried directly rather than repeating name-ranked searches.
+
+Capture: the author record displayed 58 works and 1,139 citations; the filtered works endpoint returned 56 records spanning 2015–2026. A selected JSON derivative preserves the returned work keys, titles, DOI fields, years, and query metadata.
+
+Decision: normalized comparison found no new DOI/title key. The two no-DOI records remain the already-canonical 2015 labour-market item and 2026 narrative-inquiry study. Added `SRC-1129/C-1389` as a changed negative-space index state; no publication or authorship claim was upgraded.
+
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 
 The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.
