@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-932/C-998: Norli memoir-edition access boundary
+
+Discovery: search indexing surfaced a Norli bookseller listing for *Great and Unfortunate Things* under ISBN 9781398542747, matching the distinct 336-page UK edition captured as `SRC-930`. The indexed result exposes catalog-level title, author, format/date, and synopsis snippets.
+
+Capture: the canonical Norli product URL returned HTTP 403 with a 118-byte body. No product HTML, image, price, stock status, or excerpt was recovered.
+
+Decision: register the result as a low-provenance retailer manifestation deduplicated to `SRC-930`, preserving the direct access boundary rather than treating the indexed synopsis as independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-931/C-997: additional 30 in 35 Wayback pages recovered
 
 Discovery: the bounded CDX enumeration associated with `SRC-377` listed successful captures for campaign pages 2, 3, 5, 6, 7, and 8. Direct Wayback replay using the archived original host/port recovered all six pages as HTTP-200 HTML. Plain-text extraction shows marathon reports covering numbers 3–30, many stated completion times, an interim £4,520 total, a “Fundraising target smashed!” post, final-run instructions for 22 August, and a campaign-side Facebook feed statement that marathon 30 took 5 hours 57 minutes and was an “amazing end.”

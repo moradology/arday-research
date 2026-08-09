@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh memoir-retailer boundary: `SRC-932/C-998` — Norli indexing exposes ISBN 9781398542747 / the 336-page UK edition, but the direct product page returned HTTP 403 with no product HTML, cover, price, stock state, or excerpt. Reopen only for a changed page, lawful product image/excerpt, or distinct ISBN/format; do not repeat the same request unchanged.
+
 Fresh 30 in 35 archive-recovery checkpoint: `SRC-931/C-997` — six additional Wayback pages now preserve marathon 3–30 reports, stated times, interim fundraising totals, final-run logistics, and a campaign-side “Marathon 30” completion statement. This strengthens contemporaneous completion representation but does not replace an independent race log or charity audit. Reopen only for a stable archived page/binary, charity receipt, timing record, or distinct first-party post-event artifact; do not repeat the same six Wayback URLs unchanged.
 
 Fresh memoir-edition checkpoint: `SRC-930/C-996` — Google Books exposes a distinct UK record (ISBN 9781398542747, 336 pages) with a locally preserved cover and publisher synopsis, but no readable preview; the page says no ebook and `is_browsable:false`, while both tested API routes returned HTTP 429. Reopen only for a lawful excerpt/full text, a stable page-image route, a materially changed edition record, or a distinct publisher/library artifact; do not repeat the same API requests unchanged.
