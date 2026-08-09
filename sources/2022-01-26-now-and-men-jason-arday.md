@@ -27,3 +27,5 @@ The *Now and Men* podcast published a 64:58 episode with Jason Arday on 26 Janua
 ## Evidence boundary
 
 The episode page and audio establish the public interview and its programme framing. The discussion’s autobiographical details remain first-person testimony, and the “upcoming” book description records the 2022 state of the project rather than proving later publication.
+
+A bounded audio audit now maps Arday-attributed passages at approximately 05:00–10:00 on racial-justice momentum, institutional change, measured radicalism, and a reported racist banana incident. The machine-derived windows are navigation aids, not a verified transcript. See [SRC-1144](2026-08-09-now-and-men-audio-audit.md).

@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh subject-centred audio checkpoint: `SRC-1144/C-1411–C-1413` — bounded Whisper `small.en` windows from the locally preserved *Now and Men* interview map Arday-attributed discussion of racial-justice momentum, institutional change, measured radicalism, and a reported racist banana incident. Human listening, a verified transcript, and independent age/incident records remain open; do not quote the ASR as settled wording.
+
 Fresh BBC media-state checkpoint: `SRC-235/C-367` — the 9 August programme API returned unchanged episode/original metadata and a newly queried HTTP 200 podcast-version JSON for `p0nsry2l`, but no audio, transcript, captions, segment events, or availability. The BBC Sounds/player routes remain unresolved; reopen only for a changed media selector, lawful recording, transcript, or exact segment artifact.
 
 Fresh subject-centred St Mary’s biography checkpoint: `SRC-1095/C-1277–C-1283` — the locally preserved 2020 Values Talk now has corrected-mono Whisper `small.en` navigation alongside the earlier `base.en` JSON. It sharpens the age-11/age-18 speech/literacy account, claimed Loughborough scholarship and university offers, St Mary’s football roles, fatherhood/financial context, fundraising, and student-union positions. Human listening and independent admissions, sports, family, campaign, and student-union records remain open; do not treat either derivative as a transcript or self-report as corroboration.
