@@ -4,8 +4,8 @@ type: trade-publication catalogue / magazine source-version
 title: "Booktime Magazine — July & August 2026"
 subject: ../entities/jason-arday.md
 published: 2026-07-14
-accessed: 2026-08-08
-status: public bookshop product page and cover; magazine/interview file not exposed
+accessed: 2026-08-09
+status: public bookshop product page and cover; 9 August product JSON/cover recheck byte-identical; magazine/interview file not exposed
 evidence_class: bookshop-hosted catalogue description and source-version lead
 urls:
   - https://www.harbourbookshop.co.uk/products/booktime-magazine-july-august-2026-free-to-download
@@ -30,7 +30,7 @@ assets:
 
 The Harbour Bookshop’s product page, published 14 July 2026, advertises a free July–August 2026 issue of *Booktime Magazine*. Its catalogue description says the issue contains an interview with Jason Arday about his memoir and identifies the interview as appearing on printed page 29.
 
-This is a distinct trade-publication lead, not the interview text. The captured product HTML and Shopify JSON expose the description, zero price, product identifier `9561743065315`, publication timestamp, inventory of 25, and one 1056×1492 cover image. The product JSON marks the sole variant `requires_shipping: true`; the public product page and JSON expose no magazine PDF, page 29 image, digital-download URL, or interview body despite the title’s “FREE TO DOWNLOAD” wording. No claim about the interview’s contents is made. The home-page product card and product route were rechecked on 8 August 2026 and produced the same catalogue topology.
+This is a distinct trade-publication lead, not the interview text. The captured product HTML and Shopify JSON expose the description, zero price, product identifier `9561743065315`, publication timestamp, inventory of 25, and one 1056×1492 cover image. The product JSON marks the sole variant `requires_shipping: true`; the public product page and JSON expose no magazine PDF, page 29 image, digital-download URL, or interview body despite the title’s “FREE TO DOWNLOAD” wording. No claim about the interview’s contents is made. The home-page product card and product route were rechecked on 8 August 2026; the product JSON and cover were fetched again on 9 August and were byte-identical to the existing captures.
 
 ## Capture boundary
 

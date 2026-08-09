@@ -1,6 +1,8 @@
 @@
 # Timeline
 
+| 2026-07-14 product publication | Harbour Bookshop’s product record for *Booktime Magazine* July/August 2026 says the issue contains an Arday memoir interview on page 29. | retailer product metadata / publication lead; interview contents and magazine artifact unresolved | [Booktime product record](sources/2026-07-14-booktime-magazine-jason-arday.md) |
+
 | 2023 | Great Big Story published a short documentary about Arday’s reported progression from delayed speech/literacy to Cambridge; a later local audio audit maps his apparent first-person passages on therapy, speech, snooker, teachers, Sandro, PhD ambitions, and Mr Trace. | first-party documentary; self-report and witness layers separated; ASR navigation not human-verified | [Parent video record](sources/2023-great-big-story-video.md) · [audio audit](sources/2026-08-09-great-big-story-arday-audio-audit.md) |
 
 | 2023-04-10 | Channel 4 News broadcast an interview with Arday about a report on racial inequality; a bounded audio audit maps his attributed positions on systemic racism, post-racial framing, state structures, civil liberties, and sustained policy action. | first-person broadcast testimony/public position; ASR navigation not human-verified | [Parent broadcast record](sources/2023-04-10-channel4-racially-just-society.md) · [audio audit](sources/2026-08-09-channel4-racially-just-audio-audit.md) |

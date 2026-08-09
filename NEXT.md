@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh Booktime source-version checkpoint: `SRC-522/C-666` — the Harbour Bookshop product JSON and cover were re-fetched on 9 August and were byte-identical to the 8 August capture. The magazine/PDF/page-29 interview remains unresolved; reopen only for the actual document, flipbook, publisher record, page scan, or transcript.
+
 Fresh subject-centred biography checkpoint: `SRC-1142/C-1404–C-1407` — the Great Big Story documentary now has a bounded audio audit separating narrator, teacher, and Arday-attributed passages. Human listening, official captions/transcript, clinical/education records, and independent snooker records remain open; do not treat the ASR derivative or documentary framing as settled biographical fact.
 
 Fresh subject-centred media checkpoint: `SRC-1141/C-1401–C-1403` — the locally preserved Channel 4 News racial-justice interview now has a bounded Whisper navigation derivative and an audit of Arday-attributed public positions. Human listening, official captions/transcript, and underlying report-level verification remain open; do not treat ASR wording as quotation or the interview as independent validation.

@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Booktime source-version continuation: the Harbour Bookshop product JSON and cover for the July/August 2026 issue were re-fetched and were byte-identical to the existing 8 August capture (`SRC-522/C-666`). No magazine/PDF/flipbook URL or interview text was exposed. The lead was updated in place; no duplicate source or claim was created.
+
 2026-08-09 — Subject-centred biographical media audit: the locally preserved 4:14 Great Big Story documentary was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1142/C-1404–C-1407` for bounded navigation of Arday-attributed passages on slow processing, speech therapy, first speech, repetition/snooker, caring teachers, Sandro, PhD ambitions, and Mr Trace. Narration and teacher testimony remain separate; the repeated “Sandra” ASR rendering and other uncertain words are preserved as verification boundaries.
 
 2026-08-09 — Subject-centred media audit: the locally preserved 3:42 Channel 4 News racial-justice interview had no public caption track, so it was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1141/C-1401–C-1403` for bounded navigation of Arday’s apparent answers on systemic racism, post-racial framing, state structures, civil liberties, and sustained policy action. The derivative is explicitly not a verified transcript; presenter and government-spokesperson segments remain excluded.
