@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-062/C-1245–C-1246: Cambridge Festival video recovery
+
+The existing Cambridge Festival “Race & Society” record was rechecked after an official YouTube result surfaced for video ID `BAFwM8mIKPk`. The 1:37:40 progressive MP4 was recovered to the local binary archive at `assets/videos/cambridge-festival-race-and-society-2024/race-and-society.mp4` (219,245,637 bytes; SHA-256 `30e7defc871c1d69e24209604e98a1d0c0eb8e9c1a896a92a5addd4c3cb7c972`). YouTube’s English automatic captions were also recovered as a 667,037-byte VTT and are explicitly treated as navigation, not a verified transcript. The source is a changed canonical record, not a duplicate event node; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1085/C-1244: Eventbrite promotional-image recovery
 
 The public Eventbrite manifestation linked from the University of Liverpool’s “Even Flow” listing exposed a 1280×720 promotional JPEG through its CDN. The binary was recovered and checksum-recorded as an addition to the canonical event node. It is preserved as promotional media only: no delivery confirmation, transcript, slides, or Arday portrait was recovered. Google Drive was not updated; GitHub remains the active publication target.

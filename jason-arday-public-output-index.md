@@ -2,6 +2,8 @@
 
 Research collection assembled 2026-08-05. Links are grouped by source type. Institutional and publisher links are prioritized; third-party commentary is kept separate.
 
+- [Cambridge Festival “Race & Society” recording](sources/2024-03-27-cambridge-festival-race-society-radio.md) — official [YouTube video](https://www.youtube.com/watch?v=BAFwM8mIKPk) recovered locally with automatic English captions; speaker-level transcript verification remains open.
+
 - [University of Liverpool “Even Flow” keynote listing](sources/2023-03-10-liverpool-neurodiversity-keynote.md) — 13 March 2023 advertised keynote on neurodiversity and lived experience; [page capture](assets/captures/2023-03-10-liverpool-neurodiversity/page.html) · [event-week image](assets/captures/2023-03-10-liverpool-neurodiversity/ND-Celebration-Week-image-01.jpg).
 
 - [University of Liverpool Faculty of Health and Life Sciences article](sources/2023-10-12-liverpool-race-equity.md) — 12 October 2023 institutional account of Arday’s race-equity initiatives, Henrietta Lacks library exhibit, and Black Science Bootcamp; [page capture](assets/captures/2023-10-12-liverpool-race-equity/page.html) · [photograph](assets/captures/2023-10-12-liverpool-race-equity/Prof-Jason-Arday-and-Carl-Larsen.jpg).

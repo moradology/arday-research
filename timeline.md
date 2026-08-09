@@ -1,5 +1,7 @@
 # Timeline
 
+| 2024-03-27 | The Cambridge Festival “Race and society” discussion with Jason Arday, Claire Hynes, and Darren Lewis was publicly recorded and uploaded by Cambridge Festival; a local MP4 and automatic-caption track are preserved. | first-party video; caption wording and substantive remarks require human verification | [Cambridge Festival record](sources/2024-03-27-cambridge-festival-race-society-radio.md) |
+
 | 2023-03-10 listing / 2023-03-13 scheduled | The University of Liverpool advertised Arday’s “Even Flow: Understanding and Navigating Neurodiversity” keynote during Neurodiversity Celebration Week, with hybrid Teaching Hub/Zoom access. | first-party event listing and Eventbrite registration manifestation; delivery and remarks unresolved | [Liverpool keynote record](sources/2023-03-10-liverpool-neurodiversity-keynote.md) |
 
 | 2023-early / 2023-10-12 report | A University of Liverpool article reported Arday’s “Inclusivity library exhibits,” a Henrietta Lacks exhibit in the Harold Cohen Library, and a Black Science Bootcamp with Amal Abdulkadir for 55 Black Year 10 students from Liverpool schools. | first-party institutional activity report and photograph; exhibit, attendance, and outcomes not independently audited | [Liverpool race-equity record](sources/2023-10-12-liverpool-race-equity.md) |

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh binary-recovery checkpoint: `SRC-062/C-1245–C-1246` — Cambridge Festival’s official 27 March 2024 “Race and society” YouTube recording is now locally preserved as a 1:37:40 MP4 with an English automatic-caption VTT. Reopen for human transcript verification, speaker/timecode claim extraction, corrected captions, or a distinct Cambridge 105 audio recovery; do not quote the automatic captions as settled speech.
+
 Fresh media-recovery checkpoint: `SRC-1085/C-1244` — the linked Eventbrite manifestation yielded a 1280×720 promotional JPEG, now preserved under the canonical Liverpool “Even Flow” keynote record. Reopen only for a recording, transcript, slides, attendee/reporting artifact, or Arday-specific image; do not treat the promotional image as delivery or participation evidence.
 
 Fresh subject-centred event checkpoint: `SRC-1085/C-1241–C-1243` — the University of Liverpool advertised Arday’s 13 March 2023 “Even Flow: Understanding and Navigating Neurodiversity” keynote, and its linked Eventbrite record preserves the title, time, venue, and event ID. Reopen only for a recording, transcript, slides, attendee/reporting artifact, or distinct event image; do not upgrade the host’s repeated childhood biography into independent evidence or infer delivery from the listing.
