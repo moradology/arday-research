@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — archive consistency audit
+
+Read-only audit of the current worktree found 614 source Markdown files with front-matter IDs, no duplicate IDs, 629 unique source paths referenced by the registry, and no registry-referenced source file missing from disk. This validates the canonical-file layer after the Research Cast UK deduplication correction; it does not certify that every local media capture is already published to GitHub.
+
 ## 2026-08-09 — SRC-198/C-912: Research Cast UK canonical-source correction
 
 Audit: the fresh Lincoln Bishop page, direct MP3, and episode portrait were initially mistaken for an uncatalogued podcast. The worktree already contained SRC-198, the canonical Research Cast UK record, the same 107,519,809-byte MP3, derivative Whisper JSON, and three timestamp-focused listening clips.

@@ -1,5 +1,7 @@
 # Work state
 
+Latest archive-integrity audit: on 2026-08-09 the worktree contained 614 ID-bearing source records with no duplicate front-matter IDs; the registry referenced 629 unique source paths and all were present on disk. This checks canonical-file integrity only; many binary captures remain local or selectively published. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest ontology-correction checkpoint: on 2026-08-09 `SRC-198/C-912` folded the fresh Lincoln Bishop page/headers/portrait capture into the existing canonical Research Cast UK episode. The MP3 and image are byte-identical to existing local objects; no public transcript or captions were found. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media access-boundary checkpoint: on 2026-08-09 `SRC-481/C-909` rechecked the Tapesearch page for the already-canonical *How Do You Cope?* episode. The direct request returned a Cloudflare challenge; no new transcript, audio, video, or independent biographical evidence was recovered. Google Drive was not updated; GitHub remains the active publication target.

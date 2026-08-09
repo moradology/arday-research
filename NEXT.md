@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh archive-integrity checkpoint: the 9 August read-only audit found 614 ID-bearing source files, no duplicate front-matter IDs, 629 unique registry paths, and no missing registry-referenced source file. Continue selective binary publication only from explicit source records; do not assume that every local capture is already on GitHub.
+
 Fresh canonical-source correction: `SRC-198/C-912` — the 9 August Lincoln Bishop page, headers, and portrait are new captures of the already-canonical Research Cast UK episode; the MP3 and image are byte-identical to existing local objects. Exact-title, host/guest, filename, and institutional-domain searches found no public transcript or captions; the local Whisper JSON and listening clips remain derivative navigation aids. Do not create another source node for this episode.
 
 Fresh media access-boundary checkpoint: `SRC-481/C-909` — a 9 August direct Tapesearch request again returned a Cloudflare managed-challenge page; the browser/indexed opening remains the previously captured partial transcript and the remainder remains login-gated. No new audio, video, transcript, or independent biography was recovered. Reopen only for a changed public transcript state, official captions/transcript, or distinct recording; do not repeat the same request unchanged.
