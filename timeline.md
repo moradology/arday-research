@@ -1,5 +1,7 @@
 # Timeline
 
+| 2026-07-08 page modification / accessed 2026-08-09 | EDICa’s first-party team page listed Arday as a co-investigator on the January 2023–December 2026 project and summarized his associated research areas. | first-party project-team record; host biography and current-affiliation wording remain source-versioned | [EDICa team page](sources/2026-08-09-edica-team-jason-arday.md) |
+
 | 2025-05-08 | BBC *Radical with Amol Rajan* broadcast a multi-speaker discussion featuring Arday and Lucy Noakes on wartime memory, nostalgia, youth, Windrush, Churchill, and historical complexity; the local MP3 now has a bounded ASR navigation audit. | first-party audio; approximate speaker attribution and machine-transcript wording require human verification | [BBC *Radical* audio audit](sources/2026-08-09-bbc-radical-audio-audit.md) |
 
 | 2024-03-27 | The Cambridge Festival “Race and society” discussion with Jason Arday, Claire Hynes, and Darren Lewis was publicly recorded and uploaded by Cambridge Festival; a local MP4 and automatic-caption track are preserved. | first-party video; caption wording and substantive remarks require human verification | [Cambridge Festival record](sources/2024-03-27-cambridge-festival-race-society-radio.md) |

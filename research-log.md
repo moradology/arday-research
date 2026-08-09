@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1098/C-1295–C-1298: EDICa team-page capture
+
+The first-party EDICa team page was fetched directly and locally preserved. It lists Arday among the project’s co-investigators, identifies him as Professor of Sociology of Education at Cambridge, states that EDICa was funded from January 2023 through December 2026, and summarizes his associated research areas. A 167×167 page-linked portrait was also captured. The page’s present-tense biography repeats several affiliation fields that are now stale or disputed elsewhere; those are retained as host source-version wording rather than harmonized into current status. This is a distinct project-role record from the earlier EDICa newsletter profile and the UKRI Gateway mismatch.
+
 ## 2026-08-09 — SRC-282/C-265 refinement: Arday’s reported BSA-plenary response
 
 The existing *Retraction Watch* record was re-read against the locally preserved HTML. Its article body contains a short quotation attributed to Arday at an April 2026 British Sociological Association plenary: he describes feeling “on the back foot” after an academic-misconduct allegation and says that instruments intended to protect academic integrity, wellbeing, and intellectual property “are weaponised.” The quotation is now represented directly in C-265 and the biography as a reported first-person position. It is not treated as a recovered BSA transcript, an account of the full plenary, or an adjudication of the allegations. Reopen only for the BSA recording/transcript or a materially changed institutional outcome.

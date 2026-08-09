@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Aug 2026 11:53:18 GMT
+Server: Apache
+X-TWO-PAGE-CACHED: 1
+X-Powered-By: PHP/8.3.22
+X-TWO-OPTIMIZE: 1
+X-TWO-VERSION: 2.33.0
+X-TWO-CACHE-DATE: 1785922776
+X-TWO-WEBP: 1
+X-TWO-PAGE-IS-OPTIMIZED: 0
+X-TWO-OPTIMIZE-REASON: Critical id not found
+Link: <https://edicaucus.ac.uk/?p=1531>; rel=shortlink
+Last-Modified: Sun, 09 Aug 2026 11:24:46 GMT
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Sun, 09 Aug 2026 11:53:36 GMT
+Server: Apache
+Last-Modified: Mon, 09 Sep 2024 11:37:59 GMT
+Accept-Ranges: bytes
+Content-Length: 11405
+Content-Type: image/jpeg
+
