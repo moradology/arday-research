@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1071/C-1161–C-1165: under-represented young people protocol page audit
+
+The already-canonical 2025 BMJ Open protocol was audited at page level using the preserved Oxford Research Archive version-of-record PDF. The audit binds the study’s planned narrative/intersectional design, Work Package 1/2 sampling targets, youth-participation and autism-adjustment structure, ethics/data-management statements, and funding/sponsorship topology to printed pages 1–8.
+
+Most importantly for the subject record, the contributor statement on PDF p. 8 says “JA leads work package 1 with KB” and substantially contributed to writing the application, while also stating that all authors substantially contributed to the protocol. This is direct contribution evidence, not an inference from author order. It does not establish principal-investigator status, Oxford employment, study completion, recruitment, or results. Added SRC-1071/C-1161–C-1165; Google Drive was not updated and GitHub remains the active publication target.
+
 ## 2026-08-09 — Repository publication/link-integrity closure for SRC-036/SRC-921
 
 The canonical root-level records for the 20 March 2021 BBC/Lives Retold transcript and its 28 June 2023 Wayback PDF recovery were present in the working tree but not yet tracked by Git, despite being referenced by the claims ledger, timeline, biography, media index, and source registry. Their provenance and claim bindings were rechecked; root-level `assets/` and `sources/` links were corrected, and the two Markdown records are now included in the published repository. The recovered PDF, extracted text, headers, and live-404 boundary were already tracked and were not duplicated.

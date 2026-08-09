@@ -8,7 +8,9 @@ accessed: 2026-08-06
 status: published; CC BY; local institutional-PDF copy
 evidence_class: publisher/repository bibliographic record and article PDF
 updates: jason-arday-public-output-index.md, claims-ledger.md, timeline.md
-related: sources/2026-01-osf-narrative-inquiry-preprint-versions.md
+related:
+  - sources/2026-01-osf-narrative-inquiry-preprint-versions.md
+  - sources/2026-08-09-underrepresented-young-people-protocol-page-audit.md
 ---
 
 Syed Sheriff, Arday, Shankar, Mooney, Chandler, Adams, Nagy, Farrell, Fancourt, Weich, Henderson, Hassan, Langley, and Bhui. “Exploring experiences of mental health challenges in under-represented young people (aged 16–24 years) in England: a narrative inquiry protocol.” *BMJ Open* 15(11), e098223, first published 26 November 2025. DOI: [10.1136/bmjopen-2024-098223](https://doi.org/10.1136/bmjopen-2024-098223).
