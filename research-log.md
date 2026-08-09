@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1136/C-1397: Cofnas Substack reception recheck
+
+Discovery: a current public fetch of Nathan Cofnas’s 21 July 2026 article exposed the same visible article body and title, with engagement counters at 1,428 likes, 292 comments, and 178 restacks.
+
+Reconciliation: the 8 August source-version capture showed 1,404 likes, 286 comments, and 169 restacks; no substantive article edit, new exhibit, correction, direct response, inquiry document, or adjudicative finding was observed. Added SRC-1136/C-1397 as volatile reception metadata, deduplicated to SRC-379/SRC-476. The selected JSON preserves the observed counters and comparison. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-915 continuation: indexed interview and recording sweep
 
 Discovery: a further exact-name search across interview-video, podcast, lecture-recording, and YouTube-index queries returned Apple’s catalogue page for *Full Disclosure with James O’Brien*, Oxford’s *This is a Low*, the Crick Institute event page, Class Central’s derivative listing for the SEB talk, ABC News, the Portuguese *Revista História Hoje* interview, and Amazon Music’s *Talking Matters* route.

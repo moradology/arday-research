@@ -1,5 +1,7 @@
 # Next actions
 
+Latest research-integrity source-version checkpoint: `SRC-1136/C-1397` — the 9 August public Cofnas article recheck found unchanged visible substantive text and increased engagement counters (1,428 likes, 292 comments, 178 restacks). No new exhibit, correction, direct response, inquiry document, or finding appeared. Reopen only for substantive article edits, a new primary comparison, institutional evidence, or a formal outcome; do not treat engagement as corroboration.
+
 Latest propagation checkpoint: `SRC-1132/C-1392` records Shajo Pro’s 2024/2025 public profile as a low-provenance retelling with visible source-version errors; it adds narrative topology but no independent corroboration or binary. Reopen only for a materially changed page or an embedded primary artifact; do not treat the profile as evidence for the repeated biography.
 
 Latest tertiary-source checkpoint: `SRC-1133/C-1393` preserves Wikipedia revision `1368389831` (last edited 8 August 2026) as a source map for the childhood, memoir-linked sports, career, and controversy narratives. Reopen only for a changed revision or an underlying citation not yet represented; do not count Wikipedia as corroboration.

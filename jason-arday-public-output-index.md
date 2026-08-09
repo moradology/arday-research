@@ -293,6 +293,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 
 ## 8. Current controversy — keep separate from the historical archive
 
+- [Nathan Cofnas Substack reception recheck](sources/2026-08-09-cofnas-substack-reception-recheck.md) — 9 August 2026; the public article remained substantively unchanged while visible engagement counters rose; preserved as volatile reception metadata, not corroboration or adjudication.
+
 - [Shajo Pro profile](sources/2026-08-09-shajo-pro-arday.md) — 30 March 2024, modified 3 July 2025; low-provenance public biography repeating the circulating childhood, literacy, neurodivergence, Sandro Sandri, and Black Curriculum narrative; retained as propagation topology, not corroboration.
 
 - [Roehampton institutional profile/version boundary](sources/2026-08-08-roehampton-arday-profile.md) — indexed February 2023 first-party wording about Arday’s former School of Education lecturership and 2018 senior lecturership; current canonical route redirects to `/news/`.
