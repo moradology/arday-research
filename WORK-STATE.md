@@ -1,5 +1,7 @@
 # Work state
 
+Latest public-filing checkpoint: on 2026-08-09 `SRC-917/C-983` reconciled exact-name Charity Commission and Companies House searches to existing records only. No new appointment, termination, annual report, accounts, or correction was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest contested-affiliation checkpoint: on 2026-08-09 `SRC-916/C-982` rechecked Ohio State routes. No Arday-specific result appeared in the general search, the former ODI route redirected to DEI reorganization material, and the Faculty Affairs route returned 404. The historical/current visiting-role claim remains contested and no direct appointment record was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest media/event checkpoint: on 2026-08-09 `SRC-915/C-981` reconciled targeted searches for 2025–26 videos, podcasts, lecture recordings, and event programmes. All material results were already catalogued or known access gaps; no new binary or transcript was recovered. Google Drive was not updated; GitHub remains the active publication target.

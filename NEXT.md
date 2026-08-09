@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh public-filing checkpoint: `SRC-917/C-983` — exact-name Charity Commission and Companies House searches returned only existing appointment, termination, annual-report, accounts, and governance records. Reopen only for a changed regulator page, new filing date, new annual report/accounts PDF, or named appointment/termination record; do not repeat these searches unchanged.
+
 Fresh contested-affiliation checkpoint: `SRC-916/C-982` — Ohio State’s general search exposed no Arday-specific result, the former ODI route redirects to the university’s DEI reorganization announcement, and the Faculty Affairs route returns 404. Reopen only for a named Ohio State record, archived personnel page, appointment letter, or direct institutional response; do not treat this access gap as proof of nonexistence.
 
 Fresh media/event boundary: `SRC-915/C-981` — targeted 2025–26 video, podcast, lecture, and programme searches returned only existing UCL, ARU, Newcastle, BSA, Oxford, Bath, Crick, RSC, and Broken Vessel records. Reopen only for a concrete recording, caption/transcript, programme, post-event report, or materially changed host page; do not repeat the same broad queries unchanged.

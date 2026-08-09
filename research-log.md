@@ -3997,3 +3997,10 @@ Discovery: first-party Ohio State search, former Office of Diversity and Inclusi
 Capture: the general search route exposed no Arday-specific result; the ODI route redirected to Ohio State’s DEI reorganization announcement; and the Faculty Affairs search returned HTTP 404. HTML and response headers for all routes are preserved under `assets/captures/2026-08-09-ohio-state-role-route-recheck/`.
 
 Decision: retained the Ohio State claim as contested and historically source-versioned. No direct appointment record was promoted, and the route state was added as SRC-916/C-982.
+## 2026-08-09 — SRC-917/C-983: public filing search boundary
+
+Discovery: exact-name Charity Commission and Companies House searches were run for appointments, terminations, annual reports, accounts, and governance records.
+
+Result: all material hits reconciled to existing First Star, BSA, Adult Literacy Trust, Autism Centre of Excellence, Runnymede, B.S.A. Publications, Crosstown Traffic, and personal-appointments records. No new filing, annual report, accounts PDF, appointment, or correction appeared.
+
+Decision: added SRC-917/C-983 as a bounded public-record checkpoint; reopen only for a changed regulator page, new filing date, new annual report/accounts PDF, or named appointment/termination record.
