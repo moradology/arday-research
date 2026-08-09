@@ -19,3 +19,5 @@ This is direct institutional confirmation that he studied at Merton and that the
 ## Capture note
 
 The page and image were downloaded on 2026-08-06. Checksums and dimensions are in [capture metadata](../assets/metadata/merton-college-jason-arday-capture-2026-08-06.md).
+
+See the [2026-08-09 page-level audit](2026-08-09-merton-college-profile-page-audit.md) for the institutional-relationship, host-biography, and current-status boundaries.

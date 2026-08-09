@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1122/C-1383: Merton College profile page audit
+
+The complete preserved South Thames Colleges Group profile was audited as a dated institutional biography. The audit separates the host’s direct former-student and Sandro Sandri wording from its reproduced developmental, educational, and career narrative, records the 6 March 2023 Cambridge start-date version, and links the later anti-bot recheck. Existing education/mentor claims were retained rather than duplicated.
+
 ## 2026-08-09 — SRC-1121/C-1382: CBS News interview page/media audit
 
 The locally preserved CBS article and linked MP4 were audited as one 2 March 2023 interview event. The audit records the byline, London-home caption, attributed first-person material, technical MP4 properties, and the distinction between a container closed-caption flag and an actually recoverable caption track. Existing C-097–C-098 were retained as the substantive claims; no duplicate biography witness was created.
