@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1120/C-1381: Adult Literacy Trust patron record audit
+
+The Trust’s governance page and 2 May 2024 appointment announcement were audited as one role-source family. The audit separates patronage from trusteeship/employment, records the attributed literacy statement and portrait, preserves the current Cambridge wording as host copy, and links later regulator-hosted annual reports as dated continuity witnesses. The repeated supporters-page wording was not counted as independent corroboration.
+
 ## 2026-08-09 — SRC-1119/C-1380: East Coast Radio/EWN interview page audit
 
 The complete locally preserved 31 March 2024 EWN page was audited as a dated media artifact. The audit records the author/interviewer/date metadata, separates headline and image-caption framing from Arday-attributed autobiographical material, links the existing developmental-delay/literacy and maternal anti-apartheid claims without duplicating them, and confirms that the static player capture exposes no recoverable audio file or separate transcript.

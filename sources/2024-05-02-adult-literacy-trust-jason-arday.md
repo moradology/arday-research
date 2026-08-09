@@ -17,3 +17,5 @@ The Adult Literacy Trust’s current governance page lists Prof. Jason Arday amo
 ## Evidence boundary
 
 Patron status is distinct from trustee or staff status. The page does not state an end date, and the announcement does not establish the duration of the role.
+
+See the [2026-08-09 page-level audit](2026-08-09-adult-literacy-trust-patron-page-audit.md) for the role-category, self-report, current-status, and source-version boundaries.
