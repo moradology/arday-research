@@ -1,0 +1,30 @@
+Machine-assisted transcript of the local *Talking Matters with Nick Halkes* MP3.
+
+Source audio: assets/audio/talking-matters-jason-arday-2024.mp3
+Source SHA-256: 6cf4940cf121d118dda9661ed20de37943436723be2c6fffdfcec32c787faaad
+Extracted source interval: 00:20:00–00:21:40 (100 seconds)
+Model: mlx-whisper, mlx-community/whisper-small.en-mlx
+Language: en
+
+[00:20:00.00–00:20:05.96]
+professional footballer. But I could apply that attitude playing non-league football and played non-league football for I think 12 years, 12, 13 years after that.
+
+[00:20:11.12–00:20:21.06]
+And what about the snooker skills? How did you develop? Did you say you ended up as a sort of, you were close to potentially being a professional snooker player? I was a lot closer to that.
+
+[00:20:21.06–00:20:32.50]
+And that was like... How does that happen? Well, so I mean, listen, another part of maybe I may have learned to read and write quicker and I spent more time in school. So... And less time in the snooker hall?
+
+[00:20:32.80–00:20:41.88]
+Yeah, so from the age of 11 to 18, 19 probably. Yeah. About seven hours a day.
+
+[00:20:42.46–00:20:52.56]
+Okay. And a lot of the professionals that are on TV now played a lot of them in Pro-Am. So I spent a lot of time in Prestatyn in Wales. So in Wales, they had this... The best juniors would meet for this tournament at Pontins in Prestatyn.
+
+[00:20:52.56–00:21:05.50]
+I've been there actually. Yeah. Not to the snooker, but I went to like a sole weekender there in the old days. And so yeah, you spent a lot of the best juniors, which a lot of them are kind of doing really well as pros now. And yeah, I mean, I was good.
+
+[00:21:05.62–00:21:19.98]
+The problem is is that if you can go to a table and you can make... So this is like, we're talking 17 years ago. So you go to a table and you can make 50 or 60. That might seem all right. But the front. So they haven't caught the ball yet. And then they dish up and clean up with an 87 break. And they're standing on boxes to reach the table. Right. They're doing more than seven hours a day.
+
+This is an automatic transcript for navigation and comparison only. Proper nouns and wording require human listening before quotation as verbatim evidence.

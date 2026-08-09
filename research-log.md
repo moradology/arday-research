@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1020/C-1020: Talking Matters snooker audio audit
+
+The canonical local MP3 was re-transcribed for 00:20:00–00:21:40 using `mlx-whisper` small.en after the earlier Whisper-small navigation pass. The larger model recovers closer-to-professional snooker, age 11–19 / roughly seven hours daily, Pro-Am, Pontins in Prestatyn, a 50–60 versus 87 break comparison, and 12–13 years of non-league football.
+
+Decision: retain as machine-assisted primary-audio navigation/wording evidence, not a human-verified verbatim transcript or independent sports record. Google Drive not updated; GitHub active.
+
 ## 2026-08-09 — SRC-1019/C-1019: Crystal Palace sports-search boundary
 
 Discovery: exact-name searches targeted Crystal Palace’s official domain for Arday, academy, youth, graduate, football, and contract combinations. The club’s current Academy Graduates roster was captured and contains no `Arday` occurrence; the only Jason entry is a different player, Jason Lokilo.

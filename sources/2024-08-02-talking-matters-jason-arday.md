@@ -27,10 +27,11 @@ The podcast listing dates this episode 2 August 2024 and says the conversation w
 - [Show artwork](../assets/images/talking-matters-with-nick-halkes.jpg) — generic programme artwork, not represented as a Jason portrait; SHA-256 `45ad362581aef42febe25f9fc5b7924b3b825d330bd9683b7ad493a282e2ed0f`.
 - [Whisper-small ASR derivatives](../assets/metadata/talking-matters-jason-arday-2024-whisper-small-capture-2026-08-06.md) — JSON, SRT, TSV, TXT, and VTT with checksums and generation details.
 - [Sports excerpt capture metadata](../assets/metadata/talking-matters-sports-excerpts-capture-2026-08-06.md) — locally preserved football and snooker windows with parent hash, extraction interval, technical details, and child hashes.
+- [Larger-model snooker audio audit](../assets/metadata/talking-matters-snooker-window-2026-08-09.txt) — reproducible 00:20:00–00:21:40 machine-assisted re-transcription; not human-verified.
 
 ## Evidence boundary
 
-The episode description is promotional metadata; the audio is the primary preserved interview artifact. The local ASR derivative supplies navigation only. It contains useful first-person leads on schooling, literacy, football, and snooker, but no wording from it should be treated as verbatim until the audio is manually checked.
+The episode description is promotional metadata; the audio is the primary preserved interview artifact. The local ASR derivatives supply navigation only. The larger-model audit improves the wording of the snooker passage, but no wording from either derivative should be treated as verbatim until the audio is manually checked.
 
 ## ASR-derived navigation leads
 

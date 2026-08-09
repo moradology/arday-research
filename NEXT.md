@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh audio-audit checkpoint: `SRC-1020/C-1020` — a larger-model transcript improves the wording of the preserved *Talking Matters* snooker passage. Reopen only for human listening, a first-party caption/transcript, named Pontins result, ranking, or governing-body record; do not count this derivative as independent corroboration.
+
 Fresh sports-verification checkpoint: `SRC-1019/C-1019` — Crystal Palace’s official-domain search and current academy-graduate roster expose no Arday-specific record. Reopen only for a named club, academy-era roster, youth-team programme, contract/registration record, match report, or direct correction; do not repeat the same modern roster search or treat this negative space as disproof.
 
 Fresh institutional-reception checkpoint: `SRC-1018/C-1018` — The Springfields Academy’s current class page names an “Arday Class” after Jason Arday and describes him as a sociologist, writer, fundraiser, and autistic person. Reopen only for a dated school announcement, named source for the diagnosis wording, or distinct institutional legacy artifact; do not treat the class page as independent childhood or clinical corroboration.
