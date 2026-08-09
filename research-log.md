@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred biographical media audit: the locally preserved 4:14 Great Big Story documentary was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1142/C-1404–C-1407` for bounded navigation of Arday-attributed passages on slow processing, speech therapy, first speech, repetition/snooker, caring teachers, Sandro, PhD ambitions, and Mr Trace. Narration and teacher testimony remain separate; the repeated “Sandra” ASR rendering and other uncertain words are preserved as verification boundaries.
+
 2026-08-09 — Subject-centred media audit: the locally preserved 3:42 Channel 4 News racial-justice interview had no public caption track, so it was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1141/C-1401–C-1403` for bounded navigation of Arday’s apparent answers on systemic racism, post-racial framing, state structures, civil liberties, and sustained policy action. The derivative is explicitly not a verified transcript; presenter and government-spokesperson segments remain excluded.
 
 2026-08-09 — QUB institutional-host continuation: the current indexed “Education and Learning Research” campaign page still showcases *Attempting to break the chain* under “Shared and Inclusive Education” and links to the QUB-hosted manuscript. Direct shell access returned CloudFront HTTP 403. Added `SRC-1140/C-1400` as institutional-host topology only; no Arday-specific claim, study validation, review scope, or outcome was inferred.

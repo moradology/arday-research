@@ -1,6 +1,8 @@
 @@
 # Next actions
 
+Fresh subject-centred biography checkpoint: `SRC-1142/C-1404–C-1407` — the Great Big Story documentary now has a bounded audio audit separating narrator, teacher, and Arday-attributed passages. Human listening, official captions/transcript, clinical/education records, and independent snooker records remain open; do not treat the ASR derivative or documentary framing as settled biographical fact.
+
 Fresh subject-centred media checkpoint: `SRC-1141/C-1401–C-1403` — the locally preserved Channel 4 News racial-justice interview now has a bounded Whisper navigation derivative and an audit of Arday-attributed public positions. Human listening, official captions/transcript, and underlying report-level verification remain open; do not treat ASR wording as quotation or the interview as independent validation.
 
 Fresh QUB host-topology checkpoint: `SRC-1140/C-1400` — QUB’s current indexed “Education and Learning Research” campaign page showcases *Attempting to break the chain* under “Shared and Inclusive Education” and links to the QUB-hosted manuscript, while direct shell access returns HTTP 403. This adds institutional source-version topology, not study validation or a QUB investigation outcome. Reopen only for a directly rendered page, changed link target, correction/retraction, terms of reference, or formal outcome; do not repeat the same access attempt unchanged.

@@ -1,6 +1,8 @@
 @@
 # Media / capture additions
 
+- `SRC-1142`: [Great Big Story audio audit](sources/2026-08-09-great-big-story-arday-audio-audit.md), [canonical 4:14 MP4](assets/videos/great-big-story-cambridge-professor-read-at-18.mp4), and [Whisper JSON](assets/documents/great-big-story-arday/great-big-story-arday.json) — subject-centred navigation for speech therapy, speech/literacy, repetition, snooker, teachers, Sandro, PhD ambitions, and Mr Trace; narrator/witness layers separated and ASR not human-verified.
+
 - `SRC-1141`: [Channel 4 racial-justice interview audio audit](sources/2026-08-09-channel4-racially-just-audio-audit.md), [canonical 3:42 MP4](assets/videos/channel4-racially-just-2023.mp4), and [Whisper JSON](assets/documents/channel4-racially-just-2023/channel4-racially-just-2023.json) — subject-centred navigation for Arday’s apparent answers; ASR wording is not human-verified.
 
 - `SRC-1140`: [QUB Education and Learning Research showcase record](sources/2026-08-09-qub-education-learning-research-campaign.md) — indexed first-party page state linking QUB’s *Attempting to break the chain* manuscript; direct shell returned HTTP 403 and no local HTML or image binary was recovered.
