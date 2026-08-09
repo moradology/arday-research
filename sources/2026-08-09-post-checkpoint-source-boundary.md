@@ -35,6 +35,14 @@ The following focused searches were run after the `SRC-894` checkpoint:
 
 No source node was created for the repeated news, search-result, or homonym results. The search family is closed until a changed official endpoint, named inquiry document/outcome, new DOI, new filing, or distinct media/publication artifact appears. Search results remain leads and are not treated as independent corroboration.
 
+## Continuation sweep — 2026-08-09
+
+A subject-centred continuation sweep tested exact-name searches for 2026 interviews, videos, publications, memoir excerpts, audiobook samples, and launch events. The material results resolved to the canonical *Bookseller* interview (`SRC-131`), the Simon & Schuster memoir record and its browser-visible excerpt (`SRC-091`), the already-captured 2026 memoir edition records, or existing video/podcast nodes. The publisher search exposed no new downloadable book, audiobook, transcript, image, or edition identifier.
+
+The same sweep tested exact-name searches for the Cambridge investigation, hiring-process review, QUB review, and Cofnas-related response. Results resolved to the existing Cambridge, BBC, *Guardian*, *Telegraph*, QUB, Retraction Watch, and commentary records. No formal outcome, terms of reference, correction, direct Arday response, or new primary comparison appeared. A search-indexed Cambridge Faculty profile remains in tension with the direct migrated-host redirect/omission already preserved under `SRC-576`; the indexed page is not promoted as a live current-affiliation record.
+
+Decision: extend the existing boundary rather than create duplicate source nodes or claims. Reopen only for a materially changed publisher excerpt/media endpoint, a named inquiry document or outcome, a direct Arday response, a new DOI/title, or a distinct recording/transcript.
+
 ## Re-entry
 
 Start from this record and `NEXT.md`; do not repeat the same broad queries unchanged. Reopen only with a concrete changed URL, date-specific filing, title/DOI, official process document, or distinct recording/transcript.

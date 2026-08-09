@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — Continuation sweep appended to SRC-895
+
+Subject-centred exact-name searches for 2026 interviews, videos, publications, memoir excerpts, audiobook samples, launch events, Cambridge/QUB process updates, and Cofnas-related responses were rechecked. The publisher result for *Great and Unfortunate Things* exposed the same canonical excerpt already recorded under `SRC-091`; the news and institutional results resolved to existing source families. No new binary, transcript, DOI/title, formal outcome, terms of reference, direct response, or distinct primary comparison was recovered.
+
+Decision: append the boundary to `SRC-895` rather than create duplicate nodes. The next pass should begin only from a changed endpoint or concrete lead, with the Cambridge indexed/live profile mismatch kept separate from current-affiliation proof.
+
 ## 2026-08-09 — SRC-1089/C-1263–C-1264: PASSHE participant-witness lead
 
 Discovery: a web search exposed indexed text from Katrina Cochrane’s public LinkedIn post. The post says she attended the PASSHE National Conference and listened to Jason Arday, then attributes a point about rejecting “speed equals excellence” to his remarks in connection with neurodivergent processing and proofreading. Direct LinkedIn retrieval returned a cache miss; the post date, full context, metadata, attachments, and exact wording were not recovered, and no binary was captured.
