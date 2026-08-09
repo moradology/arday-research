@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1076/C-1194–C-1199: Social Science Space interview audit
+
+The Sage *Social Science Space* page was audited from its full publisher transcript, with the local MP4 and automatic captions retained as audiovisual source versions. The pass isolates Arday’s interviewer role and speaker-labelled passages: his race/intersection self-description, friendship and series-editor framing, attribution of the “white narcissism” term to Keval, questions about racial inequality and precarity, compassion praise, and closing endorsement. Keval’s answers were excluded from Arday’s claims.
+
+The page’s 9 April 2025 date is publication metadata; no recording date was exposed. Added SRC-1076/C-1194–C-1199; Google Drive was not updated.
+
 ## 2026-08-09 — SRC-1075/C-1186–C-1193: Cambridge Student interview page audit
 
 The revised *Cambridge Student* interview was audited as a source-version rather than a new interview. The current page’s revision notice and three archived replays establish that revised wording was already present in the earliest recovered snapshots; the pre-revision text was not recovered. The audit extracts Arday’s modernisation/accessibility agenda, slavery-legacies and reparative-acts position, Simon Woolley parliamentary-scheme narrative, anti-assimilation/belonging position, Foundation Year/outreach view, appointment/Black-women selection critique, and an unverified 45% survey statistic.

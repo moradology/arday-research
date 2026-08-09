@@ -83,6 +83,8 @@ Canonical records for the five leads above: [Society for Experimental Biology](s
 
 ## 3. Interviews, radio, and podcasts
 
+- [Sage *Social Science Space* interview with Harshad Keval](sources/2025-04-09-social-science-space-harshad-keval-interview.md) — 9 April 2025; Arday interviews Keval about *Whiteness, Racial Trauma, and the University*. [Arday-side transcript audit](sources/2026-08-09-social-science-space-interview-audit.md)
+
 - [The Cambridge Student interview](sources/2024-12-01-cambridge-student-interview.md) — revised interview on institutional racism, Cambridge’s slavery legacies, accessibility, neurodivergence, belonging, Simon Woolley’s mentorship, and outreach. [Page/version audit](sources/2026-08-09-cambridge-student-interview-page-audit.md)
 
 - [The Guardian: “Jason Arday: he learned to talk at 11 and read at 18…”](https://www.theguardian.com/society/2023/jul/11/jason-arday-cambridge-university-youngest-black-professor) — long-form 2023 profile and interview.
