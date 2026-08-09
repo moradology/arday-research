@@ -41,3 +41,5 @@ The episode listing identifies a 39–40 minute *Best of Today* programme publis
 ## Evidence boundary
 
 The episode metadata verifies the programme’s subject, date, producer, and named participation, but does not provide a transcript or segment timecode. The MP3 is preserved as an available binary; no substantive remark is attributed to Arday here without listening or a reliable transcript. This is a distinct 2024 episode, not a duplicate of the 30 December 2023 guest-editor programme.
+
+A bounded audio audit now locates a likely Arday contribution at approximately 05:00–05:40 and maps his attributed argument for communication and active listening as a foundational entitlement, including a likely “fourth R”/oracy formulation. The wording remains ASR-derived and the key term requires human verification. See [SRC-1146](2026-08-09-bbc-best-of-today-children-learn-audio-audit.md).
