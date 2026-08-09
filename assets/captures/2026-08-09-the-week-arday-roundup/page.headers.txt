@@ -1,0 +1,60 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-ftr-abtest: 1
+x-ftr-abtest-id: exp-002---mvt--end-of-article-navigation-optimisation_1784117832
+x-ftr-abtest-groups: 3
+x-ftr-abtest-end: 1787055180
+x-ftr-abtest-group: 2
+x-ftr-request-id: 6df92586-ac10-4f4f-9966-33229f9229b1
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors self
+x-ftr-kiosq-server-side: 1
+xkey: theweek-platform-progressive
+xkey: theweek-article-ctpxfghNEDA2kuYFkRJKRL
+xkey: theweek-articletype-in-the-spotlight
+xkey: theweek-articletemplate-standard
+xkey: theweek-article-age-recent
+xkey: theweek-region-US
+xkey: theweek-language-en
+xkey: theweek-modifieddate-1786100045
+xkey: theweek-author-mKqJxsMDDpXpUgpFzWGhhW
+xkey: theweek-tag-u6DYwit9tDfcfjJSvUuSHi
+xkey: theweek-flexi-page-guid-default_page_layout_news_progressive
+xkey: theweek-flexi-controller-FlexiPageLayout:index
+xkey: theweek-flexi-site-guid-theweek_en_us
+xkey: theweek-flexi-layout-news
+xkey: theweek-flexi-route-custom_route_1688727512
+xkey: theweek-listing-/education/jason-arday-the-bitter-plagiarism-row-at-cambridge
+xkey: theweek-version-1713649
+xkey: theweek-server-phpfpm-84849988d9-k8tdq
+xkey: theweek-hawkwidgets-master-61a1393b
+x-article-id: ctpxfghNEDA2kuYFkRJKRL
+x-modified-date: 1786100045
+last-modified: Sat, 08 Aug 2026 12:02:27 GMT
+x-ftr-cache-status: HIT HIT
+x-age: 54596
+x-ftr-request-id: 00000000000000000000FFFF8CF8445C:A014_00000000000000000000FFFFB9711932:01BB_6A77F017_B161C8F:F3B99
+x-ftr-balancer: vanilla-mochi-http-haproxy-prod-1
+x-ftr-backend: varnish-leopard
+x-ftr-backend-server: vanilla-leopard-http-cache-prod-03
+fastly-restarts: 1
+accept-ranges: bytes
+date: Sun, 09 Aug 2026 03:12:25 GMT
+via: 1.1 varnish
+age: 54597
+x-served-by: cache-dfw-kdfw8210092-DFW
+x-cache-hits: 0
+x-timer: S1786245143.484431,VS0,VE1584
+vary: Accept-Encoding, X-FTR-kiosq-server-side-user-status, X-FTR-kiosq-access, X-Country-Code, X-FTR-ABTest-Group
+set-cookie: ABseed=85; Path=/; Expires=Tue, 08 Sep 2026 03:12:25 +0000; httpOnly
+set-cookie: FTR_Country_Code=US; path=/; domain=theweek.com
+x-country-code: US
+x-country-code-real: US
+strict-transport-security: max-age=31536000; includeSubDomains
+set-cookie: FTR_Cache_Status=MISS; path=/; domain=theweek.com
+x-cache: MISS
+x-kiosq-info: u=anonymous
+cache-control: no-store,private
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 1849824
+

@@ -1,5 +1,10 @@
 # Research log
 
+## 2026-08-09 — SRC-936/C-1002: *The Week* controversy roundup
+
+Discovery: *The Week UK* published a public article dated 7 August 2026 summarizing the Arday/Cambridge controversy. Its text explicitly attributes material to Gordon Rayner (*Daily Telegraph*), Jennifer Schuessler and Alexandra Alter (*New York Times*), Guy Adams (*Daily Mail*), Daniella Maison (*Independent*), and Lanre Bakare (*Guardian*). The article and its credited lead image were locally preserved.
+
+Decision: register the item as a secondary source-propagation and reception witness, not a new independent finding. Its summaries of thesis overlap, defence, fundraising, and prior-clearance claims remain linked to the named publications and existing primary records. Google Drive was not updated; GitHub remains the active publication target.
 ## 2026-08-09 — deduplication check: apparent remaining `plag1` row
 
 The extracted `More Z-M - summaries(1).docx` table was checked for the row spanning Arday pp. 352–353 and Zwozdiak-Myers pp. 272–273. It is the same page-bounded comparison already recorded as `SRC-487`, not a distinct later row. The stale “remains open” wording in nearby checkpoint prose was corrected; no new source or claim was created. Google Drive was not updated; GitHub remains the active publication target.
