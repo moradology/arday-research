@@ -29,3 +29,7 @@ ABC News’s short video profile of Arday’s appointment at Cambridge and his c
 - Local thumbnail preservation: [official ABC thumbnail](../assets/images/abcnews-first-word-at-11.jpg).
 - The page metadata exposes a 2:46 runtime, 21 March 2023 upload date, and the HLS manifest; no caption track was exposed in the page or manifest during this capture.
 - Capture details and checksums: [ABC capture metadata](../assets/metadata/abc-capture-2026-08-06.md).
+
+## Audio audit — 2026-08-09
+
+A bounded machine-assisted pass over the MP4 adds navigation for the first-word passage, the distinction between formal knowledge and hidden curriculum, Arday’s recollection of three ambitions written on his parents’ bedroom wall at 27, and his aspiration for Black professors’ presence to become ordinary. The repeated first-word material remains under C-044; the two new edges are C-1450–C-1451. The derivative is not a human-verified transcript. [Audio audit](2026-08-09-abc-first-word-video-audit.md)

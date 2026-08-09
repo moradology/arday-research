@@ -2,6 +2,8 @@
 @@
 # Next actions
 
+Fresh subject-centred ABC video checkpoint: `SRC-1155/C-044/C-1450–C-1451` — the preserved 2:46 ABC profile now has corrected-mono Whisper navigation for the repeated first-word passage, Arday’s three ambitions written at 27, and his aspiration for ordinary Black-professor representation. Do not repeat the ABC page/media search; reopen only for human listening, a public caption track, a materially changed video, or a distinct related interview artifact.
+
 Fresh subject-centred *How Do You Cope?* checkpoint: `SRC-1154/C-1441–C-1446` — the preserved 21:13.29 *Gratitude List* bonus MP3 now has corrected-mono Whisper navigation for Arday’s poverty/household-gratitude account, maternal support and age-eight apple recollection, self-conception, community support, and music/language account. Do not repeat the Apple/Tapesearch search; reopen only for human listening, a complete lawful transcript, a materially changed audio file, or a distinct source.
 
 Fresh subject-centred *Allyship in Action* checkpoint: `SRC-1153/C-1436–C-1440` — the locally preserved 31:09.84 episode now has corrected-mono Whisper navigation for Arday’s book-origin account, theory/practice self-description, workplace productivity and risk discussion, collective educational change, and compassion answer. Lewis’s separate exam-abolition remarks were not attributed to Arday. Do not repeat the episode search; reopen only for human listening, a public transcript/caption asset, a materially changed enclosure, or a distinct interview.

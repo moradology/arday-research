@@ -1,0 +1,2953 @@
+{
+  "audio": "../../videos/abcnews-first-word-at-11.mp4",
+  "source": "SRC-033",
+  "model": "mlx-community/whisper-small.en-mlx",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.100000000000003,
+      "end": 12.84,
+      "text": " So I was in speech therapy overall, from the age of 3 to 14.",
+      "tokens": [
+        50363,
+        1406,
+        314,
+        373,
+        287,
+        4046,
+        9102,
+        4045,
+        11,
+        422,
+        262,
+        2479,
+        286,
+        513,
+        284,
+        1478,
+        13,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3349007251215916,
+      "compression_ratio": 1.3181818181818181,
+      "no_speech_prob": 0.11938787996768951,
+      "words": [
+        {
+          "word": " So",
+          "start": 9.100000000000003,
+          "end": 9.58,
+          "probability": 0.362548828125
+        },
+        {
+          "word": " I",
+          "start": 9.58,
+          "end": 9.92,
+          "probability": 0.7392578125
+        },
+        {
+          "word": " was",
+          "start": 9.92,
+          "end": 10.04,
+          "probability": 0.998046875
+        },
+        {
+          "word": " in",
+          "start": 10.04,
+          "end": 10.24,
+          "probability": 0.994140625
+        },
+        {
+          "word": " speech",
+          "start": 10.24,
+          "end": 10.36,
+          "probability": 0.9267578125
+        },
+        {
+          "word": " therapy",
+          "start": 10.36,
+          "end": 10.84,
+          "probability": 0.998046875
+        },
+        {
+          "word": " overall,",
+          "start": 10.84,
+          "end": 11.32,
+          "probability": 0.896484375
+        },
+        {
+          "word": " from",
+          "start": 11.58,
+          "end": 11.6,
+          "probability": 0.58251953125
+        },
+        {
+          "word": " the",
+          "start": 11.6,
+          "end": 11.66,
+          "probability": 0.296142578125
+        },
+        {
+          "word": " age",
+          "start": 11.66,
+          "end": 11.72,
+          "probability": 0.9111328125
+        },
+        {
+          "word": " of",
+          "start": 11.72,
+          "end": 11.86,
+          "probability": 0.9921875
+        },
+        {
+          "word": " 3",
+          "start": 11.86,
+          "end": 12.18,
+          "probability": 0.59130859375
+        },
+        {
+          "word": " to",
+          "start": 12.18,
+          "end": 12.36,
+          "probability": 0.78662109375
+        },
+        {
+          "word": " 14.",
+          "start": 12.36,
+          "end": 12.84,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.42,
+      "end": 18.46,
+      "text": " First word was at 11 and my mum was euphoric.",
+      "tokens": [
+        51013,
+        3274,
+        1573,
+        373,
+        379,
+        1367,
+        290,
+        616,
+        25682,
+        373,
+        40381,
+        8146,
+        13,
+        51263
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3349007251215916,
+      "compression_ratio": 1.3181818181818181,
+      "no_speech_prob": 0.11938787996768951,
+      "words": [
+        {
+          "word": " First",
+          "start": 13.42,
+          "end": 13.52,
+          "probability": 0.56298828125
+        },
+        {
+          "word": " word",
+          "start": 13.52,
+          "end": 13.92,
+          "probability": 0.994140625
+        },
+        {
+          "word": " was",
+          "start": 13.92,
+          "end": 14.22,
+          "probability": 0.98583984375
+        },
+        {
+          "word": " at",
+          "start": 14.22,
+          "end": 14.42,
+          "probability": 0.91015625
+        },
+        {
+          "word": " 11",
+          "start": 14.42,
+          "end": 14.76,
+          "probability": 0.97607421875
+        },
+        {
+          "word": " and",
+          "start": 14.76,
+          "end": 16.1,
+          "probability": 0.36669921875
+        },
+        {
+          "word": " my",
+          "start": 16.1,
+          "end": 17.58,
+          "probability": 0.87744140625
+        },
+        {
+          "word": " mum",
+          "start": 17.58,
+          "end": 17.78,
+          "probability": 0.4443359375
+        },
+        {
+          "word": " was",
+          "start": 17.78,
+          "end": 18.02,
+          "probability": 0.90478515625
+        },
+        {
+          "word": " euphoric.",
+          "start": 18.02,
+          "end": 18.46,
+          "probability": 0.98486328125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.58,
+      "end": 23.58,
+      "text": " My first word was hello and used in context, as my mum always says.",
+      "tokens": [
+        51263,
+        2011,
+        717,
+        1573,
+        373,
+        23748,
+        290,
+        973,
+        287,
+        4732,
+        11,
+        355,
+        616,
+        25682,
+        1464,
+        1139,
+        13,
+        51563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3349007251215916,
+      "compression_ratio": 1.3181818181818181,
+      "no_speech_prob": 0.11938787996768951,
+      "words": [
+        {
+          "word": " My",
+          "start": 18.58,
+          "end": 18.64,
+          "probability": 0.92138671875
+        },
+        {
+          "word": " first",
+          "start": 18.64,
+          "end": 18.82,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " word",
+          "start": 18.82,
+          "end": 18.96,
+          "probability": 0.8955078125
+        },
+        {
+          "word": " was",
+          "start": 18.96,
+          "end": 19.1,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " hello",
+          "start": 19.1,
+          "end": 19.36,
+          "probability": 0.61669921875
+        },
+        {
+          "word": " and",
+          "start": 19.36,
+          "end": 20.38,
+          "probability": 0.469482421875
+        },
+        {
+          "word": " used",
+          "start": 20.38,
+          "end": 22.14,
+          "probability": 0.5673828125
+        },
+        {
+          "word": " in",
+          "start": 22.14,
+          "end": 22.36,
+          "probability": 0.9921875
+        },
+        {
+          "word": " context,",
+          "start": 22.36,
+          "end": 22.7,
+          "probability": 0.9892578125
+        },
+        {
+          "word": " as",
+          "start": 22.72,
+          "end": 22.88,
+          "probability": 0.9794921875
+        },
+        {
+          "word": " my",
+          "start": 22.88,
+          "end": 23.02,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " mum",
+          "start": 23.02,
+          "end": 23.1,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " always",
+          "start": 23.1,
+          "end": 23.34,
+          "probability": 0.986328125
+        },
+        {
+          "word": " says.",
+          "start": 23.34,
+          "end": 23.58,
+          "probability": 0.986328125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 30.959999999999997,
+      "end": 35.62,
+      "text": " You know, I was often driven by the fact that I had some really difficult experiences in",
+      "tokens": [
+        50363,
+        921,
+        760,
+        11,
+        314,
+        373,
+        1690,
+        7986,
+        416,
+        262,
+        1109,
+        326,
+        314,
+        550,
+        617,
+        1107,
+        2408,
+        6461,
+        287,
+        50643
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19275500377019247,
+      "compression_ratio": 1.651851851851852,
+      "no_speech_prob": 0.12449092417955399,
+      "words": [
+        {
+          "word": " You",
+          "start": 30.959999999999997,
+          "end": 31.52,
+          "probability": 0.09307861328125
+        },
+        {
+          "word": " know,",
+          "start": 31.52,
+          "end": 32.06,
+          "probability": 0.98583984375
+        },
+        {
+          "word": " I",
+          "start": 32.16,
+          "end": 32.24,
+          "probability": 0.990234375
+        },
+        {
+          "word": " was",
+          "start": 32.24,
+          "end": 32.34,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " often",
+          "start": 32.34,
+          "end": 32.58,
+          "probability": 0.9921875
+        },
+        {
+          "word": " driven",
+          "start": 32.58,
+          "end": 32.84,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " by",
+          "start": 32.84,
+          "end": 33.14,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " the",
+          "start": 33.14,
+          "end": 33.26,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " fact",
+          "start": 33.26,
+          "end": 33.38,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " that",
+          "start": 33.38,
+          "end": 33.54,
+          "probability": 0.65478515625
+        },
+        {
+          "word": " I",
+          "start": 33.54,
+          "end": 33.6,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " had",
+          "start": 33.6,
+          "end": 33.72,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " some",
+          "start": 33.72,
+          "end": 33.88,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " really",
+          "start": 33.88,
+          "end": 34.24,
+          "probability": 0.95849609375
+        },
+        {
+          "word": " difficult",
+          "start": 34.24,
+          "end": 34.9,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " experiences",
+          "start": 34.9,
+          "end": 35.38,
+          "probability": 0.94091796875
+        },
+        {
+          "word": " in",
+          "start": 35.38,
+          "end": 35.62,
+          "probability": 0.990234375
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 35.62,
+      "end": 40.24,
+      "text": " school because my teachers weren't particularly encouraging and that's what motivated me to",
+      "tokens": [
+        50643,
+        1524,
+        780,
+        616,
+        7799,
+        6304,
+        470,
+        3573,
+        12577,
+        290,
+        326,
+        338,
+        644,
+        13338,
+        502,
+        284,
+        50883
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19275500377019247,
+      "compression_ratio": 1.651851851851852,
+      "no_speech_prob": 0.12449092417955399,
+      "words": [
+        {
+          "word": " school",
+          "start": 35.62,
+          "end": 35.94,
+          "probability": 0.947265625
+        },
+        {
+          "word": " because",
+          "start": 35.94,
+          "end": 36.22,
+          "probability": 0.7763671875
+        },
+        {
+          "word": " my",
+          "start": 36.22,
+          "end": 36.42,
+          "probability": 0.994140625
+        },
+        {
+          "word": " teachers",
+          "start": 36.42,
+          "end": 36.7,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " weren't",
+          "start": 36.7,
+          "end": 36.98,
+          "probability": 0.955078125
+        },
+        {
+          "word": " particularly",
+          "start": 36.98,
+          "end": 37.3,
+          "probability": 0.9892578125
+        },
+        {
+          "word": " encouraging",
+          "start": 37.3,
+          "end": 37.76,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " and",
+          "start": 37.76,
+          "end": 38.68,
+          "probability": 0.32763671875
+        },
+        {
+          "word": " that's",
+          "start": 38.68,
+          "end": 38.94,
+          "probability": 0.9892578125
+        },
+        {
+          "word": " what",
+          "start": 38.94,
+          "end": 39.04,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " motivated",
+          "start": 39.04,
+          "end": 39.46,
+          "probability": 0.994140625
+        },
+        {
+          "word": " me",
+          "start": 39.46,
+          "end": 39.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": " to",
+          "start": 39.88,
+          "end": 40.24,
+          "probability": 0.9873046875
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 40.24,
+      "end": 47.8,
+      "text": " want to break that mould and think about how I taught people beyond the classroom.",
+      "tokens": [
+        50883,
+        765,
+        284,
+        2270,
+        326,
+        35370,
+        290,
+        892,
+        546,
+        703,
+        314,
+        7817,
+        661,
+        3675,
+        262,
+        15806,
+        13,
+        51267
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19275500377019247,
+      "compression_ratio": 1.651851851851852,
+      "no_speech_prob": 0.12449092417955399,
+      "words": [
+        {
+          "word": " want",
+          "start": 40.24,
+          "end": 40.58,
+          "probability": 0.89404296875
+        },
+        {
+          "word": " to",
+          "start": 40.58,
+          "end": 41.0,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " break",
+          "start": 41.0,
+          "end": 41.86,
+          "probability": 0.97509765625
+        },
+        {
+          "word": " that",
+          "start": 41.86,
+          "end": 42.6,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " mould",
+          "start": 42.6,
+          "end": 42.96,
+          "probability": 0.69482421875
+        },
+        {
+          "word": " and",
+          "start": 42.96,
+          "end": 43.92,
+          "probability": 0.95166015625
+        },
+        {
+          "word": " think",
+          "start": 43.92,
+          "end": 44.14,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " about",
+          "start": 44.14,
+          "end": 44.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " how",
+          "start": 44.52,
+          "end": 45.36,
+          "probability": 0.96630859375
+        },
+        {
+          "word": " I",
+          "start": 45.36,
+          "end": 45.52,
+          "probability": 0.9921875
+        },
+        {
+          "word": " taught",
+          "start": 45.52,
+          "end": 45.7,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " people",
+          "start": 45.7,
+          "end": 46.16,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " beyond",
+          "start": 46.16,
+          "end": 47.08,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " the",
+          "start": 47.08,
+          "end": 47.3,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " classroom.",
+          "start": 47.3,
+          "end": 47.8,
+          "probability": 0.994140625
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 48.14,
+      "end": 52.14,
+      "text": " So you kind of teach people didactic things they need to know in terms of the tacit knowledge,",
+      "tokens": [
+        51267,
+        1406,
+        345,
+        1611,
+        286,
+        4545,
+        661,
+        750,
+        12009,
+        1243,
+        484,
+        761,
+        284,
+        760,
+        287,
+        2846,
+        286,
+        262,
+        40787,
+        3725,
+        11,
+        51499
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19275500377019247,
+      "compression_ratio": 1.651851851851852,
+      "no_speech_prob": 0.12449092417955399,
+      "words": [
+        {
+          "word": " So",
+          "start": 48.14,
+          "end": 48.16,
+          "probability": 0.97802734375
+        },
+        {
+          "word": " you",
+          "start": 48.16,
+          "end": 48.36,
+          "probability": 0.81787109375
+        },
+        {
+          "word": " kind",
+          "start": 48.36,
+          "end": 48.56,
+          "probability": 0.951171875
+        },
+        {
+          "word": " of",
+          "start": 48.56,
+          "end": 48.9,
+          "probability": 0.998046875
+        },
+        {
+          "word": " teach",
+          "start": 48.9,
+          "end": 49.24,
+          "probability": 0.748046875
+        },
+        {
+          "word": " people",
+          "start": 49.24,
+          "end": 49.6,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " didactic",
+          "start": 49.6,
+          "end": 50.06,
+          "probability": 0.759765625
+        },
+        {
+          "word": " things",
+          "start": 50.06,
+          "end": 50.34,
+          "probability": 0.94677734375
+        },
+        {
+          "word": " they",
+          "start": 50.34,
+          "end": 50.48,
+          "probability": 0.88818359375
+        },
+        {
+          "word": " need",
+          "start": 50.48,
+          "end": 50.66,
+          "probability": 0.9765625
+        },
+        {
+          "word": " to",
+          "start": 50.66,
+          "end": 50.78,
+          "probability": 0.998046875
+        },
+        {
+          "word": " know",
+          "start": 50.78,
+          "end": 51.0,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " in",
+          "start": 51.0,
+          "end": 51.14,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " terms",
+          "start": 51.14,
+          "end": 51.32,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " of",
+          "start": 51.32,
+          "end": 51.44,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " the",
+          "start": 51.44,
+          "end": 51.5,
+          "probability": 0.90673828125
+        },
+        {
+          "word": " tacit",
+          "start": 51.5,
+          "end": 51.76,
+          "probability": 0.990234375
+        },
+        {
+          "word": " knowledge,",
+          "start": 51.76,
+          "end": 52.14,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 52.72,
+      "end": 57.48,
+      "text": " but then you also have this hidden curriculum where you're teaching people things about",
+      "tokens": [
+        51499,
+        475,
+        788,
+        345,
+        635,
+        423,
+        428,
+        7104,
+        20583,
+        810,
+        345,
+        821,
+        7743,
+        661,
+        1243,
+        546,
+        51739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19275500377019247,
+      "compression_ratio": 1.651851851851852,
+      "no_speech_prob": 0.12449092417955399,
+      "words": [
+        {
+          "word": " but",
+          "start": 52.46,
+          "end": 52.74,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " then",
+          "start": 52.74,
+          "end": 52.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": " you",
+          "start": 52.88,
+          "end": 53.02,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " also",
+          "start": 53.02,
+          "end": 53.3,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " have",
+          "start": 53.3,
+          "end": 53.58,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " this",
+          "start": 53.58,
+          "end": 53.94,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " hidden",
+          "start": 53.94,
+          "end": 54.5,
+          "probability": 0.998046875
+        },
+        {
+          "word": " curriculum",
+          "start": 54.5,
+          "end": 55.06,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " where",
+          "start": 55.06,
+          "end": 55.94,
+          "probability": 0.90283203125
+        },
+        {
+          "word": " you're",
+          "start": 55.94,
+          "end": 56.1,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " teaching",
+          "start": 56.1,
+          "end": 56.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " people",
+          "start": 56.32,
+          "end": 56.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " things",
+          "start": 56.7,
+          "end": 57.06,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " about",
+          "start": 57.06,
+          "end": 57.48,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5748,
+      "start": 57.48,
+      "end": 64.04,
+      "text": " life, how you navigate life and that for me is the learning that kind of re-cements crystallises",
+      "tokens": [
+        50363,
+        1204,
+        11,
+        703,
+        345,
+        16500,
+        1204,
+        290,
+        326,
+        329,
+        502,
+        318,
+        262,
+        4673,
+        326,
+        1611,
+        286,
+        302,
+        12,
+        344,
+        902,
+        31578,
+        2696,
+        50695
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14494179988252945,
+      "compression_ratio": 1.5923913043478262,
+      "no_speech_prob": 0.14293424785137177,
+      "words": [
+        {
+          "word": " life,",
+          "start": 57.48,
+          "end": 57.84,
+          "probability": 0.37255859375
+        },
+        {
+          "word": " how",
+          "start": 58.02,
+          "end": 58.2,
+          "probability": 0.9794921875
+        },
+        {
+          "word": " you",
+          "start": 58.2,
+          "end": 58.36,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " navigate",
+          "start": 58.36,
+          "end": 58.7,
+          "probability": 0.853515625
+        },
+        {
+          "word": " life",
+          "start": 58.7,
+          "end": 59.1,
+          "probability": 0.7646484375
+        },
+        {
+          "word": " and",
+          "start": 59.1,
+          "end": 59.76,
+          "probability": 0.23095703125
+        },
+        {
+          "word": " that",
+          "start": 59.76,
+          "end": 59.96,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " for",
+          "start": 59.96,
+          "end": 60.16,
+          "probability": 0.91259765625
+        },
+        {
+          "word": " me",
+          "start": 60.16,
+          "end": 60.46,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " is",
+          "start": 60.46,
+          "end": 60.9,
+          "probability": 0.9091796875
+        },
+        {
+          "word": " the",
+          "start": 60.9,
+          "end": 61.04,
+          "probability": 0.86572265625
+        },
+        {
+          "word": " learning",
+          "start": 61.04,
+          "end": 61.4,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " that",
+          "start": 61.4,
+          "end": 61.98,
+          "probability": 0.95654296875
+        },
+        {
+          "word": " kind",
+          "start": 61.98,
+          "end": 62.12,
+          "probability": 0.88037109375
+        },
+        {
+          "word": " of",
+          "start": 62.12,
+          "end": 62.24,
+          "probability": 0.998046875
+        },
+        {
+          "word": " re",
+          "start": 62.24,
+          "end": 62.38,
+          "probability": 0.673828125
+        },
+        {
+          "word": "-cements",
+          "start": 62.38,
+          "end": 62.8,
+          "probability": 0.84912109375
+        },
+        {
+          "word": " crystallises",
+          "start": 62.8,
+          "end": 64.04,
+          "probability": 0.491455078125
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5748,
+      "start": 64.04,
+      "end": 72.58,
+      "text": " and sticks. I grew up in a really rough area and you know what I learned about all of those people",
+      "tokens": [
+        50695,
+        290,
+        16461,
+        13,
+        314,
+        6348,
+        510,
+        287,
+        257,
+        1107,
+        5210,
+        1989,
+        290,
+        345,
+        760,
+        644,
+        314,
+        4499,
+        546,
+        477,
+        286,
+        883,
+        661,
+        51123
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14494179988252945,
+      "compression_ratio": 1.5923913043478262,
+      "no_speech_prob": 0.14293424785137177,
+      "words": [
+        {
+          "word": " and",
+          "start": 64.04,
+          "end": 64.36,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " sticks.",
+          "start": 64.36,
+          "end": 64.86,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " I",
+          "start": 65.38,
+          "end": 65.38,
+          "probability": 0.876953125
+        },
+        {
+          "word": " grew",
+          "start": 65.38,
+          "end": 65.38,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " up",
+          "start": 65.38,
+          "end": 65.8,
+          "probability": 0.99609375
+        },
+        {
+          "word": " in",
+          "start": 65.8,
+          "end": 66.68,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " a",
+          "start": 66.68,
+          "end": 66.96,
+          "probability": 0.8603515625
+        },
+        {
+          "word": " really",
+          "start": 66.96,
+          "end": 67.16,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " rough",
+          "start": 67.16,
+          "end": 67.6,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " area",
+          "start": 67.6,
+          "end": 68.2,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " and",
+          "start": 68.2,
+          "end": 69.44,
+          "probability": 0.8369140625
+        },
+        {
+          "word": " you",
+          "start": 69.44,
+          "end": 70.64,
+          "probability": 0.61083984375
+        },
+        {
+          "word": " know",
+          "start": 70.64,
+          "end": 70.8,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " what",
+          "start": 70.8,
+          "end": 71.06,
+          "probability": 0.8193359375
+        },
+        {
+          "word": " I",
+          "start": 71.06,
+          "end": 71.22,
+          "probability": 0.94482421875
+        },
+        {
+          "word": " learned",
+          "start": 71.22,
+          "end": 71.42,
+          "probability": 0.3251953125
+        },
+        {
+          "word": " about",
+          "start": 71.42,
+          "end": 71.72,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " all",
+          "start": 71.72,
+          "end": 71.92,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " of",
+          "start": 71.92,
+          "end": 72.02,
+          "probability": 0.9921875
+        },
+        {
+          "word": " those",
+          "start": 72.02,
+          "end": 72.2,
+          "probability": 0.998046875
+        },
+        {
+          "word": " people",
+          "start": 72.2,
+          "end": 72.58,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5748,
+      "start": 72.58,
+      "end": 78.48,
+      "text": " is that they were incredibly gifted and actually the thing that was stunting or prohibiting those",
+      "tokens": [
+        51123,
+        318,
+        326,
+        484,
+        547,
+        8131,
+        22527,
+        290,
+        1682,
+        262,
+        1517,
+        326,
+        373,
+        7991,
+        889,
+        393,
+        30363,
+        883,
+        51411
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14494179988252945,
+      "compression_ratio": 1.5923913043478262,
+      "no_speech_prob": 0.14293424785137177,
+      "words": [
+        {
+          "word": " is",
+          "start": 72.58,
+          "end": 72.9,
+          "probability": 0.953125
+        },
+        {
+          "word": " that",
+          "start": 72.9,
+          "end": 73.04,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " they",
+          "start": 73.04,
+          "end": 73.16,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " were",
+          "start": 73.16,
+          "end": 73.22,
+          "probability": 0.84765625
+        },
+        {
+          "word": " incredibly",
+          "start": 73.22,
+          "end": 73.56,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " gifted",
+          "start": 73.56,
+          "end": 74.02,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 74.02,
+          "end": 74.8,
+          "probability": 0.8330078125
+        },
+        {
+          "word": " actually",
+          "start": 74.8,
+          "end": 75.24,
+          "probability": 0.99609375
+        },
+        {
+          "word": " the",
+          "start": 75.24,
+          "end": 75.92,
+          "probability": 0.96533203125
+        },
+        {
+          "word": " thing",
+          "start": 75.92,
+          "end": 76.12,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " that",
+          "start": 76.12,
+          "end": 76.34,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " was",
+          "start": 76.34,
+          "end": 76.84,
+          "probability": 0.998046875
+        },
+        {
+          "word": " stunting",
+          "start": 76.84,
+          "end": 77.52,
+          "probability": 0.76318359375
+        },
+        {
+          "word": " or",
+          "start": 77.52,
+          "end": 77.7,
+          "probability": 0.6015625
+        },
+        {
+          "word": " prohibiting",
+          "start": 77.7,
+          "end": 78.14,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " those",
+          "start": 78.14,
+          "end": 78.48,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7848,
+      "start": 78.48,
+      "end": 87.86,
+      "text": " gifts were kind of the institutional and systemic instruments that often prohibited individuals",
+      "tokens": [
+        50363,
+        13201,
+        547,
+        1611,
+        286,
+        262,
+        15855,
+        290,
+        21971,
+        12834,
+        326,
+        1690,
+        12244,
+        3925,
+        50835
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15772907195552702,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.04442474618554115,
+      "words": [
+        {
+          "word": " gifts",
+          "start": 78.48,
+          "end": 78.9,
+          "probability": 0.64208984375
+        },
+        {
+          "word": " were",
+          "start": 78.9,
+          "end": 80.12,
+          "probability": 0.865234375
+        },
+        {
+          "word": " kind",
+          "start": 80.12,
+          "end": 80.84,
+          "probability": 0.81689453125
+        },
+        {
+          "word": " of",
+          "start": 80.84,
+          "end": 81.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " the",
+          "start": 81.02,
+          "end": 81.34,
+          "probability": 0.99609375
+        },
+        {
+          "word": " institutional",
+          "start": 81.34,
+          "end": 82.14,
+          "probability": 0.98486328125
+        },
+        {
+          "word": " and",
+          "start": 82.14,
+          "end": 82.42,
+          "probability": 0.9921875
+        },
+        {
+          "word": " systemic",
+          "start": 82.42,
+          "end": 83.0,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " instruments",
+          "start": 83.0,
+          "end": 85.52,
+          "probability": 0.86767578125
+        },
+        {
+          "word": " that",
+          "start": 85.52,
+          "end": 86.38,
+          "probability": 0.96533203125
+        },
+        {
+          "word": " often",
+          "start": 86.38,
+          "end": 86.66,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " prohibited",
+          "start": 86.66,
+          "end": 87.24,
+          "probability": 0.998046875
+        },
+        {
+          "word": " individuals",
+          "start": 87.24,
+          "end": 87.86,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7848,
+      "start": 87.86,
+      "end": 96.78,
+      "text": " from disadvantaged backgrounds, particularly those of colour. Over 10 years ago I wrote on my mother's",
+      "tokens": [
+        50835,
+        422,
+        36327,
+        19063,
+        11,
+        3573,
+        883,
+        286,
+        9568,
+        13,
+        3827,
+        838,
+        812,
+        2084,
+        314,
+        2630,
+        319,
+        616,
+        2802,
+        338,
+        51275
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15772907195552702,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.04442474618554115,
+      "words": [
+        {
+          "word": " from",
+          "start": 87.86,
+          "end": 88.12,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " disadvantaged",
+          "start": 88.12,
+          "end": 88.66,
+          "probability": 0.9443359375
+        },
+        {
+          "word": " backgrounds,",
+          "start": 88.66,
+          "end": 89.3,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " particularly",
+          "start": 90.84,
+          "end": 92.12,
+          "probability": 0.91455078125
+        },
+        {
+          "word": " those",
+          "start": 92.12,
+          "end": 92.9,
+          "probability": 0.9765625
+        },
+        {
+          "word": " of",
+          "start": 92.9,
+          "end": 93.12,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " colour.",
+          "start": 93.12,
+          "end": 93.44,
+          "probability": 0.459716796875
+        },
+        {
+          "word": " Over",
+          "start": 94.22,
+          "end": 94.4,
+          "probability": 0.97314453125
+        },
+        {
+          "word": " 10",
+          "start": 94.4,
+          "end": 94.56,
+          "probability": 0.6103515625
+        },
+        {
+          "word": " years",
+          "start": 94.56,
+          "end": 94.78,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " ago",
+          "start": 94.78,
+          "end": 95.06,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " I",
+          "start": 95.06,
+          "end": 95.32,
+          "probability": 0.33251953125
+        },
+        {
+          "word": " wrote",
+          "start": 95.32,
+          "end": 95.74,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " on",
+          "start": 95.74,
+          "end": 95.98,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " my",
+          "start": 95.98,
+          "end": 96.16,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " mother's",
+          "start": 96.16,
+          "end": 96.78,
+          "probability": 0.97021484375
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7848,
+      "start": 96.78,
+      "end": 102.48,
+      "text": " and father's bedroom wall three ambitions that I wanted to try and achieve, so at the time I was 27",
+      "tokens": [
+        51275,
+        290,
+        2988,
+        338,
+        14043,
+        3355,
+        1115,
+        22455,
+        326,
+        314,
+        2227,
+        284,
+        1949,
+        290,
+        4620,
+        11,
+        523,
+        379,
+        262,
+        640,
+        314,
+        373,
+        2681,
+        51563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15772907195552702,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.04442474618554115,
+      "words": [
+        {
+          "word": " and",
+          "start": 96.78,
+          "end": 96.98,
+          "probability": 0.986328125
+        },
+        {
+          "word": " father's",
+          "start": 96.98,
+          "end": 97.42,
+          "probability": 0.99609375
+        },
+        {
+          "word": " bedroom",
+          "start": 97.42,
+          "end": 97.74,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " wall",
+          "start": 97.74,
+          "end": 98.14,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " three",
+          "start": 98.14,
+          "end": 99.02,
+          "probability": 0.767578125
+        },
+        {
+          "word": " ambitions",
+          "start": 99.02,
+          "end": 99.58,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " that",
+          "start": 99.58,
+          "end": 99.9,
+          "probability": 0.78271484375
+        },
+        {
+          "word": " I",
+          "start": 99.9,
+          "end": 99.98,
+          "probability": 0.994140625
+        },
+        {
+          "word": " wanted",
+          "start": 99.98,
+          "end": 100.16,
+          "probability": 0.9921875
+        },
+        {
+          "word": " to",
+          "start": 100.16,
+          "end": 100.38,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " try",
+          "start": 100.38,
+          "end": 100.52,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " and",
+          "start": 100.52,
+          "end": 100.6,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " achieve,",
+          "start": 100.6,
+          "end": 100.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " so",
+          "start": 101.1,
+          "end": 101.3,
+          "probability": 0.97509765625
+        },
+        {
+          "word": " at",
+          "start": 101.3,
+          "end": 101.38,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " the",
+          "start": 101.38,
+          "end": 101.5,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " time",
+          "start": 101.5,
+          "end": 101.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " I",
+          "start": 101.68,
+          "end": 101.82,
+          "probability": 0.94921875
+        },
+        {
+          "word": " was",
+          "start": 101.82,
+          "end": 101.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 27",
+          "start": 101.88,
+          "end": 102.48,
+          "probability": 0.982421875
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 10248,
+      "start": 104.26,
+      "end": 111.26,
+      "text": " and the first one was to get a PhD, the second one was to look after all my",
+      "tokens": [
+        50363,
+        290,
+        262,
+        717,
+        530,
+        373,
+        284,
+        651,
+        257,
+        16394,
+        11,
+        262,
+        1218,
+        530,
+        373,
+        284,
+        804,
+        706,
+        477,
+        616,
+        50801
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2661792210170201,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.1352844536304474,
+      "words": [
+        {
+          "word": " and",
+          "start": 104.26,
+          "end": 104.7,
+          "probability": 0.373046875
+        },
+        {
+          "word": " the",
+          "start": 104.7,
+          "end": 105.14,
+          "probability": 0.9130859375
+        },
+        {
+          "word": " first",
+          "start": 105.14,
+          "end": 105.4,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " one",
+          "start": 105.4,
+          "end": 105.66,
+          "probability": 0.97705078125
+        },
+        {
+          "word": " was",
+          "start": 105.66,
+          "end": 105.88,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " to",
+          "start": 105.88,
+          "end": 106.28,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " get",
+          "start": 106.28,
+          "end": 106.64,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " a",
+          "start": 106.64,
+          "end": 106.8,
+          "probability": 0.986328125
+        },
+        {
+          "word": " PhD,",
+          "start": 106.8,
+          "end": 107.14,
+          "probability": 0.80126953125
+        },
+        {
+          "word": " the",
+          "start": 108.48,
+          "end": 108.62,
+          "probability": 0.65673828125
+        },
+        {
+          "word": " second",
+          "start": 108.62,
+          "end": 108.82,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " one",
+          "start": 108.82,
+          "end": 109.06,
+          "probability": 0.81884765625
+        },
+        {
+          "word": " was",
+          "start": 109.06,
+          "end": 109.22,
+          "probability": 0.9921875
+        },
+        {
+          "word": " to",
+          "start": 109.22,
+          "end": 109.8,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " look",
+          "start": 109.8,
+          "end": 110.68,
+          "probability": 0.97802734375
+        },
+        {
+          "word": " after",
+          "start": 110.68,
+          "end": 110.9,
+          "probability": 0.998046875
+        },
+        {
+          "word": " all",
+          "start": 110.9,
+          "end": 111.12,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " my",
+          "start": 111.12,
+          "end": 111.26,
+          "probability": 0.96142578125
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 10248,
+      "start": 111.26,
+      "end": 115.02,
+      "text": " friends and family and the third one was to one day work at Oxford or Cambridge.",
+      "tokens": [
+        50801,
+        2460,
+        290,
+        1641,
+        290,
+        262,
+        2368,
+        530,
+        373,
+        284,
+        530,
+        1110,
+        670,
+        379,
+        13643,
+        393,
+        14457,
+        13,
+        51091
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2661792210170201,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.1352844536304474,
+      "words": [
+        {
+          "word": " friends",
+          "start": 111.26,
+          "end": 111.5,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " and",
+          "start": 111.5,
+          "end": 111.68,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " family",
+          "start": 111.68,
+          "end": 112.08,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " and",
+          "start": 112.08,
+          "end": 112.76,
+          "probability": 0.485595703125
+        },
+        {
+          "word": " the",
+          "start": 112.76,
+          "end": 112.92,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " third",
+          "start": 112.92,
+          "end": 113.12,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " one",
+          "start": 113.12,
+          "end": 113.34,
+          "probability": 0.96142578125
+        },
+        {
+          "word": " was",
+          "start": 113.34,
+          "end": 113.48,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " to",
+          "start": 113.48,
+          "end": 113.6,
+          "probability": 0.8681640625
+        },
+        {
+          "word": " one",
+          "start": 113.6,
+          "end": 113.72,
+          "probability": 0.89990234375
+        },
+        {
+          "word": " day",
+          "start": 113.72,
+          "end": 113.86,
+          "probability": 0.974609375
+        },
+        {
+          "word": " work",
+          "start": 113.86,
+          "end": 114.04,
+          "probability": 0.98193359375
+        },
+        {
+          "word": " at",
+          "start": 114.04,
+          "end": 114.2,
+          "probability": 0.97607421875
+        },
+        {
+          "word": " Oxford",
+          "start": 114.2,
+          "end": 114.44,
+          "probability": 0.998046875
+        },
+        {
+          "word": " or",
+          "start": 114.44,
+          "end": 114.6,
+          "probability": 0.984375
+        },
+        {
+          "word": " Cambridge.",
+          "start": 114.6,
+          "end": 115.02,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11502,
+      "start": 129.54000000000002,
+      "end": 135.76,
+      "text": " I don't want this to be a story for three, four, five years from now. I want it to be",
+      "tokens": [
+        50363,
+        314,
+        836,
+        470,
+        765,
+        428,
+        284,
+        307,
+        257,
+        1621,
+        329,
+        1115,
+        11,
+        1440,
+        11,
+        1936,
+        812,
+        422,
+        783,
+        13,
+        314,
+        765,
+        340,
+        284,
+        307,
+        51397
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2000982327894731,
+      "compression_ratio": 1.3828125,
+      "no_speech_prob": 0.04311709105968475,
+      "words": [
+        {
+          "word": " I",
+          "start": 129.54000000000002,
+          "end": 130.02,
+          "probability": 0.236083984375
+        },
+        {
+          "word": " don't",
+          "start": 130.02,
+          "end": 130.5,
+          "probability": 0.8974609375
+        },
+        {
+          "word": " want",
+          "start": 130.5,
+          "end": 130.72,
+          "probability": 0.99609375
+        },
+        {
+          "word": " this",
+          "start": 130.72,
+          "end": 130.88,
+          "probability": 0.9765625
+        },
+        {
+          "word": " to",
+          "start": 130.88,
+          "end": 131.02,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " be",
+          "start": 131.02,
+          "end": 131.14,
+          "probability": 0.998046875
+        },
+        {
+          "word": " a",
+          "start": 131.14,
+          "end": 131.28,
+          "probability": 0.99609375
+        },
+        {
+          "word": " story",
+          "start": 131.28,
+          "end": 131.7,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " for",
+          "start": 131.7,
+          "end": 133.12,
+          "probability": 0.236083984375
+        },
+        {
+          "word": " three,",
+          "start": 133.12,
+          "end": 133.54,
+          "probability": 0.748046875
+        },
+        {
+          "word": " four,",
+          "start": 133.6,
+          "end": 133.9,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " five",
+          "start": 133.98,
+          "end": 134.22,
+          "probability": 0.88134765625
+        },
+        {
+          "word": " years",
+          "start": 134.22,
+          "end": 134.46,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " from",
+          "start": 134.46,
+          "end": 134.66,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " now.",
+          "start": 134.66,
+          "end": 134.86,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " I",
+          "start": 135.08,
+          "end": 135.1,
+          "probability": 0.990234375
+        },
+        {
+          "word": " want",
+          "start": 135.1,
+          "end": 135.36,
+          "probability": 0.95751953125
+        },
+        {
+          "word": " it",
+          "start": 135.36,
+          "end": 135.5,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " to",
+          "start": 135.5,
+          "end": 135.64,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " be",
+          "start": 135.64,
+          "end": 135.76,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11502,
+      "start": 135.76,
+      "end": 141.0,
+      "text": " the most normative thing that black professors occupy spaces in these types of institutions",
+      "tokens": [
+        51397,
+        262,
+        749,
+        46219,
+        1517,
+        326,
+        2042,
+        20339,
+        22265,
+        9029,
+        287,
+        777,
+        3858,
+        286,
+        6712,
+        51669
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2000982327894731,
+      "compression_ratio": 1.3828125,
+      "no_speech_prob": 0.04311709105968475,
+      "words": [
+        {
+          "word": " the",
+          "start": 135.76,
+          "end": 135.88,
+          "probability": 0.986328125
+        },
+        {
+          "word": " most",
+          "start": 135.88,
+          "end": 136.0,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " normative",
+          "start": 136.0,
+          "end": 136.34,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " thing",
+          "start": 136.34,
+          "end": 136.72,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " that",
+          "start": 136.72,
+          "end": 137.12,
+          "probability": 0.9560546875
+        },
+        {
+          "word": " black",
+          "start": 137.12,
+          "end": 137.48,
+          "probability": 0.69970703125
+        },
+        {
+          "word": " professors",
+          "start": 137.48,
+          "end": 138.02,
+          "probability": 0.99609375
+        },
+        {
+          "word": " occupy",
+          "start": 138.02,
+          "end": 138.54,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " spaces",
+          "start": 138.54,
+          "end": 139.1,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " in",
+          "start": 139.1,
+          "end": 139.88,
+          "probability": 0.978515625
+        },
+        {
+          "word": " these",
+          "start": 139.88,
+          "end": 140.12,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " types",
+          "start": 140.12,
+          "end": 140.34,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " of",
+          "start": 140.34,
+          "end": 140.5,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " institutions",
+          "start": 140.5,
+          "end": 141.0,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 14100,
+      "start": 141.0,
+      "end": 145.64,
+      "text": " all around the world. What I want is to be able to stand upon the vista that I am",
+      "tokens": [
+        50363,
+        477,
+        1088,
+        262,
+        995,
+        13,
+        1867,
+        314,
+        765,
+        318,
+        284,
+        307,
+        1498,
+        284,
+        1302,
+        2402,
+        262,
+        410,
+        12523,
+        326,
+        314,
+        716,
+        50591
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22523801351330944,
+      "compression_ratio": 1.6807511737089202,
+      "no_speech_prob": 0.22337442636489868,
+      "words": [
+        {
+          "word": " all",
+          "start": 141.0,
+          "end": 141.36,
+          "probability": 0.344482421875
+        },
+        {
+          "word": " around",
+          "start": 141.36,
+          "end": 141.62,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " the",
+          "start": 141.62,
+          "end": 141.78,
+          "probability": 0.998046875
+        },
+        {
+          "word": " world.",
+          "start": 141.78,
+          "end": 142.06,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " What",
+          "start": 142.24,
+          "end": 142.44,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " I",
+          "start": 142.44,
+          "end": 142.62,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " want",
+          "start": 142.62,
+          "end": 142.9,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " is",
+          "start": 142.9,
+          "end": 143.16,
+          "probability": 0.95458984375
+        },
+        {
+          "word": " to",
+          "start": 143.16,
+          "end": 143.34,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " be",
+          "start": 143.34,
+          "end": 143.46,
+          "probability": 0.96484375
+        },
+        {
+          "word": " able",
+          "start": 143.46,
+          "end": 143.58,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " to",
+          "start": 143.58,
+          "end": 143.84,
+          "probability": 0.99609375
+        },
+        {
+          "word": " stand",
+          "start": 143.84,
+          "end": 144.16,
+          "probability": 0.998046875
+        },
+        {
+          "word": " upon",
+          "start": 144.16,
+          "end": 144.48,
+          "probability": 0.96142578125
+        },
+        {
+          "word": " the",
+          "start": 144.48,
+          "end": 144.66,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " vista",
+          "start": 144.66,
+          "end": 145.0,
+          "probability": 0.94384765625
+        },
+        {
+          "word": " that",
+          "start": 145.0,
+          "end": 145.28,
+          "probability": 0.96142578125
+        },
+        {
+          "word": " I",
+          "start": 145.28,
+          "end": 145.48,
+          "probability": 0.9921875
+        },
+        {
+          "word": " am",
+          "start": 145.48,
+          "end": 145.64,
+          "probability": 0.74560546875
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 14100,
+      "start": 145.64,
+      "end": 151.42,
+      "text": " fortunate to be on, or the plinth that I've been placed on, and share that space and look to my left,",
+      "tokens": [
+        50591,
+        20200,
+        284,
+        307,
+        319,
+        11,
+        393,
+        262,
+        458,
+        9304,
+        326,
+        314,
+        1053,
+        587,
+        4624,
+        319,
+        11,
+        290,
+        2648,
+        326,
+        2272,
+        290,
+        804,
+        284,
+        616,
+        1364,
+        11,
+        50879
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22523801351330944,
+      "compression_ratio": 1.6807511737089202,
+      "no_speech_prob": 0.22337442636489868,
+      "words": [
+        {
+          "word": " fortunate",
+          "start": 145.64,
+          "end": 146.08,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " to",
+          "start": 146.08,
+          "end": 146.32,
+          "probability": 0.998046875
+        },
+        {
+          "word": " be",
+          "start": 146.32,
+          "end": 146.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " on,",
+          "start": 146.46,
+          "end": 146.68,
+          "probability": 0.99609375
+        },
+        {
+          "word": " or",
+          "start": 146.88,
+          "end": 147.06,
+          "probability": 0.80908203125
+        },
+        {
+          "word": " the",
+          "start": 147.06,
+          "end": 147.2,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " plinth",
+          "start": 147.2,
+          "end": 147.52,
+          "probability": 0.98046875
+        },
+        {
+          "word": " that",
+          "start": 147.52,
+          "end": 147.76,
+          "probability": 0.68310546875
+        },
+        {
+          "word": " I've",
+          "start": 147.76,
+          "end": 147.86,
+          "probability": 0.9326171875
+        },
+        {
+          "word": " been",
+          "start": 147.86,
+          "end": 147.96,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " placed",
+          "start": 147.96,
+          "end": 148.2,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " on,",
+          "start": 148.2,
+          "end": 148.52,
+          "probability": 0.994140625
+        },
+        {
+          "word": " and",
+          "start": 148.9,
+          "end": 149.14,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " share",
+          "start": 149.14,
+          "end": 149.46,
+          "probability": 0.994140625
+        },
+        {
+          "word": " that",
+          "start": 149.46,
+          "end": 149.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " space",
+          "start": 149.7,
+          "end": 150.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 150.08,
+          "end": 150.48,
+          "probability": 0.541015625
+        },
+        {
+          "word": " look",
+          "start": 150.48,
+          "end": 150.74,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " to",
+          "start": 150.74,
+          "end": 151.0,
+          "probability": 0.998046875
+        },
+        {
+          "word": " my",
+          "start": 151.0,
+          "end": 151.18,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " left,",
+          "start": 151.18,
+          "end": 151.42,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 14100,
+      "start": 151.56,
+      "end": 155.92,
+      "text": " look to my right and see people that look like me, that come from a similar background.",
+      "tokens": [
+        50879,
+        804,
+        284,
+        616,
+        826,
+        290,
+        766,
+        661,
+        326,
+        804,
+        588,
+        502,
+        11,
+        326,
+        1282,
+        422,
+        257,
+        2092,
+        4469,
+        13,
+        51111
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22523801351330944,
+      "compression_ratio": 1.6807511737089202,
+      "no_speech_prob": 0.22337442636489868,
+      "words": [
+        {
+          "word": " look",
+          "start": 151.56,
+          "end": 151.64,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " to",
+          "start": 151.64,
+          "end": 151.8,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " my",
+          "start": 151.8,
+          "end": 151.96,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " right",
+          "start": 151.96,
+          "end": 152.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 152.26,
+          "end": 152.48,
+          "probability": 0.61279296875
+        },
+        {
+          "word": " see",
+          "start": 152.48,
+          "end": 152.76,
+          "probability": 0.998046875
+        },
+        {
+          "word": " people",
+          "start": 152.76,
+          "end": 153.22,
+          "probability": 0.998046875
+        },
+        {
+          "word": " that",
+          "start": 153.22,
+          "end": 153.88,
+          "probability": 0.9462890625
+        },
+        {
+          "word": " look",
+          "start": 153.88,
+          "end": 154.08,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " like",
+          "start": 154.08,
+          "end": 154.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " me,",
+          "start": 154.3,
+          "end": 154.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " that",
+          "start": 154.62,
+          "end": 154.78,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " come",
+          "start": 154.78,
+          "end": 154.92,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " from",
+          "start": 154.92,
+          "end": 155.06,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " a",
+          "start": 155.06,
+          "end": 155.18,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " similar",
+          "start": 155.18,
+          "end": 155.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " background.",
+          "start": 155.38,
+          "end": 155.92,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 14100,
+      "start": 157.3,
+      "end": 163.82,
+      "text": " And once that, once I'm a small part of achieving that goal, then I'll be truly happy.",
+      "tokens": [
+        51167,
+        843,
+        1752,
+        326,
+        11,
+        1752,
+        314,
+        1101,
+        257,
+        1402,
+        636,
+        286,
+        16937,
+        326,
+        3061,
+        11,
+        788,
+        314,
+        1183,
+        307,
+        4988,
+        3772,
+        13,
+        51503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22523801351330944,
+      "compression_ratio": 1.6807511737089202,
+      "no_speech_prob": 0.22337442636489868,
+      "words": [
+        {
+          "word": " And",
+          "start": 157.3,
+          "end": 157.38,
+          "probability": 0.73486328125
+        },
+        {
+          "word": " once",
+          "start": 157.38,
+          "end": 157.78,
+          "probability": 0.9765625
+        },
+        {
+          "word": " that,",
+          "start": 157.78,
+          "end": 158.04,
+          "probability": 0.349853515625
+        },
+        {
+          "word": " once",
+          "start": 158.52,
+          "end": 158.92,
+          "probability": 0.90234375
+        },
+        {
+          "word": " I'm",
+          "start": 158.92,
+          "end": 159.3,
+          "probability": 0.9814453125
+        },
+        {
+          "word": " a",
+          "start": 159.3,
+          "end": 159.52,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " small",
+          "start": 159.52,
+          "end": 159.76,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " part",
+          "start": 159.76,
+          "end": 160.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " of",
+          "start": 160.2,
+          "end": 160.66,
+          "probability": 0.99609375
+        },
+        {
+          "word": " achieving",
+          "start": 160.66,
+          "end": 161.02,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " that",
+          "start": 161.02,
+          "end": 161.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " goal,",
+          "start": 161.4,
+          "end": 161.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " then",
+          "start": 162.48,
+          "end": 162.82,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " I'll",
+          "start": 162.82,
+          "end": 163.04,
+          "probability": 0.9736328125
+        },
+        {
+          "word": " be",
+          "start": 163.04,
+          "end": 163.16,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " truly",
+          "start": 163.16,
+          "end": 163.42,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " happy.",
+          "start": 163.42,
+          "end": 163.82,
+          "probability": 0.998046875
+        }
+      ]
+    }
+  ],
+  "text": " So I was in speech therapy overall, from the age of 3 to 14. First word was at 11 and my mum was euphoric. My first word was hello and used in context, as my mum always says. You know, I was often driven by the fact that I had some really difficult experiences in school because my teachers weren't particularly encouraging and that's what motivated me to want to break that mould and think about how I taught people beyond the classroom. So you kind of teach people didactic things they need to know in terms of the tacit knowledge, but then you also have this hidden curriculum where you're teaching people things about life, how you navigate life and that for me is the learning that kind of re-cements crystallises and sticks. I grew up in a really rough area and you know what I learned about all of those people is that they were incredibly gifted and actually the thing that was stunting or prohibiting those gifts were kind of the institutional and systemic instruments that often prohibited individuals from disadvantaged backgrounds, particularly those of colour. Over 10 years ago I wrote on my mother's and father's bedroom wall three ambitions that I wanted to try and achieve, so at the time I was 27 and the first one was to get a PhD, the second one was to look after all my friends and family and the third one was to one day work at Oxford or Cambridge. I don't want this to be a story for three, four, five years from now. I want it to be the most normative thing that black professors occupy spaces in these types of institutions all around the world. What I want is to be able to stand upon the vista that I am fortunate to be on, or the plinth that I've been placed on, and share that space and look to my left, look to my right and see people that look like me, that come from a similar background. And once that, once I'm a small part of achieving that goal, then I'll be truly happy."
+}

@@ -1,6 +1,8 @@
 @@
 # Source registry
 
+| SRC-1155 | `sources/2026-08-09-abc-first-word-video-audit.md` | Bounded machine-assisted audit of the locally preserved ABC News 2:46 MP4; links the first-word passage to C-044 and adds first-person goal-setting and representation aspirations | primary broadcast video / first-person testimony and public-position source-version / ASR navigation | 2026-08-09 | ABC News, Jason Arday, first word, speech therapy, hidden curriculum, PhD goal, Oxford, Cambridge, Black professors, representation, ASR |
+
 | SRC-1154 | `sources/2026-08-09-how-do-you-cope-gratitude-list-audio-audit.md` | Bounded machine-assisted audit of the preserved *How Do You Cope?* bonus MP3; Arday-attributed first-person windows for poverty and household gratitude, maternal support and the age-eight apple recollection, self-conception, support network, and music/language | primary podcast audio / first-person self-report / ASR navigation | 2026-08-09 | Jason Arday, How Do You Cope?, The Gratitude List, poverty, family, mother, childhood, music, language, neurodivergence, self-report, ASR |
 
 | SRC-1153 | `sources/2026-08-09-allyship-in-action-audio-audit.md` | Bounded machine-assisted audit of the locally preserved *Allyship in Action* episode 314 MP3; Arday-attributed windows for book origin, theory/practice, productivity and risk, collective educational change, and compassion; Lewis’s exam-abolition remarks kept separate | primary audio audit / first-person and public-position source-version / ASR navigation | 2026-08-09 | Jason Arday, Chantelle Jessica Lewis, *We See Things They'll Never See*, neurodivergence, productivity, allyship, education, audio audit, source version |
