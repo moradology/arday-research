@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1006/C-1006: ARU citation changed-page recheck
+
+Discovery: the current Anglia Ruskin University honorary-degree citation returned HTTP 200. The raw HTML was byte-distinct from the 6 August capture, but normalized visible text was identical at 10,001 characters; no substantive wording, correction, award detail, or new evidence appeared.
+
+Decision: register `SRC-1006` as a changed technical manifestation deduplicated to `SRC-089`. Keep the existing institutional-retelling boundary for its childhood, education, sports, endurance, fundraising, and career language. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — identity-control check: United Response homonym
 
 An exact-name media search surfaced United Response’s “Jason’s life story interview,” dated September 2025. The page identifies a different Devon-based Jason: born in Penzance, raised in St John’s/Newland, associated with Mencap in Penzance, and describing a miner father and different sibling/age history. It was rejected as a homonym and not added to Arday’s ontology. Autism School International’s apparently new result was reconciled to existing canonical `SRC-330` because its page and portrait were byte-identical to the already-preserved files.
