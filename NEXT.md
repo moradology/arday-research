@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh Cambridge endpoint boundary: `SRC-909/C-970` — the indexed Faculty of Education “Faculty Staff Contact List” route returned HTTP 404 on direct capture; no live Arday entry, role, or contact record was recovered. Reopen only for a lawful archived replay, a stable replacement endpoint, a directly rendered entry, or a formal Cambridge process record; do not treat the 404 as evidence of absence or resignation.
+
 Fresh BSA governance-source checkpoint: `SRC-908/C-969` — the British Sociological Association’s Spring 2025 *Network* issue is locally preserved as a 78-page PDF and text extraction. Its masthead lists “Dr Jason Arday” on the BSA Board of Trustees (printed p. 4 / PDF p. 4). Reopen only for a distinct appointment/termination record, later issue or directory state, annual report, or changed governance artifact; do not infer service duration or continuing status from this roster alone.
 
 Fresh learned-society checkpoint: `SRC-906/C-967` and `SRC-907/C-968` — The Sociological Review’s author profile and full September 2025 review of *We See Things They’ll Never See* are now locally preserved, including review/book DOI metadata and cover images. The profile’s role wording is a dated host source-version; the review is reception, not independent biographical corroboration. Reopen only for a changed review/profile, correction, author response, or distinct full-text/publication artifact; do not repeat the same page fetch.

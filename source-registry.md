@@ -1,5 +1,7 @@
 # Source registry
 
+| SRC-909 | `sources/2026-08-09-cambridge-staff-contact-list.md` | Cambridge Faculty of Education staff-contact-list route surfaced by indexing but returned HTTP 404 on direct capture; generic page-not-found HTML and headers preserved; no live staff entry or contact record recovered | first-party institutional endpoint / negative-space observation / local HTML and headers | 2026-08-09 | Cambridge, Faculty of Education, staff contact list, HTTP 404, negative space, indexed/live mismatch, access boundary |
+
 | SRC-908 | `sources/2026-08-09-bsa-network-issue-149.md` | British Sociological Association *Network* Issue 149 (Spring 2025); 78-page first-party PDF and extracted text preserve the masthead listing “Dr Jason Arday” on the BSA Board of Trustees (printed p. 4 / PDF p. 4) | professional-association magazine / governance roster / local PDF and text | 2026-08-09 | British Sociological Association, Network, Issue 149, Spring 2025, Board of Trustees, governance, source-version, PDF |
 
 | SRC-907 | `sources/2026-08-08-sociological-review-we-see-things-review.md` | The Sociological Review Magazine’s full 9 September 2025 review by Alexa MacDermot of Lewis and Arday’s *We See Things They’ll Never See*; review HTML, DOI metadata, and 240×370 cover preserved | learned-society review / local HTML and image / reception record | 2026-08-08 | The Sociological Review, Alexa MacDermot, We See Things They’ll Never See, neurodiversity, autoethnography, book review, DOI, cover, reception |

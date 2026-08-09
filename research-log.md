@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-909/C-970: Cambridge Faculty staff-contact route boundary
+
+Discovery: search indexing surfaced the University of Cambridge Faculty of Education’s “Faculty Staff Contact List” as an Arday-associated route. The direct URL returned HTTP 404 on 9 August 2026; the generic page-not-found HTML and response headers are locally preserved.
+
+Decision: register SRC-909 as a distinct first-party endpoint/access-boundary record. No live staff entry, role, or contact details were recovered, and no employment or resignation inference is made. This state is kept separate from the “Our People” pagination sweep and the indexed/live directory mismatch records. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-908/C-969: BSA *Network* governance roster
 
 Discovery: a BSA governance/source-version search located the British Sociological Association’s Spring 2025 *Network* issue as a public 78-page PDF. Its masthead (printed p. 4 / PDF p. 4) lists “Dr Jason Arday” among the Board of Trustees.
