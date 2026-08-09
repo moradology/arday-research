@@ -31,6 +31,8 @@ The Queen’s University Belfast Research Portal copy identifies itself as the p
 - [Queen’s University Belfast publisher-version PDF](../assets/documents/routes-intellectual-authority-2025-qub.pdf) — 29 pages; SHA-256 `a1d3ee3757961178cffd7625509cd17bf5d7c221eaee350c823ffd426a3a37fb`
 - [PDF response headers](../assets/documents/routes-intellectual-authority-2025-qub.headers.txt) — SHA-256 `e9357e827ccc56761fe06c191613d8644dc4c43b9b2bce15eb05ebcd6d794f9d`
 
+- [Page-level audit](2026-08-09-routes-intellectual-authority-page-audit.md) — methods, HESA data boundary, selected findings, progression tables, and conclusion.
+
 ## Version boundary
 
 The local file is a QUB-hosted publisher PDF, not a separately authored manuscript. It is retained as a manifestation of SRC-017; no duplicate DOI-level source was created. The licence permits non-commercial, no-derivatives redistribution with attribution; the archive preserves the file for research provenance and does not modify it.
