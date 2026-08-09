@@ -1,6 +1,6 @@
 # Next actions
 
-Fresh childhood/education source boundary: `SRC-1021/C-1021` — a distinct June 2019 Academic Libraries North biography PDF is indexed but its `www` and redirected apex-domain endpoints now return HTTP 404. Reopen only for a lawful archive copy, restored PDF, or replacement institutional record; do not treat the search snippet as verified biography evidence.
+Fresh childhood/education route checkpoint: `SRC-255/C-229` — the older `/sites/default/files/` route for the already recovered June 2019 Academic Libraries North biography now returns HTTP 404, while the separately preserved `/wp-content/uploads/2025/04/` mirror remains available in the canonical record. Do not create a duplicate source; reopen only for a materially different artifact or a changed mirror state.
 
 Fresh audio-audit checkpoint: `SRC-1020/C-1020` — a larger-model transcript improves the wording of the preserved *Talking Matters* snooker passage. Reopen only for human listening, a first-party caption/transcript, named Pontins result, ranking, or governing-body record; do not count this derivative as independent corroboration.
 

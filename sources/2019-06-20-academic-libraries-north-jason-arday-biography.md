@@ -23,6 +23,10 @@ Academic Libraries North hosts a one-page biography whose PDF metadata gives a c
 - [Response headers](../assets/documents/academic-libraries-north-jason-arday-biography-2019-headers.txt) — SHA-256 `5fd9780430bcc7b299b3ec512384763a62b7c81422c2ba27e72187b3bcbeaae4`
 - The PDF’s embedded author is “Arday, Jason”; creator and producer are Microsoft Word for Office 365.
 
+## Current route check
+
+The older indexed `/sites/default/files/Jason%20Arday%20Biography%20June%202019.pdf` route was rechecked on 9 August 2026 and now returns HTTP 404 after redirecting to the apex domain. The separately preserved `/wp-content/uploads/2025/04/` mirror remains the canonical recovered artifact for this source; this is a route/version boundary, not a new biography record.
+
 ## Evidence boundary
 
 This is strong evidence that the named host published these descriptions in 2019. It is not, by itself, an employment, governance, school-governor, or appointment register. The school-governor and external-role statements corroborate the dated 2020 CV at the level of published biography wording, while their current status remains unresolved.

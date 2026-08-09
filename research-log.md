@@ -1,10 +1,10 @@
 # Research log
 
-## 2026-08-09 — SRC-1021/C-1021: Academic Libraries North biography access boundary
+## 2026-08-09 — SRC-255/C-229: Academic Libraries North biography route recheck
 
-The childhood/education pass surfaced a distinct June 2019 PDF biography under Academic Libraries North. Search indexing exposes role and affiliation wording, but both the original `www` URL and its redirected apex-domain URL returned the same HTTP 404 on direct retrieval; no PDF or text was recovered.
+The older indexed `/sites/default/files/` route for the already-canonical June 2019 Academic Libraries North biography was rechecked and returned HTTP 404 after redirect. The separately recovered `/wp-content/uploads/2025/04/` mirror remains the canonical artifact under SRC-255; no duplicate source or claim was created.
 
-Decision: preserve the indexed lead and access boundary without promoting its snippet to verified biography evidence. Reopen only for a lawful archive copy, a restored PDF, or a replacement institutional record. Google Drive not updated; GitHub active.
+Decision: retain the route/version boundary under SRC-255 and C-229. No biography claim was upgraded. Google Drive not updated; GitHub active.
 
 ## 2026-08-09 — SRC-1020/C-1020: Talking Matters snooker audio audit
 
