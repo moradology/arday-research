@@ -5,6 +5,7 @@ title: "London Post — UWL celebrates a decade of BME Early Career Researchers"
 subject: ../entities/jason-arday.md
 published: 2026-07-20
 accessed: 2026-08-08
+rechecked: 2026-08-09
 status: London Post article and featured event photograph locally preserved
 evidence_class: secondary local-news report; UWL/KCL event and award claims remain reported, not first-party verified
 urls:
@@ -26,6 +27,10 @@ The article's award list identifies the recipient as “Professor Jason Arday �
 ## Evidence boundary
 
 This is secondary coverage by London Post, authored “Ldn-Post.” The article is evidence that this account was publicly circulated; it is not a UWL/KCL award register, event programme, keynote recording, or independent confirmation of attendance. A first-party UWL/KCL event page, award announcement, programme, or photograph would strengthen the event and award claims.
+
+## 2026-08-09 search boundary
+
+Exact-name searches for the conference, the “Legacy Leadership Award,” and the theme “Reflection, Recognition and Renewal,” restricted to `uwl.ac.uk` and `kcl.ac.uk`, returned this same London Post article and unrelated institutional pages. No UWL/KCL programme, award register, post-event report, keynote recording, transcript, or attendee photograph was recovered. The keynote and award therefore remain secondary-source claims.
 
 ## Local preservation
 
