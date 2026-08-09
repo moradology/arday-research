@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh sports-verification checkpoint: `SRC-1019/C-1019` — Crystal Palace’s official-domain search and current academy-graduate roster expose no Arday-specific record. Reopen only for a named club, academy-era roster, youth-team programme, contract/registration record, match report, or direct correction; do not repeat the same modern roster search or treat this negative space as disproof.
+
 Fresh institutional-reception checkpoint: `SRC-1018/C-1018` — The Springfields Academy’s current class page names an “Arday Class” after Jason Arday and describes him as a sociologist, writer, fundraiser, and autistic person. Reopen only for a dated school announcement, named source for the diagnosis wording, or distinct institutional legacy artifact; do not treat the class page as independent childhood or clinical corroboration.
 
 Fresh primary-scholarship checkpoint: `SRC-1017/C-1017` — QUB’s direct `pureadmin` route yielded a 22-page blind-copy/peer-reviewed-version PDF for *Attempting to break the chain*. Comparison with the existing QUB and Kent manifestations adds source-version and provenance detail, while the methodology remains materially shared and no QUB finding is exposed. Reopen only for a substantive article-version difference, correction/retraction record, terms of reference, named investigator, or formal outcome; do not count this manifestation as an independent corroborating witness.

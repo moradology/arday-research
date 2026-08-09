@@ -1,5 +1,7 @@
 # Work state
 
+Latest sports-verification checkpoint: on 2026-08-09 `SRC-1019/C-1019` captured Crystal Palace’s current academy-graduate roster after exact-name official-domain searches. No Arday-specific record appeared; this narrows one named-club route but does not disprove a historical youth association. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest institutional-reception checkpoint: on 2026-08-09 `SRC-1018/C-1018` captured The Springfields Academy’s dedicated “Arday Class” page. It records a named-class association and the school’s public representation of Arday, but does not independently verify diagnosis or biography. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest primary-scholarship checkpoint: on 2026-08-09 `SRC-1017/C-1017` captured QUB’s direct 22-page blind-copy/peer-reviewed-version PDF for *Attempting to break the chain*. It adds a submission-style provenance artifact and a version comparison against the QUB and Kent copies; it is not a second publication, independent corroboration, or QUB finding. Google Drive was not updated; GitHub remains the active publication target.

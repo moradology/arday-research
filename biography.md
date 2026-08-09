@@ -139,6 +139,8 @@ The University of Bath page initially used stronger wording, saying he entered a
 
 Current status: `reported/self-described; Bath wording corrected`. The dedicated search found no named club, snooker ranking, tournament record, or senior professional contract. The narrative therefore does not describe him as a professional footballer or professional snooker player; the corrected Bath source supports semi-professional football and non-professional snooker only.
 
+An exact-name search of Crystal Palace’s official domain, prompted by the *Talking Matters* ASR’s Crystal Palace lead, found no Arday-specific academy, graduate, match, staff, or contract record. The club’s current academy-graduate roster contains no Arday entry. This narrows one plausible club route but cannot disprove an older or unindexed youth association. [Crystal Palace search boundary](sources/2026-08-09-crystal-palace-arday-search.md)
+
 Sources: [Lives Retold/BBC Radio 4 transcript](https://static1.squarespace.com/static/5c65dd81af46834afd07e40a/t/6056605ac3c8c96e0595153f/1616273501339/lives%2Bretold%2Barday%2Bjason.pdf), [Twinkl interview](https://www.twinkl.com/news/jason-arday-the-biggest-stars-of-the-show-are-the-parents-of-neurodivergent-children), [Bath correction record](sources/2026-08-06-bath-interview-correction.md), [Talking Matters audio/ASR record](sources/2024-08-02-talking-matters-jason-arday.md).
 
 ## Early work and academic route

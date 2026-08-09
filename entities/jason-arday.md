@@ -76,4 +76,6 @@ The *Ruling Passions* transcript is a key first-person authored-output record: i
 
 The Springfields Academy’s current “Arday Class” page adds a distinct institutional-reception edge: a specialist-school class is named after him and the school describes him as a sociologist, writer, fundraiser, and autistic person. This is a naming/representation record, not independent diagnosis or childhood corroboration. [Springfields record](../sources/2026-08-09-springfields-arday-class.md)
 
+The Crystal Palace official-domain search adds a bounded negative-space edge to the football claim: the current academy-graduate roster contains no Arday entry, and no Arday-specific official club record was found. This does not disprove an older or unindexed youth association. [Crystal Palace search boundary](../sources/2026-08-09-crystal-palace-arday-search.md)
+
 This record is intentionally limited to identity, affiliations, and links to evidence. Biographical claims, disputes, and allegations belong in the claims ledger with their source and status.

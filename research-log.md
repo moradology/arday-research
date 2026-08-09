@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-1019/C-1019: Crystal Palace sports-search boundary
+
+Discovery: exact-name searches targeted Crystal Palace’s official domain for Arday, academy, youth, graduate, football, and contract combinations. The club’s current Academy Graduates roster was captured and contains no `Arday` occurrence; the only Jason entry is a different player, Jason Lokilo.
+
+Decision: record this as a bounded negative-space result in the football evidence map. It narrows the named-club hypothesis but cannot disprove an historical or unindexed youth association, identify the club intended by the first-person account, or establish professional status. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1018/C-1018: Springfields Academy naming record
 
 Discovery: the current Springfields Academy site lists an “Arday Class” among its Explorer classes and links a dedicated class page. The page names Jason Arday, describes him as a sociologist, writer, and fundraiser, and states that he has an autism diagnosis.
