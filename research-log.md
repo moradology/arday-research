@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — Markdown ontology integrity audit
+
+The source graph was checked before continuing discovery: 760 source files carry unique `SRC-*` identifiers; the registry contains 785 unique rows; and every registry path resolves to an existing source file. A local-link scan found six broken links: four Arasite text-derivative links used URL-encoded spaces/parentheses that the renderer did not resolve, one stale Zwozdiak-Myers filename, and one stale 30-in-35 parent-record filename. The Arasite links now use angle-bracket paths with the actual filenames, the comparator link points to the canonical thesis-overlap analysis, and the 30-in-35 link points to the existing parent record. No source or claim content was changed.
+
 ## 2026-08-09 — workspace artifact audit: false positives and duplicates
 
 The untracked candidate artifacts were checked against canonical source paths before promotion. The Taylor & Francis/Crossref bundle under `fighting-for-funding` is DOI `10.1080/01425692.2025.2608321`, an unrelated Carli Ria Rowell article, not an Arday output. The ITV Cultural Advisory PDF response is zero bytes. The OpenLearn `altformat-printable` candidate is another 5,649-byte Cloudflare challenge and exposes no course PDF. The UEL event HTML is byte-identical to the canonical page. Root-level Booktime cover/product files are byte-identical to the already preserved product assets. No source, claim, timeline, biography, or media node was created; the discarded candidates remain recoverable outside the repository.

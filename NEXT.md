@@ -1,5 +1,7 @@
 # Next actions
 
+Latest ontology-integrity checkpoint: all 760 source records and 785 registry rows have unique IDs and resolve to existing source paths. Six broken local links were repaired in the Arasite and 30-in-35 records; no evidence content changed. Reopen only when a new source record, missing asset, or link-integrity failure appears.
+
 Latest workspace-artifact audit: candidate files were reconciled as one unrelated DOI, a zero-byte ITV response, a repeated OpenLearn Cloudflare challenge, a byte-identical UEL page, and duplicate Booktime product assets. No new Arday evidence was promoted. Reopen only for a real ITV document, lawful OpenLearn PDF, changed UEL page, or distinct Booktime magazine/interview artifact; do not repeat these captures unchanged.
 
 Latest controversy-lineage checkpoint: named downstream coverage and institutional routes were rechecked; no new primary text, terms of reference, formal finding, correction, or independent sports record surfaced. The New York Times route remains robots-blocked, while Cambridge/QUB process records remain outcome-free. Reopen only for a primary institutional document, formal outcome, source correction, or named club/governing-body record; do not repeat the same article and search routes unchanged.

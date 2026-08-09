@@ -11,7 +11,7 @@ Page-level provenance and scope audit: [SRC-1110](2026-08-09-arasite-evidence-fi
 - Accessed: 2026-08-09
 - Host: Dave Harris and colleagues, [arasite.org](https://www.arasite.org/)
 - Status: four ZIP archives and the associated index pages recovered; the linked relation diagram is not recoverable as an image because the HTML points to the publisher’s local `C:/Users/darri/.../image.jpeg` path
-- Related sources: [Arasite research-integrity page](2026-08-08-arasite-arday-research-integrity-page.md), [Cofnas thesis comparisons](2026-08-08-cofnas-whiteness-reflexivity-comparisons.md), [Zwozdiak-Myers thesis](2026-08-08-zwozdiak-myers-thesis.md)
+- Related sources: [Arasite research-integrity page](2026-08-08-arasite-arday-research-integrity-page.md), [Cofnas thesis comparisons](2026-08-08-cofnas-whiteness-reflexivity-comparisons.md), [public thesis-overlap analysis and Zwozdiak-Myers comparator](2026-07-24-thesis-overlap-analysis.md)
 
 ## Provenance and scope
 
@@ -23,10 +23,10 @@ The files are comparison tables, not institutional findings, peer-reviewed publi
 
 | File | Contents observed | Local text extraction |
 |---|---|---|
-| `plag1.zip` | `More Z-M - summaries(1).docx`; comparison of Arday thesis extracts with Zwozdiak-Myers material, including thesis-page/source-page references | [text](../assets/documents/arasite-2026-08-09/text/More%20Z-M%20-%20summaries%281%29.txt) |
-| `plag2.zip` | `Aderibigbe-Christie-Le Cornu.docx`; comparisons involving Aderibigbe, Christie, and Le Cornu sources; includes notes about reference-list treatment | [text](../assets/documents/arasite-2026-08-09/text/Aderibigbe-Christie-Le%20Cornu.txt) |
-| `plag3.zip` | `Arday - Texas A&M University source.docx`; comparison with Douglass, Smith & Smith (2013), *Mentoring & Tutoring* DOI `10.1080/13611267.2013.813740` | [text](../assets/documents/arasite-2026-08-09/text/Arday%20-%20Texas%20A%26M%20University%20source.txt) |
-| `plag4.zip` | `ARDAY FINAL GRID.docx`; large Arday/Zwozdiak-Myers comparison grid with numbered thesis/source pages and classifications | [text](../assets/documents/arasite-2026-08-09/text/ARDAY%20FINAL%20GRID.txt) |
+| `plag1.zip` | `More Z-M - summaries(1).docx`; comparison of Arday thesis extracts with Zwozdiak-Myers material, including thesis-page/source-page references | [text](<../assets/documents/arasite-2026-08-09/text/More Z-M - summaries(1).txt>) |
+| `plag2.zip` | `Aderibigbe-Christie-Le Cornu.docx`; comparisons involving Aderibigbe, Christie, and Le Cornu sources; includes notes about reference-list treatment | [text](<../assets/documents/arasite-2026-08-09/text/Aderibigbe-Christie-Le Cornu.txt>) |
+| `plag3.zip` | `Arday - Texas A&M University source.docx`; comparison with Douglass, Smith & Smith (2013), *Mentoring & Tutoring* DOI `10.1080/13611267.2013.813740` | [text](<../assets/documents/arasite-2026-08-09/text/Arday - Texas A&M University source.txt>) |
+| `plag4.zip` | `ARDAY FINAL GRID.docx`; large Arday/Zwozdiak-Myers comparison grid with numbered thesis/source pages and classifications | [text](<../assets/documents/arasite-2026-08-09/text/ARDAY FINAL GRID.txt>) |
 
 The DOCX core metadata dates the four files to 27 July 2026, while the index page states that the evidence was submitted in September 2025. That apparent date relationship is retained as a source-version fact rather than silently reconciled; the public page does not explain whether the files were revised after submission.
 

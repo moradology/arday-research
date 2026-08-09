@@ -39,4 +39,4 @@ These captures establish the campaign’s dated narrative, reported marathon num
 
 - [Page captures, extracted text, and headers](../assets/captures/2026-08-09-30in35-pages/)
 - [Capture checksums](../assets/captures/2026-08-09-30in35-pages/SHA256SUMS)
-- [Parent CDX enumeration and home/page-4 captures](2026-08-20-30in35-wayback-campaign-blog.md)
+- [Parent CDX enumeration and home/page-4 captures](2010-08-20-30in35-wayback-campaign-blog.md)
