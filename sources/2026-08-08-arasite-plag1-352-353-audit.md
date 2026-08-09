@@ -23,7 +23,7 @@ assets:
 
 ## Scope
 
-The `More Z-M - summaries(1).docx` table in `plag1.zip` maps a distinct row across Arday printed pp. 352–353 to Zwozdiak-Myers printed pp. 272–273. This record covers that row only. SRC-486 covers the preceding p. 352 section-opening row; the later p. 353 row is not re-counted here.
+The `More Z-M - summaries(1).docx` table in `plag1.zip` maps a distinct row across Arday printed pp. 352–353 to Zwozdiak-Myers printed pp. 272–273. This record covers that row only. SRC-486 covers the preceding p. 352 section-opening row, and SRC-488 separately covers the participant-outcomes row on p. 353; neither is re-counted here.
 
 ## Direct comparison
 

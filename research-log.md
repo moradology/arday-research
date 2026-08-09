@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — deduplication check: apparent remaining `plag1` row
+
+The extracted `More Z-M - summaries(1).docx` table was checked for the row spanning Arday pp. 352–353 and Zwozdiak-Myers pp. 272–273. It is the same page-bounded comparison already recorded as `SRC-487`, not a distinct later row. The stale “remains open” wording in nearby checkpoint prose was corrected; no new source or claim was created. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-935/C-1001: Goodreads author-page reception snapshot
 
 Discovery: the current Goodreads author route returned HTTP 200 and exposed an author-level catalogue/reception state: 124 ratings, 89 reviews, six distinct works, and a 4.51/82-rating, seven-edition listing for *Great and Unfortunate Things*. The same page listed *We See Things They’ll Never See* at 3.80 from 20 ratings across six editions.
@@ -3273,7 +3277,7 @@ Discovery: the next distinct `plag1` table row maps Arday printed p. 352 to Zwoz
 
 Capture: rendered both primary pages locally. Direct inspection found a close ordered sequence covering the conclusion/research-question framing, generalisability caution, complex/multi-dimensional reflective-practice description, study purpose, and literature-gap transition. Arday adds peer-mentoring, constructivist-thinking, and thesis-specific framing.
 
-Decision: register SRC-486 as a distinct page-bounded audit. Keep the later 352–353 row open, preserve printed/PDF pagination and the dossier’s source-attributed label separately from the evidence assessment, and do not infer intent, quotation compliance, authorship history, or institutional outcome.
+Decision: register SRC-486 as a distinct page-bounded audit. The adjacent 352–353 row is separately canonicalized as SRC-487; preserve printed/PDF pagination and the dossier’s source-attributed label separately from the evidence assessment, and do not infer intent, quotation compliance, authorship history, or institutional outcome.
 
 ## 2026-08-08 — SRC-487/C-585–C-586: `plag1` final-remarks continuation
 
@@ -3281,7 +3285,7 @@ Discovery: the next distinct `plag1` table row maps Arday printed pp. 352–353 
 
 Capture: rendered the new primary pages locally and directly compared the row. The texts preserve the ordered classroom-enquiry/literature-gap, learning-process, reflective-practice, and contribution-to-literature sequence, with Arday substitutions for mentoring, collaborative learning, professional practice, and pedagogical practice.
 
-Decision: register SRC-487 as a distinct continuation audit. Keep the later p. 353 row open, preserve printed/PDF pagination and the dossier’s source-attributed label separately from the evidence assessment, and do not infer intent, quotation compliance, authorship history, or institutional outcome.
+Decision: register SRC-487 as a distinct continuation audit. The extracted table contains no additional later p. 353 row beyond the participant-outcomes row separately canonicalized as SRC-488; preserve printed/PDF pagination and the dossier’s source-attributed label separately from the evidence assessment, and do not infer intent, quotation compliance, authorship history, or institutional outcome.
 
 ## 2026-08-08 — SRC-488/C-587–C-588: `plag1` participant-outcomes list
 

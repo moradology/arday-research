@@ -22,7 +22,7 @@ assets:
 
 ## Scope
 
-The `More Z-M - summaries(1).docx` table in `plag1.zip` maps a distinct row across Arday printed p. 352 to Zwozdiak-Myers printed p. 272. This record covers that row only. The preceding SRC-485 continuation and the later 352–353 row are not re-counted here.
+The `More Z-M - summaries(1).docx` table in `plag1.zip` maps a distinct row across Arday printed p. 352 to Zwozdiak-Myers printed p. 272. This record covers that row only. The preceding SRC-485 continuation and adjacent SRC-487 352–353 row are not re-counted here.
 
 ## Direct comparison
 
