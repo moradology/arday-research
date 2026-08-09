@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1102/C-1302: BBC News NI QUB-report source-version recheck
+
+The canonical BBC News NI article reporting QUB’s review of the 2021 Arday-co-authored paper was fetched again. The 9 August HTML was byte-distinct from the 8 August capture, but the extracted article body was substantively unchanged; only presentation/date formatting and related-link relative timestamps differed. The current page, headers, extracted text, and 1200×675 portrait are preserved. Decision: keep `SRC-610` as the canonical report and register `SRC-1102` as its changed source-version; do not infer a new QUB action or outcome.
+
 ## 2026-08-09 — SRC-1101/C-1301: scholarly/library and subject-centred output boundary
 
 Exact-name searches across library catalogues, ISBN/book-chapter results, publisher records, repositories, interviews, childhood profiles, and football/snooker terms were reconciled against the existing source graph. *Cool Britannia*, *The Black PhD Experience*, *We See Things They'll Never See*, and *Great and Unfortunate Things* all returned already-canonical manifestations. A public educational-exam PDF reproduced familiar biography but supplied no independent provenance. Crossref's 2026 exact-author results likewise reduced to the already-canonical OSF v1/v2 records. No new Arday-authored work, full text, interview/video artifact, or independent childhood/sports record was recovered. Reopen only on a concrete new bibliographic key, primary artifact, or independent record; do not rerun the unchanged catalogue queries.

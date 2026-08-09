@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1102`: [BBC News NI QUB-report recheck](sources/2026-08-09-bbc-qub-arday-investigation-recheck.md), [local HTML](assets/captures/2026-08-09-qub-arday-investigation/page.html), [extracted text](assets/captures/2026-08-09-qub-arday-investigation/page.txt), and [1200×675 article portrait](assets/captures/2026-08-09-qub-arday-investigation/portrait.jpg) — byte-distinct source-version; article body substantively unchanged and no QUB finding exposed.
+
 - `SRC-1100`: [Soho Agency profile boundary](sources/2026-08-09-soho-agency-jason-arday-boundary.md) — indexed speaker-profile lead only; current route is HTTP 404 and no portrait, downloadable profile, or archived page was recovered.
 
 - `SRC-1099`: [Apple Podcasts/iTunes record](sources/2026-08-09-apple-student-sessions-jason-arday.md) — track `1000638657541`, 15 December 2023, 42:04, and Buzzsprout enclosure for the existing [Student Sessions audio](sources/2023-12-15-student-sessions-jason-arday.md); platform provenance only, no second audio binary.
