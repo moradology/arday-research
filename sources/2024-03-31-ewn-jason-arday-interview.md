@@ -21,3 +21,5 @@ The page links to an audio player (“Scroll up to listen”), but the static ca
 ## Evidence boundary
 
 This is a dated media source and a first-person interview account, not a medical, school, family, or archival record. The quoted biographical details are preserved as attributed testimony and are not independently verified here. Its discussion of Arday’s South African academic connection is also an interview statement, not proof of the full duration or institutional scope of the CriSHET relationship.
+
+See the [2026-08-09 page-level audit](2026-08-09-ewn-arday-interview-page-audit.md) for the article’s metadata, publisher-framing, image-caption, and unavailable-audio boundaries.

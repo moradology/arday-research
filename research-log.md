@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1119/C-1380: East Coast Radio/EWN interview page audit
+
+The complete locally preserved 31 March 2024 EWN page was audited as a dated media artifact. The audit records the author/interviewer/date metadata, separates headline and image-caption framing from Arday-attributed autobiographical material, links the existing developmental-delay/literacy and maternal anti-apartheid claims without duplicating them, and confirms that the static player capture exposes no recoverable audio file or separate transcript.
+
 ## 2026-08-09 — SRC-1118/C-1374–C-1379: British Council/Royal Irish Academy Ireland keynote audit
 
 The complete 14-page archived deck was reviewed from extracted text and rendered pages. The audit records the presenter/title identity, the visible 30 January 2019 date, the internal conflict created by 2019 HESA and 2020 Guardian citations, HESA/BBC-attributed representation and pay figures, the unidentified senior-leader quotation, and recommendations on mentoring, affirmative action, selection, and leadership development. It preserves the deck as a public-output artifact without treating cited statistics, delivery date, implementation, or impact as independently established.
