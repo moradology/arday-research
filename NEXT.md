@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh QUB metadata checkpoint: `SRC-923/C-989` — the article page is byte-distinct and its download counter changed, but no correction, terms of reference, named investigator, or outcome appeared. Reopen only for a substantive QUB page revision, correction, investigation document, or outcome; do not repeat metric-only fetches.
+
 Fresh sports-lead checkpoint: `SRC-922/C-988` — an indexed June 2026 Reddit discussion asks which academy/club was involved, but the direct route is an anti-bot challenge. Reopen only for a lawful thread replay, named club/league record, contract/roster, match report, or institutional correction; do not treat the discussion itself as evidence.
 
 Fresh Lives Retold binary checkpoint: `SRC-921/C-987` — the 2023 Wayback HTTP-200 PDF is locally preserved with extracted text and headers after the live route returned 404. Reopen only for BBC audio, a first-party transcript revision, or an independent club/charity/employment record; do not count the recovered PDF as corroboration.

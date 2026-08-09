@@ -1,5 +1,7 @@
 # Media index
 
+- [QUB article-page recheck HTML](assets/captures/2026-08-09-qub-article-recheck/page.html) and [headers](assets/captures/2026-08-09-qub-article-recheck/page.headers.txt) — byte-distinct 9 August Research Portal manifestation of *Attempting to break the chain*; displayed downloads rose from 1,555 to 1,734 while article metadata remained unchanged; SRC-923/C-989.
+
 - [Reddit football-academy discussion challenge HTML](assets/captures/2026-08-09-reddit-football-academy/page.html) and [headers](assets/captures/2026-08-09-reddit-football-academy/page.headers.txt) — indexed discussion asks which club/academy underlies the original Bath wording, but direct retrieval returned an anti-bot challenge; no post body, comments, or media recovered; SRC-922/C-988.
 
 - [Recovered Lives Retold/BBC Lent Talk PDF](assets/captures/2026-08-09-lives-retold-wayback/transcript.pdf), [extracted text](assets/captures/2026-08-09-lives-retold-wayback/transcript.txt), and [headers](assets/captures/2026-08-09-lives-retold-wayback/transcript.headers) — 11-page autobiographical transcript captured by Wayback on 28 June 2023; local binary recovered after the live Squarespace PDF returned 404; SRC-921/C-987. Self-report, not independent corroboration.

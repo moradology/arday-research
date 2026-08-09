@@ -718,6 +718,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-922 | `sources/2026-08-09-reddit-football-academy-access-boundary.md` | Indexed Reddit discussion asking which football academy/club underlies the original Bath wording; direct request returned HTTP 200 anti-bot challenge and no thread body or comments | public discussion lead / access boundary / local challenge HTML and headers / not evidence of football status | 2026-08-09 | Reddit, football academy, professional football, Bath interview, sports record, access boundary, negative space, low provenance |
 
+| SRC-923 | `sources/2026-08-09-qub-attempting-break-chain-recheck.md` | QUB Research Portal article page recheck; byte-distinct HTTP-200 page preserves unchanged DOI/authors/version metadata while displayed downloads rose from 1,555 to 1,734 | institutional repository source-version / volatile metric change / local HTML and headers / deduplicated to SRC-894 | 2026-08-09 | QUB, Research Portal, Educational Philosophy and Theory, Attempting to break the chain, download metric, source version, investigation boundary, deduplication |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 
