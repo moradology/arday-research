@@ -26,6 +26,8 @@ Arday contributed pages 26–37 to *The Fire Now: Anti-Racist Scholarship in Tim
 
 - [Bloomsbury UK publisher manifestation](2026-08-08-bloomsbury-fire-now-uk.md) — distinct official product-page source-version; direct page is currently Cloudflare-blocked.
 
+- [Preview audit](2026-08-09-fire-now-preview-audit.md) — page-level record of the front matter, editorial chapter description, and missing chapter-body boundary.
+
 ## Evidence boundary
 
 This is a book chapter, distinct from Arday’s edited *Dismantling Race* volume and his journal articles on educational leadership and mental health.
