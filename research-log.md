@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — Repository publication/link-integrity closure for SRC-036/SRC-921
+
+The canonical root-level records for the 20 March 2021 BBC/Lives Retold transcript and its 28 June 2023 Wayback PDF recovery were present in the working tree but not yet tracked by Git, despite being referenced by the claims ledger, timeline, biography, media index, and source registry. Their provenance and claim bindings were rechecked; root-level `assets/` and `sources/` links were corrected, and the two Markdown records are now included in the published repository. The recovered PDF, extracted text, headers, and live-404 boundary were already tracked and were not duplicated.
+
 ## 2026-08-09 — SRC-1067/C-1144–C-1147: LSTM report page-level audit
 
 The locally preserved 21-page LSTM report was read through its substantive pages rather than treated as a single broad source summary. The report says its framework centres lived experience, allows local themes to emerge, and is intended to expose the gap between institutional principles and implementation. Its p. 12 “key points of note” say only a fraction of interviewed staff of colour joined focus groups, suggesting distrust and/or fear of speaking out; the same page notes a gender imbalance across groups and a mismatch between desk-review material and participant experience.
