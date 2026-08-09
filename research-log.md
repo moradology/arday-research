@@ -4564,6 +4564,12 @@ The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum 
 The Wayback-recovered 11-page PDF of Arday’s 20 March 2021 BBC Radio 4 Lent Talk was audited by printed/page location. It adds bounded self-report on one-sided deafness, speech/literacy, football/snooker, endurance chronology, fundraising, the April 2019 Durham interview, and a statement that two benign brain tumours were diagnosed after the PhD. The latter materially conflicts with the Sanger interview’s account of a brain tumour removed two weeks before the viva and a post-viva stroke. Both source versions are preserved without medical inference or harmonization. Google Drive was not updated; GitHub remains the active publication target.
 # Research log
 
+## 2026-08-09 — SRC-1096/C-1284–C-1287: fundraising chronology reconciliation
+
+The campaign-specific statement in the St Mary's Values Talk was compared with the canonical 2009 St Mary's alumni record, the 2010 JustGiving display, the contemporaneous *Tes* report, the archived 30-in-35 blog, the 2011 JustGiving retrospective, and the 2024 St Mary's/Anglia Ruskin institutional aggregates.
+
+Decision: the record supports multiple fundraising activities and public campaign records, but not a single reconciled accounting series. The 2020 “just over £300,000” statement is retained as a dated first-person account and remains in tension with the lower 2010/2011 campaign totals. Added SRC-1096 and C-1284–C-1287; no fraud or intent conclusion was drawn. Reopen only for beneficiary confirmation, campaign accounts, contemporaneous coverage of the larger figure, or a source defining whether it was personal, team-wide, or cumulative.
+
 ## 2026-08-09 — SRC-1095/C-1277–C-1283: St Mary's Values Talk audio audit
 
 The official 46:15 St Mary's Students' Union video was already locally preserved, but its advertised YouTube caption response was zero-byte. A Whisper `base.en` pass over the 640×360 MP4 created a durable JSON navigation derivative. The subject-centred windows cover Arday’s childhood/literacy self-report, claimed university admissions and football scholarship, financial hardship and fatherhood, St Mary's football roles, a specific just-over-£300,000 fundraising account, and public positions on charity and student-union inclusion.
