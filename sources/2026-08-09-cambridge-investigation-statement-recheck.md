@@ -26,4 +26,3 @@ Comparison with `SRC-093` found no substantive change to the published process w
 - [HTML](../assets/captures/2026-08-09-cambridge-statement-recheck/page.html) — 111,201 bytes; SHA-256 `03d96ee42d32636a1f0d44fa97d967ce98bdf4b09c9ff152ff4f92205931c5b8`.
 - [Extracted text](../assets/captures/2026-08-09-cambridge-statement-recheck/page.txt) — SHA-256 `0173a4391960fb90364abb0c3b837a1261a45618982bffb673c31f39c5dd3465`.
 - [Response headers](../assets/captures/2026-08-09-cambridge-statement-recheck/page.headers.txt) — SHA-256 `18e3208c83cb8e50f0060978c0af66a346907cad9c02b1d198843a1f96cbc0ce`.
-
