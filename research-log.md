@@ -3850,3 +3850,10 @@ Decision: closed the exact query family as a negative-space checkpoint. Reopen o
 Capture: the Companies House personal-appointments page was fetched again. The 61,630-byte HTML body has the same SHA-256 as the 7 August capture and still displays eight appointments, while the response headers changed and are preserved under `assets/captures/2026-08-09-companies-house-jason-arday-recheck/`.
 
 Decision: updated the canonical legal-record note and added C-908 as a page-state observation. No new appointment, termination date, operational activity, or reason for role status was inferred. Reopen only after a changed body or concrete filing.
+# 2026-08-08 — SRC-898/C-959: Amfo Talent biography manifestation
+
+Search family: childhood, literacy, football, and snooker claims; professional biography propagation.
+
+Searches for exact-name sports phrases, club references, and named childhood details returned the existing BBC/Lives Retold, Twinkl, News24, Bath correction, COXA, Lewisham, and Pitchero records. No new named professional club, contract, ranking, tournament result, or independent childhood record was located. The uncatalogued Amfo Talent booking profile was captured because it is a distinct public professional biography and image manifestation.
+
+The profile markets Arday as a Cambridge professor and speaker and repeats a broad set of academic, governance, and advisory affiliations, including several stale or contested present-tense labels. It is recorded as promotional propagation evidence; no role or biographical claim was upgraded. The 800×800 portrait is preserved with its displayed EXIF credit. Google Drive was not updated; GitHub remains the active publication target.

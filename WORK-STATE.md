@@ -1,5 +1,7 @@
 # Work state
 
+Latest biography-propagation checkpoint: on 2026-08-08 `SRC-898/C-959` captured Amfo Talent’s public booking profile and 800×800 displayed portrait. The page adds a distinct commercial source-version for speaker positioning and affiliation wording, but no independent childhood, sports, employment, or appointment evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest recent-source sweep: on 2026-08-09 exact-name searches for August news, memoir reviews, Cambridge process updates, and interviews returned existing canonical records; no formal outcome or new primary artifact appeared. SRC-897 is the only new platform manifestation promoted from that pass. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest podcast-platform checkpoint: on 2026-08-09 `SRC-897/C-913` captured Amazon Music’s catalogue-shell manifestation of the canonical *Talking Matters* episode. It adds episode/show IDs and indexed metadata but no audio, transcript, or captions; it remains deduplicated to SRC-184. Google Drive was not updated; GitHub remains the active publication target.

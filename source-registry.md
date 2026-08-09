@@ -677,6 +677,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 
+| SRC-898 | `sources/2026-08-08-amfo-talent-jason-arday.md` | Amfo Talent public booking profile presenting Arday’s professional biography, affiliations, speaking topics, and an 800×800 portrait; promotional source-version with stale/contested role wording preserved | talent-agency biography / professional booking profile / local HTML, headers, and image | 2026-08-08 | Amfo Talent, biography, speaker profile, Cambridge, Glasgow, Durham, Ohio State, Coventry, Nelson Mandela University, Runnymede, BSA, RSA, CLASS, NHS Race and Health Observatory, image, source-version |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

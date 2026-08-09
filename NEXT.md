@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh promotional-biography checkpoint: `SRC-898/C-959` — Amfo Talent’s public booking profile and displayed portrait were captured on 8 August 2026. It repeats Cambridge/Glasgow/Durham/visiting-professorship, governance, advisory, and “youngest” wording; retain it as talent-agency propagation evidence, not independent corroboration. Reopen only for a materially changed profile, a direct role record, or a distinct agency/media artifact; do not count repeated promotional copy as a new witness.
+
 Fresh recent-source sweep boundary: exact-name searches for August 2026 news, memoir reviews, Cambridge process updates, and interviews returned only existing canonical records plus SRC-897’s Amazon Music manifestation. Reopen only for a formal institutional outcome, changed primary statement, distinct recording/transcript, or uncatalogued publisher artifact; do not repeat the same broad queries unchanged.
 
 Fresh podcast-platform checkpoint: `SRC-897/C-913` — Amazon Music now has a locally captured catalogue-shell manifestation of the canonical *Talking Matters* episode, with browser/indexed metadata and episode ID `0f794b62-c24e-4e23-9ff1-8e55efc03d18`; the direct shell exposes no audio, transcript, or captions. Reopen only for a changed rendered route, public transcript/captions, or distinct audio endpoint; do not create a second interview node.
