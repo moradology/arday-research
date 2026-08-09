@@ -1,0 +1,35 @@
+HTTP/2 301 
+content-type: text/html; charset=UTF-8
+location: https://news.osu.edu/ohio-state-shares-initial-reorganization-continuing-review-of-diversity-equity-and-inclusion-programs/
+server: nginx
+strict-transport-security: max-age=31622400
+x-pantheon-styx-hostname: styx-us-a-7ffbcf568d-mr52j
+x-styx-req-id: b1d3a364-9395-11f1-b725-3a83517c3b57
+cache-control: public, max-age=86400
+date: Sun, 09 Aug 2026 01:57:36 GMT
+x-served-by: cache-chi-kigq8000179-CHI, cache-dfw-kdfw8210086-DFW
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786240657.778224,VS0,VE62
+vary: Cookie, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+date: Sun, 09 Aug 2026 01:57:37 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+set-cookie: PPSESSION=3gh89c615hlam5febshq0t0ihi; path=/; samesite=lax; secure; HttpOnly
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+last-modified: Sun, 09 Aug 2026 01:40:07 GMT
+expires: Sun, 09 Aug 2026 02:10:07 GMT
+x-content-type-options: nosniff
+feature-policy: geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'self'; fullscreen 'self'; payment 'none'; 
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+

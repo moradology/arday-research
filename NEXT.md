@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh contested-affiliation checkpoint: `SRC-916/C-982` — Ohio State’s general search exposed no Arday-specific result, the former ODI route redirects to the university’s DEI reorganization announcement, and the Faculty Affairs route returns 404. Reopen only for a named Ohio State record, archived personnel page, appointment letter, or direct institutional response; do not treat this access gap as proof of nonexistence.
+
 Fresh media/event boundary: `SRC-915/C-981` — targeted 2025–26 video, podcast, lecture, and programme searches returned only existing UCL, ARU, Newcastle, BSA, Oxford, Bath, Crick, RSC, and Broken Vessel records. Reopen only for a concrete recording, caption/transcript, programme, post-event report, or materially changed host page; do not repeat the same broad queries unchanged.
 
 Fresh repository checkpoint: `SRC-914/C-980` — exact-name LJMU, White Rose, and Open Research Online searches on 9 August returned only the known Arday thesis, no new White Rose item, and a Cloudflare-blocked Open Research Online route. Reopen only for a changed result, direct item, new DOI/title, or lawful access route; do not repeat these unchanged searches.

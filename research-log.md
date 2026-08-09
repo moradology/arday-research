@@ -3990,3 +3990,10 @@ Discovery: targeted exact-name searches were run for 2025–26 videos, podcasts,
 Result: UCL, ARU, Newcastle, BSA, Oxford, Bath, Crick, RSC, and Broken Vessel hits all reconciled to existing records or known access gaps. No new recording, audio file, caption track, transcript, programme, or post-event report was found.
 
 Decision: added SRC-915/C-981 as a bounded media-search record. Reopen only with a concrete recording URL, caption/transcript body, downloadable programme or slide deck, post-event report, or materially changed host page.
+## 2026-08-09 — SRC-916/C-982: Ohio State affiliation route recheck
+
+Discovery: first-party Ohio State search, former Office of Diversity and Inclusion, and Faculty Affairs routes were checked against the unresolved visiting-role claim.
+
+Capture: the general search route exposed no Arday-specific result; the ODI route redirected to Ohio State’s DEI reorganization announcement; and the Faculty Affairs search returned HTTP 404. HTML and response headers for all routes are preserved under `assets/captures/2026-08-09-ohio-state-role-route-recheck/`.
+
+Decision: retained the Ohio State claim as contested and historically source-versioned. No direct appointment record was promoted, and the route state was added as SRC-916/C-982.

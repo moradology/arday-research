@@ -1,5 +1,7 @@
 # Work state
 
+Latest contested-affiliation checkpoint: on 2026-08-09 `SRC-916/C-982` rechecked Ohio State routes. No Arday-specific result appeared in the general search, the former ODI route redirected to DEI reorganization material, and the Faculty Affairs route returned 404. The historical/current visiting-role claim remains contested and no direct appointment record was recovered. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest media/event checkpoint: on 2026-08-09 `SRC-915/C-981` reconciled targeted searches for 2025–26 videos, podcasts, lecture recordings, and event programmes. All material results were already catalogued or known access gaps; no new binary or transcript was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest repository checkpoint: on 2026-08-09 `SRC-914/C-980` captured exact-name searches at LJMU Research Online, White Rose Research Online, and Open Research Online. LJMU returned three results including only the already-canonical Arday thesis; White Rose exposed no new Arday item; Open Research Online returned HTTP 403 Cloudflare. Google Drive was not updated; GitHub remains the active publication target.

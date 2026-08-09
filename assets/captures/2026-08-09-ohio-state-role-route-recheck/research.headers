@@ -1,0 +1,24 @@
+HTTP/2 404 
+cache-control: must-revalidate, no-cache, private
+content-language: en
+content-type: text/html; charset=UTF-8
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+server: nginx
+strict-transport-security: max-age=31622400
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-drupal-dynamic-cache: UNCACHEABLE (poor cacheability)
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 10 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-us-a-7ffbcf568d-s9lkm
+x-styx-req-id: b2b2752c-9395-11f1-9ca9-66adbfa911e9
+date: Sun, 09 Aug 2026 01:57:38 GMT
+x-served-by: cache-chi-klot8100147-CHI, cache-dfw-kdfw8210052-DFW
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1786240658.233098,VS0,VE227
+vary: Accept-Encoding, Cookie, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+

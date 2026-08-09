@@ -2,7 +2,7 @@
 id: affiliation-ledger-jason-arday
 type: AffiliationLedger
 subject: entities/jason-arday.md
-last_reviewed: 2026-08-06
+last_reviewed: 2026-08-09
 status: working reconciliation
 ---
 
@@ -34,7 +34,7 @@ This ledger separates formal employment, visiting/honorary role descriptions, go
 | Merton College | Lecturer in Sport | 2006–2008 | dated CV record | [dated CV](sources/2020-01-nelson-mandela-cv.md) |
 | Durham University | Honorary/Visiting Professor in Department of Sociology | 2022–2026 profile states | role described by third-party/institutional programme pages; current formal status unresolved | [Generation Delta](sources/2026-generation-delta-durham-affiliation.md) · [UKCGE profile](sources/2022-ukcge-icmhw2-affiliation-brochure.md) |
 | The Ohio State University | Visiting Research Fellow / Visiting Professor, Office of Diversity and Inclusion | 2016–2022 biographies | historical role described by CV and programme biographies; direct host record not located | [dated CV](sources/2020-01-nelson-mandela-cv.md) · [UKCGE brochure](sources/2022-ukcge-icmhw2-affiliation-brochure.md) |
-| The Ohio State University | Current visiting-professor claim | 2023–2026 | contested by reported university response; primary response inaccessible | [Cambridge current-profile version](sources/2026-08-05-cambridge-profile-version.md) · [denial report](sources/2026-08-03-affiliation-denial-reports.md) |
+| The Ohio State University | Current visiting-professor claim | 2023–2026 | contested by reported university response; 9 August first-party route recheck found no direct appointment record, ODI route redirects to DEI reorganization announcement, and Faculty Affairs route returns 404 | [Cambridge current-profile version](sources/2026-08-05-cambridge-profile-version.md) · [denial report](sources/2026-08-03-affiliation-denial-reports.md) · [Ohio State route recheck](sources/2026-08-09-ohio-state-role-route-recheck.md) |
 | Nelson Mandela University / CriSHET | Research Associate; later biography uses Visiting/Adjunct Professor wording | 2018–2021 documented; later status unresolved | institutional booklet and CV support association; title/version varies | [CriSHET booklet](sources/2021-crishet-affiliation-booklet.md) · [current Cambridge profile](sources/2026-08-05-cambridge-profile-version.md) |
 | University of Birmingham | Visiting Scholar, Centre for Research in Race and Education | from 2016 in 2020 CV | dated CV record; current status unresolved | [dated CV](sources/2020-01-nelson-mandela-cv.md) |
 | University of Hull | External Examiner, MA Education | from 2016 in 2020 CV | dated CV record; current status unresolved | [dated CV](sources/2020-01-nelson-mandela-cv.md) |
