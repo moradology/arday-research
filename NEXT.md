@@ -1,4 +1,8 @@
 # Next actions
+
+Fresh teaching-account checkpoint: `SRC-892/C-901–C-902` — a public r/UniUK thread contains a pseudonymous first-person account alleging poor teaching, lateness, limited feedback, and a disputed marking interaction during a claimed 2018 Roehampton module. Page HTML and headers are preserved. Reopen only for lawful Roehampton module/assessment/complaint records, a direct correction or response, or independent named evidence; do not treat anonymous online allegations as findings or repeatedly harvest comments.
+
+
 Fresh memoir-version controversy checkpoint: `SRC-890/C-897–C-898` — *Daily Mail* reports alleged differences between a 2024 memoir proposal and the final *Great and Unfortunate Things*, including medical/trauma anecdotes and a Brazil prophecy; the article HTML, image, and embedded commentary MP4 are preserved. The proposal itself remains unrecovered; the referenced *Atlantic* feature is already canonical as `SRC-335`. Reopen only for the proposal, a changed Atlantic version, a correction, or a direct author/publisher response; do not treat the report as medical or autobiographical verification.
 
 Fresh political-commentary checkpoint: `SRC-891/C-899–C-900` — Boris Johnson’s *Daily Mail* column argues that Cambridge’s appointment process and institutional incentives should be investigated, repeats disputed biography/academic-integrity framing, and calls for an independent inquiry. HTML, image, and embedded 32-second video are preserved. Reopen only for a correction, response, changed page, or direct institutional record; do not count opinion as corroboration.

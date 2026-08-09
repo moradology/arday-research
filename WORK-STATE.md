@@ -1,4 +1,7 @@
 # Work state
+
+Latest teaching-account checkpoint: on 2026-08-08 `SRC-892/C-901–C-902` preserved a public r/UniUK thread containing a pseudonymous first-person account about a claimed 2018 Roehampton module. The account alleges teaching and marking problems but supplies no documentary or institutional corroboration; it is a lead/public-reception record only. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest memoir-version checkpoint: on 2026-08-08 `SRC-890/C-897–C-898` preserved the *Daily Mail* report and embedded commentary video alleging differences between a 2024 memoir proposal and the published memoir. The proposal itself was not recovered; its *Atlantic* reference was reconciled to canonical `SRC-335`. These are reported source-version discrepancies, not verified medical or autobiographical facts.
 
 Latest political-commentary checkpoint: on 2026-08-08 `SRC-891/C-899–C-900` preserved Boris Johnson’s *Daily Mail* opinion column, lead image, and embedded 32-second video. It is a named political intervention arguing for scrutiny of Cambridge’s appointment process; its judgments and repeated allegations remain attributed opinion, not adjudication.

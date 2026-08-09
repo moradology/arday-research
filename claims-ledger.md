@@ -1,5 +1,8 @@
 # Claims ledger
 
+| C-901 | A pseudonymous Reddit commenter said they attended a Roehampton module taught by Arday in autumn 2018 and alleged lateness, early departures, limited academic guidance, inadequate feedback, and a disputed marking interaction. | verified existence and contents of a public first-person allegation; not independently verified | [Reddit teaching thread](sources/2026-08-08-reddit-arday-teaching.md) | The thread supplies no course file, complaint record, recording, or named corroboration. Preserve it as a lead/public-reception record; do not treat the alleged conduct, marking, observation, or departure as established. |
+| C-902 | The Reddit teaching thread is distinct from the Telegraph’s Cambridge-student report because it concerns a claimed 2018 Roehampton module and a single pseudonymous first-person account. | verified source-topology distinction | [Reddit teaching thread](sources/2026-08-08-reddit-arday-teaching.md), [Telegraph student report](sources/2026-08-07-telegraph-arday-students-grades.md) | Distinct source context does not make either account independently corroborated. |
+
 This ledger tracks propositions separately from sources. “Verified” means verified as a record or statement—not necessarily that a subjective or autobiographical claim is objectively proven.
 
 | ID | Claim | Status | Supporting / contesting sources | Notes |

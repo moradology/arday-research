@@ -1,5 +1,7 @@
 # Media index
 
+- [Reddit r/UniUK teaching thread](assets/captures/2026-08-08-reddit-arday-teaching/page.html) and [response headers](assets/captures/2026-08-08-reddit-arday-teaching/page.headers.txt) — public discussion containing a pseudonymous first-person account alleging problems with a claimed 2018 Roehampton module; no audio, image, or documentary attachment recovered; SRC-892/C-901–C-902. Rights/reuse status follows Reddit and poster terms; do not identify or contact pseudonymous participants.
+
 ## Video
 
 | PASSHE National Conference 2026 — “We are where we are…” | 2026-06-10 | PASSHE | keynote/Q&A listing | [Record](sources/2026-06-10-passhe-national-conference-jason-arday.md) · [Current event-state record](sources/2026-08-08-passhe-events-index.md) · [PASSHE timetable](https://passhe.org.uk/conference-2026/passhe-national-conference-2026-full-day-timetable-and-workshops/) · [Local HTML](assets/captures/2026-06-10-passhe-jason-arday/page.html) | conference host says event was delivered in hybrid format; Arday’s keynote delivery, recording, transcript, and slides remain unresolved |

@@ -3770,3 +3770,25 @@ Discovery: a fresh search surfaced the public PDF route at `rhhj.emnuvens.com.br
 Capture: the 17-page PDF was downloaded, rendered, and visually checked. Its SHA-256 is `d1c5b7803c052893630d53563edc697014c3b383918c9ce76559e0d3c8675d7b`, byte-identical to the existing SRC-480/SRC-216 journal PDF. The endpoint therefore adds a current access route and response headers, not a distinct publication or independent corroboration.
 
 Decision: updated SRC-480’s access date and alternate URL; no new claim or source node was created. Reopen only for a materially different file, English transcript/recording, correction, or changed DOI record.
+# 2026-08-08 — SRC-890 / C-897–C-898: memoir proposal version lead
+
+## What changed
+
+Captured the *Daily Mail* article [“Jason Arday claimed he survived ‘unrecoverable’ car accident, locked-in syndrome and testicular cancer in newly surfaced book proposal”](https://www.dailymail.com/news/article-16036797/Jason-Arday-claimed-survived-unrecoverable-car-accident.html), published 7 August 2026 and updated 8 August. The article reports alleged differences between a 2024 book proposal and the final *Great and Unfortunate Things*, including the accident/coma/locked-in-syndrome account, testicular cancer versus brain tumours, assault and suicide-attempt timing, and a Brazil prophecy. The proposal itself was not recovered.
+
+The article’s embedded 39-second *Daily Mail* video was downloaded, as was the 1200×675 lead image. A current Reddit post that linked the article was also tested: the browser research surface exposed the post, while direct shell/API retrieval returned a 403 block; the block is preserved as access-state metadata. The article’s *Atlantic* reference was reconciled to the existing canonical `SRC-335` feature, so no duplicate Atlantic source was created.
+
+## Evidence boundary
+
+This records a secondary report about an unpublished proposal, not the proposal or independent medical evidence. The reported discrepancies are not promoted to facts about Arday’s health or life. The embedded video is commentary, not an adjudication. Reddit comments are public-reception material and were not used as factual corroboration.
+
+## Re-entry
+
+Reopen only for the proposal/manuscript itself, a changed `SRC-335` Atlantic version, a publisher correction, a direct author/publisher response, or a materially changed article/video. Do not infer that omitted proposal material was false merely because it is absent from the final memoir, or that its presence in the report proves it occurred.
+## 2026-08-08 — SRC-892/C-901–C-902: Roehampton teaching account lead
+
+Discovery: a fresh r/UniUK thread asked for experiences of Jason Arday’s teaching and exposed a long pseudonymous first-person account claiming attendance on a Roehampton module in autumn 2018.
+
+Capture: preserved the public page HTML and response headers. The account alleges lateness, early departures, minimal academic guidance, inadequate feedback, and a disputed marking interaction; it also says a course head observed a lecture after a complaint. No course file, recording, complaint record, named witness, or institutional response was recovered.
+
+Decision: created a distinct public-reception/lead record because it concerns a claimed 2018 Roehampton module rather than the Telegraph’s Cambridge-student report. Every substantive proposition remains an allegation by an unidentified/pseudonymous commenter. Reopen only for a lawful institutional record, contemporaneous module documentation, a direct correction/response, or an independently sourced account; do not harvest anonymous comments as corroboration.

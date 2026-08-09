@@ -246,6 +246,8 @@ The 2022 precarious-employment article has a locally preserved PDF that the Univ
 
 ## 8. Current controversy — keep separate from the historical archive
 
+- [Reddit r/UniUK teaching discussion](sources/2026-08-08-reddit-arday-teaching.md) — public discussion containing a pseudonymous first-person account about a claimed 2018 Roehampton teaching experience; preserved as an unverified lead/public-reception record, not corroboration.
+
 - [*The Telegraph* plagiarism-row report](sources/2026-07-24-telegraph-plagiarism-row.md) — 24 July 2026; archived article with attributed allegations, Cambridge/LJMU responses, and two preserved article images.
 - [*Daily Sceptic* commentary](sources/2026-07-25-daily-sceptic-arday-commentary.md) — 25 July 2026; opinion framing of the plagiarism controversy, locally preserved with article image; no independent audit or finding added.
 - [EC Science Black History Month profile](sources/2024-02-01-ecscience-celebrating-black-scientists.md) — 1 February 2024; organizational profile repeating the childhood, Merton/Sandro, education, and career narrative, with local page and image; no independent records supplied.
