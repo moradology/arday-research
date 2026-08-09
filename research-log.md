@@ -12,6 +12,12 @@ The six-page *On Education* article already had a canonical publication record a
 
 The article is therefore useful for reconstructing Arday’s published public-intellectual position and the evidence he cited, but not as an independently verified dataset or as proof of implementation. Added SRC-1072/C-1166–C-1171; no second publication node was created.
 
+## 2026-08-09 — SRC-1073/C-1172–C-1178: *More to prove and more to lose* page audit
+
+The 22-page Glasgow “Published Version” was audited at printed-page level. The audit records the article’s CRT/epistemological frame, convenience sample of 18 staff of colour across 10 universities, questionnaire/interview/focus-group procedure, three reported themes, positionality discussion, explicit non-generalisability limitation, and recommendations about precarious employment and racism.
+
+The 2020 Durham *Living Hand to Mouth* record remains a separate manuscript lead because its full text is not public in the archive; no version identity or concealment inference was added. The methods sequence is noted as a future comparator route, not converted into a plagiarism or misconduct claim. Added SRC-1073/C-1172–C-1178; Google Drive was not updated.
+
 ## 2026-08-09 — Repository publication/link-integrity closure for SRC-036/SRC-921
 
 The canonical root-level records for the 20 March 2021 BBC/Lives Retold transcript and its 28 June 2023 Wayback PDF recovery were present in the working tree but not yet tracked by Git, despite being referenced by the claims ledger, timeline, biography, media index, and source registry. Their provenance and claim bindings were rechecked; root-level `assets/` and `sources/` links were corrected, and the two Markdown records are now included in the published repository. The recovered PDF, extracted text, headers, and live-404 boundary were already tracked and were not duplicated.

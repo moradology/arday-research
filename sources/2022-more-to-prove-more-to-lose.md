@@ -14,6 +14,8 @@ id: SRC-051
 
 ## Record
 
+The article’s page-level methods/findings and version-boundary audit is preserved as [SRC-1073](2026-08-09-more-to-prove-page-audit.md).
+
 Jason Arday’s article on race, racism, and precarious employment in higher education. The full PDF preserved from the University of Glasgow repository is identified by the first-party item record as the “Published Version.” It identifies the article as *British Journal of Sociology of Education*, volume 43, issue 4, pp. 513–533, published online 25 June 2022, and carries the repository’s Creative Commons Attribution Non-commercial No Derivatives notice. Its abstract says the study uses a critical race theory framework and focus groups with 18 participants across 10 universities, identifying systemic racism, job insecurity, and lack of career progression as key themes.
 
 ## Provenance
