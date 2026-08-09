@@ -44,6 +44,13 @@ The 10:00–15:00 window also contains a co-host’s separate account of childho
 
 The remainder of the episode is not yet audited at claim level.
 
+## Extended window: 20:00–25:00
+
+- **20:41–23:28** — In response to a question about being stopped and searched, Arday says that at 14 he was on the way to a gig with three young white male friends, also 14. Police stopped all four but pulled him aside, citing a recent series of thefts; he says he was patted down for about 15 minutes while the others were not searched. He recalls the friends asking what he had done and one saying police do not stop people for no reason.
+- **23:28–24:16** — Arday connects the incident to warnings from his father and describes it as a loss of innocence followed by heightened vigilance about clothing, hoods, and attracting police attention. He frames the experience as commonplace for young Black boys in cities and argues that the historical relationship between Black communities and police remains unresolved.
+
+This is a detailed first-person account. It overlaps thematically with his earlier New Humanist account of a first stop at 14 or 15, but neither recording is an independent police record and the age formulation is not silently harmonized.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
