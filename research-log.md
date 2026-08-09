@@ -32,6 +32,10 @@ The preserved 13 December 2023 Speakers Corner interview was checked against its
 
 The 22 July 2023 BME ECR recording was checked against its automatic English SRT. The first 01:42 host biography was excluded because of substantial recognition/title errors; Arday’s 01:43–12:18 keynote was isolated from the later audience material. The audit adds dated source-version records for his conference-opportunity recollection, collectivist community framing, love/empathy values, sleep-related self-report, Black-women agency argument, and hope/pioneer framing. No current appointment or childhood claim was promoted.
 
+## 2026-08-09 — SRC-1066/C-1139–C-1143: UCL keynote slide audit
+
+The locally preserved UCL “Learning to Fly” PPTX was read at slide level by extracting its text from the OOXML package. The audit expands the existing deck summary into five bounded records covering the declared scope, Whiteness/curriculum argument, practical interventions, the explicitly cited and qualified unconscious-bias discussion, and recommendations on race/racism conversations, representation, BME student voice, and collective responsibility. The deck remains authored presentation material rather than an independent evaluation or transcript of the 42-minute recording.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.
