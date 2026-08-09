@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1018/C-1018: Springfields class-page source-version preservation
+
+The current Springfields class page was rechecked as a source-version of the existing named-class record, not a new institutional or biographical node. The raw HTML is now preserved alongside the extracted text. It exposes current term timetable and topic-web links for the class; those materials were not treated as Arday evidence and were not fetched as new biography sources. The page’s autism wording remains school representation without an identified underlying clinical source.
+
 ## 2026-08-09 — SRC-1127/C-1387: Education in Action programme audit
 
 The organizer’s 2-page PDF was recovered and visually checked. It schedules Arday’s “Race and education in today’s world” session for the London “Sociology in Action” study day, describes the session’s race/education/intersectionality focus, and supplies the organizer’s speaker biography. The PDF visibly says 10 November 2025 while the page route says 10–11 November; no delivery artifact, recording, transcript, or attendance record was exposed. This is a distinct organizer source that gives the Southend school account a plausible event family, but it does not independently verify the school’s 2024 event or prove the 2025 session occurred.

@@ -10,6 +10,7 @@ urls:
   - https://springfields.wilts.sch.uk/Explorer-Secondary-Classes/
   - https://springfields.wilts.sch.uk/Pine/
 assets:
+  - ../assets/captures/2026-08-09-springfields-arday-class/arday.html
   - ../assets/captures/2026-08-09-springfields-arday-class/arday.txt
 ---
 
@@ -17,10 +18,11 @@ assets:
 
 The Springfields Academy’s Explorer Secondary Classes page lists an “Arday Class” among classes named after people in the autistic community. Its linked class page says the class is named after Jason Arday, describes him as a “Sociologist, Writer and Fundraiser,” and states that he has a diagnosis of autism.
 
-This is a current institutional reception and naming record. The page does not identify the source or date of the diagnosis statement, does not provide a clinical or family record, and does not add evidence about Arday’s childhood, education, sports history, or professional career. It should therefore be linked to the public-reception/legacy layer of the ontology, not counted as independent corroboration of the diagnosis.
+This is a current institutional reception and naming record. The raw class page also links current term timetables and topic webs for the class, but those are school curriculum materials, not evidence about Arday. The page does not identify the source or date of the diagnosis statement, does not provide a clinical or family record, and does not add evidence about Arday’s childhood, education, sports history, or professional career. It should therefore be linked to the public-reception/legacy layer of the ontology, not counted as independent corroboration of the diagnosis.
 
 ## Local preservation
 
 - [Extracted class-page text](../assets/captures/2026-08-09-springfields-arday-class/arday.txt) — SHA-256 `c2ce7f9dccaad0eacb118aff4ed8091aa8736e58cd67d6ba4d608745b2ed122e`.
+- [Raw class-page HTML](../assets/captures/2026-08-09-springfields-arday-class/arday.html) — SHA-256 `fb5694ca2f58b88aaebd680a652aea68eaa0b9acb7e66f16b6078b83460290a3`.
 
 Raw response headers are retained locally only because the server response contains transient cookies.

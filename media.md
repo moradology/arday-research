@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1018`: [Springfields Arday Class record](sources/2026-08-09-springfields-arday-class.md) now includes the [raw current HTML](assets/captures/2026-08-09-springfields-arday-class/arday.html) and extracted text; the page’s timetable/topic-web links are logged as school curriculum boundaries, not Arday media.
+
 - `SRC-1127`: [Education in Action programme audit](sources/2026-08-09-education-in-action-sociology-programme-audit.md) and [2-page PDF](assets/captures/2026-08-09-sociology-in-action-educationinaction/programme.pdf) — organizer programme for the 2025 “Sociology in Action” study day; schedules Arday’s session and preserves the event/date boundary; no recording, slides, or transcript recovered.
 
 - `SRC-1126`: [Southend High gazette audit](sources/2026-08-09-southend-high-arday-gazette-audit.md) and [52-page PDF](assets/captures/2026-08-09-southend-high-arday/gazette.pdf) — PDF p. 6 reports the school’s student attendance and summary of Arday’s talk; no recording, slides, or transcript recovered.
