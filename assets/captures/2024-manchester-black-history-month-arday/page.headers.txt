@@ -1,0 +1,18 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Sun, 09 Aug 2026 10:05:52 GMT
+server: Unknown
+vary: Accept-Encoding
+set-cookie: AWSALBTG=Shra8aDJoOghKhQ9V7X0ikARZfS983vh5+1wtiPRE5eH+9VrBUhlkgTWO4M7TAdMK5fiDt1CzS10ymJ3dxZJR7CYu3pwhw00uq78ey2hON77Wjx5irHccJN+3oi5HltMGllBQKkNOcR7VqC5iI1HtxB8Gby8Nrq3/GODTC+aCckTyG8vBMI=; Expires=Sun, 16 Aug 2026 10:05:52 GMT; Path=/
+set-cookie: AWSALBTGCORS=Shra8aDJoOghKhQ9V7X0ikARZfS983vh5+1wtiPRE5eH+9VrBUhlkgTWO4M7TAdMK5fiDt1CzS10ymJ3dxZJR7CYu3pwhw00uq78ey2hON77Wjx5irHccJN+3oi5HltMGllBQKkNOcR7VqC5iI1HtxB8Gby8Nrq3/GODTC+aCckTyG8vBMI=; Expires=Sun, 16 Aug 2026 10:05:52 GMT; Path=/; SameSite=None; Secure
+x-cache: Miss from cloudfront
+via: 1.1 d8de853718c0ce94813e0f6ecef81ac4.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P3
+x-amz-cf-id: ZbibPdnezoTVRDIv2vCWchALhFGgQ-tl-vYBKCHwVWQmGhiAHJ76-g==
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; worker-src 'self' blob:; media-src 'self' blob: https:; frame-ancestors 'self';
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Origin
+

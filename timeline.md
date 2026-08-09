@@ -1,5 +1,6 @@
 # Timeline
 
+| 2024-09-25 listing / 2024-10-30 scheduled | University of Manchester StaffNet scheduled Arday for the “Black History Month, The Bicentenary and Beyond” panel. | first-party university programme; attendance, delivery, and remarks unresolved | [Manchester event record](sources/2024-09-25-manchester-black-history-month-arday.md) |
 | 2025-04-28 | UEL’s Ethnicity Pay Gap Conference scheduled Arday on a panel about intersectionality and overlapping inequities; current indexed text for the later conference report lists him among contributors. | first-party event listing and indexed report metadata; attendance, remarks, and contribution scope unresolved | [UEL conference record](sources/2025-04-28-uel-ethnicity-pay-gap-conference.md) |
 
 | 2023 / report published 2024-06-04 | Invesco’s stewardship report and a related event summary document one Black History Month session with Arday on the intersectionality of race and neurodiversity, held with Invesco/Goldman Sachs and described in the report as jointly hosted with J.P. Morgan. | first-party corporate event/report witnesses; no recording or transcript; attributed biography and public-position claims remain bounded | [Conversation report](sources/2026-08-09-invesco-arday-conversation.md) · [Stewardship report](sources/2026-08-09-invesco-stewardship-report.md) |

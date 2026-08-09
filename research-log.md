@@ -1,5 +1,13 @@
 # Research log
 
+## 2026-08-09 — SRC-1083/C-1235–C-1237: University of Manchester Black History Month listing
+
+Discovery: a targeted institutional-event search surfaced the University of Manchester’s 25 September 2024 StaffNet programme. It schedules Arday for a 30 October panel, “Black History Month, The Bicentenary and Beyond,” with named Manchester academics and a topic frame covering Black contributions, the Race Equality Charter, inclusive teaching, career development, student initiatives, and legacies.
+
+Capture: the StaffNet HTML, response headers, and 700×420 generic programme image were preserved. The linked TicketSource page returned a Cloudflare challenge; no ticket details, recording, transcript, slides, post-event report, or Arday portrait was exposed.
+
+Decision: add a dated first-party event-listing node. Treat delivery and remarks as unresolved; do not infer that Arday attended from the schedule or use the generic image as a portrait.
+
 ## 2026-08-09 — SRC-640/C-1229–C-1232: UEL ethnicity-pay-gap report recheck
 
 Discovery: a targeted report search surfaced current indexed text for UEL’s *Bridging the Gap: Closing the Ethnicity Pay Gap in the UK*, which names Arday among contributors and directs readers to Appendix G, page 40. The same indexed text identifies the Office for Institutional Equity as producer and Samson Olagbami as writer/collator.

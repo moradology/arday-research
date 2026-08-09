@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1083`: [University of Manchester StaffNet page](assets/captures/2024-manchester-black-history-month-arday/page.html), [generic programme image](assets/captures/2024-manchester-black-history-month-arday/black-history-month-2024.jpg), and [TicketSource challenge](assets/captures/2024-manchester-black-history-month-arday/ticket.html) — dated event-listing media; no recording, transcript, or Arday portrait recovered.
+
 - `SRC-640` recheck: [UEL report 403 HTML](assets/captures/2025-04-28-uel-epg-conference/report-recheck-2026-08-09.html), [headers](assets/captures/2025-04-28-uel-epg-conference/report-recheck-2026-08-09.headers.txt), [FlippingBook unavailable page](assets/captures/2025-04-28-uel-epg-conference/flippingbook-recheck-2026-08-09.html), and [headers](assets/captures/2025-04-28-uel-epg-conference/flippingbook-recheck-2026-08-09.headers.txt) — changed access-state artifacts; no report binary or recording recovered.
 
 - `SRC-1081–SRC-1082`: [Invesco/London South East conversation report](sources/2026-08-09-invesco-arday-conversation.md), [local 403 challenge](assets/captures/2026-08-09-invesco-arday/), and [Invesco stewardship-report link](https://www.invesco.com/content/dam/invesco/emea/en/pdf/UK_Stewardship_Code_Report_2023.pdf) — corporate documentation of the same Black History Month session on race/neurodiversity; no recording, transcript, or image recovered.
