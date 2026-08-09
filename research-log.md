@@ -4272,3 +4272,7 @@ Decision: no audio binary, sample, transcript, or new biography claim was promot
 ## 2026-08-09 — SRC-1030/C-1030–C-1034: Wellcome Sanger Institute interview
 
 A new subject-centred lead was recovered as a public Wellcome Sanger Institute YouTube video: “Sanger Institute - Research Excellence - Dr Jason Arday, Durham University,” uploaded 30 November 2021. The 1080p audiovisual file, thumbnail, metadata, and English automatic captions are locally preserved. The interview adds timecoded first-person material on Arday’s PhD/medical account, 2015 and 2019 career milestones, research and counselling claims, and Black-history curriculum argument. It is retained as self-report and host metadata, not independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
+## 2026-08-09 — SRC-1035/C-1035–C-1037: RSC recording timecode audit
+
+The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum recording was extracted and transcribed with `mlx-community/whisper-small.en-mlx`. The pass separates a likely Arday opening segment (approximately 00:00–01:44) and late interview/remarks segment (approximately 09:09–13:16) from the middle montage of other speakers. It adds navigation for Arday-relevant remarks on intersectionality, evidence, shared responsibility, and community of practice. ASR remains unverified; no verbatim quotation or substantive empirical claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
