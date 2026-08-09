@@ -1,5 +1,8 @@
 # Next actions
 
+Fresh legal-register state checkpoint: `SRC-099/C-908` — the 9 August Companies House personal-appointments HTML is byte-identical to the 7 August capture, still showing eight appointments and the same active/resigned split; new response headers are preserved. Reopen only after a changed page body or concrete filing; do not infer operational activity from the unchanged registry display.
+
+
 Fresh search-boundary checkpoint: `SRC-895/C-907` — focused 9 August searches across Cambridge/QUB outcomes, 2026 DOI output, Companies House, Charity Commission, Runnymede, and Adult Literacy Trust records returned only canonical sources. No new outcome, DOI, filing, or distinct media artifact was recovered. Reopen only with a changed endpoint or concrete lead; do not repeat these broad queries unchanged.
 
 

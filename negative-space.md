@@ -8,6 +8,10 @@ status: active
 
 # Jason Arday — negative-space and changed-state ledger
 
+## 2026-08-09 — Companies House personal-appointments recheck
+
+The Companies House personal-appointments page remained byte-identical to the 7 August capture, displaying the same eight appointments and active/resigned split. Only response headers changed; this is preserved under SRC-099/C-908 and does not establish a new legal fact or operational activity.
+
 ## 2026-08-09 — Post-checkpoint institutional/scholarly sweep
 
 Focused searches for Cambridge and QUB investigation outcomes, new 2026 DOI output, and current charity/governance records returned only already-canonical AP/BBC/*Guardian*/*Telegraph*/institutional-process records, existing DOI/title records, and existing First Star, Autism Centre of Excellence, BSA, and patron records. No new official outcome, terms of reference, filing, DOI, or distinct media artifact was recovered. This boundary is recorded under [SRC-895](sources/2026-08-09-post-checkpoint-source-boundary.md); reopen only after a changed endpoint or concrete lead.

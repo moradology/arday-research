@@ -1,5 +1,7 @@
 # Work state
 
+Latest legal-register checkpoint: on 2026-08-09 `SRC-099/C-908` rechecked the Companies House personal-appointments page. The HTML body remained byte-identical and the eight-role display was unchanged; new response headers are preserved. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest search-boundary checkpoint: on 2026-08-09 `SRC-895/C-907` closed a focused post-checkpoint sweep across Cambridge/QUB processes, 2026 DOI output, and governance hosts. Results resolved to existing records; no new official outcome, filing, DOI, or media artifact was found. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest scholarly-manifestation checkpoint: on 2026-08-09 `SRC-894/C-905–C-906` preserved Roehampton’s Research Explorer metadata and “Final published version” PDF for Arday’s 2018 mental-health article. The repository PDF is byte-distinct but text-identical to SRC-174’s MDPI copy, so it is a host/version manifestation rather than a second publication. Google Drive was not updated; GitHub remains the active publication target.

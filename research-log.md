@@ -3813,3 +3813,8 @@ Discovery: a focused search was run after the Roehampton repository capture acro
 Result: the material hits were already canonical AP, BBC, *Guardian*, *Telegraph*, Cambridge/QUB procedure and statement records, First Star, Autism Centre of Excellence, BSA, and patron/governance records. No final finding, terms of reference, new DOI/title key, new filing, or distinct recording/transcript was exposed.
 
 Decision: closed the exact query family as a negative-space checkpoint. Reopen only for a changed official endpoint, named inquiry document/outcome, new DOI, new filing, or distinct media/publication artifact; do not repeat unchanged broad queries.
+## 2026-08-09 — SRC-099/C-908: Companies House changed-state recheck
+
+Capture: the Companies House personal-appointments page was fetched again. The 61,630-byte HTML body has the same SHA-256 as the 7 August capture and still displays eight appointments, while the response headers changed and are preserved under `assets/captures/2026-08-09-companies-house-jason-arday-recheck/`.
+
+Decision: updated the canonical legal-record note and added C-908 as a page-state observation. No new appointment, termination date, operational activity, or reason for role status was inferred. Reopen only after a changed body or concrete filing.

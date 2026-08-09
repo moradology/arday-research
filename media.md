@@ -1,5 +1,7 @@
 # Media index
 
+- [Companies House 9 August recheck headers](assets/captures/2026-08-09-companies-house-jason-arday-recheck/appointments.headers.txt) — changed response metadata for the unchanged eight-appointment personal registry page; no new media binary; SRC-099/C-908.
+
 - [Roehampton Research Explorer page](assets/captures/2026-08-09-roehampton-mental-health-record/page.html), [repository PDF](assets/captures/2026-08-09-roehampton-mental-health-record/article.pdf), and [PDF headers](assets/captures/2026-08-09-roehampton-mental-health-record/pdf.headers.txt) — live first-party repository manifestation of the 2018 mental-health article; byte-distinct but text-identical to SRC-174’s MDPI PDF; SRC-894/C-905–C-906. Rights follow the CC BY record and publisher terms.
 
 - [Roehampton profile current-route HTML](assets/captures/2026-08-08-roehampton-arday-profile/page.html) and [headers](assets/captures/2026-08-08-roehampton-arday-profile/page.headers.txt) — current first-party route redirects to `/news/`; indexed historical text describes Arday as a former School of Education lecturer; no profile image or article binary recovered; SRC-893/C-903–C-904.
