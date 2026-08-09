@@ -1,5 +1,7 @@
 # Work state
 
+Latest institutional teaching checkpoint: on 2026-08-08 `SRC-893/C-903–C-904` preserved the current Roehampton profile route’s 301-to-`/news/` boundary and the indexed historical wording describing Arday as a former School of Education lecturer/senior lecturer in 2018. This supports a broad dated role record, not the Reddit account’s module-specific allegations. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest teaching-account checkpoint: on 2026-08-08 `SRC-892/C-901–C-902` preserved a public r/UniUK thread containing a pseudonymous first-person account about a claimed 2018 Roehampton module. The account alleges teaching and marking problems but supplies no documentary or institutional corroboration; it is a lead/public-reception record only. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest memoir-version checkpoint: on 2026-08-08 `SRC-890/C-897–C-898` preserved the *Daily Mail* report and embedded commentary video alleging differences between a 2024 memoir proposal and the published memoir. The proposal itself was not recovered; its *Atlantic* reference was reconciled to canonical `SRC-335`. These are reported source-version discrepancies, not verified medical or autobiographical facts.

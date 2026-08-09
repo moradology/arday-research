@@ -3792,3 +3792,10 @@ Discovery: a fresh r/UniUK thread asked for experiences of Jason Arday’s teach
 Capture: preserved the public page HTML and response headers. The account alleges lateness, early departures, minimal academic guidance, inadequate feedback, and a disputed marking interaction; it also says a course head observed a lecture after a complaint. No course file, recording, complaint record, named witness, or institutional response was recovered.
 
 Decision: created a distinct public-reception/lead record because it concerns a claimed 2018 Roehampton module rather than the Telegraph’s Cambridge-student report. Every substantive proposition remains an allegation by an unidentified/pseudonymous commenter. Reopen only for a lawful institutional record, contemporaneous module documentation, a direct correction/response, or an independently sourced account; do not harvest anonymous comments as corroboration.
+## 2026-08-08 — SRC-893/C-903–C-904: Roehampton profile route boundary
+
+Discovery: searching the new Roehampton teaching lead surfaced a University of Roehampton first-party profile from February 2023. The indexed text describes Arday as a former School of Education lecturer and says he secured a senior lectureship in 2018.
+
+Capture: the historical canonical route was fetched directly. It now returns HTTP 301 to the general `/news/` landing page; the resulting HTML and headers are preserved. The current page contains no Arday article text, image, or replacement record.
+
+Decision: added a distinct institutional source-version/boundary record. The indexed wording is evidence of what Roehampton publicly said in 2023, while the redirect documents only current route state. It corroborates a broad institutional teaching role but does not validate the anonymous Roehampton teaching allegations, any module assignment, or any reason for the route change.

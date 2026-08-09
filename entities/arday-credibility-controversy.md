@@ -9,6 +9,8 @@ last_reviewed: 2026-08-08
 
 The teaching/student-experience sub-thread now includes a distinct public r/UniUK account about a claimed 2018 Roehampton module. It remains pseudonymous and unverified; no student identity or institutional case file is inferred.
 
+Roehampton’s own indexed 2023 profile supplies broad dated role context—former School of Education lecturer and 2018 senior lecturer—but its current route redirects to `/news/`. This is institutional source-version evidence and a route boundary, not corroboration of the module-specific allegations.
+
 # Jason Arday credibility and public-biography controversy
 
 This is a first-class controversy entity: a changing public dispute about Jason Arday’s scholarship, qualifications, affiliations, fundraising narrative, sports history, childhood biography, and institutional responses. It is not a finding that he is a liar, fraud, or villain. Those are attributed characterizations or hypotheses tracked in [Adversarial hypotheses](../adversarial-hypotheses.md), not entity-level facts.

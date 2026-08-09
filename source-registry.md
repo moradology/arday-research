@@ -668,6 +668,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-892 | `sources/2026-08-08-reddit-arday-teaching.md` | Public r/UniUK thread with a pseudonymous first-person account alleging poor teaching, lateness, limited feedback, and a disputed marking interaction during a claimed 2018 Roehampton module; HTML and headers preserved; no institutional or documentary corroboration | public discussion / pseudonymous first-person allegation / local HTML and headers / unverified lead | 2026-08-08 | Reddit, UniUK, Roehampton, teaching, supervision, marking, feedback, pseudonymous account, public reception, allegation, source-version |
 
+| SRC-893 | `sources/2026-08-08-roehampton-arday-profile.md` | University of Roehampton first-party profile survives in indexed text as a February 2023 account describing Arday as a former School of Education lecturer and 2018 senior lecturer; current canonical route redirects to `/news/`, with HTML and headers preserved | first-party institutional profile / indexed source-version / changed-route boundary / local HTML and headers | 2026-08-08 | Roehampton, School of Education, senior lecturer, 2018, teaching, race education social justice, current route, source-version, negative space |
+
 ## Registry rules
 
 - Use DOI as the primary deduplication key for scholarly publications.

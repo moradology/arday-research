@@ -1,5 +1,8 @@
 # Next actions
 
+Fresh institutional teaching checkpoint: `SRC-893/C-903–C-904` — Roehampton’s indexed February 2023 profile describes Arday as a former School of Education lecturer and 2018 senior lecturer, while the current canonical route redirects to `/news/`. HTML and headers are preserved. Reopen only for a lawful archived page, first-party replacement/correction, contemporaneous module records, or named institutional response; do not infer deletion motive or treat the indexed text as module-specific corroboration.
+
+
 Fresh teaching-account checkpoint: `SRC-892/C-901–C-902` — a public r/UniUK thread contains a pseudonymous first-person account alleging poor teaching, lateness, limited feedback, and a disputed marking interaction during a claimed 2018 Roehampton module. Page HTML and headers are preserved. Reopen only for lawful Roehampton module/assessment/complaint records, a direct correction or response, or independent named evidence; do not treat anonymous online allegations as findings or repeatedly harvest comments.
 
 
