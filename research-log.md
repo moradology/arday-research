@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — qualification-source audit: LJMU thesis canonical, earlier awards unresolved
+
+Exact-name searches across LJMU, Surrey, St Mary’s, and repository routes recovered no new qualification artifact. The existing LJMU 401-page thesis PDF is primary evidence for a July 2015 PhD submission, institution, and title; the current LJMU repository page is a distinct metadata manifestation already catalogued as SRC-569 and deduplicated to SRC-087. The 2008 BA, 2011 MA/PGCE, and 2013 MEd/PGCertLTHE remain supported by the dated CV and later institutional biographies, not award certificates or registrar records.
+
+Decision: strengthen the ontology’s evidence distinction without creating a duplicate source. Reopen only for an awarding-body certificate, registrar/alumni record, or materially changed repository artifact. Google Drive not updated; GitHub active.
+
 ## 2026-08-09 — SRC-255/C-229: Academic Libraries North biography route recheck
 
 The older indexed `/sites/default/files/` route for the already-canonical June 2019 Academic Libraries North biography was rechecked and returned HTTP 404 after redirect. The separately recovered `/wp-content/uploads/2025/04/` mirror remains the canonical artifact under SRC-255; no duplicate source or claim was created.

@@ -80,6 +80,8 @@ The Crystal Palace official-domain search adds a bounded negative-space edge to 
 
 A June 2019 Academic Libraries North biography remains canonical under its recovered `/wp-content/uploads/2025/04/` mirror; the older indexed `/sites/default/files/` route now returns HTTP 404. This is a source-route boundary, not a new biography record. [Academic Libraries North record](../sources/2019-06-20-academic-libraries-north-jason-arday-biography.md)
 
+The qualification evidence has an important hierarchy: the locally preserved 401-page LJMU thesis is primary evidence for a July 2015 PhD submission, institution, and title; the 2008 Surrey BA, 2011 St Mary’s MA/PGCE, and 2013 LJMU MEd/PGCertLTHE remain documented by a dated CV and later institutional biographies. No public Surrey or St Mary’s award certificate or registrar/alumni register was located in this pass. [LJMU thesis](../sources/2015-ljmu-phd-thesis.md) · [repository record](../sources/2026-08-08-ljmu-thesis-repository-record.md) · [recovered CV](../sources/2020-01-nelson-mandela-cv-recovered.md)
+
 A reproducible larger-model audit of the preserved *Talking Matters* window (00:20:00–00:21:40) improves the navigation wording: it hears “professional snooker player,” “Pro-Am,” “Pontins in Prestatyn,” ages 11–19, roughly seven hours daily, and the 50–60 versus 87 break comparison. This remains machine-assisted first-person audio evidence, not a human-verified transcript or independent record. [Snooker audio audit](../sources/2026-08-09-talking-matters-snooker-audio-audit.md)
 
 This record is intentionally limited to identity, affiliations, and links to evidence. Biographical claims, disputes, and allegations belong in the claims ledger with their source and status.

@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh qualification checkpoint: the LJMU thesis and repository record are already canonical (`SRC-087/SRC-569`); the 401-page PDF establishes the July 2015 PhD submission and title, while the 2008 Surrey BA, 2011 St Mary’s MA/PGCE, and 2013 LJMU MEd/PGCertLTHE remain CV/institutional-biography evidence. Reopen only for an awarding-body certificate, registrar/alumni record, or changed repository artifact; do not repeat the same thesis fetch.
+
 Fresh childhood/education route checkpoint: `SRC-255/C-229` — the older `/sites/default/files/` route for the already recovered June 2019 Academic Libraries North biography now returns HTTP 404, while the separately preserved `/wp-content/uploads/2025/04/` mirror remains available in the canonical record. Do not create a duplicate source; reopen only for a materially different artifact or a changed mirror state.
 
 Fresh audio-audit checkpoint: `SRC-1020/C-1020` — a larger-model transcript improves the wording of the preserved *Talking Matters* snooker passage. Reopen only for human listening, a first-party caption/transcript, named Pontins result, ranking, or governing-body record; do not count this derivative as independent corroboration.

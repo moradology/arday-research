@@ -1,5 +1,7 @@
 # Work state
 
+Latest qualification checkpoint: on 2026-08-09 the LJMU/Surrey/St Mary’s search found no new award certificate or registrar record. The existing LJMU thesis (July 2015, 401 pages) remains the strongest primary qualification artifact; earlier degree and certificate dates remain CV/institutional-biography claims. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest childhood/education checkpoint: on 2026-08-09 `SRC-255/C-229` rechecked the older Academic Libraries North biography route. That `/sites/default/files/` URL returns HTTP 404, but the separately recovered `/wp-content/uploads/2025/04/` mirror remains canonical; no duplicate source or new biography claim was created. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest audio-verification checkpoint: on 2026-08-09 `SRC-1020/C-1020` re-transcribed the preserved *Talking Matters* snooker exchange with `mlx-whisper` small.en. It recovers the professional-snooker/Pro-Am/Pontins-in-Prestatyn wording, ages 11–19 and roughly seven hours daily, plus the 50–60 versus 87 break comparison. This remains machine-assisted first-person evidence, not human-verified or independently corroborated. Google Drive was not updated; GitHub remains the active publication target.
