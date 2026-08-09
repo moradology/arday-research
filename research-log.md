@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-922/C-988: football-academy lead remains inaccessible
+
+Discovery: current search indexing surfaced a June 2026 Reddit discussion explicitly asking which academy or professional club was meant by the original Bath wording. A direct request returned Reddit’s anti-bot challenge, with no thread body or comments available.
+
+Decision: register SRC-922 as a low-provenance lead and access boundary linked to the existing Bath correction and sports-record search. It adds no club, contract, roster, match, or correction evidence. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-921/C-987: Lives Retold PDF recovered from Wayback
 
 Discovery: Wayback CDX exposed a 28 June 2023 HTTP-200 capture of the previously unavailable Lives Retold/BBC Lent Talk PDF. The 11-page binary was downloaded, hashed, and text-extracted locally.

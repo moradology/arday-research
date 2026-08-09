@@ -1,5 +1,7 @@
 # Work state
 
+Latest sports-status checkpoint: on 2026-08-09 `SRC-922/C-988` preserved a Reddit anti-bot access boundary for an indexed discussion asking which football academy or club underlies the original Bath wording. No answer or sports record was recovered; the question remains open. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest binary-recovery checkpoint: on 2026-08-09 `SRC-921/C-987` recovered an 11-page Wayback PDF manifestation of the BBC/Lives Retold transcript, with extracted text and headers. Page-level childhood, literacy, sports, endurance, and career wording is now locally inspectable but remains self-report. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest 30 in 35 media checkpoint: on 2026-08-09 `SRC-920/C-986` recovered three duplicated campaign-logo binaries from the archived image manifest; personal marathon photographs remained unavailable. No image or fundraising claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.

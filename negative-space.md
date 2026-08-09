@@ -8,6 +8,10 @@ status: active
 
 # Jason Arday — negative-space and changed-state ledger
 
+## Additional unresolved sports lead
+
+The indexed June 2026 Reddit discussion about which academy or professional club underlies the original Bath wording is preserved as [SRC-922](sources/2026-08-09-reddit-football-academy-access-boundary.md). The direct request returned an anti-bot challenge, so no answer or underlying sports record was recovered. This is a lead/access boundary, not corroboration or falsification.
+
 ## 2026-08-09 — Companies House personal-appointments recheck
 
 The Companies House personal-appointments page remained byte-identical to the 7 August capture, displaying the same eight appointments and active/resigned split. Only response headers changed; this is preserved under SRC-099/C-908 and does not establish a new legal fact or operational activity.
