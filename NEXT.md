@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh qualification discrepancy checkpoint: `SRC-208/C-1022` — Cambridge’s unavailable profile is indexed with “MA Education Studies (Liverpool John Moores University)” alongside the St Mary’s MA, while the recovered CV says MEd/PGCertLTHE and the Cambridge Reporter prints the St Mary’s M.A./LJMU Ph.D. Treat the snippet as cached source-version text only; reopen for a restored profile, registrar/certificate record, or direct institutional clarification.
+
 Fresh qualification checkpoint: the LJMU thesis and repository record are already canonical (`SRC-087/SRC-569`); the 401-page PDF establishes the July 2015 PhD submission and title, while the 2008 Surrey BA, 2011 St Mary’s MA/PGCE, and 2013 LJMU MEd/PGCertLTHE remain CV/institutional-biography evidence. Reopen only for an awarding-body certificate, registrar/alumni record, or changed repository artifact; do not repeat the same thesis fetch.
 
 Fresh childhood/education route checkpoint: `SRC-255/C-229` — the older `/sites/default/files/` route for the already recovered June 2019 Academic Libraries North biography now returns HTTP 404, while the separately preserved `/wp-content/uploads/2025/04/` mirror remains available in the canonical record. Do not create a duplicate source; reopen only for a materially different artifact or a changed mirror state.

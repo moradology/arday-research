@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — C-1022: Cambridge indexed qualification snippet versus recovered records
+
+The Cambridge Faculty profile remained HTTP 404, but search indexing exposed a later qualification snippet listing an LJMU MA Education Studies alongside the St Mary’s MA, Surrey BA, and LJMU PhD. This differs from the January 2020 CV’s MEd/PGCertLTHE formulation and the 2022 Cambridge Reporter’s credential wording.
+
+Decision: preserve as an indexed/live source-version discrepancy under SRC-208/C-1022. Do not promote the snippet to an additional degree, and do not infer fabrication or clerical error. Reopen only for a restored profile, registrar record, certificate, or direct institutional clarification. Google Drive not updated; GitHub active.
+
 ## 2026-08-09 — qualification-source audit: LJMU thesis canonical, earlier awards unresolved
 
 Exact-name searches across LJMU, Surrey, St Mary’s, and repository routes recovered no new qualification artifact. The existing LJMU 401-page thesis PDF is primary evidence for a July 2015 PhD submission, institution, and title; the current LJMU repository page is a distinct metadata manifestation already catalogued as SRC-569 and deduplicated to SRC-087. The 2008 BA, 2011 MA/PGCE, and 2013 MEd/PGCertLTHE remain supported by the dated CV and later institutional biographies, not award certificates or registrar records.

@@ -64,3 +64,7 @@ A further direct request to the exact slash URL again returned HTTP 404. Its 37,
 
 - [8 August direct 404 body](../assets/captures/2026-08-08-cambridge-faculty-profile-404/page.html) — SHA-256 `2bcaada4c5e5df8547b8400eb75a10d4d4558f21aad46ecb3151d0bc730977eb`
 - [8 August response headers](../assets/captures/2026-08-08-cambridge-faculty-profile-404/page.headers.txt) — SHA-256 `9e4942abc5fa2d2d000bdc647a2477a0b6056617bb34f3749f7b22fbae11e45a`
+
+## 2026-08-09 indexed qualification wording
+
+The search index for the same unavailable profile exposed a qualification snippet listing: PhD Education (Liverpool John Moores University); MA Education Studies (Liverpool John Moores University); MA Education and Pedagogy (St Mary’s University London); and BA Hons Education Studies and Physical Education (University of Surrey). The live profile route remained unavailable, so this is retained as indexed source-version text only. It differs from the recovered January 2020 CV’s MEd/PGCertLTHE wording and the 2022 Cambridge Reporter’s printed M.A. from St Mary’s and Ph.D. from LJMU. The archive does not infer an additional degree or an error from this split.

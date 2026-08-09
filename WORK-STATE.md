@@ -1,5 +1,7 @@
 # Work state
 
+Latest qualification-discrepancy checkpoint: on 2026-08-09 the Cambridge Faculty profile remained HTTP 404, while its indexed snippet listed an LJMU MA Education Studies not stated in the recovered CV or Cambridge Reporter credential transcription. This is preserved as C-1022/source-version tension, not as proof of an additional degree or error. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest qualification checkpoint: on 2026-08-09 the LJMU/Surrey/St Mary’s search found no new award certificate or registrar record. The existing LJMU thesis (July 2015, 401 pages) remains the strongest primary qualification artifact; earlier degree and certificate dates remain CV/institutional-biography claims. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest childhood/education checkpoint: on 2026-08-09 `SRC-255/C-229` rechecked the older Academic Libraries North biography route. That `/sites/default/files/` URL returns HTTP 404, but the separately recovered `/wp-content/uploads/2025/04/` mirror remains canonical; no duplicate source or new biography claim was created. Google Drive was not updated; GitHub remains the active publication target.
