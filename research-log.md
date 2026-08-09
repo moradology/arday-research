@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1048/C-1048–C-1050: Surviving Society E031 opening-window audit
+
+The locally preserved 1:11:45.64 HLS AAC for the 23 April 2019 “Growing up Black in the 90s” episode was sampled with word-timestamped ASR in the opening five minutes. Arday places the proposed book in his childhood in South London/Clapham, recounts an age-14 encounter with a local drug dealer who told him to keep his head in his books, and recalls his mother keeping him and his brothers awake for late-night television to access Black heritage and culture. These are first-person autobiographical and cultural-memory passages; the audio is a podcast conversation and the ASR is not a verbatim transcript. The source adds subject-centred childhood detail to SRC-197 without creating a duplicate episode node. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1045/C-1045: Cumberland Lodge audio audit
 
 The locally preserved 59:10.38 SoundCloud MP3 for the 3 November 2021 “Beyond Tokenism” panel was audited with bounded ASR windows. The host introduction places Arday on the panel, and an approximately 05:00–07:00 segment contains an Arday-attributed response on tokenism, structural whiteness, personal experience, and the distribution of benefit to people of colour, especially women of colour. The host’s immediate hand-off supports the attribution, but this remains a machine-assisted navigation result from multi-speaker audio, not a manually verified transcript. It adds a source-layer public-position record to SRC-618 and SRC-1008 without creating a duplicate webinar node. Google Drive was not updated; GitHub remains the active publication target.

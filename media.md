@@ -1,6 +1,7 @@
 # Media / capture additions
 
 - `SRC-1045`: [Cumberland Lodge audio audit](sources/2026-08-09-cumberland-lodge-audio-audit.md) — targeted navigation of the locally preserved [59:10.38 SoundCloud MP3](assets/audio/cumberland-lodge/beyond-tokenism-jason-arday.mp3), with an approximate Arday-attributed tokenism/whiteness window; machine-assisted and not a verbatim transcript.
+- `SRC-1048`: [Surviving Society E031 audio audit](sources/2026-08-09-surviving-society-e031-audio-audit.md) — opening-window navigation of the locally preserved [1:11:45.64 HLS AAC](assets/audio/surviving-society-e031-jason-arday-2019.m4a), adding approximate timecodes for childhood/cultural-memory passages; machine-assisted and not a verbatim transcript.
 
 - `SRC-1009`: [CGHE Webinar 164 transcript PDF](assets/documents/cghe-webinar-164/transcript.pdf) and [extracted text](assets/documents/cghe-webinar-164/transcript.txt) — official linked artifact for the 3 November 2020 Arday/Dorling/Westwood webinar, but only a two-page Zoom chat log; no Arday speech or remarks appear.
 

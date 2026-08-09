@@ -1,0 +1,37 @@
+---
+id: SRC-1048
+type: primary podcast audio audit / machine-assisted timecode navigation
+title: "Growing up Black in the 90s" Surviving Society audio audit
+subject: ../entities/jason-arday.md
+event_date: 2019-04-23
+published: 2019-04-23
+accessed: 2026-08-09
+status: locally preserved public HLS AAC; opening-window ASR audit completed; human listening pending
+evidence_class: first-party podcast audio / machine transcript derivative / first-person testimony
+urls:
+  - https://soundcloud.com/user-622675754/e031-jason-arday-growing-up-black-in-the-90s
+assets:
+  - ../assets/audio/surviving-society-e031-jason-arday-2019.m4a
+related_sources:
+  - SRC-197
+---
+
+# Surviving Society E031 — targeted opening-window audit
+
+This is a targeted navigation audit of the 1:11:45.64 HLS AAC recording already preserved under `SRC-197`. The episode is a host-led conversation with Arday about a proposed cultural-analysis book and growing up Black in 1990s South London. The audit used `mlx-community/whisper-small.en-mlx` on the opening 10 minutes; the text below is machine-assisted navigation, not a verbatim transcript or independent corroboration.
+
+## Timecoded passages
+
+- **00:11–00:18** — The hosts introduce “Dr. Jason R. Arday” as being from the University of Warwick. This is the 2019 host framing and should not be silently generalized to later employment.
+- **01:30–02:02** — In response to a question about the proposed book, Arday places its origin in thinking about his childhood “as a black male growing up in South London, Clapham” and observing the surrounding environment.
+- **01:58–02:52** — He recounts a childhood encounter, saying that at age 14 a local drug dealer with conspicuous material wealth stopped him on the way to a shop and told him to keep his head in his books, make something of his life, and not follow the dealer’s path. This is an autobiographical anecdote, not an independently checked identification or socioeconomic record.
+- **03:03–03:32** — He connects the memory to the scarcity of Black representation on British television, recalling his mother keeping him and his brothers awake to watch late-night programming so they could encounter Black heritage and culture. This remains first-person cultural memory.
+
+The episode’s wider themes include music, raving, gigging, racism, and the social meaning of 1990s popular culture. Only the opening-window passages above were timecoded in this pass.
+
+## Method and limits
+
+- Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
+- The 300-second opening was transcribed with word timestamps; the second 300-second window was used for broader navigation only. Timing is approximate at sentence boundaries.
+- Names, institutions, ages, amounts, and wording remain subject to human listening. Do not treat the ASR as a published transcript or use the anecdote as independent evidence.
+- Reopen for a human-checked transcript, a first-party text version of the proposed book, or a distinct recording/caption manifestation.
