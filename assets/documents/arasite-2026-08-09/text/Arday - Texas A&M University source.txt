@@ -1,0 +1,410 @@
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| Arday   | Source   | Arday 2015 thesis     | Source                                                           | Type           | Notes            |
+|         | paper    | text extract          |                                                                  |                |                  |
++=========+==========+=======================+==================================================================+================+==================+
+|         | Douglass |                       | Douglass, A. G., Smith, D. L., & Smith, L. J. (2013).            |                | Three female     |
+|         | (2013)   |                       |                                                                  |                | co-authors were  |
+|         |          |                       | An Exploration of the Characteristics of Effective Undergraduate |                | based at Texas   |
+|         |          |                       | Peer-Mentoring Relationships. Mentoring & Tutoring: Partnership  |                | A&M University   |
+|         |          |                       | in Learning, 21(2), 219–234.                                     |                | at time of       |
+|         |          |                       |                                                                  |                | publication      |
+|         |          |                       | https://www.tandfonline.com/doi/abs/10.1080/13611267.2013.813740 |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 308     | 219–234  | This resonates with   | Based on previous research, peer-mentoring programs are widely   | Verbatim text, | Note use of same |
+|         |          | previous research     | accepted as a means of                                           | close          | authors, with    |
+|         |          | based on constructs   |                                                                  | paraphrase,    | the exception of |
+|         |          | of mentoring where;   | providing additional instructional support for students (Fox &   | including use  | Raider-Roth      |
+|         |          | peer- mentoring       | Stevenson, 2006; Jacobi, 1991;                                   | of same        | included in      |
+|         |          | programmes are widely |                                                                  | authors        | Arday thesis     |
+|         |          | accepted as a means   | Smith, 2008).                                                    |                |                  |
+|         |          | of providing          |                                                                  | Note use of    | Note use of      |
+|         |          | additional            | In addition to the academic benefits, peer mentoring has several | same authors   | ‘instructional   |
+|         |          | instructional support | other advantages.                                                | in the same    | outlet’ in both  |
+|         |          | for students (Fox and |                                                                  | order (minus   | texts            |
+|         |          | Stevenson, 2006;      | …..Peer-mentoring programs are able to offer students an         | Walsh & Wilss) |                  |
+|         |          | Jacobi, 1991; Smith,  | additional instructional outlet, thereby relieving some of the   |                | ‘support’ vs     |
+|         |          | 2008; Raider-Roth et  | pressures from                                                   |                | ‘opportunity for |
+|         |          | al., 2012).           |                                                                  |                | assistance’      |
+|         |          |                       | course instructors, while still providing students adequate      |                |                  |
+|         |          | In addition to the    | opportunity for assistance (Fox &                                |                |                  |
+|         |          | academic benefits,    |                                                                  |                |                  |
+|         |          | the student teachers’ | Stevenson, 2006; Heirdsfield, Walker, Walsh, & Wilss, 2008;      |                |                  |
+|         |          | elicited several      | Mazur, 1997; Smith, 2008.)                                       |                |                  |
+|         |          | other advantages of   |                                                                  |                |                  |
+|         |          | developing strong     | Moreover, peer mentor programs provide an opportunity for both   |                |                  |
+|         |          | professional          | mentors and mentees to reflect                                   |                |                  |
+|         |          | relationships which   |                                                                  |                |                  |
+|         |          | were                  | deeper on the learning process.                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | underpinned by trust. | Mentors, in particular, must be able to think about how students |                |                  |
+|         |          |                       | learn and apply this to their interactions with mentees.         |                |                  |
+|         |          | The trainees’         |                                                                  |                |                  |
+|         |          | acknowledged that     | In this regard, peer mentoring can be especially useful in       |                |                  |
+|         |          | aspects of the        | teacher education programs where students are preparing for a    |                |                  |
+|         |          | peer-mentoring        | career in                                                        |                |                  |
+|         |          | intervention were     |                                                                  |                |                  |
+|         |          | able to offer the     | educational service (Heirdsfield et al., 2008).                  |                |                  |
+|         |          | focus group an        |                                                                  |                |                  |
+|         |          | additional            |                                                                  |                |                  |
+|         |          | instructional outlet, |                                                                  |                |                  |
+|         |          | thereby relieving     |                                                                  |                |                  |
+|         |          | some of the pressures |                                                                  |                |                  |
+|         |          | from the teacher      |                                                                  |                |                  |
+|         |          | trainers, whilst      |                                                                  |                |                  |
+|         |          | still providing       |                                                                  |                |                  |
+|         |          | adequate support for  |                                                                  |                |                  |
+|         |          | one another in a      |                                                                  |                |                  |
+|         |          | collegial environment |                                                                  |                |                  |
+|         |          | (Fox and Stevenson,   |                                                                  |                |                  |
+|         |          | 2006; Heirdsfield et  |                                                                  |                |                  |
+|         |          | al., 2008; Mazur,     |                                                                  |                |                  |
+|         |          | 1997; Smith, 2008).   |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Moreover, a           |                                                                  |                |                  |
+|         |          | re-occurring theme    |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | which underpinned the |                                                                  |                |                  |
+|         |          | process for           |                                                                  |                |                  |
+|         |          | effective-mentoring   |                                                                  |                |                  |
+|         |          | was the notion, that  |                                                                  |                |                  |
+|         |          | trust provides an     |                                                                  |                |                  |
+|         |          | opportunity for       |                                                                  |                |                  |
+|         |          | peer-mentees to       |                                                                  |                |                  |
+|         |          | reflect deeper on the |                                                                  |                |                  |
+|         |          | learning process.     |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | They highlighted,     |                                                                  |                |                  |
+|         |          | that in developing    |                                                                  |                |                  |
+|         |          | professional trust,   |                                                                  |                |                  |
+|         |          | subject mentors in    |                                                                  |                |                  |
+|         |          | particular, must be   |                                                                  |                |                  |
+|         |          | able to think about   |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | how student teachers’ |                                                                  |                |                  |
+|         |          | may learn and         |                                                                  |                |                  |
+|         |          | develop, and apply    |                                                                  |                |                  |
+|         |          | this to their         |                                                                  |                |                  |
+|         |          | interactions with     |                                                                  |                |                  |
+|         |          | mentees.              |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | In this regard,       |                                                                  |                |                  |
+|         |          | Heirdsfield et al.,   |                                                                  |                |                  |
+|         |          | (2008) highlight that |                                                                  |                |                  |
+|         |          | peer-mentoring can be |                                                                  |                |                  |
+|         |          | especially useful in  |                                                                  |                |                  |
+|         |          | teacher education     |                                                                  |                |                  |
+|         |          | programmes where      |                                                                  |                |                  |
+|         |          | students are          |                                                                  |                |                  |
+|         |          | preparing for a       |                                                                  |                |                  |
+|         |          | career in educational |                                                                  |                |                  |
+|         |          | service.              |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 309-310 | 219-234  | … peer- mentoring     | Peer mentoring can also provide emotional support, which, in     | Near-verbatim, | ‘student         |
+|         |          | providing emotional   | turn, may enhance undergraduate                                  | including use  | teachers’        |
+|         |          | support, which in     |                                                                  | of same        | learning and     |
+|         |          | turn contributed to   | students’ academic success (Fox & Stevenson, 2006; Rice & Brown, | atuhors        | success’         |
+|         |          | enhancing the student | 1990)                                                            | (Heirdsfield,  | compared to      |
+|         |          | teachers’ learning    |                                                                  | Page and       | ‘students’       |
+|         |          | and success (Fox and  | Results from several studies of effective mentoring programs     | Hanna)         | academic         |
+|         |          | Stevenson, 2006; Rice | indicate that undergraduates feel less intimidated by peer       |                | success’         |
+|         |          | and Brown, 1990).     | mentors and more likely to ask questions they may not be willing |                |                  |
+|         |          |                       | to ask course instructors                                        |                | ‘collaborative   |
+|         |          | This resonates with   |                                                                  |                | endeavour’ vs    |
+|         |          | results from several  | (Heirdsfield et al., 2008; Page & Hanna, 2008).                  |                | ‘collaborative   |
+|         |          | studies of effective  |                                                                  |                | process’         |
+|         |          | mentoring programs    | Thus, it follows that if students feel more secure in asking     |                |                  |
+|         |          | which indicate that   | course-related questions, they will become more comfortable with |                | Note use of      |
+|         |          | student teachers feel | the material and more likely to succeed in the class.            |                | ‘comfortable     |
+|         |          | less intimidated by   |                                                                  |                | with the         |
+|         |          | peer-mentors and more | This aspect has been identified as an important element in many  |                | material’ in     |
+|         |          | likely to ask         |                                                                  |                | both texts       |
+|         |          | questions they may    | programs and is currently of particular interest to researchers  |                |                  |
+|         |          | not be willing to ask | and program developers.                                          |                | ‘program         |
+|         |          | course instructors    |                                                                  |                | developers’      |
+|         |          |                       |                                                                  |                | becomes ‘teacher |
+|         |          | or teacher trainers   |                                                                  |                | education        |
+|         |          | (Heirdsfield et al.,  |                                                                  |                | programme        |
+|         |          | 2008; Page and Hanna, |                                                                  |                | developers’      |
+|         |          | 2008).                |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Thus, the spiral of   |                                                                  |                |                  |
+|         |          | trust developed among |                                                                  |                |                  |
+|         |          | the student teachers’ |                                                                  |                |                  |
+|         |          | that participated in  |                                                                  |                |                  |
+|         |          | this study, suggests  |                                                                  |                |                  |
+|         |          | that if students      |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | feel more secure in   |                                                                  |                |                  |
+|         |          | asking course-related |                                                                  |                |                  |
+|         |          | questions, they will  |                                                                  |                |                  |
+|         |          | become more           |                                                                  |                |                  |
+|         |          | comfortable with the  |                                                                  |                |                  |
+|         |          | material and more     |                                                                  |                |                  |
+|         |          | likely to succeed in  |                                                                  |                |                  |
+|         |          | all aspects of their  |                                                                  |                |                  |
+|         |          | induction into the    |                                                                  |                |                  |
+|         |          | teaching              |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | profession.           |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Within this study,    |                                                                  |                |                  |
+|         |          | this has been         |                                                                  |                |                  |
+|         |          | identified as an      |                                                                  |                |                  |
+|         |          | important element in  |                                                                  |                |                  |
+|         |          | any initial           |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | teacher training      |                                                                  |                |                  |
+|         |          | programme, and more   |                                                                  |                |                  |
+|         |          | importantly, should   |                                                                  |                |                  |
+|         |          | currently be of       |                                                                  |                |                  |
+|         |          | particular interest   |                                                                  |                |                  |
+|         |          | to researchers and    |                                                                  |                |                  |
+|         |          | teacher education     |                                                                  |                |                  |
+|         |          | programme developers. |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 310     | 219–234  | Based on some of the  | Based on the previously cited research and well-established      | Near-verbatim; | Insertion of     |
+|         |          | findings within this  | theoretical frameworks of learning                               | close          | literature list, |
+|         |          | research study, and   |                                                                  | paraphrase     | but otherwise    |
+|         |          | the already existing  | and cognition,                                                   |                | almost identical |
+|         |          | well-established      |                                                                  |                | text             |
+|         |          | theoretical           | it could be assumed that student success in the area of writing  |                |                  |
+|         |          | frameworks of         | may be enhanced through the academic and                         |                |                  |
+|         |          | learning and          |                                                                  |                |                  |
+|         |          | cognition (Dewey,     | social interaction provided by a peer-mentoring program.         |                |                  |
+|         |          | 1933; Edwards and     |                                                                  |                |                  |
+|         |          | Collison, 1996; Kolb, |                                                                  |                |                  |
+|         |          | 1984; Lave and        |                                                                  |                |                  |
+|         |          | Wenger, 1991; Schon,  |                                                                  |                |                  |
+|         |          | 1987; Pollard, 2011;  |                                                                  |                |                  |
+|         |          | Vygotsky,             |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | 1978), it could be    |                                                                  |                |                  |
+|         |          | assumed that student  |                                                                  |                |                  |
+|         |          | success, and          |                                                                  |                |                  |
+|         |          | developing ‘trust’    |                                                                  |                |                  |
+|         |          | and communities of    |                                                                  |                |                  |
+|         |          | practice among peers  |                                                                  |                |                  |
+|         |          | in the area of        |                                                                  |                |                  |
+|         |          | writing may be        |                                                                  |                |                  |
+|         |          | enhanced through the  |                                                                  |                |                  |
+|         |          | academic and social   |                                                                  |                |                  |
+|         |          | interaction provided  |                                                                  |                |                  |
+|         |          | by a peer-mentoring   |                                                                  |                |                  |
+|         |          | programme.            |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 310     | 219–234  | The ability to        | The ability to demonstrate knowledge through writing is a basic  | Verbatim text; | ‘initial teacher |
+|         |          | demonstrate knowledge | requirement for almost all university coursework, and in recent  | close          | training         |
+|         |          | through writing is a  | years, many universities have established writing-intensive      | paraphrase     | programme of     |
+|         |          | basic requirement for | courses into curricula across a broad spectrum of disciplines    |                | study’ vs        |
+|         |          | student teachers’ on  | and degrees.                                                     | Verbatim       | ‘university      |
+|         |          | an initial teacher    |                                                                  |                | coursework’      |
+|         |          | training programme of | These courses integrate frequent writing assignments in ways     | Verbatim       |                  |
+|         |          | study, and in recent  | that help students learn both the subject matter and             |                | Insertion of     |
+|         |          | years, many           | discipline-specific ways of thinking and writing.                |                | ‘specific’       |
+|         |          | universities have     |                                                                  |                | before ‘ways of  |
+|         |          | established           | Although there is much research to support peer-mentoring        |                | thinking and     |
+|         |          | writing-intensive     | programs as a way to improve academic performance, …..           |                | writing’         |
+|         |          | courses into          |                                                                  |                |                  |
+|         |          | curriculum design     | there is limited information linking the effects of peer         |                | Insertion of     |
+|         |          | across a broad        | mentoring on students’ perceptions of mentors’ contributions and |                | literature list, |
+|         |          |                       | effectiveness in improving students’ writing skills.             |                | but otherwise    |
+|         |          | spectrum of           |                                                                  |                | text is          |
+|         |          | disciplines within    |                                                                  |                | identical        |
+|         |          | teaching and          |                                                                  |                |                  |
+|         |          | learning.             |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | These courses         |                                                                  |                |                  |
+|         |          | integrate frequent    |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | writing assignments,  |                                                                  |                |                  |
+|         |          | in ways that assist   |                                                                  |                |                  |
+|         |          | and support student   |                                                                  |                |                  |
+|         |          | teachers to learn     |                                                                  |                |                  |
+|         |          | both the subject      |                                                                  |                |                  |
+|         |          | matter and            |                                                                  |                |                  |
+|         |          | discipline-specific   |                                                                  |                |                  |
+|         |          | ways of thinking and  |                                                                  |                |                  |
+|         |          | writing (Douglass et  |                                                                  |                |                  |
+|         |          | al., 2013).           |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Although, there is    |                                                                  |                |                  |
+|         |          | much research         |                                                                  |                |                  |
+|         |          | (Gardiner, 2010;      |                                                                  |                |                  |
+|         |          | Kensington-Miller,    |                                                                  |                |                  |
+|         |          | 2011; Le Cornu, 2005) |                                                                  |                |                  |
+|         |          | to support            |                                                                  |                |                  |
+|         |          | peer-mentoring        |                                                                  |                |                  |
+|         |          | programmes as a way   |                                                                  |                |                  |
+|         |          | to improve academic   |                                                                  |                |                  |
+|         |          | performance,          |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | there is limited      |                                                                  |                |                  |
+|         |          | information linking   |                                                                  |                |                  |
+|         |          | the effects of        |                                                                  |                |                  |
+|         |          | peer-mentoring on     |                                                                  |                |                  |
+|         |          | student teacher’s     |                                                                  |                |                  |
+|         |          | perceptions of        |                                                                  |                |                  |
+|         |          | mentors’              |                                                                  |                |                  |
+|         |          | contributions and     |                                                                  |                |                  |
+|         |          | effectiveness, and    |                                                                  |                |                  |
+|         |          | how ‘trust’ plays a   |                                                                  |                |                  |
+|         |          | pivotal role in       |                                                                  |                |                  |
+|         |          | underpinning this and |                                                                  |                |                  |
+|         |          | improving students’   |                                                                  |                |                  |
+|         |          | writing skills among  |                                                                  |                |                  |
+|         |          | one another.          |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 310-311 | 219–234  | Vygotsky’s (1978)     | Vygotsky’s social learning theory attributes cognitive           | Verbatim,      | Identical        |
+|         |          | social learning       | development to social interaction between a learner and a more   | including use  | terminiology     |
+|         |          | theory attributes     | knowledgeable other (MKO).                                       | of same        | (MKO)            |
+|         |          | cognitive development |                                                                  | theorist       |                  |
+|         |          | to social interaction | According to Vygotsky, the MKO is anyone with a higher           | (Vygortsky)    | Vygortsky, MKO   |
+|         |          | between a learner and | understanding of a particular concept than the learner including |                | used again       |
+|         |          | a more knowledgeable  | peers and other                                                  |                |                  |
+|         |          | other (MKO).          |                                                                  |                | Douglass’        |
+|         |          |                       | students.                                                        |                | discussion of    |
+|         |          | According to          |                                                                  |                | RCT, mentions    |
+|         |          | Vygotsky, the MKO is  | Social interaction plays a key role in the peer-mentoring        |                | Miller & Stiver, |
+|         |          | anyone with a higher  | process by creating an atmosphere in which students are          |                | plus Cornstock   |
+|         |          | understanding of a    | comfortable seeking assistance from a more knowledgeable peer.   |                |                  |
+|         |          | particular concept    |                                                                  |                | Arday mentions   |
+|         |          | than the learner      | This study was also guided in part on Relational–Cultural Theory |                | Miller & Stiver, |
+|         |          | including peers and   | (RCT) principles (Miller & Stiver, 1997) suggesting that human   |                | plus Cornstock,  |
+|         |          | other students.       | development and change is fostered in mutually empathic and      |                | in following     |
+|         |          |                       | growth-developing relationships (Comstock et al,).               |                | sentence         |
+|         |          | The features of trust |                                                                  |                |                  |
+|         |          | very much facilitate  | According to RCT, to achieve positive                            |                | Note use of      |
+|         |          | social interaction.   |                                                                  |                | similar words    |
+|         |          | The student teachers’ | change, both the mentor and protégé(s) need to establish         |                | (RCT, ‘mentor    |
+|         |          | recognised the impact | high-quality relational skills that                              |                | and protégé(s)’; |
+|         |          | of this and were      |                                                                  |                |                  |
+|         |          | aware, that social    | include authenticity and being competent emotionally.            |                | ‘emotionally     |
+|         |          | interaction plays a   |                                                                  |                | competent’ vs    |
+|         |          | significant role in   |                                                                  |                | ‘competent       |
+|         |          | the peer-mentoring    |                                                                  |                | emotionally’     |
+|         |          | process by creating   |                                                                  |                |                  |
+|         |          | an atmosphere in      |                                                                  |                |                  |
+|         |          | which student         |                                                                  |                |                  |
+|         |          | teachers are          |                                                                  |                |                  |
+|         |          | comfortable seeking   |                                                                  |                |                  |
+|         |          | assistance from a     |                                                                  |                |                  |
+|         |          | more knowledgeable    |                                                                  |                |                  |
+|         |          | peer.                 |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Some of the ideas in  |                                                                  |                |                  |
+|         |          | this study,           |                                                                  |                |                  |
+|         |          | concerning trust, and |                                                                  |                |                  |
+|         |          | its implications for  |                                                                  |                |                  |
+|         |          | the peer- mentoring   |                                                                  |                |                  |
+|         |          | relationship, also    |                                                                  |                |                  |
+|         |          | identify with         |                                                                  |                |                  |
+|         |          | Relational-Cultural   |                                                                  |                |                  |
+|         |          | Theory (RCT).         |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Importantly, this     |                                                                  |                |                  |
+|         |          | concept resonates     |                                                                  |                |                  |
+|         |          | with the idea that    |                                                                  |                |                  |
+|         |          | human development and |                                                                  |                |                  |
+|         |          | change is fostered in |                                                                  |                |                  |
+|         |          | mutually trusting,    |                                                                  |                |                  |
+|         |          | empathic and          |                                                                  |                |                  |
+|         |          | growth-developing     |                                                                  |                |                  |
+|         |          | relationships         |                                                                  |                |                  |
+|         |          | (Comstock et al.,     |                                                                  |                |                  |
+|         |          | 2008; Miller and      |                                                                  |                |                  |
+|         |          | Stiver, 1997, Rhodes  |                                                                  |                |                  |
+|         |          | et al., 2004).        |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | The thinking which    |                                                                  |                |                  |
+|         |          | pervades RCT contends |                                                                  |                |                  |
+|         |          | that to achieve       |                                                                  |                |                  |
+|         |          | positive change, both |                                                                  |                |                  |
+|         |          | the mentor and        |                                                                  |                |                  |
+|         |          | protégé(s) need to    |                                                                  |                |                  |
+|         |          | establish             |                                                                  |                |                  |
+|         |          | high-quality          |                                                                  |                |                  |
+|         |          | relational skills     |                                                                  |                |                  |
+|         |          | that include and      |                                                                  |                |                  |
+|         |          | embody trust as a key |                                                                  |                |                  |
+|         |          | principle,            |                                                                  |                |                  |
+|         |          | authenticity and      |                                                                  |                |                  |
+|         |          | being emotionally     |                                                                  |                |                  |
+|         |          | competent (Comstock   |                                                                  |                |                  |
+|         |          | et al., 2008).        |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+
+| 311     | 219–234  | Additionally, the     | Additionally, the concept of complementarity has been explored   | Verbatim text, | The section      |
+|         |          | concept of            | in the context of peer mentoring                                 | including      | spans one entire |
+|         |          | complementarity and   |                                                                  | reference to   | paragraph on     |
+|         |          | trust has been        | relationships (McManus & Russell, 2007).                         | same authors   | p.311            |
+|         |          | explored in the       |                                                                  | (McManus &     |                  |
+|         |          | context of            | The concept of complementarity indicates that while the mentor   | Russell)       | Near-identical   |
+|         |          |                       | may be more knowledgeable in a particular area of need than the  |                | discussion of    |
+|         |          | peer-mentoring        | mentee, the benefits of participating in a peer mentor           | Verbatim text, | Godshalk and     |
+|         |          | relationships         | relationship are beneficial to both parties.                     | with some word | Sosik, using     |
+|         |          | (McManus and Russell, |                                                                  | substitutions, | same lexicon     |
+|         |          | 2007).                | For example, the mentor will provide the mentee with new         | use of same    | (‘communication, |
+|         |          |                       | knowledge on a particular topic, and the mentee will provide an  | authors        | assessment and   |
+|         |          | The concept of        | opportunity for the mentor to further hone his/her skills while  |                | modelling’)      |
+|         |          | complementarity       | also practicing other useful competencies (e.g. communication,   | Verbatim text, |                  |
+|         |          | indicates that while  | assessment, and modeling).                                       | with some word | ‘’peer mentor    |
+|         |          | the mentor may be     |                                                                  | substitution   | program’ becomes |
+|         |          | more knowledgeable in | Godshalk and Sosik (2007) investigated the learning goal         |                | ‘peer-mentoring  |
+|         |          | a particular area of  | disposition and found that protégés may have more beneficial     |                | interventions’;  |
+|         |          | need than the mentee, | relationships with their mentor when both parties are focused on |                | ‘undergraduate   |
+|         |          | the benefits of       | learning.                                                        |                | students’        |
+|         |          | participating in a    |                                                                  |                | becomes ‘student |
+|         |          | peer-mentor           | Thus, the potential for mutual gain further increases the appeal |                | teachers’        |
+|         |          | relationship are      | of a peer mentor program designed to help                        |                |                  |
+|         |          | beneficial to both    |                                                                  |                |                  |
+|         |          | parties.              | undergraduate students in areas of need such as writing.         |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | … For example, within |                                                                  |                |                  |
+|         |          | this study the        |                                                                  |                |                  |
+|         |          | student teachers’     |                                                                  |                |                  |
+|         |          | provided each other   |                                                                  |                |                  |
+|         |          | with new knowledge on |                                                                  |                |                  |
+|         |          | particular topics;    |                                                                  |                |                  |
+|         |          | firstly, within their |                                                                  |                |                  |
+|         |          | peer-mentoring        |                                                                  |                |                  |
+|         |          | pairings, and then    |                                                                  |                |                  |
+|         |          | collectively within   |                                                                  |                |                  |
+|         |          | the student-led       |                                                                  |                |                  |
+|         |          | workshops.            |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | This provided an      |                                                                  |                |                  |
+|         |          | opportunity for the   |                                                                  |                |                  |
+|         |          | trainees’ to further  |                                                                  |                |                  |
+|         |          | develop their skills  |                                                                  |                |                  |
+|         |          | whilst also           |                                                                  |                |                  |
+|         |          | practicing other      |                                                                  |                |                  |
+|         |          | useful competencies   |                                                                  |                |                  |
+|         |          | (e.g. communication,  |                                                                  |                |                  |
+|         |          | assessment, and       |                                                                  |                |                  |
+|         |          | modelling) (Douglass  |                                                                  |                |                  |
+|         |          | et al., 2013).        |                                                                  |                |                  |
+|         |          | Godshalk and Sosik    |                                                                  |                |                  |
+|         |          | (2007) investigated   |                                                                  |                |                  |
+|         |          | the learning goal     |                                                                  |                |                  |
+|         |          | disposition and found |                                                                  |                |                  |
+|         |          | that student          |                                                                  |                |                  |
+|         |          | teachers’ may have    |                                                                  |                |                  |
+|         |          | more beneficial       |                                                                  |                |                  |
+|         |          | relationships with    |                                                                  |                |                  |
+|         |          | their mentor when     |                                                                  |                |                  |
+|         |          | both parties are      |                                                                  |                |                  |
+|         |          | focused on learning.  |                                                                  |                |                  |
+|         |          |                       |                                                                  |                |                  |
+|         |          | Thus, the potential   |                                                                  |                |                  |
+|         |          | for mutual gains and  |                                                                  |                |                  |
+|         |          | developing            |                                                                  |                |                  |
+|         |          | professional trust    |                                                                  |                |                  |
+|         |          | further increases the |                                                                  |                |                  |
+|         |          | appeal of             |                                                                  |                |                  |
+|         |          | peer-mentoring        |                                                                  |                |                  |
+|         |          | interventions         |                                                                  |                |                  |
+|         |          | designed to help      |                                                                  |                |                  |
+|         |          | student teachers’ in  |                                                                  |                |                  |
+|         |          | navigating their way  |                                                                  |                |                  |
+|         |          | through their         |                                                                  |                |                  |
+|         |          | teaching induction.   |                                                                  |                |                  |
++---------+----------+-----------------------+------------------------------------------------------------------+----------------+------------------+

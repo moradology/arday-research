@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sun, 09 Aug 2026 02:41:49 GMT
+content-type: application/zip
+content-length: 23634
+last-modified: Mon, 27 Jul 2026 12:40:36 GMT
+etag: "5c52-6a6751c4-abdb22316a8e0d56;;;"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 3faef08f895f267ec7f81bb57d222390-bos-edge6
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.078
+accept-ranges: bytes
+

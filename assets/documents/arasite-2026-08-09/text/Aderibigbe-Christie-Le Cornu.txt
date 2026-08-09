@@ -1,0 +1,199 @@
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| Arday | Source      | Arday 2015 thesis     | Source                                                                              | Type          | Notes              |
+|       | paper       | text extract          |                                                                                     |               |                    |
++=======+=============+=======================+=====================================================================================+===============+====================+
+|       | Aderibi-gbe |                       | Semiyu Adejare Aderibigbe, Laura Colucci-Gray and Donald Gray,                      |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             |                       | Mentoring as a collaborative learning journey for teachers and student teachers: a  |               |                    |
+|       |             |                       | critical                                                                            |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             |                       | Construct ; Teacher Education Advancement Network Journal                           |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             |                       | https://ojs.cumbria.ac.uk/index.php/TEAN/article/view/192                           |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| 84    | 9           | In acknowledgment of  | Perhaps, this explains why Cove, McAdam and McGongial (2007) describe mentoring as  | Near-verbatim | Note substitution  |
+|       |             | this, Cove et al.,    | a voluminous but flexible concept with potential for a variety of applications.     |               | of ‘varying’ for   |
+|       |             | (2007) describe       |                                                                                     |               | ‘a variety         |
+|       |             | mentoring as a        | In the context of teacher education, and specifically in this study, mentoring is   |               |                    |
+|       |             | voluminous concept    | defined as a collaborative process where both mentors and mentees can engage in     |               | ‘collaborative     |
+|       |             | with the potential    | professional activities aimed at fostering their personal and professional          |               | endeavour’ vs      |
+|       |             | for varying of        | development (Aderibigbe, 2013)                                                      |               | ‘collaborative     |
+|       |             | applications.         |                                                                                     |               | process’           |
+|       |             |                       |                                                                                     |               |                    |
+|       |             | Illuminating some of  |                                                                                     |               | Note: the word     |
+|       |             | the academic          |                                                                                     |               | ‘voluminous’ does  |
+|       |             | commentary presented, |                                                                                     |               | not appear in Cove |
+|       |             | mentoring within a    |                                                                                     |               | (2007)             |
+|       |             | teacher training      |                                                                                     |               |                    |
+|       |             | context is an         |                                                                                     |               |                    |
+|       |             | integrated and        |                                                                                     |               |                    |
+|       |             | collaborative         |                                                                                     |               |                    |
+|       |             | endeavour between     |                                                                                     |               |                    |
+|       |             | supporter teachers’   |                                                                                     |               |                    |
+|       |             | and student teachers’ |                                                                                     |               |                    |
+|       |             | for personal and      |                                                                                     |               |                    |
+|       |             | professional          |                                                                                     |               |                    |
+|       |             | development (Pont,    |                                                                                     |               |                    |
+|       |             | 2010)                 |                                                                                     |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             | Aderibigbe not        |                                                                                     |               |                    |
+|       |             | mentioned in Arday’s  |                                                                                     |               |                    |
+|       |             | final reference list  |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+|       |             |                       | Christie, H 2014, 'Peer mentoring in higher education: issues of power and          |               |                    |
+|       |             |                       | control', Teaching in Higher Education, vol. 19, no. 3, pp. 955                     |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             |                       | https://www.pure.ed.ac.uk/ws/portalfiles/portal/1i9075219/ChristieMentoringTIHE.pdf |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| 108   | 955         | Christie (2014)       | Over the past three decades we have seen the emergence of new perspectives on       | Verbatim      | Source is          |
+|       |             | contends that over    | learning, and it is widely recognised that learning is a social, as opposed to an   | text,         | acknowledged, but  |
+|       |             | the past three        | individual, process.                                                                | identical     | copying is almost  |
+|       |             | decades there has     |                                                                                     | refererences  | word for word.     |
+|       |             | been an emergence of  | Rather than being about acquiring sequential cognitive skills, learning is a        |               |                    |
+|       |             | new perspectives on   | situated process where the skills, dispositions and self-knowledge that are crucial |               | ‘engage in         |
+|       |             | learning, and it is   | to success are grounded in the particular institutional environments, where         |               | reciprocal         |
+|       |             | widely recognised     | students come and know and understand through ongoing processes of participation    |               | methods’ vs ‘know  |
+|       |             | that learning is a    | and engagement (Anderson and McCune 2013; Lave and Wenger 1991).                    |               | and understand     |
+|       |             | social, as opposed to |                                                                                     |               | through’           |
+|       |             | an individual         | This perspective points to a range of social practices through which                |               |                    |
+|       |             | process, which        |                                                                                     |               | Note identical     |
+|       |             | flourishes when       | students are supported to become successful learners such as peer learning, active  |               | reference list     |
+|       |             | dynamics of power are | and problem-based learning, and student mentoring (Brockbank and McGill 2007;       |               |                    |
+|       |             | eliminated within the | Falchikov 2002).                                                                    |               |                    |
+|       |             | mentoring process.    |                                                                                     |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             | Rather than being     |                                                                                     |               |                    |
+|       |             | about acquiring       |                                                                                     |               |                    |
+|       |             | sequential cognitive  |                                                                                     |               |                    |
+|       |             | skills, learning is   |                                                                                     |               |                    |
+|       |             | considered as a       |                                                                                     |               |                    |
+|       |             | situated process      |                                                                                     |               |                    |
+|       |             | where the skills,     |                                                                                     |               |                    |
+|       |             | dispositions and      |                                                                                     |               |                    |
+|       |             | self-knowledge that   |                                                                                     |               |                    |
+|       |             | underpin success are  |                                                                                     |               |                    |
+|       |             | grounded in the       |                                                                                     |               |                    |
+|       |             | particular            |                                                                                     |               |                    |
+|       |             | institutional         |                                                                                     |               |                    |
+|       |             | environments, where   |                                                                                     |               |                    |
+|       |             | student teachers      |                                                                                     |               |                    |
+|       |             | engage in reciprocal  |                                                                                     |               |                    |
+|       |             | methods and           |                                                                                     |               |                    |
+|       |             | communities of        |                                                                                     |               |                    |
+|       |             | practice, which       |                                                                                     |               |                    |
+|       |             | embody equality and   |                                                                                     |               |                    |
+|       |             | even distribution of  |                                                                                     |               |                    |
+|       |             | power, in coming to   |                                                                                     |               |                    |
+|       |             | know and understand   |                                                                                     |               |                    |
+|       |             | through ongoing       |                                                                                     |               |                    |
+|       |             | processes of          |                                                                                     |               |                    |
+|       |             | participation and     |                                                                                     |               |                    |
+|       |             | engagement (Anderson  |                                                                                     |               |                    |
+|       |             | and McCune, 2013;     |                                                                                     |               |                    |
+|       |             | Lave and Wenger,      |                                                                                     |               |                    |
+|       |             | 1991).                |                                                                                     |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             | This perspective      |                                                                                     |               |                    |
+|       |             | points to a range of  |                                                                                     |               |                    |
+|       |             | social practices      |                                                                                     |               |                    |
+|       |             | through which         |                                                                                     |               |                    |
+|       |             | students are          |                                                                                     |               |                    |
+|       |             | supported to become   |                                                                                     |               |                    |
+|       |             | successful learners   |                                                                                     |               |                    |
+|       |             | such as               |                                                                                     |               |                    |
+|       |             | peer-learning,        |                                                                                     |               |                    |
+|       |             | engagement in         |                                                                                     |               |                    |
+|       |             | learning communities, |                                                                                     |               |                    |
+|       |             | active learning and   |                                                                                     |               |                    |
+|       |             | problem-based         |                                                                                     |               |                    |
+|       |             | learning, and student |                                                                                     |               |                    |
+|       |             | teacher mentoring     |                                                                                     |               |                    |
+|       |             | (Brockbank and        |                                                                                     |               |                    |
+|       |             | McGill, 2007;         |                                                                                     |               |                    |
+|       |             | Falchikov, 2002).     |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+|       | Christie    |                       |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| 109   | 959         | is particularly       | is particularly limited to the representation of agency versus passivity: who is    | Verbatim      |                    |
+|       |             | limited to the        | presented as active and as setting the agenda in the mentoring relationship, and    |               |                    |
+|       |             | representation of     | who is presented as a passive recipient of the scheme                               |               |                    |
+|       |             | agency versus         |                                                                                     |               |                    |
+|       |             | passivity: who is     |                                                                                     |               |                    |
+|       |             | presented as active   |                                                                                     |               |                    |
+|       |             | and as setting the    |                                                                                     |               |                    |
+|       |             | agenda in the         |                                                                                     |               |                    |
+|       |             | mentoring             |                                                                                     |               |                    |
+|       |             | relationship, and who |                                                                                     |               |                    |
+|       |             | is presented as a     |                                                                                     |               |                    |
+|       |             | passive recipient of  |                                                                                     |               |                    |
+|       |             | the scheme.           |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+|       | Peters and  |                       | Towards Constructivist Teaching and Learning (report for the South Australian       |               |                    |
+|       | Le Cornu    |                       | government, in conjunction with Learning to Learn Project, November 2003) (link     |               |                    |
+|       |             |                       | broken)                                                                             |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             |                       | Authors: Judy Peters, Rosie Le Cornu (University of South Australia) & Janet        |               |                    |
+|       |             |                       | Collins (Open University, UK)                                                       |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| 93    | 3           | Kensington-Miller     | Central to constructivism is the notion that learners play an active role in        | Verbatim text | Note use of        |
+|       |             | (2011) notes that     | ‘constructing’ their own meaning.                                                   |               | ‘proponents of     |
+|       |             | central to            |                                                                                     |               | social             |
+|       |             | constructivism is the | Proponents of social constructivism also acknowledge the importance of the          |               | constructivism’ in |
+|       |             | notion that learners’ | ‘environment in which learning is taking place’ and ‘learning that requires social  |               | both texts         |
+|       |             | [sic] play an active  | interaction ’ (Richardson, 1999, p. 147).                                           |               |                    |
+|       |             | role in constructing  |                                                                                     |               | Kensington –       |
+|       |             | their own meaning,    |                                                                                     |               | Miller does not    |
+|       |             | while proponents of   |                                                                                     |               | mention            |
+|       |             | social constructivism |                                                                                     |               | constructivism     |
+|       |             | also acknowledge the  |                                                                                     |               |                    |
+|       |             | role of social        |                                                                                     |               |                    |
+|       |             | interaction in        |                                                                                     |               |                    |
+|       |             | learning              |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+| 93    | 3           | A social              | Learning should be ‘participatory, proactive, communal, collaborative and given     | Verbatim text |                    |
+|       |             | constructivist view   | over to the construction of meanings rather than receiving them’ (Bruner, 1996, p.  |               |                    |
+|       |             | of learning therefore | 84).                                                                                |               |                    |
+|       |             | suggests that         |                                                                                     |               |                    |
+|       |             | learning should be    |                                                                                     |               |                    |
+|       |             | ‘participatory,       |                                                                                     |               |                    |
+|       |             | proactive, communal,  |                                                                                     |               |                    |
+|       |             | collaborative and     |                                                                                     |               |                    |
+|       |             | submissive to the     |                                                                                     |               |                    |
+|       |             | construction of       |                                                                                     |               |                    |
+|       |             | meanings rather than  |                                                                                     |               |                    |
+|       |             | receiving them’       |                                                                                     |               |                    |
+|       |             | (Bruner, 1996: 84).   |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+
+|       | 3           | Importantly, this has | While recognising the importance of the construction of personal meaning within     | Close         | ‘Importantly’ for  |
+|       |             | impacted on the       | teaching and learning, we are particularly interested in the ways teachers and      | paraphrase    | ‘recognising the   |
+|       |             | experience of         | students work together to construct learning cultures that enable this to occur.    |               | importance’        |
+|       |             | pedagogical learning  |                                                                                     |               |                    |
+|       |             | for student teachers  |                                                                                     |               | ‘teachers and      |
+|       |             | and in-service        |                                                                                     |               | students work      |
+|       |             | teachers immersed     |                                                                                     |               | together’ in       |
+|       |             | within learning       |                                                                                     |               | Peters and Le      |
+|       |             | communities, as the   |                                                                                     |               | Cornu becomes      |
+|       |             | emergence of this     |                                                                                     |               | ‘dialogue          |
+|       |             | dialogue encourages   |                                                                                     |               | encourages         |
+|       |             | practitioners and     |                                                                                     |               | practitioners and  |
+|       |             | learners alike to     |                                                                                     |               | learners alike to  |
+|       |             | engage in a           |                                                                                     |               | engage’            |
+|       |             | constructivist        |                                                                                     |               |                    |
+|       |             | learning philosophy   |                                                                                     |               | Again, Arday’s     |
+|       |             | (Kensington-Miller,   |                                                                                     |               | reference -        |
+|       |             | 2011)                 |                                                                                     |               | Kensington-Miller, |
+|       |             |                       |                                                                                     |               | 2011, does not     |
+|       |             | Further note: Le      |                                                                                     |               | refer to           |
+|       |             | Cornu is mentioned 77 |                                                                                     |               | constructivism     |
+|       |             | times in Arday’s      |                                                                                     |               |                    |
+|       |             | thesis but only       |                                                                                     |               |                    |
+|       |             | references work from  |                                                                                     |               |                    |
+|       |             | 1999, 2002, 2005 and  |                                                                                     |               |                    |
+|       |             | 2009.                 |                                                                                     |               |                    |
+|       |             |                       |                                                                                     |               |                    |
+|       |             | The 2003 paper where  |                                                                                     |               |                    |
+|       |             | large verbatim text   |                                                                                     |               |                    |
+|       |             | originates is not     |                                                                                     |               |                    |
+|       |             | mentioned in Arday’s  |                                                                                     |               |                    |
+|       |             | final reference list  |                                                                                     |               |                    |
++-------+-------------+-----------------------+-------------------------------------------------------------------------------------+---------------+--------------------+

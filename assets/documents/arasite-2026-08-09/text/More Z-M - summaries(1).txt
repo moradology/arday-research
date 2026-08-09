@@ -1,0 +1,499 @@
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| Arday   | Source  | Arday 2015 thesis     | Source             | Type         | Notes           |
+|         | paper   | text extract          |                    |              |                 |
++=========+=========+=======================+====================+==============+=================+
+| 343     | 269     | While indications     | While insights     | Verbatim     | ‘insights’ vs   |
+|         |         | have been posited     | have been gained   | text, with   | ‘indications’;  |
+|         |         | towards the perceived | into the perceived | some close   | ‘gained’ vs     |
+|         |         | development that      | development that   | paraphrase   | ‘posited’;      |
+|         |         | student teachers’     | student teachers‟  |              | ‘prudently’ vs  |
+|         |         | have gained through   | experience through |              | ‘cautiously’;   |
+|         |         | engaging in           | reflective         |              |                 |
+|         |         | peer-mentoring to     | practice within    |              | ‘feasible’ vs   |
+|         |         | inform reflective     | the context of     |              | ‘possible’      |
+|         |         | practice within the   | action research    |              |                 |
+|         |         | context of action     | from this study,   |              |                 |
+|         |         | research from this    | the results should |              |                 |
+|         |         | study, the results    | be interpreted     |              |                 |
+|         |         | should be considered  | cautiously due to  |              |                 |
+|         |         | prudently due to a    | a number of        |              |                 |
+|         |         | number of             | limitations. These |              |                 |
+|         |         | limitations. These    | are based on       |              |                 |
+|         |         | are based on elements | elements of the    |              |                 |
+|         |         | of the research       | research           |              |                 |
+|         |         | methodology and       | methodology and    |              |                 |
+|         |         | design of this study, | design of this     |              |                 |
+|         |         | as well as the        | study, as well as  |              |                 |
+|         |         | realisation that it   | the realisation    |              |                 |
+|         |         | is not feasible to    | that it is not     |              |                 |
+|         |         | conclude with         | possible to know   |              |                 |
+|         |         | certainty whether the | with certainty     |              |                 |
+|         |         | development of        | whether the        |              |                 |
+|         |         | reflective practice   | development of     |              |                 |
+|         |         | would have occurred   | reflective         |              |                 |
+|         |         | as a natural          | practice would     |              |                 |
+|         |         | consequence of a      | have occurred as a |              |                 |
+|         |         | peer-mentoring        | natural            |              |                 |
+|         |         | initiative among      | consequence of     |              |                 |
+|         |         | student teachers.     | school-based       |              |                 |
+|         |         |                       | teaching           |              |                 |
+|         |         |                       | experience rather  |              |                 |
+|         |         |                       | than the           |              |                 |
+|         |         |                       | intervention of    |              |                 |
+|         |         |                       | the student        |              |                 |
+|         |         |                       | teachers‟ research |              |                 |
+|         |         |                       | investigation.     |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 343     | 269     | However, the          | However, the data  | Close        | ‘latter         |
+|         |         | narrative data        | sought was         | paraphrase   | intervention’   |
+|         |         | collated, aimed to    | targeted directly  |              | is rendered as  |
+|         |         | support the gathering | toward gathering   |              | ‘views and      |
+|         |         | of perceptions from   | the perceptions of |              | opinions        |
+|         |         | the research          | research           |              | regarding….’    |
+|         |         | participants in       | participants in    |              |                 |
+|         |         | relation to their     | relation to the    |              |                 |
+|         |         | views and opinions    | latter             |              |                 |
+|         |         | regarding teaching    | intervention.      |              |                 |
+|         |         | and learning,         |                    |              |                 |
+|         |         | peer-mentoring,       |                    |              |                 |
+|         |         | reflective practice   |                    |              |                 |
+|         |         | and initial teacher   |                    |              |                 |
+|         |         | training.             |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 344     | 269     | It was realised that  | It was realised    | Verbatim     | ‘vehicular of   |
+|         |         | there are several     | that there are     | text; close  | mentoring’ for  |
+|         |         | ways in which         | several ways in    | paraphrase   | ‘field of’      |
+|         |         | interpretation has    | which              |              |                 |
+|         |         | potential to          | interpretation has |              | ‘reflective     |
+|         |         | influence the results | potential to       |              | commentators’   |
+|         |         | of this research,     | influence the      |              | vs              |
+|         |         | including the bias    | results of this    |              | ‘researchers’   |
+|         |         | that unavoidably      | research.          |              |                 |
+|         |         | derives from the      |                    |              | ‘Similarly’ vs  |
+|         |         | researcher immersed   | Although informed  |              | ‘linked to      |
+|         |         | within the study.     | by the theoretical |              | this’           |
+|         |         |                       | underpinnings,     |              |                 |
+|         |         | Although, this study  | which have been    |              |                 |
+|         |         | is informed by the    | advanced in the    |              |                 |
+|         |         | theoretical           | field of           |              |                 |
+|         |         | underpinnings, which  | reflective         |              |                 |
+|         |         | have been advanced in | practice by        |              |                 |
+|         |         | the vehicular of      | scholars, teacher  |              |                 |
+|         |         | mentoring and         | educators and      |              |                 |
+|         |         | reflective practice   | practitioners over |              |                 |
+|         |         | by eminent scholars;  | past decades, in   |              |                 |
+|         |         | teacher educators and | addition to        |              |                 |
+|         |         | practitioners over    | discussions with   |              |                 |
+|         |         | past decades, in      | professional       |              |                 |
+|         |         | addition to           | colleagues, the    |              |                 |
+|         |         | discussions with      | framework of       |              |                 |
+|         |         | professional          | reflective         |              |                 |
+|         |         | colleagues, the       | practice designed  |              |                 |
+|         |         | framework and         | for use in this    |              |                 |
+|         |         | dimensions for        | study was shaped   |              |                 |
+|         |         | mentoring and         | by the researchers |              |                 |
+|         |         | reflective practice   | emerging           |              |                 |
+|         |         | utilised in this      | conceptualisation  |              |                 |
+|         |         | study were shaped by  | of this            |              |                 |
+|         |         | reflective            | phenomenon.        |              |                 |
+|         |         | commentators who have |                    |              |                 |
+|         |         | progressed and        | Linked to this,    |              |                 |
+|         |         | developed the         | evidence drawn     |              |                 |
+|         |         | conceptualisation of  | upon to inform     |              |                 |
+|         |         | this phenomenon.      | each dimension of  |              |                 |
+|         |         |                       | reflective         |              |                 |
+|         |         | Similarly, the        | practice within    |              |                 |
+|         |         | evidence drawn upon   | the conceptual     |              |                 |
+|         |         | to inform reflective  | framework related  |              |                 |
+|         |         | practice came through | directly to the    |              |                 |
+|         |         | utilising             | student teachers‟  |              |                 |
+|         |         | peer-mentoring within | action research    |              |                 |
+|         |         | a conceptual          | experience.        |              |                 |
+|         |         | framework related     |                    |              |                 |
+|         |         | directly to the       |                    |              |                 |
+|         |         | student teachers’     |                    |              |                 |
+|         |         | engagement within     |                    |              |                 |
+|         |         | action research to    |                    |              |                 |
+|         |         | help improve their    |                    |              |                 |
+|         |         | own teaching          |                    |              |                 |
+|         |         | practices.            |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 344     | 269     | Evidence gathered to  | Evidence gathered  | Verbatim     | Almost          |
+|         |         | inform this study     | to inform this     | text; close  | identical text, |
+|         |         | relied upon the       | study relied upon  | paraphrase   | albeit with     |
+|         |         | research              | the research       |              | some word       |
+|         |         | participants’         | participants’      |              | insertions      |
+|         |         | understanding of what | understanding of   |              | (‘and           |
+|         |         | information was being | what information   |              | disadvantages’) |
+|         |         | asked of them.        | was being asked of |              |                 |
+|         |         |                       | them. Although     |              |                 |
+|         |         | Although research     | research           |              |                 |
+|         |         | instruments designed  | instruments        |              |                 |
+|         |         | for use in this study | designed for use   |              |                 |
+|         |         | were assessed for     | in this study were |              |                 |
+|         |         | fitness for purpose   | assessed for       |              |                 |
+|         |         | prior to use,         | fitness of purpose |              |                 |
+|         |         | potential limitations | prior to use,      |              |                 |
+|         |         | and disadvantages     | potential          |              |                 |
+|         |         | associated with       | limitations        |              |                 |
+|         |         | interpreting the      | associated with    |              |                 |
+|         |         | questions in          | interpreting the   |              |                 |
+|         |         | open-ended            | questions in       |              |                 |
+|         |         | questionnaires and    | questionnaires and |              |                 |
+|         |         | semistructured focus  | semistructured     |              |                 |
+|         |         | group interviews, as  | interviews, as     |              |                 |
+|         |         | discussed in chapter  | discussed in       |              |                 |
+|         |         | 4, may have occurred, | chapter 4, might   |              |                 |
+|         |         | although all          | have occurred.     |              |                 |
+|         |         | conscious attempts    |                    |              |                 |
+|         |         | were made to minimise |                    |              |                 |
+|         |         | such limitations.     |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 344     | 269     | Similarly, although a | Similarly,         | Verbatim     | ‘organic bias’  |
+|         |         | number of measures    | although a number  | text; close  | vs ‘risk of     |
+|         |         | were implemented to   | of measures were   | paraphrase   | bias’           |
+|         |         | reduce risk of bias,  | put in place to    |              |                 |
+|         |         | the potential that    | minimise risk of   |              |                 |
+|         |         | organic bias has to   | bias, the          |              |                 |
+|         |         | influence student     | potential that     |              |                 |
+|         |         | teachers’ responses   | power relations    |              |                 |
+|         |         | should be noted.      | have to influence  |              |                 |
+|         |         |                       | student teachers’  |              |                 |
+|         |         | Evidence gathered to  | responses should   |              |                 |
+|         |         | inform this study     | be noted.          |              |                 |
+|         |         | also relied upon the  |                    |              |                 |
+|         |         | research              | Evidence gathered  |              |                 |
+|         |         | participants’         | to inform this     |              |                 |
+|         |         | judgements and        | study also relied  |              |                 |
+|         |         | perspectives to       | upon the research  |              |                 |
+|         |         | further improve       | participants’      |              |                 |
+|         |         | constructs of         | judgements ……….    |              |                 |
+|         |         | peer-mentoring and    |                    |              |                 |
+|         |         | collaborative         |                    |              |                 |
+|         |         | learning, and this    |                    |              |                 |
+|         |         | may reflect           |                    |              |                 |
+|         |         | subjective            |                    |              |                 |
+|         |         | dispositions, which   |                    |              |                 |
+|         |         | may not have been     |                    |              |                 |
+|         |         | rationalised against  |                    |              |                 |
+|         |         | an objective          |                    |              |                 |
+|         |         | disposition.          |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 346-347 | 265     | The findings          | This finding       | Verbatim     | ‘Such           |
+|         |         | presented suggest     | suggests these     | text, close  | endeavour’ for  |
+|         |         | these student         | student teachers   | paraphrase   | ‘This’          |
+|         |         | teachers’ recognise   | recognise the      |              |                 |
+|         |         | the interdependent    | interdependent     |              | ‘verbalise’ vs  |
+|         |         | nature of reflecting  | nature of          |              | ‘internalise’   |
+|         |         | on practice and       | reflecting on      |              |                 |
+|         |         | peer-mentoring, with  | practice and self  |              |                 |
+|         |         | each participant      | study and plan to  |              |                 |
+|         |         | planning to embed     | embed this within  |              |                 |
+|         |         | this within           | personal practice. |              |                 |
+|         |         |                       |                    |              |                 |
+|         |         | their professional    | This illustrates   |              |                 |
+|         |         | practice.             | commitment to      |              |                 |
+|         |         |                       | engage in ongoing  |              |                 |
+|         |         | Such endeavour        | professional       |              |                 |
+|         |         | illustrates a         | development in     |              |                 |
+|         |         | commitment to engage  | order to improve   |              |                 |
+|         |         | in on-going           | their own          |              |                 |
+|         |         | professional          | effectiveness in   |              |                 |
+|         |         | development in order  | the interests of   |              |                 |
+|         |         | to improve throughout | pupils they would  |              |                 |
+|         |         | their careers, in     | be teaching in the |              |                 |
+|         |         | addition, to          | future.            |              |                 |
+|         |         | improving teaching    |                    |              |                 |
+|         |         | effectiveness in the  | This supports the  |              |                 |
+|         |         | interests of their    | research of        |              |                 |
+|         |         | pupils and personal   | Zeichner and       |              |                 |
+|         |         | professional          | Liston (1996:6)    |              |                 |
+|         |         | practices. This       | who found there    |              |                 |
+|         |         | commitment resonates  | was often a        |              |                 |
+|         |         | with the research of  | commitment by      |              |                 |
+|         |         | Zeichner and Liston   | teachers to        |              |                 |
+|         |         | (1996: 6) who         | “internalise the   |              |                 |
+|         |         | encourage the         | disposition and    |              |                 |
+|         |         | commitment by         | skills to study    |              |                 |
+|         |         | teachers to           | their own teaching |              |                 |
+|         |         | ‘verbalise the        | and become better  |              |                 |
+|         |         | disposition and       | at teaching over   |              |                 |
+|         |         | skills required to    | time”.             |              |                 |
+|         |         | study their teaching  |                    |              |                 |
+|         |         | and become better at  | It could be argued |              |                 |
+|         |         | teaching over time’.  | that the action    |              |                 |
+|         |         |                       | research           |              |                 |
+|         |         | It could be argued    | experience         |              |                 |
+|         |         | that the action       | provided these     |              |                 |
+|         |         | research experience   | student teachers   |              |                 |
+|         |         | that the student      | with an invaluable |              |                 |
+|         |         | teachers’ engaged in  | point of departure |              |                 |
+|         |         | provided these        | and means through  |              |                 |
+|         |         | participant’s with an | which this         |              |                 |
+|         |         | invaluable point of   | intention might be |              |                 |
+|         |         | departure and means   | realised           |              |                 |
+|         |         | through which this    |                    |              |                 |
+|         |         | intention might be    |                    |              |                 |
+|         |         | realised in future    |                    |              |                 |
+|         |         | teaching experiences. |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 350     | 270-71  | 7.10 Recommendations  | 6.5                | Verbatim     | ‘engaged with’  |
+|         |         | for further research  | Recommendations    | text, close  | vs ‘introduced’ |
+|         |         |                       | for further        | paraphrase   |                 |
+|         |         | This study primarily  | research           |              |                 |
+|         |         | engaged with a        |                    |              |                 |
+|         |         | conceptual framework  | Since this study   |              |                 |
+|         |         | to explore            | introduced a new   |              |                 |
+|         |         | peer-mentoring among  | conceptual         |              |                 |
+|         |         | student teachers to   | framework to       |              |                 |
+|         |         | help inform           | investigate the    |              |                 |
+|         |         | reflective practices, | development of     |              |                 |
+|         |         | within the context of | student teachers‟  |              |                 |
+|         |         | context of action     | reflective         |              |                 |
+|         |         | research, replication | practice within    |              |                 |
+|         |         | of this study is      | the context of     |              |                 |
+|         |         | highly recommended.   | action research,   |              |                 |
+|         |         |                       | replication of     |              |                 |
+|         |         | Replication with      | this study is      |              |                 |
+|         |         | student teacher       | highly             |              |                 |
+|         |         | cohorts within the    | recommended.       |              |                 |
+|         |         | primary and secondary |                    |              |                 |
+|         |         | tiers of education    | Replication with   |              |                 |
+|         |         | could be beneficial   | primary and other  |              |                 |
+|         |         | for comparison        | secondary physical |              |                 |
+|         |         | purposes.             | education student  |              |                 |
+|         |         |                       | teachers can be    |              |                 |
+|         |         | Replication in other  | helpful for        |              |                 |
+|         |         | subject areas can     | comparison         |              |                 |
+|         |         | also add validity to  | purposes.          |              |                 |
+|         |         | these findings. A     |                    |              |                 |
+|         |         | larger sample is      | Replication in     |              |                 |
+|         |         | suggested so that     | other subject      |              |                 |
+|         |         | findings can be       | areas can also add |              |                 |
+|         |         | generalised.          | validity to these  |              |                 |
+|         |         |                       | findings. A larger |              |                 |
+|         |         |                       | sample is          |              |                 |
+|         |         |                       | suggested so that  |              |                 |
+|         |         |                       | findings can be    |              |                 |
+|         |         |                       | generalised.       |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 350-351 | 270-71  | The mentoring         | The conceptual     | Verbatim     | ‘mentoring      |
+|         |         | intervention was      | framework was      | text; close  | intervention’   |
+|         |         | designed to capture   | designed to        | paraphrase   | vs ‘conceptual  |
+|         |         | pedagogical moments   | capture            |              | framework’      |
+|         |         | in the context of the | pedagogical        |              |                 |
+|         |         | student teacher’s     | moments in the     |              | Direct quote in |
+|         |         | discursive history,   | context of the     |              | Z-M is          |
+|         |         | which aimed to frame  | student teacher’s  |              | paraphrased     |
+|         |         | reflective            | discursive         |              |                 |
+|         |         | conversations which   | history, which is  |              |                 |
+|         |         | would inform teaching | “a complex mosaic  |              |                 |
+|         |         | practice (MacDonald   | of ideas,          |              |                 |
+|         |         | and Tinning, 2003).   | experiences and    |              |                 |
+|         |         |                       | emotions‟          |              |                 |
+|         |         | To that end, an       | (Macdonald and     |              |                 |
+|         |         | exploration of their  | Tinning, 2003:     |              |                 |
+|         |         | experience as student | 89).               |              |                 |
+|         |         | teachers mentoring    |                    |              |                 |
+|         |         | each other through    | To that end, an    |              |                 |
+|         |         | their initial teacher | exploration of     |              |                 |
+|         |         | training was          | their action       |              |                 |
+|         |         | undertaken by         | research           |              |                 |
+|         |         | unpicking challenges  | experience was ……… |              |                 |
+|         |         | of teaching and       |                    |              |                 |
+|         |         | learning,             | undertaken by      |              |                 |
+|         |         | peer-mentoring and    | unpacking          |              |                 |
+|         |         | being involved in     | dimensions of      |              |                 |
+|         |         | teacher training.     | reflective         |              |                 |
+|         |         |                       | practice in which  |              |                 |
+|         |         |                       | they could         |              |                 |
+|         |         |                       | demonstrate        |              |                 |
+|         |         |                       | capacity and       |              |                 |
+|         |         |                       | commitment.        |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 350-351 | 271     | Future studies might  | Future studies     | Verbatim     | ‘uitlised’ vs   |
+|         |         | explore how           | might explore how  | text, with   | ‘used’          |
+|         |         | particular models of  | this particular    | some word    |                 |
+|         |         | mentoring can be      | model can be used  | substitution | ‘regarded as’   |
+|         |         | utilised and built    | and built upon     |              | vs ‘resides at’ |
+|         |         | upon within other     | within other       |              |                 |
+|         |         | contexts of pedagogy  | contexts of        |              |                 |
+|         |         | about teaching and    | learning about     |              |                 |
+|         |         | learning, for         | teaching and       |              |                 |
+|         |         | example, about how to | learning about how |              |                 |
+|         |         | teach, particularly   | to teach,          |              |                 |
+|         |         | as reflective         | particularly as    |              |                 |
+|         |         | practice, is regarded | reflective         |              |                 |
+|         |         | as the catalyst for   | practice arguably  |              |                 |
+|         |         | professional growth   | resides at the     |              |                 |
+|         |         | and enquiry.          | heart of           |              |                 |
+|         |         |                       | professional       |              |                 |
+|         |         |                       | growth and         |              |                 |
+|         |         |                       | enquiry.           |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 351     | 271     | A shared              | A shared           | Verbatim     |                 |
+|         |         | understanding and     | understanding and  | text; close  |                 |
+|         |         | cooperation between   | cooperation        | paraphrase   |                 |
+|         |         | universities and      | between            |              |                 |
+|         |         | schools is necessary  | universities and   |              |                 |
+|         |         | for supporting the    | schools is         |              |                 |
+|         |         | professional          | necessary for      |              |                 |
+|         |         | development of        | supporting the     |              |                 |
+|         |         | student teachers.     | professional       |              |                 |
+|         |         |                       | development of     |              |                 |
+|         |         | Results of this study | student teachers.  |              |                 |
+|         |         | suggest there may     | Results of this    |              |                 |
+|         |         | have been conflict of | study suggest      |              |                 |
+|         |         | interests, in certain | there might have   |              |                 |
+|         |         | areas of school       | been a conflict of |              |                 |
+|         |         | recruitment for       | interests, which   |              |                 |
+|         |         | student teachers      | has the potential  |              |                 |
+|         |         | experiential          | to influence the   |              |                 |
+|         |         | learning, which has   | experiences of     |              |                 |
+|         |         | the potential to      | some student       |              |                 |
+|         |         | influence the         | teachers.          |              |                 |
+|         |         | experiences of some   |                    |              |                 |
+|         |         | student teachers.     | Thus, possible     |              |                 |
+|         |         |                       | ways in which      |              |                 |
+|         |         | Thus, possible ways   | school-based staff |              |                 |
+|         |         | in which school-based | can be more        |              |                 |
+|         |         | and university staff  | involved in the    |              |                 |
+|         |         | can be included or    | action research    |              |                 |
+|         |         | involved within the   | experience of      |              |                 |
+|         |         | action research       | student teachers   |              |                 |
+|         |         | experience of student | could be explored. |              |                 |
+|         |         | teachers could be     |                    |              |                 |
+|         |         | further explored.     |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 352     | 272     | 7.13 Final Remarks    | 6.6 Conclusions    | Verbatim     | ‘Final remarks’ |
+|         |         |                       |                    | text; close  | vs              |
+|         |         | The following         | The following      | paraphrase   | ‘conclusions’   |
+|         |         | conclusions and       | conclusions were   |              |                 |
+|         |         | recommendations have  | drawn from the     |              | ‘beyond the     |
+|         |         | been drawn from the   | findings of this   |              | student         |
+|         |         | findings of this      | study and relate   |              | teachers…etc’   |
+|         |         | study and relate to   | to the research    |              | is rendered as  |
+|         |         | the research          | questions posed.   |              | ‘confines of    |
+|         |         | questions posed. As   |                    |              | this’           |
+|         |         | mentioned earlier,    | Caution should be  |              |                 |
+|         |         | within the            | exercised          |              | ‘utilising’ vs  |
+|         |         | sub-section, caution  | concerning the     |              | within the      |
+|         |         | should be exercised   | generalisability   |              | context of’     |
+|         |         | concerning the        | of these           |              |                 |
+|         |         | generalisability of   | conclusions beyond |              |                 |
+|         |         | these conclusions, as | the student        |              |                 |
+|         |         | they are specific to  | teachers and       |              |                 |
+|         |         | the confines of this  | dissertation       |              |                 |
+|         |         | particular study.     | supervisors who    |              |                 |
+|         |         |                       | were participants  |              |                 |
+|         |         | Mentoring and         | in this study.     |              |                 |
+|         |         | reflective practice   |                    |              |                 |
+|         |         | is a complex,         | Reflective         |              |                 |
+|         |         | multi-dimensional     | practice is a      |              |                 |
+|         |         | phenomenon, which     | complex,           |              |                 |
+|         |         | underpins much of the | multi-dimensional  |              |                 |
+|         |         | dialogue and          | phenomenon, which  |              |                 |
+|         |         | discourse in initial  | has become an      |              |                 |
+|         |         | teacher education.    | integral part of   |              |                 |
+|         |         |                       | initial teacher    |              |                 |
+|         |         | The elusive and fluid | education.         |              |                 |
+|         |         | conception of both    |                    |              |                 |
+|         |         | these areas makes it  | Its somewhat       |              |                 |
+|         |         | difficult to          | elusive boundaries |              |                 |
+|         |         | accurately capture.   | make it difficult  |              |                 |
+|         |         | The purpose of this   | to capture. The    |              |                 |
+|         |         | research was to       | purpose of this    |              |                 |
+|         |         | explore               | research has been  |              |                 |
+|         |         | peer-mentoring among  | to investigate the |              |                 |
+|         |         | student teachers to   | development of     |              |                 |
+|         |         | inform reflective     | student teachers’  |              |                 |
+|         |         | practice, utilising   | reflective         |              |                 |
+|         |         | action research and   | practice within    |              |                 |
+|         |         | constructivist        | the context of     |              |                 |
+|         |         | thinking as a vehicle | action research    |              |                 |
+|         |         | to steer this agenda, | and identify what  |              |                 |
+|         |         | in attempting to      | qualitative        |              |                 |
+|         |         | identify what         | distinctions in    |              |                 |
+|         |         | qualitative           | reflective         |              |                 |
+|         |         | distinctions in       | practice can be    |              |                 |
+|         |         | mentoring and         | drawn between      |              |                 |
+|         |         | reflective practice   | student teachers,  |              |                 |
+|         |         | could be drawn among  |                    |              |                 |
+|         |         | student teachers.     |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 352-353 | 272-273 | Few studies have      | Few studies have   | Verbatim     | ‘draw           |
+|         |         | examined how student  | examined how       | text; close  | connections’ vs |
+|         |         | teachers learn the    | student teachers   | paraphrase   | ‘make           |
+|         |         | processes inherent    | learn the          |              | connections’    |
+|         |         | within mentoring and  | processes inherent |              |                 |
+|         |         | reflective practice,  | within action      |              | ‘attempted to   |
+|         |         | and more importantly, | research, what     |              | contribute’ vs  |
+|         |         | how they draw         | they learn, and    |              | ‘sought to add’ |
+|         |         | connections between   | further, how they  |              |                 |
+|         |         | classroom enquiry and | make connections   |              |                 |
+|         |         | professional          | between classroom  |              |                 |
+|         |         | practice, and more    | enquiry, teaching  |              |                 |
+|         |         |                       | and educational    |              |                 |
+|         |         | importantly, how they | change.            |              |                 |
+|         |         | draw connections      |                    |              |                 |
+|         |         | between classroom     | Reflective         |              |                 |
+|         |         | enquiry and           | practice, as       |              |                 |
+|         |         | professional          | defined in this    |              |                 |
+|         |         | practice.             | study, can be      |              |                 |
+|         |         |                       | situated at the    |              |                 |
+|         |         | Mentoring,            | heart of these     |              |                 |
+|         |         | collaborative         | learning           |              |                 |
+|         |         | learning and          | processes. This    |              |                 |
+|         |         | reflective practice,  | research has       |              |                 |
+|         |         | as defined in this    | therefore sought   |              |                 |
+|         |         | study, can be         | to add to the      |              |                 |
+|         |         | situated at the heart | research currently |              |                 |
+|         |         | of these learning     | available in       |              |                 |
+|         |         | processes. This       | educational        |              |                 |
+|         |         | research has          | literature, which  |              |                 |
+|         |         | therefore attempted   | focuses on the     |              |                 |
+|         |         | to contribute to the  | impact strategies  |              |                 |
+|         |         | research currently    | used to develop    |              |                 |
+|         |         | available in          | reflective         |              |                 |
+|         |         | educational           | practice in        |              |                 |
+|         |         | literature, which     | student teachers,  |              |                 |
+|         |         | focuses on the impact | can make to their  |              |                 |
+|         |         | strategies used to    | professional       |              |                 |
+|         |         | develop reflective    | development        |              |                 |
+|         |         | practice in student   |                    |              |                 |
+|         |         | teachers, to inform   |                    |              |                 |
+|         |         | professional          |                    |              |                 |
+|         |         | development and       |                    |              |                 |
+|         |         | pedagogical practice. |                    |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+
+| 353     | 273     | The student teachers’ | A majority of      | Verbatim     | Z-M’ list       |
+|         |         | that participated in  | student teachers‟  | text; close  | following colon |
+|         |         | this study            | perceived the      | paraphrase,  | (‘study their   |
+|         |         | highlighted that      | action research    |              | own teaching’   |
+|         |         | their enjoyment in    | experience had     |              | etc) is         |
+|         |         | utilising             | influenced their   |              | numbered in     |
+|         |         | peer-mentoring to     | capacity and       |              | Arday thesis    |
+|         |         | inform reflective     | commitment to:     |              |                 |
+|         |         | practice influenced   | study their own    |              |                 |
+|         |         | their capacity and    | teaching for       |              |                 |
+|         |         | commitment to: (1)    | personal           |              |                 |
+|         |         | study their own       | improvement;       |              |                 |
+|         |         | teaching for personal | systematically     |              |                 |
+|         |         | improvement; (2)      | evaluate their own |              |                 |
+|         |         | systematically        | teaching through   |              |                 |
+|         |         | evaluate their own    | classroom research |              |                 |
+|         |         | teaching; (3)         | procedures;        |              |                 |
+|         |         | consider alternative  | consider           |              |                 |
+|         |         | perspectives and      | alternative        |              |                 |
+|         |         | possibilities; (4)    | perspectives and   |              |                 |
+|         |         | critically reflect on | possibilities;     |              |                 |
+|         |         | their own teaching;   | enhance the        |              |                 |
+|         |         | and, (5) continue to  | quality of pupil   |              |                 |
+|         |         | improve their own     | learning;          |              |                 |
+|         |         | teaching.             | critically reflect |              |                 |
+|         |         |                       | on their own       |              |                 |
+|         |         |                       | teaching; and,     |              |                 |
+|         |         |                       | continue to        |              |                 |
+|         |         |                       | improve their own  |              |                 |
+|         |         |                       | teaching.          |              |                 |
++---------+---------+-----------------------+--------------------+--------------+-----------------+

@@ -8,6 +8,10 @@ status: active
 
 # Jason Arday — negative-space and changed-state ledger
 
+## 2026-08-09 — Arasite dossier and missing-diagram boundary
+
+The public Arasite index now yields four downloadable ZIP archives containing DOCX comparison tables, all recovered under [SRC-928](sources/2026-08-09-arasite-plagiarism-evidence-files.md). Its fifth “Diagram” link resolves to HTML whose image source is a publisher-local Windows path, so the relation-diagram binary was not publicly recoverable from that route. The dossier is preserved as a coordinated source family; no institutional receipt, response, or adjudicated outcome is inferred from the host’s submission statement.
+
 ## 2026-08-09 — memoir-proposal archive checkpoint
 
 The tested Internet Archive exact-title search returned zero items, the tested Common Crawl route returned no capture, and Wayback CDX located one HTTP-200 capture: Simon & Schuster’s publisher page at 2026-07-26 15:04:48 UTC. The replay is preserved as [SRC-927](sources/2026-08-09-wayback-simon-schuster-memoir.md). It supplies a distinct pre-resignation publisher source-version, not the unpublished 2024 proposal or a manuscript. Reopen only for a concrete proposal/preview artifact, new archived proposal URL, direct response, or changed first-party record.
