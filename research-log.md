@@ -4276,3 +4276,7 @@ A new subject-centred lead was recovered as a public Wellcome Sanger Institute Y
 ## 2026-08-09 — SRC-1035/C-1035–C-1037: RSC recording timecode audit
 
 The canonical 13:23.92 Royal Society of Chemistry Inclusion and Diversity Forum recording was extracted and transcribed with `mlx-community/whisper-small.en-mlx`. The pass separates a likely Arday opening segment (approximately 00:00–01:44) and late interview/remarks segment (approximately 09:09–13:16) from the middle montage of other speakers. It adds navigation for Arday-relevant remarks on intersectionality, evidence, shared responsibility, and community of practice. ASR remains unverified; no verbatim quotation or substantive empirical claim was upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
+## 2026-08-09 — SRC-1038/C-1038–C-1042: Lives Retold page-level audit
+
+The Wayback-recovered 11-page PDF of Arday’s 20 March 2021 BBC Radio 4 Lent Talk was audited by printed/page location. It adds bounded self-report on one-sided deafness, speech/literacy, football/snooker, endurance chronology, fundraising, the April 2019 Durham interview, and a statement that two benign brain tumours were diagnosed after the PhD. The latter materially conflicts with the Sanger interview’s account of a brain tumour removed two weeks before the viva and a post-viva stroke. Both source versions are preserved without medical inference or harmonization. Google Drive was not updated; GitHub remains the active publication target.
