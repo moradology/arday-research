@@ -3,6 +3,8 @@
 
 Fresh subject-centred discovery boundary: `SRC-895` — 9 August exact-name searches for current interviews/publications, childhood football/snooker material, YouTube recordings, and memoir-proposal terms reconciled to canonical records and recovered no new primary artifact, DOI/title key, proposal file, or direct publisher response. Reopen only for a distinct primary recording, new publication identifier/file, proposal itself, or changed endpoint; do not repeat these query families unchanged.
 
+Fresh subject-centred audio checkpoint: `SRC-1143/C-1408–C-1410` — the canonical LJMU “Harvest for the World” MP3 now has a bounded ASR audit covering a PhD/Sandro Sandri self-report, agency/autonomy advice, and academic collectivism/community commentary. Human listening and any first-party transcript remain open; do not quote the ASR as settled speech.
+
 Fresh Booktime source-version checkpoint: `SRC-522/C-666` — the Harbour Bookshop product JSON and cover were re-fetched on 9 August and were byte-identical to the 8 August capture. The magazine/PDF/page-29 interview remains unresolved; reopen only for the actual document, flipbook, publisher record, page scan, or transcript.
 
 Fresh subject-centred biography checkpoint: `SRC-1142/C-1404–C-1407` — the Great Big Story documentary now has a bounded audio audit separating narrator, teacher, and Arday-attributed passages. Human listening, official captions/transcript, clinical/education records, and independent snooker records remain open; do not treat the ASR derivative or documentary framing as settled biographical fact.

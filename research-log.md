@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred audiovisual audit: the locally preserved 40:37.146 LJMU/SoundCloud “Harvest for the World” MP3 was transcribed in corrected mono five-minute windows with `mlx-community/whisper-small.en-mlx`. Added `SRC-1143/C-1408–C-1410` for Arday-attributed PhD/Sandro Sandri self-report, agency/autonomy advice, and academic collectivism/community commentary. The JSON is navigation-only; human listening and a first-party transcript remain open.
+
 2026-08-09 — Subject-centred discovery continuation: exact-name searches for 2026 interviews/publications, childhood football/snooker material, YouTube recordings, and memoir-proposal terms returned only canonical Great Big Story/Open Culture, Twinkl, Guardian, Lives Retold, memoir-edition, Atlantic, Daily Mail, and existing media records. No new primary artifact, DOI/title key, proposal file, or direct publisher response was recovered; the boundary was extended in `SRC-895` without duplicate nodes.
 
 2026-08-09 — Booktime source-version continuation: the Harbour Bookshop product JSON and cover for the July/August 2026 issue were re-fetched and were byte-identical to the existing 8 August capture (`SRC-522/C-666`). No magazine/PDF/flipbook URL or interview text was exposed. The lead was updated in place; no duplicate source or claim was created.

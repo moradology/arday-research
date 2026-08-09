@@ -3,8 +3,8 @@ id: SRC-258
 type: Source
 title: "Professor Jason Arday — Harvest for the World: Neurodiversity and Inclusivity in Higher Education"
 date: 2024-03-01
-accessed: 2026-08-06
-status: verified first-party SoundCloud track; MP3 locally preserved
+accessed: 2026-08-09
+status: verified first-party SoundCloud track; MP3 locally preserved; bounded ASR audit added
 source_kind: institutional-audio
 entities:
   - ../entities/jason-arday.md
@@ -28,7 +28,8 @@ LJMU’s neurodiversity resources page links to a SoundCloud track titled “Pro
 - [Local MP3](../assets/audio/ljmu-harvest-for-world-jason-arday-2024.mp3) — 38,994,754 bytes; SHA-256 `0ba9ef5308b200939bd35464d2416ab7b49d592a40d610ce8d137868698d9f7e`
 - [Audio response headers](../assets/documents/ljmu-harvest-for-world-audio-2026-08-06-headers.txt) — SHA-256 `64a8bb34c6bd52a1d86cb8d2701c3d1d513be01fa56856d8f7034ebc3d37b909`
 - [SoundCloud artwork](../assets/images/ljmu-harvest-for-world-jason-arday-2024.jpg) — SHA-256 `8099b4c3fcfeca4cd936b3e672852a090c9daacb516c3552ba43415eab4e9cd8`
+- [Bounded audio audit](2026-08-09-ljmu-harvest-for-world-audio-audit.md) · [ASR navigation JSON](../assets/documents/ljmu-harvest-for-world-arday-2024-whisper-small-en.json)
 
 ## Evidence boundary
 
-The host and audio file establish a public LJMU media appearance and its metadata. No transcript, captions, or timecoded substantive claims are asserted here; the recording requires listening/transcription before extracting biographical or educational testimony. SoundCloud metadata marks the track all-rights-reserved and non-downloadable even though its public progressive stream was accessible at capture.
+The host and audio file establish a public LJMU media appearance and its metadata. The bounded audit adds machine-navigation windows for a PhD/mentor self-report and public positions on institutional agency and academic collectivism, but does not make them verified quotations or independent biography. SoundCloud metadata marks the track all-rights-reserved and non-downloadable even though its public progressive stream was accessible at capture.
