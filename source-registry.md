@@ -720,6 +720,8 @@ This is the deduplication ledger. One URL or document should appear once here, e
 
 | SRC-923 | `sources/2026-08-09-qub-attempting-break-chain-recheck.md` | QUB Research Portal article page recheck; byte-distinct HTTP-200 page preserves unchanged DOI/authors/version metadata while displayed downloads rose from 1,555 to 1,734 | institutional repository source-version / volatile metric change / local HTML and headers / deduplicated to SRC-894 | 2026-08-09 | QUB, Research Portal, Educational Philosophy and Theory, Attempting to break the chain, download metric, source version, investigation boundary, deduplication |
 
+| SRC-924 | `sources/2026-08-09-pubpeer-link-resolution-audit.md` | Resolution audit of eight PubPeer identifiers linked from 21percent’s Arday commentary; all resolve to unrelated migration/history publications, not Arday works | source-provenance audit / post-publication-platform resolution / local HTML and headers / corrects attribution boundary for SRC-398 | 2026-08-09 | PubPeer, 21percent, source provenance, link resolution, migration history, unrelated publications, attribution boundary, research integrity |
+
 
 | SRC-897 | `sources/2026-08-09-talking-matters-amazon-music.md` | Amazon Music catalogue manifestation of the already-canonical *Talking Matters* Jason Arday episode; browser/indexed metadata exposes title/date/duration/recording-year context, while direct capture is an 8,504-byte JavaScript shell; deduplicated to SRC-184 | podcast-platform catalogue / source-version / local HTML and headers / access boundary | 2026-08-09 | Amazon Music, Talking Matters, Nick Halkes, podcast, source-version, episode ID, access boundary, deduplication |
 

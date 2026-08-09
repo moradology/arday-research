@@ -1,5 +1,7 @@
 # Work state
 
+Latest provenance checkpoint: on 2026-08-09 `SRC-924/C-990` resolved eight PubPeer links embedded in the 21percent commentary. All point to unrelated historical/migration publications, not Arday works; their comments are excluded from the Arday integrity evidence set. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest scholarly source-version checkpoint: on 2026-08-09 `SRC-923/C-989` rechecked QUB’s *Attempting to break the chain* page. The article metadata and accepted-manuscript route were unchanged, but displayed downloads rose from 1,555 to 1,734. This is volatile repository metadata, not evidence about validity or QUB’s investigation. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest sports-status checkpoint: on 2026-08-09 `SRC-922/C-988` preserved a Reddit anti-bot access boundary for an indexed discussion asking which football academy or club underlies the original Bath wording. No answer or sports record was recovered; the question remains open. Google Drive was not updated; GitHub remains the active publication target.

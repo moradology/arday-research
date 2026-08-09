@@ -12,6 +12,12 @@ Discovery: QUB’s Research Portal page for *Attempting to break the chain* was 
 
 Decision: register SRC-923 as a volatile metadata/source-version record deduplicated to SRC-894. The changed counter does not bear on QUB’s reported investigation, article validity, or research integrity. Google Drive was not updated; GitHub remains the active publication target.
 
+## 2026-08-09 — SRC-924/C-990: PubPeer link-provenance audit
+
+Discovery: the eight PubPeer identifiers linked from 21percent’s Arday commentary resolved to unrelated publications on migration, passports, immigration, and humanities history. None was an Arday publication.
+
+Decision: register SRC-924 as a source-resolution correction. Preserve the HTML and headers as platform records, but do not import their comments into the Arday integrity dossier. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-921/C-987: Lives Retold PDF recovered from Wayback
 
 Discovery: Wayback CDX exposed a 28 June 2023 HTTP-200 capture of the previously unavailable Lives Retold/BBC Lent Talk PDF. The 11-page binary was downloaded, hashed, and text-extracted locally.

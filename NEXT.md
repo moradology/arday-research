@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh provenance-control checkpoint: `SRC-924/C-990` — eight PubPeer IDs linked from 21percent were resolved and none concerns an Arday publication. Reopen only if a direct PubPeer page for an Arday DOI appears; do not repeat the unrelated-ID audit.
+
 Fresh QUB metadata checkpoint: `SRC-923/C-989` — the article page is byte-distinct and its download counter changed, but no correction, terms of reference, named investigator, or outcome appeared. Reopen only for a substantive QUB page revision, correction, investigation document, or outcome; do not repeat metric-only fetches.
 
 Fresh sports-lead checkpoint: `SRC-922/C-988` — an indexed June 2026 Reddit discussion asks which academy/club was involved, but the direct route is an anti-bot challenge. Reopen only for a lawful thread replay, named club/league record, contract/roster, match report, or institutional correction; do not treat the discussion itself as evidence.

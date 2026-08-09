@@ -28,6 +28,8 @@ related:
 
 This is a distinct public commentary source and a useful record of claim propagation, institutional-response wording, and the circulation of the comparison image. It is not an independent textual audit, institutional adjudication, or evidence that its allegations are true. The linked Cofnas and Arasite pages, plus the preserved primary texts, remain separate source families.
 
+The eight PubPeer URLs embedded in the page were resolved on 9 August 2026 and all pointed to unrelated historical/migration publications rather than Arday works; see the [link-resolution audit](2026-08-09-pubpeer-link-resolution-audit.md). They are not counted as PubPeer commentary on Arday.
+
 ## Local preservation
 
 - [Article HTML](../assets/captures/2026-08-08-21percent-plagiarism/article.html) — SHA-256 `5aa60711bb8acd99373538a63a22466cca21331f5ea5f3d990b7d03ee56a8d62`
