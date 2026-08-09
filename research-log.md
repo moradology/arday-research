@@ -3,6 +3,8 @@
 
 2026-08-09 — Subject-centred biography audit: compared the person record, working biography, timeline, and claims-ledger references. Removed one duplicated House of Lords testimony paragraph from `biography.md`; no evidence or claim status changed. The biography continues to separate institutional records, self-reports, source-version repetition, allegations, and unresolved negative-space observations.
 
+2026-08-09 — Claims-link integrity pass: found one stale local target in `C-1395`, corrected it from the retired `2015-07-01-ljmu-thesis.md` filename to canonical `2015-ljmu-phd-thesis.md`, and confirmed the underlying claim remains unchanged.
+
 2026-08-09 — Ontology-integrity pass: found `SRC-557` as the only source Markdown file absent from the registry path column. Restored its registry row; timeline, claims, media, and access-boundary records were already present. No evidentiary status changed.
 
 2026-08-09 — Rechecked the open UWL/King’s BME Early Career Researchers lead (`SRC-375/C-385`). Exact-name, award-name, conference-theme, and UWL/KCL-restricted searches returned no first-party event or award artifact beyond the existing London Post report. No new source or claim was created; the secondary-only boundary is now explicit.
