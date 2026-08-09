@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-912/C-975: Cambridge investigation statement availability recheck
+
+Discovery: the University of Cambridge’s canonical statement URL returned HTTP 200 on 9 August after the latest preserved fetch had returned a generic 404 page. The page carried a 7 August last-updated timestamp and the same visible investigation/process wording as the earlier live manifestation.
+
+Decision: register SRC-912 as a changed access-state source-version deduplicated to SRC-093. No institutional finding, exoneration, correction, or new process detail was added. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-895/C-974: OpenAlex and public-media sweep extension
 
 Discovery: the current OpenAlex author identifier `A5048886069` returned 56 works when queried with a 100-result page sorted by publication date; the newest DOI-bearing entries were the already-preserved OSF preprint versions. Exact title/DOI comparison and concurrent searches for publications, 2026 DOI output, YouTube/video, and podcasts returned existing records such as the Oxford EDB lecture and *How Do You Cope?* episode, plus homonyms.

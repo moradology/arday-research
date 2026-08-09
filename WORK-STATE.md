@@ -1,5 +1,7 @@
 # Work state
 
+Latest Cambridge availability checkpoint: on 2026-08-09 `SRC-912/C-975` captured the official investigation statement after its canonical URL returned HTTP 200 following the prior 404 state. The 7 August last-updated timestamp and substantive process wording were unchanged; no outcome was published. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest index/media sweep extension: on 2026-08-09 `SRC-895/C-974` recorded a fresh OpenAlex 56-work result and exact title/DOI reconciliation, alongside publication/video/podcast searches. All results resolved to existing records or homonyms; no new artifact was found. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest search-boundary extension: on 2026-08-09 `SRC-895/C-973` recorded a focused current sweep across events, university reports, interviews/podcasts/videos, BSA/Cambridge pages, and scholarly correction routes. Results resolved to existing records, unchanged states, or homonyms; no new artifact or institutional outcome was found. Google Drive was not updated; GitHub remains the active publication target.
