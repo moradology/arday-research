@@ -24,6 +24,8 @@ The deck presents a policy argument about racial inequality and representation i
 
 The slides cite Alexander and Arday (2015), Arday (2018), HESA (2019), the Guardian (2020), BBC reporting, and other scholarship. Those citations are preserved as presentation references; the numerical claims are not treated as independently re-audited by this deck capture.
 
+See the [2026-08-09 page-level audit](2026-08-09-british-council-ireland-keynote-audit.md) for the chronology conflict, claim map, and evidence boundaries.
+
 ## Provenance and local preservation
 
 - [Archived PDF](../assets/captures/2026-08-08-ria-british-council-arday-keynote/keynote.pdf) — 14 pages, 178,138 bytes; SHA-256 `c53420ee677f8f871ef8057a9cdb916ba33f8e04307a31734110796578a2dc54`.

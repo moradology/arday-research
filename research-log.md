@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1118/C-1374–C-1379: British Council/Royal Irish Academy Ireland keynote audit
+
+The complete 14-page archived deck was reviewed from extracted text and rendered pages. The audit records the presenter/title identity, the visible 30 January 2019 date, the internal conflict created by 2019 HESA and 2020 Guardian citations, HESA/BBC-attributed representation and pay figures, the unidentified senior-leader quotation, and recommendations on mentoring, affirmative action, selection, and leadership development. It preserves the deck as a public-output artifact without treating cited statistics, delivery date, implementation, or impact as independently established.
+
 ## 2026-08-09 — SRC-1117/C-1369–C-1373: Youth Unemployment Committee testimony audit
 
 The official corrected web transcript for the 29 June 2021 House of Lords hearing was reviewed at question level. The audit separates Arday’s Q195–Q207 evidence from Dr Gurleen Popli and committee speakers, records policy proposals about mentoring, role models, positive action, labour-market literacy, and data skills, and preserves the ex-PE-teacher and two-African-parents statements as first-person testimony. The full local transcript binary remains inaccessible behind the Parliament/Cloudflare challenge; no new transcript source was created.
