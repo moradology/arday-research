@@ -1,0 +1,20 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 13:23:41 GMT
+content-type: application/pdf
+content-length: 541557
+x-cache-enabled: True
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://educationinaction.org.uk/wp-json/>; rel="https://api.w.org/"
+link: <https://educationinaction.org.uk/?p=12624>; rel=shortlink
+content-disposition: inline; filename="sociology-in-action-10-11-2025.pdf"
+cache-control: public, must-revalidate, max-age=0
+pragma: public
+x-generator: mPDF 8.2.6
+expires: Sat, 26 Jul 1997 05:00:00 GMT
+last-modified: Sun, 09 Aug 2026 13:23:41 GMT
+x-httpd-modphp: 1
+host-header: 6b7412fb82ca5edfd0917e3957f05d89
+x-proxy-cache: MISS
+x-proxy-cache-info: 0 NC:000000 UP:
+

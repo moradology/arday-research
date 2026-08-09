@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1127/C-1387: Education in Action programme audit
+
+The organizer’s 2-page PDF was recovered and visually checked. It schedules Arday’s “Race and education in today’s world” session for the London “Sociology in Action” study day, describes the session’s race/education/intersectionality focus, and supplies the organizer’s speaker biography. The PDF visibly says 10 November 2025 while the page route says 10–11 November; no delivery artifact, recording, transcript, or attendance record was exposed. This is a distinct organizer source that gives the Southend school account a plausible event family, but it does not independently verify the school’s 2024 event or prove the 2025 session occurred.
+
 ## 2026-08-09 — SRC-1126/C-1386: Southend High Gazette event audit
 
 Fresh institutional discovery found the 52-page *SHSG Gazette Summer 2024*. PDF p. 6 reports that 18 A-level sociology students attended a “Sociology in Action” conference at the Emanuel Centre and heard Arday speak. The school summarizes his educational experience, research on ethnicity and inequality, and Black-history curriculum position. The audit preserves the school’s event account and its boundaries: no conference date, organizer, recording, slides, transcript, or attendance list was exposed.
