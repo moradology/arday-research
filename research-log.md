@@ -4,6 +4,10 @@
 
 The locally preserved 2 September 2023 PBS segment was checked against its official English VTT. The audit adds subject-centred details about continued speech/language work from roughly ages 11–16, Arday’s retrospective interpretation of the non-verbal period as observational, a reported reading age of 12 at university, a 500-words-a-day writing practice over roughly 15 years, and the Sandro Sandri PhD anecdote. These are preserved as first-person testimony and caption-derived source-version claims. PBS host narration and superlatives remain separate from Arday’s account; no therapy, assessment, writing log, or independent mentorship record was found in this pass. The MP4 remains locally available for later human waveform verification before verbatim quotation.
 
+## 2026-08-09 — SRC-1059/C-1111–C-1113: *Neurodivergent Show* caption audit
+
+The locally preserved 4 March 2023 interview was checked against its automatic English VTT. It adds a source-version detail about removing a hearing aid during exercises, a fuller first-word scene in which Arday says his mother prompted him to repeat “hello,” an interpreted perseverance/“unfavourable odds” framing, and a more granular account of being 18 with a reported reading age of eight before Sandro Sandri encouraged a university path. The captioned diagnostic wording is retained as remembered testimony and is not modernized or treated as a clinical record. The machine-rendered mentor name/dialogue and all substantive details remain pending human verification against the MP4.
+
 ## 2026-08-09 — SRC-1057/C-1104–C-1106: LBC source-propagation/commentary audit
 
 The locally preserved 8 August 2026 LBC video was checked against its English VTT. It repeats the existing controversy narrative, records presenter James Hanson’s reported shift from an initially nuanced position after the Jack Grove/Met account, and adds commentary framing Arday as a possible victim or symbolic “mascot” of DEI. No new primary document, Arday interview, institutional finding, police record, or appointment record was recovered. The evaluative language is preserved as commentary/reception evidence only.

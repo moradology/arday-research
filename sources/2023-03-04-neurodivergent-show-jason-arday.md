@@ -19,6 +19,8 @@ The episode is titled “The Life of Dr. Jason Arday / 5 Benefits of getting an 
 
 The automatic captions contain navigable first-person passages. At approximately 02:33–03:01, the speaker describes a diagnosis at age three, identifies his mother as Gifty/Giff, and recounts the diagnostic wording as remembered in the interview. At approximately 05:20–05:57, he describes saying “hello” as his first word at age eleven and his mother’s reaction. At approximately 06:08–06:24, he describes having just learned to read and write at eighteen and initially having a reading age of about eight. At approximately 06:26–07:12, he attributes a turning-point conversation to Sandro Sandri. These are first-person interview versions, but the captions are machine-generated and require listening verification before quotation.
 
+A bounded caption audit preserves the hearing-aid detail, the first-word scene, and the more granular literacy/Sandro passage as source-version claims: [SRC-1059](2026-08-09-neurodivergent-show-caption-audit.md).
+
 ## Local preservation
 
 - MP4: `assets/videos/TaxZ_1-GJqI.mp4` — SHA-256 `ae9f50b22c0daa16267321c3fb8c595d9342d9755796f2ae1cc66a345419da8e`

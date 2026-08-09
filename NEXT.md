@@ -1,4 +1,6 @@
 # Next actions
+Fresh subject-centred caption checkpoint: `SRC-1059/C-1111–C-1113` — the *Neurodivergent Show* interview now has bounded source-version records for the hearing-aid/one-ear-hearing detail, repeated first-word scene, perseverance framing, eight-year-old reading-age claim at 18, and Sandro Sandri’s university encouragement. Human-verify against the MP4 before quoting; keep diagnostic wording, hearing, literacy, and mentor dialogue separated from independent records.
+
 Fresh subject-centred caption checkpoint: `SRC-1058/C-1107–C-1110` — PBS’s 2023 interview now has bounded records for continued language work, non-verbal observation, writing practice, and the Sandri PhD anecdote. Human-verify against the MP4 before quoting; keep reading-age, therapy, writing-log, and host-superlative claims source-versioned.
 
 Fresh scholarly-output checkpoint: `SRC-1028/C-1028` — the 2018 open-access mental-health article received a page-level audit of its design, sample, methods, reported themes, recommendations, and explicit limitations. Reopen only for raw/archived transcripts, coding materials, ethics/recruitment records, a correction/retraction, or a materially different article version; do not create a second publication node.
