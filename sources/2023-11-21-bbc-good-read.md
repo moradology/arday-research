@@ -4,7 +4,7 @@ type: Source
 title: "A Good Read: Janet Ellis and Jason Arday"
 date: 2023-11-21
 accessed: 2026-08-06
-status: verified / audio locally preserved
+status: verified / audio locally preserved / bounded Arday audio audit
 source_kind: broadcast radio
 entities:
   - ../entities/jason-arday.md
@@ -22,7 +22,7 @@ The BBC listing identifies Jason Arday and Janet Ellis as guests with presenter 
 - First broadcast: 21 November 2023 at 16:30.
 - Producer: Sally Heaven, BBC Audio Bristol.
 - The episode page and podcast index are programme metadata; they do not substitute for a transcript.
-- The BBC programme page exposed a higher-quality official non-DRM download endpoint on 2026-08-06. The 128 kb/s MP3 is locally preserved below; no transcript was exposed.
+- The BBC programme page exposed a higher-quality official non-DRM download endpoint on 2026-08-06. The 128 kb/s MP3 is locally preserved below; no transcript was exposed. A bounded audit now maps Arday’s remarks about his biographical reading preferences, Siya Kolisi’s *Rise*, and representation in *Let the Great World Spin*; see [SRC-1152](2026-08-09-bbc-good-read-audio-audit.md).
 
 ## Local preservation
 

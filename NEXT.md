@@ -2,6 +2,8 @@
 @@
 # Next actions
 
+Fresh subject-centred BBC *A Good Read* checkpoint: `SRC-1152/C-1433–C-1435` — the locally preserved 28:05 episode now has corrected-mono Whisper `small.en` navigation for Arday’s biographical reading preference, Siya Kolisi’s *Rise*, and his representation/lived-experience discussion of *Let the Great World Spin*. Human listening and any first-party transcript remain open; do not quote the ASR as settled wording or treat literary judgments as independent biography.
+
 Fresh subject-centred BBC *Moral Maze* checkpoint: `SRC-1151/C-1428–C-1432` — the locally preserved 42:56 broadcast now has corrected-mono Whisper `small.en` navigation for Arday’s contribution on collective responsibility, curriculum implementation/framing, education, institutional racism, and sustained anti-racist work at approximately 18:06–25:28. Human listening and any first-party transcript remain open; do not quote the ASR as settled wording or treat public positions as outcome evidence.
 
 Fresh *Beyond Lonely* availability checkpoint: `SRC-1150/C-1427` — the current BBC episode page and playable API remain live, but the API is byte-identical to the 6 August capture and the canonical media-selector request returns HTTP 410. No audio, captions, or transcript was recovered; the teenager/snooker synopsis remains under `SRC-063/C-077`. Reopen only for a changed BBC media route, lawful recording, first-party transcript/caption file, or distinct episode artifact.
