@@ -797,3 +797,4 @@ This is the deduplication ledger. One URL or document should appear once here, e
 - Record mirrors and reposts in the canonical record as aliases; do not create duplicate records.
 - A correction, retraction, update, or materially revised page gets its own source ID linked with `updates` or `supersedes`.
 - A source can support multiple claims, but each claim should point back to this registry.
+| SRC-1030 | `sources/2026-08-09-sanger-institute-research-excellence-video.md` | Wellcome Sanger Institute public YouTube interview with Arday; 1080p MP4, automatic English captions, metadata, and thumbnail locally preserved | first-party institutional video / first-person interview / local audiovisual binary | 2026-08-09 | subject, biography, PhD, medical self-report, Durham, Glasgow, mental health, race, local video, captions |
