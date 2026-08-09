@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh podcast-topology checkpoint: `SRC-904/C-965` — Amazon Music exposes the canonical *A Good Read* episode under episode UUID `56c9195a-9289-49c5-b418-44c95058f143`, but the direct route is only a JavaScript shell. Reopen only for a rendered transcript, captions, artwork, or audio endpoint; do not repeat the same shell fetch.
+
 Fresh changed-state checkpoint: `SRC-903/C-964` — the African Allied Health Network speakers page returned HTTP 200 after the earlier site-wide 403 and still listed Arday as a keynote for the July 2026 Accra summit. The page adds current speaker-page provenance; its portrait is byte-identical to SRC-306. Reopen only for a post-event report, final programme, recording, transcript, attendance artifact, or another changed organizer state.
 
 Fresh event-provenance checkpoint: `SRC-902/C-963` — a public LinkedIn announcement by Dr Yaz Iyabo Osho named Arday as a keynote for Westminster’s 16 April 2026 *Holding the Space* conference. It is deduplicated to the existing post-event record `SRC-317`; the captured portrait is of Osho, not Arday. Reopen only for a recording, transcript, slides, correction, or changed organizer artifact; do not repeat the same announcement search.

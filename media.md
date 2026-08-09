@@ -1,5 +1,7 @@
 # Media index
 
+- [Amazon Music *A Good Read* shell](assets/captures/2026-08-08-amazon-good-read/page.html) and [headers](assets/captures/2026-08-08-amazon-good-read/page.headers.txt) — distinct platform manifestation of the canonical 21 November 2023 BBC episode; episode UUID preserved, but no rendered metadata, transcript, or audio endpoint; SRC-904/C-965.
+
 - [African Allied Health Network speakers-page recheck](assets/captures/2026-08-08-aahn-speakers-recheck/page.html) and [speaker portrait](assets/captures/2026-08-08-aahn-speakers-recheck/arday-portrait.webp) — route recovered to HTTP 200 on 8 August after the earlier site-wide 403; portrait is byte-identical to SRC-306’s existing image; SRC-903/C-964. No post-event recording or transcript recovered.
 
 - [Holding the Space 2026 LinkedIn announcement](assets/captures/2026-08-08-holding-space-linkedin/page.html) and [displayed portrait](assets/captures/2026-08-08-holding-space-linkedin/post-image.jpg) — public pre-event announcement naming Arday as a Westminster keynote; portrait is of post author Yaz Iyabo Osho, not Arday; SRC-902/C-963. No recording or transcript recovered.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-08 — SRC-904/C-965: Amazon Music *A Good Read* manifestation
+
+Discovery: a podcast-platform search surfaced Amazon Music’s dedicated route for the 21 November 2023 BBC *A Good Read* episode featuring Janet Ellis and Jason Arday. The direct capture exposed show UUID `391a33d1-48ae-4a23-b4a5-28fe1337f3cd` and episode UUID `56c9195a-9289-49c5-b418-44c95058f143` in its deep-link metadata.
+
+Decision: register the route as a platform manifestation and access-boundary record deduplicated to SRC-061. The 11,446-byte response is a JavaScript shell with no rendered episode content, transcript, captions, artwork, or audio URL. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-08 — SRC-903/C-964: African Allied Health speakers-page recovery
 
 Discovery: the African Allied Health Network’s `/speakers/` route returned HTTP 200 on a fresh direct request after the earlier 403/browser-verification state. It again listed Professor Jason Arday as a keynote speaker and exposed a current organizer biography and portrait.

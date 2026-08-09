@@ -1,5 +1,7 @@
 # Work state
 
+Latest podcast-topology checkpoint: on 2026-08-08 `SRC-904/C-965` captured Amazon Music’s direct JavaScript-shell manifestation of the canonical BBC *A Good Read* episode. The episode UUID is preserved, but no rendered content, audio, transcript, captions, or artwork was exposed. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest event-access checkpoint: on 2026-08-08 `SRC-903/C-964` captured the African Allied Health Network speakers route after it recovered from HTTP 403 to HTTP 200. Arday remains listed as a keynote, and the page exposes a current organizer biography; no delivery, attendance, recording, or post-event outcome was established. The portrait is byte-identical to SRC-306. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest event-provenance checkpoint: on 2026-08-08 `SRC-902/C-963` captured a public LinkedIn announcement naming Arday as a keynote for the 16 April 2026 Westminster *Holding the Space* conference. It is a pre-event source-version deduplicated to `SRC-317`; the displayed 800×830 portrait is of organizer Yaz Iyabo Osho, not Arday. No recording, transcript, or slides were exposed. Google Drive was not updated; GitHub remains the active publication target.
