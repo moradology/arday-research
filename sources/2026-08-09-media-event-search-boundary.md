@@ -30,6 +30,12 @@ Material results resolved to existing records: UCL’s 2020 keynote recording an
 
 No new video, audio file, caption track, transcript, event programme, or post-event report was recovered. The Newcastle page remains a listing without a public recording; the BSA abstract says the plenary abstract was “to come,” and the existing local BSA photographs remain the only delivery evidence. Search-result biographies and repeated promotional wording were not promoted as independent sources.
 
+## Continuation sweep — indexed interviews and recordings
+
+A further exact-name pass tested `Jason Arday interview video`, `Jason Arday podcast`, `Jason Arday lecture recording`, and `site:youtube.com Jason Arday`. Results included Apple Podcasts’ catalogue manifestation of *Full Disclosure with James O’Brien* (already represented by SRC-034/SRC-520), Oxford’s *This is a Low* lecture (SRC-622), the Crick Institute’s 2024 event page (SRC-113), Class Central’s derivative index of the Society for Experimental Biology talk (SRC-109/SRC-190), ABC News’s already-preserved video (SRC-033), and the Portuguese *Revista História Hoje* interview (SRC-216/SRC-480/SRC-1106).
+
+The search also surfaced Amazon Music’s catalogue route for *Talking Matters with Nick Halkes*, already captured as SRC-897 and deduplicated to the full local interview SRC-184. No distinct recording, transcript, caption track, programme, or downloadable binary was recovered from this pass. Search-indexed biographies were treated as propagation evidence rather than independent corroboration.
+
 ## Boundary decision
 
 This closes the targeted media/event query family for the capture date. Reopen only for a concrete recording URL, caption/transcript body, downloadable programme or slide deck, post-event report, or materially changed host page. Do not repeat the four unchanged queries as if they were new evidence.

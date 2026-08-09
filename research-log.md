@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-915 continuation: indexed interview and recording sweep
+
+Discovery: a further exact-name search across interview-video, podcast, lecture-recording, and YouTube-index queries returned Apple’s catalogue page for *Full Disclosure with James O’Brien*, Oxford’s *This is a Low*, the Crick Institute event page, Class Central’s derivative listing for the SEB talk, ABC News, the Portuguese *Revista História Hoje* interview, and Amazon Music’s *Talking Matters* route.
+
+Reconciliation: every material result maps to an existing source or platform manifestation (SRC-034/SRC-520, SRC-622, SRC-113, SRC-109/SRC-190, SRC-033, SRC-216/SRC-480/SRC-1106, and SRC-184/SRC-897). No new binary, transcript, caption track, programme, or post-event artifact was recovered. Search-indexed biographies remain propagation evidence, not independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-1132/C-1392: Shajo Pro propagation witness
 
 Discovery: a fresh childhood/education search surfaced Shajo Pro’s WordPress profile “From Zero to We-Ro -Jason Arday,” by Shakira Dyer, published 30 March 2024 and marked modified 3 July 2025.
