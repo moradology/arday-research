@@ -1,5 +1,7 @@
 # Next actions
 
+Latest full-name/mentor/sports search boundary: exact-name queries combining “Jason Atta Kwei Arday” with Merton College, Sandro Sandri, Battersea Park Rangers, and the Shooting Star tournament returned only canonical institutional, legal, interview, and sports-boundary records. No new club registration, match report, independent snooker result, mentor record, or primary childhood artifact surfaced. People-finder material was excluded as privacy-sensitive and non-probative. Reopen only for a named sporting record, mentor correspondence/record, or distinct primary artifact; do not repeat these queries unchanged.
+
 Latest exact-name subject-output search continuation: 2026 video/interview/podcast, DOI/publication, event-recording, and childhood/sports queries returned only canonical records and the already-logged Reddit football-academy access boundary. No new artifact or independent record was recovered. Reopen only for a changed endpoint or distinct primary/publication/sports artifact; do not repeat the same query families unchanged.
 
 Latest Newcastle participant-witness check: two candidate LinkedIn URLs resolved only to the same byte-identical cache/login shell, with no recoverable post or attachment. No source or claim was created. Reopen only if the participant post becomes directly accessible, is independently archived, or a recording/transcript/participant artifact surfaces; do not repeat these URLs unchanged.

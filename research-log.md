@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — full-name, mentor, and sports-verification search boundary
+
+A distinct exact-name search using “Jason Atta Kwei Arday” and targeted combinations with Merton College, Sandro Sandri, Battersea Park Rangers, and the Shooting Star football tournament was reconciled against the archive. Results resolved to existing canonical records: Cambridge’s current Faculty directory and Regent House material; the Companies House personal-appointments page; the Black Advisory Hub 2026 symposium; St Mary’s *Simmarian* issue 21; Get Further’s patron announcement and annual report; the Merton College profile; ARU’s honorary-degree citation; Guardian and other interview/profile families; and the existing sports-record search boundary. No named club registration, contract, match report, independent snooker result, new mentor record, or distinct primary childhood artifact was recovered. People-finder results were excluded because they add privacy-sensitive household/address material without provenance relevant to the subject ontology.
+
 ## 2026-08-09 — exact-name subject-output search continuation: no new canonical item
 
 A bounded exact-name search across 2026 video/interview/podcast results, 2026 DOI/publication results, event recordings, and childhood/sports wording returned only already-catalogued families: the *Full Disclosure* podcast, BOLD interview, Cambridge Student interview, Belluigi–Arday–O’Keeffe’s *Routes to Intellectual Authority* article, the Lives Retold/Guardian/Twinkl sports-and-childhood chain, and the existing Reddit football-academy access-boundary lead. ORCID’s record for DOI `10.1080/13613324.2024.2398491` maps to the existing scholarly-output record. No new video, audio, publication, independent sports record, or first-party childhood record was recovered. The current search lane is closed until a changed endpoint or distinct artifact appears; repeated biography wording is not counted as corroboration.
