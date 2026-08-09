@@ -1,5 +1,7 @@
 # Media / capture additions
 
+- `SRC-1125`: [Drake self-evaluation audit](sources/2026-08-09-drake-arday-class.md) and [21-page PDF](assets/captures/2026-08-09-drake-arday-class/self-evaluation-report.pdf) recovered from Wayback — additional source-version within existing Drake family `SRC-371–SRC-373`; records the school’s visit/speech wording; live PDF route now 404; no visit photographs, recording, or speech transcript recovered.
+
 - `SRC-1117`: [Youth Unemployment Committee testimony audit](sources/2026-08-09-youth-unemployment-transcript-audit.md) and [official corrected transcript](https://committees.parliament.uk/oralevidence/2482/html/) — question-level record for Q195–Q207; full local PDF/HTML binary remains blocked by Parliament/Cloudflare challenge, with access-state captures preserved.
 
 - `SRC-1116`: [UCL 2018 keynote PDF](assets/documents/ucl-keynote.pdf) and [page-level audit](sources/2026-08-09-ucl-persistence-keynote-audit.md) — 16-page PowerPoint-derived deck for the 10 April 2018 BME Attainment Conference; cited statistics, framework, anonymised reused quotations, and recommendations mapped; distinct from the later UCL deck/video.

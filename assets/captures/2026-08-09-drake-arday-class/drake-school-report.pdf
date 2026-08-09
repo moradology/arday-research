@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en-gb">
+    <head>
+        <title>404 Not Found</title>
+        <meta name="viewport" content="initial-scale=1">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+        <style type="text/css">
+            html,
+            body {
+                margin: 0;
+                padding: 30px 20px 0 20px;
+                text-align: center;
+                color: #281A39;
+                font-family: 'Lato', sans-serif;
+            }
+        
+            main {
+                max-width: 1180px;
+                margin: 0 auto;
+            }
+        
+            h1 {
+                font-weight: 400;
+                font-size: 2em
+            }
+        
+            h2 {
+                font-weight: 300;
+                font-size: 1.7em
+            }
+        
+            a {
+                margin: 50px auto 0;
+                max-width: 500px;
+                font-weight: 700;
+                font-size: 1.5em;
+                padding: 15px;
+                border: 3px solid #281A39;
+                border-radius: 5px;
+                display: block;
+                color: #281A39;
+                text-decoration: none;
+                transition: background .35s, color .35s;
+            }
+        
+            a:hover {
+                background: #281A39;
+                color: #fff;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Not found</h2>
+        <h2>Sorry, we were unable to find the page that you requested.</h2>
+        <a href="/">Return to the home page</a>
+    </body>
+</html>

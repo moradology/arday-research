@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1125/C-1385: Drake Primary self-evaluation source-version audit
+
+The existing Drake class/visit family (`SRC-371–SRC-373`) was extended with a Wayback-recovered 21-page self-evaluation report. After the live attachment route returned HTTP 404, the 28 April 2025 replay was preserved and audited; PDF p. 4 says Arday visited when the class was named, met the children, and delivered an “inspiration speech” to SEND parents. Added only the additional source-version wording as C-1385; the class naming and prior newsletter visit claims were not duplicated. Visit date, speech content, and independent attendance evidence remain unresolved.
+
 ## 2026-08-09 — SRC-1124/C-1384: Cambridge University Reporter election notice audit
 
 The complete 14-page Reporter No 6680 PDF was extracted and visually checked. The audit locates Arday’s formal election notice on PDF page 9/printed page 213, records the exact printed title/credential/effective-date wording and issue metadata, and separates governance evidence from qualification validation and later employment status.

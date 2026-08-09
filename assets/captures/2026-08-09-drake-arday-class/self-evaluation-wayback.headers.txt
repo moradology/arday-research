@@ -1,0 +1,45 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 09 Aug 2026 13:13:00 GMT
+content-type: application/pdf; Charset=UTF-8
+content-length: 266777
+x-archive-orig-cache-control: private
+content-disposition: inline; filename="drake-sef-2023-24-v2.348933656.pdf"
+x-archive-orig-w: OVW3
+x-archive-orig-provider: e4education
+x-archive-orig-x-frame-options: SAMEORIGIN
+x-archive-orig-x-content-type-options: nosniff
+x-archive-orig-content-security-policy: frame-ancestors 'self'
+x-archive-orig-referrer-policy: origin-when-cross-origin
+x-archive-orig-date: Mon, 28 Apr 2025 19:55:11 GMT
+x-archive-orig-content-length: 266777
+x-archive-orig-x-caches: ovc4
+x-archive-orig-age: 0
+x-archive-orig-vary: 
+x-archive-orig-x-cache: M
+x-archive-orig-strict-transport-security: max-age=31536000 ; includeSubDomains
+x-archive-orig-accept-ranges: bytes
+x-archive-orig-connection: close
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Mon, 28 Apr 2025 19:55:31 GMT
+link: <https://www.drake.norfolk.sch.uk/attachments/download.asp?file=65&type=pdf>; rel="original", <https://web.archive.org/web/timemap/link/https://www.drake.norfolk.sch.uk/attachments/download.asp?file=65&type=pdf>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.drake.norfolk.sch.uk/attachments/download.asp?file=65&type=pdf>; rel="timegate"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: SPNOUTLINKS-20250428195130-crawl919/SPNOUTLINKS-20250428195457-00066.warc.gz
+server-timing: captures_list;dur=0.615560, exclusion.robots;dur=0.065079, exclusion.robots.policy;dur=0.053714, esindex;dur=0.008824, cdx.remote;dur=11.574565, LoadShardBlock;dur=114.554930, PetaboxLoader3.datanode;dur=93.336693, PetaboxLoader3.resolve;dur=121.795901, load_resource;dur=188.425966
+x-app-server: wwwb-app219-dc8
+x-ts: 200
+x-tr: 336
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-p-SERVER=wwwb-app219; path=/
+cache-control: private
+x-location: All
+x-as: 14155
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: RURAL-TELEPHONE-SVCCO
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+

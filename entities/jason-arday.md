@@ -88,6 +88,8 @@ The *Ruling Passions* transcript is a key first-person authored-output record: i
 
 The Springfields Academy’s current “Arday Class” page adds a distinct institutional-reception edge: a specialist-school class is named after him and the school describes him as a sociologist, writer, fundraiser, and autistic person. This is a naming/representation record, not independent diagnosis or childhood corroboration. [Springfields record](../sources/2026-08-09-springfields-arday-class.md)
 
+Drake Primary’s existing class/visit family has an additional source-version in a Wayback-recovered 18 November 2023 self-evaluation report. It says Arday visited when the class was named, met the children, and delivered an “inspiration speech” to SEND parents. This records school recognition and a reported visit, not independent verification of his diagnosis, childhood, school history, or the biography used by the school. [Drake self-evaluation audit](../sources/2026-08-09-drake-arday-class.md)
+
 The Crystal Palace official-domain search adds a bounded negative-space edge to the football claim: the current academy-graduate roster contains no Arday entry, and no Arday-specific official club record was found. This does not disprove an older or unindexed youth association. [Crystal Palace search boundary](../sources/2026-08-09-crystal-palace-arday-search.md)
 
 A June 2019 Academic Libraries North biography remains canonical under its recovered `/wp-content/uploads/2025/04/` mirror; the older indexed `/sites/default/files/` route now returns HTTP 404. This is a source-route boundary, not a new biography record. [Academic Libraries North record](../sources/2019-06-20-academic-libraries-north-jason-arday-biography.md)

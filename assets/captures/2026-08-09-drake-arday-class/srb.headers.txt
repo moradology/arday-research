@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Sun, 09 Aug 2026 13:12:04 GMT
+content-type: text/html
+content-length: 103950
+cache-control: private
+content-language: en-gb
+x-cookiemodified: true
+provider: juniperwebsites
+w: web03
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self'
+referrer-policy: origin-when-cross-origin
+accept-ranges: bytes
+vary: 
+age: 13.947
+x-cache: Hit
+strict-transport-security: max-age=31536000 ; includeSubDomains
+x-cache-server: cms-varnish-disk-prd-766877cf49-pgxgq
+
