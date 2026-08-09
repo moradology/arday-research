@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 event_date: 2023-10-25
 published: 2023-10-26
 accessed: 2026-08-06
-status: Cambridge YouTube video, automatic captions, metadata, page, and thumbnail locally preserved; bounded Arday-segment review clip and parent sidecars committed to GitHub
+status: Cambridge YouTube video, automatic captions, metadata, page, and thumbnail locally preserved; bounded Arday-segment review clip and caption audit committed to GitHub
 evidence_class: first-party institutional video / panel discussion
 ---
 
@@ -14,7 +14,7 @@ evidence_class: first-party institutional video / panel discussion
 
 The University of Cambridge hosted “Black Men On The Couch” on 25 October 2023 as a Black History Month event. Lord Simon Woolley, George the Poet, and Professor Jason Arday were in conversation with counsellor Rotimi Akinsete about Black men’s mental health, stigma, and access to support. Cambridge’s event announcement and the University’s YouTube upload are distinct first-party manifestations of the same event.
 
-The Cambridge University YouTube upload is 2:13:48 long, 640×360, and was uploaded on 26 October 2023. It is an event recording, not a childhood or clinical record. The automatic English captions are preserved for navigation, but have not been human-verified and should not be quoted as a checked transcript.
+The Cambridge University YouTube upload is 2:13:48 long, 640×360, and was uploaded on 26 October 2023. It is an event recording, not a childhood or clinical record. The automatic English captions are preserved for navigation, but have not been human-verified and should not be quoted as a checked transcript. A bounded childhood passage is indexed separately under [SRC-1049](2026-08-09-cambridge-black-men-on-couch-caption-audit.md); it remains caption-derived first-person testimony, not independent medical or developmental evidence.
 
 ## Evidence boundary
 
