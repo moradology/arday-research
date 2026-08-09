@@ -1,5 +1,7 @@
 # Work state
 
+Latest media-caption checkpoint: on 2026-08-09 `SRC-276/C-977` rechecked the public YouTube timed-text routes for the RSC Inclusion and Diversity Forum 2025 recording. Both tested language routes returned zero bytes; no transcript was recovered, and the existing 13:24 MP4 remains the canonical local media artifact. Google Drive was not updated; GitHub remains the active publication target.
+
 Latest adjacent-endpoint boundary: on 2026-08-09 `SRC-895/C-976` checked Cambridge appointment/tenure and Faculty “Our People” routes, Jesus College, and Charity Commission results. All resolved to existing records or generic material; no new official process, filing, or role-status artifact was recovered. Google Drive was not updated; GitHub remains the active publication target.
 
 Latest Cambridge availability checkpoint: on 2026-08-09 `SRC-912/C-975` captured the official investigation statement after its canonical URL returned HTTP 200 following the prior 404 state. The 7 August last-updated timestamp and substantive process wording were unchanged; no outcome was published. Google Drive was not updated; GitHub remains the active publication target.

@@ -1,5 +1,11 @@
 # Research log
 
+## 2026-08-09 — SRC-276/C-977: RSC caption-route recheck
+
+Discovery: direct public timed-text requests for the RSC Inclusion and Diversity Forum 2025 YouTube recording (`JbyQlddjUJ8`) returned zero-byte responses for `en` and `en-GB`, matching the previously preserved empty-caption response.
+
+Decision: extend the existing RSC media boundary rather than create a duplicate recording or transcript node. The locally preserved 13:24 MP4 remains available for manual listening/timecoding; no spoken-content claim is upgraded. Google Drive was not updated; GitHub remains the active publication target.
+
 ## 2026-08-09 — SRC-895/C-976: adjacent Cambridge and regulator endpoint sweep
 
 Discovery: exact-name searches across Cambridge appointment/tenure and Jesus College routes, plus Charity Commission results, returned existing canonical process, profile, annual-report, and governance records. The direct Cambridge Faculty “Our People” page-1 body was byte-identical to the 8 August SRC-459 capture and still lacked `Jason Arday` and `jaa80`; only cache headers changed.
