@@ -46,3 +46,11 @@ Decision: extend the existing boundary rather than create duplicate source nodes
 ## Re-entry
 
 Start from this record and `NEXT.md`; do not repeat the same broad queries unchanged. Reopen only with a concrete changed URL, date-specific filing, title/DOI, official process document, or distinct recording/transcript.
+
+## Subject-centred continuation sweep — 2026-08-09
+
+A further exact-name sweep tested four focused families: `"Jason Arday" interview video 2026`, `"Jason Arday" publication 2026 DOI`, `"Jason Arday" childhood football snooker interview`, and `site:youtube.com "Jason Arday"`. The results reconciled to the existing Great Big Story/Open Culture family, Twinkl, Guardian, the Lives Retold transcript, the canonical memoir/edition records, and already-catalogued podcast/video manifestations. No new recording, transcript, image, DOI/title key, or downloadable publication artifact was recovered.
+
+A separate exact-name memoir-proposal sweep tested `"Jason Arday" book proposal`, `"Jason Arday" "unrecoverable" car accident`, `"Jason Arday" "testicular cancer"`, and `"Jason Arday" "locked-in syndrome"`. Results pointed to the already-preserved *Atlantic* and *Daily Mail* reports and public discussion of those reports. The underlying 2024 proposal, a publisher response, and primary medical records remain unrecovered; no new source node or claim was created.
+
+Decision: extend the existing source boundary rather than duplicate propagation pages or catalogue manifestations. Reopen only for a distinct primary interview/recording, a new DOI or publisher/repository file, the proposal itself, a direct author/publisher response, or a materially changed source endpoint.

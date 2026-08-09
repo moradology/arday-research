@@ -1,6 +1,8 @@
 @@
 # Research log
 
+2026-08-09 — Subject-centred discovery continuation: exact-name searches for 2026 interviews/publications, childhood football/snooker material, YouTube recordings, and memoir-proposal terms returned only canonical Great Big Story/Open Culture, Twinkl, Guardian, Lives Retold, memoir-edition, Atlantic, Daily Mail, and existing media records. No new primary artifact, DOI/title key, proposal file, or direct publisher response was recovered; the boundary was extended in `SRC-895` without duplicate nodes.
+
 2026-08-09 — Booktime source-version continuation: the Harbour Bookshop product JSON and cover for the July/August 2026 issue were re-fetched and were byte-identical to the existing 8 August capture (`SRC-522/C-666`). No magazine/PDF/flipbook URL or interview text was exposed. The lead was updated in place; no duplicate source or claim was created.
 
 2026-08-09 — Subject-centred biographical media audit: the locally preserved 4:14 Great Big Story documentary was transcribed with Whisper `small.en` via `mlx-whisper`. Added `SRC-1142/C-1404–C-1407` for bounded navigation of Arday-attributed passages on slow processing, speech therapy, first speech, repetition/snooker, caring teachers, Sandro, PhD ambitions, and Mr Trace. Narration and teacher testimony remain separate; the repeated “Sandra” ASR rendering and other uncertain words are preserved as verification boundaries.
