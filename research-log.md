@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1113/C-1353–C-1356: *The Broken Pipeline* report audit
+
+The complete eight-page September 2019 Leading Routes PDF was extracted with layout preservation and visually checked across the cover, organisational context, roundtable/statistics, barriers/recommendations, follow-up commitments, and bibliography pages. The audit records the four-author identity, closed-roundtable method boundary, external HESA/UKRI statistics, policy recommendations, and planned activities without treating the report as a population study, independent statistical reanalysis, or evidence of implementation.
+
 ## 2026-08-09 — SRC-1112/C-1348–C-1352: *Institutionalised* report and Arday foreword audit
 
 The complete 60-page London Metropolitan University/Centre for Equity and Inclusion report was extracted with layout preservation and visually checked across the cover, contents, forewords, methodology, data-collection, recommendations, and bibliography pages. The audit separates Arday’s page-7 foreword and dated public position from Sofia Akel’s report-level authorship and the disclosed 93-student/13-staff survey design. It records the no-qualitative-interviews limitation and single-institution boundary and does not attribute the report’s empirical findings to Arday.

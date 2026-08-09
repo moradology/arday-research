@@ -15,6 +15,8 @@ urls:
 
 # *The Broken Pipeline*
 
+Page-level audit: [SRC-1113](2026-08-09-broken-pipeline-page-audit.md)
+
 Leading Routes published this 2019 report with Williams, Bath, Arday, and Lewis. It examines barriers facing Black PhD students seeking Research Council funding.
 
 ## Evidence boundary
