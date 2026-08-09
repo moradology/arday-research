@@ -2,6 +2,8 @@
 @@
 # Research log
 
+2026-08-09 — BBC *Moral Maze: Racial Justice* audio audit: sampled the locally preserved 42:56 MP3 in corrected-mono 10-minute windows and located Arday’s contribution at approximately 18:06–25:28. Added `SRC-1151/C-1428–C-1432` for attributed public positions on collective responsibility, curriculum framing, education, institutional racism, and sustained anti-racist work. The JSON is navigation-only; human listening remains required before quotation.
+
 2026-08-09 — BBC *Beyond Lonely* availability recheck: the current “Young and Lonely in the Connected World” page returned HTTP 200 and identified original version `m0029zb9` at 840 seconds. The playable API was byte-identical to the 6 August capture, while the canonical media-selector request returned HTTP 410. Added `SRC-1150/C-1427` as an unchanged-content/access-state record; no duplicate snooker claim, audio file, transcript, or media node was created.
 
 2026-08-09 — Ruling Passions source-version continuation: the current WordPress Episode 2 page returned HTTP 200 and a byte-distinct HTML response, but Pandoc-normalized text was byte-identical to the canonical transcript capture. The migrated `.com` route did not respond within the bounded direct-fetch window. Added `SRC-1145/C-1414` as an unchanged-content/access-state record; no duplicate interview, claim, or full-audio file was created.

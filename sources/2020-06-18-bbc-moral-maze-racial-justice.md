@@ -4,7 +4,7 @@ type: Source
 title: "Moral Maze: Racial Justice"
 date: 2020-06-18
 accessed: 2026-08-06
-status: verified / audio and page locally preserved
+status: verified / audio and page locally preserved / bounded Arday segment audit
 source_kind: broadcast radio
 entities:
   - ../entities/jason-arday.md
@@ -30,4 +30,4 @@ The BBC Programme Index and independent episode listings identify Jason Arday as
 - [Local MP3](../assets/audio/bbc-moral-maze-racial-justice.mp3)
 - [Capture metadata and checksums](../assets/metadata/bbc-moral-maze-capture-2026-08-06.md)
 
-The MP3 is a broadcast asset, not a transcript or independent corroboration of biographical claims.
+The MP3 is a broadcast asset, not a transcript or independent corroboration of biographical claims. A bounded audit now locates and separates Arday’s contribution on collective responsibility, curriculum framing, education, institutional racism, and sustained anti-racist work; see [SRC-1151](2026-08-09-bbc-moral-maze-audio-audit.md). The derivative remains navigation-only and does not replace human listening.
