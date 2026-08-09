@@ -72,6 +72,14 @@ The surrounding 30:00–35:00 material alternates with host testimony. Only the 
 
 The remainder of the window continues the panel’s discussion of policing and youth culture; speaker turns remain mixed.
 
+## Extended window: 40:00–45:00
+
+- **40:00–41:18** — Arday argues that authorities should engage youth cultures and lived experience rather than police Black young people through assumptions that they are going to cause trouble. He uses football grounds as an example of how racist conduct by white fans is not treated through the same generalized policing lens.
+- **41:32–42:15** — Arday recounts his father’s experiences as an Arsenal supporter in the 1980s, including racist abuse while watching John Barnes. The details are family-mediated memory, not an independently documented match incident.
+- **42:16–44:02** — Arday links contemporary “bad choices” narratives to the treatment of Stephen Lawrence and to a neoliberal emphasis on individual responsibility. He argues that institutions and society evade responsibility when racialized outcomes are explained solely through individual choices. This is public analysis, not an independent causal finding.
+
+The final portion of the interval returns to host discussion of political correctness and free speech; it is not added to Arday’s record.
+
 ## Method and limits
 
 - Input: `assets/audio/surviving-society-e031-jason-arday-2019.m4a`, SHA-256 `1f527e382afb9743966774e0edb7db944a6c179d200d3045d3c092781405a355`.
