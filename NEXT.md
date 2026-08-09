@@ -2,6 +2,8 @@
 @@
 # Next actions
 
+Current subject-centred handoff: the archive has now mapped the main childhood, sports, media, authored-output, and research-integrity evidence families. Continue from Arday-specific gaps rather than broad exact-name discovery: direct memoir/full-text access, named school/club/sport records, first-party institutional outcomes, version comparisons for disputed publications, and human verification of high-value audio/video passages. Attach each new item to an existing lane in `entities/jason-arday.md`, deduplicate before adding claims, and preserve negative or access-boundary results. Do not treat the density of repeated biography, public prominence, library ordering, or institutional reception as independent corroboration.
+
 Fresh subject-centred ABC video checkpoint: `SRC-1155/C-044/C-1450–C-1451` — the preserved 2:46 ABC profile now has corrected-mono Whisper navigation for the repeated first-word passage, Arday’s three ambitions written at 27, and his aspiration for ordinary Black-professor representation. Do not repeat the ABC page/media search; reopen only for human listening, a public caption track, a materially changed video, or a distinct related interview artifact.
 
 Fresh subject-centred *How Do You Cope?* checkpoint: `SRC-1154/C-1441–C-1446` — the preserved 21:13.29 *Gratitude List* bonus MP3 now has corrected-mono Whisper navigation for Arday’s poverty/household-gratitude account, maternal support and age-eight apple recollection, self-conception, community support, and music/language account. Do not repeat the Apple/Tapesearch search; reopen only for human listening, a complete lawful transcript, a materially changed audio file, or a distinct source.

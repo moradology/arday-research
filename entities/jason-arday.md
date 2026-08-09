@@ -18,6 +18,18 @@ The live research question is not whether a single label such as “fraud” can
 
 The current record therefore supports several distinct edges rather than one totalizing conclusion: a documented public career and body of work; reproducible textual relationships in bounded primary-text comparisons; journal corrections and reported institutional reviews; unresolved questions about research practice, supervision, biography, and public claims; and an active hypothesis space around credibility and intent. The entity does not convert those edges into a diagnosis, legal conclusion, or final misconduct finding. See the [credibility controversy entity](arday-credibility-controversy.md) and [adversarial hypotheses](../adversarial-hypotheses.md).
 
+## Subject-centred research lanes
+
+Keep the archive organised around Arday as a person, with each lane retaining its own evidence standard:
+
+- **Life history:** childhood, speech, literacy, schooling, family, poverty, disability, and the memoir are primarily self-report or repeated biography; seek direct text, recordings, or named institutional records before upgrading them.
+- **Sport and education:** football, snooker, school, Merton, St Mary’s, and doctoral milestones have partial contemporaneous trails; distinguish participation from professional status, and institutional biography from registrar or club records.
+- **Authored output:** preserve the work itself, its version history, methods, cited evidence, corrections, and evaluation boundaries; do not treat publication, prestige, or appointment as proof of validity.
+- **Integrity and credibility:** keep textual comparisons, corrections, responses, institutional process, and moral characterizations as separate entities and claims; intent and legal conclusions remain open unless a competent finding establishes them.
+- **Public roles and reception:** record appointments, governance, speaking, media, awards, school naming, and library distribution as dated relationships; none independently validates the whole biography.
+
+This is the working subject map. New work should attach to an existing lane and claim where possible, record a changed source state, and only create a new node for a genuinely distinct artifact or relationship.
+
 ## Known affiliations and roles
 
 - The Autism Research Centre’s Autistic VOICES project page lists Arday as a Steering Committee member for a study of autistic university students’ support needs; the page and public study documents are preserved as a dated research-role source-version. [Autistic VOICES record](../sources/2026-03-11-autistic-voices-study-arday.md)
