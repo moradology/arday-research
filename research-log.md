@@ -1,5 +1,9 @@
 # Research log
 
+## 2026-08-09 — SRC-1051/C-1084–C-1087: St Mary’s address family/mentor caption audit
+
+The locally preserved 26 July 2024 St Mary’s honorary-doctorate address was checked against its automatic English SRT. The captions attribute to Arday a first visit to St Mary’s at 15 during a school-arranged sports day, a major age-18 intervention from a person rendered as “Andrew Sandry,” parents named Gifty and Joseph Addai, and a memory of his mother reading *Invictus* daily until age 18. The mentor name conflicts with the Sandro Sandri rendering in other institutional and interview records; it is preserved as a source-version discrepancy rather than normalized. The claims remain ceremonial first-person testimony and the captions remain unverified against the waveform.
+
 ## 2026-08-09 — SRC-1050/C-1080–C-1083: Diversity Seminar childhood-caption audit
 
 The locally preserved 4 February 2025 Diversity Seminar interview was checked against its automatic English SRT for the 05:10–08:55 personal-story passage. Arday gives the “3, 11, 18 and 37” sequence, describes diagnosis/global developmental delay, speech and literacy timing, credits his mother and college tutor Sandro Sandri, and gives a dated Glasgow-at-35/Cambridge-at-37 professorship chronology. The passage is a distinct first-person source-version that materially links the recurring childhood narrative to his own interpretation of observation, learning, and mentorship. Captions contain recognition errors and remain unverified against the waveform; no clinical, school, or appointment claim is independently upgraded. The source is deduplicated to SRC-241.

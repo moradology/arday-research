@@ -6,7 +6,7 @@ subject: ../entities/jason-arday.md
 published: 2025-02-21
 modified: 2026-04-14
 accessed: 2026-08-06
-status: first-party alumni profile and linked YouTube address locally preserved
+status: first-party alumni profile and linked YouTube address locally preserved; bounded family/mentor caption audit added
 evidence_class: institutional alumni profile; first-person honorary-doctorate address; automatic caption derivative
 urls:
   - https://madeat.stmarys.ac.uk/stories/jason-arday/
@@ -17,7 +17,7 @@ urls:
 
 St Mary’s University’s *Made at St Mary’s* profile identifies Jason Arday as an alumnus and links a video of his honorary-doctorate address. The page was published 21 February 2025 and its structured metadata records a 14 April 2026 modification. It states that he studied Education Studies and Physical Education at St Mary’s from 2005, graduated in 2008, later completed a master’s there, was elected Athletics President, and played on the men’s football first team in the BUCS Premier League. It also identifies the 2024 honorary doctorate and names Angela Simmons, Michael Cobden, and Sue Whitham as important St Mary’s relationships.
 
-The linked St Mary’s YouTube video, uploaded 26 July 2024, is an 11:15 recording titled “Prof Jason Arday’s Honorary Doctorate Address.” Local automatic-caption navigation records a first-person account of first visiting St Mary’s at age 15 for a school-arranged off-site sports day (`00:01:10–00:01:24`), later receiving intensive support at age 18 (`00:04:49–00:05:10`), and thanking his parents (`00:05:09–00:05:24`). The captions contain overlap and recognition errors; verify names and wording against the MP4 before quotation. In particular, the captions render mentor names inconsistently and are not a verbatim transcript.
+The linked St Mary’s YouTube video, uploaded 26 July 2024, is an 11:15 recording titled “Prof Jason Arday’s Honorary Doctorate Address.” Local automatic-caption navigation records a first-person account of first visiting St Mary’s at age 15 for a school-arranged off-site sports day (`00:01:10–00:01:24`), later receiving intensive support at age 18 (`00:04:49–00:05:10`), and thanking his parents (`00:05:09–00:05:24`). The captions contain overlap and recognition errors; verify names and wording against the MP4 before quotation. In particular, the captions render mentor names inconsistently and are not a verbatim transcript. A bounded family/mentor audit is preserved under [SRC-1051](2026-08-09-st-marys-address-caption-audit.md).
 
 The profile’s education, sports, fundraising, and relationship statements are host-published biography, not independent school, examination, sports, financial, or family records. The video is a first-person ceremonial address, not independent corroboration.
 
