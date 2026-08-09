@@ -1,5 +1,7 @@
 # Next actions
 
+Fresh StoryGraph access-boundary checkpoint: `SRC-937/C-1003` — a second 9 August direct request returned a byte-distinct HTTP 403 Cloudflare challenge while indexing continued to report 12 reviews. No review body or media was recovered; this is deduplicated to `SRC-918`. Reopen only for lawful review text, a materially changed page, or a distinct edition/reception artifact; do not repeat the same route unchanged.
+
 Fresh secondary-source lineage checkpoint: `SRC-936/C-1002` — *The Week*’s 7 August 2026 roundup attributes its account to five named publications and adds no independent adjudication. Follow each material proposition to the named source or primary record; reopen only for a cited source not already represented, a correction, or a changed article.
 
 Fresh deduplication checkpoint: the apparent remaining `plag1` row (Arday pp. 352–353 / Zwozdiak-Myers pp. 272–273) was reconciled to canonical `SRC-487`; no new source or claim was created. The current mapped `plag1` inventory remains closed; continue only with a changed dossier, distinct comparator, or institutional/adjudicative record.

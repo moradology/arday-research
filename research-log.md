@@ -1,5 +1,10 @@
 # Research log
 
+## 2026-08-09 — SRC-937/C-1003: second StoryGraph access recheck
+
+Discovery: a second direct request to the canonical StoryGraph review route returned HTTP 403 with a Cloudflare challenge at 03:19:54 UTC. The challenge is byte-distinct from `SRC-918`; public indexing continued to report 12 reviews and snippets, but no review body, image, audio, or book file was recovered.
+
+Decision: register `SRC-937` as a changed source-version/access boundary deduplicated to the StoryGraph reception record. Do not count the indexed review count or snippets as independent corroboration. Google Drive was not updated; GitHub remains the active publication target.
 ## 2026-08-09 — SRC-936/C-1002: *The Week* controversy roundup
 
 Discovery: *The Week UK* published a public article dated 7 August 2026 summarizing the Arday/Cambridge controversy. Its text explicitly attributes material to Gordon Rayner (*Daily Telegraph*), Jennifer Schuessler and Alexandra Alter (*New York Times*), Guy Adams (*Daily Mail*), Daniella Maison (*Independent*), and Lanre Bakare (*Guardian*). The article and its credited lead image were locally preserved.
