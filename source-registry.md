@@ -1,4 +1,7 @@
+@@
 # Source registry
+
+| SRC-1150 | `sources/2026-08-09-bbc-beyond-lonely-availability-audit.md` | Current BBC programme page and playable API rechecked; canonical original version and duration exposed, playable JSON byte-identical to the prior capture, and media-selector request returned HTTP 410; no audio, captions, or transcript recovered | first-party BBC programme metadata / availability source-version / unchanged-content boundary | 2026-08-09 | BBC Radio 4, Beyond Lonely, Jason Arday, snooker, loneliness, adolescence, media selector, HTTP 410, source version, no audio, no transcript |
 
 | SRC-1149 | `sources/2026-08-09-surviving-society-social-science-audio-audit.md` | Bounded Whisper `small.en` audit of the 2024 Surviving Society MP3; maps Arday-attributed public positions on academic-writing surveillance, agency, publishing access for Black academics, and accessible scholarship; multi-speaker ASR requires human verification | first-party podcast audio / public-position source-version / machine-assisted navigation / local MP3 and JSON derivative | 2026-08-09 | Surviving Society, Social Science for Social Justice, Jason Arday, academic publishing, agency, lived experience, Black academics, accessibility, scholarship, ASR, human verification pending |
 

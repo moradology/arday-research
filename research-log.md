@@ -1,5 +1,8 @@
 @@
+@@
 # Research log
+
+2026-08-09 — BBC *Beyond Lonely* availability recheck: the current “Young and Lonely in the Connected World” page returned HTTP 200 and identified original version `m0029zb9` at 840 seconds. The playable API was byte-identical to the 6 August capture, while the canonical media-selector request returned HTTP 410. Added `SRC-1150/C-1427` as an unchanged-content/access-state record; no duplicate snooker claim, audio file, transcript, or media node was created.
 
 2026-08-09 — Ruling Passions source-version continuation: the current WordPress Episode 2 page returned HTTP 200 and a byte-distinct HTML response, but Pandoc-normalized text was byte-identical to the canonical transcript capture. The migrated `.com` route did not respond within the bounded direct-fetch window. Added `SRC-1145/C-1414` as an unchanged-content/access-state record; no duplicate interview, claim, or full-audio file was created.
 

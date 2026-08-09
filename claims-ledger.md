@@ -1,4 +1,7 @@
+@@
 # Claims ledger
+
+| C-1427 | On 9 August 2026, the BBC’s current *Beyond Lonely* programme page for “Young and Lonely in the Connected World” returned live metadata identifying canonical version `m0029zb9` and an 840-second duration; the playable JSON was byte-identical to the 6 August capture, while the canonical media-selector request returned HTTP 410. | verified first-party availability/source-version observation | [BBC availability audit](sources/2026-08-09-bbc-beyond-lonely-availability-audit.md) | This records media topology and access state only. It does not add independent support for the childhood, snooker, loneliness, autism, speech, or literacy narratives in the programme synopsis. |
 
 | C-1404 | In the Great Big Story documentary, Arday appears to describe his processing as very slow and reports receiving four or five hours of speech therapy daily from age three. | first-person documentary testimony located by ASR; not human-verified and not independently corroborated by clinical/treatment records | [Great Big Story audio audit](sources/2026-08-09-great-big-story-arday-audio-audit.md) | The film’s narrator and other witnesses are kept separate; the Whisper derivative is navigation, not a quotation source. |
 

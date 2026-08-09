@@ -1,5 +1,8 @@
 @@
+@@
 # Next actions
+
+Fresh *Beyond Lonely* availability checkpoint: `SRC-1150/C-1427` — the current BBC episode page and playable API remain live, but the API is byte-identical to the 6 August capture and the canonical media-selector request returns HTTP 410. No audio, captions, or transcript was recovered; the teenager/snooker synopsis remains under `SRC-063/C-077`. Reopen only for a changed BBC media route, lawful recording, first-party transcript/caption file, or distinct episode artifact.
 
 Fresh Ruling Passions source-version checkpoint: `SRC-1145/C-1414` — the WordPress Episode 2 page is still publicly available; raw HTML changed but normalized transcript text is byte-identical to the canonical capture. The migrated `.com` route did not respond in the bounded fetch window and full audio remains unresolved. Reopen only for a lawful full recording, corrected/new transcript, changed Padlet attachment, or materially changed project page; do not repeat the same fetch unchanged.
 
